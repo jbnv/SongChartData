@@ -1,3 +1,5 @@
+var e = require("../entitylib");
+
 function Genre(yargs) {
   if (!yargs) return; // no yargs means just instantiate the function.
 

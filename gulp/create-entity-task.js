@@ -1,4 +1,5 @@
 var path        = require("path"),
+    util        = require("gulp-util"),
     yargs       = require('yargs');
 
     meta        = require('../app/meta');
@@ -12,6 +13,7 @@ module.exports = function(gulp,model) {
     var instance = new model(yargs);
     var destinationDirectory = path.join(meta.rawRoot,spec.typeSlug);
     create(instance.instanceSlug,destinationDirectory,instance);
+    util.log(instance.instanceSlug,instance);
   }, {
     options: spec.parameters
   }); // 'assemble'
