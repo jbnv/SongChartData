@@ -20,12 +20,33 @@ app.get("/genres", function(req, res) {
   res.send(dir2obj("raw/genre"));
 });
 
+app.get(/^\/genre\/(.+)$/, function(req, res) {
+  var slug = req.params[0];
+  var filepath = path.join("raw/genre", slug+".json");
+  var content = JSON.parse(fs.readFileSync(filepath));
+  res.send(content);
+});
+
 app.get("/sources", function(req, res) {
   res.send(dir2obj("raw/source"));
 });
 
+app.get(/^\/source\/(.+)$/, function(req, res) {
+  var slug = req.params[0];
+  var filepath = path.join("raw/source", slug+".json");
+  var content = JSON.parse(fs.readFileSync(filepath));
+  res.send(content);
+});
+
 app.get("/artists", function(req, res) {
   res.send(dir2obj("raw/artist"));
+});
+
+app.get(/^\/artist\/(.+)$/, function(req, res) {
+  var slug = req.params[0];
+  var filepath = path.join("raw/artist", slug+".json");
+  var content = JSON.parse(fs.readFileSync(filepath));
+  res.send(content);
 });
 
 app.get("/songs", function(req, res) {
