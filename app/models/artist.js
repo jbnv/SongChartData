@@ -6,6 +6,7 @@ function Artist(yargs) {
   var e = require("../entitylib")(this,argv);
   e.array_argument("genres","g");
   e.array_argument("members","m");
+  e.array_argument("xref","x");
   e.boolean_argument("complete","c");
   this.origin = argv.o || "";
   this.birth = argv.birth || "";
@@ -35,7 +36,8 @@ Artist.prototype.parameters = {
   "m":"A member of the act.",
   "o":"Origin.",
   "s":"Slug. (Req)",
-  "t":"Name of the breed. (Req)"
+  "t":"Name of the artist. (Req)",
+  "tags":"Tags. (Opt.)"
 }
 
 module.exports = Artist;
