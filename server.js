@@ -1,7 +1,10 @@
 var app  = require("express")();
+    cors = require('cors'),
     fs   = require('fs'),
     http = require('http'),
     path = require('path');
+
+app.use(cors()); // Enable all CORS requests.
 
 function dir2obj(dir) {
   content = {};
