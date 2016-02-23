@@ -1,4 +1,6 @@
-var path        = require("path"),
+var fs          = require("fs"),
+    path        = require("path"),
+    q           = require("q"),
     util        = require("gulp-util"),
     yargs       = require('yargs');
 
@@ -34,6 +36,52 @@ module.exports = function(gulp,model) {
     // var destinationDirectory = path.join(meta.rawRoot,spec.typeSlug);
     // create(instance.instanceSlug,destinationDirectory,instance);
     // util.log(instance.instanceSlug,instance);
+  });
+
+  var readdir = function(dir) {
+    var deferred = q.defer();
+    fs.readdir(dir, function (err, data) {
+      if (err) {deferred.reject(err)}
+      else { deferred.resolve(data) }
+    });
+    return deferred.promise;
+  };
+
+  function readFile(dir) {
+    return function(filename) {
+      var deferred = q.defer();
+      fs.readFile(path.join(dir,filename), 'utf-8', function (err, data) {
+        if (err) {deferred.reject(err)}
+        else { deferred.resolve(data) }
+      });
+      return deferred.promise;
+    };
+  };
+
+  gulp.task("compile-"+spec.typeSlug, "Compile "+spec.typeNoun+" entities.", function() {
+
+    var source_directory = path.join(meta.rawRoot,spec.typeSlug);
+    var destination_directory = path.join(meta.compiledRoot);
+    util.log("compile-"+spec.typeSlug+": /raw/"+spec.typeSlug+" -> /compiled");
+
+    readdir(source_directory)
+    .then(function (filenames) {
+      util.log(""+filenames.length+" files");
+      var promises = filenames.map(readFile(source_directory));
+      return q.all(promises);
+    })
+    .then(function(entityFileTexts) {
+      var entities = entityFileTexts.map(JSON.parse);
+      var compiled_content_as_object = spec.compile(null,entities);
+      for (var key in compiled_content_as_object) {
+        var contentSlug = spec.typeSlug+"-"+key;
+        var content = compiled_content_as_object[key];
+        create(contentSlug,destination_directory,content);
+      }
+    })
+    .catch(function (error) {
+      util.log("ERROR:",error);
+    })
   });
 
 };

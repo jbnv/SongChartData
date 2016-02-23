@@ -10,9 +10,12 @@ function folders(dir) {
 };
 
 var root = "/home/jay/github/SongChartsData";
+// root needs to be smarter! needs to determine the directory in which the application resides!
 var rawRoot = root+"/raw";
+var compiledRoot = root+"/compiled";
 
 module.exports = {
     root: root,
     rawRoot: rawRoot,
+    compiledRoot: compiledRoot,
 }
