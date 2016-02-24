@@ -1,4 +1,5 @@
-var fs          = require("fs"),
+var chalk       = require("chalk"),
+    fs          = require("fs"),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
@@ -61,12 +62,12 @@ module.exports = function(gulp,model) {
   gulp.task("compile-"+spec.typeSlug, "Compile "+spec.typeNoun+" entities.", function() {
 
     var source_directory = path.join(meta.rawRoot,spec.typeSlug);
-    var destination_directory = path.join(meta.compiledRoot);
-    util.log("compile-"+spec.typeSlug+": /raw/"+spec.typeSlug+" -> /compiled");
+    var destination_directory = path.join(meta.compiledRoot,spec.typeSlug);
+    util.log("compile-"+spec.typeSlug+": /raw/"+spec.typeSlug+" -> /compiled/"+spec.typeSlug);
 
     readdir(source_directory)
     .then(function (filenames) {
-      util.log(""+filenames.length+" files");
+      util.log("Read "+filenames.length+" files.");
       var promises = filenames.map(readFile(source_directory));
       return q.all(promises);
     })
@@ -74,9 +75,10 @@ module.exports = function(gulp,model) {
       var entities = entityFileTexts.map(JSON.parse);
       var compiled_content_as_object = spec.compile(null,entities);
       for (var key in compiled_content_as_object) {
-        var contentSlug = spec.typeSlug+"-"+key;
+        var contentSlug = key;
         var content = compiled_content_as_object[key];
         create(contentSlug,destination_directory,content);
+        util.log("->",chalk.green(path.join(spec.typeSlug,key)));
       }
     })
     .catch(function (error) {
