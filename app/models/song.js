@@ -48,4 +48,16 @@ Song.prototype.parameters = {
   "t":"Name of the breed. (Req)"
 }
 
+// entities: array of entities of the type
+Song.prototype.compile = function(yargs,entities) {
+  titles = {};
+  entities.forEach(function(entity) {
+    titles[entity.instanceSlug] = entity.title;
+  });
+  return {
+    "all": entities,
+    "titles": titles,
+  }
+}
+
 module.exports = Song;
