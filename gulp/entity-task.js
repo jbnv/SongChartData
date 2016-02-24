@@ -6,7 +6,7 @@ var chalk       = require("chalk"),
     yargs       = require('yargs');
 
     meta        = require('../app/meta');
-    create      = require('../app/entity');
+    entity      = require('../app/entity');
 
 module.exports = function(gulp,model) {
 
@@ -14,9 +14,9 @@ module.exports = function(gulp,model) {
 
   gulp.task("create-"+spec.typeSlug, "Create a new "+spec.typeNoun+" entity.", function() {
     var instance = new model(yargs);
-    var destinationDirectory = path.join(meta.rawRoot,spec.typeSlug);
-    create(instance.instanceSlug,destinationDirectory,instance);
-    util.log(instance.instanceSlug,instance);
+    var route = meta.rawRoute(spec.typeSlug,instance.instanceSlug);
+    entity(route,instance);
+    util.log(chalk.green(route),instance);
   }, {
     options: spec.parameters
   });
@@ -75,10 +75,10 @@ module.exports = function(gulp,model) {
       var entities = entityFileTexts.map(JSON.parse);
       var compiled_content_as_object = require("../app/compilers/compile-"+spec.typeSlug)(null,entities);
       for (var key in compiled_content_as_object) {
-        var contentSlug = key;
+        var route = meta.compiledRoute(spec.typeSlug,key);
         var content = compiled_content_as_object[key];
-        create(contentSlug,destination_directory,content);
-        util.log("->",chalk.green(path.join(spec.typeSlug,key)));
+        entity(route,content);
+        util.log(chalk.green(route));
       }
     })
     .catch(function (error) {
