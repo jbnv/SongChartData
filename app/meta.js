@@ -18,4 +18,7 @@ module.exports = {
     root: root,
     rawRoot: rawRoot,
     compiledRoot: compiledRoot,
+    rawRoute: function(typeSlug,instanceSlug) { return path.join("raw",typeSlug,instanceSlug); },
+    compiledRoute: function(typeSlug,instanceSlug) { return path.join("compiled",typeSlug,instanceSlug); },
+    chartRoute: function(typeSlug,instanceSlug) { return path.join("compiled",typeSlug,"charts",instanceSlug); },
 }
