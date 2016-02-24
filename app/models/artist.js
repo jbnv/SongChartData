@@ -40,16 +40,4 @@ Artist.prototype.parameters = {
   "tags":"Tags. (Opt.)"
 }
 
-// entities: array of entities of the type
-Artist.prototype.compile = function(yargs,entities) {
-  titles = {};
-  entities.forEach(function(entity) {
-    titles[entity.instanceSlug] = entity.title;
-  });
-  return {
-    "all": entities,
-    "titles": titles,
-  }
-}
-
 module.exports = Artist;

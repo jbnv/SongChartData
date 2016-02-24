@@ -73,7 +73,7 @@ module.exports = function(gulp,model) {
     })
     .then(function(entityFileTexts) {
       var entities = entityFileTexts.map(JSON.parse);
-      var compiled_content_as_object = spec.compile(null,entities);
+      var compiled_content_as_object = require("../app/compilers/compile-"+spec.typeSlug)(null,entities);
       for (var key in compiled_content_as_object) {
         var contentSlug = key;
         var content = compiled_content_as_object[key];
