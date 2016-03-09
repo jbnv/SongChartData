@@ -40,6 +40,19 @@ app.get(/^\/genre\/(.+)$/, function(req, res) {
   res.send(content);
 });
 
+app.get("/locations", function(req, res) {
+  console.log("/locations");
+  res.send(dir2obj("raw/geo"));
+});
+
+app.get(/^\/location\/(.+)$/, function(req, res) {
+  console.log("/location",req.params[0]);
+  var slug = req.params[0];
+  var filepath = path.join("raw/geo", slug+".json");
+  var content = JSON.parse(fs.readFileSync(filepath));
+  res.send(content);
+});
+
 app.get("/sources", function(req, res) {
   console.log("/sources");
   res.send(dir2obj("raw/source"));
