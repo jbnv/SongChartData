@@ -19,11 +19,21 @@ function dir2obj(dir) {
   return content;
 }
 
+app.get(/^\/search\/(.+)$/, function(req, res) {
+  console.log("/search",req.params[0]);
+  // var slug = req.params[0];
+  // var filepath = path.join("xxx", slug+".json");
+  // var content = JSON.parse(fs.readFileSync(filepath));
+  // res.send(content);
+});
+
 app.get("/genres", function(req, res) {
+  console.log("/genres");
   res.send(dir2obj("raw/genre"));
 });
 
 app.get(/^\/genre\/(.+)$/, function(req, res) {
+  console.log("/genre",req.params[0]);
   var slug = req.params[0];
   var filepath = path.join("raw/genre", slug+".json");
   var content = JSON.parse(fs.readFileSync(filepath));
@@ -31,10 +41,12 @@ app.get(/^\/genre\/(.+)$/, function(req, res) {
 });
 
 app.get("/sources", function(req, res) {
+  console.log("/sources");
   res.send(dir2obj("raw/source"));
 });
 
 app.get(/^\/source\/(.+)$/, function(req, res) {
+  console.log("/source",req.params[0]);
   var slug = req.params[0];
   var filepath = path.join("raw/source", slug+".json");
   var content = JSON.parse(fs.readFileSync(filepath));
@@ -42,10 +54,12 @@ app.get(/^\/source\/(.+)$/, function(req, res) {
 });
 
 app.get("/artists", function(req, res) {
+  console.log("/artists");
   res.send(dir2obj("raw/artist"));
 });
 
 app.get(/^\/artist\/(.+)$/, function(req, res) {
+  console.log("/artist",req.params[0]);
   var slug = req.params[0];
   var filepath = path.join("raw/artist", slug+".json");
   var content = JSON.parse(fs.readFileSync(filepath));
@@ -53,7 +67,16 @@ app.get(/^\/artist\/(.+)$/, function(req, res) {
 });
 
 app.get("/songs", function(req, res) {
+  console.log("/songs");
   res.send(dir2obj("raw/song"));
+});
+
+app.get(/^\/song\/(.+)$/, function(req, res) {
+  console.log("/song",req.params[0]);
+  var slug = req.params[0];
+  var filepath = path.join("raw/song", slug+".json");
+  var content = JSON.parse(fs.readFileSync(filepath));
+  res.send(content);
 });
 
 var port = process.env.PORT || 9702;
