@@ -1,0 +1,12 @@
+{
+  "name": "song-charts-data",
+  "version": "1.0.0",
+  "description": "Data for the SongCharts program.",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
+}
