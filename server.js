@@ -86,6 +86,27 @@ app.get(/^\/genre\/(.+)$/, function(req, res) {
   res.send(_genre(slug,true));
 });
 
+function _locations(options) { return _compiledCollection("geo",options); }
+
+app.get("/locations", function(req, res) {
+  console.log("/locations");
+  res.send(_locations());
+});
+
+function _location(slug,expand) {
+
+    var outbound = _rawObject("geo",slug);
+
+    if (expand) {
+    }
+
+    return outbound;
+}
+
+app.get(/^\/location\/(.+)$/, function(req, res) {
+  console.log("/location",req.params[0]);
+  var slug = req.params[0];
+  res.send(_location(slug));
 });
 
 app.get("/sources", function(req, res) {
