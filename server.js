@@ -4,6 +4,8 @@ var app  = require("express")();
     http = require('http'),
     path = require('path');
 
+require("./app/polyfill");
+
 app.use(cors()); // Enable all CORS requests.
 
 function dir2obj(dir) {
@@ -28,6 +30,28 @@ function _compiledObject(type,specifier) {
   var filepath = path.join("compiled",type,specifier+".json");
   return JSON.parse(fs.readFileSync(filepath));
 }
+
+
+function _compiledCollection(type,options) {
+  if (!options) options = {};
+  var content = _compiledObject(type,"all");
+  if (options.filter) {
+    content = content.filter(options.filter);
+  }
+  return content;
+}
+
+//region Filters.
+
+function _withGenre(genre) {
+  return function(item) {
+    if (!item) return null;
+    if (!item.genres) return null;
+    return item.genres.includes(genre);
+  };
+}
+
+//region Routes.
 
 app.get(/^\/search\/(.+)$/, function(req, res) {
   console.log("/search",req.params[0]);
