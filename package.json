@@ -3,10 +3,21 @@
   "version": "1.0.0",
   "description": "Data for the SongCharts program.",
   "dependencies": {
+    "chalk": "^1.1.1",
     "cors": "^2.7.1",
     "express": "^4.13.4",
     "fs": "0.0.2",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-help": "^1.6.1",
+    "gulp-insert": "*",
+    "gulp-remarkable": "*",
+    "gulp-rename": "*",
+    "gulp-replace": "*",
+    "gulp-util": "*",
     "http": "0.0.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "q": "^1.4.1",
+    "yargs": "^4.2.0"
   }
 }
