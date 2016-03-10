@@ -122,17 +122,30 @@ app.get(/^\/source\/(.+)$/, function(req, res) {
   res.send(content);
 });
 
+function _artists(options) { return _compiledCollection("artist",options); }
+
 app.get("/artists", function(req, res) {
   console.log("/artists");
-  res.send(dir2obj("raw/artist"));
+  res.send(_artists());
 });
 
+function _artist(slug,expand) {
+
+    var outbound = _rawObject("artist",slug);
+
+    if (expand) {
+      outbound.genres = outbound.genres.map(_genre);
+      outbound.origin = _location(outbound.origin);
+    }
+
+    return outbound;
+}
+
 app.get(/^\/artist\/(.+)$/, function(req, res) {
+
   console.log("/artist",req.params[0]);
   var slug = req.params[0];
-  var filepath = path.join("raw/artist", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
+  res.send(_artist(slug,true));
 });
 
 app.get("/songs", function(req, res) {
