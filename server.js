@@ -22,11 +22,15 @@ function dir2obj(dir) {
 }
 
 function _rawObject(type,specifier) {
+  if (!type) return null;
+  if (!specifier) return null;
   var filepath = path.join("raw",type,specifier+".json");
   return JSON.parse(fs.readFileSync(filepath));
 }
 
 function _compiledObject(type,specifier) {
+  if (!type) return null;
+  if (!specifier) return null;
   var filepath = path.join("compiled",type,specifier+".json");
   return JSON.parse(fs.readFileSync(filepath));
 }
@@ -69,6 +73,7 @@ app.get("/genres", function(req, res) {
 });
 
 function _genre(slug,expand) {
+  if (!slug) return null;
 
   var outbound = _rawObject("genre",slug);
 
@@ -94,6 +99,7 @@ app.get("/locations", function(req, res) {
 });
 
 function _location(slug,expand) {
+    if (!slug) return null;
 
     var outbound = _rawObject("geo",slug);
 
