@@ -115,17 +115,28 @@ app.get(/^\/location\/(.+)$/, function(req, res) {
   res.send(_location(slug));
 });
 
+function _sources(options) { return _compiledCollection("source",options); }
+
 app.get("/sources", function(req, res) {
   console.log("/sources");
-  res.send(dir2obj("raw/source"));
+  res.send(_sources());
 });
+
+function _source(slug,expand) {
+    if (!slug) return null;
+
+    var outbound = _rawObject("source",slug);
+
+    if (expand) {
+    }
+
+    return outbound;
+}
 
 app.get(/^\/source\/(.+)$/, function(req, res) {
   console.log("/source",req.params[0]);
   var slug = req.params[0];
-  var filepath = path.join("raw/source", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
+  res.send(_source(slug,true));
 });
 
 function _artists(options) { return _compiledCollection("artist",options); }
