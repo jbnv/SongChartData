@@ -19,6 +19,16 @@ function dir2obj(dir) {
   return content;
 }
 
+function _rawObject(type,specifier) {
+  var filepath = path.join("raw",type,specifier+".json");
+  return JSON.parse(fs.readFileSync(filepath));
+}
+
+function _compiledObject(type,specifier) {
+  var filepath = path.join("compiled",type,specifier+".json");
+  return JSON.parse(fs.readFileSync(filepath));
+}
+
 app.get(/^\/search\/(.+)$/, function(req, res) {
   console.log("/search",req.params[0]);
   // var slug = req.params[0];
