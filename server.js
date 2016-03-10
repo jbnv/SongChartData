@@ -142,24 +142,36 @@ function _artist(slug,expand) {
 }
 
 app.get(/^\/artist\/(.+)$/, function(req, res) {
-
   console.log("/artist",req.params[0]);
   var slug = req.params[0];
   res.send(_artist(slug,true));
 });
 
+function _songs(options) { return _compiledCollection("song",options); }
+
 app.get("/songs", function(req, res) {
   console.log("/songs");
-  res.send(dir2obj("raw/song"));
+  res.send(_songs());
 });
+
+function _song(slug,expand) {
+
+    var outbound = _rawObject("song",slug);
+
+    if (expand) {
+      outbound.genre = _genre(outbound.genre);
+    }
+
+    return outbound;
+}
 
 app.get(/^\/song\/(.+)$/, function(req, res) {
   console.log("/song",req.params[0]);
   var slug = req.params[0];
-  var filepath = path.join("raw/song", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
+  res.send(_song(slug,true));
 });
+
+//region Start the server.
 
 var port = process.env.PORT || 9702;
 app.listen(port, function() {
