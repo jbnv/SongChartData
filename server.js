@@ -61,17 +61,31 @@ app.get(/^\/search\/(.+)$/, function(req, res) {
   // res.send(content);
 });
 
+function _genres(options) { return _compiledCollection("genre",options); }
+
 app.get("/genres", function(req, res) {
   console.log("/genres");
-  res.send(dir2obj("raw/genre"));
+  res.send(_genres());
 });
+
+function _genre(slug,expand) {
+
+  var outbound = _rawObject("genre",slug);
+
+  if (expand) {
+    outbound.artists = _artists({filter: _withGenre(slug)});
+    outbound.songs = _songs({filter: _withGenre(slug)});
+  }
+
+  return outbound;
+}
 
 app.get(/^\/genre\/(.+)$/, function(req, res) {
   console.log("/genre",req.params[0]);
   var slug = req.params[0];
-  var filepath = path.join("raw/genre", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
+  res.send(_genre(slug,true));
+});
+
 });
 
 app.get("/sources", function(req, res) {
