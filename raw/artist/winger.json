@@ -1,1 +1,17 @@
-{"title":"Winger","instanceSlug":"winger","tags":[],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Winger",
+  "instanceSlug": "winger",
+  "searchTerms": ["wing","winger"],
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "rock"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}
