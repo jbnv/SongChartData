@@ -5,5 +5,9 @@ entityModels.forEach(function(slug) {
   require('./gulp/entity-task')(gulp,require("./app/models/"+slug));
 });
 
+gulp.task("compile-search", "Compile search entities.", function() {
+  require('./app/compilers/compile-search')();
+});
+
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
