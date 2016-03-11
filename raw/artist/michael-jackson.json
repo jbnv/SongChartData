@@ -1,1 +1,14 @@
-{"title":"Michael Jackson","instanceSlug":"michael-jackson","tags":["1970s","1980s","1990s"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"gary-ind","birth":"","death":"","type":"m"}
+{"title":"Michael Jackson",
+"instanceSlug":"michael-jackson",
+"tags":["1970s",
+"1980s",
+"1990s"],
+"parents":[],
+"genres":["pop","soul","urban","dance","dance-pop"],
+"members":[],
+"xref":["jacksons"],
+"complete":true,
+"origin":"gary-ind",
+"birth":"1958",
+"death":"2009",
+"type":"m"}
