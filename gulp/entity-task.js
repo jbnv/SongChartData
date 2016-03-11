@@ -74,11 +74,26 @@ module.exports = function(gulp,model) {
     .then(function(entityFileTexts) {
       var entities = entityFileTexts.map(JSON.parse);
       var compiled_content_as_object = require("../app/compilers/compile-"+spec.typeSlug)(null,entities);
+
       for (var key in compiled_content_as_object) {
         var route = meta.compiledRoute(spec.typeSlug,key);
         var content = compiled_content_as_object[key];
         entity(route,content);
         util.log(chalk.green(route));
+      }
+
+      if (compiled_content_as_object.all) {
+        var count = 0;
+        compiled_content_as_object.all.forEach(function(e) {
+          if (!e.instanceSlug) {
+            util.log(e.title+" "+chalk.red("No instanceSlug! Skipped."));
+            return;
+          }
+          var route = meta.compiledRoute(spec.typeSlug,e.instanceSlug);
+          entity(route,e);
+          count++;
+        });
+        util.log("Compiled "+chalk.green(count)+" entities.");
       }
     })
     .catch(function (error) {
