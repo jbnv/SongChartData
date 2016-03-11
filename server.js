@@ -45,16 +45,6 @@ function _compiledCollection(type,options) {
   return content;
 }
 
-//region Filters.
-
-function _withGenre(genre) {
-  return function(item) {
-    if (!item) return null;
-    if (!item.genres) return null;
-    return item.genres.includes(genre);
-  };
-}
-
 //region Routes.
 
 app.get(/^\/search\/(.+)$/, function(req, res) {
@@ -72,18 +62,7 @@ app.get("/genres", function(req, res) {
   res.send(_genres());
 });
 
-function _genre(slug,expand) {
-  if (!slug) return null;
-
-  var outbound = _rawObject("genre",slug);
-
-  if (expand) {
-    outbound.artists = _artists({filter: _withGenre(slug)});
-    outbound.songs = _songs({filter: _withGenre(slug)});
-  }
-
-  return outbound;
-}
+function _genre(slug,expand) { return _compiledObject("genre",slug); }
 
 app.get(/^\/genre\/(.+)$/, function(req, res) {
   console.log("/genre",req.params[0]);
@@ -98,16 +77,7 @@ app.get("/locations", function(req, res) {
   res.send(_locations());
 });
 
-function _location(slug,expand) {
-    if (!slug) return null;
-
-    var outbound = _rawObject("geo",slug);
-
-    if (expand) {
-    }
-
-    return outbound;
-}
+function _location(slug,expand) { return _compiledObject("geo",slug); }
 
 app.get(/^\/location\/(.+)$/, function(req, res) {
   console.log("/location",req.params[0]);
@@ -122,16 +92,7 @@ app.get("/sources", function(req, res) {
   res.send(_sources());
 });
 
-function _source(slug,expand) {
-    if (!slug) return null;
-
-    var outbound = _rawObject("source",slug);
-
-    if (expand) {
-    }
-
-    return outbound;
-}
+function _source(slug,expand) { return _compiledObject("source",slug); }
 
 app.get(/^\/source\/(.+)$/, function(req, res) {
   console.log("/source",req.params[0]);
@@ -146,17 +107,7 @@ app.get("/artists", function(req, res) {
   res.send(_artists());
 });
 
-function _artist(slug,expand) {
-
-    var outbound = _rawObject("artist",slug);
-
-    if (expand) {
-      outbound.genres = outbound.genres.map(_genre);
-      outbound.origin = _location(outbound.origin);
-    }
-
-    return outbound;
-}
+function _artist(slug,expand) { return _compiledObject("artist",slug); }
 
 app.get(/^\/artist\/(.+)$/, function(req, res) {
   console.log("/artist",req.params[0]);
@@ -171,16 +122,7 @@ app.get("/songs", function(req, res) {
   res.send(_songs());
 });
 
-function _song(slug,expand) {
-
-    var outbound = _rawObject("song",slug);
-
-    if (expand) {
-      outbound.genre = _genre(outbound.genre);
-    }
-
-    return outbound;
-}
+function _song(slug,expand) { return _compiledObject("song",slug); }
 
 app.get(/^\/song\/(.+)$/, function(req, res) {
   console.log("/song",req.params[0]);
