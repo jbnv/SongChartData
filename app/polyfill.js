@@ -26,3 +26,27 @@ if (!Array.prototype.includes) {
     return false;
   };
 }
+
+if (!String.prototype.startsWith) {
+    String.prototype.startsWith = function(searchString, position){
+      position = position || 0;
+      return this.substr(position, searchString.length) === searchString;
+  };
+}
+
+if (!String.prototype.contains) {
+  String.prototype.contains = function(it) { return this.indexOf(it) != -1; };
+}
+
+if (!String.prototype.walkDirectory) {
+  String.prototype.walkDirectory = function(fileCallback) {
+    var dir = this;
+    var list = fs.readdirSync(dir);
+    list.forEach(function(file) {
+        file = dir + '/' + file;
+        var stat = fs.statSync(file);
+        if (stat && stat.isDirectory()) walk(file,fileCallback);
+        else fileCallback(file);
+    })
+  }
+}
