@@ -7,6 +7,7 @@ function Song(yargs) {
   this.genre = argv.g;
   this.debut = argv.d;
   this.source = argv.source;
+  e.array_argument("playlists","p");
   if (argv.r) {
     this.ranks = JSON.parse(argv.r);
   } else {
