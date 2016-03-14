@@ -15,7 +15,7 @@ function Song(yargs) {
   }
 
   function addArtist(a) {
-    a1 = a.split(":");
+    a1 = (""+a).split(":");
     artistSlug = a1[0];
     roleSlug =  a1[1] || true;
     if (roleSlug == 'co') roleSlug = true;
