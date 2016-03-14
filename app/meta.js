@@ -35,5 +35,7 @@ module.exports = {
   getCompiledObject: _getCompiledObject,
 
   getArtists: _getCompiledObject("artist","all"),
-  getSongs: _getCompiledObject("song","all")
+  getSongs: _getCompiledObject("song","all"),
+
+  months: [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ]
 }

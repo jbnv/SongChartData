@@ -84,6 +84,7 @@ module.exports = function(gulp,model) {
 
       if (compiled_content_as_object.all) {
         var count = 0;
+        util.log("Processing "+chalk.green(compiled_content_as_object.all.length)+" entities.");
         compiled_content_as_object.all.forEach(function(e) {
           if (!e.instanceSlug) {
             util.log(e.title+" "+chalk.red("No instanceSlug! Skipped."));
