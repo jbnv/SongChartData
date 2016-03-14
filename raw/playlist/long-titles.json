@@ -2,6 +2,6 @@
   "instanceSlug": "long-titles",
   "title": "Long Titles",
   "filter": {
-    "title": ".{20}"
+    "title": ".* .* .* .* .* .*"
   }
 }

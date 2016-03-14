@@ -1,1 +1,19 @@
-{"title":"I Know There's Something Going On","instanceSlug":70,"tags":["feb13","know","something"],"parents":[],"genre":"pop","debut":"1983-02","ranks":[13.9,7.9,4.5,3.2,3.5,4.2],"artists":{"frida":true}}
+{
+  "title": "I Know There's Something Going On",
+  "instanceSlug": 70,
+  "tags": [],
+  "playlists": ["feb13","cheating"],
+  "genre": "pop",
+  "debut": "1983-02",
+  "ranks": [
+    13.9,
+    7.9,
+    4.5,
+    3.2,
+    3.5,
+    4.2
+  ],
+  "artists": {
+    "frida": true
+  }
+}

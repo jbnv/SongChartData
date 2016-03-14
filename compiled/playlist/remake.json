@@ -91,6 +91,105 @@
       "genres": [
         "pop"
       ]
+    },
+    {
+      "title": "Ooh Child",
+      "instanceSlug": 315,
+      "tags": [],
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "parents": [],
+      "genre": "pop",
+      "debut": "1993-08",
+      "ranks": [
+        4.5,
+        1,
+        1.12
+      ],
+      "artists": {
+        "dino": true
+      },
+      "genres": [
+        "pop"
+      ]
+    },
+    {
+      "title": "Come and Get Your Love",
+      "instanceSlug": 323,
+      "tags": [
+        "your-love"
+      ],
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "parents": [],
+      "genre": "dance",
+      "debut": "1995-06",
+      "ranks": [
+        10,
+        1,
+        1.085
+      ],
+      "artists": {
+        "real-mccoy": true
+      },
+      "genres": [
+        "dance"
+      ]
+    },
+    {
+      "title": "Total Eclipse of the Heart",
+      "instanceSlug": 338,
+      "tags": [],
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "parents": [],
+      "genre": "dance",
+      "debut": "1995-08",
+      "ranks": [
+        16,
+        10,
+        8,
+        6,
+        6,
+        5,
+        7,
+        7.8,
+        8.6,
+        9.6
+      ],
+      "artists": {
+        "nikki-french": true
+      },
+      "genres": [
+        "dance"
+      ]
+    },
+    {
+      "title": "Tell Her No",
+      "instanceSlug": 356,
+      "tags": [
+        "tell-her"
+      ],
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "parents": [],
+      "genre": "pop",
+      "debut": "1983-09",
+      "ranks": [],
+      "artists": {
+        "juice-newton": true
+      },
+      "genres": [
+        "pop"
+      ]
     }
   ]
 }
