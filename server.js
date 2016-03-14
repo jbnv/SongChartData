@@ -85,6 +85,21 @@ app.get(/^\/location\/(.+)$/, function(req, res) {
   res.send(_location(slug));
 });
 
+function _playlists(options) { return _compiledCollection("playlist",options); }
+
+app.get("/playlists", function(req, res) {
+  console.log("/playlists");
+  res.send(_playlists());
+});
+
+function _playlist(slug,expand) { return _compiledObject("playlist",slug); }
+
+app.get(/^\/playlist\/(.+)$/, function(req, res) {
+  console.log("/playlist",req.params[0]);
+  var slug = req.params[0];
+  res.send(_playlist(slug,true));
+});
+
 function _sources(options) { return _compiledCollection("source",options); }
 
 app.get("/sources", function(req, res) {
