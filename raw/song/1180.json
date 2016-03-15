@@ -1,1 +1,16 @@
-{"title":"Hero","instanceSlug":1180,"tags":["hero"],"parents":[],"genre":"pop","debut":"1993-11","playlists":[],"ranks":[25],"artists":{"mariah-carey":true}}
+{
+  "title": "Hero",
+  "instanceSlug": 1180,
+  "tags": [
+    "hero"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1993-11",
+  "playlists": [],
+  "ranks": [
+  ],
+  "artists": {
+    "mariah-carey": true
+  }
+}
