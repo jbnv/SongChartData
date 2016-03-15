@@ -1,1 +1,1 @@
-{"title":"Taxman","instanceSlug":51,"tags":[],"parents":[],"genre":"pop","debut":"1960s","ranks":[],"artists":{"beatles":true},"genres":["pop"]}
+{"title":"Taxman","instanceSlug":51,"tags":[],"parents":[],"genre":"pop","debut":"1960s","ranks":[],"artists":[{"slug":"beatles","title":"Beatles","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

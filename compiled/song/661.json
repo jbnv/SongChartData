@@ -1,1 +1,1 @@
-{"title":"New World Man","instanceSlug":661,"tags":["man","new","world"],"parents":[],"genre":"rock","debut":"1982-09","playlists":[],"ranks":[18,14.3,11.4,8.92,9.7,14.5],"artists":{"rush":true},"genres":["rock"]}
+{"title":"New World Man","instanceSlug":661,"tags":["man","new","world"],"parents":[],"genre":"rock","debut":"1982-09","playlists":[],"ranks":[18,14.3,11.4,8.92,9.7,14.5],"artists":[{"slug":"rush","title":"Rush","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}]}

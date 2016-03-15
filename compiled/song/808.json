@@ -1,1 +1,1 @@
-{"title":"Knocked Out","instanceSlug":808,"tags":["knock","out"],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[11,5.9,3.2,1.7,1.9,2.7],"artists":{"paula-abdul":true},"genres":["pop"]}
+{"title":"Knocked Out","instanceSlug":808,"tags":["knock","out"],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[11,5.9,3.2,1.7,1.9,2.7],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

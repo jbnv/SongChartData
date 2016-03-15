@@ -1,1 +1,1 @@
-{"title":"Skeletons","instanceSlug":625,"tags":["#1","halloween"],"parents":[],"genre":"soul","debut":"1987-11","playlists":[],"ranks":[10,5.7,3.3,3,3.15,3.35,3.68],"artists":{"stevie-wonder":true},"genres":["soul"]}
+{"title":"Skeletons","instanceSlug":625,"tags":["#1","halloween"],"parents":[],"genre":"soul","debut":"1987-11","playlists":[],"ranks":[10,5.7,3.3,3,3.15,3.35,3.68],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}]}

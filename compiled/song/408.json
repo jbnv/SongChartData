@@ -1,1 +1,1 @@
-{"title":"Another Night","instanceSlug":408,"tags":[],"parents":[],"genre":"dance","debut":"1994-09","playlists":[],"ranks":[12.5,4.2,1.75,1.25,1.35,1.52],"artists":{"real-mccoy":true},"genres":["dance"]}
+{"title":"Another Night","instanceSlug":408,"tags":[],"parents":[],"genre":"dance","debut":"1994-09","playlists":[],"ranks":[12.5,4.2,1.75,1.25,1.35,1.52],"artists":[{"slug":"real-mccoy","title":"Real McCoy","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}]}

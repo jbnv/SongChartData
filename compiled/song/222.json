@@ -1,1 +1,1 @@
-{"title":"In My Dreams","instanceSlug":222,"tags":[],"parents":[],"genre":"pop","debut":"1987-10","ranks":[19,13,10,8.5,7,7.8],"artists":{"reo-speedwagon":true},"genres":["pop"]}
+{"title":"In My Dreams","instanceSlug":222,"tags":[],"parents":[],"genre":"pop","debut":"1987-10","ranks":[19,13,10,8.5,7,7.8],"artists":[{"slug":"reo-speedwagon","title":"REO Speedwagon","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

@@ -1,1 +1,1 @@
-{"title":"Thriller","instanceSlug":12,"tags":["album-title","halloween","one-word"],"parents":[],"genre":"dance","debut":"1984-02","ranks":[12,6.6,3.7,2,2.48],"artists":{"michael-jackson":true},"genres":["dance"]}
+{"title":"Thriller","instanceSlug":12,"tags":["album-title","halloween","one-word"],"parents":[],"genre":"dance","debut":"1984-02","ranks":[12,6.6,3.7,2,2.48],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"playlists":[]}

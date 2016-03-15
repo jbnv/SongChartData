@@ -1,1 +1,1 @@
-{"title":"Bette Davis Eyes","instanceSlug":189,"tags":["eye","movie-star","real-person"],"parents":[],"genre":"pop","debut":1981,"ranks":[11,5.6,2.9,1.4,1.1,1.4,1.7],"artists":{"kim-carnes":true},"genres":["pop"]}
+{"title":"Bette Davis Eyes","instanceSlug":189,"tags":["eye","movie-star","real-person"],"parents":[],"genre":"pop","debut":1981,"ranks":[11,5.6,2.9,1.4,1.1,1.4,1.7],"artists":[{"slug":"kim-carnes","title":"Kim Carnes","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

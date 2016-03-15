@@ -1,1 +1,1 @@
-{"title":"Iris","instanceSlug":33,"genre":"rock","source":"city-of-angels","ranks":[],"debut":"1990s","artists":{"goo-goo-dolls":true},"genres":["rock"]}
+{"title":"Iris","instanceSlug":33,"genre":"rock","source":"city-of-angels","ranks":[],"debut":"1990s","artists":[{"slug":"goo-goo-dolls","title":"Goo Goo Dolls","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[]}

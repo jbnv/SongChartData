@@ -1,1 +1,1 @@
-{"title":"Who's Johnny","instanceSlug":837,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","playlists":["summer"],"ranks":[17,10,6,8.1],"artists":{"el-debarge":true},"genres":["pop"]}
+{"title":"Who's Johnny","instanceSlug":837,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17,10,6,8.1],"artists":[{"slug":"el-debarge","title":"El DeBarge","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

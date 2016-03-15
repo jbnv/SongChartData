@@ -1,1 +1,1 @@
-{"title":"Stand Back","instanceSlug":744,"tags":["back","stand"],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[13,7.4,4.2,3.2,4.2],"artists":{"stevie-nicks":true},"genres":["pop"]}
+{"title":"Stand Back","instanceSlug":744,"tags":["back","stand"],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[13,7.4,4.2,3.2,4.2],"artists":[{"slug":"stevie-nicks","title":"Stevie Nicks","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

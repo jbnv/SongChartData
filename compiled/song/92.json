@@ -1,1 +1,1 @@
-{"title":"Let Me Be the One","instanceSlug":92,"tags":["let-me","let-me-be-the-one","one"],"parents":[],"genre":"pop","debut":"1987-08","ranks":[15.2,9.6,5.4,3.7,2.8,2.2,2,2.25,2.55,2.85,3.35],"artists":{"expose":true},"genres":["pop"]}
+{"title":"Let Me Be the One","instanceSlug":92,"tags":["let-me","let-me-be-the-one","one"],"parents":[],"genre":"pop","debut":"1987-08","ranks":[15.2,9.6,5.4,3.7,2.8,2.2,2,2.25,2.55,2.85,3.35],"artists":[{"slug":"expose","title":"Expose","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

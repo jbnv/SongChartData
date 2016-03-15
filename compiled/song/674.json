@@ -1,1 +1,1 @@
-{"title":"Heartlight","instanceSlug":674,"tags":["heart","light"],"parents":[],"genre":"pop","debut":"1982-09","playlists":[],"ranks":[17,9.6,5.4,3.7,5.1,7.1],"artists":{"neil-diamond":true},"genres":["pop"]}
+{"title":"Heartlight","instanceSlug":674,"tags":["heart","light"],"parents":[],"genre":"pop","debut":"1982-09","playlists":[],"ranks":[17,9.6,5.4,3.7,5.1,7.1],"artists":[{"slug":"neil-diamond","title":"Neil Diamond","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

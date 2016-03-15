@@ -1,1 +1,1 @@
-{"title":"Smooth Criminal","instanceSlug":245,"tags":["crime","smooth"],"parents":[],"genre":"dance-pop","debut":"1988-11","ranks":[8,1,1.084],"artists":{"michael-jackson":true},"genres":["dance-pop"]}
+{"title":"Smooth Criminal","instanceSlug":245,"tags":["crime","smooth"],"parents":[],"genre":"dance-pop","debut":"1988-11","ranks":[8,1,1.084],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[]}

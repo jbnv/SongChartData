@@ -1,1 +1,1 @@
-{"title":"Fireflies","instanceSlug":361,"tags":["","firefly"],"parents":[],"genre":"pop","debut":2009,"playlists":["animals"],"ranks":[12,6,3,1.5,1,1.3,1.7,2.2,2.8,3.6,4.6,5.9,7.5],"artists":{"owl-city":true},"genres":["pop"]}
+{"title":"Fireflies","instanceSlug":361,"tags":["","firefly"],"parents":[],"genre":"pop","debut":2009,"playlists":[{"slug":"animals"}],"ranks":[12,6,3,1.5,1,1.3,1.7,2.2,2.8,3.6,4.6,5.9,7.5],"artists":[{"slug":"owl-city","title":"Owl City","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

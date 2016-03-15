@@ -1,1 +1,1 @@
-{"title":"The Heat Is On","instanceSlug":17,"tags":[],"parents":[],"source":"beverly-hills-cop","genre":"rock","debut":"1985-02","ranks":[14,8,5.1,3.7,3.9,4.5],"artists":{"glenn-frye":true},"genres":["rock"]}
+{"title":"The Heat Is On","instanceSlug":17,"tags":[],"parents":[],"source":"beverly-hills-cop","genre":"rock","debut":"1985-02","ranks":[14,8,5.1,3.7,3.9,4.5],"artists":[{"slug":"glenn-frye","title":"Glenn Frye","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[]}

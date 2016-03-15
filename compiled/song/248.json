@@ -1,1 +1,1 @@
-{"title":"Jesus He Loves Me","instanceSlug":248,"tags":["songs-of-summer"],"parents":[],"genre":"pop-rock","debut":"1992-08","ranks":[7.9,3.3,1.2,1.39],"artists":{"genesis":true},"genres":["pop-rock"]}
+{"title":"Jesus He Loves Me","instanceSlug":248,"tags":["songs-of-summer"],"parents":[],"genre":"pop-rock","debut":"1992-08","ranks":[7.9,3.3,1.2,1.39],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"playlists":[]}

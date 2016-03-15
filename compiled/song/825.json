@@ -1,1 +1,1 @@
-{"title":"Disco Duck","instanceSlug":825,"tags":[],"parents":[],"genre":"novelty","debut":1976,"playlists":["animals"],"ranks":[],"artists":{"rick-dees":true},"genres":["novelty"]}
+{"title":"Disco Duck","instanceSlug":825,"tags":[],"parents":[],"genre":"novelty","debut":1976,"playlists":[{"slug":"animals"}],"ranks":[],"artists":[{"slug":"rick-dees","title":"Rick Dees","roleSlug":true}],"genres":[{"slug":"novelty","title":"Novelty"}]}

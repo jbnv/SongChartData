@@ -1,1 +1,1 @@
-{"title":"Jojo","instanceSlug":464,"tags":[],"parents":[],"genre":"pop","debut":"1980-05","playlists":[],"ranks":[17,10,6,3.5,4.5,5.5,6.5,8,11,14,18,22],"artists":{"boz-scaggs":true},"genres":["pop"]}
+{"title":"Jojo","instanceSlug":464,"tags":[],"parents":[],"genre":"pop","debut":"1980-05","playlists":[],"ranks":[17,10,6,3.5,4.5,5.5,6.5,8,11,14,18,22],"artists":[{"slug":"boz-scaggs","title":"Boz Scaggs","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

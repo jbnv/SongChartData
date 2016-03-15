@@ -1,1 +1,1 @@
-{"title":"Master Blaster","instanceSlug":805,"tags":[],"parents":[],"genre":"reggae","debut":"1980-10","playlists":[],"ranks":[17,9.9,5.8,6.2,8.5],"artists":{"stevie-wonder":true},"genres":["reggae"]}
+{"title":"Master Blaster","instanceSlug":805,"tags":[],"parents":[],"genre":"reggae","debut":"1980-10","playlists":[],"ranks":[17,9.9,5.8,6.2,8.5],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"reggae","title":"Reggae"}]}

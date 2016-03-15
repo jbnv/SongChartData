@@ -1,1 +1,1 @@
-{"title":"Mr. Roboto","instanceSlug":76,"tags":["technophobia"],"parents":[],"genre":"rock","debut":"1983-02","ranks":[9.5,1.2,1.32,1.48],"artists":{"styx":true},"genres":["rock"]}
+{"title":"Mr. Roboto","instanceSlug":76,"tags":["technophobia"],"parents":[],"genre":"rock","debut":"1983-02","ranks":[9.5,1.2,1.32,1.48],"artists":[{"slug":"styx","title":"Styx","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[]}

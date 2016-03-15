@@ -1,1 +1,1 @@
-{"title":"YMCA","instanceSlug":64,"tags":["acronym"],"parents":[],"genre":"disco","debut":"1978-11","ranks":[],"artists":{"village-people":true},"genres":["disco"]}
+{"title":"YMCA","instanceSlug":64,"tags":["acronym"],"parents":[],"genre":"disco","debut":"1978-11","ranks":[],"artists":[{"slug":"village-people","title":"Village People","roleSlug":true}],"genres":[{"slug":"disco","title":"Disco"}],"playlists":[]}

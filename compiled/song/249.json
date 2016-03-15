@@ -1,1 +1,1 @@
-{"title":"All I Want","instanceSlug":249,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1992-08","ranks":[4.9,1,1.1,1.23,1.38,1.56],"artists":{"toad-the-wet-sprocket":true},"genres":["pop"]}
+{"title":"All I Want","instanceSlug":249,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1992-08","ranks":[4.9,1,1.1,1.23,1.38,1.56],"artists":[{"slug":"toad-the-wet-sprocket","title":"Toad the Wet Sprocket","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

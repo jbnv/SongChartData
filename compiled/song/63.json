@@ -1,1 +1,1 @@
-{"title":"PYT","instanceSlug":63,"tags":["acronym"],"parents":[],"genre":"soul","debut":"1983-11","ranks":[11,2.1,1.1,1.29],"artists":{"michael-jackson":true},"genres":["soul"]}
+{"title":"PYT","instanceSlug":63,"tags":["acronym"],"parents":[],"genre":"soul","debut":"1983-11","ranks":[11,2.1,1.1,1.29],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"playlists":[]}

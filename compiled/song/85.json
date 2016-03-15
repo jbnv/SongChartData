@@ -1,1 +1,1 @@
-{"title":"Jeopardy","instanceSlug":85,"tags":[],"parents":[],"genre":"rock","debut":"1983-03","ranks":[17,9.7,5.6,4.5,4.75,5.25,6.15],"artists":{"greg-kihn-band":true},"genres":["rock"]}
+{"title":"Jeopardy","instanceSlug":85,"tags":[],"parents":[],"genre":"rock","debut":"1983-03","ranks":[17,9.7,5.6,4.5,4.75,5.25,6.15],"artists":[{"slug":"greg-kihn-band","title":"Greg Kihn Band","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[]}

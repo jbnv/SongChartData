@@ -1,1 +1,1 @@
-{"title":"Tonight","instanceSlug":206,"tags":["tonight"],"parents":[],"genre":"pop","debut":"1990-08","ranks":[20,16,13,10.5,9.5,8.5,14],"artists":{"new-kids-on-the-block":true},"genres":["pop"]}
+{"title":"Tonight","instanceSlug":206,"tags":["tonight"],"parents":[],"genre":"pop","debut":"1990-08","ranks":[20,16,13,10.5,9.5,8.5,14],"artists":[{"slug":"new-kids-on-the-block"}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

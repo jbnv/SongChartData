@@ -1,1 +1,1 @@
-{"title":"Cold Hearted","instanceSlug":1,"playlists":["cold"],"parents":[],"genre":"pop","debut":"1989-07","ranks":[20,12,9,7.2,6.9,7.4,8.1],"artists":{"paula-abdul":true},"genres":["pop"]}
+{"title":"Cold Hearted","instanceSlug":1,"playlists":[{"slug":"cold"}],"parents":[],"genre":"pop","debut":"1989-07","ranks":[20,12,9,7.2,6.9,7.4,8.1],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

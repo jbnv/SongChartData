@@ -1,1 +1,1 @@
-{"title":"Complicated","instanceSlug":736,"tags":[],"parents":[],"genre":"pop","debut":2002,"playlists":[],"ranks":[13,6.5,3.2,1.6,1.1,1.5],"artists":{"avril-lavigne":true},"genres":["pop"]}
+{"title":"Complicated","instanceSlug":736,"tags":[],"parents":[],"genre":"pop","debut":2002,"playlists":[],"ranks":[13,6.5,3.2,1.6,1.1,1.5],"artists":[{"slug":"avril-lavigne","title":"Avril Lavigne","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

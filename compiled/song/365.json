@@ -1,1 +1,1 @@
-{"title":"Mickey","instanceSlug":365,"tags":["#1"],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[22,19,16,14,12,13.5],"artists":{"toni-basil":true},"genres":["pop"]}
+{"title":"Mickey","instanceSlug":365,"tags":["#1"],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[22,19,16,14,12,13.5],"artists":[{"slug":"toni-basil","title":"Toni Basil","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

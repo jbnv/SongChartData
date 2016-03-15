@@ -1,1 +1,1 @@
-{"title":"Paradise by the Dashboard Light","instanceSlug":414,"tags":["car"],"parents":[],"genre":"pop","debut":"1978-10","playlists":[],"ranks":[25,30],"artists":{"meatloaf":true},"genres":["pop"]}
+{"title":"Paradise by the Dashboard Light","instanceSlug":414,"tags":["car"],"parents":[],"genre":"pop","debut":"1978-10","playlists":[],"ranks":[25,30],"artists":[{"slug":"meatloaf","title":"Meat Loaf","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

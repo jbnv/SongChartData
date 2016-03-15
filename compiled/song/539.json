@@ -1,1 +1,1 @@
-{"title":"Last Kiss","instanceSlug":539,"tags":["remake"],"parents":[],"genre":true,"debut":"1999-08","playlists":["summer"],"ranks":[17,11.5,6.6,6.4,7.1],"artists":{"pearl-jam":true},"genres":[true]}
+{"title":"Last Kiss","instanceSlug":539,"tags":["remake"],"parents":[],"genre":true,"debut":"1999-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17,11.5,6.6,6.4,7.1],"artists":[{"slug":"pearl-jam","title":["Pearl Jam",true],"roleSlug":true}],"genres":[{"slug":true}]}

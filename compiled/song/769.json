@@ -1,1 +1,1 @@
-{"title":"Harlem Shuffle","instanceSlug":769,"tags":["dances","places"],"parents":[],"genre":"rock","debut":"1986-04","playlists":[],"ranks":[12,3.7,2.2,1.95,1.85,2.2],"artists":{"rolling-stones":true},"genres":["rock"]}
+{"title":"Harlem Shuffle","instanceSlug":769,"tags":["dances","places"],"parents":[],"genre":"rock","debut":"1986-04","playlists":[],"ranks":[12,3.7,2.2,1.95,1.85,2.2],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}]}

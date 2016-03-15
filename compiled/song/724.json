@@ -1,1 +1,1 @@
-{"title":"No Rain","instanceSlug":724,"tags":["no","rain"],"parents":[],"genre":"rock","debut":"1993-09","playlists":[],"ranks":[22,14,11,10.5,10.9,11.5,12.25,13,14.5],"artists":{"blind-melon":true},"genres":["rock"]}
+{"title":"No Rain","instanceSlug":724,"tags":["no","rain"],"parents":[],"genre":"rock","debut":"1993-09","playlists":[],"ranks":[22,14,11,10.5,10.9,11.5,12.25,13,14.5],"artists":[{"slug":"blind-melon","title":"Blind Melon","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}]}

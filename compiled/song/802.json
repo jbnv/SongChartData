@@ -1,1 +1,1 @@
-{"title":"Let Me Be There","instanceSlug":802,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[17.9,10.4,6.1,6,8],"artists":{"olivia-newton-john":true,"mike-sammes":"backup"},"genres":["pop"]}
+{"title":"Let Me Be There","instanceSlug":802,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[17.9,10.4,6.1,6,8],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true},{"slug":"mike-sammes","title":"Mike Sammes","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}]}

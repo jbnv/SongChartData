@@ -1,1 +1,1 @@
-{"title":"Shattered Dreams","instanceSlug":137,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1988-04","ranks":[8,1.1,1.15,1.5],"artists":{"johnny-hates-jazz":true},"genres":["pop"]}
+{"title":"Shattered Dreams","instanceSlug":137,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1988-04","ranks":[8,1.1,1.15,1.5],"artists":[{"slug":"johnny-hates-jazz","title":"Johnny Hates Jazz","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

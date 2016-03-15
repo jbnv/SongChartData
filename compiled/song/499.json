@@ -1,1 +1,1 @@
-{"title":"Talk It Over","instanceSlug":499,"tags":[],"parents":[],"genre":"soul","debut":"1989-08","playlists":["summer"],"ranks":[16,6,3.3,2.9,2.85,3.4],"artists":{"grayson-hugh":true},"genres":["soul"]}
+{"title":"Talk It Over","instanceSlug":499,"tags":[],"parents":[],"genre":"soul","debut":"1989-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[16,6,3.3,2.9,2.85,3.4],"artists":[{"slug":"grayson-hugh","title":"Grayson Hugh","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}]}

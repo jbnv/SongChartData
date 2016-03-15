@@ -1,1 +1,1 @@
-{"title":"Shiny Happy People","instanceSlug":865,"tags":[],"parents":[],"genre":"rock","debut":"1991-08","playlists":["summer"],"ranks":[9,2.6,1.75,1.89],"artists":{"rem":true,"kate-pierson":true},"genres":["rock"]}
+{"title":"Shiny Happy People","instanceSlug":865,"tags":[],"parents":[],"genre":"rock","debut":"1991-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[9,2.6,1.75,1.89],"artists":[{"slug":"rem","title":"REM","roleSlug":true},{"slug":"kate-pierson","title":"Kate Pierson","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}]}

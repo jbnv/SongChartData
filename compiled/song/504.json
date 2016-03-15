@@ -1,1 +1,1 @@
-{"title":"Partyman","instanceSlug":504,"tags":["party"],"parents":[],"genre":"pop","debut":"1989-09","source":"batman","playlists":[],"ranks":[13,7,3.8,2,2.1,2.4,2.7,3.1,4.2],"artists":{"prince":true},"genres":["pop"]}
+{"title":"Partyman","instanceSlug":504,"tags":["party"],"parents":[],"genre":"pop","debut":"1989-09","source":"batman","playlists":[],"ranks":[13,7,3.8,2,2.1,2.4,2.7,3.1,4.2],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

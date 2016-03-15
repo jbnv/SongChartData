@@ -1,1 +1,1 @@
-{"title":"Dirty Diana","instanceSlug":127,"tags":["dirt","women"],"parents":[],"genre":"rock","debut":"1988-06","ranks":[19.9,12,15.2],"artists":{"michael-jackson":true},"genres":["rock"]}
+{"title":"Dirty Diana","instanceSlug":127,"tags":["dirt","women"],"parents":[],"genre":"rock","debut":"1988-06","ranks":[19.9,12,15.2],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[]}

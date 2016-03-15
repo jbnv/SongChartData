@@ -1,1 +1,1 @@
-{"title":"Sweet Dreams","instanceSlug":376,"tags":["dream","sweet","sweet-dreams"],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[],"artists":{"eurythmics":true},"genres":["pop"]}
+{"title":"Sweet Dreams","instanceSlug":376,"tags":["dream","sweet","sweet-dreams"],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[],"artists":[{"slug":"eurythmics","title":"Eurythmics","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

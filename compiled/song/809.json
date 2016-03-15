@@ -1,1 +1,1 @@
-{"title":"Hardware Store","instanceSlug":809,"tags":[],"parents":[],"genre":"pop","playlists":[],"ranks":[15.9,9.2,5.3,4.6],"artists":{"weird-al-yankovic":true},"genres":["pop"]}
+{"title":"Hardware Store","instanceSlug":809,"tags":[],"parents":[],"genre":"pop","playlists":[],"ranks":[15.9,9.2,5.3,4.6],"artists":[{"slug":"weird-al-yankovic","title":"Weird Al Yankovic","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

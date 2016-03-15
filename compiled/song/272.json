@@ -1,1 +1,1 @@
-{"title":"That Was Then, This is Now","instanceSlug":272,"tags":["long-title","now","that-was","then","this-is"],"parents":[],"genre":"pop","debut":"1986-08","ranks":[21,15.5,13,13.3,13.9,14.8,16.1,17.7],"artists":{"monkees":true},"genres":["pop"]}
+{"title":"That Was Then, This is Now","instanceSlug":272,"tags":["long-title","now","that-was","then","this-is"],"parents":[],"genre":"pop","debut":"1986-08","ranks":[21,15.5,13,13.3,13.9,14.8,16.1,17.7],"artists":[{"slug":"monkees","title":"Monkees","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

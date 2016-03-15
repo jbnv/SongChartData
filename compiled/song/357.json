@@ -1,1 +1,1 @@
-{"title":"Big Log","instanceSlug":357,"tags":[],"parents":[],"genre":"rock","debut":"1983-09","playlists":[],"ranks":[13.9,4.7,2.5,2.2,4],"artists":{"robert-plant":true},"genres":["rock"]}
+{"title":"Big Log","instanceSlug":357,"tags":[],"parents":[],"genre":"rock","debut":"1983-09","playlists":[],"ranks":[13.9,4.7,2.5,2.2,4],"artists":[{"slug":"robert-plant","title":"Robert Plant","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}]}

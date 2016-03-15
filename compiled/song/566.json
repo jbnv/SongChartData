@@ -1,1 +1,1 @@
-{"title":"Mambo #5","instanceSlug":566,"tags":[],"parents":[],"genre":"dance","debut":"1999-09","playlists":[],"ranks":[11.5,5.2,2.9,2.4,2.5,2.6,2.75,2.95,3.2,3.56,3.93,4.3,4.9],"artists":{"lou-bega":true},"genres":["dance"]}
+{"title":"Mambo #5","instanceSlug":566,"tags":[],"parents":[],"genre":"dance","debut":"1999-09","playlists":[],"ranks":[11.5,5.2,2.9,2.4,2.5,2.6,2.75,2.95,3.2,3.56,3.93,4.3,4.9],"artists":[{"slug":"lou-bega","title":"Lou Bega","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}]}

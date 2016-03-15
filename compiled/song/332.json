@@ -1,1 +1,1 @@
-{"title":"Maniac","instanceSlug":332,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rock","debut":"1983-07","source":"flashdance","playlists":[],"ranks":[17.9,10.6,7.3,9.9],"artists":{"michael-sembello":true},"genres":["rock"]}
+{"title":"Maniac","instanceSlug":332,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rock","debut":"1983-07","source":"flashdance","playlists":[],"ranks":[17.9,10.6,7.3,9.9],"artists":[{"slug":"michael-sembello","title":"Michael Sembello","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}]}

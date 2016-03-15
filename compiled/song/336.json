@@ -1,1 +1,1 @@
-{"title":"Back for Good","instanceSlug":336,"tags":["back","good"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[19,16,14,13,15],"artists":{"take-that":true},"genres":["pop"]}
+{"title":"Back for Good","instanceSlug":336,"tags":["back","good"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[19,16,14,13,15],"artists":[{"slug":"take-that","title":"Take That","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

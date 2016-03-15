@@ -1,1 +1,1 @@
-{"title":"Strong Man","instanceSlug":562,"tags":["","strength"],"parents":[],"genre":"pop","debut":"1988-08","playlists":["summer"],"ranks":[20.5,10.7,7.7,8.1,8.9,10.4],"artists":{"rick-astley":true},"genres":["pop"]}
+{"title":"Strong Man","instanceSlug":562,"tags":["","strength"],"parents":[],"genre":"pop","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[20.5,10.7,7.7,8.1,8.9,10.4],"artists":[{"slug":"rick-astley","title":"Rick Astley","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

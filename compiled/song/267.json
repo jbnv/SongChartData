@@ -1,1 +1,1 @@
-{"title":"Genie in a Bottle","instanceSlug":267,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1999-08","ranks":[15,8.5,4.8,3.4,4.66],"artists":{"christina-aguillera":true},"genres":["pop"]}
+{"title":"Genie in a Bottle","instanceSlug":267,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1999-08","ranks":[15,8.5,4.8,3.4,4.66],"artists":[{"slug":"christina-aguillera","title":"Christina Aguilera","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

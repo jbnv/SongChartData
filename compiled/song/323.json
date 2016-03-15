@@ -1,1 +1,1 @@
-{"title":"Come and Get Your Love","instanceSlug":323,"tags":["your-love"],"playlists":["remake","summer"],"parents":[],"genre":"dance","debut":"1995-06","ranks":[10,1,1.085],"artists":{"real-mccoy":true},"genres":["dance"]}
+{"title":"Come and Get Your Love","instanceSlug":323,"tags":["your-love"],"playlists":[{"slug":"remake","title":"Remakes"},{"slug":"summer","title":"Songs of Summer"}],"parents":[],"genre":"dance","debut":"1995-06","ranks":[10,1,1.085],"artists":[{"slug":"real-mccoy","title":"Real McCoy","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}]}

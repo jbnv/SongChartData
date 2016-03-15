@@ -1,1 +1,1 @@
-{"title":"Batdance","instanceSlug":505,"tags":["#1"],"parents":[],"genre":"pop","debut":"1989-07","source":"batman","playlists":[],"ranks":[13,5.7,4.9,4.16,3.8,3.5,3.35,3.7,4.37],"artists":{"prince":true},"genres":["pop"]}
+{"title":"Batdance","instanceSlug":505,"tags":["#1"],"parents":[],"genre":"pop","debut":"1989-07","source":"batman","playlists":[],"ranks":[13,5.7,4.9,4.16,3.8,3.5,3.35,3.7,4.37],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

@@ -1,1 +1,1 @@
-{"title":"Jam","instanceSlug":256,"tags":[],"parents":[],"genre":"pop","debut":"1992-08","ranks":[19.9,11.4,6.5,4.9,5.8],"artists":{"michael-jackson":true,"heavy-d":"backup"},"genres":["pop"]}
+{"title":"Jam","instanceSlug":256,"tags":[],"parents":[],"genre":"pop","debut":"1992-08","ranks":[19.9,11.4,6.5,4.9,5.8],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"heavy-d","title":"Heavy D","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

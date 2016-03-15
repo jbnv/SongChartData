@@ -1,1 +1,1 @@
-{"title":"Humping Around","instanceSlug":247,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1992-08","ranks":[12,3.2,1.7,1.3,1.5,1.7,2.1,2.7],"artists":{"bobby-brown":true},"genres":["pop"]}
+{"title":"Humping Around","instanceSlug":247,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1992-08","ranks":[12,3.2,1.7,1.3,1.5,1.7,2.1,2.7],"artists":[{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

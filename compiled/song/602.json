@@ -1,1 +1,1 @@
-{"title":"Change the World","instanceSlug":602,"tags":[],"parents":[],"genre":"soft-rock","debut":"1996-08","playlists":["summer"],"ranks":[],"artists":{"eric-clapton":true},"genres":["soft-rock"]}
+{"title":"Change the World","instanceSlug":602,"tags":[],"parents":[],"genre":"soft-rock","debut":"1996-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"eric-clapton","title":"Eric Clapton","roleSlug":true}],"genres":[{"slug":"soft-rock","title":"Soft Rock"}]}

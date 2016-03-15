@@ -1,1 +1,1 @@
-{"title":"I'm Alright","instanceSlug":523,"tags":["alright","i'm"],"parents":[],"genre":"rock","debut":"1980-09","playlists":[],"ranks":[4.9,1,1.14,1.32],"artists":{"kenny-loggins":true,"eddie-money":"backup"},"genres":["rock"]}
+{"title":"I'm Alright","instanceSlug":523,"tags":["alright","i'm"],"parents":[],"genre":"rock","debut":"1980-09","playlists":[],"ranks":[4.9,1,1.14,1.32],"artists":[{"slug":"kenny-loggins","title":"Kenny Loggins","roleSlug":true},{"slug":"eddie-money","title":"Eddie Money","roleSlug":"backup"}],"genres":[{"slug":"rock","title":"Rock"}]}

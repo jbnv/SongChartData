@@ -1,1 +1,1 @@
-{"title":"Cassanova","instanceSlug":225,"tags":["literary"],"parents":[],"genre":"soul","debut":"1987-09","ranks":[17,9.9,5.8,5.2,4.8,5.9],"artists":{"levert":true},"genres":["soul"]}
+{"title":"Cassanova","instanceSlug":225,"tags":["literary"],"parents":[],"genre":"soul","debut":"1987-09","ranks":[17,9.9,5.8,5.2,4.8,5.9],"artists":[{"slug":"levert","title":"Levert","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"playlists":[]}

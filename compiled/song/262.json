@@ -1,1 +1,1 @@
-{"title":"Elvira","instanceSlug":262,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1981-06","ranks":[],"artists":{"oak-ridge-boys":true},"genres":["country"]}
+{"title":"Elvira","instanceSlug":262,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1981-06","ranks":[],"artists":[{"slug":"oak-ridge-boys","title":"Oak Ridge Boys","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"playlists":[]}

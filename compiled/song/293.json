@@ -1,1 +1,1 @@
-{"title":"Sweet Freedom","instanceSlug":293,"tags":[],"parents":[],"genre":"pop","debut":"1986-08","playlists":["summer"],"ranks":[5,1,1.052],"artists":{"michael-mcdonald":true},"genres":["pop"]}
+{"title":"Sweet Freedom","instanceSlug":293,"tags":[],"parents":[],"genre":"pop","debut":"1986-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[5,1,1.052],"artists":[{"slug":"michael-mcdonald","title":"Michael McDonald","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

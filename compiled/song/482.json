@@ -1,1 +1,1 @@
-{"title":"A Little More Love","instanceSlug":482,"tags":[],"parents":[],"genre":"pop","debut":"1978-12","playlists":[],"ranks":[17.9,10,5.5,3.1,4.1],"artists":{"olivia-newton-john":true},"genres":["pop"]}
+{"title":"A Little More Love","instanceSlug":482,"tags":[],"parents":[],"genre":"pop","debut":"1978-12","playlists":[],"ranks":[17.9,10,5.5,3.1,4.1],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

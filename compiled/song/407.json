@@ -1,1 +1,1 @@
-{"title":"What Would You Say","instanceSlug":407,"tags":[],"parents":[],"genre":"pop","debut":"1995-06","playlists":["summer"],"ranks":[10.5,1.29,1.35,1.49],"artists":{"dave-matthews-band":true},"genres":["pop"]}
+{"title":"What Would You Say","instanceSlug":407,"tags":[],"parents":[],"genre":"pop","debut":"1995-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[10.5,1.29,1.35,1.49],"artists":[{"slug":"dave-matthews-band","title":"Dave Matthews Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

@@ -1,1 +1,1 @@
-{"title":"Nasty","instanceSlug":59,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","ranks":[21,12,10,8.7,8,8.9],"artists":{"janet-jackson":true},"genres":["pop"]}
+{"title":"Nasty","instanceSlug":59,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","ranks":[21,12,10,8.7,8,8.9],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

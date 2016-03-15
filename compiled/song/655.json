@@ -1,1 +1,1 @@
-{"title":"Southern Cross","instanceSlug":655,"tags":["cross","south"],"parents":[],"genre":true,"debut":"1982-10","playlists":[],"ranks":[17.9,10.7,10.7,14.3],"artists":{"crosby-stills-nash":true},"genres":[true]}
+{"title":"Southern Cross","instanceSlug":655,"tags":["cross","south"],"parents":[],"genre":true,"debut":"1982-10","playlists":[],"ranks":[17.9,10.7,10.7,14.3],"artists":[{"slug":"crosby-stills-nash","title":"Crosby, Stills & Nash","roleSlug":true}],"genres":[{"slug":true}]}

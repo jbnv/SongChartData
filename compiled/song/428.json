@@ -1,1 +1,1 @@
-{"title":"Hold Me Now","instanceSlug":428,"tags":[],"parents":[],"genre":"pop","debut":"1984-03","playlists":[],"ranks":[16.5,9.5,5.4,4.5,5.2],"artists":{"thompson-twins":true},"genres":["pop"]}
+{"title":"Hold Me Now","instanceSlug":428,"tags":[],"parents":[],"genre":"pop","debut":"1984-03","playlists":[],"ranks":[16.5,9.5,5.4,4.5,5.2],"artists":[{"slug":"thompson-twins","title":"Thompson Twins","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

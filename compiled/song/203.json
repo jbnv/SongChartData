@@ -1,1 +1,1 @@
-{"title":"Heart of Stone","instanceSlug":203,"tags":[],"parents":[],"genre":"pop-ballad","debut":"1990-09","ranks":[13.7,7.7,4.3,3.1,2.4,2.82],"artists":{"taylor-dayne":true},"genres":["pop-ballad"]}
+{"title":"Heart of Stone","instanceSlug":203,"tags":[],"parents":[],"genre":"pop-ballad","debut":"1990-09","ranks":[13.7,7.7,4.3,3.1,2.4,2.82],"artists":[{"slug":"taylor-dayne","title":"Taylor Dayne","roleSlug":true}],"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"playlists":[]}

@@ -1,1 +1,1 @@
-{"title":"Another Part of Me","instanceSlug":547,"tags":[],"parents":[],"genre":"dance-pop","debut":"1988-08","playlists":["summer"],"ranks":[12,3,1.1,1.44],"artists":{"michael-jackson":true},"genres":["dance-pop"]}
+{"title":"Another Part of Me","instanceSlug":547,"tags":[],"parents":[],"genre":"dance-pop","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,3,1.1,1.44],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}]}

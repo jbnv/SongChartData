@@ -1,1 +1,1 @@
-{"title":"Rock This Town","instanceSlug":106,"tags":["rock","this","town"],"parents":[],"genre":"rockabilly","debut":"1982-10","ranks":[20.5,16,12,9.2,7.9,7.5,7.6,7.9,9],"artists":{"stray-cats":true},"genres":["rockabilly"]}
+{"title":"Rock This Town","instanceSlug":106,"tags":["rock","this","town"],"parents":[],"genre":"rockabilly","debut":"1982-10","ranks":[20.5,16,12,9.2,7.9,7.5,7.6,7.9,9],"artists":[{"slug":"stray-cats","title":"Stray Cats","roleSlug":true}],"genres":[{"slug":"rockabilly","title":"Rockabilly"}],"playlists":[]}

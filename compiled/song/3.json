@@ -1,1 +1,1 @@
-{"title":"Cool It Now","instanceSlug":3,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1984-11","ranks":[16,9,4.6,3.9,3.7,4.1,4.7],"artists":{"new-edition":null},"genres":["urban"]}
+{"title":"Cool It Now","instanceSlug":3,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1984-11","ranks":[16,9,4.6,3.9,3.7,4.1,4.7],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":null}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[]}

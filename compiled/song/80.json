@@ -1,1 +1,1 @@
-{"title":"Purple Rain","instanceSlug":80,"tags":["#2","purple","rain"],"parents":[],"genre":"pop","debut":"1984-10","ranks":[19.9,11.8,8.9,9.5,11.2,14.5],"artists":{"prince":true},"genres":["pop"]}
+{"title":"Purple Rain","instanceSlug":80,"tags":["#2","purple","rain"],"parents":[],"genre":"pop","debut":"1984-10","ranks":[19.9,11.8,8.9,9.5,11.2,14.5],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

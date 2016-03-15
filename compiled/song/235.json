@@ -1,1 +1,1 @@
-{"title":"One Heartbeat","instanceSlug":235,"tags":["heartbeat","one"],"parents":[],"genre":"soul","debut":"1987-09","ranks":[19.9,11.8,7.8,6.6,6.2,5.9,8],"artists":{"smokey-robinson":true},"genres":["soul"]}
+{"title":"One Heartbeat","instanceSlug":235,"tags":["heartbeat","one"],"parents":[],"genre":"soul","debut":"1987-09","ranks":[19.9,11.8,7.8,6.6,6.2,5.9,8],"artists":[{"slug":"smokey-robinson","title":"Smokey Robinson","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"playlists":[]}

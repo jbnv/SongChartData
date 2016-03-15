@@ -1,1 +1,1 @@
-{"title":"You Are Not Alone","instanceSlug":349,"tags":["alone","not","you-are"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[17,11,7.5,4.2,3.25,3.45,3.66,3.91,4.4],"artists":{"michael-jackson":true},"genres":["pop"]}
+{"title":"You Are Not Alone","instanceSlug":349,"tags":["alone","not","you-are"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[17,11,7.5,4.2,3.25,3.45,3.66,3.91,4.4],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

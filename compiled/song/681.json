@@ -1,1 +1,1 @@
-{"title":"Heart Attack","instanceSlug":681,"tags":[],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[18,11,7,5,4,3,3.25,3.7],"artists":{"olivia-newton-john":true},"genres":["pop"]}
+{"title":"Heart Attack","instanceSlug":681,"tags":[],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[18,11,7,5,4,3,3.25,3.7],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

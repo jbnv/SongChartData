@@ -1,1 +1,1 @@
-{"title":"Where Do You Go","instanceSlug":601,"tags":[],"parents":[],"genre":"dance","debut":"1996-08","playlists":["summer"],"ranks":[19.2,11.8,8.5,7.7,7.3,7.45,7.82,8.5,9.6],"artists":{"no-mercy":true},"genres":["dance"]}
+{"title":"Where Do You Go","instanceSlug":601,"tags":[],"parents":[],"genre":"dance","debut":"1996-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[19.2,11.8,8.5,7.7,7.3,7.45,7.82,8.5,9.6],"artists":[{"slug":"no-mercy","title":"No Mercy","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}]}

@@ -1,1 +1,1 @@
-{"title":"The Other Side","instanceSlug":115,"tags":[],"parents":[],"genre":"rock","debut":"1990-07","ranks":[13.5,6,3,2,2.5],"artists":{"aerosmith":true},"genres":["rock"]}
+{"title":"The Other Side","instanceSlug":115,"tags":[],"parents":[],"genre":"rock","debut":"1990-07","ranks":[13.5,6,3,2,2.5],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[]}

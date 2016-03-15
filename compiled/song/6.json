@@ -1,1 +1,1 @@
-{"title":"Cool Night","instanceSlug":6,"tags":["cool","night"],"parents":[],"genre":"pop","debut":"1981-12","ranks":[15,10,5,3.5,3.2,2.99,2.91,3.2,3.6],"artists":{"paul-davis":null},"genres":["pop"]}
+{"title":"Cool Night","instanceSlug":6,"tags":["cool","night"],"parents":[],"genre":"pop","debut":"1981-12","ranks":[15,10,5,3.5,3.2,2.99,2.91,3.2,3.6],"artists":[{"slug":"paul-davis","title":"Paul Davis","roleSlug":null}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

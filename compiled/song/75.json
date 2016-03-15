@@ -1,1 +1,1 @@
-{"title":"Solitaire","instanceSlug":75,"tags":[],"parents":[],"genre":"pop","debut":"1983-04","ranks":[15.9,8.7,4.7,2.5,2.84],"artists":{"laura-branigan":true},"genres":["pop"]}
+{"title":"Solitaire","instanceSlug":75,"tags":[],"parents":[],"genre":"pop","debut":"1983-04","ranks":[15.9,8.7,4.7,2.5,2.84],"artists":[{"slug":"laura-branigan","title":"Laura Branigan","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[]}

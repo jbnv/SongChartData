@@ -1,1 +1,1 @@
-{"title":"Another Day in Paradise","instanceSlug":397,"tags":[],"parents":[],"genre":"pop","debut":"1989-12","playlists":[],"ranks":[24,18,12,15],"artists":{"phil-collins":true,"david-crosby":"backup"},"genres":["pop"]}
+{"title":"Another Day in Paradise","instanceSlug":397,"tags":[],"parents":[],"genre":"pop","debut":"1989-12","playlists":[],"ranks":[24,18,12,15],"artists":[{"slug":"phil-collins","title":"Phil Collins","roleSlug":true},{"slug":"david-crosby","title":"David Crosby","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}]}

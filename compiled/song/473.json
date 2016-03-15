@@ -1,1 +1,1 @@
-{"title":"Dr. Feelgood","instanceSlug":473,"tags":["doctor","feel","good"],"parents":[],"genre":true,"debut":"1989-10","playlists":[],"ranks":[13.9,7.6,4.1,2.2,2.3,2.52,2.79,3.8],"artists":{"motley-crue":true},"genres":[true]}
+{"title":"Dr. Feelgood","instanceSlug":473,"tags":["doctor","feel","good"],"parents":[],"genre":true,"debut":"1989-10","playlists":[],"ranks":[13.9,7.6,4.1,2.2,2.3,2.52,2.79,3.8],"artists":[{"slug":"motley-crue","title":"Motley Crue","roleSlug":true}],"genres":[{"slug":true}]}

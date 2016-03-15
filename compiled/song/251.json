@@ -1,1 +1,1 @@
-{"title":"Too Funky","instanceSlug":251,"tags":["songs-of-summer"],"parents":[],"genre":true,"debut":"1992-08","ranks":[15.9,9,5.1,3.3,4.6,6.4,9,12.5,17.3,24,33.3,46.3,64.2,89.1,123.7],"artists":{"george-michael":true},"genres":[true]}
+{"title":"Too Funky","instanceSlug":251,"tags":["songs-of-summer"],"parents":[],"genre":true,"debut":"1992-08","ranks":[15.9,9,5.1,3.3,4.6,6.4,9,12.5,17.3,24,33.3,46.3,64.2,89.1,123.7],"artists":[{"slug":"george-michael","title":"George Michael","roleSlug":true}],"genres":[{"slug":true}],"playlists":[]}

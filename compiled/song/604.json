@@ -1,1 +1,1 @@
-{"title":"Delirious","instanceSlug":604,"tags":[],"parents":[],"genre":"pop","debut":"1983-10","playlists":[],"ranks":[17.9,10.6,6.2,5.5,5.4,6.8],"artists":{"prince":true},"genres":["pop"]}
+{"title":"Delirious","instanceSlug":604,"tags":[],"parents":[],"genre":"pop","debut":"1983-10","playlists":[],"ranks":[17.9,10.6,6.2,5.5,5.4,6.8],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}

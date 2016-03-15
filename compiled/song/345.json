@@ -1,1 +1,1 @@
-{"title":"Runaway","instanceSlug":345,"tags":["run"],"parents":[],"genre":"pop","debut":"1995-10","playlists":[],"ranks":[15,11.5,6.6,5.2,4.4,3.9,5],"artists":{"janet-jackson":true},"genres":["pop"]}
+{"title":"Runaway","instanceSlug":345,"tags":["run"],"parents":[],"genre":"pop","debut":"1995-10","playlists":[],"ranks":[15,11.5,6.6,5.2,4.4,3.9,5],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}]}
