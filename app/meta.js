@@ -35,6 +35,10 @@ module.exports = {
   getCompiledObject: _getCompiledObject,
 
   getArtists: _getCompiledObject("artist","all"),
+  getGenres: _getCompiledObject("genre","all"),
+  getLocations: _getCompiledObject("geo","all"),
+  getPlaylists: _getCompiledObject("playlist","all"),
+  getSources: _getCompiledObject("source","all"),
   getSongs: _getCompiledObject("song","all"),
 
   months: [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ]
