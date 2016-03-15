@@ -27,6 +27,54 @@ if (!Array.prototype.includes) {
   };
 }
 
+function titleTransform(entity) {
+  return { slug: entity.instanceSlug, title: entity.title };
+}
+
+// Expand an object by finding its match in a collection 'all'
+// and applying a transform function 'transform(entity)'.
+Array.prototype.expand = function(all,transform) {
+
+  if (!all) return [];
+  if (!transform) transform = titleTransform;
+
+  var outbound = [];
+  this.forEach(function(slug) {
+    filtered = all.filter(function(genre) { return genre.instanceSlug === slug});
+    if (filtered && filtered[0]) {
+      outbound.push(transform(filtered[0],slug));
+    } else {
+      outbound.push({slug:slug});
+    }
+  });
+  return outbound;
+
+};
+
+// Expand an object by finding its match in a collection 'all'
+// and applying a transform function 'transform(entity,key,value)'.
+Object.prototype.expand = function(all,transform) {
+
+  if (!all) return [];
+  if (!transform) transform = titleTransform;
+
+  var outbound = [];
+  var _this = this;
+
+  Object.keys(this).forEach(function(slug) {
+    filtered = all.filter(function(genre) { return genre.instanceSlug === slug});
+    if (filtered && filtered[0]) {
+      outbound.push(transform(filtered[0],slug,_this[slug]));
+    } else {
+      outbound.push({slug:slug});
+    }
+  });
+
+  console.log("Object.prototype.expand: outbound",outbound);
+  return outbound;
+
+};
+
 if (!String.prototype.startsWith) {
     String.prototype.startsWith = function(searchString, position){
       position = position || 0;
