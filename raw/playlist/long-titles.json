@@ -1,6 +1,7 @@
 {
   "instanceSlug": "long-titles",
   "title": "Long Titles",
+  "description":"Songs with 6 or more words in the title.",
   "filter": {
     "title": ".* .* .* .* .* .*"
   }
