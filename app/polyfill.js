@@ -1,3 +1,9 @@
+if (!Array.isArray) {
+  Array.isArray = function(arg) {
+    return Object.prototype.toString.call(arg) === '[object Array]';
+  };
+}
+
 if (!Array.prototype.includes) {
   Array.prototype.includes = function(searchElement /*, fromIndex*/ ) {
     'use strict';
@@ -70,7 +76,6 @@ Object.prototype.expand = function(all,transform) {
     }
   });
 
-  console.log("Object.prototype.expand: outbound",outbound);
   return outbound;
 
 };

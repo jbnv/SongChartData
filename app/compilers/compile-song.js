@@ -1,4 +1,6 @@
-var meta = require('../meta');
+var meta = require('../meta'),
+    scoring = require("../scoring");
+
 require("../polyfill");
 
 function transformArtist(artist,slug,roleSlug) {
@@ -15,8 +17,11 @@ module.exports = function(yargs,entities) {
   titles = {};
 
   entities.forEach(function(entity) {
+    //console.log(entity.instanceSlug,entity.title);
 
     titles[entity.instanceSlug] = entity.title;
+
+    scoring.score(entity);
 
     if (entity.genre && !entity.genres) { entity.genres = [entity.genre]; }
     if (entity.playlist && !entity.playlists) { entity.playlists = [entity.playlist]; }
@@ -39,6 +44,7 @@ module.exports = function(yargs,entities) {
        entity.playlists = [];
     }
 
+    //console.log(entity);
   });
 
   return {
