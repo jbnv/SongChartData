@@ -1,5 +1,5 @@
 var chalk       = require("chalk"),
-    fs          = require("fs"),
+    fs          = require("graceful-fs"),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
