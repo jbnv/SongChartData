@@ -1,1 +1,47 @@
-{"title":"Cold Hearted","instanceSlug":1,"playlists":[{"slug":"cold"}],"parents":[],"genre":"pop","debut":"1989-07","ranks":[20,12,9,7.2,6.9,7.4,8.1,10.13,12.66,15.82,19.78,24.72,30.9,38.62,48.28,60.35],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":20,"peakRank":6.9,"duration":4,"score":6.72,"genres":[{"slug":"pop","title":"Pop"}]}
+{
+  "title": "Cold Hearted",
+  "instanceSlug": 1,
+  "playlists": [
+    {
+      "slug": "cold"
+    }
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1989-07",
+  "ranks": [
+    20,
+    12,
+    9,
+    7.2,
+    6.9,
+    7.4,
+    8.1,
+    10.13,
+    12.66,
+    15.82,
+    19.78,
+    24.72,
+    30.9,
+    38.62,
+    48.28,
+    60.35
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "debutRank": 20,
+  "peakRank": 6.9,
+  "duration": 4,
+  "score": 6.72,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ]
+}
