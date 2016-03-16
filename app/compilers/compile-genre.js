@@ -9,6 +9,7 @@ module.exports = function(yargs,entities) {
     var slug = entity.instanceSlug;
     entity.artists = [];
     entity.songs = [];
+    entity.score = 0;
     titles[slug] = entity.title;
 
     meta.getArtists().forEach(function(artist) {
@@ -23,9 +24,10 @@ module.exports = function(yargs,entities) {
 
     meta.getSongs().forEach(function(song) {
       if (song.genres) {
-        song.genres.forEach(function(songGenreSlug) {
-          if (songGenreSlug === slug) {
+        song.genres.forEach(function(genre) {
+          if (genre.slug === slug) {
             entity.songs.push(song);
+            entity.score += song.score;
           }
         });
       }
