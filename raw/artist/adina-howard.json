@@ -1,1 +1,12 @@
-{"title":"Adina Howard","instanceSlug":"adina-howard","tags":[],"parents":[],"genres":[],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Adina Howard",
+  "instanceSlug": "adina-howard",
+  "tags": [],
+  "parents": [],
+  "genres": ["urban"],
+  "type": "f",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

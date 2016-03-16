@@ -1,1 +1,12 @@
-{"title":"Adele","instanceSlug":"adele","tags":[],"parents":[],"genres":[],"type":"","origin":"london","birth":"","death":"","complete":false}
+{
+  "title": "Adele",
+  "instanceSlug": "adele",
+  "tags": [],
+  "parents": [],
+  "genres": ["pop"],
+  "type": "f",
+  "origin": "london",
+  "birth": "1990",
+  "death": "",
+  "complete": false
+}

@@ -1,1 +1,15 @@
-{"title":"2 Pac","instanceSlug":"2-pac","tags":[],"parents":[],"genres":["urban","rap"],"type":"","origin":"","birth":"","death":"1990s","complete":false}
+{
+  "title": "2 Pac",
+  "instanceSlug": "2-pac",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "urban",
+    "rap"
+  ],
+  "type": "m",
+  "origin": "us",
+  "birth": "",
+  "death": "1990s",
+  "complete": false
+}

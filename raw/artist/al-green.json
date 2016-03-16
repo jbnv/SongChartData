@@ -1,1 +1,14 @@
-{"title":"Al Green","instanceSlug":"al-green","tags":[],"parents":[],"genres":["soul"],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Al Green",
+  "instanceSlug": "al-green",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "soul"
+  ],
+  "type": "m",
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "complete": false
+}
