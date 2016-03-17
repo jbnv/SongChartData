@@ -59,6 +59,16 @@ module.exports = function(gulp,model) {
     };
   };
 
+  function parse(json) {
+    var outbound = {};
+    try {
+      outbound = JSON.parse(json);
+    } catch(err) {
+      util.log(chalk.red(err.message),json);
+    }
+    return outbound;
+  }
+
   gulp.task("compile-"+spec.typeSlug, "Compile "+spec.typeNoun+" entities.", function() {
 
     var source_directory = path.join(meta.rawRoot,spec.typeSlug);
@@ -72,7 +82,7 @@ module.exports = function(gulp,model) {
       return q.all(promises);
     })
     .then(function(entityFileTexts) {
-      var entities = entityFileTexts.map(JSON.parse);
+      var entities = entityFileTexts.map(parse);
       var compiled_content_as_object = require("../app/compilers/compile-"+spec.typeSlug)(null,entities);
 
       for (var key in compiled_content_as_object) {
