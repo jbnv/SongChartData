@@ -3,7 +3,9 @@ var chalk       = require("chalk"),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
-    meta = require('../meta');
+
+    meta        = require('../meta'),
+    scoring     = require('../scoring');
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
@@ -47,6 +49,7 @@ module.exports = function(yargs,entities) {
     }
 
     meta.getSongs().forEach(filter);
+    entity.songs = scoring.sortAndRank(entity.songs);
 
   });
 
