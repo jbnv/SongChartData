@@ -1,5 +1,6 @@
 var fs = require("fs"),
-    meta = require('../meta');
+    meta = require('../meta'),
+    scoring = require('../scoring');
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
@@ -32,6 +33,8 @@ module.exports = function(yargs,entities) {
         });
       }
     });
+
+    entity.songs = scoring.sortAndRank(entity.songs);
 
   });
 
