@@ -6,6 +6,18 @@ function round00(n) {
   return Math.round(parseFloat(n)*100)/100;
 }
 
+function sortByScore(a,b) {
+  return (b.score || 0) - (a.score || 0);
+}
+
+exports.sortAndRank = function(songArray) {
+  var outbound = songArray.sort(sortByScore);
+  outbound.forEach(function(song,index) {
+    song.rank = index + 1;
+  });
+  return outbound;
+}
+
 // Scoring criteria:
 // Debut rank (D): Higher rank (lower number) is better.
 // Peak rank (P): Higher rank (lower number) is better.
