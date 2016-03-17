@@ -1,1 +1,18 @@
-{"title":"You and I","instanceSlug":1245,"tags":["#1","#1-country","you-and-i"],"parents":[],"genre":"country","debut":"1982-11","playlists":[],"ranks":[],"artists":{"eddie-rabbitt":true,"crystal-gayle":"feature"}}
+{
+  "title": "You and I",
+  "instanceSlug": 1245,
+  "tags": [
+    "#1",
+    "#1-country",
+    "you-and-i"
+  ],
+  "parents": [],
+  "genre": "country",
+  "debut": "1982-11",
+  "playlists": [],
+  "ranks": [10,1.4,1.15,1.25,1.39,1.55],
+  "artists": {
+    "eddie-rabbitt": true,
+    "crystal-gayle": "feature"
+  }
+}

@@ -1,1 +1,20 @@
-{"title":"The Devil Went Down to Georgia","instanceSlug":829,"tags":[],"parents":[],"genre":"country","debut":1979,"playlists":["places"],"ranks":[9,4.7,2.5,1.3,1.1,1.4,1.8],"artists":{"charlie-daniels":true}}
+{
+  "title": "The Devil Went Down to Georgia",
+  "instanceSlug": 829,
+  "tags": [],
+  "parents": [],
+  "genre": "country",
+  "debut": 1979,
+  "playlists": [
+    "places"
+  ],
+  "ranks": [
+    9,
+    1,
+    1.1,
+    1.25
+  ],
+  "artists": {
+    "charlie-daniels": true
+  }
+}
