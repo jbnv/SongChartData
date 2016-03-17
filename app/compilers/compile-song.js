@@ -1,5 +1,11 @@
-var meta = require('../meta'),
-    scoring = require("../scoring");
+var chalk       = require("chalk"),
+    fs          = require("fs"),
+    path        = require("path"),
+    q           = require("q"),
+    util        = require("gulp-util"),
+    
+    meta        = require('../meta'),
+    scoring     = require("../scoring");
 
 require("../polyfill");
 
@@ -9,6 +15,7 @@ function transformArtist(artist,slug,roleSlug) {
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
+  util.log(chalk.magenta("compile-song.js"));
 
   allArtists = meta.getArtists();
   allGenres = meta.getGenres();
@@ -17,7 +24,8 @@ module.exports = function(yargs,entities) {
   titles = {};
 
   entities.forEach(function(entity) {
-    //console.log(entity.instanceSlug,entity.title);
+    var slug = entity.instanceSlug;
+    util.log(chalk.blue(entity.instanceSlug),entity.title);
 
     titles[entity.instanceSlug] = entity.title;
 
