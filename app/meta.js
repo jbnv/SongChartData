@@ -17,6 +17,14 @@ function _rawRoute(typeSlug,instanceSlug) { return path.join("raw",typeSlug,""+i
 function _compiledRoute(typeSlug,instanceSlug) { return path.join("compiled",typeSlug,""+instanceSlug); }
 function _chartRoute(typeSlug,instanceSlug) { return path.join("compiled",typeSlug,"charts",""+instanceSlug); }
 
+function _getRawObject(typeSlug,instanceSlug) {
+  return function() {
+    //TODO Check for file not existing.
+    var path = meta.rawRoute(typeSlug,""+instanceSlug+".json");
+    return JSON.parse(fs.readFileSync(path));
+  };
+}
+
 function _getCompiledObject(typeSlug,instanceSlug) {
   return function() {
     //TODO Check for file not existing.
@@ -32,6 +40,7 @@ module.exports = {
   rawRoute: _rawRoute,
   compiledRoute: _compiledRoute,
   chartRoute: _chartRoute,
+  getRawObject: _getRawObject,
   getCompiledObject: _getCompiledObject,
 
   getArtists: _getCompiledObject("artist","all"),
