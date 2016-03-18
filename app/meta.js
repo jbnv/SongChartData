@@ -34,6 +34,8 @@ function _getCompiledObject(typeSlug,instanceSlug) {
 }
 
 module.exports = {
+  entityTypes: ["artist","genre","geo","playlist","song","source"],
+
   root: root,
   rawRoot: rawRoot,
   compiledRoot: compiledRoot,

@@ -1,5 +1,6 @@
 var fs          = require('fs'),
-    path        = require('path');
+    path        = require('path'),
+    meta        = require("./meta");
 
 module.exports = function(route,obj) {
   var targetPath = path.join(meta.root, route+".json");
