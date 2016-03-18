@@ -1,8 +1,12 @@
 var app  = require("express")();
     cors = require('cors'),
+    entityFs = require("./app/entity"),
     fs   = require('fs'),
+    fsq = require("./app/fs"),
     http = require('http'),
-    path = require('path');
+    meta = require("./app/meta"),
+    path = require('path'),
+    q = require("q");
 
 require("./app/polyfill");
 
@@ -143,6 +147,30 @@ app.get(/^\/song\/(.+)$/, function(req, res) {
   console.log("/song",req.params[0]);
   var slug = req.params[0];
   res.send(_song(slug,true));
+});
+
+//
+
+app.get("/summary", function(req,res) {
+  console.log("/summary");
+
+  var promises = meta.entityTypes
+    .map(function(entityType) {
+      var entityPath = path.join("raw",entityType);
+      return fsq.readDir(entityPath).then(function(listing) { return {slug: entityType, count: listing.length}; });
+    });
+
+  q.all(promises)
+    .then(function(entityCounts) {
+      var outbound = {};
+      entityCounts.forEach(function(entry) { outbound[entry.slug] = entry.count; });
+      res.send(outbound);
+    })
+    .catch(function (error) {
+      res.send({"error":error});
+    })
+  ;
+
 });
 
 //region Start the server.
