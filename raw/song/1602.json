@@ -1,1 +1,24 @@
-{"title":"All for Love","instanceSlug":1602,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1993-12","source":"the-three-musketeers-1993","playlists":[],"ranks":[18,11,7.5,5.4,4.8,4.95,5.25,5.86,6.4],"artists":{"bryan-adams":true,"rod-stewart":true,"sting":true}}
+{
+  "title": "All for Love",
+  "instanceSlug": 1602,
+  "genres": ["pop","rock-ballad"],
+  "debut": "1993-12",
+  "source": "three-musketeers-1993",
+  "playlists": ["love"],
+  "ranks": [
+    18,
+    11,
+    7.5,
+    5.4,
+    4.8,
+    4.95,
+    5.25,
+    5.86,
+    6.4
+  ],
+  "artists": {
+    "bryan-adams": true,
+    "rod-stewart": true,
+    "sting": true
+  }
+}

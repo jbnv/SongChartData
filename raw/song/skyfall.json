@@ -1,0 +1,13 @@
+{
+  "title": "Skyfall",
+  "instanceSlug": "skyfall",
+  "words": ["sky","fall"],
+  "genre": "pop",
+  "debut": "2010s",
+  "source": "skyfall",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "adele": true
+  }
+}

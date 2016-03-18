@@ -1,1 +1,23 @@
-{"title":"Beautiful Stranger","instanceSlug":334,"tags":[],"parents":[],"genre":"pop","debut":"1999-07","source":"austin-powers:the-spy-who-shagged-me","playlists":["summer"],"ranks":[10,2.7,1.41,1.1,1.21,1.6],"artists":{"madonna":true}}
+{
+  "title": "Beautiful Stranger",
+  "instanceSlug": 334,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1999-07",
+  "source": "austin-powers-2",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    10,
+    2.7,
+    1.41,
+    1.1,
+    1.21,
+    1.6
+  ],
+  "artists": {
+    "madonna": true
+  }
+}

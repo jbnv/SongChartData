@@ -1,1 +1,17 @@
-{"title":"Blurred Lines","instanceSlug":3012,"tags":["#1","#1-rdwt40-hot-adult","adultery","cheating"],"parents":[],"genre":"pop","debut":2013,"playlists":[],"ranks":[],"artists":{"robin-thicke":true,"t-i":"feature","pharrell-williams":"feature"}}
+{
+  "title": "Blurred Lines",
+  "instanceSlug": 3012,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "genre": "pop",
+  "debut": 2013,
+  "playlists": ["adultery","cheating"],
+  "ranks": [],
+  "artists": {
+    "robin-thicke": true,
+    "t-i": "feature",
+    "pharrell-williams": "feature"
+  }
+}

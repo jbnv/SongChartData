@@ -1,1 +1,17 @@
-{"title":"Nobody Does It Better","instanceSlug":2869,"tags":["#1","#1-adult-contemporary","#2-hot-100"],"parents":[],"genre":"pop","debut":1977,"source":"the-spy-who-loved-me","playlists":[],"ranks":true,"artists":{"carly-simon":true}}
+{
+  "title": "Nobody Does It Better",
+  "instanceSlug": 2869,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#2-hot-100"
+  ],
+  "genre": "pop",
+  "debut": 1977,
+  "source": "spy-who-loved-me",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "carly-simon": true
+  }
+}
