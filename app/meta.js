@@ -20,7 +20,7 @@ function _chartRoute(typeSlug,instanceSlug) { return path.join("compiled",typeSl
 function _getRawObject(typeSlug,instanceSlug) {
   return function() {
     //TODO Check for file not existing.
-    var path = meta.rawRoute(typeSlug,""+instanceSlug+".json");
+    var path = _rawRoute(typeSlug,""+instanceSlug+".json");
     return JSON.parse(fs.readFileSync(path));
   };
 }
@@ -28,7 +28,7 @@ function _getRawObject(typeSlug,instanceSlug) {
 function _getCompiledObject(typeSlug,instanceSlug) {
   return function() {
     //TODO Check for file not existing.
-    var path = meta.compiledRoute(typeSlug,""+instanceSlug+".json");
+    var path = _compiledRoute(typeSlug,""+instanceSlug+".json");
     return JSON.parse(fs.readFileSync(path));
   };
 }
