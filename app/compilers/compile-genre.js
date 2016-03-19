@@ -1,40 +1,29 @@
-var fs = require("fs"),
-    meta = require('../meta'),
-    scoring = require('../scoring');
+var chalk       = require("chalk"),
+    fs          = require("fs"),
+    path        = require("path"),
+    q           = require("q"),
+    util        = require("gulp-util"),
+
+    readEntity  = require("../../lib/fs").readEntity,
+
+    meta        = require('../meta'),
+    scoring     = require('../scoring');
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
+  util.log(chalk.magenta("compile-genre.js"));
+
   titles = {};
+  var artists = readEntity(path.join("compiled","artist","by-genre"));
+  var songs = readEntity(path.join("compiled","song","by-genre"));
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
-    entity.artists = [];
-    entity.songs = [];
-    entity.score = 0;
-    titles[slug] = entity.title;
+    util.log(chalk.blue(entity.instanceSlug),entity.title);
 
-    meta.getArtists().forEach(function(artist) {
-      if (artist.genres) {
-        artist.genres.forEach(function(artistGenreSlug) {
-          if (artistGenreSlug === slug) {
-            entity.artists.push(artist);
-          }
-        });
-      }
-    });
-
-    meta.getSongs().forEach(function(song) {
-      if (song.genres) {
-        song.genres.forEach(function(genre) {
-          if (genre.slug === slug) {
-            entity.songs.push(song);
-            entity.score += song.score;
-          }
-        });
-      }
-    });
-
-    entity.songs = scoring.sortAndRank(entity.songs);
+    entity.artists = artists[entity.instanceSlug] || [];
+    entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
+    scoring.scoreCollection.call(entity);
 
   });
 

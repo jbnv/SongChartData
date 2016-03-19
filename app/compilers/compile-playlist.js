@@ -50,7 +50,7 @@ module.exports = function(yargs,entities) {
 
     meta.getSongs().forEach(filter);
     entity.songs = scoring.sortAndRank(entity.songs);
-
+    scoring.scoreCollection.call(entity);
   });
 
   return {

@@ -1,9 +1,10 @@
 var chalk       = require("chalk"),
+    expandObject = require("../../lib/expand-object"),
     fs          = require("fs"),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
-    
+
     meta        = require('../meta'),
     scoring     = require("../scoring");
 
@@ -21,7 +22,11 @@ module.exports = function(yargs,entities) {
   allGenres = meta.getGenres();
   allPlaylists = meta.getPlaylists();
 
-  titles = {};
+  var titles = {},
+      artists = {},
+      genres = {},
+      playlists = {},
+      sources = {};
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
@@ -35,21 +40,38 @@ module.exports = function(yargs,entities) {
     if (entity.playlist && !entity.playlists) { entity.playlists = [entity.playlist]; }
 
     if (entity.artists) {
-      entity.artists = entity.artists.expand(allArtists,transformArtist);
+      for (var artistSlug in entity.artists) {
+        if (!artists[artistSlug]) artists[artistSlug] = [];
+        artists[artistSlug].push(entity);
+      }
+      entity.artists = expandObject.call(entity.artists,allArtists,transformArtist);
     } else {
        entity.artists = [];
     }
 
     if (entity.genres) {
+      entity.genres.forEach(function(genreSlug) {
+        if (!genres[genreSlug]) genres[genreSlug] = [];
+        genres[genreSlug].push(entity);
+      });
       entity.genres = entity.genres.expand(allGenres);
     } else {
        entity.genres = [];
     }
 
     if (entity.playlists) {
+      entity.playlists.forEach(function(playlistSlug) {
+        if (!playlists[playlistSlug]) playlists[playlistSlug] = [];
+        playlists[playlistSlug].push(entity);
+      });
       entity.playlists = entity.playlists.expand(allPlaylists);
     } else {
        entity.playlists = [];
+    }
+
+    if (entity.source) {
+      if (!sources[entity.source]) sources[entity.source] = [];
+      sources[entity.source].push(entity);
     }
 
     //console.log(entity);
@@ -58,5 +80,9 @@ module.exports = function(yargs,entities) {
   return {
     "all": entities,
     "titles": titles,
+    "by-artist": artists,
+    "by-genre": genres,
+    "by-playlist": playlists,
+    "by-source": sources
   }
 }

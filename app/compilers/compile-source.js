@@ -1,22 +1,29 @@
-var fs = require("fs"),
-    meta = require('../meta');
+var chalk       = require("chalk"),
+    fs          = require("fs"),
+    path        = require("path"),
+    q           = require("q"),
+    util        = require("gulp-util"),
+
+    readEntity  = require("../../lib/fs").readEntity,
+
+    meta        = require('../meta'),
+    scoring     = require('../scoring');
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
-  titles = {};
+  util.log(chalk.magenta("compile-source.js"));
 
-  entities.forEach(function(entity) {
-    var slug = entity.instanceSlug;
-    entity.songs = [];
-    titles[slug] = entity.title;
+    titles = {};
+    var songs = readEntity(path.join("compiled","song","by-source"));
 
-    meta.getSongs().forEach(function(song) {
-      if (song.source === slug) {
-        entity.songs.push(song);
-      }
+    entities.forEach(function(entity) {
+      var slug = entity.instanceSlug;
+      util.log(chalk.blue(entity.instanceSlug),entity.title);
+
+      entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
+      scoring.scoreCollection.call(entity);
+
     });
-
-  });
 
   return {
     "all": entities,
