@@ -1,17 +1,15 @@
 // Middleware for scoring and ranking.
 
 require("./polyfill");
+var transform = require("./transform");
 
 function round00(n) {
   return Math.round(parseFloat(n)*100)/100;
 }
 
-function sortByScore(a,b) {
-  return (b.score || 0) - (a.score || 0);
-}
-
 exports.sortAndRank = function(songArray) {
-  var outbound = songArray.sort(sortByScore);
+  if (!songArray) return [];
+  var outbound = songArray.sort(transform.sortByScore);
   outbound.forEach(function(song,index) {
     song.rank = index + 1;
   });
@@ -108,11 +106,25 @@ exports.score = function(song,scoringOptions) {
 	return song;
 }
 
-exports.scoreCollection = function(songArray) {
-  return songArray.reduce(function(score,song) {
+// this: song collection
+exports.scoreCollection = function() {
+  var score = 0.0;
+  this.songs.forEach(function(song) {
     if (song.score) {
-			score += parseFloat(song.score);
+      try {
+			  score += parseFloat(song.score);
+      } catch(error) {
+      }
 		}
-    return score;
-  },0.0);
+  });
+  this.score = round00(score);
+
+  if (this.songs && this.songs.length > 0) {
+    this.songAdjustedAverage = round00(this.score / Math.sqrt(this.songs.length));
+  }
+
+  if (this.artists && this.artists.length > 0) {
+    this.artistAdjustedAverage = round00(this.score / Math.sqrt(this.artists.length));
+  }
+
 }
