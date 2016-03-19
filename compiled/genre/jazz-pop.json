@@ -1,1 +1,1 @@
-{"instanceSlug":"jazz-pop","title":"Jazz-Pop","parents":["pop"],"artists":[],"songs":[2551],"score":0,"songAdjustedAverage":0}
+{"instanceSlug":"jazz-pop","title":"Jazz-Pop","parents":["pop"],"artists":[],"songs":[{"title":"Paperlate","instanceSlug":2551,"tags":[],"parents":[],"genre":"jazz-pop","debut":"1982-08","playlists":[],"ranks":[],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"genres":[{"slug":"jazz-pop","title":"Jazz-Pop"}],"rank":1}],"score":0,"songAdjustedAverage":0}
