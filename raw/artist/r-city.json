@@ -1,1 +1,9 @@
-{"title":"R. City","instanceSlug":"r-city","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title":"R. City",
+  "instanceSlug":"r-city",
+  "genres": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": ""
+}

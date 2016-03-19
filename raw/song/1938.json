@@ -1,1 +1,13 @@
-{"title":"Lovesong","instanceSlug":1938,"tags":[],"parents":[],"genre":"rock","debut":"1990-02","playlists":[],"ranks":[],"artists":{"tesla":true}}
+{
+  "title": "Signs",
+  "instanceSlug": 1938,
+  "tags": [],
+  "parents": [],
+  "genre": "hard-rock",
+  "debut": "1991-02",
+  "playlists": ["inanimate"],
+  "ranks": [],
+  "artists": {
+    "tesla": true
+  }
+}

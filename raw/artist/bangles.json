@@ -1,1 +1,17 @@
-{"title":"Bangles","instanceSlug":"bangles","tags":[],"parents":[],"genres":["pop-rock"],"members":[],"origin":"los-angeles","birth":"","death":"","complete":true,"type":"g"}
+{
+  "title": "Bangles",
+  "instanceSlug": "bangles",
+  "tags": [
+    "all-female","1980s"
+  ],
+  "parents": [],
+  "genres": [
+    "pop-rock"
+  ],
+  "members": [],
+  "origin": "los-angeles",
+  "birth": "",
+  "death": "",
+  "complete": true,
+  "type": "g"
+}

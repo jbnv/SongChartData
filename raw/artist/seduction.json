@@ -1,1 +1,16 @@
-{"title":["Seduction",true],"instanceSlug":"seduction","tags":[],"parents":[],"genres":["all-female"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Seduction",
+  "instanceSlug": "seduction",
+  "tags": [],
+  "parents": ["all-female"],
+  "genres": [
+
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}

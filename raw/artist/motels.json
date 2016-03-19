@@ -1,1 +1,16 @@
-{"title":["Motels",true],"instanceSlug":"motels","tags":[],"parents":[],"genres":["1980s"],"members":[],"xref":[],"complete":false,"origin":"us","birth":"","death":"","type":"g"}
+{
+  "title": "Motels",
+  "instanceSlug": "motels",
+  "tags": [
+    "1980s"
+  ],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}

@@ -1,1 +1,14 @@
-{"title":"Tony Terry","instanceSlug":"tony-terry","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Tony Terry",
+  "instanceSlug": "tony-terry",
+  "tags": [],
+  "parents": [],
+  "genres": ["r&b","funk"],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "dc",
+  "birth": "1964",
+  "death": "",
+  "type": "m"
+}
