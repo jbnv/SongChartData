@@ -1,8 +1,7 @@
 var app  = require("express")();
     cors = require('cors'),
-    entityFs = require("./app/entity"),
     fs   = require('fs'),
-    fsq = require("./app/fs"),
+    fsq = require("./lib/fs"),
     http = require('http'),
     meta = require("./app/meta"),
     path = require('path'),
