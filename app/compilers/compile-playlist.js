@@ -4,22 +4,26 @@ var chalk       = require("chalk"),
     q           = require("q"),
     util        = require("gulp-util"),
 
+    readEntity  = require("../../lib/fs").readEntity,
+
     meta        = require('../meta'),
     scoring     = require('../scoring');
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-playlist.js"));
+
   titles = {};
+  var songs = readEntity(path.join("compiled","song","by-playlist"));
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
     util.log(chalk.blue(entity.instanceSlug),entity.title);
 
-    entity.songs = [];
     titles[slug] = entity.title;
+    entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
 
-    //TODO Check to see if there is a filter (entity.filter).
+    // Check to see if there is a filter (entity.filter).
     // If so, use it. If not, look for the word in the song's "playlists" value.
     var filter = function(song) {
       if (song.playlists) {
@@ -45,6 +49,18 @@ module.exports = function(yargs,entities) {
             if (exp.test(song.title)) { entity.songs.push(song); }
           }
         }
+
+        if (key === "tag") {
+          // Tag: Argument is a pattern to match.
+          util.log("Tag pattern:",chalk.magenta(pattern));
+          filter = function(song) {
+            if (song.tags) {
+              song.tags.forEach(function(tag) {
+                if (exp.test(tag)) { entity.songs.push(song); }
+              })
+            }
+          }
+        }
       });
     }
 
@@ -53,8 +69,11 @@ module.exports = function(yargs,entities) {
     scoring.scoreCollection.call(entity);
   });
 
+  unrankedSongs = [];
+
   return {
     "all": entities,
     "titles": titles,
+    "unranked": unrankedSongs
   }
 }

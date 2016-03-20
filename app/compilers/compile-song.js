@@ -26,7 +26,8 @@ module.exports = function(yargs,entities) {
       artists = {},
       genres = {},
       playlists = {},
-      sources = {};
+      sources = {},
+      unranked = [];
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
@@ -74,7 +75,8 @@ module.exports = function(yargs,entities) {
       sources[entity.source].push(entity);
     }
 
-    //console.log(entity);
+    if ((entity.ranks || []).length == 0) unranked.push(entity);
+
   });
 
   return {
@@ -83,6 +85,7 @@ module.exports = function(yargs,entities) {
     "by-artist": artists,
     "by-genre": genres,
     "by-playlist": playlists,
-    "by-source": sources
+    "by-source": sources,
+    "unranked": unranked
   }
 }
