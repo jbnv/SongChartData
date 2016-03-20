@@ -1,1 +1,25 @@
-{"title":"I Just Can't Stop Loving You","instanceSlug":244,"tags":["#1","#1-adult-contemporary","#1-hot-100","#1-r&b","can't-stop"],"parents":[],"genre":"pop-ballad","debut":"1987-08","ranks":[13.9,7.3,3.6,1.9,2.3],"artists":{"michael-jackson":true,"siedah-garrett":"backup"}}
+{
+  "title": "I Just Can't Stop Loving You",
+  "instanceSlug": 244,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "#1-r&b",
+    "can't-stop"
+  ],
+  "source":"bad",
+  "genre": "pop-ballad",
+  "debut": "1987-08",
+  "ranks": [
+    13.9,
+    7.3,
+    3.6,
+    1.9,
+    2.3
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "siedah-garrett": "backup"
+  }
+}

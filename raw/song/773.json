@@ -1,1 +1,19 @@
-{"title":"Baby Be Mine","instanceSlug":773,"tags":[],"parents":[],"genre":"pop","debut":1983,"source":"thriller","playlists":[],"ranks":[13.9,7.9,4.5,3.4,6.1],"artists":{"michael-jackson":true}}
+{
+  "title": "Baby Be Mine",
+  "instanceSlug": 773,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1983,
+  "source": "thriller",
+  "playlists": [],
+  "ranks": [
+    13.9,
+    7.9,
+    4.5,
+    3.4,
+    6.1
+  ],
+  "artists": {
+    "michael-jackson": true
+  }
+}

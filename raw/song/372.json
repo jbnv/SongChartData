@@ -1,1 +1,24 @@
-{"title":"Billie Jean","instanceSlug":372,"tags":["#1","#1-adult-contemporary","#1-hot-100","women"],"parents":[],"genre":"dance-pop","debut":"1983-02","playlists":[],"ranks":[19.5,12.5,9,6.4,5.5,6.2],"artists":{"michael-jackson":true}}
+{
+  "title": "Billie Jean",
+  "instanceSlug": 372,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "source":"thriller",
+  "genre": "dance-pop",
+  "debut": "1983-02",
+  "playlists": ["women"],
+  "ranks": [
+    19.5,
+    12.5,
+    9,
+    6.4,
+    5.5,
+    6.2
+  ],
+  "artists": {
+    "michael-jackson": true
+  }
+}

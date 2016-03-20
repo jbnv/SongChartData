@@ -1,1 +1,17 @@
-{"title":"Smooth Criminal","instanceSlug":245,"tags":["crime","smooth"],"parents":[],"genre":"dance-pop","debut":"1988-11","ranks":[8,1,1.084],"artists":{"michael-jackson":true}}
+{
+  "title": "Smooth Criminal",
+  "instanceSlug": 245,
+  "tags": [],
+  "source":"bad",
+  "playlists": ["crime"],
+  "genre": "dance-pop",
+  "debut": "1988-11",
+  "ranks": [
+    8,
+    1,
+    1.084
+  ],
+  "artists": {
+    "michael-jackson": true
+  }
+}

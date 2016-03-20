@@ -1,1 +1,14 @@
-{"title":"Man in the Mirror","instanceSlug":364,"tags":[],"parents":[],"genre":"soul","debut":"1988-02","playlists":[],"ranks":[],"artists":{"michael-jackson":true,"siedah-garrett":true}}
+{
+  "title": "Man in the Mirror",
+  "instanceSlug": 364,
+  "tags": [],
+  "source":"bad",
+  "genre": "soul",
+  "debut": "1988-02",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "michael-jackson": true,
+    "siedah-garrett": true
+  }
+}

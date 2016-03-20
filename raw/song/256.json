@@ -1,1 +1,19 @@
-{"title":"Jam","instanceSlug":256,"tags":[],"parents":[],"genre":"pop","debut":"1992-08","ranks":[19.9,11.4,6.5,4.9,5.8],"artists":{"michael-jackson":true,"heavy-d":"backup"}}
+{
+  "title": "Jam",
+  "instanceSlug": 256,
+  "tags": [],
+  "source":"dangerous",
+  "genre": "pop",
+  "debut": "1992-08",
+  "ranks": [
+    19.9,
+    11.4,
+    6.5,
+    4.9,
+    5.8
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "heavy-d": "backup"
+  }
+}

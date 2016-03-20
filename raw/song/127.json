@@ -1,1 +1,19 @@
-{"title":"Dirty Diana","instanceSlug":127,"tags":["dirt","women"],"parents":[],"genre":"rock","debut":"1988-06","ranks":[19.9,12,15.2],"artists":{"michael-jackson":true}}
+{
+  "title": "Dirty Diana",
+  "instanceSlug": 127,
+  "tags": ["dirt"],
+  "source":"bad",
+  "playlists": ["women"],
+  "genre": "rock",
+  "debut": "1988-06",
+  "ranks": [
+    25,
+    16,
+    14,
+    12,
+    15.2
+  ],
+  "artists": {
+    "michael-jackson": true
+  }
+}
