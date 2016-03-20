@@ -1,13 +1,9 @@
 {
   "title": "Thriller",
   "instanceSlug": 12,
-  "tags": [
-    "album-title",
-    "halloween",
-    "one-word"
-  ],
+  "tags": ["album-title"],
   "source":"thriller",
-  "parents": [],
+  "playlists": ["halloween"],
   "genre": "dance",
   "debut": "1984-02",
   "ranks": [

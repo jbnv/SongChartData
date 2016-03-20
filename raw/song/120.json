@@ -1,1 +1,22 @@
-{"title":"Crazy","instanceSlug":120,"tags":["crazy"],"parents":[],"genre":"rock","debut":"1987-12","ranks":[19.9,11.9,9.5,8.5,8.9,9.6,11.2],"artists":{"icehouse":true}}
+{
+  "title": "Crazy",
+  "instanceSlug": 120,
+  "tags": [
+    "crazy"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1987-12",
+  "ranks": [
+    19.9,
+    11.9,
+    9.5,
+    8.5,
+    8.9,
+    9.6,
+    11.2
+  ],
+  "artists": {
+    "icehouse": true
+  }
+}
