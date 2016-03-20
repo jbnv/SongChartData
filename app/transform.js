@@ -10,11 +10,11 @@ exports.sortByScore = function(a,b) {
 }
 
 exports.sortBySongCount = function(a,b) {
-  return (b.songs.length || 0) - (a.songs.length || 0);
+  return (b.songs || []).length - (a.songs || []).length;
 }
 
 exports.sortByArtistCount = function(a,b) {
-  return (b.artists.length || 0) - (a.artists.length || 0);
+  return (b.artists || []).length - (a.artists || []).length;
 }
 
 exports.sortBySongAdjustedAverage = function(a,b) {
