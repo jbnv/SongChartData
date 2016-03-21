@@ -21,9 +21,10 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
-    util.log(chalk.blue(entity.instanceSlug),entity.title);
+    var entitySongs = songs[slug] || [];
+    util.log(chalk.blue(entity.instanceSlug),entity.title,chalk.gray(entitySongs.length));
 
-    entity.songs = scoring.sortAndRank(songs[slug]);
+    entity.songs = scoring.sortAndRank(entitySongs);
     scoring.scoreCollection.call(entity);
 
     titles[entity.instanceSlug] = entity.title;
@@ -43,7 +44,7 @@ module.exports = function(yargs,entities) {
   });
 
   return {
-    "all": entities,
+    "all": scoring.sortAndRank(entities),
     "titles": titles,
     "by-genre": genres,
     "by-origin": origins
