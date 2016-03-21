@@ -53,10 +53,7 @@ function _compiledCollection(type,options) {
 
 app.get(/^\/search\/(.+)$/, function(req, res) {
   console.log("/search",req.params[0]);
-  // var slug = req.params[0];
-  // var filepath = path.join("xxx", slug+".json");
-  // var content = JSON.parse(fs.readFileSync(filepath));
-  // res.send(content);
+  res.send(_compiledObject("search",req.params[0]));
 });
 
 function _genres(options) { return _compiledCollection("genre",options); }
