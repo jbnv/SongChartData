@@ -5,7 +5,8 @@ var app  = require("express")();
     http = require('http'),
     meta = require("./app/meta"),
     path = require('path'),
-    q = require("q");
+    q = require("q"),
+    transform   = require('./app/transform');
 
 require("./app/polyfill");
 
@@ -125,6 +126,12 @@ app.get("/artists", function(req, res) {
   res.send(_artists());
 });
 
+app.get("/artists/incomplete", function(req, res) {
+  console.log("/artists/incomplete");
+  var result = _artists().filter(function(artist) { return !artist.complete; }).sort(transform.sortByTitle);
+  res.send(result);
+});
+
 function _artist(slug,expand) { return _compiledObject("artist",slug); }
 
 app.get(/^\/artist\/(.+)$/, function(req, res) {
@@ -138,6 +145,16 @@ function _songs(options) { return _compiledCollection("song",options); }
 app.get("/songs", function(req, res) {
   console.log("/songs");
   res.send(_songs());
+});
+
+function _isUnranked(song) {
+  if (song.ranks === true) return true;
+  return (song.ranks || []).length == 0;
+}
+
+app.get("/songs/unranked", function(req, res) {
+  console.log("/songs/unranked");
+  res.send(_songs().filter(_isUnranked).sort(transform.sortByTitle));
 });
 
 function _song(slug,expand) { return _compiledObject("song",slug); }
