@@ -7,7 +7,8 @@ var chalk       = require("chalk"),
     readEntity  = require("../../lib/fs").readEntity,
 
     meta        = require('../meta'),
-    scoring     = require('../scoring');
+    scoring     = require('../scoring'),
+    transform   = require('../transform');
 
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
@@ -22,7 +23,6 @@ module.exports = function(yargs,entities) {
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
     var entitySongs = songs[slug] || [];
-    util.log(chalk.blue(entity.instanceSlug),entity.title,chalk.gray(entitySongs.length));
 
     entity.songs = scoring.sortAndRank(entitySongs);
     scoring.scoreCollection.call(entity);
@@ -41,10 +41,18 @@ module.exports = function(yargs,entities) {
         origins[entity.origin].push(slug);
     }
 
+    util.log(
+      chalk.blue(entity.instanceSlug),
+      entity.title,
+      chalk.gray(entity.songs.length),
+      chalk.gray(entity.score || 0),
+      chalk.gray(entity.songAdjustedAverage || 0)
+    );
+
   });
 
   return {
-    "all": scoring.sortAndRank(entities),
+    "all": scoring.sortAndRank(entities,transform.sortBySongAdjustedAverage),
     "titles": titles,
     "by-genre": genres,
     "by-origin": origins

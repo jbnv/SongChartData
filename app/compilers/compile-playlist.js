@@ -18,7 +18,6 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
-    util.log(chalk.blue(entity.instanceSlug),entity.title);
 
     titles[slug] = entity.title;
     entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
@@ -44,7 +43,7 @@ module.exports = function(yargs,entities) {
 
         if (key === "title") {
           // Title: Argument is a pattern to match.
-          util.log("Title pattern:",chalk.magenta(pattern));
+          //util.log("Title pattern:",chalk.magenta(pattern));
           filter = function(song) {
             if (exp.test(song.title)) { entity.songs.push(song); }
           }
@@ -52,7 +51,7 @@ module.exports = function(yargs,entities) {
 
         if (key === "tag") {
           // Tag: Argument is a pattern to match.
-          util.log("Tag pattern:",chalk.magenta(pattern));
+          //util.log("Tag pattern:",chalk.magenta(pattern));
           filter = function(song) {
             if (song.tags) {
               song.tags.forEach(function(tag) {
@@ -67,6 +66,15 @@ module.exports = function(yargs,entities) {
     meta.getSongs().forEach(filter);
     entity.songs = scoring.sortAndRank(entity.songs);
     scoring.scoreCollection.call(entity);
+
+    util.log(
+      chalk.blue(entity.instanceSlug),
+      entity.title,
+      chalk.gray(entity.songs.length),
+      chalk.gray(entity.score || 0),
+      chalk.gray(entity.songAdjustedAverage || 0)
+    );
+
   });
 
   unrankedSongs = [];

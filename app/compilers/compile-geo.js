@@ -36,16 +36,23 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
-    util.log(chalk.blue(entity.instanceSlug),entity.title);
 
     titles[slug] = entity.title;
 
-    entity.artists = locationArtists[slug];
+    entity.artists = locationArtists[slug] || [];
     entity.score = round00(locationScores[slug]);
 
     if (entity.artists && entity.artists.length > 0) {
       entity.artistAdjustedAverage = round00(entity.score / Math.sqrt(entity.artists.length));
     }
+
+    util.log(
+      chalk.blue(entity.instanceSlug),
+      entity.title,
+      chalk.gray(entity.artists.length),
+      chalk.gray(entity.score || 0),
+      chalk.gray(entity.artistAdjustedAverage || 0)
+    );
 
   });
 
