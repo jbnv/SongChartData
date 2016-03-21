@@ -4,7 +4,7 @@ var chalk = require("chalk"),
     util = require("gulp-util"),
 
     meta = require('../meta'),
-    writeEntityToJson = require('../entity');
+    writeEntity = require('../../lib/fs').writeEntity;
 
 require('../polyfill');
 
@@ -31,13 +31,21 @@ module.exports = function(yargs) {
 
       // Entity does not have explicit search terms: Imply from title.
       var entityTerms = entity.searchTerms || (""+entity.title || "").toLowerCase().split(" ") || [];
+
+      var ref = {
+        "type" : typeSlug,
+        "route" : typeSlug+"/"+entity.instanceSlug,
+        "title" : entity.title,
+        "score" : entity.score || 0,
+        "songCount": (entity.songs || []).length,
+        "artistCount": (entity.artists || []).length,
+      };
+
       entityTerms.forEach(function(term) {
 
         term = term.transmute();
         if (!term) return;
 
-        var route = typeSlug+"/"+entity.instanceSlug;
-        var ref = { "route" : route, "title" : entity.title };
         if (terms.includes(term)) {
           entities[term].push(ref);
         } else {
@@ -55,13 +63,12 @@ module.exports = function(yargs) {
 
   var termsRoute = meta.compiledRoute("search","terms");
   terms = terms.sort();
-  writeEntityToJson(termsRoute,terms);
-  util.log(chalk.green(termsRoute));
+  writeEntity(termsRoute,terms);
 
   terms.forEach(function(term) {
-    console.log(term,entities[term]);
     if (!entities[term]) return; // This shouldn't happen but is here to prevent errors.
-    writeEntityToJson(meta.compiledRoute("search",term),entities[term]);
+    writeEntity(meta.compiledRoute("search",term),entities[term]);
+    util.log(chalk.blue(term),chalk.gray(entities[term].length));
   })
 
   util.log("Compiled "+chalk.green(terms.length)+" entities.");
