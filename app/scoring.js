@@ -7,11 +7,11 @@ function round00(n) {
   return Math.round(parseFloat(n)*100)/100;
 }
 
-exports.sortAndRank = function(songArray) {
-  if (!songArray) return [];
-  var outbound = songArray.sort(transform.sortByScore);
-  outbound.forEach(function(song,index) {
-    song.rank = index + 1;
+exports.sortAndRank = function(list,sortFn) {
+  if (!list) return [];
+  var outbound = list.sort(sortFn || transform.sortByScore);
+  outbound.forEach(function(item,index) {
+    item.rank = index + 1;
   });
   return outbound;
 }
