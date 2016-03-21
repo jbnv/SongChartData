@@ -1,1 +1,23 @@
-{"title":"Tell Her About It","instanceSlug":731,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"pop","debut":"1983-08","playlists":[],"ranks":[17,9.7,5.6,4.5,6.2],"artists":{"billy-joel":true}}
+{
+  "title": "Tell Her About It",
+  "instanceSlug": 731,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "source": "innocent-man",
+  "genre": "pop",
+  "debut": "1983-08",
+  "playlists": [],
+  "ranks": [
+    17,
+    9.7,
+    5.6,
+    4.5,
+    6.2
+  ],
+  "artists": {
+    "billy-joel": true
+  }
+}

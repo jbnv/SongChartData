@@ -1,1 +1,23 @@
-{"title":"The Longest Time","instanceSlug":1728,"tags":["#1","#1-adult-contemporary","a-capella"],"parents":[],"genre":"pop","debut":"1984-04","playlists":[],"ranks":[18,13,10,7,7.5,8.5],"artists":{"billy-joel":true}}
+{
+  "title": "The Longest Time",
+  "instanceSlug": 1728,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "source": "innocent-man",
+  "genre": "pop",
+  "debut": "1984-04",
+  "playlists": ["a-capella"],
+  "ranks": [
+    18,
+    13,
+    10,
+    7,
+    7.5,
+    8.5
+  ],
+  "artists": {
+    "billy-joel": true
+  }
+}

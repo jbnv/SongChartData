@@ -5,7 +5,7 @@
   "genre": "pop",
   "debut": "2010s",
   "source": "skyfall",
-  "playlists": [],
+  "playlists": ["james-bond"],
   "ranks": [],
   "artists": {
     "adele": true

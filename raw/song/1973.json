@@ -1,1 +1,13 @@
-{"title":"Missing You","instanceSlug":1973,"tags":["tribute"],"parents":[],"genre":"soul","debut":"1985-03","playlists":[],"ranks":[],"artists":{"diana-ross":true}}
+{
+  "title": "Missing You",
+  "instanceSlug": 1973,
+  "tags": ["#1","#1-r&b","marvin-gaye"],
+  "parents": [],
+  "genres": ["soul","pop"],
+  "debut": "1985-03",
+  "playlists": ["tribute"],
+  "ranks": [],
+  "artists": {
+    "diana-ross": true
+  }
+}

@@ -1,1 +1,25 @@
-{"title":"Missing You","instanceSlug":1353,"tags":["miss","missing","miss-you","you"],"parents":[],"genre":"pop","debut":"1995-12","playlists":[],"ranks":[14,7,4,3,2.5,2.2,1.95,1.8,1.9,2.1,2.33,2.59],"artists":{"everything-but-the-girl":true}}
+{
+  "title": "Missing You",
+  "instanceSlug": 1353,
+  "tags": ["miss-you"],
+  "genre": "pop",
+  "debut": "1995-12",
+  "playlists": [],
+  "ranks": [
+    14,
+    7,
+    4,
+    3,
+    2.5,
+    2.2,
+    1.95,
+    1.8,
+    1.9,
+    2.1,
+    2.33,
+    2.59
+  ],
+  "artists": {
+    "everything-but-the-girl": true
+  }
+}

@@ -1,1 +1,22 @@
-{"title":"You're the Inspiration","instanceSlug":1777,"tags":[],"parents":[],"genre":"soft-rock","debut":"1984-12","playlists":[],"ranks":[24,18,15,12,13,14.8],"artists":{"chicago":true}}
+{
+  "title": "You're the Inspiration",
+  "instanceSlug": 1777,
+  "tags": [],
+  "parents": [],
+  "genres":[ "rock","pop"],
+  "debut": "1984-12",
+  "playlists": [],
+  "source": "chicago17",
+  "ranks": [
+    24,
+    18,
+    15,
+    12,
+    13,
+    14.8
+  ],
+  "artists": {
+    "chicago": true,
+    "david-foster": "producer"
+  }
+}
