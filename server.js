@@ -1,6 +1,7 @@
 var app  = require("express")();
     cors = require('cors'),
-    fs   = require('fs'),
+    exec = require("child_process").exec,
+    fs   = require('graceful-fs'),
     fsq = require("./lib/fs"),
     http = require('http'),
     meta = require("./app/meta"),
@@ -205,6 +206,47 @@ app.get("/summary", function(req,res) {
       res.send({"error":error});
     })
   ;
+
+});
+
+// grep
+
+function _filepathsToArray(err, stdin, stdout) {
+  var filepaths = stdin.split('\n');
+  var outbound = [];
+  filepaths.forEach(function(filepath) {
+    if (filepath == "") return;
+    var entity = JSON.parse(fs.readFileSync(filepath));
+    entity.typeSlug = filepath.split("/")[1];
+    outbound.push(entity);
+  });
+  return outbound;
+}
+
+app.get(/^\/grep\/(.+)\/(.+)$/, function(req, res) {
+  console.log("/grep",req.params[0],req.params[1]);
+
+  var entityType = req.params[0];
+  var pattern = req.params[1];
+  var targetPath = path.join(meta.root,"raw",entityType,"*").replace(/\\/g,'/');
+  var command = "grep -l "+pattern+" "+targetPath;
+
+  exec(command, function(err, stdin, stdout){
+    res.send(_filepathsToArray(err, stdin, stdout));
+  });
+
+});
+
+app.get(/^\/grep\/(.+)$/, function(req, res) {
+  console.log("/grep",req.params[0]);
+
+  var pattern = req.params[0];
+  var targetPath = path.join(meta.root,"raw","*").replace(/\\/g,'/');
+  var command = "grep -rl "+pattern+" "+targetPath;
+
+  exec(command, function(err, stdin, stdout){
+    res.send(_filepathsToArray(err, stdin, stdout));
+  });
 
 });
 
