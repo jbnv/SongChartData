@@ -1,1 +1,15 @@
-{"title":"Milli Vanilli","instanceSlug":"milli-vanilli","tags":[],"parents":[],"genres":["dance-pop"],"members":[],"xref":[],"complete":true,"origin":"germany","birth":"1980s","death":"1990s","type":"d"}
+{
+  "title": "Milli Vanilli",
+  "instanceSlug": "milli-vanilli",
+  "tags": [],
+  "genres": [
+    "dance-pop"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "germany",
+  "birth": "1980s",
+  "death": "1990s",
+  "type": "mm"
+}
