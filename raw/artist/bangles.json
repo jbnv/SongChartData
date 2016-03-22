@@ -2,7 +2,7 @@
   "title": "Bangles",
   "instanceSlug": "bangles",
   "tags": [
-    "all-female","1980s"
+    "1980s"
   ],
   "parents": [],
   "genres": [
@@ -13,5 +13,5 @@
   "birth": "",
   "death": "",
   "complete": true,
-  "type": "g"
+  "type": "fff"
 }

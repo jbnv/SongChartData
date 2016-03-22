@@ -1,1 +1,13 @@
-{"title":"December 1963","instanceSlug":1290,"tags":[],"parents":[],"genre":"pop","debut":"1994-09","playlists":[],"ranks":[],"artists":{"four-seasons":true}}
+{
+  "title": "December 1963",
+  "instanceSlug": 1290,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1994-09",
+  "playlists": ["months"],
+  "ranks": [],
+  "artists": {
+    "four-seasons": true
+  }
+}

@@ -1,1 +1,1 @@
-[{"route":"artist/foo-fighters","title":"Foo Fighters"}]
+[{"type":"artist","route":"artist/foo-fighters","title":"Foo Fighters","score":25.83,"songCount":1,"artistCount":0}]

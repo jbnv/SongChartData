@@ -1,1 +1,1 @@
-[{"route":"artist/brooks-dunn","title":"Brooks & Dunn"},{"route":"artist/garth-brooks","title":"Garth Brooks"}]
+[{"type":"artist","route":"artist/garth-brooks","title":"Garth Brooks","score":6.52,"songCount":1,"artistCount":0},{"type":"artist","route":"artist/brooks-dunn","title":"Brooks & Dunn","score":0,"songCount":1,"artistCount":0}]

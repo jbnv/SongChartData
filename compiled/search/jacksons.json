@@ -1,1 +1,1 @@
-[{"route":"artist/jacksons","title":"Jackson 5 / Jacksons"},{"route":"artist/michael-jackson","title":"Michael Jackson"}]
+[{"type":"artist","route":"artist/michael-jackson","title":"Michael Jackson","score":523.93,"songCount":43,"artistCount":0},{"type":"artist","route":"artist/jacksons","title":"Jackson 5 / Jacksons","score":0,"songCount":0,"artistCount":0}]

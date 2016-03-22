@@ -1,1 +1,21 @@
-{"title":"September","instanceSlug":826,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1979-01","playlists":[],"ranks":[12,1.5,1.1,1.39],"artists":{"earth-wind-fire":true}}
+{
+  "title": "September",
+  "instanceSlug": 826,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [],
+  "genre": "soul",
+  "debut": "1979-01",
+  "playlists": ["months"],
+  "ranks": [
+    12,
+    1.5,
+    1.1,
+    1.39
+  ],
+  "artists": {
+    "earth-wind-fire": true
+  }
+}

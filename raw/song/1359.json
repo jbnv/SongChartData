@@ -1,1 +1,16 @@
-{"title":"December","instanceSlug":1359,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1995-06","playlists":[],"ranks":[],"artists":{"collective-soul":true}}
+{
+  "title": "December",
+  "instanceSlug": 1359,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [],
+  "genres": ["adult-alternative","rock"],
+  "debut": "1995-06",
+  "playlists": ["months"],
+  "ranks": [18,12,9,6,7],
+  "artists": {
+    "collective-soul": true
+  }
+}

@@ -1,1 +1,15 @@
-{"title":"Human League","instanceSlug":"human-league","tags":[],"parents":[],"genres":["electro-pop"],"members":[],"complete":true,"origin":"england","birth":"","death":"","type":"g"}
+{
+  "title": "Human League",
+  "instanceSlug": "human-league",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "electro-pop"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "sheffield",
+  "birth": "",
+  "death": "",
+  "type": "mmf"
+}

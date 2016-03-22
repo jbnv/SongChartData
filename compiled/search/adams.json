@@ -1,1 +1,1 @@
-[{"route":"artist/bryan-adams","title":"Bryan Adams"},{"route":"artist/oleta-adams","title":"Oleta Adams"}]
+[{"type":"artist","route":"artist/bryan-adams","title":"Bryan Adams","score":87.79,"songCount":22,"artistCount":0},{"type":"artist","route":"artist/oleta-adams","title":"Oleta Adams","score":0,"songCount":2,"artistCount":0}]
