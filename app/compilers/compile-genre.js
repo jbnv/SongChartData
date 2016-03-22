@@ -19,11 +19,20 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
-    util.log(chalk.blue(entity.instanceSlug),entity.title);
 
     entity.artists = artists[entity.instanceSlug] || [];
     entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
     scoring.scoreCollection.call(entity);
+
+    util.log(
+      chalk.blue(entity.instanceSlug),
+      entity.title,
+      chalk.gray(entity.songs.length),
+      chalk.gray(entity.artists.length),
+      chalk.gray(entity.score || 0),
+      chalk.gray(entity.songAdjustedAverage || 0),
+      chalk.gray(entity.artistAdjustedAverage || 0)
+    );
 
   });
 

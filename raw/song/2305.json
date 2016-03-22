@@ -1,1 +1,23 @@
-{"title":"The World I Know","instanceSlug":2305,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1996-01","playlists":[],"ranks":[],"artists":{"collective-soul":true}}
+{
+  "title": "The World I Know",
+  "instanceSlug": 2305,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [],
+  "genres": ["adult-alternative","rock"],
+  "debut": "1996-01",
+  "playlists": [],
+  "ranks": [
+    18,
+    13,
+    10,
+    8,
+    8.5,
+    9.7
+  ],
+  "artists": {
+    "collective-soul": true
+  }
+}

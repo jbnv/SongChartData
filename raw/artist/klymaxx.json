@@ -1,9 +1,7 @@
 {
   "title": "Klymaxx",
   "instanceSlug": "klymaxx",
-  "tags": [
-    "all-female"
-  ],
+  "tags": [],
   "parents": [],
   "genres": [],
   "members": [],
@@ -12,5 +10,5 @@
   "origin": "us",
   "birth": "",
   "death": "",
-  "type": "g"
+  "type": "fff"
 }

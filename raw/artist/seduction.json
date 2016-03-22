@@ -2,15 +2,13 @@
   "title": "Seduction",
   "instanceSlug": "seduction",
   "tags": [],
-  "parents": ["all-female"],
-  "genres": [
-
-  ],
+  "parents": [],
+  "genres": [],
   "members": [],
   "xref": [],
   "complete": false,
   "origin": "",
   "birth": "",
   "death": "",
-  "type": "g"
+  "type": "fff"
 }

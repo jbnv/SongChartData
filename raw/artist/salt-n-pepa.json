@@ -1,13 +1,14 @@
 {
   "title": "Salt N Pepa",
   "instanceSlug": "salt-n-pepa",
-  "tags": [],
+  "tags": ["1990s"],
   "parents": [],
   "genres": ["rap"],
   "members": [],
   "xref": [],
   "complete": false,
   "origin": "us",
-  "birth": "",
-  "death": ""
+  "birth": "1980s",
+  "death": "",
+  "type": "ff"
 }

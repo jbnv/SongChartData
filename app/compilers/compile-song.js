@@ -31,7 +31,6 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
-    util.log(chalk.blue(entity.instanceSlug),entity.title);
 
     titles[entity.instanceSlug] = entity.title;
 
@@ -77,10 +76,16 @@ module.exports = function(yargs,entities) {
 
     if ((entity.ranks || []).length == 0) unranked.push(entity);
 
+    util.log(
+      chalk.blue(entity.instanceSlug),
+      entity.title,
+      chalk.gray(entity.score || 0)
+    );
+
   });
 
   return {
-    "all": entities,
+    "all": scoring.sortAndRank(entities),
     "titles": titles,
     "by-artist": artists,
     "by-genre": genres,

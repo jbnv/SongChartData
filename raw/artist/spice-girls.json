@@ -1,1 +1,14 @@
-{"title":"Spice Girls","instanceSlug":"spice-girls","tags":["all-female"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"uk","birth":"","death":"","type":"g"}
+{
+  "title": "Spice Girls",
+  "instanceSlug": "spice-girls",
+  "tags": ["1990s"],
+  "parents": [],
+  "genres": ["pop"],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

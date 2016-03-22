@@ -1,16 +1,14 @@
 {
   "title": "Pussycat Dolls",
   "instanceSlug": "pussycat-dolls",
-  "tags": ["all-female"],
+  "tags": [],
   "parents": [],
-  "genres": [
-
-  ],
+  "genres": ["pop"],
   "members": [],
   "xref": [],
   "complete": false,
   "origin": "",
   "birth": "",
   "death": "",
-  "type": "g"
+  "type": "fff"
 }

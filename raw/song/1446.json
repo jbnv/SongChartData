@@ -1,1 +1,21 @@
-{"title":"Unforgettable","instanceSlug":1446,"tags":["forget","posthumous","remake","un","unforgettable"],"parents":[],"genre":"soul","debut":"1991-08","playlists":[],"ranks":[14.5,8,5,3.9,3.3,3,3.125,3.42,3.95],"artists":{"natalie-cole":true,"nat-king-cole":"feature"}}
+{
+  "title": "Unforgettable",
+  "instanceSlug": 1446,
+  "tags": [],
+  "searchTerms": ["forget","unforgettable"],
+  "genres": ["soul","pop","adult-contemporary"],
+  "debut": "1991-08",
+  "playlists": ["remake","un","posthumous"],
+  "ranks": [
+    14.5,
+    5,
+    3,
+    3.125,
+    3.42,
+    3.95
+  ],
+  "artists": {
+    "natalie-cole": true,
+    "nat-king-cole": "feature"
+  }
+}

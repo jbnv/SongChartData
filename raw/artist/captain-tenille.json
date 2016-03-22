@@ -1,1 +1,12 @@
-{"title":"Captain & Tenille","instanceSlug":"captain-tenille","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":""}
+{
+  "title": "Captain & Tenille",
+  "instanceSlug": "captain-tenille",
+  "tags": ["1970s"],
+  "type": "mf",
+  "genres": ["pop","adult-comtemporary"],
+  "members": [],
+  "origin": "us",
+  "birth": "1970s",
+  "death": "2010s",
+  "complete": false
+}

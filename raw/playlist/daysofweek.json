@@ -1,0 +1,9 @@
+{
+  "title": "Days of the Week",
+  "instanceSlug": "daysofweek",
+  "tags": [],
+  "parents": [],
+  "filter": {
+    "title": "Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday"
+  }
+}
