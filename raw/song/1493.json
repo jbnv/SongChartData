@@ -1,1 +1,13 @@
-{"title":"Take It Easy on Me","instanceSlug":1493,"tags":[],"parents":[],"genre":"rock","debut":"1982-01","playlists":[],"ranks":[],"artists":{"little-river-band":true}}
+{
+  "title": "Take It Easy on Me",
+  "instanceSlug": 1493,
+  "tags": [],
+  "genres": ["pop","soft-rock","rock"],
+  "debut": "1982-01",
+  "playlists": [],
+  "ranks": [19,10,7,5,5.2,5.9],
+  "artists": {
+    "little-river-band": true,
+    "george-martin":"producer"
+  }
+}
