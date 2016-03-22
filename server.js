@@ -159,6 +159,12 @@ app.get("/artist-types", function(req, res) {
   res.send(outbound);
 });
 
+app.get(/^\/artist-type\/(.+)$/, function(req, res) {
+  console.log("/artist-type",req.params[0]);
+  var slug = req.params[0];
+  var results = _artists().filter(function(artist) { return artist.type === slug; });
+  res.send(results);
+});
 
 function _songs(options) { return _compiledCollection("song",options); }
 
