@@ -1,1 +1,13 @@
-{"title":"Lady","instanceSlug":1551,"tags":["lady"],"parents":[],"genre":"pop","debut":"1979-02","playlists":[],"ranks":[],"artists":{"little-river-band":true}}
+{
+  "title": "Lady",
+  "instanceSlug": 1551,
+  "tags": [],
+  "parents": [],
+  "genres": ["pop","soft-rock"],
+  "debut": "1979-02",
+  "playlists": [],
+  "ranks": [18.5,12,7,4.7,4.5,4.8,5.9],
+  "artists": {
+    "little-river-band": true
+  }
+}
