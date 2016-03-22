@@ -24,3 +24,13 @@ exports.sortBySongAdjustedAverage = function(a,b) {
 exports.sortByArtistAdjustedAverage = function(a,b) {
   return (b.artistAdjustedAverage || 0) - (a.artistAdjustedAverage || 0);
 }
+
+exports.objectToArray = function(obj) {
+  var outbound = [];
+  for (var slug in obj) {
+    var item = obj[slug];
+    item.instanceSlug = slug;
+    outbound.push(item);
+  }
+  return outbound;
+}

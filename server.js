@@ -6,6 +6,7 @@ var app  = require("express")();
     meta = require("./app/meta"),
     path = require('path'),
     q = require("q"),
+    scoring     = require('./app/scoring'),
     transform   = require('./app/transform');
 
 require("./app/polyfill");
@@ -142,16 +143,21 @@ app.get(/^\/artist\/(.+)$/, function(req, res) {
 
 app.get("/artist-types", function(req, res) {
   console.log("/artist-types");
+
   var artists = _artists();
-  var outbound = require("./app/models/artist-types");
+  var map = require("./app/models/artist-types");
+
   artists.forEach(function(artist) {
     var type = artist.type || "";
-    if (!outbound[type]) {
+    if (!map[type]) {
       console.log("Unrecognized type '"+type+"'");
       type = "u";
     }
-    outbound[type].artists.push(artist);
+    map[type].artists.push(artist);
   });
+
+  var outbound = transform.objectToArray(map);
+  outbound.forEach(function(type) { scoring.scoreCollection.call(type); });
   res.send(outbound);
 });
 

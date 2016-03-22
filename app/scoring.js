@@ -108,15 +108,27 @@ exports.score = function(song,scoringOptions) {
 
 // this: song collection
 exports.scoreCollection = function() {
+
   var score = 0.0;
-  this.songs.forEach(function(song) {
-    if (song.score) {
-      try {
-			  score += parseFloat(song.score);
-      } catch(error) {
-      }
-		}
-  });
+  if (this.songs) {
+    this.songs.forEach(function(song) {
+      if (song.score) {
+        try {
+  			  score += parseFloat(song.score);
+        } catch(error) {
+        }
+  		}
+    });
+  } else if (this.artists) {
+    this.artists.forEach(function(artist) {
+      if (artist.score) {
+        try {
+  			  score += parseFloat(artist.score);
+        } catch(error) {
+        }
+  		}
+    });
+  }
   this.score = round00(score);
 
   if (this.songs && this.songs.length > 0) {
