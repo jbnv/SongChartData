@@ -140,6 +140,22 @@ app.get(/^\/artist\/(.+)$/, function(req, res) {
   res.send(_artist(slug,true));
 });
 
+app.get("/artist-types", function(req, res) {
+  console.log("/artist-types");
+  var artists = _artists();
+  var outbound = require("./app/models/artist-types");
+  artists.forEach(function(artist) {
+    var type = artist.type || "";
+    if (!outbound[type]) {
+      console.log("Unrecognized type '"+type+"'");
+      type = "u";
+    }
+    outbound[type].artists.push(artist);
+  });
+  res.send(outbound);
+});
+
+
 function _songs(options) { return _compiledCollection("song",options); }
 
 app.get("/songs", function(req, res) {
