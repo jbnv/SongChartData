@@ -1,1 +1,19 @@
-{"title":"Genesis","instanceSlug":"genesis","tags":["1980s","1990s"],"parents":[],"genres":["pop-rock"],"members":["phil-collins"],"complete":true,"origin":"england","birth":"","death":"","type":"g"}
+{
+  "title": "Genesis",
+  "instanceSlug": "genesis",
+  "tags": [
+    "1980s",
+    "1990s"
+  ],
+  "genres": [
+    "pop-rock"
+  ],
+  "members": [
+    "phil-collins"
+  ],
+  "complete": true,
+  "origin": "england",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

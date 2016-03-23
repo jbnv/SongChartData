@@ -1,1 +1,14 @@
-{"title":"Huey Lewis & the News","instanceSlug":"huey-lewis-the-news","tags":[],"parents":[],"genres":["rock"],"members":[],"complete":true,"origin":"california","birth":"","death":"","type":"g"}
+{
+  "title": "Huey Lewis & the News",
+  "instanceSlug": "huey-lewis-the-news",
+  "tags": ["1980s"],
+  "genres": [
+    "rock"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "california",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

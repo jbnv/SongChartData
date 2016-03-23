@@ -95,8 +95,6 @@
 ["representatives?","representative"],
 ["resign.*","resign"],
 ["respon(d|ds|ded|ding|se|ses)"],
-["rest"],
-["retire.+","retire"],
 ["retiring","retire"],
 ["revers.+","reverse"],
 ["right"],

@@ -1,1 +1,15 @@
-{"title":"Bruce Hornsby & the Range","instanceSlug":"bruce-hornsby-the-range","tags":[],"parents":[],"genres":["pop"],"members":[],"origin":"virginia","birth":"","death":"","complete":true,"type":"g"}
+{
+  "title": "Bruce Hornsby & the Range",
+  "instanceSlug": "bruce-hornsby-the-range",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "pop"
+  ],
+  "members": [],
+  "origin": "virginia",
+  "birth": "",
+  "death": "",
+  "complete": true,
+  "type": "mmm"
+}

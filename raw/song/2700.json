@@ -1,1 +1,14 @@
-{"title":"Suddenly","instanceSlug":2700,"tags":[],"parents":[],"genre":"pop","debut":"1980-12","source":"xanadu","playlists":[],"ranks":true,"artists":{"olivia-newton-john":true,"cliff-richard":true}}
+{
+  "title": "Suddenly",
+  "instanceSlug": 2700,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1980-12",
+  "source": "xanadu",
+  "playlists": [],
+  "ranks": [19,10.5,6.5,4.1,3.5,3.7,3.92,4.45],
+  "artists": {
+    "olivia-newton-john": true,
+    "cliff-richard": true
+  }
+}

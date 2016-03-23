@@ -1,1 +1,16 @@
-{"title":"Lisa Lisa & Cult Jam","instanceSlug":"lisa-lisa-cult-jam","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"harlem","birth":"","death":"","type":"g"}
+{
+  "title": "Lisa Lisa & Cult Jam",
+  "instanceSlug": "lisa-lisa-cult-jam",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "urban"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "harlem",
+  "birth": "",
+  "death": "",
+  "type": "fmm"
+}

@@ -1,1 +1,13 @@
-{"title":"Dreaming","instanceSlug":2699,"tags":[],"parents":[],"genre":"pop","debut":"1980-10","playlists":[],"ranks":[],"artists":{"cliff-richard":true}}
+{
+  "title": "Dreaming",
+  "instanceSlug": 2699,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1980-10",
+  "playlists": [],
+  "ranks": [16,9,5,2.7,2.5,2.76],
+  "artists": {
+    "cliff-richard": true
+  }
+}

@@ -1,1 +1,14 @@
-{"title":"Oasis","instanceSlug":"oasis","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Oasis",
+  "instanceSlug": "oasis",
+  "tags": ["1990s"],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

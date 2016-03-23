@@ -1,1 +1,12 @@
-{"title":"Goldmine","instanceSlug":1477,"tags":[],"parents":[],"genre":"pop","debut":"1986-12","playlists":[],"ranks":[],"artists":{"pointer-sisters":true}}
+{
+  "title": "Goldmine",
+  "instanceSlug": 1477,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1986-12",
+  "playlists": [],
+  "ranks": [21,15,10,8.5,8,8.7,9.9],
+  "artists": {
+    "pointer-sisters": true
+  }
+}
