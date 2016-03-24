@@ -163,7 +163,7 @@ app.get(/^\/artist-type\/(.+)$/, function(req, res) {
   console.log("/artist-type",req.params[0]);
   var slug = req.params[0];
   var map = require("./app/models/artist-types");
-  var artists = _artists().filter(function(artist) { return artist.type === slug; });
+  var artists = _artists().filter(function(artist) { return artist.type && artist.type.slug === slug; });
   res.send({
     title: map[slug].title,
     artists: artists
