@@ -19,6 +19,9 @@ module.exports = function(yargs,entities) {
   origins = {};
 
   var songs = readEntity(path.join("compiled","song","by-artist"));
+  var allGenres = readEntity(path.join("compiled","genre","all"));
+  var allLocations = readEntity(path.join("compiled","geo","all"));
+  var allArtistTypes = require("../models/artist-types");
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
@@ -35,10 +38,18 @@ module.exports = function(yargs,entities) {
         genres[genreSlug].push(slug);
       });
     }
+    entity.genres = entity.genres.expand(allGenres);
 
     if (entity.origin) {
         if (!origins[entity.origin]) origins[entity.origin] = [];
         origins[entity.origin].push(slug);
+        entity.origin = allLocations.find(function(el) { return el.instanceSlug === entity.origin; });
+    }
+
+    if (entity.type) {
+      var typeSlug = entity.type;
+      entity.type = allArtistTypes[typeSlug];
+      entity.type.slug = typeSlug;
     }
 
     util.log(
