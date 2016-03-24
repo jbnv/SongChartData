@@ -1,1 +1,18 @@
-{"title":"Jefferson Airplane / Jefferson Starship / Starship","instanceSlug":"starship","tags":["1970s","1980s"],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"san-francisco","birth":"","death":"","type":"mmf"}
+{
+  "title": "Jefferson Airplane / Jefferson Starship / Starship",
+  "instanceSlug": "starship",
+  "tags": [
+    "1970s",
+    "1980s","hof"
+  ],
+  "genres": [
+    "rock"
+  ],
+  "members": ["marty-balin","mickey-thomas","grace-slick"],
+  "xref": [],
+  "complete": true,
+  "origin": "san-francisco",
+  "birth": "",
+  "death": "",
+  "type": "mmf"
+}

@@ -1,1 +1,12 @@
-{"title":"Steve Miller Band","instanceSlug":"steve-miller-band","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Steve Miller",
+  "instanceSlug": "steve-miller-band",
+  "tags": ["hof"],
+  "genres": ["rock"],
+  "xref": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

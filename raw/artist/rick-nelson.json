@@ -1,1 +1,15 @@
-{"title":"Rick Nelson","instanceSlug":"rick-nelson","tags":["1950s","1960s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Rick Nelson",
+  "instanceSlug": "rick-nelson",
+  "tags": [
+    "1950s",
+    "1960s","hof"
+  ],
+  "genres": [],
+  "type": "m",
+  "xref": ["nelson"],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

@@ -1,1 +1,14 @@
-{"title":"Joan Jett","instanceSlug":"joan-jett","tags":[],"parents":[],"genres":["rock"],"members":[],"complete":true,"origin":"us","birth":"","death":"","type":"g"}
+{
+  "title": "Joan Jett",
+  "instanceSlug": "joan-jett",
+  "tags": ["hof"],
+  "genres": [
+    "rock"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}

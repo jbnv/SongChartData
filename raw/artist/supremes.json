@@ -1,1 +1,21 @@
-{"title":"Supremes","instanceSlug":"supremes","tags":["1960s","1970s"],"parents":[],"genres":["soul"],"members":["diana-ross"],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Supremes",
+  "instanceSlug": "supremes",
+  "tags": [
+    "hof",
+    "1960s",
+    "1970s"
+  ],
+  "genres": [
+    "soul"
+  ],
+  "members": [
+    "diana-ross"
+  ],
+  "xref": [],
+  "complete": false,
+  "origin": "detroit",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}

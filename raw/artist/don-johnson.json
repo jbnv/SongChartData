@@ -1,1 +1,11 @@
-{"title":"Don Johnson","instanceSlug":"don-johnson","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"m"}
+{
+  "title": "Don Johnson",
+  "instanceSlug": "don-johnson",
+  "tags": ["actor"],
+  "genres": ["rock"],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

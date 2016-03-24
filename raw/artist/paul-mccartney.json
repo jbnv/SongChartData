@@ -1,1 +1,18 @@
-{"title":"Paul McCartney","instanceSlug":"paul-mccartney","tags":["1960s","1970s","1980s"],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"liverpool","birth":"","death":"","type":"m"}
+{
+  "title": "Paul McCartney",
+  "instanceSlug": "paul-mccartney",
+  "tags": [
+    "1960s",
+    "1970s",
+    "1980s","hof"
+  ],
+  "genres": [
+    "rock"
+  ],
+  "xref": ["beatles","wings"],
+  "complete": true,
+  "origin": "liverpool",
+  "birth": "1940s",
+  "death": "",
+  "type": "m"
+}
