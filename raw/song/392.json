@@ -1,1 +1,17 @@
-{"title":"Dead Giveaway","instanceSlug":392,"tags":[],"parents":[],"genre":"pop","debut":"1983-08","playlists":[],"ranks":[9,4.7,2.5,1.3,1.2,1.7],"artists":{"shalamar":true}}
+{
+  "title": "Dead Giveaway",
+  "instanceSlug": 392,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1983-08",
+  "playlists": [],
+  "ranks": [
+    9,
+    1.3,
+    1.2,
+    1.34
+  ],
+  "artists": {
+    "shalamar": true
+  }
+}

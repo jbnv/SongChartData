@@ -1,1 +1,20 @@
-{"title":"Delirious","instanceSlug":604,"tags":[],"parents":[],"genre":"pop","debut":"1983-10","playlists":[],"ranks":[17.9,10.6,6.2,5.5,5.4,6.8],"artists":{"prince":true}}
+{
+  "title": "Delirious",
+  "instanceSlug": 604,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1983-10",
+  "playlists": [],
+  "ranks": [
+    17.5,
+    6.2,
+    5.4,
+    4.8,
+    4.9,
+    5.7
+  ],
+  "artists": {
+    "prince": true
+  }
+}

@@ -1,1 +1,22 @@
-{"title":"Thieves in the Temple","instanceSlug":209,"tags":["songs-of-summer","stealing","this-in-that"],"parents":[],"genre":"pop","debut":"1990-08","source":"graffitti-bridge","ranks":[17,11.5,6.6,5.9,5.75,6.2,6.8,8.2],"artists":{"prince":true}}
+{
+  "title": "Thieves in the Temple",
+  "instanceSlug": 209,
+  "tags": [
+    "songs-of-summer",
+    "stealing",
+    "this-in-that"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1990-08",
+  "source": "graffitti-bridge",
+  "ranks": [
+    17,
+    6.6,
+    5.75,
+    6.1
+  ],
+  "artists": {
+    "prince": true
+  }
+}

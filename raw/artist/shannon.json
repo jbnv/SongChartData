@@ -1,1 +1,14 @@
-{"title":"Shannon","instanceSlug":"shannon","tags":[],"parents":[],"genres":["dance"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Shannon",
+  "instanceSlug": "shannon",
+  "tags": [],
+  "genres": [
+    "dance"
+  ],
+  "type":"f",
+  "xref": [],
+  "complete": true,
+  "origin": "dc",
+  "birth": "1957-05",
+  "death": ""
+}

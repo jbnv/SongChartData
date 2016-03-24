@@ -1,1 +1,15 @@
-{"title":"Ce Ce Peniston","instanceSlug":"cece-peniston","tags":["1990s"],"parents":[],"genres":["pop"],"members":[],"complete":false,"origin":"phoenix","birth":"","death":"","type":"f"}
+{
+  "title": "Ce Ce Peniston",
+  "instanceSlug": "cece-peniston",
+  "tags": [
+    "1990s"
+  ],
+  "genres": [
+    "pop","r&b","dance"
+  ],
+  "complete": true,
+  "origin": "phoenix",
+  "birth": "1969-09",
+  "death": "",
+  "type": "f"
+}

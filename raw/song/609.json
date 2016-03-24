@@ -1,1 +1,23 @@
-{"title":"Diamonds and Pearls","instanceSlug":609,"tags":["diamond","jewelry","pearl","this-and-that"],"parents":[],"genre":"soul","debut":"1992-01","playlists":[],"ranks":[16,6.8,3.3,2.25,2.45,2.65,3.1],"artists":{"prince":true}}
+{
+  "title": "Diamonds and Pearls",
+  "instanceSlug": 609,
+  "tags": [
+    "diamond",
+    "jewelry",
+    "pearl",
+    "this-and-that"
+  ],
+  "parents": [],
+  "genre": "soul",
+  "debut": "1992-01",
+  "playlists": [],
+  "ranks": [
+    16,
+    3.3,
+    1.8,
+    1.92
+  ],
+  "artists": {
+    "prince": true
+  }
+}

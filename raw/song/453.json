@@ -1,1 +1,20 @@
-{"title":"Alphabet Street","instanceSlug":453,"tags":["","streets-and-roads"],"parents":[],"genre":"pop","debut":"1988-06","playlists":["summer"],"ranks":[12,6.8,3.8,2.6,2.9,3.7,5.1],"artists":{"prince":true}}
+{
+  "title": "Alphabet Street",
+  "instanceSlug": 453,
+  "tags": ["streets-and-roads"],
+  "genre": "pop",
+  "debut": "1988-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    12,
+    3.8,
+    2.2,
+    2.1,
+    2.4
+  ],
+  "artists": {
+    "prince": true
+  }
+}

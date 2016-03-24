@@ -1,1 +1,20 @@
-{"title":"Partyman","instanceSlug":504,"tags":["party"],"parents":[],"genre":"pop","debut":"1989-09","source":"batman","playlists":[],"ranks":[13,7,3.8,2,2.1,2.4,2.7,3.1,4.2],"artists":{"prince":true}}
+{
+  "title": "Partyman",
+  "instanceSlug": 504,
+  "tags": [
+    "party","man"
+  ],
+  "genre": "pop",
+  "debut": "1989-09",
+  "source": "batman",
+  "playlists": [],
+  "ranks": [
+    13,
+    3.75,
+    1.425,
+    1.57
+  ],
+  "artists": {
+    "prince": true
+  }
+}

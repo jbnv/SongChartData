@@ -1,1 +1,21 @@
-{"title":"Cream","instanceSlug":966,"tags":["#1"],"parents":[],"genre":"pop","debut":"1991-10","playlists":[],"ranks":[18,12,9,6,6.4,6.8,7.2,7.9,9.1,10.9,13.5,18,24],"artists":{"prince":true}}
+{
+  "title": "Cream",
+  "instanceSlug": 966,
+  "tags": [
+    "#1"
+  ],
+  "genre": "pop",
+  "debut": "1991-10",
+  "playlists": [],
+  "ranks": [
+    18,
+    6,
+    4.5,
+    4.2,
+    3.9,
+    4.2
+  ],
+  "artists": {
+    "prince": true
+  }
+}
