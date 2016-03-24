@@ -2,9 +2,17 @@
   "title": "Beatles",
   "instanceSlug": "beatles",
   "tags": [
-    "1960s"
+    "1960s",
+    "1970s",
+    "hof"
   ],
-  "searchTerms": ["beatles","mccartney","lennon","harrison","ringo"],
+  "searchTerms": [
+    "beatles",
+    "mccartney",
+    "lennon",
+    "harrison",
+    "ringo"
+  ],
   "genres": [
     "rock"
   ],
@@ -17,5 +25,6 @@
   "origin": "liverpool",
   "birth": "1960s",
   "death": "1970",
-  "complete": true
+  "complete": true,
+  "type": "mmm"
 }

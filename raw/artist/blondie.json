@@ -1,1 +1,12 @@
-{"title":"Blondie","instanceSlug":"blondie","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":"g"}
+{
+  "title": "Blondie",
+  "instanceSlug": "blondie",
+  "tags": ["1980s","hof"],
+  "genres": ["rock"],
+  "members": [],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": "fmm"
+}

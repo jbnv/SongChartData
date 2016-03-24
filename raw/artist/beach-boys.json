@@ -1,1 +1,16 @@
-{"title":"Beach Boys","instanceSlug":"beach-boys","tags":["1960s","1970s","1980s"],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":true,"type":"g"}
+{
+  "title": "Beach Boys",
+  "instanceSlug": "beach-boys",
+  "tags": [
+    "1960s",
+    "1970s",
+    "1980s","hof"
+  ],
+  "genres": [],
+  "members": [],
+  "origin": "california",
+  "birth": "",
+  "death": "",
+  "complete": true,
+  "type": "mmm"
+}

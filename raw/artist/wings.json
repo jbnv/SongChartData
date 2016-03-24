@@ -3,7 +3,6 @@
   "instanceSlug": "wings",
   "searchTerms": ["wings","paul mccartney","mccartney"],
   "tags": [],
-  "parents": [],
   "genres": [
     "rock"
   ],
@@ -11,7 +10,7 @@
   "xref": [],
   "complete": false,
   "origin": "england",
-  "birth": "",
+  "birth": "1970s",
   "death": "",
-  "type": "g"
+  "type": "mmm"
 }

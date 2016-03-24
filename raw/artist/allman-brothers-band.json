@@ -1,1 +1,12 @@
-{"title":"Allman Brothers Band","instanceSlug":"allman-brothers-band","tags":[],"parents":[],"genres":[],"members":[],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Allman Brothers Band",
+  "instanceSlug": "allman-brothers-band",
+  "tags": ["hof"],
+  "genres": ["rock","southern-rock"],
+  "members": [],
+  "type": "mmm",
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

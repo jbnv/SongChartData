@@ -1,1 +1,13 @@
-{"title":"Hey Mr. DJ","instanceSlug":705,"tags":[],"parents":[],"genre":"soul","debut":"1993-10","playlists":[],"ranks":[17,9.9,5.8],"artists":{"zhane":true}}
+{
+  "title": "Hey Mr. DJ",
+  "instanceSlug": 705,
+  "tags": [],
+  "parents": [],
+  "genre": "soul",
+  "debut": "1993-10",
+  "playlists": [],
+  "ranks": [17,9.9,5.8,4.4,4.2,4.6,5.9],
+  "artists": {
+    "zhane": true
+  }
+}

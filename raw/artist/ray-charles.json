@@ -3,13 +3,13 @@
   "instanceSlug": "ray-charles",
   "tags": [
     "1950s",
-    "1960s"
+    "1960s","hof"
   ],
   "genres": ["soul","r&b"],
   "xref": [],
   "complete": false,
   "origin": "us",
-  "birth": "",
-  "death": "",
+  "birth": "1930s",
+  "death": "1990s",
   "type": "m"
 }

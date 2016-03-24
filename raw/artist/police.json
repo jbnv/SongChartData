@@ -1,1 +1,17 @@
-{"title":"Police","instanceSlug":"police","tags":["a:sting"],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"england","birth":"","death":1985,"type":"g"}
+{
+  "title": "Police, The",
+  "instanceSlug": "police",
+  "tags": ["1980s"],
+  "genres": [
+    "rock"
+  ],
+  "members": [
+    "sting"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "england",
+  "birth": "1970s",
+  "death": 1985,
+  "type": "mmm"
+}

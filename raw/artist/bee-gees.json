@@ -1,1 +1,14 @@
-{"title":"Bee Gees","instanceSlug":"bee-gees","tags":[],"parents":[],"genres":[],"members":["robin-gibb"],"origin":"","birth":"","death":"","complete":false,"type":"g"}
+{
+  "title": "Bee Gees",
+  "instanceSlug": "bee-gees",
+  "tags": ["hof","1970s"],
+  "genres": [],
+  "members": [
+    "robin-gibb","barry-gibb","maurice-gibb"
+  ],
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": "mmm"
+}

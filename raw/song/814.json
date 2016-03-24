@@ -1,1 +1,15 @@
-{"title":"Bent","instanceSlug":814,"tags":["bend"],"parents":[],"genre":"rock","debut":2000,"playlists":[],"ranks":[13,6,3.6,1.9,1.8,1.5,1.4,1.5,1.6,1.7,1.9,2.3,2.9],"artists":{"rob-thomas":true}}
+{
+  "title": "Bent",
+  "instanceSlug": 814,
+  "tags": [
+    "bend"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": 2000,
+  "playlists": [],
+  "ranks": [13,6,3.6,1.9,1.4,1.7,1.95],
+  "artists": {
+    "rob-thomas": true
+  }
+}
