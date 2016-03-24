@@ -18,7 +18,7 @@ module.exports = function(that,argv) {
 
   that.title = argv.t || "";
 
-  that.instanceSlug = argv.s || that.title.toLowerCase();
+  that.instanceSlug = argv.s || that.title.toLowerCase().replace(/ /g,"-");
 
   array_argument("tags","tag");
   array_argument("parents","parent");
