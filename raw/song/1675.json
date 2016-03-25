@@ -1,1 +1,16 @@
-{"title":"We Don't Talk Any More","instanceSlug":1675,"tags":["breakup","feb13"],"parents":[],"genre":"pop","debut":"1979-12","playlists":[],"ranks":[4,1,1.07,1.16,1.29,1.45],"artists":{"cliff-richard":true}}
+{
+  "title": "We Don't Talk Any More",
+  "instanceSlug": 1675,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1979-12",
+  "playlists": ["breakup","feb13"],
+  "ranks": [
+    4,
+    1,
+    1.07
+  ],
+  "artists": {
+    "cliff-richard": true
+  }
+}

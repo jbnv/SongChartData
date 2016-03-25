@@ -6,8 +6,9 @@
   "genre": "pop",
   "debut": "1999-10",
   "playlists": [],
-  "ranks": [1,1.005,1.025,1.055,1.095,1.15,1.24,1.38],
+  "ranks": [1,1.055],
   "artists": {
     "backstreet-boys": true
-  }
+  },
+  "note":"Project 12 weeks at #1."
 }

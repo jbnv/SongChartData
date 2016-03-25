@@ -1,1 +1,23 @@
-{"title":"Hourglass","instanceSlug":493,"tags":["glass","hour","time"],"parents":[],"genre":"rock","debut":"1987-10","playlists":[],"ranks":[16,5,1.7,1.05,1.11,1.18,1.28,1.45],"artists":{"squeeze":true}}
+{
+  "title": "Hourglass",
+  "instanceSlug": 493,
+  "tags": [
+    "glass",
+    "hour",
+    "time"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [],
+  "ranks": [
+    13,
+    5,
+    1.05,
+    1.13
+  ],
+  "artists": {
+    "squeeze": true
+  },
+  "note":"Project 8 weeks at #1."
+}

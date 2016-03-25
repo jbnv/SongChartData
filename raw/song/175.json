@@ -1,1 +1,18 @@
-{"title":"Hole Hearted","instanceSlug":175,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1991-08","ranks":[3,1,1.01,1.04,1.07,1.11,1.15,1.21,1.29,1.43,1.59,1.78,2.02,2.5],"artists":{"extreme":true}}
+{
+  "title": "Hole Hearted",
+  "instanceSlug": 175,
+  "tags": [
+    "songs-of-summer"
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "ranks": [
+    3,
+    1,
+    1.05
+  ],
+  "artists": {
+    "extreme": true
+  },
+  "note":"Project 14 weeks at #1."
+}

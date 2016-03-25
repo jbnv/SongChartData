@@ -1,1 +1,23 @@
-{"title":"Sowing the Seeds of Love","instanceSlug":300,"tags":["#1","#1-england","#1-modern-rock","farming"],"parents":[],"genre":"pop","debut":"1989-09","playlists":[],"ranks":[8,1,1.05,1.11,1.19,1.31],"artists":{"tears-for-fears":true}}
+{
+  "title": "Sowing the Seeds of Love",
+  "instanceSlug": 300,
+  "tags": [
+    "#1",
+    "#1-england",
+    "#1-modern-rock",
+    "farming"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1989-09",
+  "playlists": [],
+  "ranks": [
+    8,
+    1,
+    1.08
+  ],
+  "artists": {
+    "tears-for-fears": true
+  },
+  "note":"Project 8 weeks at #1"
+}

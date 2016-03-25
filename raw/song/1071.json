@@ -7,15 +7,11 @@
   "playlists": [],
   "ranks": [
     7.5,
-    1.9,
     1,
-    1.05,
-    1.12,
-    1.25,
-    1.39,
-    1.6
+    1.09
   ],
   "artists": {
     "shanice": true
-  }
+  },
+  "note":"Project 6 weeks at #1."
 }

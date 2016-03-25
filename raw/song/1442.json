@@ -1,1 +1,22 @@
-{"title":"Will2K","instanceSlug":1442,"tags":[],"parents":[],"genre":"dance","debut":"1999-11","playlists":[],"ranks":[3.8,1.04,1.08,1.12,1.16,1.2,1.25,1.4,2],"artists":{"will-smith":true,"k-ci":"feature"}}
+{
+  "title": "Will2K",
+  "instanceSlug": 1442,
+  "tags": [],
+  "parents": [],
+  "genre": "dance",
+  "debut": "1999-11",
+  "playlists": [],
+  "ranks": [
+    3.8,
+    1.04,
+    1.12,
+    1.2,
+    1.4,
+    2
+  ],
+  "artists": {
+    "will-smith": true,
+    "k-ci": "feature"
+  },
+  "note":"Project 4 weeks at #1 but rapid descent."
+}

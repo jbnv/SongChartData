@@ -1,1 +1,19 @@
-{"title":"Walk the Dinosaur","instanceSlug":305,"tags":[],"parents":[],"genre":"pop","debut":1989,"playlists":[],"ranks":[16,4,1,1,1,1.1,1.2,1.4,1.6,1.9],"artists":{"was-not-was":true}}
+{
+  "title": "Walk the Dinosaur",
+  "instanceSlug": 305,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1989,
+  "playlists": [],
+  "ranks": [
+    16,
+    4,
+    1,
+    1.12
+  ],
+  "artists": {
+    "was-not-was": true
+  },
+  "note":"Project 4 weeks at #1."
+}
