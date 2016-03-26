@@ -1,32 +1,25 @@
-var meta = require("../app/meta");
+var meta = require("../app/meta"),
+    scoring = require("../app/scoring"),
+    transform = require("../app/transform");
 
 //require("./app/polyfill");
 
 module.exports = function(app) {
 
-  function _artists(options) {
-    return meta.getCompiledCollection("artist",options)();
+  function _artists() {
+    return meta.getCompiledCollection("artist")();
   }
 
-  app.get("/artists", function(req, res) {
-    console.log("GET /artists");
-    res.send(_artists());
-  });
-
-  app.get("/artists/incomplete", function(req, res) {
-    console.log("GET /artists/incomplete");
-    var result = _artists().filter(function(artist) { return !artist.complete; }).sort(transform.sortByTitle);
-    res.send(result);
-  });
+  require("./entity")("artist",app);
 
   function _artist(slug) {
     return meta.getCompiledObject("artist",slug)();
   }
 
-  app.get(/^\/artist\/(.+)$/, function(req, res) {
-    console.log("GET /artist",req.params[0]);
-    var slug = req.params[0];
-    res.send(_artist(slug,true));
+  app.get("/artists/incomplete", function(req, res) {
+    console.log("GET /artists/incomplete");
+    var result = _artists().filter(function(artist) { return !artist.complete; }).sort(transform.sortByTitle);
+    res.send(result);
   });
 
   app.get("/artist-types", function(req, res) {
