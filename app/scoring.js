@@ -7,6 +7,13 @@ function round00(n) {
   return Math.round(parseFloat(n)*100)/100;
 }
 
+function _adjustedAverage(score,count) {
+  if (!count || count < 1) return null;
+  return round00(score / Math.sqrt(count));
+}
+
+exports.adjustedAverage = _adjustedAverage;
+
 exports.sortAndRank = function(list,sortFn) {
   if (!list) return [];
   var outbound = list.sort(sortFn || transform.sortByScore);
@@ -131,12 +138,12 @@ exports.scoreCollection = function() {
   }
   this.score = round00(score);
 
-  if (this.songs && this.songs.length > 0) {
-    this.songAdjustedAverage = round00(this.score / Math.sqrt(this.songs.length));
+  if (this.songs) {
+    this.songAdjustedAverage = _adjustedAverage(this.score, this.songs.length);
   }
 
-  if (this.artists && this.artists.length > 0) {
-    this.artistAdjustedAverage = round00(this.score / Math.sqrt(this.artists.length));
+  if (this.artists) {
+    this.artistAdjustedAverage = _adjustedAverage(this.score, this.artists.length);
   }
 
 }
