@@ -20,6 +20,13 @@ require("./server/grep")(app);
 entityRoute("search",app);
 require("./server/summary")(app);
 
+// Catch-all.
+app.use(function(req,res) {
+  console.log("GET",req.originalUrl,"(bad route)");
+  res.status(404).send("Bad route '"+req.originalUrl+"'.");
+});
+
+
 //region Start the server.
 
 var port = process.env.PORT || 9702;
