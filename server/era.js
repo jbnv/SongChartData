@@ -36,4 +36,29 @@ module.exports = function(app) {
     res.status(404).send("era: Bad slug '"+req.params[0]+"'.");
   });
 
+  app.get("/eras",function(req,res) {
+    var outbound = {
+      decades: {},
+      years: {},
+      months: {}
+    };
+
+    var decades = meta.getCompiledObject("song","by-decade")();
+    Object.keys(decades).forEach(function(key) {
+      outbound.decades[key] = decades[key].length;
+    });
+
+    var years = meta.getCompiledObject("song","by-year")();
+    Object.keys(years).forEach(function(key) {
+      outbound.years[key] = years[key].length;
+    })
+
+    var months = meta.getCompiledObject("song","by-month")();
+    Object.keys(months).forEach(function(key) {
+      outbound.months[key] = months[key].length;
+    })
+
+    res.send(outbound);
+  })
+
 }
