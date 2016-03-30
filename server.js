@@ -8,6 +8,7 @@ app.use(cors()); // Enable all CORS requests.
 //region Routes.
 
 require("./server/artist")(app);
+require("./server/era")(app);
 entityRoute("genre",app);
 entityRoute({singular:"location",storage:"geo"},app);
 entityRoute("playlist",app);

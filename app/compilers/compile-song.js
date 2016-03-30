@@ -5,10 +5,16 @@ var chalk       = require("chalk"),
     q           = require("q"),
     util        = require("gulp-util"),
 
+    Era         = require('../../lib/era'),
     meta        = require('../meta'),
     scoring     = require("../scoring");
 
 require("../polyfill");
+
+function pushToCollection(collection,slug,entity) {
+  if (!collection[slug]) collection[slug] = [];
+  collection[slug].push(entity);
+}
 
 function transformArtist(artist,slug,roleSlug) {
   return { slug: slug, title: artist.title, roleSlug: roleSlug };
@@ -27,6 +33,9 @@ module.exports = function(yargs,entities) {
       genres = {},
       playlists = {},
       sources = {},
+      decades = {},
+      years = {},
+      months = {},
       unranked = [];
 
   entities.forEach(function(entity) {
@@ -74,6 +83,14 @@ module.exports = function(yargs,entities) {
       sources[entity.source].push(entity);
     }
 
+    if (entity.debut && entity.debut !== "") {
+      var era = new Era(entity.debut);
+      if (era.decade) { pushToCollection(decades,era.decade,entity); }
+      if (era.year) { pushToCollection(years,era.year,entity); }
+      //TEMP Month push needs to actually put the song in all months to which is is ranked.
+      if (era.month) { pushToCollection(months,entity.debut,entity); }
+    }
+
     if ((entity.ranks || []).length == 0) unranked.push(entity);
 
     util.log(
@@ -91,6 +108,9 @@ module.exports = function(yargs,entities) {
     "by-genre": genres,
     "by-playlist": playlists,
     "by-source": sources,
+    "by-decade": decades,
+    "by-year": years,
+    "by-month": months,
     "unranked": unranked
   }
 }
