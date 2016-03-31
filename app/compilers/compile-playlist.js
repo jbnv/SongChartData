@@ -14,6 +14,7 @@ module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-playlist.js"));
 
   titles = {};
+
   var songs = readEntity(path.join("compiled","song","by-playlist"));
 
   entities.forEach(function(entity) {
@@ -77,11 +78,37 @@ module.exports = function(yargs,entities) {
 
   });
 
+  // Manually create playlists here from the compiled song list.
+  movieSongs = [];
+  tvSongs = [];
   unrankedSongs = [];
+
+  meta.getSongs().forEach(function(song) {
+    if (song.source) {
+      if (song.source.type === "movie") movieSongs.push(song);
+      if (song.source.type === "tv") tvSongs.push(song);
+    };
+    if (!song.ranks || song.ranks.length == 0) unrankedSongs.push(song);
+  });
+
+  entities.push({
+    "title": "Songs from Movies",
+    "instanceSlug": "movie",
+    "songs":movieSongs
+  });
+  entities.push({
+    "title": "Songs from TV Shows",
+    "instanceSlug": "tv",
+    "songs":tvSongs
+  });
+  entities.push({
+    "title": "Unranked Songs",
+    "instanceSlug": "unranked",
+    "songs":unrankedSongs
+  });
 
   return {
     "all": entities,
-    "titles": titles,
-    "unranked": unrankedSongs
+    "titles": titles
   }
 }
