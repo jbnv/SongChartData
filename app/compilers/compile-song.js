@@ -30,8 +30,6 @@ module.exports = function(yargs,entities) {
   allSources = meta.getSources();
   allPlaylists = meta.getPlaylists();
 
-  console.log("compile-song [32]",EntityMap);
-
   var titles = {},
       artists = {},
       genres = {},
@@ -82,7 +80,9 @@ module.exports = function(yargs,entities) {
        entity.playlists = [];
     }
 
-    sources.push(entity.source,entity);
+    sourceSlug = entity.source;
+    sources.push(sourceSlug,entity);
+    entity.source = meta.getRawObject("source",sourceSlug)();
 
     if (entity.debut && entity.debut !== "") {
       var era = new Era(entity.debut);
