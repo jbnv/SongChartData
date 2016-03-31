@@ -6,6 +6,7 @@ var chalk       = require("chalk"),
     util        = require("gulp-util"),
 
     Era         = require('../../lib/era'),
+    EntityMap   = require('../../lib/entity-map'),
     meta        = require('../meta'),
     scoring     = require("../scoring");
 
@@ -26,13 +27,16 @@ module.exports = function(yargs,entities) {
 
   allArtists = meta.getArtists();
   allGenres = meta.getGenres();
+  allSources = meta.getSources();
   allPlaylists = meta.getPlaylists();
+
+  console.log("compile-song [32]",EntityMap);
 
   var titles = {},
       artists = {},
       genres = {},
       playlists = {},
-      sources = {},
+      sources = new EntityMap(),
       decades = {},
       years = {},
       months = {},
@@ -78,10 +82,7 @@ module.exports = function(yargs,entities) {
        entity.playlists = [];
     }
 
-    if (entity.source) {
-      if (!sources[entity.source]) sources[entity.source] = [];
-      sources[entity.source].push(entity);
-    }
+    sources.push(entity.source,entity);
 
     if (entity.debut && entity.debut !== "") {
       var era = new Era(entity.debut);
