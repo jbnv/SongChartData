@@ -85,7 +85,7 @@ module.exports = function(yargs,entities) {
 
     if (entity.debut && entity.debut !== "") {
       var era = new Era(entity.debut);
-      if (era.decade) { pushToCollection(decades,era.decade,entity); }
+      if (era.decade) { pushToCollection(decades,""+era.decade+"s",entity); }
       if (era.year) { pushToCollection(years,era.year,entity); }
       //TEMP Month push needs to actually put the song in all months to which is is ranked.
       if (era.month) { pushToCollection(months,entity.debut,entity); }

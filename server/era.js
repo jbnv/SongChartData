@@ -7,9 +7,9 @@ require("../app/polyfill");
 module.exports = function(app) {
 
   // Decade
-  app.get(/^\/era\/(\d{3}0)s$/,function(req,res) {
+  app.get(/^\/era\/(\d{3}0s)$/,function(req,res) {
     console.log("GET /era",req.params[0],"(decade)");
-    var decade = parseInt(req.params[0]);
+    var decade = req.params[0];
     var content = meta.getCompiledObject("song","by-decade")();
     res.send(content[decade] || []);
   });
