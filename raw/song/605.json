@@ -1,1 +1,22 @@
-{"title":"She Blinded Me with Science","instanceSlug":605,"tags":["blind","me","she","unique-words"],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[12,6.6,3.7,2,2.18,2.4,2.7,3.1,3.9],"artists":{"thomas-dolby":true}}
+{
+  "title": "She Blinded Me with Science",
+  "instanceSlug": 605,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1983-04",
+  "playlists": ["unique-words"],
+  "ranks": [
+    14.5,
+    3.7,
+    2,
+    2.18,
+    2.4,
+    2.7,
+    3.1,
+    3.9
+  ],
+  "artists": {
+    "thomas-dolby": true
+  }
+}

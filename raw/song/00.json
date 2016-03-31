@@ -1,1 +1,17 @@
-{"title":"Say Say Say","instanceSlug":"say say say","tags":[],"parents":[],"genre":"pop","debut":"1983-10","ranks":[9,1,1.09],"artists":{"paul-mccartney":true,"michael-jackson":true}}
+{
+  "title": "Say Say Say",
+  "instanceSlug": "00",
+  "tags": [],
+  "genre": "pop",
+  "debut": "1983-10",
+  "ranks": [
+    9,
+    1,
+    1.09
+  ],
+  "artists": {
+    "paul-mccartney": true,
+    "michael-jackson": true
+  },
+  "note":"Project 6 weeks at #1."
+}

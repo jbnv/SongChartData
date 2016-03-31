@@ -1,1 +1,19 @@
-{"title":"She's a Beauty","instanceSlug":1614,"tags":["beauty","she","she-is"],"parents":[],"genre":"pop","debut":"1983-05","playlists":[],"ranks":[13,4,1.9,1.85,1.87,2.01,2.32],"artists":{"tubes":true}}
+{
+  "title": "She's a Beauty",
+  "instanceSlug": 1614,
+  "tags": ["she-is"],
+  "genre": "pop",
+  "debut": "1983-05",
+  "playlists": [],
+  "ranks": [
+    13,
+    4,
+    1.85,
+    1.87,
+    2.01,
+    2.32
+  ],
+  "artists": {
+    "tubes": true
+  }
+}
