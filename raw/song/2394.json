@@ -6,10 +6,10 @@
     "#1-adult-contemporary"
   ],
   "source": "innocent-man",
-  "genre": "pop-ballad",
+  "genre": "pop",
   "debut": "1984-08",
-  "playlists": ["harmonica"],
-  "ranks": [],
+  "playlists": ["ballad","harmonica"],
+  "ranks": [21,13,9,7,7.7],
   "artists": {
     "billy-joel": true
   }

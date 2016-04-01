@@ -8,16 +8,11 @@
     "#1-r&b",
     "can't-stop"
   ],
+  "playlists":["ballad","love"],
   "source":"bad",
-  "genre": "pop-ballad",
+  "genres":[ "pop"],
   "debut": "1987-08",
-  "ranks": [
-    13.9,
-    7.3,
-    3.6,
-    1.9,
-    2.3
-  ],
+  "ranks": [13.9,3.6,1.9,1.85,2.05],
   "artists": {
     "michael-jackson": true,
     "siedah-garrett": "backup"

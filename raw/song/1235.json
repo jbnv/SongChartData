@@ -1,1 +1,17 @@
-{"title":"ABC","instanceSlug":1235,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":1970,"playlists":[],"ranks":[],"artists":{"jackson-5-jacksons":true}}
+{
+  "title": "ABC",
+  "instanceSlug": 1235,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1970,
+  "playlists": [],
+  "ranks": [18,11,6,4,4.2,4.5],
+  "artists": {
+    "jacksons": true
+  }
+}

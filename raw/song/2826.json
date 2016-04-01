@@ -1,1 +1,16 @@
-{"title":"867-5309/Jenny","instanceSlug":2826,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1982-03","playlists":[],"ranks":[],"artists":{"tommy-tutone":true}}
+{
+  "title": "867-5309/Jenny",
+  "instanceSlug": 2826,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1982-03",
+  "playlists": [],
+  "ranks": [18,10,7,5.3,5,5.5],
+  "artists": {
+    "tommy-tutone": true
+  }
+}

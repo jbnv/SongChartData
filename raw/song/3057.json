@@ -1,1 +1,14 @@
-{"title":"See You Again","instanceSlug":3057,"tags":[],"parents":[],"genre":"pop","debut":"2015-06","source":"fast-furious-7","playlists":[],"ranks":[],"artists":{"wiz-khalifa":true}}
+{
+  "title": "See You Again",
+  "instanceSlug": 3057,
+  "tags": [],
+  "genre": "pop",
+  "debut": "2015-06",
+  "source": "ff7",
+  "playlists": ["death"],
+  "ranks": [18,9.9,8.1,6.7,6.72,7.4],
+  "artists": {
+    "wiz-khalifa": true,
+    "charlie-puth": true
+  }
+}

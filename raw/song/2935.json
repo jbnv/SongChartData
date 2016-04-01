@@ -1,1 +1,12 @@
-{"title":"A Girl Like You","instanceSlug":2935,"tags":[],"parents":[],"genre":"rock","debut":"1990-03","playlists":[],"ranks":[],"artists":{"smithereens":true}}
+{
+  "title": "A Girl Like You",
+  "instanceSlug": 2935,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1990-03",
+  "playlists": [],
+  "ranks": [16,8,4,2.7,2.83,2.97],
+  "artists": {
+    "smithereens": true
+  }
+}

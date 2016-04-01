@@ -1,1 +1,13 @@
-{"title":"9 to 5","instanceSlug":1796,"tags":[],"parents":[],"genre":"pop","debut":"1981-03","playlists":[],"ranks":[],"artists":{"dolly-parton":true}}
+{
+  "title": "9 to 5",
+  "instanceSlug": 1796,
+  "tags": [],
+  "genres": ["pop","country"],
+  "debut": "1981-03",
+  "playlists": [],
+  "ranks": [17,11,6,3.9,3.5,3.3,3.25,3.5],
+  "source":"9-to-5",
+  "artists": {
+    "dolly-parton": true
+  }
+}

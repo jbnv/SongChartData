@@ -1,1 +1,14 @@
-{"title":"Somewhere Out There","instanceSlug":302,"tags":[],"parents":[],"genre":"pop-ballad","debut":"1987-02","source":"an-american-tail","playlists":[],"ranks":[15,4.4,2.3,2.49],"artists":{"linda-rondstadt":true,"james-ingram":true}}
+{
+  "title": "Somewhere Out There",
+  "instanceSlug": 302,
+  "tags": [],
+  "genres": ["pop"],
+  "debut": "1987-02",
+  "source": "an-american-tail",
+  "playlists": ["ballad"],
+  "ranks": [15,4.4,2.3,2.2,2.35,2.55],
+  "artists": {
+    "linda-rondstadt": true,
+    "james-ingram": true
+  }
+}

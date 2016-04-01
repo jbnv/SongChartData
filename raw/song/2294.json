@@ -1,1 +1,12 @@
-{"title":1985,"instanceSlug":2294,"tags":[],"parents":[],"genre":"rock","debut":2004,"playlists":[],"ranks":[],"artists":{"bowling-for-soup":true}}
+{
+  "title": "1985",
+  "instanceSlug": 2294,
+  "tags": [],
+  "genre": "rock",
+  "debut": 2004,
+  "playlists": [],
+  "ranks": [18,10,6.1,4.5,5.2],
+  "artists": {
+    "bowling-for-soup": true
+  }
+}

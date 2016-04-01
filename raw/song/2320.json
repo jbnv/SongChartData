@@ -1,1 +1,16 @@
-{"title":"Keep It Coming Love","instanceSlug":2320,"tags":["#1","#1-r&b"],"parents":[],"genre":"disco","debut":1977,"playlists":[],"ranks":[],"artists":{"kc":true}}
+{
+  "title": "Keep It Coming Love",
+  "instanceSlug": 2320,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [],
+  "genre": "disco",
+  "debut": 1977,
+  "playlists": [],
+  "ranks": [16,9,5,3,3.2,3.7],
+  "artists": {
+    "kc": true
+  }
+}

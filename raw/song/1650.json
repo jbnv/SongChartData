@@ -1,1 +1,14 @@
-{"title":"Beauty and the Beast","instanceSlug":1650,"tags":["this-and-that"],"parents":[],"genre":"pop-ballad","debut":1992,"playlists":[],"ranks":[],"artists":{"celine-dion-peabo-bryson":true}}
+{
+  "title": "Beauty and the Beast",
+  "instanceSlug": 1650,
+  "tags": [],
+  "source":"beauty-beast-1992",
+  "genre": "pop",
+  "debut": 1992,
+  "playlists": ["ballad"],
+  "ranks": [],
+  "artists": {
+    "celine-dion":true,
+    "peabo-bryson": true
+  }
+}

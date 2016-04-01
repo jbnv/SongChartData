@@ -1,1 +1,12 @@
-{"title":"Hand in My Pocket","instanceSlug":1361,"tags":["hand","my","pocket","this-in-that"],"parents":[],"genre":"pop","debut":"1995-11","playlists":[],"ranks":[],"artists":{"alanis-morrisette":true}}
+{
+  "title": "Hand in My Pocket",
+  "instanceSlug": 1361,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1995-11",
+  "playlists": [],
+  "ranks": [21,14,9,7.2,7,7.1,7.7],
+  "artists": {
+    "alanis-morrisette": true
+  }
+}

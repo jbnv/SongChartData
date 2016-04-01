@@ -1,1 +1,15 @@
-{"title":"I'll Be Alright Without You","instanceSlug":2180,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1987-02","playlists":[],"ranks":[13,6,2,1.5,1.8,2.3],"artists":{"journey":true}}
+{
+  "title": "I'll Be Alright Without You",
+  "instanceSlug": 2180,
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1987-02",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [13,4,1.5,1.8,2.3],
+  "artists": {
+    "journey": true
+  }
+}

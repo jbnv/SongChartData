@@ -1,1 +1,13 @@
-{"title":"A Little Less Conversation, A Lot More Action","instanceSlug":1319,"tags":[],"parents":[],"genre":"pop","debut":"1970s","playlists":[],"ranks":[],"artists":{"elvis-presley":true}}
+{
+  "title": "A Little Less Conversation, A Lot More Action",
+  "instanceSlug": 1319,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1970s",
+  "playlists": [],
+  "ranks": [15,6.6,3.3,2.2,2.13,2.42],
+  "artists": {
+    "elvis-presley": true
+  }
+}

@@ -1,1 +1,12 @@
-{"title":"853-5937","instanceSlug":1832,"tags":[],"parents":[],"genre":"pop","debut":"1988-02","playlists":[],"ranks":[],"artists":{"squeeze":true}}
+{
+  "title": "853-5937",
+  "instanceSlug": 1832,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1988-02",
+  "playlists": [],
+  "ranks": [17.5,9,5.5,4.2,4,3.8,4.25],
+  "artists": {
+    "squeeze": true
+  }
+}
