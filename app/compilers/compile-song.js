@@ -1,4 +1,5 @@
 var chalk       = require("chalk"),
+    clone       = require("clone"),
     expandObject = require("../../lib/expand-object"),
     fs          = require("fs"),
     path        = require("path"),
@@ -52,8 +53,23 @@ module.exports = function(yargs,entities) {
 
     if (entity.artists) {
       for (var artistSlug in entity.artists) {
+        var artist = entity.artists[artistSlug] || {};
         if (!artists[artistSlug]) artists[artistSlug] = [];
-        artists[artistSlug].push(entity);
+        var entityClone = clone(entity);
+        delete entityClone.artists; 
+        entityClone.role = artist; //FUTURE artist.roleSlug;
+        entityClone.scoreFactor = 1.00; //FUTURE artist.scoreFactor;
+        switch (entityClone.role) {
+          case true: entityClone.scoreFactor = 1.00; break;
+          case "featured": entityClone.scoreFactor = 0.50; break;
+          case "lead": entityClone.scoreFactor = 0.75; break;
+          case "backup": entityClone.scoreFactor = 0.10; break;
+          case "writer": entityClone.scoreFactor = 1.00; break;
+          case "producer": entityClone.scoreFactor = 0.20; break;
+          default: entityClone.scoreFactor = 0.25;
+        }
+        entityClone.score *= entityClone.scoreFactor;
+        artists[artistSlug].push(entityClone);
       }
       entity.artists = expandObject.call(entity.artists,allArtists,transformArtist);
     } else {
