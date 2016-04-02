@@ -94,16 +94,20 @@ module.exports = function(yargs,entities) {
   entities.push({
     "title": "Songs from Movies",
     "instanceSlug": "movie",
+    "columns":['rank','title','artist','source','debutDate'],
     "songs":movieSongs
   });
   entities.push({
     "title": "Songs from TV Shows",
     "instanceSlug": "tv",
+    "columns":['rank','title','artist','source','debutDate'],
     "songs":tvSongs
   });
   entities.push({
     "title": "Unranked Songs",
     "instanceSlug": "unranked",
+    "columns":['title','artist','debutDate'],
+    "sort":"title",
     "songs":unrankedSongs
   });
 
