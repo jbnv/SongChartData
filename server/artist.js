@@ -16,6 +16,12 @@ module.exports = function(app) {
     return meta.getCompiledObject("artist",slug)();
   }
 
+  app.get(/^\/artist\/(.+)\/songs$/, function(req, res) {
+    console.log("GET /artist",req.params[0],"songs");
+    var itemSlug = req.params[0];
+    res.send(_artist(itemSlug).songs);
+  });
+
   app.get("/artists/incomplete", function(req, res) {
     console.log("GET /artists/incomplete");
     var result = _artists().filter(function(artist) { return !artist.complete; }).sort(transform.sortByTitle);
