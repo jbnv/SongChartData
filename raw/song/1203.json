@@ -1,1 +1,15 @@
-{"title":"What You Won't Do for Love","instanceSlug":1203,"tags":["do-for-love","","remake","won't"],"parents":[],"genre":"pop","debut":1992,"playlists":[],"ranks":[],"artists":{"go-west":true}}
+{
+  "title": "What You Won't Do for Love",
+  "instanceSlug": 1203,
+  "tags": [
+    "do-for-love"
+  ],
+  "playlists": ["remake"],
+  "genre": "pop",
+  "debut": 1993,
+  "playlists": [],
+  "ranks": [25,22,18,16,15,15.5,19],
+  "artists": {
+    "go-west": true
+  }
+}

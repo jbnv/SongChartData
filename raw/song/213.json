@@ -1,1 +1,18 @@
-{"title":"Don't Look Down","instanceSlug":213,"tags":["don't","down","look"],"parents":[],"genre":true,"debut":"1987-09","ranks":[12,3,1.6,1.7,2.1],"artists":{"go-west":true}}
+{
+  "title": "Don't Look Down",
+  "instanceSlug": 213,
+  "tags": [],
+  "parents": [],
+  "genre": [],
+  "debut": "1987-09",
+  "ranks": [
+    12,
+    3,
+    1.6,
+    1.7,
+    2.1
+  ],
+  "artists": {
+    "go-west": true
+  }
+}

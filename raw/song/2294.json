@@ -4,7 +4,7 @@
   "tags": [],
   "genre": "rock",
   "debut": 2004,
-  "playlists": [],
+  "playlists": ["years"],
   "ranks": [18,10,6.1,4.5,5.2],
   "artists": {
     "bowling-for-soup": true

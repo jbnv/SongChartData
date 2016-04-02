@@ -1,1 +1,15 @@
-{"title":"Cherry Bomb","instanceSlug":1124,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1987-11","playlists":[],"ranks":[18,15,12,10.5,10,12],"artists":{"john-mellancamp":true}}
+{
+  "title": "Cherry Bomb",
+  "instanceSlug": 1124,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "genre": "rock",
+  "debut": "1987-11",
+  "playlists": [],
+  "ranks": [18,15,12,10.5,10,12],
+  "artists": {
+    "john-mellancamp": true
+  }
+}

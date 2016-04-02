@@ -1,1 +1,13 @@
-{"title":"Magnum PI Theme","instanceSlug":2655,"tags":[],"parents":[],"genre":"rock-instrumental","debut":"1982-04","source":"magnum-pi","playlists":[],"ranks":true,"artists":{"mike-post":true}}
+{
+  "title": "Magnum PI Theme",
+  "instanceSlug": 2655,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1982-04",
+  "source": "magnum-pi",
+  "playlists": ["instrumental","tv-theme"],
+  "ranks": [14,7,4,2,2.18,2.52],
+  "artists": {
+    "mike-post": true
+  }
+}

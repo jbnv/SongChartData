@@ -1,1 +1,16 @@
-{"title":"Luka","instanceSlug":220,"tags":["commentary","songs-of-summer"],"parents":[],"genre":"pop","debut":"1987-07","ranks":[17,11,8,6,5,5.2,5.5,6.1],"artists":{"suzanne-vega":true}}
+{
+  "title": "Luka",
+  "instanceSlug": 220,
+  "tags": [],
+  "playlists": ["summer","commentary"],
+  "genre": "pop",
+  "debut": "1987-07",
+  "ranks": [
+    17,
+    8,
+    5,4.7,4.8,4.95,5.15,5.65
+  ],
+  "artists": {
+    "suzanne-vega": true
+  }
+}

@@ -1,1 +1,14 @@
-{"title":"The Rockford Files","instanceSlug":2654,"tags":[],"parents":[],"genre":"pop-instrumental","debut":1975,"source":"rockford-files","playlists":[],"ranks":true,"artists":{"mike-post":true}}
+{
+  "title": "The Rockford Files",
+  "instanceSlug": 2654,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1975,
+  "source": "rockford-files",
+  "playlists": ["instrumental","tv-theme"],
+  "ranks": true,
+  "artists": {
+    "mike-post": true
+  }
+}

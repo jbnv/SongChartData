@@ -1,1 +1,13 @@
-{"title":"No No Song","instanceSlug":2966,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":{"ringo-starr":true,"nilsson":"backup"}}
+{
+  "title": "No No Song",
+  "instanceSlug": 2966,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [],
+  "ranks": [18,10.5,6.9,5.4,5,5.2,5.7],
+  "artists": {
+    "ringo-starr": true,
+    "nilsson": "backup"
+  }
+}

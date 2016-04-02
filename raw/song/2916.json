@@ -1,1 +1,15 @@
-{"title":"You Really Got Me","instanceSlug":2916,"tags":[],"parents":[],"genre":"metal","debut":"1978-03","playlists":["remake"],"ranks":[],"artists":{"van-halen":true,"david-lee-roth":"member"}}
+{
+  "title": "You Really Got Me",
+  "instanceSlug": 2916,
+  "tags": [],
+  "genre": "metal",
+  "debut": "1978-03",
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [19,12,9,7,7.7],
+  "artists": {
+    "van-halen": true,
+    "david-lee-roth": "lead"
+  }
+}

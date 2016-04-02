@@ -1,1 +1,23 @@
-{"title":"All I Want","instanceSlug":249,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1992-08","ranks":[4.9,1,1.1,1.23,1.38,1.56],"artists":{"toad-the-wet-sprocket":true}}
+{
+  "title": "All I Want",
+  "instanceSlug": 249,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1992-08",
+  "ranks": [
+    4.9,
+    1,
+    1.028,
+    1.067,
+    1.15,
+    1.25,
+    1.37,
+    1.58,
+    1.84
+  ],
+  "playlists": ["summer"],
+  "artists": {
+    "toad-the-wet-sprocket": true
+  },
+  "note": "Project 8 weeks at #1."
+}

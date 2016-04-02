@@ -1,1 +1,24 @@
-{"title":"Wild Wild West","instanceSlug":545,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"rap","debut":"1999-08","source":"wild-wild-west","playlists":[],"ranks":[13.9,4.7,3.3,2.9,3.25],"artists":{"will-smith":true,"dru-hill":"feature","kool-moe-dee":true}}
+{
+  "title": "Wild Wild West",
+  "instanceSlug": 545,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "rap",
+  "debut": "1999-08",
+  "source": "wild-wild-west",
+  "playlists": ["summer"],
+  "ranks": [
+    13.9,
+    4.7,
+    3.3,
+    2.9,
+    3.25
+  ],
+  "artists": {
+    "will-smith": true,
+    "dru-hill": "feature",
+    "kool-moe-dee": "backup"
+  }
+}

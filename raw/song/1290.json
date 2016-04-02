@@ -1,12 +1,12 @@
 {
   "title": "December 1963",
   "instanceSlug": 1290,
-  "tags": [],
+  "tags": ["rerelease"],
   "parents": [],
   "genre": "pop",
   "debut": "1994-09",
-  "playlists": ["months"],
-  "ranks": [],
+  "playlists": ["months","years"],
+  "ranks": [19,10,8,6,6.1,6.5,7.1],
   "artists": {
     "four-seasons": true
   }

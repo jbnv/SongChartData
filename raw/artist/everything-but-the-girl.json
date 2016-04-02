@@ -2,10 +2,10 @@
   "title": "Everything But the Girl",
   "instanceSlug": "everything-but-the-girl",
   "tags": [],
-  "genres": ["pop"],
+  "genres": ["pop","dance"],
   "members": [],
-  "complete": false,
-  "origin": "",
+  "complete": true,
+  "origin": "london",
   "birth": "",
   "death": "",
   "type": "fm"

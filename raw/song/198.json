@@ -1,1 +1,22 @@
-{"title":"Jerk Out","instanceSlug":198,"tags":["#1","#1-r&b","songs-of-summer"],"parents":[],"genre":"funk-dance","debut":"1990-08","ranks":[14.5,3.3,1.8,1.5,1.67,2.01],"artists":{"the-time":true}}
+{
+  "title": "Jerk Out",
+  "instanceSlug": 198,
+  "tags": [
+    "#1",
+    "#1-r&b"  ],
+  "playlists": ["summer"],
+  "genre": "funk-dance",
+  "debut": "1990-08",
+  "ranks": [
+    14.5,
+    3.3,
+    1.8,
+    1.5,
+    1.67,
+    2.01
+  ],
+  "artists": {
+    "the-time": true,
+    "morris-day": "lead"
+  }
+}

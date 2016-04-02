@@ -1,1 +1,13 @@
-{"title":"That Girl","instanceSlug":583,"tags":["samples","songs-of-summer"],"parents":[],"genre":"pop","debut":"1996-08","playlists":[],"ranks":[17.9,10.4,6.1,5.5,6.3,8.3],"artists":{"maxie-priest":true,"shaggy":true}}
+{
+  "title": "That Girl",
+  "instanceSlug": 583,
+  "tags": [],
+  "playlists": ["summer","sample"],
+  "genre": "pop",
+  "debut": "1996-08",
+  "ranks": [17.5,6.1,4.4,4.1,4.2,5],
+  "artists": {
+    "maxie-priest": true,
+    "shaggy": true
+  }
+}

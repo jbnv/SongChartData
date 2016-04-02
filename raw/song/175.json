@@ -1,15 +1,26 @@
 {
   "title": "Hole Hearted",
   "instanceSlug": 175,
-  "tags": [
-    "songs-of-summer"
-  ],
+  "tags": [],
+  "playlists": ["summer"],
   "genre": "pop",
   "debut": "1991-08",
   "ranks": [
     3,
     1,
-    1.05
+    1.0025,
+    1.0075,
+    1.019,
+    1.035,
+    1.082,
+    1.135,
+    1.196,
+    1.25,
+    1.32,
+    1.41,
+    1.51,
+    1.63,
+    1.87
   ],
   "artists": {
     "extreme": true

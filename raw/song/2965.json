@@ -1,1 +1,14 @@
-{"title":"Oh My My","instanceSlug":2965,"tags":[],"parents":[],"genre":"pop","debut":1974,"playlists":[],"ranks":[],"artists":{"ringo-starr":true,"martha-reeves":"backup","billy-preston":"backup"}}
+{
+  "title": "Oh My My",
+  "instanceSlug": 2965,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1974,
+  "playlists": [],
+  "ranks": [19,13,9,7.5,6.5,6.6,9],
+  "artists": {
+    "ringo-starr": true,
+    "martha-reeves": "backup",
+    "billy-preston": "backup"
+  }
+}

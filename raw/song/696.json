@@ -1,1 +1,20 @@
-{"title":"Cruel Summer","instanceSlug":696,"tags":["remade","songs-of-summer"],"parents":[],"genre":"pop","debut":"1984-08","playlists":[],"ranks":[15,8.5,4.8,3.1,3.9],"artists":{"bananarama":true}}
+{
+  "title": "Cruel Summer",
+  "instanceSlug": 696,
+  "tags": [
+    "remade"
+  ],
+  "genre": "pop",
+  "debut": "1984-08",
+  "playlists": ["summer"],
+  "ranks": [
+    15,
+    8.5,
+    4.8,
+    3.1,
+    3.9
+  ],
+  "artists": {
+    "bananarama": true
+  }
+}

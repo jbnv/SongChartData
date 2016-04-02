@@ -1,1 +1,15 @@
-{"title":"The Pleasure Principle","instanceSlug":2344,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-07","playlists":["summer"],"ranks":[],"artists":{"janet-jackson":true}}
+{
+  "title": "The Pleasure Principle",
+  "instanceSlug": 2344,
+  "tags": [],
+  "parents": [],
+  "genre": "dance-pop",
+  "debut": "1987-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [19,11,7,5,5.2,5.5,5.9],
+  "artists": {
+    "janet-jackson": true
+  }
+}

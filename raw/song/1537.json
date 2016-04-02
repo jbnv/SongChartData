@@ -1,1 +1,12 @@
-{"title":"Yesterday's Songs","instanceSlug":1537,"tags":["song","yesterday"],"parents":[],"genre":"adult-contemporary","debut":"1981-12","playlists":[],"ranks":[],"artists":{"neil-diamond":true}}
+{
+  "title": "Yesterday's Songs",
+  "instanceSlug": 1537,
+  "tags": [],
+  "genre": "adult-contemporary",
+  "debut": "1981-12",
+  "playlists": [],
+  "ranks": [15,6,3.5,3,3.3,3.75],
+  "artists": {
+    "neil-diamond": true
+  }
+}

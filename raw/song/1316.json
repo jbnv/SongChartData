@@ -1,1 +1,13 @@
-{"title":"Faithful","instanceSlug":1316,"tags":[],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[],"artists":{"go-west":true}}
+{
+  "title": "Faithful",
+  "instanceSlug": 1316,
+  "tags": [],
+  "playlists": [],
+  "genre": "pop",
+  "debut": "1992-12",
+  "playlists": [],
+  "ranks": [14,4.2,1.4,1.51,1.78],
+  "artists": {
+    "go-west": true
+  }
+}

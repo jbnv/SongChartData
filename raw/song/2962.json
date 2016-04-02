@@ -1,1 +1,13 @@
-{"title":"It Don't Come Easy","instanceSlug":2962,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"ringo-starr":true,"badfinger":"backup"}}
+{
+  "title": "It Don't Come Easy",
+  "instanceSlug": 2962,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [],
+  "ranks": [19,10,6.1,5,5.2,5.7],
+  "artists": {
+    "ringo-starr": true,
+    "badfinger": "backup"
+  }
+}

@@ -1,1 +1,19 @@
-{"title":"Don't Forget My Number","instanceSlug":343,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"dance-pop","debut":"1989-06","playlists":[],"ranks":[12.5,5,2,1.6,1.89],"artists":{"milli-vanilli":true}}
+{
+  "title": "Don't Forget My Number",
+  "instanceSlug": 343,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "dance-pop",
+  "debut": "1989-06",
+  "playlists": ["summer"],
+  "ranks": [
+    12.5,
+    2,
+    1.1,1.34
+  ],
+  "artists": {
+    "milli-vanilli": true
+  }
+}

@@ -1,1 +1,12 @@
-{"title":"Seasons Change","instanceSlug":1460,"tags":[],"parents":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[],"artists":{"expose":true}}
+{
+  "title": "Seasons Change",
+  "instanceSlug": 1460,
+  "tags": ["#1","#1-hot-100","#1-adult-contemporary"],
+  "genre": "pop",
+  "debut": "1987-12",
+  "playlists": ["ballad"],
+  "ranks": [17,10.1,5.9,3.7,3.82,4.05],
+  "artists": {
+    "expose": true
+  }
+}

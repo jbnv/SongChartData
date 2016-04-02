@@ -2,10 +2,10 @@
   "title": "Exile",
   "instanceSlug": "exile",
   "tags": [],
-  "genres": ["country"],
+  "genres": ["country","pop"],
   "members": [],
-  "complete": false,
-  "origin": "us",
+  "complete": true,
+  "origin": "kentucky",
   "birth": "",
   "death": "",
   "type": "mmm"

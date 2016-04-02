@@ -1,1 +1,25 @@
-{"title":"Rock Steady","instanceSlug":230,"tags":["#1","#1-r&b","songs-of-summer"],"parents":[],"genre":"urban","debut":"1987-07","ranks":[19.9,11.3,6.4,4.2,3.9,3.8,3.97,4.25,4.69,5.7],"artists":{"whispers":true}}
+{
+  "title": "Rock Steady",
+  "instanceSlug": 230,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": ["summer"],
+  "genres": ["urban","soul"],
+  "debut": "1987-07",
+  "ranks": [
+    15.6,
+    6.4,
+    4.2,
+    3.9,
+    3.8,
+    3.97,
+    4.25,
+    4.69,
+    5.7
+  ],
+  "artists": {
+    "whispers": true
+  }
+}

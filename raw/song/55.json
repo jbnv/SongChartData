@@ -1,1 +1,18 @@
-{"title":"Baby Baby Baby","instanceSlug":55,"tags":["songs-of-summer","triple-word"],"parents":[],"genre":"urban","debut":"1992-07","ranks":[10,3.4,2.6,2.2,2.4,2.65,2.92],"artists":{"tlc":true}}
+{
+  "title": "Baby Baby Baby",
+  "instanceSlug": 55,
+  "tags": [],
+  "playlists": ["summer"],
+  "genre": "urban",
+  "debut": "1992-07",
+  "ranks": [
+    10,
+    2.2,2.25,
+    2.4,
+    2.65,
+    2.92
+  ],
+  "artists": {
+    "tlc": true
+  }
+}

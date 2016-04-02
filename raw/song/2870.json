@@ -1,1 +1,12 @@
-{"title":"You Belong to Me","instanceSlug":2870,"tags":[],"parents":[],"genre":"pop","debut":"1978-05","playlists":[],"ranks":[],"artists":{"carly-simon":true}}
+{
+  "title": "You Belong to Me",
+  "instanceSlug": 2870,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1978-05",
+  "playlists": [],
+  "ranks": [15,6,3.1,1.8,1.92,2.21],
+  "artists": {
+    "carly-simon": true
+  }
+}

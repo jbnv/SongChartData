@@ -1,1 +1,11 @@
-{"title":"Heartbeat","instanceSlug":284,"tags":["heart","heartbeat","songs-of-summer"],"parents":[],"debut":"1986-08","playlists":[],"ranks":[],"artists":{"don-johnson":true}}
+{
+  "title": "Heartbeat",
+  "instanceSlug": 284,
+  "tags": ["heart"],
+  "playlists": ["summer"],
+  "debut": "1986-08",
+  "ranks": [18,11,9,8,7.5,8.4],
+  "artists": {
+    "don-johnson": true
+  }
+}

@@ -1,1 +1,19 @@
-{"title":"You're Making Me High","instanceSlug":1391,"tags":["high","make-me","making","me","you-make","you-make-me","you're"],"parents":[],"genre":"urban","debut":"1996-11","playlists":[],"ranks":[],"artists":{"toni-braxton":true}}
+{
+  "title": "You're Making Me High",
+  "instanceSlug": 1391,
+  "tags": [
+    "high",
+    "make-me",
+    "making",
+    "you-make",
+    "you-make-me",
+    "you're"
+  ],
+  "genre": "urban",
+  "debut": "1996-11",
+  "playlists": [],
+  "ranks": [19,12,8,6,5.8,6.1,6.7],
+  "artists": {
+    "toni-braxton": true
+  }
+}

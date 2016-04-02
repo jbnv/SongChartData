@@ -1,1 +1,18 @@
-{"title":"How Long","instanceSlug":2067,"tags":[],"parents":[],"genre":"pop","playlists":[],"ranks":[14,1.5,1.69,2.1],"artists":{"ace":true,"paul-carrack":"member"}}
+{
+  "title": "How Long",
+  "instanceSlug": 2067,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1970s",
+  "playlists": ["cheating","feb13"],
+  "ranks": [
+    14,
+    1.5,
+    1.69,
+    2.1
+  ],
+  "artists": {
+    "ace": true,
+    "paul-carrack": "lead"
+  }
+}

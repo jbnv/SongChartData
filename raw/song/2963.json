@@ -1,1 +1,16 @@
-{"title":"Photograph","instanceSlug":2963,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"ringo-starr":true,"george-harrison":"backup"}}
+{
+  "title": "Photograph",
+  "instanceSlug": 2963,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [],
+  "ranks": [21,13,9.1,8,8.4,9.2],
+  "artists": {
+    "ringo-starr": true,
+    "george-harrison": "backup"
+  }
+}

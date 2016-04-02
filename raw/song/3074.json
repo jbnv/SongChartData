@@ -1,1 +1,14 @@
-{"title":"Worth It","instanceSlug":3074,"tags":[],"parents":[],"genre":"pop","debut":"2015-08","playlists":[],"ranks":[],"artists":{"fifth-harmony":true,"kid-ink":"feature"}}
+{
+  "title": "Worth It",
+  "instanceSlug": 3074,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "2015-08",
+  "playlists": [],
+  "ranks": [30,22,18,15,16.5],
+  "artists": {
+    "fifth-harmony": true,
+    "kid-ink": "feature"
+  }
+}

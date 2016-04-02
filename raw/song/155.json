@@ -1,1 +1,20 @@
-{"title":"I Just Wanna Stop","instanceSlug":155,"tags":["i-just","i-just-want"],"parents":[],"genre":"pop-ballad","debut":"1978-10","ranks":[15.9,3.7,1.5,1.71],"artists":{"gino-vannelli":true}}
+{
+  "title": "I Just Wanna Stop",
+  "instanceSlug": 155,
+  "tags": [
+    "i-just",
+    "i-just-want"
+  ],
+  "playlists": ["ballad"],
+  "genre": "pop",
+  "debut": "1978-10",
+  "ranks": [
+    15.9,
+    3.7,
+    1.5,
+    1.71
+  ],
+  "artists": {
+    "gino-vannelli": true
+  }
+}

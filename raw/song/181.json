@@ -1,1 +1,13 @@
-{"title":"She Ain't Worth It","instanceSlug":181,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1990-07","ranks":[19.9,11.3,6.4,4.2,4.4,4.8,5.4],"artists":{"glenn-medeiros":true,"bobby-brown":"feature"}}
+{
+  "title": "She Ain't Worth It",
+  "instanceSlug": 181,
+  "tags": [],
+  "playlists": ["summer"],
+  "genre": "pop",
+  "debut": "1990-07",
+  "ranks": [17,10.3,6.44,4.1,3.3,3.5,3.9],
+  "artists": {
+    "glenn-medeiros": true,
+    "bobby-brown": "feature"
+  }
+}

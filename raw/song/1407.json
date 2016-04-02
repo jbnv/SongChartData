@@ -1,1 +1,15 @@
-{"title":"Law & Order","instanceSlug":1407,"tags":["instrumental","law","order","police","tv"],"parents":[],"genre":"pop-instrumental","debut":1990,"source":"law-order","playlists":[],"ranks":true,"artists":{"mike-post":true}}
+{
+  "title": "Law & Order",
+  "instanceSlug": 1407,
+  "tags": [
+    "police"
+  ],
+  "genre": "pop",
+  "debut": 1990,
+  "source": "law-order",
+  "playlists": ["instrumental","tv-theme"],
+  "ranks": [16,10,6,4,4.1,4.5],
+  "artists": {
+    "mike-post": true
+  }
+}

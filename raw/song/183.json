@@ -1,1 +1,24 @@
-{"title":"Cradle of Love","instanceSlug":183,"tags":["#1","#1-mainstream-rock","#2-hot-100","songs-of-summer"],"parents":[],"genre":"rock","debut":"1990-06","ranks":[20,14,11,9.2,8,8.5,9.35],"artists":{"billy-idol":true}}
+{
+  "title": "Cradle of Love",
+  "instanceSlug": 183,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock",
+    "#2-hot-100"
+  ],
+  "playlists": ["summer"],
+  "genre": "rock",
+  "debut": "1990-06",
+  "ranks": [
+    20,
+    14,
+    11,
+    9.2,
+    8,
+    8.5,
+    9.35
+  ],
+  "artists": {
+    "billy-idol": true
+  }
+}
