@@ -32,26 +32,30 @@ module.exports = function(app) {
     console.log("GET /artist-types");
 
     var artists = _artists();
-    var map = require("./app/models/artist-types");
+    var map = require("../app/models/artist-types");
 
     artists.forEach(function(artist) {
-      var type = artist.type || "";
+      var type = (artist.type || {}).slug || "";
       if (!map[type]) {
         console.log("Unrecognized type '"+type+"'");
         type = "u";
       }
-      map[type].artists.push(artist);
+      map[type].artistCount++;
+      //map[type].artists.push(artist);
+      map[type].score += artist.score;
     });
 
     var outbound = transform.objectToArray(map);
-    outbound.forEach(function(type) { scoring.scoreCollection.call(type); });
+    outbound.forEach(function(type) {
+      type.artistAdjustedAverage = scoring.adjustedAverage(type.score,type.artistCount);
+    });
     res.send(outbound);
   });
 
   app.get(/^\/artist-type\/(.+)$/, function(req, res) {
     console.log("GET /artist-type",req.params[0]);
     var slug = req.params[0];
-    var map = require("./app/models/artist-types");
+    var map = require("../app/models/artist-types");
     var artists = _artists().filter(function(artist) { return artist.type && artist.type.slug === slug; });
     res.send({
       title: map[slug].title,

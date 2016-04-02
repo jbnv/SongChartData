@@ -1,18 +1,32 @@
-module.exports = {
-  "": {"title":"Not Set/Unknown","artists":[]},
-  "u": {"title":"Unrecognized","artists":[]},
-  "f": {"title":"Solo Female","artists":[]},
-  "m": {"title":"Solo Male","artists":[]},
-  "d": {"title":"Duo (deprecated)","artists":[]},
-  "g": {"title":"Group (deprecated)","artists":[]},
-  "mm": {"title":"Male Duo","artists":[]},
-  "ff": {"title":"Female Duo","artists":[]},
-  "mf": {"title":"Mixed Duo, Male Lead","artists":[]},
-  "fm": {"title":"Mixed Duo, Female Lead","artists":[]},
-  "mmm": {"title":"All-Male Group","artists":[]},
-  "mmf": {"title":"Mixed Group, Male Lead","artists":[]},
-  "mff": {"title":"Mixed Group, Male Lead","artists":[]},
-  "fmm": {"title":"Mixed Group, Female Lead","artists":[]},
-  "ffm": {"title":"Mixed Group, Female Lead","artists":[]},
-  "fff": {"title":"All-Female Group","artists":[]}
-}
+var _types = [
+  {"slug":"","title":"Not Set/Unknown",},
+  {"slug":"u","title":"Unrecognized",},
+  {"slug":"f","title":"Solo Female"},
+  {"slug":"m","title":"Solo Male"},
+  {"slug":"d","title":"Duo (deprecated)"},
+  {"slug":"g","title":"Group (deprecated)"},
+  {"slug":"mm","title":"Male Duo"},
+  {"slug":"ff","title":"Female Duo"},
+  {"slug":"mf","title":"Mixed Duo, Male Lead"},
+  {"slug":"fm","title":"Mixed Duo, Female Lead"},
+  {"slug":"mmm","title":"All-Male Group"},
+  {"slug":"mmf","title":"Mixed Group, Male Lead"},
+  {"slug":"mff","title":"Mixed Group, Male Lead"},
+  {"slug":"fmm","title":"Mixed Group, Female Lead"},
+  {"slug":"ffm","title":"Mixed Group, Female Lead"},
+  {"slug":"fff","title":"All-Female Group"}
+];
+
+var outbound = {};
+
+_types.forEach(function(type) {
+  outbound[type.slug] = {
+    "title":type.title,
+    "artists":[],
+    "artistCount":0,
+    "score":0.00,
+    "artistAdjustedAverage":0.00
+  };
+});
+
+module.exports = outbound;
