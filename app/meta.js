@@ -52,7 +52,7 @@ function _getTitles(typeSlug) {
 module.exports = {
 
   entityTypes: [
-    "artist","artist-list","genre","geo",
+    "artist","genre","geo",
     "playlist","song","source","tag"
   ],
 
