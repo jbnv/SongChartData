@@ -1,1 +1,18 @@
-{"title":"IGY","instanceSlug":65,"tags":["acronym"],"parents":[],"genre":"pop","debut":"1982-11","ranks":[10,2.4,1.4,1.35,1.45,1.58,1.78,2.01],"artists":{"donald-fagen":true}}
+{
+  "title": "IGY",
+  "instanceSlug": 65,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1982-11",
+  "ranks": [
+    10,
+    1.4,
+    1.45,
+    1.58,
+    1.78,
+    2.01
+  ],
+  "artists": {
+    "donald-fagen": true
+  }
+}

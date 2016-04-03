@@ -6,7 +6,7 @@
   "genre": "pop",
   "debut": 1988,
   "playlists": ["driving"],
-  "ranks": [],
+  "ranks": [17,9,5,3.8,3.7,4.2],
   "artists": {
     "michael-jackson": true
   }

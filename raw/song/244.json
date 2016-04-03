@@ -12,7 +12,7 @@
   "source":"bad",
   "genres":[ "pop"],
   "debut": "1987-08",
-  "ranks": [13.9,3.6,1.9,1.85,2.05],
+  "ranks": [13.9,3.6,1.6,1.65,1.85],
   "artists": {
     "michael-jackson": true,
     "siedah-garrett": "backup"

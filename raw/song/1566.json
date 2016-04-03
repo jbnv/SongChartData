@@ -6,7 +6,7 @@
   "genre": "pop",
   "debut": 1988,
   "playlists": [],
-  "ranks": [],
+  "ranks": [16,9,5,3,3.2,3.5],
   "artists": {
     "michael-jackson": true
   }

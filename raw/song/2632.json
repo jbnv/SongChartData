@@ -1,1 +1,13 @@
-{"title":"For the Love of Money","instanceSlug":2632,"tags":[],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":{"o-jays":true}}
+{
+  "title": "For the Love of Money",
+  "instanceSlug": 2632,
+  "tags": [],
+  "parents": [],
+  "genres": ["soul","urban","r&b"],
+  "debut": 1974,
+  "playlists": ["commentary"],
+  "ranks": [16,6,4,2,2.05,2.21,2.5],
+  "artists": {
+    "o-jays": true
+  }
+}

@@ -5,14 +5,14 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "playlists": [],
-  "genre": "soul",
+  "playlists": ["organ","weird-al"],
+  "genres": ["soul","pop"],
   "debut": "1987-09",
   "ranks": [
     15,
     3.5,
-    1,
-    1.25
+    1.25,
+    1.35
   ],
   "source": "bad",
   "artists": {

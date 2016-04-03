@@ -1,1 +1,5 @@
-{"title":"Twist & Shout","instanceSlug":271,"tags":["shout","twist"],"parents":[],"genre":true,"debut":"1986-09","ranks":[19.9,12,15.7,24.5,38,59,91.7,142.3],"artists":{"beatles":true}}
+{"title":"Twist & Shout","instanceSlug":271,"tags":[],"genre":true,"debut":"1986-09","ranks":[19.9,12,15.7,24.5,38,59,91.7,142.3],"artists":{"beatles":true,
+"john-lennon":"member",
+"paul-mccartney":"member",
+"george-harrison":"member",
+"ringo-starr":"member"}}

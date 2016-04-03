@@ -1,1 +1,13 @@
-{"title":"Farewell My Summer Love","instanceSlug":2358,"tags":[],"parents":[],"genre":"soul","debut":"1984-07","playlists":[],"ranks":[],"artists":{"michael-jackson":true}}
+{
+  "title": "Farewell My Summer Love",
+  "instanceSlug": 2358,
+  "tags": ["rerelease"],
+  "parents": [],
+  "genre": "soul",
+  "debut": "1984-07",
+  "playlists": ["ballad"],
+  "ranks": [19,10,7,5.5,5,5.4,5.9],
+  "artists": {
+    "michael-jackson": true
+  }
+}

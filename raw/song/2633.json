@@ -1,1 +1,15 @@
-{"title":"Livin' for the Weekend","instanceSlug":2633,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[],"artists":{"o-jays":true}}
+{
+  "title": "Livin' for the Weekend",
+  "instanceSlug": 2633,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genres": ["soul","urban","r&b"],
+  "debut": 1976,
+  "playlists": [],
+  "ranks": [18,10.5,5.5,3.5,3.7,4.1],
+  "artists": {
+    "o-jays": true
+  }
+}

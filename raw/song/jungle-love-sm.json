@@ -1,0 +1,13 @@
+{
+  "title": "Jungle Love",
+  "instanceSlug": "jungle-love-sm",
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1970s",
+  "playlists": [],
+  "ranks": [15,4,1.99,1.8,1.92,2.05,2.3],
+  "artists": {
+    "steve-miller-band": true
+  }
+}

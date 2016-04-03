@@ -1,1 +1,12 @@
-{"title":"Love Shack","instanceSlug":"love-shack-1989","tags":[],"parents":[],"debut":1989,"playlists":[],"ranks":[],"artists":{"b-52s":true}}
+{
+  "title": "Love Shack",
+  "instanceSlug": "love-shack-1989",
+  "tags": ["#1","#1-modern-rock"],
+  "debut": 1989,
+  "playlists": [],
+  "ranks": [30,31],
+  "artists": {
+    "b-52s": true,
+    "kate-pierson":"lead"
+  }
+}

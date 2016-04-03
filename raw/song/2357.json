@@ -6,7 +6,7 @@
   "genre": "dance-pop",
   "debut": "1983-06",
   "playlists": ["start"],
-  "ranks": [],
+  "ranks": [20,14,10,8,6,6.5],
   "artists": {
     "michael-jackson": true
   }

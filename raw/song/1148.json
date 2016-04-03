@@ -1,1 +1,22 @@
-{"title":"I'm Not in Love","instanceSlug":1148,"tags":["i'm","in-love","love","not"],"parents":[],"genre":"pop","debut":"1990-12","playlists":[],"ranks":[14,4.5,1.7,1,1.05,1.25],"artists":{"will-to-power":true}}
+{
+  "title": "I'm Not in Love",
+  "instanceSlug": 1148,
+  "tags": ["in-love"],
+  "genre": "pop",
+  "debut": "1990-12",
+  "playlists": ["remake"],
+  "ranks": [
+    14,
+    4.5,
+    1,
+    1.05,
+    1.15,
+    1.28,
+    1.44,
+    1.68
+  ],
+  "artists": {
+    "will-to-power": true
+  },
+  "note":"Project 6 weeks at #1."
+}

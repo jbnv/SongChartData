@@ -1,1 +1,22 @@
-{"title":"Automatic","instanceSlug":2645,"tags":[],"parents":[],"genre":"pop","debut":"1984-02","playlists":[],"ranks":[8,1,1.12],"artists":{"pointer-sisters":true}}
+{
+  "title": "Automatic",
+  "instanceSlug": 2645,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1984-02",
+  "playlists": [],
+  "ranks": [
+    8,
+    1,
+    1.09,
+    1.195,
+    1.315,
+    1.44,
+    1.65,
+    1.87
+  ],
+  "artists": {
+    "pointer-sisters": true
+  },
+  "note":"Project 6 weeks at #1."
+}

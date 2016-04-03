@@ -1,1 +1,16 @@
-{"title":"Love Train","instanceSlug":2631,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":{"o-jays":true}}
+{
+  "title": "Love Train",
+  "instanceSlug": 2631,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "genres": ["soul","urban","r&b"],
+  "debut": 1973,
+  "playlists": [],
+  "ranks": [14,5.5,2.5,2,2.3],
+  "artists": {
+    "o-jays": true
+  }
+}

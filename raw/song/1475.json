@@ -1,1 +1,20 @@
-{"title":"Coming Around Again","instanceSlug":1475,"tags":["again","around","come","coming"],"parents":[],"genre":"pop","debut":"1986-12","source":"heartburn","playlists":[],"ranks":[15,5,2,1.65,1.85,2.09],"artists":{"carly-simon":true}}
+{
+  "title": "Coming Around Again",
+  "instanceSlug": 1475,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1986-12",
+  "source": "heartburn",
+  "playlists": [],
+  "ranks": [
+    15,
+    2,
+    1.45,
+    1.65,
+    1.85,
+    2.09
+  ],
+  "artists": {
+    "carly-simon": true
+  }
+}

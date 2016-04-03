@@ -5,10 +5,11 @@
   "source":"bad",
   "genre": "soul",
   "debut": "1988-02",
-  "playlists": [],
-  "ranks": [],
+  "playlists": ["choir"],
+  "ranks": [24,18,15,13,12,12.2,12.7,13.3,15.1],
   "artists": {
     "michael-jackson": true,
-    "siedah-garrett": true
+    "siedah-garrett": "backup",
+    "winans": "backup"
   }
 }

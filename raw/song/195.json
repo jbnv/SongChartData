@@ -1,1 +1,21 @@
-{"title":"Policy of Truth","instanceSlug":195,"tags":["policy","truth"],"parents":[],"genre":"pop","debut":"1990-09","ranks":[13,3.3,1.2,1.32,1.49],"artists":{"depeche-mode":true}}
+{
+  "title": "Policy of Truth",
+  "instanceSlug": 195,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1990-09",
+  "ranks": [
+    13,
+    3.3,
+    1.2,
+    1.25,
+    1.32,
+    1.41,
+    1.61,
+    1.87
+  ],
+  "artists": {
+    "depeche-mode": true
+  },
+  "note":"Project 6 weeks at #1."
+}

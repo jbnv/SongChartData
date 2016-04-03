@@ -5,9 +5,8 @@
     "1970s",
     "1980s","hof"
   ],
-  "parents": [],
   "genres": [
-    "soul"
+    "soul","urban","pop","dance-pop"
   ],
   "members": [
     "michael-jackson",
@@ -17,5 +16,5 @@
   "origin": "gary-ind",
   "birth": "",
   "death": "",
-  "type": "g"
+  "type": "mmm"
 }

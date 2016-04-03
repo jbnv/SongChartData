@@ -1,2 +1,13 @@
-{"title":"Never Can Say Goodbye","instanceSlug":1228,"tags":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"jacksons":true,
-"michael-jackson": "lead"}}
+{
+  "title": "Never Can Say Goodbye",
+  "instanceSlug": 1228,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [],
+  "ranks": [17,10,6,4,4.1,4.5],
+  "artists": {
+    "jacksons": true,
+    "michael-jackson": "lead"
+  }
+}

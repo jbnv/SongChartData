@@ -1,1 +1,13 @@
-{"title":"Got To Be There","instanceSlug":1232,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"michael-jackson":true}}
+{
+  "title": "Got To Be There",
+  "instanceSlug": 1232,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [],
+  "ranks": [15,6,2,2.1,2.5],
+  "artists": {
+    "michael-jackson": true
+  }
+}

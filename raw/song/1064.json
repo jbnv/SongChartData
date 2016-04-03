@@ -1,1 +1,29 @@
-{"title":"Good Stuff","instanceSlug":1064,"tags":[],"parents":[],"genre":"pop","debut":1992,"playlists":["summer"],"ranks":[17,8,4.5,2.9,2.5,2.5,2.7,3,3.5,4,4.5,5.3],"artists":{"b-52s":true}}
+{
+  "title": "Good Stuff",
+  "instanceSlug": 1064,
+  "tags": ["#1","#1-modern-rock"],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1992-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    17,
+    8,
+    4.5,
+    2.9,
+    2.5,
+    2.5,
+    2.7,
+    3,
+    3.5,
+    4,
+    4.5,
+    5.3
+  ],
+  "artists": {
+    "b-52s": true,
+    "kate-pierson":"lead"
+  }
+}

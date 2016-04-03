@@ -5,8 +5,8 @@
   "source":"off-the-wall",
   "genre": "soul",
   "debut": "1980-05",
-  "playlists": [],
-  "ranks": [],
+  "playlists": ["ballad","breakup","feb13"],
+  "ranks": [20,15,12,10.5,10,10.5,11.2],
   "artists": {
     "michael-jackson": true
   }

@@ -7,6 +7,10 @@
   "playlists": [],
   "ranks": [17,9,5.5,3,3.4],
   "artists": {
-    "beatles": true
+    "beatles": true,
+    "john-lennon":"member",
+    "paul-mccartney":"member",
+    "george-harrison":"member",
+    "ringo-starr":"member"
   }
 }
