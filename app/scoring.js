@@ -147,3 +147,27 @@ exports.scoreCollection = function() {
   }
 
 }
+
+exports.aggregateCollection = function() {
+  var that = this;
+  this.maxSongCount = 0.00;
+  this.maxSongAdjustedAverage = 0.00;
+  this.maxArtistCount = 0.00;
+  this.maxArtistAdjustedAverage = 0.00;
+
+  this.forEach(function(item) {
+    if (item.songCount > this.maxSongCount) {
+      this.maxSongCount = item.songCount;
+    }
+    if (item.songAdjustedAverage > this.maxSongAdjustedAverage) {
+      this.maxSongAdjustedAverage = item.songAdjustedAverage;
+    }
+    if (item.ArtistCount > this.maxArtistCount) {
+      this.maxArtistCount = item.ArtistCount;
+    }
+    if (item.ArtistAdjustedAverage > this.maxArtistAdjustedAverage) {
+      this.maxArtistAdjustedAverage = item.ArtistAdjustedAverage;
+    }
+  });
+
+}
