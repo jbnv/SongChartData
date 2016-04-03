@@ -1,8 +1,30 @@
-var functions = require("./functions"),
+var Era = require("../lib/era"),
+    functions = require("./functions"),
     meta = require("../app/meta"),
     scoring = require("../app/scoring");
 
 require("../app/polyfill");
+
+function _forDecade(decade) {
+  var songs = meta.getCompiledObject("song","by-decade")()[decade] || [];
+  var outbound = {slug:decade, songs: songs};
+  scoring.scoreCollection.call(outbound);
+  return outbound;
+}
+
+function _forYear(year) {
+  var songs = meta.getCompiledObject("song","by-year")()[year] || [];
+  var outbound = {slug: year, songs: songs};
+  scoring.scoreCollection.call(outbound);
+  return outbound;
+}
+
+function _forMonth(month) {
+  var songs = meta.getCompiledObject("song","by-month")()[month] || [];
+  var outbound = {slug: month, songs: songs};
+  scoring.scoreCollection.call(outbound);
+  return outbound;
+}
 
 module.exports = function(app) {
 
@@ -10,17 +32,20 @@ module.exports = function(app) {
   app.get(/^\/era\/(\d{3}0s)$/,function(req,res) {
     console.log("GET /era",req.params[0],"(decade)");
     var decade = req.params[0];
-    var content = meta.getCompiledObject("song","by-decade")();
-    res.send(content[decade] || []);
+    var era = new Era(decade);
+    var outbound = _forDecade(decade);
+    outbound.years = era.years.map(_forYear);
+    res.send(outbound);
   });
 
   // Year
   app.get(/^\/era\/(\d{4})$/,function(req,res) {
     console.log("GET /era",req.params[0],"(year)");
     var year = parseInt(req.params[0]);
-    var content = meta.getCompiledObject("song","by-year")();
-    res.send(content[year] || []);
-
+    var era = new Era(year);
+    var outbound = _forYear(year);
+    outbound.months = era.months.map(_forMonth);
+    res.send(outbound);
   });
 
   // Month
