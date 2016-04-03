@@ -45,17 +45,29 @@ module.exports = function(app) {
 
     var decades = meta.getCompiledObject("song","by-decade")();
     Object.keys(decades).forEach(function(key) {
-      outbound.decades[key] = decades[key].length;
+      var scoreEntity = {songs:decades[key]};
+      scoreEntity.songCount = decades[key].length;
+      scoring.scoreCollection.call(scoreEntity);
+      delete scoreEntity.songs;
+      outbound.decades[key] = scoreEntity;
     });
 
     var years = meta.getCompiledObject("song","by-year")();
     Object.keys(years).forEach(function(key) {
-      outbound.years[key] = years[key].length;
+      var scoreEntity = {songs:years[key]};
+      scoreEntity.songCount = years[key].length;
+      scoring.scoreCollection.call(scoreEntity);
+      delete scoreEntity.songs;
+      outbound.years[key] = scoreEntity;
     })
 
     var months = meta.getCompiledObject("song","by-month")();
     Object.keys(months).forEach(function(key) {
-      outbound.months[key] = months[key].length;
+      var scoreEntity = {songs:months[key]};
+      scoreEntity.songCount = months[key].length;
+      scoring.scoreCollection.call(scoreEntity);
+      delete scoreEntity.songs;
+      outbound.months[key] = scoreEntity;
     })
 
     res.send(outbound);
