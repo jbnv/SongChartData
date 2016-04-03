@@ -5,25 +5,22 @@ var Era = require("../lib/era"),
 
 require("../app/polyfill");
 
-function _forDecade(decade) {
-  var songs = meta.getCompiledObject("song","by-decade")()[decade] || [];
-  var outbound = {slug:decade, songs: songs};
-  scoring.scoreCollection.call(outbound);
-  return outbound;
+function _forDecade(era) {
+  era.songs = meta.getCompiledObject("song","by-decade")()[era.slug] || [];
+  scoring.scoreCollection.call(era);
+  return era;
 }
 
-function _forYear(year) {
-  var songs = meta.getCompiledObject("song","by-year")()[year] || [];
-  var outbound = {slug: year, songs: songs};
-  scoring.scoreCollection.call(outbound);
-  return outbound;
+function _forYear(era) {
+  era.songs = meta.getCompiledObject("song","by-year")()[era.slug] || [];
+  scoring.scoreCollection.call(era);
+  return era;
 }
 
-function _forMonth(month) {
-  var songs = meta.getCompiledObject("song","by-month")()[month] || [];
-  var outbound = {slug: month, songs: songs};
-  scoring.scoreCollection.call(outbound);
-  return outbound;
+function _forMonth(era) {
+  era.songs = meta.getCompiledObject("song","by-month")()[era.slug] || [];
+  scoring.scoreCollection.call(era);
+  return era;
 }
 
 module.exports = function(app) {
@@ -32,9 +29,10 @@ module.exports = function(app) {
   app.get(/^\/era\/(\d{3}0s)$/,function(req,res) {
     console.log("GET /era",req.params[0],"(decade)");
     var decade = req.params[0];
-    var era = new Era(decade);
-    var outbound = _forDecade(decade);
-    outbound.years = era.years.map(_forYear);
+    var outbound = _forDecade(new Era(decade));
+    outbound.years = outbound.years.map(function(year) {
+      return _forYear(new Era(year));
+    });
     res.send(outbound);
   });
 
@@ -42,17 +40,19 @@ module.exports = function(app) {
   app.get(/^\/era\/(\d{4})$/,function(req,res) {
     console.log("GET /era",req.params[0],"(year)");
     var year = parseInt(req.params[0]);
-    var era = new Era(year);
-    var outbound = _forYear(year);
-    outbound.months = era.months.map(_forMonth);
+    var outbound = _forYear(new Era(year));
+    outbound.months = outbound.months.map(function(month) {
+      return _forMonth(new Era(month));
+    });
     res.send(outbound);
   });
 
   // Month
   app.get(/^\/era\/(\d{4}-\d{2})$/,function(req,res) {
     console.log("GET /era",req.params[0],"(month)");
-    var content = meta.getCompiledObject("song","by-month")();
-    res.send(content[req.params[0]] || []);
+    var slug = req.params[0];
+    var outbound = _forMonth(new Era(slug));
+    res.send(outbound);
   });
 
   // Catch-all for bad patterns.
