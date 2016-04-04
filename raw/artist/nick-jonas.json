@@ -1,1 +1,13 @@
-{"title":"Nick Jonas","instanceSlug":"nick-jonas","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Nick Jonas",
+  "instanceSlug": "nick-jonas",
+  "tags": [],
+  "genres": [],
+  "xref": ["jonas-brothers"],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

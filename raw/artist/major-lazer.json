@@ -1,1 +1,14 @@
-{"title":"Major Lazer","instanceSlug":"major-lazer","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Major Lazer",
+  "instanceSlug": "major-lazer",
+  "tags": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

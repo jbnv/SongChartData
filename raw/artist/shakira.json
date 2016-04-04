@@ -6,7 +6,8 @@
     "latin-pop"
   ],
   "xref": [],
-  "complete": true,
+  "complete": false,
+  "active":true,
   "origin": "colombia",
   "birth": "",
   "death": "",

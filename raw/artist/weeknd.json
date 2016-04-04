@@ -1,1 +1,13 @@
-{"title":"Weeknd, The","instanceSlug":"weeknd","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Weeknd, The",
+  "instanceSlug": "weeknd",
+  "tags": [],
+  "type": "m",
+  "genres": [],
+  "xref": [],
+  "complete": false,
+  "active": true,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

@@ -1,1 +1,15 @@
-{"title":"Walk the Moon","instanceSlug":"walk-the-moon","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Walk the Moon",
+  "instanceSlug": "walk-the-moon",
+  "type":"mmm",
+  "tags": [],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

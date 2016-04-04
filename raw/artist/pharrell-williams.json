@@ -1,1 +1,16 @@
-{"title":"Pharrell Williams","instanceSlug":"pharrell-williams","tags":["2000s","2010s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Pharrell Williams",
+  "instanceSlug": "pharrell-williams",
+  "tags": [
+    "2000s",
+    "2010s"
+  ],
+  "genres": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

@@ -1,1 +1,12 @@
-{"title":"American Authors","instanceSlug":"american-authors","tags":[],"parents":[],"genres":[],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "American Authors",
+  "instanceSlug": "american-authors",
+  "tags": [],
+  "genres": [],
+  "type": "mmm",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "active":true
+}

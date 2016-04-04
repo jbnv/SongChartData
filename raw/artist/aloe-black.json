@@ -1,1 +1,13 @@
-{"title":"Aloe Black","instanceSlug":"aloe-black","tags":[],"parents":[],"genres":[],"members":[],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Aloe Black",
+  "instanceSlug": "aloe-black",
+  "tags": [],
+  "genres": [],
+  "members": [],
+  "type": "m",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "active":true
+}

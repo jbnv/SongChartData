@@ -1,1 +1,14 @@
-{"title":"Wiz Khalifa","instanceSlug":"wiz-khalifa","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Wiz Khalifa",
+  "instanceSlug": "wiz-khalifa",
+  "tags": [],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

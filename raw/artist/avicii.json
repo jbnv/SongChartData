@@ -1,1 +1,13 @@
-{"title":"Avicii","instanceSlug":"avicii","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Avicii",
+  "instanceSlug": "avicii",
+  "tags": [],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "active":true
+}

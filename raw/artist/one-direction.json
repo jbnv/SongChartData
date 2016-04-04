@@ -3,14 +3,15 @@
   "instanceSlug": "one-direction",
   "tags": ["2010s"],
   "parents": [],
-  "genres": [
-    
+  "genres": ["pop"
+
   ],
-  "members": [],
+  "members": ["niall-horan","liam-payne","harry-styles","louis-tomlinson","zayn-malik"],
   "xref": [],
   "complete": false,
+  "active":true,
   "origin": "uk",
-  "birth": "",
+  "birth": "2000s",
   "death": "",
-  "type": "g"
+  "type": "mmm"
 }

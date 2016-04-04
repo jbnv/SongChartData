@@ -1,1 +1,14 @@
-{"title":"Nico & Vinz","instanceSlug":"nico-vinz","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Nico & Vinz",
+  "instanceSlug": "nico-vinz",
+  "tags": [],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

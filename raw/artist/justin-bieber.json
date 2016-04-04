@@ -1,1 +1,18 @@
-{"title":"Justin Bieber","instanceSlug":"justin-bieber","tags":["2010s"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":false,"origin":"canada","birth":"","death":""}
+{
+  "title": "Justin Bieber",
+  "instanceSlug": "justin-bieber",
+  "type":"m",
+  "tags": [
+    "2010s"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":"true",
+  "origin": "canada",
+  "birth": "1990s",
+  "death": ""
+}

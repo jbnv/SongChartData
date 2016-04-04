@@ -8,5 +8,6 @@
   "birth": "",
   "death": "",
   "complete": false,
+  "active":true,
   "type": "m"
 }

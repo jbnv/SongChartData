@@ -1,1 +1,16 @@
-{"title":"Beyonce","instanceSlug":"beyonce","tags":["2000s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"f"}
+{
+  "title": "Beyonce",
+  "instanceSlug": "beyonce",
+  "tags": [
+    "2000s"
+  ],
+  "xref": ["jay-z"],
+  "genres": [],
+  "members": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

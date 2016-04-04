@@ -1,1 +1,15 @@
-{"title":"OneRepublic","instanceSlug":"one-republic","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"colorado","birth":"","death":"","type":"g"}
+{
+  "title": "OneRepublic",
+  "instanceSlug": "one-republic",
+  "tags": ["2010s"],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "colorado",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

@@ -10,5 +10,6 @@
   "origin": "us",
   "birth": "1980s",
   "death": "",
-  "complete": false
+  "complete": false,
+  "active":true
 }

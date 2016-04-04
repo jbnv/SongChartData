@@ -1,1 +1,16 @@
-{"title":"Lady Antebellum","instanceSlug":"lady-antebellum","tags":[],"parents":[],"genres":["country"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Lady Antebellum",
+  "instanceSlug": "lady-antebellum",
+  "tags": [],
+  "genres": [
+    "country"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "mmf"
+}

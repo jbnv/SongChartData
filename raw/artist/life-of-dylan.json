@@ -1,1 +1,13 @@
-{"title":"Life of Dylan","instanceSlug":"life-of-dylan","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Life of Dylan",
+  "instanceSlug": "life-of-dylan",
+  "tags": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

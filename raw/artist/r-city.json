@@ -3,6 +3,7 @@
   "instanceSlug":"r-city",
   "genres": [],
   "complete": false,
+  "active":true,
   "origin": "us",
   "birth": "",
   "death": ""

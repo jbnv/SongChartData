@@ -8,5 +8,6 @@
   "origin": "london",
   "birth": "1990",
   "death": "",
-  "complete": false
+  "complete": false,
+  "active":true
 }

@@ -1,1 +1,14 @@
-{"title":"Alicia Keys","instanceSlug":"alicia-keys","tags":[],"parents":[],"genres":["soul"],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Alicia Keys",
+  "instanceSlug": "alicia-keys",
+  "tags": [],
+  "genres": [
+    "soul"
+  ],
+  "type": "f",
+  "origin": "us",
+  "birth": "1980s",
+  "death": "",
+  "complete": false,
+  "active":true
+}

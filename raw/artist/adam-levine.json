@@ -8,5 +8,6 @@
   "origin": "us",
   "birth": "",
   "death": "",
-  "complete": false
+  "complete": false,
+  "active":true
 }
