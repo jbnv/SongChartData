@@ -90,7 +90,7 @@ exports.score = function(song,scoringOptions) {
 	if (!scoringOptions.noProjectOut) {
 		rank0 = parseFloat(song.ranks[song.ranks.length-1]);
 		rank1 = parseFloat(song.ranks[song.ranks.length-2]) || rank0;
-		scale = rank0/rank1-1.0;
+		scale = rank0-rank1;
     margin = scale;
 
 		while (!((rank0 > 50) && (song.ranks.length % 4 == 0))) {
