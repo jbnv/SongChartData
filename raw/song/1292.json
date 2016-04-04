@@ -5,7 +5,7 @@
   "genres": ["urban","pop"],
   "debut": "1988-11",
   "playlists": [],
-  "ranks": [],
+  "ranks": [17,10,6.5,4.5,4,4.3],
   "artists": {
     "was-not-was": true
   }

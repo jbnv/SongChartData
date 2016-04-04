@@ -6,14 +6,13 @@
   ],
   "genres": ["soul","pop","adult-contemporary"],
   "debut": "1987-09",
-  "ranks": [
-    19.9,
+  "ranks": [18,
     11.8,
-    7.8,
     6.6,
-    6.2,
     5.9,
-    8
+    6.1,
+    6.3,
+    6.7
   ],
   "artists": {
     "smokey-robinson": true

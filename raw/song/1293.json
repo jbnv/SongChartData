@@ -1,1 +1,12 @@
-{"title":"Not Just Another Girl","instanceSlug":1293,"tags":["another","girl","just","not"],"parents":[],"genre":"pop","debut":"1988-11","playlists":[],"ranks":[],"artists":{"ivan-neville":true}}
+{
+  "title": "Not Just Another Girl",
+  "instanceSlug": 1293,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1988-11",
+  "playlists": [],
+  "ranks": [16,6,4,3.2,3,3.5],
+  "artists": {
+    "ivan-neville": true
+  }
+}

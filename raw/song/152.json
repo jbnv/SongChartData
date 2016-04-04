@@ -1,1 +1,26 @@
-{"title":"Little Lies","instanceSlug":152,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1987-09","ranks":[15,9,6,4.4,3.6,3.1,3.45],"artists":{"fleetwood-mac":true,"christine-mcvie":"member"}}
+{
+  "title": "Little Lies",
+  "instanceSlug": 152,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1987-09",
+  "ranks": [
+    15,
+    9,
+    6,
+    4.4,
+    3.6,
+    3.1,
+    3.45
+  ],
+  "artists": {
+    "fleetwood-mac": true,
+    "lindsay-buckingham": "member",
+    "christine-mcvie": "lead",
+    "stevie-nicks": "member"
+  }
+}

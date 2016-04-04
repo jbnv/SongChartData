@@ -1,1 +1,13 @@
-{"title":"Turn the Beat Around","instanceSlug":1286,"tags":["around","beat","turn"],"parents":[],"genre":"disco","debut":"1994-09","playlists":[],"ranks":[],"artists":{"gloria-estefan":true}}
+{
+  "title": "Turn the Beat Around",
+  "instanceSlug": 1286,
+  "tags": [],
+  "genre": "disco",
+  "debut": "1994-11",
+  "playlists": ["remake"],
+  "source":"specialist",
+  "ranks": [20,13,10,8,6,6.5],
+  "artists": {
+    "gloria-estefan": true
+  }
+}

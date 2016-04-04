@@ -1,1 +1,16 @@
-{"title":"Save Me","instanceSlug":2751,"tags":[],"parents":[],"genre":"pop","debut":"1990-05","playlists":[],"ranks":[],"artists":{"fleetwood-mac":true,"christine-mcvie":"lead"}}
+{
+  "title": "Save Me",
+  "instanceSlug": 2751,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1990-05",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "fleetwood-mac": true,
+    "lindsay-buckingham": "member",
+    "christine-mcvie": "lead",
+    "stevie-nicks": "member"
+  }
+}

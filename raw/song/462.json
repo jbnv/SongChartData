@@ -1,1 +1,30 @@
-{"title":"I Don't Want to Live Without You","instanceSlug":462,"tags":["#1","#1-adult-contemporary","i","i-don't-want","without-you"],"parents":["ballad"],"genre":"pop","debut":"1988-04","playlists":[],"ranks":[16.5,9.7,5.6,4.5,5.1],"artists":{"foreigner":true}}
+{
+  "title": "I Don't Want to Live Without You",
+  "instanceSlug": 462,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "i",
+    "i-don't-want",
+    "without-you"
+  ],
+  "parents": [
+    "ballad"
+  ],
+  "genre": "pop",
+  "debut": "1988-04",
+  "playlists": [],
+  "ranks": [
+    16.5,
+    5.6,
+    4.5,
+    3.8,
+    3.5,
+    3.61,
+    3.74,
+    3.9
+  ],
+  "artists": {
+    "foreigner": true
+  }
+}

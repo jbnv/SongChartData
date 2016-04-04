@@ -1,1 +1,11 @@
-{"title":"Dancing with Myself","instanceSlug":91,"tags":["1980s","1984","dance"],"parents":[],"ranks":[],"artists":{"billy-idol":true}}
+{
+  "title": "Dancing with Myself",
+  "instanceSlug": 91,
+  "debut":"1984",
+  "tags": [],
+  "parents": [],
+  "ranks": [19,12,10,9.5,9.7,10.2],
+  "artists": {
+    "billy-idol": true
+  }
+}

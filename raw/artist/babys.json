@@ -1,1 +1,17 @@
-{"title":"Babys","instanceSlug":"babys","tags":[],"parents":[],"genres":[],"members":["jon-waite"],"origin":"","birth":"","death":"","complete":false,"type":"g"}
+{
+  "title": "Babys, The",
+  "instanceSlug": "babys",
+  "tags": [],
+  "parents": [],
+  "genres": ["pop-rock"],
+  "members": [
+    "jon-waite",
+    "jonathan-cain",
+    "ricky-phillips"
+  ],
+  "origin": "england",
+  "birth": "",
+  "death": "",
+  "complete": true,
+  "type": "mmm"
+}

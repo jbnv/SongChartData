@@ -1,1 +1,19 @@
-{"title":"Night & Day","instanceSlug":451,"tags":["","this-and-that"],"parents":[],"genre":"soul","debut":"1988-06","playlists":["summer"],"ranks":[13,7.4,4.2,3.3,3.5,3.9],"artists":{"al-b-sure":true}}
+{
+  "title": "Night and Day",
+  "instanceSlug": 451,
+  "tags": [],
+  "genre": "soul",
+  "debut": "1988-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    13,
+    7.4,
+    4.2,
+    3.3,2.9,2.8,2.75,2.95
+  ],
+  "artists": {
+    "al-b-sure": true
+  }
+}

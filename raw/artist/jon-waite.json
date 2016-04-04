@@ -1,1 +1,12 @@
-{"title":"Jon Waite","instanceSlug":"jon-waite","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Jon Waite",
+  "instanceSlug": "jon-waite",
+  "tags": [],
+  "genres": [],
+  "xref": ["babys","bad-english"],
+  "complete": true,
+  "origin": "england",
+  "birth": "1955-07",
+  "death": "",
+  "type": "m"
+}

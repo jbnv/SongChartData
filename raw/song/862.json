@@ -1,1 +1,24 @@
-{"title":"Big Love","instanceSlug":862,"tags":[],"parents":[],"genre":"rock","debut":"1987-04","playlists":[],"ranks":[15.9,4.8,2.7,3.1],"artists":{"fleetwood-mac":true,"lindsay-buckingham":"member"}}
+{
+  "title": "Big Love",
+  "instanceSlug": 862,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1987-04",
+  "playlists": [],
+  "ranks": [
+    15.9,
+    4.8,
+    2.7,
+    2.5,
+    2.45,
+    2.52,
+    2.79,
+    3.1
+  ],
+  "artists": {
+    "fleetwood-mac": true,
+    "christine-mcvie": "member",
+    "stevie-nicks":"member",
+    "lindsay-buckingham": "lead"
+  }
+}

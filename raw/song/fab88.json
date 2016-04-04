@@ -1,0 +1,13 @@
+{
+  "title": "When We Was Fab",
+  "instanceSlug": "fab88",
+  "tags": [
+  ],
+  "debut": "1988-03",
+  "playlists": ["tribute"],
+  "ranks": [19,12,8,6,5,5.1,5.4],
+  "artists": {
+    "george-harrison": true
+  },
+  "note":"Tribute to his days in the Beatles."
+}

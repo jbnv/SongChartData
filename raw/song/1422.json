@@ -1,1 +1,26 @@
-{"title":"When I See You Smile","instanceSlug":1422,"tags":["smile","when-i"],"parents":[],"genre":"pop","debut":"1989-09","playlists":[],"ranks":[19,12,9,7,5.5,5,5.1,5.3,5.7,6.9],"artists":{"bad-english":true}}
+{
+  "title": "When I See You Smile",
+  "instanceSlug": 1422,
+  "tags": [
+    "when-i"
+  ],
+  "genre": "pop",
+  "debut": "1989-10",
+  "playlists": [],
+  "ranks": [
+    19,
+    12,
+    9,
+    7,
+    5.5,
+    5,
+    5.1,
+    5.3,
+    5.7,
+    6.9
+  ],
+  "artists": {
+    "bad-english": true,
+    "jon-waite":"lead"
+  }
+}

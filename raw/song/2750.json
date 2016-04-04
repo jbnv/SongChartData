@@ -1,1 +1,15 @@
-{"title":"Hold Me","instanceSlug":2750,"tags":[],"parents":[],"genre":"rock","debut":"1982-07","playlists":[],"ranks":[],"artists":{"fleetwood-mac":true}}
+{
+  "title": "Hold Me",
+  "instanceSlug": 2750,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1982-07",
+  "playlists": [],
+  "ranks": [19,10,7.5,5.5,5,5.4],
+  "artists": {
+    "fleetwood-mac": true,
+    "lindsay-buckingham": "lead",
+    "christine-mcvie": "lead",
+    "stevie-nicks": "member"
+  }
+}

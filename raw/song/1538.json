@@ -1,1 +1,12 @@
-{"title":"Trouble","instanceSlug":1538,"tags":["trouble"],"parents":[],"genre":"pop","debut":"1981-12","playlists":[],"ranks":[],"artists":{"lindsay-buckingham":true}}
+{
+  "title": "Trouble",
+  "instanceSlug": 1538,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1981-12",
+  "playlists": [],
+  "ranks": [19,11,9,7,6,6.5,7.1],
+  "artists": {
+    "lindsay-buckingham": true
+  }
+}

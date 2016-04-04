@@ -1,1 +1,11 @@
-{"title":"Strange But True","instanceSlug":132,"tags":["strange","true"],"parents":[],"genre":"pop","debut":"1988-05","ranks":[16.5,9.6,5.6,6.7,9.8,14.5,21.4,31.5,46.3,68.2,100.4],"artists":{"times-two":true}}
+{
+  "title": "Strange But True",
+  "instanceSlug": 132,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1988-05",
+  "ranks": [16.5,5.6,4.8,4.4,4.5,4.7,5.1],
+  "artists": {
+    "times-two": true
+  }
+}

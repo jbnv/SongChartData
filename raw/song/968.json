@@ -1,1 +1,12 @@
-{"title":"The Truth","instanceSlug":968,"tags":[],"parents":[],"genre":"pop","debut":"1991-08","playlists":[],"ranks":[15.9,9.2,5.3,4.6,6.3],"artists":{"tami-show":true}}
+{
+  "title": "The Truth",
+  "instanceSlug": 968,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1991-08",
+  "playlists": [],
+  "ranks": [16,5.3,4.6,4.2,3.9,3.6,3.7,3.9,4.5],
+  "artists": {
+    "tami-show": true
+  }
+}

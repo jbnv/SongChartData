@@ -1,1 +1,18 @@
-{"title":"George Harrison","instanceSlug":"george-harrison","tags":["1970s","1980s","hof"],"genres":[],"complete":false,"origin":"uk","birth":"1940s","death":"2000s","type":"m"}
+{
+  "title": "George Harrison",
+  "instanceSlug": "george-harrison",
+  "tags": [
+    "1970s",
+    "1980s",
+    "hof",
+    "songwriter",
+    "guitarist"
+  ],
+  "xref":["beatles","traveling-wilburys"],
+  "genres": ["pop"],
+  "complete": true,
+  "origin": "liverpool",
+  "birth": "1943-02",
+  "death": "2001-11",
+  "type": "m"
+}

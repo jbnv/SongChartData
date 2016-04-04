@@ -1,1 +1,26 @@
-{"title":"All I Need Is a Miracle","instanceSlug":847,"tags":[],"parents":[],"genre":"pop","debut":"1986-05","playlists":["summer"],"ranks":[17,10.1,7.9,6.9,6.5,6.9,8.3],"artists":{"mike-the-mechanics":true}}
+{
+  "title": "All I Need Is a Miracle",
+  "instanceSlug": 847,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1986-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    17,
+    10.1,
+    7.9,
+    6.9,
+    6.5,
+    6.9,
+    8.3
+  ],
+  "artists": {
+    "mike-mechanics": true,
+    "paul-carrack": "member",
+    "mike-rutherford":"member",
+    "paul-young-2":"lead"
+  }
+}

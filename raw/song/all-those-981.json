@@ -1,0 +1,17 @@
+{
+  "title": "All Those Years Ago",
+  "instanceSlug": "all-those-981",
+  "tags": ["#1","#1-adult-contemporary"],
+  "parents": [],
+  "debut": "1981-06",
+  "playlists": [
+    "tribute"
+  ],
+  "ranks": [16.1,10.1,6.1,5.2,4.1,4.25,4.45],
+  "artists": {
+    "george-harrison": true,
+    "ringo-starr": "backup",
+    "paul-mccartney": "backup",
+    "linda-mccartney": "backup"
+  }
+}

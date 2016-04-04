@@ -1,1 +1,13 @@
-{"title":"Every Step of the Way","instanceSlug":980,"tags":[],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[17.9,10.8,14.4],"artists":{"jon-waite":true}}
+{
+  "title": "Every Step of the Way",
+  "instanceSlug": 980,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1985-09",
+  "playlists": [],
+  "ranks": [17.5,14,10,7,5,5.2,5.9],
+  "artists": {
+    "jon-waite": true
+  }
+}

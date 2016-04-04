@@ -1,1 +1,16 @@
-{"title":"Think About Me","instanceSlug":2749,"tags":[],"parents":[],"genre":"rock","debut":"1980-04","playlists":[],"ranks":[],"artists":{"fleetwood-mac":true,"christine-mcvie":"lead"}}
+{
+  "title": "Think About Me",
+  "instanceSlug": 2749,
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1980-04",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "fleetwood-mac": true,
+    "lindsay-buckingham": "member",
+    "christine-mcvie": "lead",
+    "stevie-nicks": "member"
+  }
+}

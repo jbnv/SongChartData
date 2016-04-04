@@ -1,1 +1,17 @@
-{"title":"Smokey Robinson","instanceSlug":"smokey-robinson","tags":["hof","1960s","1970s","1980s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Smokey Robinson",
+  "instanceSlug": "smokey-robinson",
+  "tags": [
+    "hof",
+    "1960s",
+    "1970s",
+    "1980s"
+  ],
+  "genres": ["soul","adult-contemporary"],
+  "xref": [],
+  "complete": true,
+  "origin": "detroit",
+  "birth": "1940-02",
+  "death": "",
+  "type": "m"
+}

@@ -1,1 +1,12 @@
-{"title":"Party Your Body","instanceSlug":2530,"tags":[],"parents":[],"genre":"dance","debut":1988,"playlists":[],"ranks":[],"artists":{"stevie-b":true}}
+{
+  "title": "Party Your Body",
+  "instanceSlug": 2530,
+  "tags": [],
+  "genre": "dance",
+  "debut": 1988,
+  "playlists": [],
+  "ranks": [20,9,7,5,5.5],
+  "artists": {
+    "stevie-b": true
+  }
+}

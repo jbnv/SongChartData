@@ -1,1 +1,17 @@
-{"title":"The Valley Road","instanceSlug":456,"tags":["#1","#1-adult-contemporary","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1988-05","playlists":[],"ranks":[17.9,10.6,6.2,7.9],"artists":{"bruce-hornsby-the-range":true}}
+{
+  "title": "The Valley Road",
+  "instanceSlug": 456,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-mainstream-rock"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1988-05",
+  "playlists": [],
+  "ranks": [17.9,6.2,4.4,4.3,4.5],
+  "artists": {
+    "bruce-hornsby-the-range": true
+  }
+}

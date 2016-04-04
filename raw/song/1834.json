@@ -1,1 +1,22 @@
-{"title":"Can't Stay Away from You","instanceSlug":1834,"tags":[],"parents":[],"genre":"adult-contemporary","playlists":[],"ranks":[18,13.9,8.2,6.2,4.9,5.3,5.9,6.7],"artists":{"miami-sound-machine":true}}
+{
+  "title": "Can't Stay Away from You",
+  "instanceSlug": 1834,
+  "tags": ["#1","#1-adult-contemporary"],
+  "genre": "adult-contemporary",
+  "playlists": [],
+  "ranks": [
+    18,
+    13.9,
+    8.2,
+    6.2,
+    4.9,
+    5.3,
+    5.9,
+    6.7
+  ],
+  "debut":"1988-01",
+  "artists": {
+    "miami-sound-machine": true,
+    "gloria-estefan":"lead"
+  }
+}

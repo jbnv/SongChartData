@@ -1,1 +1,15 @@
-{"title":"Summer Girls","instanceSlug":3043,"tags":[],"parents":[],"genre":"pop","debut":1988,"playlists":["summer"],"ranks":[],"artists":{"dino":true}}
+{
+  "title": "Summer Girls",
+  "instanceSlug": 3043,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1988,
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [12,2.5,2,2.01,2.08,2.2,2.7],
+  "artists": {
+    "dino": true
+  }
+}

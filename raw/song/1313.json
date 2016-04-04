@@ -1,1 +1,12 @@
-{"title":"Another Lover","instanceSlug":1313,"tags":[],"parents":[],"genre":"pop","debut":"1988-10","playlists":[],"ranks":[],"artists":{"giant-steps":true}}
+{
+  "title": "Another Lover",
+  "instanceSlug": 1313,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1988-10",
+  "playlists": [],
+  "ranks": [17,9,7,5.5,4.2,4,4.4],
+  "artists": {
+    "giant-steps": true
+  }
+}

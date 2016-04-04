@@ -1,1 +1,13 @@
-{"title":"Hot in the City","instanceSlug":2498,"tags":[],"parents":[],"genre":"pop","debut":"1982-08","playlists":[],"ranks":[],"artists":{"billy-idol":true}}
+{
+  "title": "Hot in the City",
+  "instanceSlug": 2498,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1982-08",
+  "playlists": [],
+  "ranks": [19,12,8,6,5,5.5],
+  "artists": {
+    "billy-idol": true
+  }
+}

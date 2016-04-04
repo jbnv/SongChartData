@@ -1,1 +1,16 @@
-{"title":"Set Adrift on Memory Bliss","instanceSlug":1522,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":"1991-11","playlists":[],"ranks":[],"artists":{"pm-dawn":true}}
+{
+  "title": "Set Adrift on Memory Bliss",
+  "instanceSlug": 1522,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [],
+  "genre": "dance-pop",
+  "debut": "1991-11",
+  "playlists": ["sample"],
+  "ranks": [24,16,13,12,11,12],
+  "artists": {
+    "pm-dawn": true
+  }
+}

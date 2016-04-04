@@ -1,1 +1,25 @@
-{"title":"Tunnel of Love","instanceSlug":611,"tags":["#1","#1-mainstream-rock","this-of-that"],"parents":[],"genre":"rock","debut":"1988-01","playlists":[],"ranks":[15.9,8.8,4.8,2.6,2.2,2.4,3.1],"artists":{"bruce-springsteen":true}}
+{
+  "title": "Tunnel of Love",
+  "instanceSlug": 611,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock",
+    "this-of-that"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1988-01",
+  "playlists": [],
+  "ranks": [
+    15.9,
+    4.8,
+    2.2,
+    2.4,
+    2.6,
+    2.8,
+    3.1
+  ],
+  "artists": {
+    "bruce-springsteen": true
+  }
+}

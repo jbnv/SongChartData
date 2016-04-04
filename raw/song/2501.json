@@ -1,1 +1,13 @@
-{"title":"Sweet Sixteen","instanceSlug":2501,"tags":[],"parents":[],"genre":"pop","debut":"1987-06","playlists":[],"ranks":[],"artists":{"billy-idol":true}}
+{
+  "title": "Sweet Sixteen",
+  "instanceSlug": 2501,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1987-06",
+  "playlists": ["ballad"],
+  "ranks": [21,14,9,7,7.2,7.7,9.1],
+  "artists": {
+    "billy-idol": true
+  }
+}

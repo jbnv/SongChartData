@@ -1,1 +1,15 @@
-{"title":"Rhiannon (Will You Ever Win)","instanceSlug":2744,"tags":[],"parents":[],"genre":"rock","debut":1976,"playlists":[],"ranks":[],"artists":{"fleetwood-mac":true,"stevie-nicks":"lead"}}
+{
+  "title": "Rhiannon (Will You Ever Win)",
+  "instanceSlug": 2744,
+  "tags": [],
+  "genre": "rock",
+  "debut": 1976,
+  "playlists": [],
+  "ranks": [20,15,10,9,8,8.5,9.2],
+  "artists": {
+    "fleetwood-mac": true,
+    "stevie-nicks": "lead",
+    "lindsay-buckingham": "member",
+    "christine-mcvie": "member"
+  }
+}

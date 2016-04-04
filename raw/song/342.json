@@ -5,7 +5,7 @@
     "get-you"
   ],
   "genre": "latin-dance",
-  "debut": "1987-07",
+  "debut": "1987-06",
   "playlists": ["summer"],
   "ranks": [
     14,
@@ -15,6 +15,7 @@
     1.41
   ],
   "artists": {
-    "miami-sound-machine": true
+    "miami-sound-machine": true,
+    "gloria-estefan":"lead"
   }
 }

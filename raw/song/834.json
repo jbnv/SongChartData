@@ -1,1 +1,19 @@
-{"title":"Bad Boy","instanceSlug":834,"tags":[],"parents":[],"genre":"pop","debut":1986,"playlists":[],"ranks":[15,8.6,4.9,3.9,5.4],"artists":{"miami-sound-machine":true}}
+{
+  "title": "Bad Boy",
+  "instanceSlug": 834,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1986-04",
+  "playlists": [],
+  "ranks": [
+    15,
+    8.6,
+    4.9,
+    3.9,
+    3.5,3.64,3.79
+  ],
+  "artists": {
+    "miami-sound-machine": true,
+    "gloria-estefan":"lead"
+  }
+}

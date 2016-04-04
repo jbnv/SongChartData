@@ -1,5 +1,24 @@
-{"title":"Paperback Writer","instanceSlug":1449,"tags":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[16.5,6,3.6,3.2,3.17,3.4,3.9],"artists":{"beatles":true,
-"paul-mccartney":"lead",
-"john-lennon":"member",
-"george-harrison":"member",
-"ringo-starr":"member"}}
+{
+  "title": "Paperback Writer",
+  "instanceSlug": 1449,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [],
+  "ranks": [
+    16.5,
+    6,
+    3.6,
+    3.2,
+    3.17,
+    3.4,
+    3.9
+  ],
+  "artists": {
+    "beatles": true,
+    "paul-mccartney": "lead",
+    "john-lennon": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  }
+}
