@@ -8,6 +8,7 @@ function Artist(yargs) {
   e.array_argument("members","m");
   e.array_argument("xref","x");
   e.boolean_argument("complete","c");
+  e.boolean_argument("active","a");
   this.origin = argv.o || "";
   this.birth = argv.birth || "";
   this.death = argv.death || "";
