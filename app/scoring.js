@@ -139,10 +139,12 @@ exports.scoreCollection = function() {
   this.score = round00(score);
 
   if (this.songs) {
+    this.songCount = this.songs.length;
     this.songAdjustedAverage = _adjustedAverage(this.score, this.songs.length);
   }
 
   if (this.artists) {
+    this.artistCount = this.artists.length;
     this.artistAdjustedAverage = _adjustedAverage(this.score, this.artists.length);
   }
 
@@ -156,18 +158,40 @@ exports.aggregateCollection = function() {
   this.maxArtistAdjustedAverage = 0.00;
 
   this.forEach(function(item) {
-    if (item.songCount > this.maxSongCount) {
-      this.maxSongCount = item.songCount;
+    if (item.songCount > that.maxSongCount) {
+      that.maxSongCount = item.songCount;
     }
-    if (item.songAdjustedAverage > this.maxSongAdjustedAverage) {
-      this.maxSongAdjustedAverage = item.songAdjustedAverage;
+    if (item.songAdjustedAverage > that.maxSongAdjustedAverage) {
+      that.maxSongAdjustedAverage = item.songAdjustedAverage;
     }
-    if (item.ArtistCount > this.maxArtistCount) {
-      this.maxArtistCount = item.ArtistCount;
+    if (item.artistCount > that.maxArtistCount) {
+      that.maxArtistCount = item.artistCount;
     }
-    if (item.ArtistAdjustedAverage > this.maxArtistAdjustedAverage) {
-      this.maxArtistAdjustedAverage = item.ArtistAdjustedAverage;
+    if (item.artistAdjustedAverage > that.maxArtistAdjustedAverage) {
+      that.maxArtistAdjustedAverage = item.artistAdjustedAverage;
     }
   });
+
+  // Calculate fractions.
+  if (this.maxSongCount) {
+    this.forEach(function(item) {
+      item.songCountScale = 1.0*item.songCount / that.maxSongCount;
+    });
+  }
+  if (this.maxSongAdjustedAverage) {
+    this.forEach(function(item) {
+      item.songAdjustedAverageScale = 1.0*item.songAdjustedAverage / that.maxSongAdjustedAverage;
+    });
+  }
+  if (this.maxArtistCount) {
+    this.forEach(function(item) {
+      item.artistCountScale = 1.0*item.artistCount / that.maxArtistCount;
+    });
+  }
+  if (this.maxArtistAdjustedAverage) {
+    this.forEach(function(item) {
+      item.artistAdjustedAverageScale = 1.0*item.artistAdjustedAverage / that.maxArtistAdjustedAverage;
+    });
+  }
 
 }
