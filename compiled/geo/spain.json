@@ -1,1 +1,11 @@
-{"title":"Spain","instanceSlug":"spain","tags":[],"parents":["europe"],"artists":[],"score":null}
+{
+  "title": "Spain",
+  "instanceSlug": "spain",
+  "tags": [
+  ],
+  "parents": [
+    "europe"
+  ],
+  "artists": [
+  ]
+}

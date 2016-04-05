@@ -1,1 +1,11 @@
-{"title":"Arkansas","instanceSlug":"arkansas","tags":[],"parents":["us"],"artists":[{"title":"Glen Campbell","instanceSlug":"glen-campbell","tags":["1960s","1970s"],"parents":[],"genres":["pop"],"members":[],"complete":false,"origin":"arkansas","birth":1936,"death":"","type":"m","songs":[],"score":0,"rank":717}],"score":0,"artistAdjustedAverage":0}
+{
+  "title": "Arkansas",
+  "instanceSlug": "arkansas",
+  "tags": [
+  ],
+  "parents": [
+    "us"
+  ],
+  "artists": [
+  ]
+}

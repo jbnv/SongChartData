@@ -1,1 +1,11 @@
-{"title":"Oklahoma","instanceSlug":"oklahoma","tags":[],"parents":["us"],"artists":[],"score":null}
+{
+  "title": "Oklahoma",
+  "instanceSlug": "oklahoma",
+  "tags": [
+  ],
+  "parents": [
+    "us"
+  ],
+  "artists": [
+  ]
+}

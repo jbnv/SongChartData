@@ -1,1 +1,11 @@
-{"title":"Kentucky","instanceSlug":"kentucky","tags":[],"parents":["us"],"artists":[],"score":null}
+{
+  "title": "Kentucky",
+  "instanceSlug": "kentucky",
+  "tags": [
+  ],
+  "parents": [
+    "us"
+  ],
+  "artists": [
+  ]
+}

@@ -1,1 +1,11 @@
-{"title":"Washington","instanceSlug":"washington","tags":[],"parents":["us"],"artists":[],"score":null}
+{
+  "title": "Washington",
+  "instanceSlug": "washington",
+  "tags": [
+  ],
+  "parents": [
+    "us"
+  ],
+  "artists": [
+  ]
+}
