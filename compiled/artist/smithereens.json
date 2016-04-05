@@ -34,14 +34,8 @@
       "debut": "1990-03",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        4,
-        2.7,
-        2.83,
-        2.97,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.537,
@@ -66,8 +60,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.25,
+      "peakScore": 0.668,
+      "duration": 6,
       "score": 8.500000000000004,
       "genres": [
         "rock"
@@ -80,5 +74,5 @@
   "score": 8.500000000000004,
   "songCount": 1,
   "songAdjustedAverage": 8.500000000000004,
-  "rank": 296
+  "rank": 298
 }

@@ -34,17 +34,8 @@
       "debut": "1987-02",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        5,
-        3,
-        2.9,
-        3,
-        3.2,
-        3.4,
-        3.74
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -72,7 +63,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.645,
       "duration": 6,
       "score": 9.542000000000003,
       "genres": [
@@ -86,5 +77,5 @@
   "score": 9.542000000000003,
   "songCount": 1,
   "songAdjustedAverage": 9.542000000000003,
-  "rank": 252
+  "rank": 254
 }

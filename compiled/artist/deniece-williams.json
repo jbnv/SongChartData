@@ -31,14 +31,8 @@
       "source": "footloose",
       "genre": "dance",
       "debut": 1984,
-      "ranks": [
-        15,
-        5,
-        4.7,
-        4.4,
-        4.52,
-        5.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.463,
@@ -62,7 +56,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.506,
       "duration": 5,
       "score": 6.156000000000001,
       "genres": [

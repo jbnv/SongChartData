@@ -34,12 +34,8 @@
       "debut": "1991-09",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.6,
-        6.2,
-        7.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.213,
@@ -58,8 +54,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 3.75,
+      "peakScore": 0.391,
+      "duration": 4,
       "score": 2.963,
       "genres": [
         "pop"

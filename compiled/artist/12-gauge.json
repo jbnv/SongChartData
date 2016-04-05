@@ -28,12 +28,8 @@
       "debut": "1994-04",
       "playlists": [
       ],
-      "ranks": [
-        20,
-        17,
-        14,
-        15.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.055,
@@ -47,8 +43,8 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
-      "duration": 2.5,
+      "peakScore": 0.12,
+      "duration": 3,
       "score": 0.47500000000000003,
       "genres": [
         "dance"

@@ -34,13 +34,8 @@
       "debut": "2015-06",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        10,
-        5,
-        4,
-        4.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.232,
@@ -63,8 +58,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.75,
+      "peakScore": 0.537,
+      "duration": 5,
       "score": 6.175000000000002,
       "genres": [
         "pop"
@@ -84,8 +79,8 @@
       "debut": 2015,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

@@ -34,13 +34,8 @@
       "debut": "1999-01",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        6,
-        3.1,
-        2,
-        2.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.402,
@@ -66,8 +61,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 9.845,
       "genres": [
         "pop"
@@ -80,5 +75,5 @@
   "score": 9.845,
   "songCount": 1,
   "songAdjustedAverage": 9.845,
-  "rank": 230
+  "rank": 233
 }

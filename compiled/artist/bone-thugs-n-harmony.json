@@ -39,14 +39,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        15.5,
-        11.3,
-        6.4,
-        4.2,
-        4.45,
-        5.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.191,
@@ -69,8 +63,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
-      "duration": 4.75,
+      "peakScore": 0.521,
+      "duration": 5,
       "score": 5.710999999999998,
       "genres": [
         "rap"

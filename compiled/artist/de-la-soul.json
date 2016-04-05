@@ -34,11 +34,8 @@
       "debut": "1989-08",
       "playlists": [
       ],
-      "ranks": [
-        14,
-        4,
-        4.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.537,
@@ -59,8 +56,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 4.25,
+      "peakScore": 0.537,
+      "duration": 5,
       "score": 5.353999999999999,
       "genres": [
         "urban"
@@ -80,8 +77,8 @@
       "debut": "2005-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "modern-rock"

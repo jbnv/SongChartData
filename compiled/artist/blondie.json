@@ -44,8 +44,8 @@
       "debut": "1990s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -66,8 +66,8 @@
       "debut": 1979,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -87,8 +87,8 @@
       "debut": "1981-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -108,8 +108,8 @@
       "debut": "1981-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

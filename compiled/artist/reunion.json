@@ -36,13 +36,8 @@
       "debut": 1974,
       "playlists": [
       ],
-      "ranks": [
-        16,
-        10,
-        5,
-        3.8,
-        4.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.232,
@@ -65,8 +60,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 4.75,
+      "peakScore": 0.554,
+      "duration": 5,
       "score": 6.020999999999998,
       "genres": [
         "novelty"

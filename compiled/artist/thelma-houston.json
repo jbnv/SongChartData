@@ -30,12 +30,8 @@
       "debut": 1977,
       "playlists": [
       ],
-      "ranks": [
-        13,
-        4,
-        1,
-        1.23
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.537,
@@ -62,8 +58,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.75,
+      "peakScore": 1,
+      "duration": 6,
       "score": 13.651999999999996,
       "genres": [
         "disco"

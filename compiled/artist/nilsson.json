@@ -25,15 +25,8 @@
       "debut": 1975,
       "playlists": [
       ],
-      "ranks": [
-        18,
-        10.5,
-        6.9,
-        5.4,
-        5,
-        5.2,
-        5.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.216,
@@ -57,7 +50,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.463,
       "duration": 5,
       "score": 0.5585,
       "genres": [
@@ -79,14 +72,8 @@
       "playlists": [
         "numbers"
       ],
-      "ranks": [
-        20,
-        11,
-        8.3,
-        7.5,
-        7.7,
-        9.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.2,
@@ -106,7 +93,7 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
+      "peakScore": 0.328,
       "duration": 4,
       "score": 0.29469999999999996,
       "genres": [

@@ -36,15 +36,8 @@
       "debut": "1991-04",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        10.5,
-        7.1,
-        5.3,
-        4.5,
-        4,
-        4.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.216,
@@ -69,8 +62,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 5.25,
+      "peakScore": 0.537,
+      "duration": 6,
       "score": 6.695,
       "genres": [
         "rock"

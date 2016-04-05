@@ -29,13 +29,8 @@
       "debut": "1995-09",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        16,
-        14,
-        13,
-        15
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.075,
@@ -50,8 +45,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 2.75,
+      "peakScore": 0.145,
+      "duration": 3,
       "score": 0.765,
       "genres": [
         "pop"

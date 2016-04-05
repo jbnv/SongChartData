@@ -36,14 +36,8 @@
       "debut": "1984-08",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        7,
-        3.8,
-        2,
-        1.9,
-        2.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.351,
@@ -70,8 +64,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.75,
+      "peakScore": 0.786,
+      "duration": 6,
       "score": 10.322000000000001,
       "genres": [
         "dance"
@@ -91,17 +85,8 @@
       "debut": "1986-01",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        6,
-        4.8,
-        4.25,
-        4,
-        4.25,
-        4.6,
-        5.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -127,8 +112,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.537,
+      "duration": 6,
       "score": 7.334999999999998,
       "genres": [
         "dance"
@@ -148,8 +133,8 @@
       "debut": "1997-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -162,5 +147,5 @@
   "score": 17.657,
   "songCount": 3,
   "songAdjustedAverage": 10.194273703081222,
-  "rank": 199
+  "rank": 203
 }

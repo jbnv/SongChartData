@@ -37,15 +37,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        13.9,
-        7.8,
-        4.3,
-        2.4,
-        3.1,
-        4.1,
-        5.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.315,
@@ -69,7 +62,7 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
+      "peakScore": 0.708,
       "duration": 5,
       "score": 6.669999999999999,
       "genres": [
@@ -94,8 +87,8 @@
       "debut": "1991-12",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"

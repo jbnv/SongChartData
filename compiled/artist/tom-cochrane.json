@@ -36,15 +36,8 @@
       ],
       "genre": "rock",
       "debut": "1992-06",
-      "ranks": [
-        19.9,
-        11.8,
-        7,
-        4.9,
-        4.7,
-        5.2,
-        5.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.003,
         0.177,
@@ -68,7 +61,7 @@
         0
       ],
       "debutScore": 0.003,
-      "peakScore": 0.003,
+      "peakScore": 0.484,
       "duration": 5,
       "score": 5.419,
       "genres": [

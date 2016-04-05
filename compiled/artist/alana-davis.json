@@ -26,8 +26,8 @@
       "debut": "1998-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,

@@ -35,15 +35,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        16,
-        9.6,
-        5.9,
-        4.4,
-        3.4,
-        3,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.246,
@@ -69,8 +62,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.5,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 8.390000000000002,
       "genres": [
         "pop"
@@ -83,5 +76,5 @@
   "score": 8.390000000000002,
   "songCount": 1,
   "songAdjustedAverage": 8.390000000000002,
-  "rank": 304
+  "rank": 306
 }

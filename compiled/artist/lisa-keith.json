@@ -36,15 +36,8 @@
       "debut": "1993-11",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        7.4,
-        4.8,
-        2.9,
-        1.9,
-        2.15,
-        2.52
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.332,
@@ -72,7 +65,7 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
+      "peakScore": 0.786,
       "duration": 6,
       "score": 10.796,
       "genres": [
@@ -95,14 +88,8 @@
       "debut": "1987-05",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        5.5,
-        2.5,
-        2.7,
-        2.95,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.431,
@@ -127,8 +114,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.694,
+      "duration": 6,
       "score": 8.459000000000003,
       "genres": [
         "jazz"
@@ -148,8 +135,8 @@
       "debut": "1987-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "jazz"
@@ -162,5 +149,5 @@
   "score": 19.255000000000003,
   "songCount": 3,
   "songAdjustedAverage": 11.116879433246247,
-  "rank": 159
+  "rank": 161
 }

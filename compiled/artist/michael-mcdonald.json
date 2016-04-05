@@ -35,11 +35,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        5,
-        1,
-        1.052
-      ],
+      "ranks": {
+      },
       "note": "Project 6 weeks at #1.",
       "scores": [
         0.463,
@@ -67,8 +64,8 @@
         0
       ],
       "debutScore": 0.463,
-      "peakScore": 0.463,
-      "duration": 5.75,
+      "peakScore": 1,
+      "duration": 6,
       "score": 14.473,
       "genres": [
         "pop"
@@ -91,12 +88,8 @@
         "feb13",
         "ballad"
       ],
-      "ranks": [
-        15,
-        4.8,
-        3.1,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.477,
@@ -119,8 +112,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 4.75,
+      "peakScore": 0.622,
+      "duration": 5,
       "score": 7.126000000000001,
       "genres": [
         "pop"
@@ -140,13 +133,8 @@
       "debut": "1984-01",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        5,
-        2.1,
-        1.7,
-        1.85
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.463,
@@ -173,8 +161,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.75,
+      "peakScore": 0.823,
+      "duration": 6,
       "score": 2.907500000000001,
       "genres": [
         "pop"
@@ -194,18 +182,8 @@
       "debut": "1985-08",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.2,
-        5.3,
-        5.1,
-        8.9,
-        15.5,
-        26.8,
-        46.4,
-        80.3,
-        139
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.26,
@@ -221,7 +199,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.456,
       "duration": 3,
       "score": 1.849,
       "genres": [
@@ -241,15 +219,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        15,
-        3.5,
-        1,
-        1.14,
-        1.28,
-        1.43,
-        1.59
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.582,
@@ -278,8 +249,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 6.25,
+      "peakScore": 1,
+      "duration": 7,
       "score": 1.4796999999999998,
       "genres": [
         "rock"
@@ -299,18 +270,8 @@
       "debut": "1980-03",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        10,
-        6,
-        4.2,
-        3.3,
-        2.7,
-        2.5,
-        2.45,
-        2.67,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.232,
@@ -339,8 +300,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 6.25,
+      "peakScore": 0.701,
+      "duration": 7,
       "score": 1.0669000000000002,
       "genres": [
         "pop"
@@ -360,8 +321,8 @@
       "debut": "1982-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -381,8 +342,8 @@
       "debut": "1978-01",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soft-rock"
@@ -400,8 +361,8 @@
       ],
       "genre": "pop",
       "debut": "1979-12",
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -414,5 +375,5 @@
   "score": 28.902100000000008,
   "songCount": 9,
   "songAdjustedAverage": 9.634033333333337,
-  "rank": 244
+  "rank": 246
 }

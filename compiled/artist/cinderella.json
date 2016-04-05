@@ -35,8 +35,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -55,8 +55,8 @@
       "debut": 1987,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,

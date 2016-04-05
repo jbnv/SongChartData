@@ -36,15 +36,8 @@
       "debut": "1996-09",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11.5,
-        6.6,
-        5.8,
-        6.15,
-        6.67,
-        7.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.185,
@@ -66,8 +59,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.5,
+      "peakScore": 0.414,
+      "duration": 5,
       "score": 4.106,
       "genres": [
         "pop"
@@ -86,8 +79,8 @@
       "debut": 1988,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,

@@ -34,13 +34,8 @@
       "debut": 2004,
       "playlists": [
       ],
-      "ranks": [
-        14,
-        7,
-        3.5,
-        2.2,
-        2.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.351,
@@ -66,8 +61,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.5,
+      "peakScore": 0.737,
+      "duration": 6,
       "score": 9.627000000000002,
       "genres": [
         "rock"
@@ -90,8 +85,8 @@
       "debut": 2007,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"

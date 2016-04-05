@@ -27,13 +27,8 @@
       "debut": "1982-09",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.2,
-        5.3,
-        4.6,
-        6.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.26,
@@ -54,8 +49,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.25,
+      "peakScore": 0.491,
+      "duration": 5,
       "score": 4.473999999999999,
       "genres": [
         "country-pop"

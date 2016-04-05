@@ -27,13 +27,8 @@
       "debut": "1970s",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        9.7,
-        5.6,
-        4.5,
-        6.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.242,
@@ -55,8 +50,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.5,
+      "peakScore": 0.498,
+      "duration": 5,
       "score": 4.4830000000000005,
       "genres": [
         "disco"

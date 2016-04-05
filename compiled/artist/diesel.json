@@ -35,12 +35,8 @@
       "debut": "1981-10",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        3.2,
-        1.1,
-        1.32
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.612,
@@ -67,8 +63,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.75,
+      "peakScore": 0.968,
+      "duration": 6,
       "score": 13.258,
       "genres": [
         "pop"

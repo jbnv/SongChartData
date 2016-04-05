@@ -51,13 +51,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        13,
-        3,
-        1.5,
-        1.6,
-        1.89
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.633,
@@ -84,8 +79,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.75,
+      "peakScore": 0.864,
+      "duration": 6,
       "score": 11.806000000000001,
       "genres": [
         "rock"
@@ -109,14 +104,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        14,
-        8,
-        4,
-        2,
-        2.14,
-        2.35
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.306,
@@ -143,8 +132,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.75,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 10.552,
       "genres": [
         "rock"
@@ -164,19 +153,8 @@
       "debut": 1998,
       "playlists": [
       ],
-      "ranks": [
-        16,
-        10,
-        7,
-        5.2,
-        3.9,
-        3.7,
-        3.6,
-        3.8,
-        4.2,
-        4.8,
-        6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.232,
@@ -204,7 +182,7 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
+      "peakScore": 0.573,
       "duration": 6,
       "score": 7.747999999999999,
       "genres": [
@@ -225,15 +203,8 @@
       "debut": "1989-02",
       "playlists": [
       ],
-      "ranks": [
-        19.5,
-        13,
-        11.5,
-        9.95,
-        8.95,
-        8,
-        9.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.009,
         0.145,
@@ -254,8 +225,8 @@
         0
       ],
       "debutScore": 0.009,
-      "peakScore": 0.009,
-      "duration": 4.25,
+      "peakScore": 0.306,
+      "duration": 5,
       "score": 2.7429999999999994,
       "genres": [
         "rock"
@@ -263,6 +234,46 @@
       "role": true,
       "scoreFactor": 1,
       "rank": 4
+    },
+    {
+      "title": "Pride (In the Name of Love)",
+      "instanceSlug": 1763,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1985-01",
+      "playlists": [
+        "tribute"
+      ],
+      "scores": [
+        0.1,
+        0.2,
+        0.25,
+        0.24,
+        0.235,
+        0.225,
+        0.21,
+        0.19,
+        0.165,
+        0.135,
+        0.1,
+        0.06,
+        0.015,
+        0
+      ],
+      "tribute": "Martin Luther King Jr.",
+      "ranks": {
+      },
+      "debutScore": 0.1,
+      "peakScore": 0.25,
+      "duration": 4,
+      "score": 2.125,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
     },
     {
       "title": "With or Without You",
@@ -280,11 +291,8 @@
       "debut": "1987-04",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.8,
-        14.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.206,
@@ -298,15 +306,38 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 2.5,
+      "peakScore": 0.206,
+      "duration": 3,
       "score": 0.734,
       "genres": [
         "rock"
       ],
       "role": true,
       "scoreFactor": 1,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "title": "Mysterious Ways",
+      "instanceSlug": 1084,
+      "tags": [
+        "mystery",
+        "way"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1991-12",
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
     },
     {
       "title": "Desire",
@@ -320,56 +351,8 @@
       "debut": "1988-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "rock"
-      ],
-      "role": true,
-      "scoreFactor": 1,
-      "rank": 6
-    },
-    {
-      "title": "Where the Streets Have No Name",
-      "instanceSlug": 1085,
-      "tags": [
-        "have",
-        "",
-        "name",
-        "no",
-        "street",
-        "where"
-      ],
-      "parents": [
-      ],
-      "genre": "rock",
-      "debut": 1987,
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "rock"
-      ],
-      "role": true,
-      "scoreFactor": 1,
-      "rank": 7
-    },
-    {
-      "title": "Pride (In the Name of Love)",
-      "instanceSlug": 1763,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "rock",
-      "debut": "1985-01",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -389,8 +372,8 @@
       "debut": 2002,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -416,8 +399,8 @@
       "debut": 1992,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -436,8 +419,8 @@
       ],
       "genre": "rock",
       "debut": 1992,
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -447,20 +430,24 @@
       "rank": 11
     },
     {
-      "title": "Mysterious Ways",
-      "instanceSlug": 1084,
+      "title": "Where the Streets Have No Name",
+      "instanceSlug": 1085,
       "tags": [
-        "mystery",
-        "way"
+        "have",
+        "",
+        "name",
+        "no",
+        "street",
+        "where"
       ],
       "parents": [
       ],
       "genre": "rock",
-      "debut": "1991-12",
+      "debut": 1987,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -470,8 +457,8 @@
       "rank": 12
     }
   ],
-  "score": 33.583000000000006,
+  "score": 35.708000000000006,
   "songCount": 12,
-  "songAdjustedAverage": 9.694577045097603,
-  "rank": 240
+  "songAdjustedAverage": 10.30801170611158,
+  "rank": 192
 }

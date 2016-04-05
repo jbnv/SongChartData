@@ -23,8 +23,7 @@
     "parents": [
     ],
     "artists": [
-    ],
-    "score": null
+    ]
   },
   "birth": "",
   "death": "",
@@ -49,15 +48,8 @@
       ],
       "genre": "dance",
       "debut": "1990-08",
-      "ranks": [
-        10,
-        1.1,
-        1.14,
-        1.25,
-        1.39,
-        1.54,
-        1.78
-      ],
+      "ranks": {
+      },
       "note": "Project 6 weeks at #1.",
       "scores": [
         0.232,
@@ -87,8 +79,8 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
-      "duration": 6.25,
+      "peakScore": 0.968,
+      "duration": 7,
       "score": 14.508000000000001,
       "genres": [
         "dance"
@@ -108,13 +100,8 @@
       "debut": 1991,
       "playlists": [
       ],
-      "ranks": [
-        14,
-        5,
-        2.5,
-        2,
-        2.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.463,
@@ -140,8 +127,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.5,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 9.882000000000003,
       "genres": [
         "dance"
@@ -154,5 +141,5 @@
   "score": 24.390000000000004,
   "songCount": 2,
   "songAdjustedAverage": 17.246334393139897,
-  "rank": 34
+  "rank": 35
 }

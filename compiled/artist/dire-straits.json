@@ -34,16 +34,8 @@
       "debut": "1986-01",
       "playlists": [
       ],
-      "ranks": [
-        19.5,
-        14,
-        12.2,
-        11.9,
-        11.8,
-        12.1,
-        12.7,
-        14.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.009,
         0.12,
@@ -62,8 +54,8 @@
         0
       ],
       "debutScore": 0.009,
-      "peakScore": 0.009,
-      "duration": 3.75,
+      "peakScore": 0.177,
+      "duration": 4,
       "score": 1.442,
       "genres": [
         "pop"
@@ -84,12 +76,8 @@
       "playlists": [
         "for"
       ],
-      "ranks": [
-        18.9,
-        11.3,
-        10.5,
-        13.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.02,
         0.191,
@@ -104,8 +92,8 @@
         0
       ],
       "debutScore": 0.02,
-      "peakScore": 0.02,
-      "duration": 2.75,
+      "peakScore": 0.216,
+      "duration": 3,
       "score": 1.001,
       "genres": [
         "rock"

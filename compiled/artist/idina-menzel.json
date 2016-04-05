@@ -36,7 +36,8 @@
       "source": "frozen",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "pop"
       ],

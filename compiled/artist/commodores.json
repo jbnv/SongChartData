@@ -33,14 +33,8 @@
       "debut": "1981-10",
       "playlists": [
       ],
-      "ranks": [
-        14,
-        5,
-        2,
-        1.2,
-        1.3,
-        1.525
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.463,
@@ -69,8 +63,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 6.25,
+      "peakScore": 0.939,
+      "duration": 7,
       "score": 13.822999999999999,
       "genres": [
         "soul"
@@ -92,8 +86,8 @@
       "debut": "1981-12",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soul"
@@ -113,8 +107,8 @@
       "debut": 1978,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -138,8 +132,8 @@
       "playlists": [
         "tribute"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,

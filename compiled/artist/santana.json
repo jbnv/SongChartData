@@ -46,18 +46,8 @@
       "debut": "1999-09",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        5.2,
-        3.78,
-        3.14,
-        3.07,
-        3.16,
-        3.28,
-        3.52,
-        3.91,
-        4.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.45,
@@ -85,7 +75,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.626,
       "duration": 6,
       "score": 9.424999999999999,
       "genres": [
@@ -109,8 +99,8 @@
       "debut": "1982-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"

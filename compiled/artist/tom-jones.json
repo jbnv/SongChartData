@@ -44,14 +44,8 @@
       "debut": "1995-01",
       "playlists": [
       ],
-      "ranks": [
-        11,
-        2.8,
-        1.9,
-        1.35,
-        1.25,
-        1.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.2,
         0.656,
@@ -79,7 +73,7 @@
         0
       ],
       "debutScore": 0.2,
-      "peakScore": 0.2,
+      "peakScore": 0.925,
       "duration": 6,
       "score": 13.794999999999998,
       "genres": [
@@ -100,15 +94,8 @@
       "debut": "1989-01",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        10.5,
-        8.2,
-        7.1,
-        6.4,
-        6,
-        6.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.216,
@@ -131,8 +118,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 4.75,
+      "peakScore": 0.402,
+      "duration": 5,
       "score": 1.1724999999999999,
       "genres": [
         "pop"
@@ -145,5 +132,5 @@
   "score": 14.967499999999998,
   "songCount": 2,
   "songAdjustedAverage": 10.583620747409647,
-  "rank": 178
+  "rank": 181
 }

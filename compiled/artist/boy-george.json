@@ -26,14 +26,8 @@
       "source": "crying-game",
       "playlists": [
       ],
-      "ranks": [
-        21,
-        17,
-        14,
-        12.5,
-        11.5,
-        13.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.12,
@@ -49,7 +43,7 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
+      "peakScore": 0.185,
       "duration": 3,
       "score": 1.211,
       "genres": [

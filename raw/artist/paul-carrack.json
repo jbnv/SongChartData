@@ -2,16 +2,14 @@
   "title": "Paul Carrack",
   "instanceSlug": "paul-carrack",
   "tags": ["1980s"],
-  "parents": [],
   "genres": [],
-  "members": [],
   "xref": [
     "ace",
     "squeeze","mike-mechanics"
   ],
-  "complete": false,
-  "origin": "uk",
-  "birth": "",
+  "complete": true,
+  "origin": "sheffield",
+  "birth": "1951-04",
   "death": "",
   "type": "m"
 }

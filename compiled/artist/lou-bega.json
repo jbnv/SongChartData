@@ -36,21 +36,8 @@
       "debut": "1999-09",
       "playlists": [
       ],
-      "ranks": [
-        11.5,
-        5.2,
-        2.9,
-        2.4,
-        2.5,
-        2.6,
-        2.75,
-        2.95,
-        3.2,
-        3.56,
-        3.93,
-        4.3,
-        4.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.185,
         0.45,
@@ -81,8 +68,8 @@
         0
       ],
       "debutScore": 0.185,
-      "peakScore": 0.185,
-      "duration": 6.75,
+      "peakScore": 0.708,
+      "duration": 7,
       "score": 11.213,
       "genres": [
         "dance"
@@ -95,5 +82,5 @@
   "score": 11.213,
   "songCount": 1,
   "songAdjustedAverage": 11.213,
-  "rank": 156
+  "rank": 158
 }

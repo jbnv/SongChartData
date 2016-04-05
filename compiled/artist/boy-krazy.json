@@ -25,16 +25,8 @@
       "debut": "1993-03",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        10,
-        6,
-        3.4,
-        2.4,
-        2,
-        2.15,
-        2.74
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.232,
@@ -62,7 +54,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.768,
       "duration": 6,
       "score": 10.766999999999996,
       "genres": [
@@ -76,5 +68,5 @@
   "score": 10.766999999999996,
   "songCount": 1,
   "songAdjustedAverage": 10.766999999999996,
-  "rank": 172
+  "rank": 175
 }

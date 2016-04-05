@@ -34,14 +34,8 @@
       "debut": "1985-03",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        10,
-        6.8,
-        6,
-        6.1,
-        6.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.232,
@@ -63,8 +57,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.5,
+      "peakScore": 0.402,
+      "duration": 5,
       "score": 4.33,
       "genres": [
         "rock"

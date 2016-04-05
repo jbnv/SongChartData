@@ -47,14 +47,8 @@
       "debut": "1993-08",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        6,
-        3.6,
-        1.8,
-        1.2,
-        1.35
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.402,
@@ -83,8 +77,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 6.25,
+      "peakScore": 0.939,
+      "duration": 7,
       "score": 14.244000000000002,
       "genres": [
         "soul"
@@ -105,15 +99,8 @@
       "debut": "1991-11",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        7,
-        4.52,
-        3.45,
-        3.12,
-        3.1,
-        3.57
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.351,
@@ -139,8 +126,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.5,
+      "peakScore": 0.622,
+      "duration": 6,
       "score": 8.577,
       "genres": [
         "pop"
@@ -164,15 +151,8 @@
       "debut": "1995-12",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9,
-        5,
-        3,
-        3.8,
-        3.4,
-        3.77
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.267,
@@ -198,8 +178,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 5.5,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 8.141,
       "genres": [
         "soul"
@@ -219,18 +199,8 @@
       "debut": "1991-09",
       "playlists": [
       ],
-      "ranks": [
-        18.2,
-        10.6,
-        6.2,
-        6.5,
-        6.7,
-        6.9,
-        7.1,
-        7.5,
-        8,
-        8.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.032,
         0.213,
@@ -255,8 +225,8 @@
         0
       ],
       "debutScore": 0.032,
-      "peakScore": 0.032,
-      "duration": 5.25,
+      "peakScore": 0.391,
+      "duration": 6,
       "score": 4.759,
       "genres": [
         "pop"
@@ -276,15 +246,8 @@
       "debut": "1999-09",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        7.4,
-        4.2,
-        3.3,
-        4.6,
-        6.3,
-        8.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.332,
@@ -306,8 +269,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 4.5,
+      "peakScore": 0.602,
+      "duration": 5,
       "score": 4.4350000000000005,
       "genres": [
         true
@@ -326,18 +289,8 @@
       ],
       "genre": "pop",
       "debut": "1990-09",
-      "ranks": [
-        22,
-        16,
-        12,
-        9,
-        7,
-        6.5,
-        6.6,
-        6.8,
-        7.2,
-        9.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.171,
@@ -360,8 +313,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 4.75,
+      "peakScore": 0.376,
+      "duration": 5,
       "score": 4.117,
       "genres": [
         "pop"
@@ -371,25 +324,24 @@
       "rank": 6
     },
     {
-      "title": "Make It Happen",
-      "instanceSlug": 1079,
+      "title": "Every Time I Close My Eyes",
+      "instanceSlug": 1869,
       "tags": [
-        "#1"
       ],
       "parents": [
       ],
       "genre": "pop",
-      "debut": "1992-04",
+      "debut": "1997-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
       ],
-      "role": true,
-      "scoreFactor": 1,
+      "role": "backup",
+      "scoreFactor": 0.1,
       "rank": 7
     },
     {
@@ -407,8 +359,8 @@
       "debut": 1991,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -428,8 +380,8 @@
       "debut": "1995-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -450,8 +402,8 @@
       "debut": "1993-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -474,8 +426,8 @@
       "debut": "1994-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soul"
@@ -496,8 +448,8 @@
       "debut": "1992-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -507,29 +459,30 @@
       "rank": 12
     },
     {
-      "title": "Every Time I Close My Eyes",
-      "instanceSlug": 1869,
+      "title": "Make It Happen",
+      "instanceSlug": 1079,
       "tags": [
+        "#1"
       ],
       "parents": [
       ],
       "genre": "pop",
-      "debut": "1997-02",
+      "debut": "1992-04",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
       ],
-      "role": "backup",
-      "scoreFactor": 0.1,
+      "role": true,
+      "scoreFactor": 1,
       "rank": 13
     }
   ],
   "score": 44.273,
   "songCount": 13,
   "songAdjustedAverage": 12.279120893739785,
-  "rank": 120
+  "rank": 122
 }

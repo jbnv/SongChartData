@@ -27,7 +27,8 @@
       "source": "jay-and-silent-bob-strike-back",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "urban"
       ],

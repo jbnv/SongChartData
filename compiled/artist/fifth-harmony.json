@@ -35,13 +35,8 @@
       "debut": "2015-08",
       "playlists": [
       ],
-      "ranks": [
-        30,
-        22,
-        18,
-        15,
-        16.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.097,
@@ -53,7 +48,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.097,
       "duration": 2,
       "score": 0.358,
       "genres": [

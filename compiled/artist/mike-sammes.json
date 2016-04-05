@@ -36,13 +36,8 @@
       "debut": 1973,
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.4,
-        6.1,
-        6,
-        8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.219,
@@ -62,7 +57,7 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
+      "peakScore": 0.402,
       "duration": 4,
       "score": 0.3322,
       "genres": [
@@ -85,8 +80,8 @@
       "debut": 1974,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

@@ -41,15 +41,8 @@
       "debut": "1988-04",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11.8,
-        7.7,
-        6.9,
-        6.6,
-        7.2,
-        8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.177,
@@ -71,8 +64,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.5,
+      "peakScore": 0.37,
+      "duration": 5,
       "score": 3.884,
       "genres": [
         "adult-contemporary"
@@ -95,8 +88,8 @@
       "debut": "1989-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -119,8 +112,8 @@
       "debut": "1988-01",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -140,8 +133,8 @@
       "debut": "1991-12",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -161,8 +154,8 @@
       "debut": "1970s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -182,8 +175,8 @@
       "debut": "1970s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -201,8 +194,8 @@
       ],
       "genre": "dance",
       "debut": 1998,
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "dance"

@@ -36,11 +36,8 @@
       "debut": 1978,
       "playlists": [
       ],
-      "ranks": [
-        16,
-        3.5,
-        4.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.582,
@@ -62,8 +59,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 4.5,
+      "peakScore": 0.582,
+      "duration": 5,
       "score": 5.792000000000001,
       "genres": [
         "pop"

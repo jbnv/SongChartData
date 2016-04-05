@@ -23,88 +23,7 @@
       "wisconsin"
     ],
     "artists": [
-      {
-        "title": "Inoj",
-        "instanceSlug": "inoj",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "urban"
-        ],
-        "members": [
-        ],
-        "complete": true,
-        "origin": "madison-wi",
-        "birth": 1976,
-        "death": "",
-        "type": "f",
-        "songs": [
-          {
-            "title": "Love You Down",
-            "instanceSlug": 2509,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "urban",
-            "debut": "1998-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "inoj",
-                "title": "Inoj",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "urban",
-                "title": "Urban / R&B"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Time After Time",
-            "instanceSlug": 2510,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "urban",
-            "debut": "1998-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "inoj",
-                "title": "Inoj",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "urban",
-                "title": "Urban / R&B"
-              }
-            ],
-            "rank": 2
-          }
-        ],
-        "score": 0,
-        "songAdjustedAverage": 0,
-        "rank": 822
-      }
-    ],
-    "score": 0,
-    "artistAdjustedAverage": 0
+    ]
   },
   "birth": 1976,
   "death": "",
@@ -129,8 +48,8 @@
       "debut": "1998-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "urban"
@@ -150,8 +69,8 @@
       "debut": "1998-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "urban"

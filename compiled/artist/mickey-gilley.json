@@ -39,7 +39,8 @@
       "source": "urban-cowboy",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "country"
       ],

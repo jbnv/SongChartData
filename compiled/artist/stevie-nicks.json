@@ -25,922 +25,7 @@
       "arizona"
     ],
     "artists": [
-      {
-        "title": "Ce Ce Peniston",
-        "instanceSlug": "cece-peniston",
-        "tags": [
-          "1990s"
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop"
-        ],
-        "members": [
-        ],
-        "complete": false,
-        "origin": "phoenix",
-        "birth": "",
-        "death": "",
-        "type": "f",
-        "songs": [
-          {
-            "title": "Keep on Walkin'",
-            "instanceSlug": 1090,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1992-06",
-            "playlists": [
-              {
-                "slug": "summer",
-                "title": "Songs of Summer"
-              }
-            ],
-            "ranks": [
-              12.8,
-              4,
-              1.1,
-              1.19,
-              1.31,
-              1.52,
-              1.9,
-              2.38,
-              2.97,
-              3.71,
-              4.64,
-              5.8,
-              7.25,
-              9.06,
-              11.32,
-              14.16,
-              17.7,
-              22.12,
-              27.65,
-              34.56,
-              43.2,
-              54,
-              67.5,
-              84.38
-            ],
-            "artists": [
-              {
-                "slug": "cece-peniston",
-                "title": "Ce Ce Peniston",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 12.8,
-            "peakRank": 1.1,
-            "duration": 6,
-            "score": 26.77,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Finally",
-            "instanceSlug": 1070,
-            "tags": [
-              "finally"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1991-11",
-            "playlists": [
-            ],
-            "ranks": [
-              13,
-              3.7,
-              2.5,
-              2.2,
-              1.81,
-              2.05,
-              2.56,
-              3.2,
-              4,
-              5,
-              6.26,
-              7.82,
-              9.78,
-              12.22,
-              15.27,
-              19.09,
-              23.87,
-              29.83,
-              37.29,
-              46.61,
-              58.26,
-              72.83,
-              91.04,
-              113.8
-            ],
-            "artists": [
-              {
-                "slug": "cece-peniston",
-                "title": "Ce Ce Peniston",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 13,
-            "peakRank": 1.81,
-            "duration": 6,
-            "score": 21.66,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "We Got a Love Thang",
-            "instanceSlug": 1113,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1992-03",
-            "playlists": [
-            ],
-            "ranks": [
-              16,
-              11,
-              7,
-              5.5,
-              4,
-              4.25,
-              4.6,
-              6,
-              7.83,
-              10.21,
-              13.31,
-              17.37,
-              22.65,
-              29.55,
-              38.54,
-              50.27
-            ],
-            "artists": [
-              {
-                "slug": "cece-peniston",
-                "title": "Ce Ce Peniston",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 16,
-            "peakRank": 4,
-            "duration": 4,
-            "score": 11.2,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 3
-          }
-        ],
-        "score": 59.63,
-        "songAdjustedAverage": 34.43,
-        "rank": 26
-      },
-      {
-        "title": "Stevie Nicks",
-        "instanceSlug": "stevie-nicks",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "rock"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "phoenix",
-        "birth": 1948,
-        "death": "",
-        "type": "f",
-        "songs": [
-          {
-            "title": "If Anyone Falls",
-            "instanceSlug": 1813,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1983-10",
-            "playlists": [
-            ],
-            "ranks": [
-              15,
-              9,
-              6.3,
-              4.9,
-              4.2,
-              3.8,
-              3.75,
-              4,
-              4.45,
-              5.2,
-              6.5,
-              8.13,
-              10.16,
-              12.7,
-              15.87,
-              19.84,
-              24.8,
-              30.99,
-              38.74,
-              48.43,
-              60.54,
-              75.67,
-              94.59,
-              118.23
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15,
-            "peakRank": 3.75,
-            "duration": 6,
-            "score": 16.47,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Stand Back",
-            "instanceSlug": 744,
-            "tags": [
-              "back",
-              "stand"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1983-07",
-            "playlists": [
-            ],
-            "ranks": [
-              13,
-              7.4,
-              4.2,
-              3.2,
-              4.2,
-              5.51,
-              7.24,
-              9.5,
-              12.46,
-              16.36,
-              21.47,
-              28.18,
-              36.99,
-              48.54,
-              63.72,
-              83.63
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 13,
-            "peakRank": 3.2,
-            "duration": 4,
-            "score": 10.15,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Leather and Lace",
-            "instanceSlug": 1539,
-            "tags": [
-              "this-and-that"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1981-11",
-            "playlists": [
-            ],
-            "ranks": [
-              17,
-              12,
-              9.5,
-              8.2,
-              7,
-              7.2,
-              7.6,
-              9,
-              11.25,
-              14.06,
-              17.58,
-              21.97,
-              27.47,
-              34.33,
-              42.92,
-              53.64
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              },
-              {
-                "slug": "don-henley",
-                "title": "Don Henley",
-                "roleSlug": "feature"
-              }
-            ],
-            "debutRank": 17,
-            "peakRank": 7,
-            "duration": 4,
-            "score": 7.25,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Seven Wonders",
-            "instanceSlug": 863,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1987-07",
-            "playlists": [
-            ],
-            "ranks": [
-              17.9,
-              10.6,
-              6.2,
-              6.6,
-              7.9,
-              9.88,
-              12.34,
-              15.43,
-              19.29,
-              24.11,
-              30.14,
-              37.67,
-              47.09,
-              58.86,
-              73.57,
-              91.97
-            ],
-            "artists": [
-              {
-                "slug": "fleetwood-mac",
-                "title": "Fleetwood Mac",
-                "roleSlug": true
-              },
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": "member"
-              }
-            ],
-            "debutRank": 17.9,
-            "peakRank": 6.2,
-            "duration": 4,
-            "score": 5.48,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Talk to Me",
-            "instanceSlug": 1814,
-            "tags": [
-              "#1",
-              "#1-mainstream-rock"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1985-12",
-            "playlists": [
-            ],
-            "ranks": [
-              25,
-              22,
-              18,
-              15,
-              13,
-              13.5,
-              14.9,
-              17,
-              21.25,
-              26.56,
-              33.2,
-              41.5,
-              51.88,
-              64.85,
-              81.06,
-              101.33
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 25,
-            "peakRank": 13,
-            "duration": 4,
-            "score": 1.7,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Rhiannon (Will You Ever Win)",
-            "instanceSlug": 2744,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": 1976,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "fleetwood-mac",
-                "title": "Fleetwood Mac",
-                "roleSlug": true
-              },
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": "lead"
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 6
-          },
-          {
-            "title": "Edge of Seventeen (Just Like the Wild Winged Dove)",
-            "instanceSlug": 1489,
-            "tags": [
-              "edge",
-              "number"
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1982-03",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 7
-          },
-          {
-            "title": "Stop Dragging My Heart Around",
-            "instanceSlug": 2800,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1981-08",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              },
-              {
-                "slug": "tom-petty",
-                "title": "Tom Petty",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 8
-          },
-          {
-            "title": "I Can't Wait",
-            "instanceSlug": 2801,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1986-03",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 9
-          },
-          {
-            "title": "Gypsy",
-            "instanceSlug": 678,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1982-10",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "fleetwood-mac",
-                "title": "Fleetwood Mac",
-                "roleSlug": true
-              },
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 10
-          },
-          {
-            "title": "Whenever I Call You Friend",
-            "instanceSlug": 2029,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1978-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kenny-loggins",
-                "title": "Kenny Loggins",
-                "roleSlug": true
-              },
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": "feature"
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 11
-          },
-          {
-            "title": "Sara",
-            "instanceSlug": 2748,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1980-01",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "fleetwood-mac",
-                "title": "Fleetwood Mac",
-                "roleSlug": true
-              },
-              {
-                "slug": "stevie-nicks",
-                "title": "Stevie Nicks",
-                "roleSlug": "lead"
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 12
-          }
-        ],
-        "score": 41.05,
-        "songAdjustedAverage": 11.85,
-        "rank": 385
-      },
-      {
-        "title": "Gin Blossoms",
-        "instanceSlug": "gin-blossoms",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop-rock"
-        ],
-        "members": [
-        ],
-        "complete": true,
-        "origin": "phoenix",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "Found Out About You",
-            "instanceSlug": 1589,
-            "tags": [
-              "#1",
-              "#1-modern-rock"
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1994-01",
-            "playlists": [
-            ],
-            "ranks": [
-              15,
-              7,
-              4,
-              2.9,
-              2.5,
-              2.72,
-              3.8,
-              5.31,
-              7.42,
-              10.36,
-              14.48,
-              20.22,
-              28.25,
-              39.47,
-              55.14,
-              77.04
-            ],
-            "artists": [
-              {
-                "slug": "gin-blossoms",
-                "title": "Gin Blossoms",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15,
-            "peakRank": 2.5,
-            "duration": 4,
-            "score": 13.96,
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Hey Jealousy",
-            "instanceSlug": 2592,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1993-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "gin-blossoms",
-                "title": "Gin Blossoms",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Until I Fall Away",
-            "instanceSlug": 2593,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1994-07",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "gin-blossoms",
-                "title": "Gin Blossoms",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Allison Road",
-            "instanceSlug": 2594,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1994-12",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "gin-blossoms",
-                "title": "Gin Blossoms",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Follow You Down",
-            "instanceSlug": 2595,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1996-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "gin-blossoms",
-                "title": "Gin Blossoms",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Til I Hear It From You",
-            "instanceSlug": 2596,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock",
-            "debut": "1996-02",
-            "source": "empire-records",
-            "playlists": [
-            ],
-            "ranks": true,
-            "artists": [
-              {
-                "slug": "gin-blossoms",
-                "title": "Gin Blossoms",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock",
-                "title": "Rock"
-              }
-            ],
-            "rank": 6
-          }
-        ],
-        "score": 13.96,
-        "songAdjustedAverage": 5.7,
-        "rank": 594
-      }
-    ],
-    "score": 114.64,
-    "artistAdjustedAverage": 66.19
+    ]
   },
   "birth": 1948,
   "death": "",
@@ -965,18 +50,8 @@
       "debut": "1983-10",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        6.3,
-        4.9,
-        4.2,
-        3.8,
-        3.75,
-        4,
-        4.45,
-        5.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -1003,8 +78,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.75,
+      "peakScore": 0.559,
+      "duration": 6,
       "score": 7.922999999999999,
       "genres": [
         "pop"
@@ -1026,13 +101,8 @@
       "debut": "1983-07",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        7.4,
-        4.2,
-        3.2,
-        4.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.332,
@@ -1055,8 +125,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 4.75,
+      "peakScore": 0.612,
+      "duration": 5,
       "score": 6.629,
       "genres": [
         "pop"
@@ -1077,16 +147,8 @@
       "debut": "1981-11",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        12,
-        9.5,
-        8.2,
-        7,
-        7.2,
-        7.6,
-        9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.171,
@@ -1108,8 +170,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.5,
+      "peakScore": 0.351,
+      "duration": 5,
       "score": 3.6330000000000005,
       "genres": [
         "adult-contemporary"
@@ -1125,59 +187,97 @@
         "#1",
         "#1-adult-contemporary"
       ],
-      "parents": [
+      "genres": [
+        "pop",
+        "adult-contemporary"
       ],
-      "genre": "adult-contemporary",
       "debut": "1988-01",
       "playlists": [
       ],
-      "ranks": [
-        14,
-        4.1,
-        1.11,
-        1.184,
-        1.27,
-        1.41,
-        1.72,
-        2.05
-      ],
       "scores": [
-        0.12,
         0.529,
-        0.965,
+        0.95,
         0.943,
         0.92,
-        0.885,
-        0.819,
-        0.76,
-        0.755,
-        0.745,
-        0.73,
-        0.71,
-        0.685,
-        0.655,
-        0.62,
-        0.58,
-        0.535,
-        0.485,
-        0.43,
-        0.37,
-        0.305,
-        0.235,
-        0.16,
-        0.08,
+        0.915,
+        0.905,
+        0.89,
+        0.87,
+        0.845,
+        0.815,
+        0.78,
+        0.74,
+        0.695,
+        0.645,
+        0.59,
+        0.53,
+        0.465,
+        0.395,
+        0.32,
+        0.24,
+        0.155,
+        0.065,
         0
       ],
-      "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 6.25,
-      "score": 3.5052499999999993,
-      "genres": [
-        "adult-contemporary"
-      ],
+      "ranks": {
+      },
+      "debutScore": 0.529,
+      "peakScore": 0.95,
+      "duration": 6,
+      "score": 3.550499999999999,
       "role": "member",
       "scoreFactor": 0.25,
       "rank": 4
+    },
+    {
+      "title": "Save Me",
+      "instanceSlug": 2751,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-05",
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": [
+        0.6,
+        0.85,
+        0.88,
+        0.91,
+        0.85,
+        0.77,
+        0.765,
+        0.755,
+        0.74,
+        0.72,
+        0.695,
+        0.665,
+        0.63,
+        0.59,
+        0.545,
+        0.495,
+        0.44,
+        0.38,
+        0.315,
+        0.245,
+        0.17,
+        0.09,
+        0.005,
+        0
+      ],
+      "debutScore": 0.6,
+      "peakScore": 0.91,
+      "duration": 6,
+      "score": 3.2762499999999997,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 5
     },
     {
       "title": "Big Love",
@@ -1188,16 +288,8 @@
       "debut": "1987-04",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        4.8,
-        2.7,
-        2.5,
-        2.45,
-        2.52,
-        2.79,
-        3.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.477,
@@ -1225,7 +317,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.701,
       "duration": 6,
       "score": 2.6292499999999994,
       "genres": [
@@ -1233,7 +325,7 @@
       ],
       "role": "member",
       "scoreFactor": 0.25,
-      "rank": 5
+      "rank": 6
     },
     {
       "title": "Rhiannon (Will You Ever Win)",
@@ -1244,18 +336,8 @@
       "debut": 1976,
       "playlists": [
       ],
-      "ranks": [
-        20,
-        15,
-        10,
-        9,
-        8,
-        8.5,
-        9.2
-      ],
       "scores": [
-        0.001,
-        0.097,
+        0.1,
         0.232,
         0.267,
         0.306,
@@ -1272,16 +354,18 @@
         0.035,
         0
       ],
-      "debutScore": 0.001,
-      "peakScore": 0.001,
-      "duration": 4.25,
-      "score": 2.2230000000000003,
+      "ranks": {
+      },
+      "debutScore": 0.1,
+      "peakScore": 0.306,
+      "duration": 4,
+      "score": 2.2245,
       "genres": [
         "rock"
       ],
       "role": "lead",
       "scoreFactor": 0.75,
-      "rank": 6
+      "rank": 7
     },
     {
       "title": "Little Lies",
@@ -1294,15 +378,8 @@
       ],
       "genre": "pop",
       "debut": "1987-09",
-      "ranks": [
-        15,
-        9,
-        6,
-        4.4,
-        3.6,
-        3.1,
-        3.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -1328,15 +405,56 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.622,
+      "duration": 6,
       "score": 2.118,
       "genres": [
         "pop"
       ],
       "role": "member",
       "scoreFactor": 0.25,
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "title": "Sara",
+      "instanceSlug": 2748,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-01",
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": [
+        0.09,
+        0.21,
+        0.25,
+        0.29,
+        0.25,
+        0.245,
+        0.235,
+        0.22,
+        0.2,
+        0.175,
+        0.145,
+        0.11,
+        0.07,
+        0.025,
+        0
+      ],
+      "debutScore": 0.09,
+      "peakScore": 0.29,
+      "duration": 4,
+      "score": 1.8862499999999995,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 9
     },
     {
       "title": "Go Your Own Way",
@@ -1349,16 +467,8 @@
       "debut": 1977,
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        6.5,
-        5.1,
-        4.5,
-        4.47,
-        4.61,
-        4.93
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -1384,15 +494,15 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.5,
+      "duration": 6,
       "score": 1.74025,
       "genres": [
         "rock"
       ],
       "role": "member",
       "scoreFactor": 0.25,
-      "rank": 8
+      "rank": 10
     },
     {
       "title": "Hold Me",
@@ -1403,14 +513,8 @@
       "debut": "1982-07",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        10,
-        7.5,
-        5.5,
-        5,
-        5.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.232,
@@ -1433,15 +537,145 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 1.3332499999999998,
       "genres": [
         "rock"
       ],
       "role": "member",
       "scoreFactor": 0.25,
-      "rank": 9
+      "rank": 11
+    },
+    {
+      "title": "Seven Wonders",
+      "instanceSlug": 863,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-07",
+      "playlists": [
+      ],
+      "scores": [
+        0.213,
+        0.391,
+        0.45,
+        0.48,
+        0.44,
+        0.37,
+        0.365,
+        0.355,
+        0.34,
+        0.32,
+        0.295,
+        0.265,
+        0.23,
+        0.19,
+        0.145,
+        0.095,
+        0.04,
+        0
+      ],
+      "ranks": {
+      },
+      "debutScore": 0.213,
+      "peakScore": 0.48,
+      "duration": 5,
+      "score": 1.2459999999999998,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 12
+    },
+    {
+      "title": "You Make Loving Fun",
+      "instanceSlug": 2747,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": [
+        0.25,
+        0.342,
+        0.38,
+        0.41,
+        0.39,
+        0.35,
+        0.345,
+        0.335,
+        0.32,
+        0.3,
+        0.275,
+        0.245,
+        0.21,
+        0.17,
+        0.125,
+        0.075,
+        0.02,
+        0
+      ],
+      "debutScore": 0.25,
+      "peakScore": 0.41,
+      "duration": 5,
+      "score": 1.1355,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 13
+    },
+    {
+      "title": "Over My Head",
+      "instanceSlug": 2743,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": [
+        0.21,
+        0.275,
+        0.342,
+        0.346,
+        0.315,
+        0.31,
+        0.3,
+        0.285,
+        0.265,
+        0.24,
+        0.21,
+        0.175,
+        0.135,
+        0.09,
+        0.04,
+        0
+      ],
+      "debutScore": 0.21,
+      "peakScore": 0.346,
+      "duration": 4,
+      "score": 0.8844999999999998,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 14
     },
     {
       "title": "Don't Stop",
@@ -1454,16 +688,7 @@
       "debut": 1977,
       "playlists": [
       ],
-      "ranks": [
-        18,
-        11,
-        9,
-        7,
-        7.1,
-        7.8
-      ],
       "scores": [
-        0.036,
         0.2,
         0.267,
         0.351,
@@ -1481,63 +706,18 @@
         0.04,
         0
       ],
-      "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.25,
-      "score": 0.8912499999999999,
+      "ranks": {
+      },
+      "debutScore": 0.2,
+      "peakScore": 0.351,
+      "duration": 4,
+      "score": 0.88225,
       "genres": [
         "rock"
       ],
       "role": "member",
       "scoreFactor": 0.25,
-      "rank": 10
-    },
-    {
-      "title": "Seven Wonders",
-      "instanceSlug": 863,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "pop",
-      "debut": "1987-07",
-      "playlists": [
-      ],
-      "ranks": [
-        17.9,
-        10.6,
-        6.2,
-        6.6,
-        7.9
-      ],
-      "scores": [
-        0.038,
-        0.213,
-        0.391,
-        0.37,
-        0.311,
-        0.306,
-        0.296,
-        0.281,
-        0.261,
-        0.236,
-        0.206,
-        0.171,
-        0.131,
-        0.086,
-        0.036,
-        0
-      ],
-      "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 4,
-      "score": 0.83325,
-      "genres": [
-        "pop"
-      ],
-      "role": "member",
-      "scoreFactor": 0.25,
-      "rank": 11
+      "rank": 15
     },
     {
       "title": "Talk to Me",
@@ -1552,16 +732,8 @@
       "debut": "1985-12",
       "playlists": [
       ],
-      "ranks": [
-        25,
-        22,
-        18,
-        15,
-        13,
-        13.5,
-        14.9,
-        17
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.097,
@@ -1576,15 +748,56 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 2.75,
+      "peakScore": 0.145,
+      "duration": 3,
       "score": 0.6840000000000002,
       "genres": [
         "pop"
       ],
       "role": true,
       "scoreFactor": 1,
-      "rank": 12
+      "rank": 16
+    },
+    {
+      "title": "Think About Me",
+      "instanceSlug": 2749,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": [
+        0.05,
+        0.15,
+        0.21,
+        0.24,
+        0.22,
+        0.19,
+        0.185,
+        0.175,
+        0.16,
+        0.14,
+        0.115,
+        0.085,
+        0.05,
+        0.01,
+        0
+      ],
+      "debutScore": 0.05,
+      "peakScore": 0.24,
+      "duration": 4,
+      "score": 0.49500000000000005,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 17
     },
     {
       "title": "Tusk",
@@ -1594,13 +807,8 @@
       "debut": "1979-10",
       "playlists": [
       ],
-      "ranks": [
-        25,
-        15,
-        13,
-        11,
-        12
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.145,
@@ -1616,96 +824,12 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.2,
       "duration": 3,
       "score": 0.34750000000000003,
       "role": "member",
       "scoreFactor": 0.25,
-      "rank": 13
-    },
-    {
-      "title": "Whenever I Call You Friend",
-      "instanceSlug": 2029,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "pop",
-      "debut": "1978-09",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "pop"
-      ],
-      "role": "feature",
-      "scoreFactor": 0.25,
-      "rank": 14
-    },
-    {
-      "title": "Save Me",
-      "instanceSlug": 2751,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "pop",
-      "debut": "1990-05",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "pop"
-      ],
-      "role": "member",
-      "scoreFactor": 0.25,
-      "rank": 15
-    },
-    {
-      "title": "Stop Dragging My Heart Around",
-      "instanceSlug": 2800,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "rock",
-      "debut": "1981-08",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "rock"
-      ],
-      "role": true,
-      "scoreFactor": 1,
-      "rank": 16
-    },
-    {
-      "title": "I Can't Wait",
-      "instanceSlug": 2801,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "pop",
-      "debut": "1986-03",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "pop"
-      ],
-      "role": true,
-      "scoreFactor": 1,
-      "rank": 17
+      "rank": 18
     },
     {
       "title": "Gypsy",
@@ -1718,57 +842,78 @@
       "debut": "1982-10",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
       ],
       "role": "lead",
       "scoreFactor": 0.75,
-      "rank": 18
+      "rank": 19
     },
     {
-      "title": "Over My Head",
-      "instanceSlug": 2743,
+      "title": "I Can't Wait",
+      "instanceSlug": 2801,
       "tags": [
       ],
       "parents": [
       ],
       "genre": "pop",
-      "debut": 1976,
+      "debut": "1986-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
       ],
-      "role": "member",
-      "scoreFactor": 0.25,
-      "rank": 19
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 20
     },
     {
-      "title": "You Make Loving Fun",
-      "instanceSlug": 2747,
+      "title": "Stop Dragging My Heart Around",
+      "instanceSlug": 2800,
       "tags": [
       ],
       "parents": [
       ],
       "genre": "rock",
-      "debut": 1977,
+      "debut": "1981-08",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
       ],
-      "role": "member",
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 21
+    },
+    {
+      "title": "Whenever I Call You Friend",
+      "instanceSlug": 2029,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1978-09",
+      "playlists": [
+      ],
+      "ranks": {
+      },
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "feature",
       "scoreFactor": 0.25,
-      "rank": 20
+      "rank": 22
     },
     {
       "title": "Edge of Seventeen (Just Like the Wild Winged Dove)",
@@ -1783,61 +928,19 @@
       "debut": "1982-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
       ],
       "role": true,
       "scoreFactor": 1,
-      "rank": 21
-    },
-    {
-      "title": "Think About Me",
-      "instanceSlug": 2749,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "rock",
-      "debut": "1980-04",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "rock"
-      ],
-      "role": "member",
-      "scoreFactor": 0.25,
-      "rank": 22
-    },
-    {
-      "title": "Sara",
-      "instanceSlug": 2748,
-      "tags": [
-      ],
-      "parents": [
-      ],
-      "genre": "rock",
-      "debut": "1980-01",
-      "playlists": [
-      ],
-      "ranks": [
-      ],
-      "scores": null,
-      "genres": [
-        "rock"
-      ],
-      "role": "lead",
-      "scoreFactor": 0.75,
       "rank": 23
     }
   ],
-  "score": 34.48999999999999,
+  "score": 42.617999999999995,
   "songCount": 23,
-  "songAdjustedAverage": 7.191662140828507,
-  "rank": 366
+  "songAdjustedAverage": 8.886467298284412,
+  "rank": 279
 }

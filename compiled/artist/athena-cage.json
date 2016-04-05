@@ -36,14 +36,8 @@
       "debut": "1997-02",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        10.5,
-        7,
-        7.2,
-        7.6,
-        8.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.216,
@@ -64,8 +58,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.25,
+      "peakScore": 0.351,
+      "duration": 5,
       "score": 0.8282499999999998,
       "genres": [
         "urban"

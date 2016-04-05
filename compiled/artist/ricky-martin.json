@@ -36,12 +36,8 @@
       "debut": "1999-08",
       "playlists": [
       ],
-      "ranks": [
-        12,
-        1.7,
-        1.38,
-        1.555
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.823,
@@ -67,8 +63,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.5,
+      "peakScore": 0.892,
+      "duration": 6,
       "score": 12.377000000000002,
       "genres": [
         "latin-dance-1"
@@ -90,18 +86,8 @@
       "debut": "1999-02",
       "playlists": [
       ],
-      "ranks": [
-        11,
-        4,
-        2,
-        1.5,
-        1.7,
-        1.9,
-        2.1,
-        2.4,
-        2.8,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.2,
         0.537,
@@ -130,8 +116,8 @@
         0
       ],
       "debutScore": 0.2,
-      "peakScore": 0.2,
-      "duration": 6.25,
+      "peakScore": 0.864,
+      "duration": 7,
       "score": 12.024000000000001,
       "genres": [
         "latin-dance"
@@ -153,8 +139,8 @@
       "debut": "1999-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "latin"

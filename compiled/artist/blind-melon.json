@@ -36,17 +36,8 @@
       "debut": "1993-09",
       "playlists": [
       ],
-      "ranks": [
-        22,
-        14,
-        11,
-        10.5,
-        10.9,
-        11.5,
-        12.25,
-        13,
-        14.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.2,
@@ -65,8 +56,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.108,
-      "duration": 3.75,
+      "peakScore": 0.216,
+      "duration": 4,
       "score": 1.709,
       "genres": [
         "rock"

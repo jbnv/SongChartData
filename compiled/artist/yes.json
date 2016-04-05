@@ -40,18 +40,8 @@
       "debut": "1987-11",
       "playlists": [
       ],
-      "ranks": [
-        15.8,
-        12,
-        10,
-        9,
-        8,
-        7.5,
-        7.2,
-        7.4,
-        8,
-        9.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.079,
         0.171,
@@ -75,7 +65,7 @@
         0
       ],
       "debutScore": 0.079,
-      "peakScore": 0.079,
+      "peakScore": 0.341,
       "duration": 5,
       "score": 4.067,
       "genres": [
@@ -99,16 +89,8 @@
       "debut": "1984-01",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9,
-        5,
-        3,
-        4.2,
-        5.9,
-        8.2,
-        11.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.267,
@@ -129,8 +111,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.25,
+      "peakScore": 0.633,
+      "duration": 5,
       "score": 3.7319999999999998,
       "genres": [
         true

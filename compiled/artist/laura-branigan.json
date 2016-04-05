@@ -38,13 +38,8 @@
       ],
       "genre": "pop",
       "debut": "1983-04",
-      "ranks": [
-        15.9,
-        8.7,
-        4.7,
-        2.5,
-        2.84
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.278,
@@ -69,8 +64,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 5.25,
+      "peakScore": 0.694,
+      "duration": 6,
       "score": 8.565,
       "genres": [
         "pop"
@@ -89,17 +84,8 @@
       ],
       "genre": "dance-pop",
       "debut": "1982-09",
-      "ranks": [
-        15.9,
-        9.3,
-        7.2,
-        5.5,
-        4.9,
-        4.7,
-        4.52,
-        4.76,
-        5.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -126,8 +112,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 5.75,
+      "peakScore": 0.497,
+      "duration": 6,
       "score": 7.144,
       "genres": [
         "dance-pop"
@@ -149,14 +135,8 @@
       "debut": "1984-05",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.4,
-        8.4,
-        6.1,
-        5.9,
-        6.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.219,
@@ -178,8 +158,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 4.5,
+      "peakScore": 0.408,
+      "duration": 5,
       "score": 4.302,
       "genres": [
         "pop"
@@ -199,14 +179,8 @@
       "debut": "1983-09",
       "playlists": [
       ],
-      "ranks": [
-        25,
-        20,
-        17.5,
-        16.1,
-        15,
-        16.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.045,
@@ -220,8 +194,8 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
-      "duration": 2.5,
+      "peakScore": 0.097,
+      "duration": 3,
       "score": 0.451,
       "genres": [
         "pop"
@@ -234,5 +208,5 @@
   "score": 20.462,
   "songCount": 4,
   "songAdjustedAverage": 10.231,
-  "rank": 197
+  "rank": 201
 }

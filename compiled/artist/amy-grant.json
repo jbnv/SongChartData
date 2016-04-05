@@ -26,13 +26,8 @@
         "ballad",
         "love"
       ],
-      "ranks": [
-        13.5,
-        3.7,
-        2,
-        1.7,
-        2.05
-      ],
+      "ranks": {
+      },
       "scores": [
         0.132,
         0.563,
@@ -58,8 +53,8 @@
         0
       ],
       "debutScore": 0.132,
-      "peakScore": 0.132,
-      "duration": 5.5,
+      "peakScore": 0.823,
+      "duration": 6,
       "score": 11.125999999999998,
       "genres": [
         "pop"
@@ -78,15 +73,8 @@
       ],
       "genre": "pop",
       "debut": "1991-08",
-      "ranks": [
-        12,
-        3,
-        2.8,
-        2.83,
-        2.9,
-        3.13,
-        3.49
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.633,
@@ -112,8 +100,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.5,
+      "peakScore": 0.656,
+      "duration": 6,
       "score": 9.322,
       "genres": [
         "pop"
@@ -133,13 +121,8 @@
       "debut": "1991-10",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        8.6,
-        4.9,
-        3.9,
-        5.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.282,
@@ -161,8 +144,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 4.5,
+      "peakScore": 0.546,
+      "duration": 5,
       "score": 5.255999999999999,
       "genres": [
         "pop"
@@ -187,12 +170,8 @@
       "debut": "1992-05",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.7,
-        9,
-        12
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.209,
@@ -208,7 +187,7 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
+      "peakScore": 0.267,
       "duration": 3,
       "score": 1.4620000000000002,
       "genres": [
@@ -231,8 +210,8 @@
       "debut": 1991,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -252,8 +231,8 @@
       "debut": 1992,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -266,5 +245,5 @@
   "score": 27.165999999999997,
   "songCount": 6,
   "songAdjustedAverage": 11.090473058741303,
-  "rank": 160
+  "rank": 162
 }

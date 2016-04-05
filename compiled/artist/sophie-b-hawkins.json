@@ -42,19 +42,8 @@
       "debut": "1991-11",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11,
-        7,
-        5,
-        4,
-        4.3,
-        4.7,
-        5.1,
-        5.6,
-        6.2,
-        7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.2,
@@ -81,8 +70,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 5.75,
+      "peakScore": 0.537,
+      "duration": 6,
       "score": 6.657,
       "genres": [
         "pop"
@@ -106,8 +95,8 @@
       "debut": "1995-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "adult-contemporary"

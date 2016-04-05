@@ -41,8 +41,8 @@
       "parents": [
       ],
       "debut": "1970s",
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,

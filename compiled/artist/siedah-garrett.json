@@ -44,13 +44,8 @@
         "pop"
       ],
       "debut": "1987-08",
-      "ranks": [
-        13.9,
-        3.6,
-        1.6,
-        1.65,
-        1.85
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.573,
@@ -77,8 +72,8 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
-      "duration": 5.75,
+      "peakScore": 0.843,
+      "duration": 6,
       "score": 1.1818000000000004,
       "role": "backup",
       "scoreFactor": 0.1,
@@ -95,17 +90,8 @@
       "playlists": [
         "choir"
       ],
-      "ranks": [
-        24,
-        18,
-        15,
-        13,
-        12,
-        12.2,
-        12.7,
-        13.3,
-        15.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.097,
@@ -123,8 +109,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 3.5,
+      "peakScore": 0.171,
+      "duration": 4,
       "score": 0.12990000000000002,
       "genres": [
         "soul"

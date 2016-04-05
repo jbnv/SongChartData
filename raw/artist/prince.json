@@ -1,1 +1,20 @@
-{"title":"Prince","instanceSlug":"prince","tags":["1980s","1990s","hof"],"parents":[],"genres":["urban","pop"],"members":[],"xref":[],"complete":false,"origin":"minneapolis","birth":"","death":"","type":"m"}
+{
+  "title": "Prince",
+  "instanceSlug": "prince",
+  "tags": [
+    "1980s",
+    "1990s",
+    "hof"
+  ],
+  "genres": [
+    "urban",
+    "pop"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "minneapolis",
+  "birth": "1958-06",
+  "death": "",
+  "type": "m"
+}

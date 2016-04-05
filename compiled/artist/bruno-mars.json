@@ -26,144 +26,7 @@
       "us"
     ],
     "artists": [
-      {
-        "title": "Glenn Medeiros",
-        "instanceSlug": "glenn-medeiros",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop"
-        ],
-        "members": [
-        ],
-        "complete": true,
-        "origin": "hawaii",
-        "birth": "",
-        "death": "",
-        "type": "m",
-        "songs": [
-          {
-            "title": "Nothing's Gonna Change My Love for You",
-            "instanceSlug": 1315,
-            "tags": [
-              "for-you",
-              "my-love"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1987-04",
-            "playlists": [
-            ],
-            "ranks": [
-              18,
-              12,
-              8.5,
-              6.5,
-              5.6,
-              5,
-              5.2,
-              5.7,
-              6.4,
-              8,
-              10,
-              12.5,
-              15.63,
-              19.53,
-              24.41,
-              30.52,
-              38.15,
-              47.68,
-              59.6,
-              74.51
-            ],
-            "artists": [
-              {
-                "slug": "glenn-medeiros",
-                "title": "Glenn Medeiros",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18,
-            "peakRank": 5,
-            "duration": 5,
-            "score": 11.41,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "She Ain't Worth It",
-            "instanceSlug": 181,
-            "tags": [
-              "songs-of-summer"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1990-07",
-            "ranks": [
-              19.9,
-              11.3,
-              6.4,
-              4.2,
-              4.4,
-              4.8,
-              5.4,
-              6.75,
-              8.44,
-              10.55,
-              13.18,
-              16.48,
-              20.6,
-              25.75,
-              32.19,
-              40.23,
-              50.29,
-              62.86,
-              78.58,
-              98.23
-            ],
-            "artists": [
-              {
-                "slug": "glenn-medeiros",
-                "title": "Glenn Medeiros",
-                "roleSlug": true
-              },
-              {
-                "slug": "bobby-brown",
-                "title": "Bobby Brown",
-                "roleSlug": "feature"
-              }
-            ],
-            "debutRank": 19.9,
-            "peakRank": 4.2,
-            "duration": 5,
-            "score": 10.78,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "playlists": [
-            ],
-            "rank": 2
-          }
-        ],
-        "score": 22.19,
-        "songAdjustedAverage": 15.69,
-        "rank": 272
-      }
-    ],
-    "score": 22.19,
-    "artistAdjustedAverage": 22.19
+    ]
   },
   "birth": "",
   "death": "",
@@ -190,13 +53,8 @@
       "debut": 2013,
       "playlists": [
       ],
-      "ranks": [
-        12,
-        3.4,
-        1.6,
-        1.8,
-        2.05
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.592,
@@ -222,8 +80,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.5,
+      "peakScore": 0.843,
+      "duration": 6,
       "score": 11.249999999999998,
       "genres": [
         "dance-pop"
@@ -245,12 +103,8 @@
       "debut": "2010s",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        10,
-        6,
-        8.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.232,
@@ -269,8 +123,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 3.75,
+      "peakScore": 0.402,
+      "duration": 4,
       "score": 2.911,
       "genres": [
         "pop"
@@ -291,14 +145,8 @@
       "debut": 2015,
       "playlists": [
       ],
-      "ranks": [
-        15.5,
-        5,
-        3,
-        2.2,
-        2.3,
-        2.59
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.463,
@@ -325,8 +173,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
-      "duration": 5.75,
+      "peakScore": 0.737,
+      "duration": 6,
       "score": 2.5387500000000007,
       "genres": [
         "dance-pop"
@@ -348,8 +196,8 @@
       "debut": "2010s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -375,8 +223,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -389,5 +237,5 @@
   "score": 16.699749999999998,
   "songCount": 5,
   "songAdjustedAverage": 7.468355241450421,
-  "rank": 349
+  "rank": 350
 }

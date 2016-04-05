@@ -37,17 +37,8 @@
       ],
       "genre": "rockabilly",
       "debut": "1982-10",
-      "ranks": [
-        20.5,
-        16,
-        12,
-        9.2,
-        7.9,
-        7.5,
-        7.6,
-        7.9,
-        9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.171,
@@ -69,8 +60,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 4.5,
+      "peakScore": 0.328,
+      "duration": 5,
       "score": 3.624,
       "genres": [
         "rockabilly"
@@ -90,8 +81,8 @@
       "debut": "1983-05",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"

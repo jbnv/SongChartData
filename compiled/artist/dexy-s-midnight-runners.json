@@ -27,15 +27,8 @@
       "debut": "1983-03",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        11,
-        7,
-        5.8,
-        5,
-        5.4,
-        6.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.2,
@@ -59,7 +52,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.463,
       "duration": 5,
       "score": 5.164000000000001,
       "genres": [

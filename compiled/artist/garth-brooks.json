@@ -19,8 +19,7 @@
       "us"
     ],
     "artists": [
-    ],
-    "score": null
+    ]
   },
   "birth": "",
   "death": "",
@@ -45,13 +44,8 @@
       "debut": 1990,
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.3,
-        5.8,
-        4.4,
-        6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.222,
@@ -73,8 +67,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 4.5,
+      "peakScore": 0.506,
+      "duration": 5,
       "score": 4.5859999999999985,
       "genres": [
         "country"

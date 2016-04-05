@@ -25,144 +25,7 @@
       "michigan"
     ],
     "artists": [
-      {
-        "title": "Ready for the World",
-        "instanceSlug": "ready-for-the-world",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "urban"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "flint-mi",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "Oh Sheila",
-            "instanceSlug": 942,
-            "tags": [
-              "#1",
-              "#1-hot-100",
-              "#1-r&b"
-            ],
-            "parents": [
-            ],
-            "genre": "urban",
-            "debut": "1985-09",
-            "playlists": [
-            ],
-            "ranks": [
-              17.9,
-              10.4,
-              6.1,
-              5.8,
-              6.9,
-              8.63,
-              10.78,
-              13.48,
-              16.85,
-              21.06,
-              26.32,
-              32.9,
-              41.13,
-              51.41,
-              64.26,
-              80.33
-            ],
-            "artists": [
-              {
-                "slug": "ready-for-the-world",
-                "title": "Ready for the World",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17.9,
-            "peakRank": 5.8,
-            "duration": 4,
-            "score": 6.32,
-            "genres": [
-              {
-                "slug": "urban",
-                "title": "Urban / R&B"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Digital Display",
-            "instanceSlug": 2850,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "urban",
-            "debut": "1986-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ready-for-the-world",
-                "title": "Ready for the World",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "urban",
-                "title": "Urban / R&B"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Love You Down",
-            "instanceSlug": 2851,
-            "tags": [
-              "#1",
-              "#1-r&b",
-              "remade"
-            ],
-            "parents": [
-            ],
-            "genre": "soul",
-            "debut": "1987-01",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ready-for-the-world",
-                "title": "Ready for the World",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "soul",
-                "title": "Soul"
-              }
-            ],
-            "rank": 3
-          }
-        ],
-        "score": 6.32,
-        "songAdjustedAverage": 3.65,
-        "rank": 657
-      }
-    ],
-    "score": 6.32,
-    "artistAdjustedAverage": 6.32
+    ]
   },
   "birth": "",
   "death": "",
@@ -190,13 +53,8 @@
       "debut": "1985-09",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.4,
-        6.1,
-        5.8,
-        6.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.219,
@@ -217,8 +75,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 4.25,
+      "peakScore": 0.414,
+      "duration": 5,
       "score": 3.9100000000000006,
       "genres": [
         "urban"
@@ -238,8 +96,8 @@
       "debut": "1986-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "urban"
@@ -262,8 +120,8 @@
       "debut": "1987-01",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soul"

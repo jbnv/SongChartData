@@ -51,8 +51,8 @@
       "debut": "1982-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soul"
@@ -72,8 +72,8 @@
       "debut": "1985-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -93,8 +93,8 @@
       "debut": 1979,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soul"
@@ -116,8 +116,8 @@
       "debut": 1974,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "urban"

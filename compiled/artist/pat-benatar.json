@@ -36,13 +36,8 @@
       "debut": 1985,
       "playlists": [
       ],
-      "ranks": [
-        15,
-        8.7,
-        5,
-        4.7,
-        6.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.278,
@@ -63,8 +58,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 4.25,
+      "peakScore": 0.484,
+      "duration": 5,
       "score": 4.404,
       "genres": [
         "rock"
@@ -87,15 +82,8 @@
       "debut": "1982-10",
       "playlists": [
       ],
-      "ranks": [
-        18.5,
-        14,
-        10.4,
-        7.5,
-        7.4,
-        8,
-        9.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.027,
         0.12,
@@ -116,8 +104,8 @@
         0
       ],
       "debutScore": 0.027,
-      "peakScore": 0.027,
-      "duration": 4.25,
+      "peakScore": 0.332,
+      "duration": 5,
       "score": 3.107,
       "genres": [
         "rock"
@@ -137,12 +125,8 @@
       "debut": "1980-10",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.6,
-        6.2,
-        7.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.213,
@@ -161,8 +145,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 3.75,
+      "peakScore": 0.391,
+      "duration": 4,
       "score": 2.963,
       "genres": [
         "rock"
@@ -182,8 +166,8 @@
       "debut": "1985-01",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -207,8 +191,8 @@
       "debut": 1984,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"

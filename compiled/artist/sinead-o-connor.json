@@ -30,13 +30,8 @@
       "debut": "1990-04",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        12,
-        10,
-        8,
-        9.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.171,
@@ -55,8 +50,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 3.75,
+      "peakScore": 0.306,
+      "duration": 4,
       "score": 2.499,
       "genres": [
         "pop"

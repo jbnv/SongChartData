@@ -39,13 +39,8 @@
       "playlists": [
         "medley"
       ],
-      "ranks": [
-        15.9,
-        9,
-        5,
-        3.1,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.267,
@@ -69,7 +64,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.622,
       "duration": 5,
       "score": 7.359000000000002,
       "genres": [
@@ -83,5 +78,5 @@
   "score": 7.359000000000002,
   "songCount": 1,
   "songAdjustedAverage": 7.359000000000002,
-  "rank": 354
+  "rank": 355
 }

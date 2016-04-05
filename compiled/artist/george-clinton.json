@@ -39,16 +39,8 @@
       "debut": "1983-04",
       "playlists": [
       ],
-      "ranks": [
-        16.3,
-        10.3,
-        7.3,
-        5.8,
-        4.7,
-        4.3,
-        4.64,
-        5.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.069,
         0.222,
@@ -73,8 +65,8 @@
         0
       ],
       "debutScore": 0.069,
-      "peakScore": 0.069,
-      "duration": 5.25,
+      "peakScore": 0.513,
+      "duration": 6,
       "score": 6.5569999999999995,
       "genres": [
         "funk"

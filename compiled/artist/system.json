@@ -41,14 +41,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        10,
-        1.05,
-        1.11,
-        1.19,
-        1.31,
-        1.5
-      ],
+      "ranks": {
+      },
       "note": "Project 4 weeks at #1.",
       "scores": [
         0.232,
@@ -78,8 +72,8 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
-      "duration": 6.25,
+      "peakScore": 0.983,
+      "duration": 7,
       "score": 14.747,
       "genres": [
         "soul"

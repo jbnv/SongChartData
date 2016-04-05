@@ -37,15 +37,8 @@
       "debut": "1995-10",
       "playlists": [
       ],
-      "ranks": [
-        16.1,
-        7.9,
-        4.9,
-        3.7,
-        3.5,
-        3.72,
-        4.13
-      ],
+      "ranks": {
+      },
       "scores": [
         0.073,
         0.311,
@@ -71,8 +64,8 @@
         0
       ],
       "debutScore": 0.073,
-      "peakScore": 0.073,
-      "duration": 5.5,
+      "peakScore": 0.582,
+      "duration": 6,
       "score": 7.665999999999999,
       "genres": [
         "dance"
@@ -85,5 +78,5 @@
   "score": 7.665999999999999,
   "songCount": 1,
   "songAdjustedAverage": 7.665999999999999,
-  "rank": 338
+  "rank": 339
 }

@@ -38,13 +38,8 @@
       "playlists": [
         "instrumental"
       ],
-      "ranks": [
-        15,
-        8,
-        4,
-        3.4,
-        3.85
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.306,
@@ -68,7 +63,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.592,
       "duration": 5,
       "score": 6.982000000000001,
       "genres": [

@@ -39,14 +39,8 @@
       "debut": "1983-04",
       "playlists": [
       ],
-      "ranks": [
-        13.6,
-        8.1,
-        5.4,
-        3.4,
-        2.85,
-        3.16
-      ],
+      "ranks": {
+      },
       "scores": [
         0.129,
         0.302,
@@ -72,8 +66,8 @@
         0
       ],
       "debutScore": 0.129,
-      "peakScore": 0.129,
-      "duration": 5.5,
+      "peakScore": 0.65,
+      "duration": 6,
       "score": 8.566,
       "genres": [
         "pop"
@@ -93,8 +87,8 @@
       "debut": 1987,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

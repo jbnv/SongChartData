@@ -39,14 +39,8 @@
       "debut": "1992-08",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        8.5,
-        4.8,
-        3.1,
-        4.3,
-        6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.286,
@@ -69,8 +63,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 4.75,
+      "peakScore": 0.622,
+      "duration": 5,
       "score": 5.401,
       "genres": [
         "pop"
@@ -83,5 +77,5 @@
   "score": 5.401,
   "songCount": 1,
   "songAdjustedAverage": 5.401,
-  "rank": 478
+  "rank": 477
 }

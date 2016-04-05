@@ -34,13 +34,8 @@
       "debut": 1997,
       "playlists": [
       ],
-      "ranks": [
-        13.9,
-        3.4,
-        1,
-        1.17,
-        1.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.592,
@@ -68,7 +63,7 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
+      "peakScore": 1,
       "duration": 6,
       "score": 13.377,
       "genres": [

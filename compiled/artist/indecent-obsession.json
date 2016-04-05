@@ -32,12 +32,8 @@
       ],
       "genre": "pop",
       "debut": "1990-09",
-      "ranks": [
-        24.9,
-        14.6,
-        8.6,
-        12.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.106,
         0.282,
@@ -52,8 +48,8 @@
         0
       ],
       "debutScore": 0.106,
-      "peakScore": 0.106,
-      "duration": 2.75,
+      "peakScore": 0.282,
+      "duration": 3,
       "score": 1.248,
       "genres": [
         "pop"

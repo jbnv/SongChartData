@@ -36,16 +36,8 @@
       "debut": "1986-01",
       "playlists": [
       ],
-      "ranks": [
-        13.5,
-        6.5,
-        3.85,
-        3.1,
-        3.3,
-        3.7,
-        4.25,
-        5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.132,
         0.376,
@@ -71,8 +63,8 @@
         0
       ],
       "debutScore": 0.132,
-      "peakScore": 0.132,
-      "duration": 5.5,
+      "peakScore": 0.622,
+      "duration": 6,
       "score": 7.569,
       "genres": [
         "dance"
@@ -85,5 +77,5 @@
   "score": 7.569,
   "songCount": 1,
   "songAdjustedAverage": 7.569,
-  "rank": 341
+  "rank": 342
 }

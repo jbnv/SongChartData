@@ -30,12 +30,8 @@
       ],
       "genre": "pop",
       "debut": 1983,
-      "ranks": [
-        13.9,
-        3.7,
-        1.4,
-        1.47
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.563,
@@ -62,8 +58,8 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
-      "duration": 5.75,
+      "peakScore": 0.887,
+      "duration": 6,
       "score": 12.421000000000005,
       "genres": [
         "pop"
@@ -86,12 +82,8 @@
       "playlists": [
         "animals"
       ],
-      "ranks": [
-        18,
-        11.7,
-        6.8,
-        7.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.18,
@@ -110,8 +102,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 3.75,
+      "peakScore": 0.361,
+      "duration": 4,
       "score": 3.0850000000000004,
       "genres": [
         "pop"
@@ -131,12 +123,8 @@
       "debut": "1983-08",
       "playlists": [
       ],
-      "ranks": [
-        18.9,
-        11.1,
-        6.5,
-        7.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.02,
         0.197,
@@ -155,8 +143,8 @@
         0
       ],
       "debutScore": 0.02,
-      "peakScore": 0.02,
-      "duration": 3.75,
+      "peakScore": 0.376,
+      "duration": 4,
       "score": 3.002,
       "genres": [
         "pop"
@@ -184,14 +172,8 @@
       "debut": "1983-04",
       "playlists": [
       ],
-      "ranks": [
-        21,
-        13.8,
-        10.7,
-        9.6,
-        10.4,
-        13.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.125,
         0.209,
@@ -207,7 +189,7 @@
         0
       ],
       "debutScore": 0.125,
-      "peakScore": 0.125,
+      "peakScore": 0.246,
       "duration": 3,
       "score": 1.4920000000000002,
       "genres": [
@@ -228,8 +210,8 @@
       "debut": 1984,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -242,5 +224,5 @@
   "score": 20.000000000000007,
   "songCount": 5,
   "songAdjustedAverage": 8.944271909999161,
-  "rank": 275
+  "rank": 276
 }

@@ -38,13 +38,8 @@
         "ballad",
         "love"
       ],
-      "ranks": [
-        12.7,
-        1.8,
-        1.5,
-        1.6,
-        1.75
-      ],
+      "ranks": {
+      },
       "scores": [
         0.152,
         0.804,
@@ -71,8 +66,8 @@
         0
       ],
       "debutScore": 0.152,
-      "peakScore": 0.152,
-      "duration": 5.75,
+      "peakScore": 0.864,
+      "duration": 6,
       "score": 12.452,
       "genres": [
         "adult-contemporary"
@@ -85,5 +80,5 @@
   "score": 12.452,
   "songCount": 1,
   "songAdjustedAverage": 12.452,
-  "rank": 117
+  "rank": 118
 }

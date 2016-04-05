@@ -38,13 +38,8 @@
       "debut": "1988-04",
       "playlists": [
       ],
-      "ranks": [
-        21,
-        12.6,
-        30.3,
-        85.5,
-        241
-      ],
+      "ranks": {
+      },
       "scores": [
         0.155,
         0.15,
@@ -58,7 +53,7 @@
       ],
       "debutScore": 0.155,
       "peakScore": 0.155,
-      "duration": 2.25,
+      "duration": 3,
       "score": 0.8200000000000001,
       "genres": [
         "dance"

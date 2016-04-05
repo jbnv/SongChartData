@@ -27,11 +27,8 @@
       "debut": "1978-02",
       "playlists": [
       ],
-      "ranks": [
-        15.5,
-        3,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.633,
@@ -53,8 +50,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
-      "duration": 4.5,
+      "peakScore": 0.633,
+      "duration": 5,
       "score": 0.6799000000000002,
       "genres": [
         "blues"
@@ -74,8 +71,8 @@
       "debut": "1978-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "blues"

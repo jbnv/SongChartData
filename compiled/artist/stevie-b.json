@@ -39,19 +39,8 @@
       "debut": 1990,
       "playlists": [
       ],
-      "ranks": [
-        10,
-        5.2,
-        2.7,
-        1.4,
-        1.1,
-        1.5,
-        2,
-        2.6,
-        3.5,
-        4.7,
-        6.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.232,
         0.45,
@@ -78,8 +67,8 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
-      "duration": 5.75,
+      "peakScore": 0.968,
+      "duration": 6,
       "score": 9.786,
       "genres": [
         "dance"
@@ -97,13 +86,8 @@
       "debut": 1988,
       "playlists": [
       ],
-      "ranks": [
-        20,
-        9,
-        7,
-        5,
-        5.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.267,
@@ -125,8 +109,8 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
-      "duration": 4.5,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 4.865000000000001,
       "genres": [
         "dance"
@@ -144,16 +128,8 @@
       ],
       "genre": "pop",
       "debut": "1990-08",
-      "ranks": [
-        17.9,
-        10.7,
-        10.8,
-        17.2,
-        27.2,
-        43,
-        68.1,
-        107.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.209,
@@ -166,8 +142,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 2.25,
+      "peakScore": 0.209,
+      "duration": 3,
       "score": 0.6080000000000001,
       "genres": [
         "pop"
@@ -180,5 +156,5 @@
   "score": 15.259,
   "songCount": 3,
   "songAdjustedAverage": 8.8097877575645,
-  "rank": 282
+  "rank": 284
 }

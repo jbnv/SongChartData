@@ -36,12 +36,8 @@
       "debut": 2015,
       "playlists": [
       ],
-      "ranks": [
-        13,
-        6,
-        2,
-        2.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.402,
@@ -66,8 +62,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.25,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 9.033,
       "genres": [
         "dance-pop"
@@ -80,5 +76,5 @@
   "score": 9.033,
   "songCount": 1,
   "songAdjustedAverage": 9.033,
-  "rank": 272
+  "rank": 273
 }

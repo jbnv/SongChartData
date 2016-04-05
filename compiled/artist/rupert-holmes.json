@@ -25,15 +25,8 @@
         "feb13",
         "cheating"
       ],
-      "ranks": [
-        15,
-        6,
-        5,
-        4.3,
-        3.9,
-        4.2,
-        4.7
-      ],
+      "ranks": {
+      },
       "genre": "pop",
       "scores": [
         0.097,
@@ -59,8 +52,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.546,
+      "duration": 6,
       "score": 7.043000000000001,
       "genres": [
         "pop"
@@ -81,20 +74,8 @@
       "debut": 1980,
       "playlists": [
       ],
-      "ranks": [
-        17,
-        10.1,
-        7.6,
-        10.1,
-        13.6,
-        18.2,
-        24.4,
-        32.7,
-        43.7,
-        58.6,
-        78.4,
-        105
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.229,
@@ -108,8 +89,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.032,
-      "duration": 2.5,
+      "peakScore": 0.323,
+      "duration": 3,
       "score": 1.043,
       "genres": [
         "pop"

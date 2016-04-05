@@ -36,16 +36,8 @@
       "debut": "1994-01",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        7,
-        3.2,
-        2.8,
-        2.75,
-        2.65,
-        2.81,
-        3.02
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.351,
@@ -73,7 +65,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.675,
       "duration": 6,
       "score": 10.404000000000002,
       "genres": [
@@ -87,5 +79,5 @@
   "score": 10.404000000000002,
   "songCount": 1,
   "songAdjustedAverage": 10.404000000000002,
-  "rank": 184
+  "rank": 187
 }

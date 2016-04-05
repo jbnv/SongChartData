@@ -34,13 +34,8 @@
       "debut": "1977-03",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        8,
-        4.2,
-        3,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.306,
@@ -64,7 +59,7 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
+      "peakScore": 0.633,
       "duration": 5,
       "score": 7.465000000000002,
       "genres": [
@@ -85,12 +80,8 @@
       "debut": "1979-09",
       "playlists": [
       ],
-      "ranks": [
-        16.5,
-        5.2,
-        5.4,
-        6.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.065,
         0.45,
@@ -111,8 +102,8 @@
         0
       ],
       "debutScore": 0.065,
-      "peakScore": 0.065,
-      "duration": 4.25,
+      "peakScore": 0.45,
+      "duration": 5,
       "score": 4.215,
       "genres": [
         "adult-contemporary"
@@ -132,11 +123,8 @@
       "debut": "1978-07",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        7,
-        8.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.351,
@@ -154,8 +142,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 3.5,
+      "peakScore": 0.351,
+      "duration": 4,
       "score": 2.6039999999999996,
       "genres": [
         "adult-contemporary"
@@ -175,8 +163,8 @@
       "debut": "1978-04",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "adult-contemporary"

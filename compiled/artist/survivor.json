@@ -40,16 +40,8 @@
       "debut": "1986-11",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        10,
-        4,
-        1.95,
-        2.1,
-        2.27,
-        2.48,
-        2.85
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.232,
@@ -77,7 +69,7 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
+      "peakScore": 0.777,
       "duration": 6,
       "score": 10.796000000000003,
       "genres": [
@@ -102,16 +94,8 @@
       "source": "rocky-4",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        12.6,
-        9.5,
-        7.5,
-        6.8,
-        6.5,
-        7.2,
-        8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.155,
@@ -134,8 +118,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.376,
+      "duration": 5,
       "score": 4.093999999999999,
       "genres": [
         "rock"
@@ -160,16 +144,8 @@
       "source": "rocky-3",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        13,
-        10,
-        8.5,
-        7.6,
-        7,
-        7.5,
-        8.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.145,
@@ -192,8 +168,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.351,
+      "duration": 5,
       "score": 3.685,
       "genres": [
         "rock"
@@ -213,15 +189,8 @@
       "debut": "1984-11",
       "playlists": [
       ],
-      "ranks": [
-        21,
-        14.5,
-        11.1,
-        9.3,
-        8.5,
-        8,
-        9.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.108,
         0.197,
@@ -241,7 +210,7 @@
         0
       ],
       "debutScore": 0.108,
-      "peakScore": 0.108,
+      "peakScore": 0.306,
       "duration": 4,
       "score": 2.9280000000000004,
       "genres": [
@@ -265,8 +234,8 @@
       "debut": "1985-05",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -286,8 +255,8 @@
       "debut": "1985-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -300,5 +269,5 @@
   "score": 21.503000000000004,
   "songCount": 6,
   "songAdjustedAverage": 8.778562989844449,
-  "rank": 283
+  "rank": 285
 }

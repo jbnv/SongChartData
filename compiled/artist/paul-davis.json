@@ -39,15 +39,8 @@
       ],
       "genre": "pop",
       "debut": "1982-03",
-      "ranks": [
-        5,
-        1,
-        1.09,
-        1.18,
-        1.27,
-        1.4,
-        1.54
-      ],
+      "ranks": {
+      },
       "scores": [
         0.463,
         1,
@@ -77,8 +70,8 @@
         0
       ],
       "debutScore": 0.463,
-      "peakScore": 0.463,
-      "duration": 6.5,
+      "peakScore": 1,
+      "duration": 7,
       "score": 15.748999999999999,
       "genres": [
         "pop"
@@ -97,15 +90,8 @@
       "debut": "1977-11",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        7,
-        4,
-        4.1,
-        4.2,
-        4.5,
-        4.89
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.351,
@@ -130,8 +116,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.25,
+      "peakScore": 0.537,
+      "duration": 6,
       "score": 6.816000000000001,
       "role": true,
       "scoreFactor": 1,
@@ -144,12 +130,8 @@
       ],
       "genre": "pop",
       "debut": "1981-12",
-      "ranks": [
-        15,
-        3.5,
-        1.5,
-        1.61
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.582,
@@ -175,8 +157,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.864,
+      "duration": 6,
       "score": 2.9589999999999996,
       "genres": [
         "pop"
@@ -196,8 +178,8 @@
       "debut": "1978-10",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,
@@ -213,8 +195,8 @@
       "debut": "1980-04",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,
@@ -224,5 +206,5 @@
   "score": 25.523999999999997,
   "songCount": 5,
   "songAdjustedAverage": 11.414679811540925,
-  "rank": 149
+  "rank": 151
 }

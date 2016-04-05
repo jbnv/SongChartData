@@ -32,199 +32,7 @@
       "texas"
     ],
     "artists": [
-      {
-        "title": "Meat Loaf",
-        "instanceSlug": "meatloaf",
-        "tags": [
-          "1970s",
-          "1990s"
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "rock-ballad"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "dallas",
-        "birth": "",
-        "death": "",
-        "type": "m",
-        "songs": [
-          {
-            "title": "I'd Do Anything for Love (But I Won't Do That)",
-            "instanceSlug": 721,
-            "tags": [
-              "i-would"
-            ],
-            "parents": [
-            ],
-            "genre": "rock-ballad",
-            "debut": "1993-10",
-            "playlists": [
-            ],
-            "ranks": [
-              20.5,
-              12,
-              8.9,
-              7.5,
-              7.1,
-              6.8,
-              7.4,
-              9,
-              11.25,
-              14.06,
-              17.58,
-              21.97,
-              27.47,
-              34.33,
-              42.92,
-              53.64
-            ],
-            "artists": [
-              {
-                "slug": "meatloaf",
-                "title": "Meat Loaf",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 20.5,
-            "peakRank": 6.8,
-            "duration": 4,
-            "score": 7.31,
-            "genres": [
-              {
-                "slug": "rock-ballad",
-                "title": "Rock Ballad"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Rock and Roll Dreams Come Through",
-            "instanceSlug": 2251,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rock-ballad",
-            "debut": "1994-02",
-            "playlists": [
-            ],
-            "ranks": [
-              18.5,
-              15,
-              13,
-              11,
-              12.5,
-              15.63,
-              19.53,
-              24.41,
-              30.52,
-              38.15,
-              47.68,
-              59.6
-            ],
-            "artists": [
-              {
-                "slug": "meatloaf",
-                "title": "Meat Loaf",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18.5,
-            "peakRank": 11,
-            "duration": 3,
-            "score": 2.16,
-            "genres": [
-              {
-                "slug": "rock-ballad",
-                "title": "Rock Ballad"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "I'd Lie For You (And That's the Truth)",
-            "instanceSlug": 1362,
-            "tags": [
-              "for-you"
-            ],
-            "parents": [
-            ],
-            "genre": "rock-ballad",
-            "debut": "1995-11",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "meatloaf",
-                "title": "Meat Loaf",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rock-ballad",
-                "title": "Rock Ballad"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Paradise by the Dashboard Light",
-            "instanceSlug": 414,
-            "tags": [
-              "car"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1978-10",
-            "playlists": [
-            ],
-            "ranks": [
-              25,
-              30,
-              37.5,
-              46.88,
-              58.59,
-              73.24,
-              91.55,
-              114.44
-            ],
-            "artists": [
-              {
-                "slug": "meatloaf",
-                "title": "Meat Loaf",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 25,
-            "peakRank": 25,
-            "duration": 2,
-            "score": 0,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          }
-        ],
-        "score": 9.47,
-        "songAdjustedAverage": 4.74,
-        "rank": 625
-      }
-    ],
-    "score": 9.47,
-    "artistAdjustedAverage": 9.47
+    ]
   },
   "birth": "",
   "death": "",
@@ -251,16 +59,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        20.5,
-        12,
-        8.9,
-        7.5,
-        7.1,
-        6.8,
-        7.4,
-        9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.271,
@@ -281,8 +81,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 4.25,
+      "peakScore": 0.361,
+      "duration": 5,
       "score": 3.6540000000000004,
       "genres": [
         "rock"
@@ -303,13 +103,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        19,
-        12,
-        10,
-        8,
-        8.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.171,
@@ -328,8 +123,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 3.75,
+      "peakScore": 0.306,
+      "duration": 4,
       "score": 2.6120000000000005,
       "genres": [
         "pop"
@@ -348,13 +143,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        18.5,
-        15,
-        13,
-        11,
-        12.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.027,
         0.097,
@@ -371,8 +161,8 @@
         0
       ],
       "debutScore": 0.027,
-      "peakScore": 0.027,
-      "duration": 3.25,
+      "peakScore": 0.2,
+      "duration": 4,
       "score": 1.3130000000000002,
       "genres": [
         "rock"
@@ -394,8 +184,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -416,10 +206,8 @@
       "debut": "1978-10",
       "playlists": [
       ],
-      "ranks": [
-        25,
-        30
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

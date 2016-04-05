@@ -51,14 +51,8 @@
       "debut": "1983-04",
       "playlists": [
       ],
-      "ranks": [
-        16.2,
-        9.5,
-        4.5,
-        3.2,
-        2.9,
-        3.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.071,
         0.249,
@@ -83,8 +77,8 @@
         0
       ],
       "debutScore": 0.071,
-      "peakScore": 0.071,
-      "duration": 5.25,
+      "peakScore": 0.645,
+      "duration": 6,
       "score": 8.08,
       "genres": [
         "rock"
@@ -108,19 +102,8 @@
       "debut": "1986-10",
       "playlists": [
       ],
-      "ranks": [
-        12.5,
-        10,
-        7.5,
-        5,
-        5.2,
-        5.5,
-        5.9,
-        6.4,
-        6.9,
-        7.6,
-        8.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.158,
         0.232,
@@ -146,8 +129,8 @@
         0
       ],
       "debutScore": 0.158,
-      "peakScore": 0.158,
-      "duration": 5.5,
+      "peakScore": 0.463,
+      "duration": 6,
       "score": 5.532,
       "genres": [
         "rock"
@@ -160,5 +143,5 @@
   "score": 13.612,
   "songCount": 2,
   "songAdjustedAverage": 9.625137505511285,
-  "rank": 246
+  "rank": 248
 }

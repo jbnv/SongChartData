@@ -34,16 +34,8 @@
       ],
       "genre": "rock",
       "debut": "1993-09",
-      "ranks": [
-        14.6,
-        7,
-        4,
-        3.32,
-        3,
-        3.2,
-        3.4,
-        3.78
-      ],
+      "ranks": {
+      },
       "scores": [
         0.106,
         0.351,
@@ -70,8 +62,8 @@
         0
       ],
       "debutScore": 0.106,
-      "peakScore": 0.106,
-      "duration": 5.75,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 8.971000000000004,
       "genres": [
         "rock"
@@ -91,8 +83,8 @@
       "debut": "1994-10",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "alternative-rock"

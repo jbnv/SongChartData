@@ -34,16 +34,8 @@
       "debut": "1989-11",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        10.5,
-        7.5,
-        4.9,
-        4.3,
-        3.9,
-        4.4,
-        5.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.216,
@@ -69,8 +61,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.546,
+      "duration": 6,
       "score": 6.785,
       "genres": [
         "pop"
@@ -89,14 +81,8 @@
       "debut": "1980-02",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        6,
-        4.4,
-        3.2,
-        3,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.402,
@@ -121,8 +107,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 2.0825000000000005,
       "role": "member",
       "scoreFactor": 0.25,
@@ -139,18 +125,8 @@
       ],
       "genre": true,
       "debut": 1989,
-      "ranks": [
-        19.9,
-        11.3,
-        6.4,
-        4.3,
-        7.8,
-        14,
-        25.1,
-        44.9,
-        80.3,
-        143.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.003,
         0.191,
@@ -167,8 +143,8 @@
         0
       ],
       "debutScore": 0.003,
-      "peakScore": 0.003,
-      "duration": 3.25,
+      "peakScore": 0.513,
+      "duration": 4,
       "score": 1.963,
       "genres": [
         true
@@ -189,17 +165,8 @@
       ],
       "genre": true,
       "debut": 1987,
-      "ranks": [
-        19.9,
-        11.8,
-        7,
-        11.5,
-        19,
-        31.4,
-        51.7,
-        85.3,
-        140.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.003,
         0.177,
@@ -211,7 +178,7 @@
         0
       ],
       "debutScore": 0.003,
-      "peakScore": 0.003,
+      "peakScore": 0.351,
       "duration": 2,
       "score": 0.75,
       "genres": [
@@ -232,8 +199,8 @@
       "debut": 1992,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -254,8 +221,8 @@
       "debut": "1989-08",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         true

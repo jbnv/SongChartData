@@ -25,13 +25,8 @@
       "debut": "1985-08",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.3,
-        5.4,
-        5.8,
-        8.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -51,7 +46,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.437,
       "duration": 4,
       "score": 3.229999999999999,
       "genres": [

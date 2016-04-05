@@ -27,18 +27,8 @@
       "debut": 1983,
       "playlists": [
       ],
-      "ranks": [
-        18,
-        10,
-        7,
-        5,
-        3.5,
-        3.3,
-        3.5,
-        3.7,
-        3.9,
-        4.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.232,
@@ -66,7 +56,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.602,
       "duration": 6,
       "score": 8.654,
       "genres": [
@@ -80,5 +70,5 @@
   "score": 8.654,
   "songCount": 1,
   "songAdjustedAverage": 8.654,
-  "rank": 288
+  "rank": 290
 }

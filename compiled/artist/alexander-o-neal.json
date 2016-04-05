@@ -38,11 +38,8 @@
         "urban"
       ],
       "debut": "1987-09",
-      "ranks": [
-        10.3,
-        1.2,
-        1.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.222,
         0.939,
@@ -68,8 +65,8 @@
         0
       ],
       "debutScore": 0.222,
-      "peakScore": 0.222,
-      "duration": 5.5,
+      "peakScore": 0.939,
+      "duration": 6,
       "score": 12.314000000000004,
       "role": true,
       "scoreFactor": 1,
@@ -87,15 +84,8 @@
       "debut": "1988-03",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        9,
-        6,
-        4,
-        3,
-        3.2,
-        3.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.267,
@@ -121,8 +111,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 5.5,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 7.996999999999999,
       "role": true,
       "scoreFactor": 1,
@@ -139,14 +129,8 @@
       "debut": "1991-04",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        10,
-        7,
-        5,
-        5.2,
-        5.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.232,
@@ -169,8 +153,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 4.998,
       "genres": [
         "soul"
@@ -190,15 +174,8 @@
       "debut": "1986-04",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        10,
-        5,
-        3,
-        3.1,
-        3.4,
-        3.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.232,
@@ -224,8 +201,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.5,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 2.0655,
       "genres": [
         "soul"

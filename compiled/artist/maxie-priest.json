@@ -41,16 +41,8 @@
       ],
       "genre": "pop",
       "debut": "1990-08",
-      "ranks": [
-        15,
-        8.5,
-        4.8,
-        3.1,
-        2.3,
-        2.2,
-        2.45,
-        2.75
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.286,
@@ -78,7 +70,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.737,
       "duration": 6,
       "score": 10.834000000000001,
       "genres": [
@@ -104,15 +96,8 @@
       "playlists": [
         "remake"
       ],
-      "ranks": [
-        15,
-        6,
-        2.5,
-        2.2,
-        2.4,
-        2.7,
-        3.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.402,
@@ -139,8 +124,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.75,
+      "peakScore": 0.737,
+      "duration": 6,
       "score": 9.698,
       "genres": [
         "pop"
@@ -160,14 +145,8 @@
       ],
       "genre": "pop",
       "debut": "1996-08",
-      "ranks": [
-        17.5,
-        6.1,
-        4.4,
-        4.1,
-        4.2,
-        5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.045,
         0.397,
@@ -191,7 +170,7 @@
         0
       ],
       "debutScore": 0.045,
-      "peakScore": 0.045,
+      "peakScore": 0.529,
       "duration": 5,
       "score": 6.205000000000001,
       "genres": [
@@ -214,16 +193,8 @@
       "debut": "1991-10",
       "playlists": [
       ],
-      "ranks": [
-        14.1,
-        4.8,
-        3.5,
-        3.35,
-        3.19,
-        3.36,
-        3.72,
-        4.25
-      ],
+      "ranks": {
+      },
       "scores": [
         0.117,
         0.477,
@@ -249,8 +220,8 @@
         0
       ],
       "debutScore": 0.117,
-      "peakScore": 0.117,
-      "duration": 5.5,
+      "peakScore": 0.613,
+      "duration": 6,
       "score": 2.12675,
       "genres": [
         "pop"
@@ -272,13 +243,8 @@
       "debut": "1991-12",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        13,
-        12,
-        12.5,
-        14.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.145,
@@ -294,7 +260,7 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
+      "peakScore": 0.171,
       "duration": 3,
       "score": 1.054,
       "genres": [

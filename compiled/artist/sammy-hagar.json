@@ -36,14 +36,8 @@
       "debut": "1983-02",
       "playlists": [
       ],
-      "ranks": [
-        14.4,
-        7.9,
-        4.2,
-        2.1,
-        2.25,
-        2.58
-      ],
+      "ranks": {
+      },
       "scores": [
         0.11,
         0.311,
@@ -70,8 +64,8 @@
         0
       ],
       "debutScore": 0.11,
-      "peakScore": 0.11,
-      "duration": 5.75,
+      "peakScore": 0.752,
+      "duration": 6,
       "score": 9.970999999999998,
       "genres": [
         "rock"
@@ -94,12 +88,8 @@
       "debut": "1995-04",
       "playlists": [
       ],
-      "ranks": [
-        14,
-        5,
-        2,
-        2.31
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.463,
@@ -124,8 +114,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.25,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 2.37775,
       "genres": [
         "hard-rock"
@@ -145,15 +135,8 @@
       "debut": "1986-09",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11,
-        8,
-        6.1,
-        5,
-        5.4,
-        5.95
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.2,
@@ -177,7 +160,7 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
+      "peakScore": 0.463,
       "duration": 5,
       "score": 1.3257499999999995,
       "genres": [
@@ -198,15 +181,8 @@
       "debut": "1988-08",
       "playlists": [
       ],
-      "ranks": [
-        18.3,
-        12.3,
-        9.3,
-        6.9,
-        6.3,
-        6.5,
-        7.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.031,
         0.163,
@@ -229,8 +205,8 @@
         0
       ],
       "debutScore": 0.031,
-      "peakScore": 0.031,
-      "duration": 4.75,
+      "peakScore": 0.386,
+      "duration": 5,
       "score": 1.0574999999999999,
       "genres": [
         "rock"
@@ -250,8 +226,8 @@
       "debut": "1988-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"
@@ -275,8 +251,8 @@
       "debut": 1984,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -301,8 +277,8 @@
       "debut": "1991-12",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -324,8 +300,8 @@
       "debut": "1986-04",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"
@@ -345,8 +321,8 @@
       "debut": "1986-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"

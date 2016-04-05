@@ -34,13 +34,8 @@
       "debut": "1983-08",
       "playlists": [
       ],
-      "ranks": [
-        17.5,
-        10.2,
-        5.9,
-        6.5,
-        7.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.045,
         0.225,
@@ -60,7 +55,7 @@
         0
       ],
       "debutScore": 0.045,
-      "peakScore": 0.045,
+      "peakScore": 0.408,
       "duration": 4,
       "score": 3.5069999999999997,
       "genres": [
@@ -81,17 +76,8 @@
       ],
       "genre": true,
       "debut": 1982,
-      "ranks": [
-        17.9,
-        10.6,
-        6.2,
-        9.5,
-        15.8,
-        26.3,
-        43.7,
-        72.6,
-        120.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.213,
@@ -106,8 +92,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 2.75,
+      "peakScore": 0.391,
+      "duration": 3,
       "score": 1.19,
       "genres": [
         true

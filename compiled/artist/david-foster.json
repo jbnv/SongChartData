@@ -38,16 +38,8 @@
       "playlists": [
       ],
       "source": "chicago17",
-      "ranks": [
-        17,
-        14,
-        11,
-        9,
-        8.5,
-        7.7,
-        7.4,
-        8.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.12,
@@ -70,8 +62,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.75,
+      "peakScore": 0.332,
+      "duration": 5,
       "score": 0.7602,
       "role": "producer",
       "scoreFactor": 0.2,
@@ -92,15 +84,8 @@
       "playlists": [
       ],
       "source": "chicago17",
-      "ranks": [
-        20,
-        15,
-        10,
-        11,
-        12,
-        13,
-        15
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.097,
@@ -117,8 +102,8 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
-      "duration": 3.25,
+      "peakScore": 0.232,
+      "duration": 4,
       "score": 0.25060000000000004,
       "role": "producer",
       "scoreFactor": 0.2,
@@ -139,14 +124,8 @@
       "playlists": [
       ],
       "source": "chicago17",
-      "ranks": [
-        24,
-        18,
-        15,
-        12,
-        13,
-        14.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.097,
@@ -161,8 +140,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 2.75,
+      "peakScore": 0.171,
+      "duration": 3,
       "score": 0.17600000000000002,
       "role": "producer",
       "scoreFactor": 0.2,
@@ -180,8 +159,8 @@
       "playlists": [
         "instrumental"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "source": "st-elmo-s-fire",
       "scores": null,
       "role": true,
@@ -201,8 +180,8 @@
       "debut": "1985-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": "producer",
       "scoreFactor": 0.2,

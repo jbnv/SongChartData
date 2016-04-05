@@ -34,17 +34,8 @@
       ],
       "genre": "pop",
       "debut": "1990-02",
-      "ranks": [
-        13.9,
-        3.4,
-        1,
-        1.09,
-        1.18,
-        1.29,
-        1.41,
-        1.56,
-        1.79
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.592,
@@ -75,8 +66,8 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
-      "duration": 6.75,
+      "peakScore": 1,
+      "duration": 7,
       "score": 11.943749999999998,
       "genres": [
         "pop"
@@ -97,12 +88,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        9,
-        2.6,
-        1.75,
-        1.89
-      ],
+      "ranks": {
+      },
       "scores": [
         0.267,
         0.681,
@@ -128,8 +115,8 @@
         0
       ],
       "debutScore": 0.267,
-      "peakScore": 0.267,
-      "duration": 5.5,
+      "peakScore": 0.813,
+      "duration": 6,
       "score": 11.082,
       "genres": [
         "rock"
@@ -152,20 +139,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        17,
-        8,
-        4.5,
-        2.9,
-        2.5,
-        2.5,
-        2.7,
-        3,
-        3.5,
-        4,
-        4.5,
-        5.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.306,
@@ -194,8 +169,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 6.25,
+      "peakScore": 0.694,
+      "duration": 7,
       "score": 7.3215,
       "genres": [
         "pop"
@@ -215,8 +190,8 @@
       "debut": "1991-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -235,10 +210,8 @@
       "debut": 1989,
       "playlists": [
       ],
-      "ranks": [
-        30,
-        31
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": "lead",
       "scoreFactor": 0.75,

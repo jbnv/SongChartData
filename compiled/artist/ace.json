@@ -32,12 +32,8 @@
         "cheating",
         "feb13"
       ],
-      "ranks": [
-        14,
-        1.5,
-        1.69,
-        2.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.864,
@@ -62,8 +58,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.25,
+      "peakScore": 0.864,
+      "duration": 6,
       "score": 10.513,
       "genres": [
         "pop"
@@ -76,5 +72,5 @@
   "score": 10.513,
   "songCount": 1,
   "songAdjustedAverage": 10.513,
-  "rank": 181
+  "rank": 184
 }

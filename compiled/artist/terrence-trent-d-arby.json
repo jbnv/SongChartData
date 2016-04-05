@@ -27,14 +27,8 @@
       "debut": 1988,
       "playlists": [
       ],
-      "ranks": [
-        21.5,
-        15,
-        12.5,
-        10,
-        10.7,
-        12.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.158,
@@ -51,8 +45,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 3.25,
+      "peakScore": 0.232,
+      "duration": 4,
       "score": 1.6199999999999999,
       "genres": [
         "pop"
@@ -72,13 +66,8 @@
       ],
       "genre": true,
       "debut": 1988,
-      "ranks": [
-        19.9,
-        12,
-        32.4,
-        88.3,
-        241
-      ],
+      "ranks": {
+      },
       "scores": [
         0.003,
         0.171,
@@ -86,7 +75,7 @@
         0
       ],
       "debutScore": 0.003,
-      "peakScore": 0.003,
+      "peakScore": 0.171,
       "duration": 1,
       "score": 0.17700000000000002,
       "genres": [

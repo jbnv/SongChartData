@@ -39,16 +39,8 @@
       ],
       "genre": "pop",
       "debut": "1986-08",
-      "ranks": [
-        21,
-        15.5,
-        13,
-        13.3,
-        13.9,
-        14.8,
-        16.1,
-        17.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.145,
@@ -63,8 +55,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.042,
-      "duration": 2.75,
+      "peakScore": 0.145,
+      "duration": 3,
       "score": 0.782,
       "genres": [
         "pop"

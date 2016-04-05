@@ -37,13 +37,8 @@
       "debut": "2015-08",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        15,
-        7,
-        3,
-        3.25
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.097,
@@ -68,8 +63,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 5.25,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 7.4289999999999985,
       "genres": [
         "pop"
@@ -82,5 +77,5 @@
   "score": 7.4289999999999985,
   "songCount": 1,
   "songAdjustedAverage": 7.4289999999999985,
-  "rank": 351
+  "rank": 352
 }

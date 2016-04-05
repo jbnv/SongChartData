@@ -25,12 +25,8 @@
       "playlists": [
         "pph"
       ],
-      "ranks": [
-        14.5,
-        8.6,
-        6.5,
-        8.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.108,
         0.282,
@@ -49,8 +45,8 @@
         0
       ],
       "debutScore": 0.108,
-      "peakScore": 0.108,
-      "duration": 3.75,
+      "peakScore": 0.376,
+      "duration": 4,
       "score": 2.7239999999999998,
       "genres": [
         "funk"

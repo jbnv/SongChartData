@@ -30,18 +30,8 @@
         "love",
         "ballad"
       ],
-      "ranks": [
-        16,
-        9,
-        6,
-        3.5,
-        2.5,
-        2.75,
-        3,
-        3.3,
-        3.7,
-        4.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.267,
@@ -69,7 +59,7 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
+      "peakScore": 0.694,
       "duration": 6,
       "score": 9.289000000000001,
       "genres": [
@@ -90,8 +80,8 @@
       "debut": 1992,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"
@@ -112,8 +102,8 @@
       "playlists": [
         "inanimate"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"

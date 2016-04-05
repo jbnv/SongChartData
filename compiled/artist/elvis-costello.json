@@ -34,15 +34,8 @@
       ],
       "genre": "pop",
       "debut": "1989-06",
-      "ranks": [
-        18,
-        10,
-        6,
-        5,
-        5.1,
-        5.6,
-        6.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.232,
@@ -66,7 +59,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.463,
       "duration": 5,
       "score": 5.277,
       "genres": [
@@ -87,14 +80,8 @@
       "debut": "1983-11",
       "playlists": [
       ],
-      "ranks": [
-        21,
-        14,
-        9,
-        8,
-        8.5,
-        10.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.267,
@@ -113,8 +100,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 3.75,
+      "peakScore": 0.306,
+      "duration": 4,
       "score": 2.404,
       "genres": [
         "art-rock"

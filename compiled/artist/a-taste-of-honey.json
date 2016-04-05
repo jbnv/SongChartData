@@ -34,13 +34,8 @@
       "debut": "1978-08",
       "playlists": [
       ],
-      "ranks": [
-        20,
-        11.3,
-        6.4,
-        4.3,
-        7.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.191,
@@ -60,7 +55,7 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
+      "peakScore": 0.513,
       "duration": 4,
       "score": 3.4509999999999996,
       "genres": [

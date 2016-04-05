@@ -31,13 +31,8 @@
       "source": "dangerous",
       "genre": "pop",
       "debut": "1992-08",
-      "ranks": [
-        19.9,
-        11.4,
-        6.5,
-        4.9,
-        5.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.003,
         0.188,
@@ -59,8 +54,8 @@
         0
       ],
       "debutScore": 0.003,
-      "peakScore": 0.003,
-      "duration": 4.5,
+      "peakScore": 0.47,
+      "duration": 5,
       "score": 0.45990000000000003,
       "genres": [
         "pop"

@@ -25,16 +25,8 @@
       "debut": "1995-01",
       "playlists": [
       ],
-      "ranks": [
-        14.6,
-        7,
-        3.5,
-        2.9,
-        2.5,
-        2.3,
-        2.52,
-        2.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.106,
         0.351,
@@ -62,7 +54,7 @@
         0
       ],
       "debutScore": 0.106,
-      "peakScore": 0.106,
+      "peakScore": 0.722,
       "duration": 6,
       "score": 10.710999999999999,
       "genres": [
@@ -85,8 +77,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "dance"
@@ -99,5 +91,5 @@
   "score": 10.710999999999999,
   "songCount": 2,
   "songAdjustedAverage": 7.573820733289109,
-  "rank": 340
+  "rank": 341
 }

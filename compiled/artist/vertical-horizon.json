@@ -34,15 +34,8 @@
       "debut": "2000-02",
       "playlists": [
       ],
-      "ranks": [
-        8.5,
-        1,
-        1.09,
-        1.19,
-        1.31,
-        1.43,
-        1.57
-      ],
+      "ranks": {
+      },
       "scores": [
         0.286,
         1,
@@ -71,8 +64,8 @@
         0
       ],
       "debutScore": 0.286,
-      "peakScore": 0.286,
-      "duration": 6.25,
+      "peakScore": 1,
+      "duration": 7,
       "score": 15.425,
       "genres": [
         "rock"
@@ -92,15 +85,8 @@
       "debut": "2000-10",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        14,
-        10.5,
-        8,
-        8.5,
-        9.3,
-        10.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.12,
@@ -120,7 +106,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.306,
       "duration": 4,
       "score": 2.4739999999999993,
       "genres": [

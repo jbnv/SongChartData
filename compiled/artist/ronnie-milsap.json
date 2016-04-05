@@ -25,558 +25,7 @@
       "us"
     ],
     "artists": [
-      {
-        "title": "Ronnie Milsap",
-        "instanceSlug": "ronnie-milsap",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "country"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "north-carolina",
-        "birth": 1943,
-        "death": "",
-        "type": "m",
-        "songs": [
-          {
-            "title": "Stranger in My House",
-            "instanceSlug": 71,
-            "tags": [
-            ],
-            "playlists": [
-              {
-                "slug": "feb13",
-                "title": "Feb. 13: Breakups, Cheating & Lost Loves"
-              },
-              {
-                "slug": "cheating"
-              }
-            ],
-            "genre": "country",
-            "debut": "1983-04",
-            "ranks": [
-              14.4,
-              4.5,
-              2.88,
-              3.02,
-              3.15,
-              3.31,
-              3.69,
-              4.61,
-              5.77,
-              7.21,
-              9.01,
-              11.26,
-              14.08,
-              17.6,
-              21.99,
-              27.49,
-              34.37,
-              42.96,
-              53.7,
-              67.12
-            ],
-            "artists": [
-              {
-                "slug": "ronnie-milsap",
-                "title": "Ronnie Milsap",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 14.4,
-            "peakRank": 2.88,
-            "duration": 5,
-            "score": 16.63,
-            "genres": [
-              {
-                "slug": "country",
-                "title": "Country"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "I Wouldn't Have Missed It for the World",
-            "instanceSlug": 1529,
-            "tags": [
-              "#1",
-              "#1-country"
-            ],
-            "parents": [
-            ],
-            "genre": "country",
-            "debut": "1981-12",
-            "playlists": [
-            ],
-            "ranks": [
-              16,
-              10,
-              5,
-              3.3,
-              2.7,
-              2.8,
-              3.4,
-              4.25,
-              5.31,
-              6.64,
-              8.3,
-              10.38,
-              12.97,
-              16.21,
-              20.27,
-              25.33,
-              31.66,
-              39.58,
-              49.48,
-              61.85
-            ],
-            "artists": [
-              {
-                "slug": "ronnie-milsap",
-                "title": "Ronnie Milsap",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 16,
-            "peakRank": 2.7,
-            "duration": 5,
-            "score": 16.06,
-            "genres": [
-              {
-                "slug": "country",
-                "title": "Country"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "No Gettin' Over Me",
-            "instanceSlug": 905,
-            "tags": [
-              "#1",
-              "#1-country"
-            ],
-            "parents": [
-            ],
-            "genre": "country",
-            "debut": "1981-10",
-            "playlists": [
-            ],
-            "ranks": [
-              17,
-              9.8,
-              5.7,
-              5.3,
-              6.3,
-              7.88,
-              9.84,
-              12.3,
-              15.38,
-              19.23,
-              24.03,
-              30.04,
-              37.55,
-              46.94,
-              58.67,
-              73.34
-            ],
-            "artists": [
-              {
-                "slug": "ronnie-milsap",
-                "title": "Ronnie Milsap",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17,
-            "peakRank": 5.3,
-            "duration": 4,
-            "score": 7.09,
-            "genres": [
-              {
-                "slug": "country",
-                "title": "Country"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Smoky Mountain Rain",
-            "instanceSlug": 1792,
-            "tags": [
-              "#1",
-              "#1-country"
-            ],
-            "parents": [
-            ],
-            "genre": "country",
-            "debut": "1981-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ronnie-milsap",
-                "title": "Ronnie Milsap",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "country",
-                "title": "Country"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Any Day Now",
-            "instanceSlug": 2810,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "#1-country"
-            ],
-            "parents": [
-            ],
-            "genre": "country",
-            "debut": "1982-06",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ronnie-milsap",
-                "title": "Ronnie Milsap",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "country",
-                "title": "Country"
-              }
-            ],
-            "rank": 5
-          }
-        ],
-        "score": 39.78,
-        "songAdjustedAverage": 17.79,
-        "rank": 229
-      },
-      {
-        "title": "Roberta Flack",
-        "instanceSlug": "roberta-flack",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "urban"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "north-carolina",
-        "birth": 1939,
-        "death": "",
-        "type": "f",
-        "songs": [
-          {
-            "title": "Set the Night to Music",
-            "instanceSlug": 958,
-            "tags": [
-              "music",
-              "night"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1991-10",
-            "playlists": [
-            ],
-            "ranks": [
-              14.1,
-              4.8,
-              3.5,
-              3.35,
-              3.19,
-              3.36,
-              3.72,
-              4.25,
-              5.31,
-              6.64,
-              8.3,
-              10.38,
-              12.97,
-              16.21,
-              20.27,
-              25.33,
-              31.66,
-              39.58,
-              49.48,
-              61.85
-            ],
-            "artists": [
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              },
-              {
-                "slug": "maxie-priest",
-                "title": "Maxi Priest",
-                "roleSlug": "feature"
-              }
-            ],
-            "debutRank": 14.1,
-            "peakRank": 3.19,
-            "duration": 5,
-            "score": 16.82,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Tonight I Celebrate My Love",
-            "instanceSlug": 353,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "soul",
-            "debut": "1983-09",
-            "playlists": [
-            ],
-            "ranks": [
-              17.9,
-              10.5,
-              6.1,
-              5.4,
-              6.2,
-              7.75,
-              9.69,
-              12.11,
-              15.14,
-              18.92,
-              23.65,
-              29.56,
-              36.95,
-              46.19,
-              57.74,
-              72.18
-            ],
-            "artists": [
-              {
-                "slug": "peabo-bryson",
-                "title": "Peabo Bryson",
-                "roleSlug": true
-              },
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17.9,
-            "peakRank": 5.4,
-            "duration": 4,
-            "score": 6.97,
-            "genres": [
-              {
-                "slug": "soul",
-                "title": "Soul"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "The Closer I Get to You",
-            "instanceSlug": 1850,
-            "tags": [
-              "#1",
-              "#1-r&b",
-              "#2-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1978-04",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              },
-              {
-                "slug": "donny-hathaway",
-                "title": "Donny Hathaway",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "The First Time Ever I Saw Your Face",
-            "instanceSlug": 2739,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": 1972,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Where Is the Love",
-            "instanceSlug": 2740,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "#1-r&b"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": 1972,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              },
-              {
-                "slug": "donny-hathaway",
-                "title": "Donny Hathaway",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Killing Me Softly With His Song",
-            "instanceSlug": 2741,
-            "tags": [
-              "#1",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": 1973,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 6
-          },
-          {
-            "title": "Feel Like Making Love",
-            "instanceSlug": 2742,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "#1-hot-100",
-              "#1-r&b"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": 1974,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "roberta-flack",
-                "title": "Roberta Flack",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 7
-          }
-        ],
-        "score": 23.79,
-        "songAdjustedAverage": 8.99,
-        "rank": 480
-      }
-    ],
-    "score": 63.57,
-    "artistAdjustedAverage": 44.95
+    ]
   },
   "birth": 1943,
   "death": "",
@@ -603,15 +52,8 @@
       "debut": "1981-12",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        10,
-        5,
-        3.3,
-        2.7,
-        2.8,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.232,
@@ -637,8 +79,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.5,
+      "peakScore": 0.668,
+      "duration": 6,
       "score": 8.776000000000002,
       "genres": [
         "country"
@@ -658,15 +100,8 @@
       ],
       "genre": "country",
       "debut": "1983-04",
-      "ranks": [
-        14.4,
-        4.5,
-        2.88,
-        3.02,
-        3.15,
-        3.31,
-        3.69
-      ],
+      "ranks": {
+      },
       "scores": [
         0.11,
         0.498,
@@ -692,8 +127,8 @@
         0
       ],
       "debutScore": 0.11,
-      "peakScore": 0.11,
-      "duration": 5.5,
+      "peakScore": 0.647,
+      "duration": 6,
       "score": 8.764000000000001,
       "genres": [
         "country"
@@ -715,13 +150,8 @@
       "debut": "1981-10",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        9.8,
-        5.7,
-        5.3,
-        6.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.239,
@@ -742,8 +172,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.25,
+      "peakScore": 0.444,
+      "duration": 5,
       "score": 4.358999999999999,
       "genres": [
         "country"
@@ -765,8 +195,8 @@
       "debut": "1981-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "country"
@@ -789,8 +219,8 @@
       "debut": "1982-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "country"
@@ -803,5 +233,5 @@
   "score": 21.899,
   "songCount": 5,
   "songAdjustedAverage": 9.793530527853578,
-  "rank": 234
+  "rank": 237
 }

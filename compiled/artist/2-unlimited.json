@@ -24,17 +24,8 @@
       "debut": "1995-01",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        7,
-        4.5,
-        3.2,
-        2.78,
-        2.5,
-        2.65,
-        2.92,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.351,
@@ -62,7 +53,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.694,
       "duration": 6,
       "score": 10.308000000000002,
       "genres": [
@@ -76,5 +67,5 @@
   "score": 10.308000000000002,
   "songCount": 1,
   "songAdjustedAverage": 10.308000000000002,
-  "rank": 189
+  "rank": 193
 }

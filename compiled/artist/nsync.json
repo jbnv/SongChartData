@@ -33,291 +33,7 @@
       "florida"
     ],
     "artists": [
-      {
-        "title": "*NSYNC",
-        "instanceSlug": "nsync",
-        "tags": [
-          "1990s",
-          "2000s"
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "orlando",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "Pop",
-            "instanceSlug": 2985,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "2001-06",
-            "playlists": [
-            ],
-            "ranks": [
-              13,
-              2.8,
-              1.7,
-              1.99,
-              2.49,
-              3.11,
-              3.89,
-              4.86,
-              6.07,
-              7.59,
-              9.49,
-              11.86,
-              14.83,
-              18.53,
-              23.17,
-              28.96,
-              36.2,
-              45.25,
-              56.56,
-              70.7
-            ],
-            "artists": [
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 13,
-            "peakRank": 1.7,
-            "duration": 5,
-            "score": 18.03,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "It's Gonna Be Me",
-            "instanceSlug": 2984,
-            "tags": [
-              "#1",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "2000-06",
-            "playlists": [
-            ],
-            "ranks": [
-              15,
-              7,
-              4.5,
-              2.5,
-              2.6,
-              2.9,
-              3.63,
-              4.53,
-              5.66,
-              7.08,
-              8.85,
-              11.06,
-              13.83,
-              17.29,
-              21.61,
-              27.01,
-              33.76,
-              42.2,
-              52.75,
-              65.94
-            ],
-            "artists": [
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15,
-            "peakRank": 2.5,
-            "duration": 5,
-            "score": 16.35,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Bring It All to Me",
-            "instanceSlug": 1437,
-            "tags": [
-              "all",
-              "bring",
-              "it",
-              "me"
-            ],
-            "parents": [
-            ],
-            "genre": "urban",
-            "debut": "1999-12",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "blaque",
-                "title": "Blaque",
-                "roleSlug": true
-              },
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": "feature"
-              }
-            ],
-            "genres": [
-              {
-                "slug": "urban",
-                "title": "Urban / R&B"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "I Want You Back",
-            "instanceSlug": 2981,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1998-03",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Tearin' Up My Heart",
-            "instanceSlug": 2982,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1998-08",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Bye Bye Bye",
-            "instanceSlug": 2983,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "2000-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 6
-          },
-          {
-            "title": "Gone",
-            "instanceSlug": 2986,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "2001-11",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "nsync",
-                "title": "*NSYNC",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 7
-          }
-        ],
-        "score": 34.38,
-        "songAdjustedAverage": 12.99,
-        "rank": 349
-      }
-    ],
-    "score": 34.38,
-    "artistAdjustedAverage": 34.38
+    ]
   },
   "birth": "",
   "death": "",
@@ -342,12 +58,8 @@
       "debut": "2001-06",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        2.8,
-        1.7,
-        1.99
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.656,
@@ -373,8 +85,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.5,
+      "peakScore": 0.823,
+      "duration": 6,
       "score": 10.639,
       "genres": [
         "pop"
@@ -396,14 +108,8 @@
       "debut": "2000-06",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        7,
-        4.5,
-        2.5,
-        2.6,
-        2.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.351,
@@ -429,8 +135,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.694,
+      "duration": 6,
       "score": 9.240999999999998,
       "genres": [
         "pop"
@@ -454,8 +160,8 @@
       "debut": "1999-12",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "urban"
@@ -475,8 +181,8 @@
       "debut": "1998-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -496,8 +202,8 @@
       "debut": "1998-08",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -517,8 +223,8 @@
       "debut": "2000-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -538,8 +244,8 @@
       "debut": "2001-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -552,5 +258,5 @@
   "score": 19.879999999999995,
   "songCount": 7,
   "songAdjustedAverage": 7.513933723423436,
-  "rank": 345
+  "rank": 346
 }

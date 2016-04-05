@@ -28,19 +28,8 @@
       "debut": "1985-02",
       "playlists": [
       ],
-      "ranks": [
-        13.5,
-        5.5,
-        3.2,
-        2.7,
-        2.5,
-        2.7,
-        2.9,
-        3.2,
-        3.5,
-        3.8,
-        4.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.132,
         0.431,
@@ -69,8 +58,8 @@
         0
       ],
       "debutScore": 0.132,
-      "peakScore": 0.132,
-      "duration": 6.25,
+      "peakScore": 0.694,
+      "duration": 7,
       "score": 10.295,
       "genres": [
         "dance"
@@ -83,5 +72,5 @@
   "score": 10.295,
   "songCount": 1,
   "songAdjustedAverage": 10.295,
-  "rank": 191
+  "rank": 195
 }

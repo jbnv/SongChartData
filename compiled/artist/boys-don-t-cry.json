@@ -25,15 +25,8 @@
       "debut": "1986-06",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        8.5,
-        4.8,
-        3.1,
-        2.4,
-        2.1,
-        2.43
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.286,
@@ -61,7 +54,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.752,
       "duration": 6,
       "score": 10.83,
       "genres": [
@@ -75,5 +68,5 @@
   "score": 10.83,
   "songCount": 1,
   "songAdjustedAverage": 10.83,
-  "rank": 169
+  "rank": 171
 }

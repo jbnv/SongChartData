@@ -36,14 +36,8 @@
       "debut": 2013,
       "playlists": [
       ],
-      "ranks": [
-        16.5,
-        7,
-        4,
-        3.5,
-        3.2,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.065,
         0.351,
@@ -68,8 +62,8 @@
         0
       ],
       "debutScore": 0.065,
-      "peakScore": 0.065,
-      "duration": 5.25,
+      "peakScore": 0.612,
+      "duration": 6,
       "score": 8.227000000000002,
       "genres": [
         "pop"
@@ -82,5 +76,5 @@
   "score": 8.227000000000002,
   "songCount": 1,
   "songAdjustedAverage": 8.227000000000002,
-  "rank": 315
+  "rank": 317
 }

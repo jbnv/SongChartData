@@ -24,13 +24,8 @@
       "debut": "2000-05",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        4.5,
-        3,
-        3.05,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.498,
@@ -54,7 +49,7 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
+      "peakScore": 0.633,
       "duration": 5,
       "score": 7.984000000000002,
       "genres": [
@@ -68,5 +63,5 @@
   "score": 7.984000000000002,
   "songCount": 1,
   "songAdjustedAverage": 7.984000000000002,
-  "rank": 326
+  "rank": 329
 }

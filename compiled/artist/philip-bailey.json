@@ -40,16 +40,8 @@
       "debut": "1984-12",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        8,
-        6,
-        5,
-        4,
-        4.5,
-        4,
-        4.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.306,
@@ -75,8 +67,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.5,
+      "peakScore": 0.537,
+      "duration": 6,
       "score": 7.319000000000001,
       "genres": [
         "pop"
@@ -89,5 +81,5 @@
   "score": 7.319000000000001,
   "songCount": 1,
   "songAdjustedAverage": 7.319000000000001,
-  "rank": 357
+  "rank": 358
 }

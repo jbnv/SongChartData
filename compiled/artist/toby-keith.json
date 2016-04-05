@@ -42,15 +42,8 @@
       "debut": "2003-05",
       "playlists": [
       ],
-      "ranks": [
-        15.5,
-        8.1,
-        5.9,
-        5.2,
-        5.3,
-        5.7,
-        7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.302,
@@ -73,8 +66,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
-      "duration": 4.75,
+      "peakScore": 0.45,
+      "duration": 5,
       "score": 4.891,
       "genres": [
         "country"
@@ -94,8 +87,8 @@
       "debut": "2011-10",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "country"

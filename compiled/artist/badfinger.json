@@ -32,14 +32,8 @@
       "debut": 1971,
       "playlists": [
       ],
-      "ranks": [
-        19,
-        10,
-        6.1,
-        5,
-        5.2,
-        5.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.232,
@@ -62,8 +56,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 0.5186999999999999,
       "genres": [
         "pop"

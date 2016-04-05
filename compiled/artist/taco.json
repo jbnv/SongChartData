@@ -28,13 +28,8 @@
       "playlists": [
         "remake"
       ],
-      "ranks": [
-        15.9,
-        9.3,
-        5.4,
-        5.1,
-        6.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -55,8 +50,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.25,
+      "peakScore": 0.456,
+      "duration": 5,
       "score": 4.368,
       "genres": [
         "pop"

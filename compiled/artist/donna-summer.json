@@ -56,16 +56,8 @@
       "debut": "1983-07",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        3.9,
-        2.1,
-        1.9,
-        2.1,
-        2.45,
-        2.9,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.546,
@@ -92,8 +84,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 5.75,
+      "peakScore": 0.786,
+      "duration": 6,
       "score": 10.257000000000001,
       "genres": [
         "dance"
@@ -113,11 +105,8 @@
       "debut": "1982-08",
       "playlists": [
       ],
-      "ranks": [
-        12,
-        2,
-        2.25
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.768,
@@ -141,7 +130,7 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
+      "peakScore": 0.768,
       "duration": 5,
       "score": 9.252,
       "genres": [
@@ -163,11 +152,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        12,
-        2,
-        2.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.768,
@@ -191,7 +177,7 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
+      "peakScore": 0.768,
       "duration": 5,
       "score": 8.895,
       "genres": [
@@ -212,13 +198,8 @@
       "debut": "1980-09",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.3,
-        5.4,
-        5.5,
-        7.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -238,7 +219,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.437,
       "duration": 4,
       "score": 3.7090000000000005,
       "genres": [
@@ -261,8 +242,8 @@
       "debut": "1979-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -283,7 +264,8 @@
       "source": "thank-god-it-s-friday",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "disco"
       ],
@@ -302,8 +284,8 @@
       "debut": 1977,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "disco"
@@ -313,21 +295,23 @@
       "rank": 7
     },
     {
-      "title": "Heaven Knows",
-      "instanceSlug": 1556,
+      "title": "MacArthur Park",
+      "instanceSlug": 2730,
       "tags": [
+        "#1",
+        "#1-hot-100"
       ],
       "parents": [
       ],
-      "genre": "dance",
-      "debut": "1979-02",
+      "genre": "disco",
+      "debut": "1978-10",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
-        "dance"
+        "disco"
       ],
       "role": true,
       "scoreFactor": 1,
@@ -346,8 +330,8 @@
       "debut": "1979-05",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "disco"
@@ -367,8 +351,8 @@
       "debut": 1976,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "disco"
@@ -388,8 +372,8 @@
       "debut": "1980-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "disco"
@@ -412,8 +396,8 @@
       "debut": "1979-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "disco"
@@ -433,8 +417,8 @@
       "debut": "1983-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -456,8 +440,8 @@
       "debut": "1979-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "disco"
@@ -467,23 +451,21 @@
       "rank": 14
     },
     {
-      "title": "MacArthur Park",
-      "instanceSlug": 2730,
+      "title": "Heaven Knows",
+      "instanceSlug": 1556,
       "tags": [
-        "#1",
-        "#1-hot-100"
       ],
       "parents": [
       ],
-      "genre": "disco",
-      "debut": "1978-10",
+      "genre": "dance",
+      "debut": "1979-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
-        "disco"
+        "dance"
       ],
       "role": true,
       "scoreFactor": 1,
@@ -493,5 +475,5 @@
   "score": 32.113,
   "songCount": 15,
   "songAdjustedAverage": 8.291540946450585,
-  "rank": 310
+  "rank": 312
 }

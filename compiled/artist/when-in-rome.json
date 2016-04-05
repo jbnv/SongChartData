@@ -28,14 +28,8 @@
       "debut": "1988-11",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        13,
-        10,
-        8.5,
-        7,
-        7.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.145,
@@ -56,8 +50,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.25,
+      "peakScore": 0.351,
+      "duration": 5,
       "score": 3.3969999999999994,
       "genres": [
         "pop"

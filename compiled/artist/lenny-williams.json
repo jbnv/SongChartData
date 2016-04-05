@@ -42,16 +42,8 @@
       "debut": "1987-10",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        3.9,
-        2.8,
-        2.1,
-        2.19,
-        2.33,
-        2.56,
-        2.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.546,
@@ -79,7 +71,7 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
+      "peakScore": 0.752,
       "duration": 6,
       "score": 1.1161,
       "genres": [

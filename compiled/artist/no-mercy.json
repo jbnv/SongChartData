@@ -38,14 +38,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        18,
-        11,
-        8,
-        7.1,
-        6.5,
-        7.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.2,
@@ -67,8 +61,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.5,
+      "peakScore": 0.376,
+      "duration": 5,
       "score": 3.9259999999999997,
       "genres": [
         "dance"
@@ -89,17 +83,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        19.2,
-        11.8,
-        8.5,
-        7.7,
-        7.3,
-        7.45,
-        7.82,
-        8.5,
-        9.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.015,
         0.177,
@@ -122,8 +107,8 @@
         0
       ],
       "debutScore": 0.015,
-      "peakScore": 0.015,
-      "duration": 4.75,
+      "peakScore": 0.337,
+      "duration": 5,
       "score": 3.699,
       "genres": [
         "dance"

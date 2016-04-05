@@ -33,14 +33,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        12,
-        3,
-        1,
-        1.03,
-        1.13,
-        1.25
-      ],
+      "ranks": {
+      },
       "note": "Project 4 weeks at #1.",
       "scores": [
         0.171,
@@ -70,8 +64,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 6.25,
+      "peakScore": 1,
+      "duration": 7,
       "score": 15.628,
       "genres": [
         "pop"
@@ -91,11 +85,8 @@
       "debut": "1990-10",
       "playlists": [
       ],
-      "ranks": [
-        16,
-        4,
-        4.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.537,
@@ -116,8 +107,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 4.25,
+      "peakScore": 0.537,
+      "duration": 5,
       "score": 5.2109999999999985,
       "genres": [
         "pop"

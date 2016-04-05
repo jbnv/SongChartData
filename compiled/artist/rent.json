@@ -35,7 +35,8 @@
       "source": "rent-2005",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         true
       ],

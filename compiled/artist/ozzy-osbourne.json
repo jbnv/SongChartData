@@ -32,8 +32,8 @@
       "debut": 1992,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -54,8 +54,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"

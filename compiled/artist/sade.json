@@ -27,16 +27,8 @@
       "debut": "1986-01",
       "playlists": [
       ],
-      "ranks": [
-        18.5,
-        13,
-        10,
-        8.2,
-        6.9,
-        6.5,
-        7.3,
-        9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.027,
         0.145,
@@ -58,8 +50,8 @@
         0
       ],
       "debutScore": 0.027,
-      "peakScore": 0.027,
-      "duration": 4.5,
+      "peakScore": 0.376,
+      "duration": 5,
       "score": 3.616,
       "genres": [
         "adult-contemporary"
@@ -79,8 +71,8 @@
       "debut": 1992,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soul"
@@ -100,8 +92,8 @@
       "debut": 1985,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

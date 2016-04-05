@@ -25,303 +25,7 @@
       "scotland"
     ],
     "artists": [
-      {
-        "title": "Simple Minds",
-        "instanceSlug": "simple-minds",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop-rock"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "glasgow",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "Alive and Kicking",
-            "instanceSlug": 1383,
-            "tags": [
-              "alive",
-              "kick",
-              "this-and-that"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1985-11",
-            "playlists": [
-            ],
-            "ranks": [
-              17.5,
-              10.9,
-              8.1,
-              7.2,
-              6.9,
-              7.05,
-              7.35,
-              7.8,
-              9,
-              11.25,
-              14.06,
-              17.58,
-              21.97,
-              27.47,
-              34.33,
-              42.92,
-              53.64,
-              67.06,
-              83.82,
-              104.77
-            ],
-            "artists": [
-              {
-                "slug": "simple-minds",
-                "title": "Simple Minds",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17.5,
-            "peakRank": 6.9,
-            "duration": 5,
-            "score": 8.62,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Don't You (Forget About Me)",
-            "instanceSlug": 1642,
-            "tags": [
-              "#1",
-              "#1-hot-100",
-              "#1-mainstream-rock"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1985-04",
-            "source": "breakfast-club",
-            "playlists": [
-            ],
-            "ranks": true,
-            "artists": [
-              {
-                "slug": "simple-minds",
-                "title": "Simple Minds",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Sanctify Yourself",
-            "instanceSlug": 1643,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1986-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "simple-minds",
-                "title": "Simple Minds",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "All the Things She Said",
-            "instanceSlug": 2861,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1986-05",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "simple-minds",
-                "title": "Simple Minds",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          }
-        ],
-        "score": 8.62,
-        "songAdjustedAverage": 4.31,
-        "rank": 637
-      },
-      {
-        "title": "Del Amitri",
-        "instanceSlug": "del-amitri",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop-rock"
-        ],
-        "members": [
-        ],
-        "complete": true,
-        "origin": "glasgow",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "Always The Last to Know",
-            "instanceSlug": 891,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1992-10",
-            "playlists": [
-            ],
-            "ranks": [
-              17.7,
-              10.6,
-              6.2,
-              5.9,
-              6.5,
-              7.5,
-              9.38,
-              11.72,
-              14.65,
-              18.31,
-              22.89,
-              28.61,
-              35.76,
-              44.7,
-              55.88,
-              69.85
-            ],
-            "artists": [
-              {
-                "slug": "del-amitri",
-                "title": "Del Amitri",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17.7,
-            "peakRank": 5.9,
-            "duration": 4,
-            "score": 6.99,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Roll to Me",
-            "instanceSlug": 1916,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1995-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "del-amitri",
-                "title": "Del Amitri",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Kiss This Thing Goodbye",
-            "instanceSlug": 2285,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1990-07",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "del-amitri",
-                "title": "Del Amitri",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 3
-          }
-        ],
-        "score": 6.99,
-        "songAdjustedAverage": 4.04,
-        "rank": 643
-      }
-    ],
-    "score": 15.61,
-    "artistAdjustedAverage": 11.04
+    ]
   },
   "birth": "",
   "death": "",
@@ -349,17 +53,8 @@
       "debut": "1985-11",
       "playlists": [
       ],
-      "ranks": [
-        17.5,
-        10.9,
-        8.1,
-        7.2,
-        6.9,
-        7.05,
-        7.35,
-        7.8,
-        9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.045,
         0.203,
@@ -382,8 +77,8 @@
         0
       ],
       "debutScore": 0.045,
-      "peakScore": 0.045,
-      "duration": 4.75,
+      "peakScore": 0.356,
+      "duration": 5,
       "score": 4.09,
       "genres": [
         "pop"
@@ -407,7 +102,8 @@
       "source": "breakfast-club",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "pop"
       ],
@@ -426,8 +122,8 @@
       "debut": "1986-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -447,8 +143,8 @@
       "debut": "1986-05",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

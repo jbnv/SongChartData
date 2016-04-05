@@ -41,15 +41,8 @@
       ],
       "genre": "rap",
       "debut": "1986-08",
-      "ranks": [
-        19,
-        14,
-        10,
-        8,
-        7.5,
-        7.7,
-        9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.12,
@@ -70,8 +63,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.25,
+      "peakScore": 0.328,
+      "duration": 5,
       "score": 3.1680000000000006,
       "genres": [
         "rap"

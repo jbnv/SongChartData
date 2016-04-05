@@ -36,14 +36,8 @@
       "debut": "1986-09",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        12,
-        8,
-        6,
-        5,
-        5.56
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.171,
@@ -66,8 +60,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 5.104000000000001,
       "genres": [
         "pop"

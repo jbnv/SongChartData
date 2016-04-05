@@ -32,13 +32,8 @@
       ],
       "genre": "urban",
       "debut": "1982-06",
-      "ranks": [
-        10,
-        5.6,
-        3.1,
-        1.8,
-        2.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.232,
         0.425,
@@ -64,8 +59,8 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
-      "duration": 5.5,
+      "peakScore": 0.804,
+      "duration": 6,
       "score": 9.801000000000002,
       "genres": [
         "urban"
@@ -78,5 +73,5 @@
   "score": 9.801000000000002,
   "songCount": 1,
   "songAdjustedAverage": 9.801000000000002,
-  "rank": 233
+  "rank": 236
 }

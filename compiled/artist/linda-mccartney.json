@@ -39,15 +39,8 @@
       "playlists": [
         "tribute"
       ],
-      "ranks": [
-        16.1,
-        10.1,
-        6.1,
-        5.2,
-        4.1,
-        4.25,
-        4.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.073,
         0.229,
@@ -72,8 +65,8 @@
         0
       ],
       "debutScore": 0.073,
-      "peakScore": 0.073,
-      "duration": 5.25,
+      "peakScore": 0.529,
+      "duration": 6,
       "score": 0.6948000000000001,
       "role": "backup",
       "scoreFactor": 0.1,
@@ -91,8 +84,8 @@
       "debut": 1971,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

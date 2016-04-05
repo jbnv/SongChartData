@@ -26,13 +26,8 @@
       "debut": "2001-10",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        10,
-        7.5,
-        5,
-        5.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.232,
@@ -54,8 +49,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 4.5,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 4.980999999999999,
       "genres": [
         "hard-rock"

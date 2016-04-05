@@ -36,19 +36,8 @@
       "debut": "1987-10",
       "playlists": [
       ],
-      "ranks": [
-        15.1,
-        8.6,
-        4.6,
-        2.4,
-        2.3,
-        2.35,
-        2.4,
-        2.5,
-        2.65,
-        2.9,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.095,
         0.282,
@@ -78,8 +67,8 @@
         0
       ],
       "debutScore": 0.095,
-      "peakScore": 0.095,
-      "duration": 6.5,
+      "peakScore": 0.722,
+      "duration": 7,
       "score": 11.665000000000001,
       "genres": [
         "dance"
@@ -100,11 +89,8 @@
       "debut": "1988-05",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        11.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -120,7 +106,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.267,
       "duration": 3,
       "score": 1.51,
       "genres": [
@@ -134,5 +120,5 @@
   "score": 13.175,
   "songCount": 2,
   "songAdjustedAverage": 9.316131842132764,
-  "rank": 254
+  "rank": 256
 }

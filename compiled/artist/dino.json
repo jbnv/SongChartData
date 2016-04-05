@@ -36,11 +36,8 @@
       ],
       "genre": "pop",
       "debut": "1993-08",
-      "ranks": [
-        4.5,
-        1,
-        1.12
-      ],
+      "ranks": {
+      },
       "scores": [
         0.498,
         1,
@@ -67,8 +64,8 @@
         0
       ],
       "debutScore": 0.498,
-      "peakScore": 0.498,
-      "duration": 5.75,
+      "peakScore": 1,
+      "duration": 6,
       "score": 14.087999999999997,
       "genres": [
         "pop"
@@ -89,15 +86,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        12,
-        2.5,
-        2,
-        2.01,
-        2.08,
-        2.2,
-        2.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.694,
@@ -124,8 +114,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.75,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 11.18,
       "genres": [
         "pop"
@@ -146,12 +136,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        15,
-        4.6,
-        2.5,
-        2.71
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.491,
@@ -175,7 +161,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.694,
       "duration": 5,
       "score": 8.554,
       "genres": [
@@ -194,12 +180,8 @@
       ],
       "genre": "dance",
       "debut": "1990-09",
-      "ranks": [
-        24.9,
-        14.5,
-        8.4,
-        9.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.108,
         0.29,
@@ -216,8 +198,8 @@
         0
       ],
       "debutScore": 0.108,
-      "peakScore": 0.108,
-      "duration": 3.25,
+      "peakScore": 0.29,
+      "duration": 4,
       "score": 1.9629999999999999,
       "genres": [
         "dance"
@@ -230,5 +212,5 @@
   "score": 35.785,
   "songCount": 4,
   "songAdjustedAverage": 17.8925,
-  "rank": 31
+  "rank": 32
 }

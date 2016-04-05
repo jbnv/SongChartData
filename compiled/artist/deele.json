@@ -39,14 +39,8 @@
       ],
       "genre": "soul",
       "debut": "1988-05",
-      "ranks": [
-        10,
-        2.8,
-        1.5,
-        1.4,
-        1.65,
-        2.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.232,
         0.656,
@@ -73,8 +67,8 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
-      "duration": 5.75,
+      "peakScore": 0.887,
+      "duration": 6,
       "score": 12.175999999999998,
       "genres": [
         "soul"
@@ -87,5 +81,5 @@
   "score": 12.175999999999998,
   "songCount": 1,
   "songAdjustedAverage": 12.175999999999998,
-  "rank": 123
+  "rank": 125
 }

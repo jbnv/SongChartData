@@ -37,14 +37,8 @@
       "source": "my-stepmother-is-an-alien",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        5,
-        2,
-        1.4,
-        1.62,
-        2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.463,
@@ -72,7 +66,7 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
+      "peakScore": 0.887,
       "duration": 6,
       "score": 12.081,
       "genres": [
@@ -93,13 +87,8 @@
       "debut": "1985-03",
       "playlists": [
       ],
-      "ranks": [
-        13.9,
-        7.8,
-        4.4,
-        2.5,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.315,
@@ -123,7 +112,7 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
+      "peakScore": 0.694,
       "duration": 5,
       "score": 7.567,
       "genres": [

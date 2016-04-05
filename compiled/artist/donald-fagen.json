@@ -30,14 +30,8 @@
       ],
       "genre": "pop",
       "debut": "1982-11",
-      "ranks": [
-        10,
-        1.4,
-        1.45,
-        1.58,
-        1.78,
-        2.01
-      ],
+      "ranks": {
+      },
       "scores": [
         0.232,
         0.887,
@@ -65,7 +59,7 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
+      "peakScore": 0.887,
       "duration": 6,
       "score": 12.61,
       "genres": [

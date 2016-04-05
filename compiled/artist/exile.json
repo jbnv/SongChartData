@@ -25,8 +25,7 @@
       "us"
     ],
     "artists": [
-    ],
-    "score": null
+    ]
   },
   "birth": "",
   "death": "",
@@ -51,16 +50,8 @@
       "debut": 1978,
       "playlists": [
       ],
-      "ranks": [
-        13,
-        5,
-        2.9,
-        2.3,
-        1.95,
-        1.78,
-        1.8,
-        2.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.463,
@@ -89,8 +80,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 6.25,
+      "peakScore": 0.807,
+      "duration": 7,
       "score": 12.812000000000001,
       "genres": [
         "country"

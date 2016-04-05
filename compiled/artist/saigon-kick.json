@@ -36,13 +36,8 @@
       "debut": "1992-09",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.2,
-        5.3,
-        4.6,
-        6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.26,
@@ -64,8 +59,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.5,
+      "peakScore": 0.491,
+      "duration": 5,
       "score": 4.677999999999999,
       "genres": [
         "rock"
@@ -78,5 +73,5 @@
   "score": 4.677999999999999,
   "songCount": 1,
   "songAdjustedAverage": 4.677999999999999,
-  "rank": 529
+  "rank": 528
 }

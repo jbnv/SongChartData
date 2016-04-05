@@ -34,14 +34,8 @@
       "debut": "1988-07",
       "playlists": [
       ],
-      "ranks": [
-        17.5,
-        8.9,
-        5.4,
-        5,
-        4.75,
-        5.25
-      ],
+      "ranks": {
+      },
       "scores": [
         0.045,
         0.271,
@@ -64,8 +58,8 @@
         0
       ],
       "debutScore": 0.045,
-      "peakScore": 0.045,
-      "duration": 4.75,
+      "peakScore": 0.48,
+      "duration": 5,
       "score": 5.687,
       "genres": [
         "urban"
@@ -90,8 +84,8 @@
         4.1,
         4.5
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "urban"

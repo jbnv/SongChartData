@@ -44,15 +44,8 @@
       "debut": 2004,
       "playlists": [
       ],
-      "ranks": [
-        12,
-        4,
-        2,
-        2.05,
-        2.12,
-        2.29,
-        2.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.537,
@@ -79,8 +72,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.75,
+      "peakScore": 0.768,
+      "duration": 6,
       "score": 10.996,
       "genres": [
         "pop"
@@ -100,8 +93,8 @@
       "debut": 2002,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -121,8 +114,8 @@
       "debut": 2003,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -142,8 +135,8 @@
       "debut": 2005,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -165,8 +158,8 @@
       "debut": "2000s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -186,8 +179,8 @@
       "debut": "2015-07",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

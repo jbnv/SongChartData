@@ -38,8 +38,8 @@
       ],
       "genre": "pop",
       "debut": "1991-02",
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

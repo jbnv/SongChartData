@@ -44,8 +44,8 @@
       "debut": "1994-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "grunge"
@@ -65,8 +65,8 @@
       "debut": 1991,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "grunge"

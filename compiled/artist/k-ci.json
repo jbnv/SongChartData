@@ -36,14 +36,8 @@
       "debut": "1999-11",
       "playlists": [
       ],
-      "ranks": [
-        3.8,
-        1.04,
-        1.12,
-        1.2,
-        1.4,
-        2
-      ],
+      "ranks": {
+      },
       "note": "Project 4 weeks at #1 but rapid descent.",
       "scores": [
         0.554,
@@ -72,7 +66,7 @@
         0
       ],
       "debutScore": 0.554,
-      "peakScore": 0.554,
+      "peakScore": 0.986,
       "duration": 6,
       "score": 3.3267499999999997,
       "genres": [

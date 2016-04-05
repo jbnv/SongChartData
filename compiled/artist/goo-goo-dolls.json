@@ -32,13 +32,8 @@
       ],
       "genre": "rock",
       "debut": "1995-09",
-      "ranks": [
-        15.9,
-        9.3,
-        5.5,
-        4.5,
-        5.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -60,8 +55,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.5,
+      "peakScore": 0.498,
+      "duration": 5,
       "score": 5.291999999999999,
       "genres": [
         "rock"
@@ -83,12 +78,8 @@
       "debut": "1999-08",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11.7,
-        6.8,
-        8.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.18,
@@ -107,8 +98,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 3.75,
+      "peakScore": 0.361,
+      "duration": 4,
       "score": 2.5210000000000004,
       "genres": [
         true
@@ -122,8 +113,8 @@
       "instanceSlug": 33,
       "genre": "rock",
       "source": "city-of-angels",
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "debut": "1990s",
       "scores": null,
       "genres": [
@@ -140,8 +131,8 @@
       ],
       "parents": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,
@@ -154,8 +145,8 @@
       ],
       "parents": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,

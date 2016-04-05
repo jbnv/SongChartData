@@ -32,13 +32,8 @@
       ],
       "genre": "rock",
       "debut": "1990-08",
-      "ranks": [
-        15.9,
-        9.3,
-        5.4,
-        5.5,
-        6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -60,8 +55,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.5,
+      "peakScore": 0.437,
+      "duration": 5,
       "score": 4.606999999999999,
       "genres": [
         "rock"

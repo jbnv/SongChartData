@@ -27,12 +27,8 @@
       "debut": "1987-10",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        10.1,
-        10.2,
-        14.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.229,
@@ -47,8 +43,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 2.75,
+      "peakScore": 0.229,
+      "duration": 3,
       "score": 1.034,
       "genres": [
         "pop"
@@ -70,8 +66,8 @@
       "debut": 1977,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "adult-contemporary"
@@ -92,8 +88,8 @@
       "source": "fm",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "soft-rock"

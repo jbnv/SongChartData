@@ -32,12 +32,8 @@
       "debut": "1983-04",
       "playlists": [
       ],
-      "ranks": [
-        9,
-        1.5,
-        1.08,
-        1.17
-      ],
+      "ranks": {
+      },
       "scores": [
         0.267,
         0.864,
@@ -64,8 +60,8 @@
         0
       ],
       "debutScore": 0.267,
-      "peakScore": 0.267,
-      "duration": 5.75,
+      "peakScore": 0.974,
+      "duration": 6,
       "score": 14.398000000000001,
       "genres": [
         "dance"
@@ -78,5 +74,5 @@
   "score": 14.398000000000001,
   "songCount": 1,
   "songAdjustedAverage": 14.398000000000001,
-  "rank": 66
+  "rank": 64
 }

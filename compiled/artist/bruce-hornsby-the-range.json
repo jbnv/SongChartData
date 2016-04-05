@@ -22,290 +22,7 @@
       "us"
     ],
     "artists": [
-      {
-        "title": "Bruce Hornsby & the Range",
-        "instanceSlug": "bruce-hornsby-the-range",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "pop"
-        ],
-        "members": [
-        ],
-        "origin": "virginia",
-        "birth": "",
-        "death": "",
-        "complete": true,
-        "type": "g",
-        "songs": [
-          {
-            "title": "Mandolin Rain",
-            "instanceSlug": 578,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "musical-instrument"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1987-02",
-            "playlists": [
-            ],
-            "ranks": [
-              13.9,
-              5,
-              3.7,
-              1.9,
-              1.5,
-              1.7,
-              2.1,
-              2.63,
-              3.28,
-              4.1,
-              5.13,
-              6.41,
-              8.01,
-              10.01,
-              12.52,
-              15.65,
-              19.56,
-              24.45,
-              30.56,
-              38.2,
-              47.75,
-              59.69,
-              74.61,
-              93.26
-            ],
-            "artists": [
-              {
-                "slug": "bruce-hornsby-the-range",
-                "title": "Bruce Hornsby & the Range",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 13.9,
-            "peakRank": 1.5,
-            "duration": 6,
-            "score": 23.44,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Every Little Kiss",
-            "instanceSlug": 216,
-            "tags": [
-              "songs-of-summer"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1987-06",
-            "ranks": [
-              15,
-              3.1,
-              1.9,
-              1.9,
-              2.27,
-              2.84,
-              3.55,
-              4.43,
-              5.54,
-              6.93,
-              8.66,
-              10.82,
-              13.53,
-              16.91,
-              21.14,
-              26.43,
-              33.03,
-              41.29,
-              51.61,
-              64.52
-            ],
-            "artists": [
-              {
-                "slug": "bruce-hornsby-the-range",
-                "title": "Bruce Hornsby & the Range",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15,
-            "peakRank": 1.9,
-            "duration": 5,
-            "score": 18.64,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "playlists": [
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Look Out Any Window",
-            "instanceSlug": 2884,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1988-09",
-            "playlists": [
-            ],
-            "ranks": [
-              14.8,
-              4.3,
-              2.8,
-              3.2,
-              4,
-              5,
-              6.25,
-              7.81,
-              9.77,
-              12.21,
-              15.26,
-              19.07,
-              23.84,
-              29.8,
-              37.25,
-              46.57,
-              58.21,
-              72.76,
-              90.95,
-              113.69
-            ],
-            "artists": [
-              {
-                "slug": "bruce-hornsby-the-range",
-                "title": "Bruce Hornsby & the Range",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 14.8,
-            "peakRank": 2.8,
-            "duration": 5,
-            "score": 12.32,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "The Valley Road",
-            "instanceSlug": 456,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "#1-mainstream-rock"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1988-05",
-            "playlists": [
-            ],
-            "ranks": [
-              17.9,
-              10.6,
-              6.2,
-              7.9,
-              10.07,
-              12.83,
-              16.34,
-              20.82,
-              26.53,
-              33.81,
-              43.08,
-              54.89
-            ],
-            "artists": [
-              {
-                "slug": "bruce-hornsby-the-range",
-                "title": "Bruce Hornsby & the Range",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17.9,
-            "peakRank": 6.2,
-            "duration": 3,
-            "score": 4.21,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "The Way It Is",
-            "instanceSlug": 630,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "debut": "1986-11",
-            "playlists": [
-            ],
-            "ranks": [
-              18.9,
-              11.1,
-              6.5,
-              8.2,
-              10.34,
-              13.05,
-              16.46,
-              20.77,
-              26.2,
-              33.05,
-              41.7,
-              52.6
-            ],
-            "artists": [
-              {
-                "slug": "bruce-hornsby-the-range",
-                "title": "Bruce Hornsby & the Range",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18.9,
-            "peakRank": 6.5,
-            "duration": 3,
-            "score": 3.97,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 5
-          }
-        ],
-        "score": 62.58,
-        "songAdjustedAverage": 27.99,
-        "rank": 53
-      }
-    ],
-    "score": 62.58,
-    "artistAdjustedAverage": 62.58
+    ]
   },
   "birth": "",
   "death": "",
@@ -334,15 +51,8 @@
       "debut": "1987-02",
       "playlists": [
       ],
-      "ranks": [
-        13.9,
-        5,
-        3.7,
-        1.9,
-        1.5,
-        1.7,
-        2.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.463,
@@ -370,7 +80,7 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
+      "peakScore": 0.864,
       "duration": 6,
       "score": 12.325,
       "genres": [
@@ -390,14 +100,8 @@
       ],
       "genre": "adult-contemporary",
       "debut": "1987-06",
-      "ranks": [
-        15,
-        3.1,
-        1.9,
-        1.5,
-        1.7,
-        2.04
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.622,
@@ -424,8 +128,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.75,
+      "peakScore": 0.864,
+      "duration": 6,
       "score": 12.066000000000003,
       "genres": [
         "adult-contemporary"
@@ -445,12 +149,8 @@
       "debut": "1988-09",
       "playlists": [
       ],
-      "ranks": [
-        14.8,
-        4.3,
-        2.8,
-        3.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.101,
         0.513,
@@ -474,7 +174,7 @@
         0
       ],
       "debutScore": 0.101,
-      "peakScore": 0.101,
+      "peakScore": 0.656,
       "duration": 5,
       "score": 7.661999999999999,
       "genres": [
@@ -498,13 +198,8 @@
       "debut": "1988-05",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        6.2,
-        4.4,
-        4.3,
-        4.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.391,
@@ -527,8 +222,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 4.75,
+      "peakScore": 0.513,
+      "duration": 5,
       "score": 6.144999999999999,
       "genres": [
         "pop"
@@ -551,12 +246,8 @@
       "debut": "1986-11",
       "playlists": [
       ],
-      "ranks": [
-        18.9,
-        11.1,
-        6.5,
-        8.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.02,
         0.197,
@@ -575,8 +266,8 @@
         0
       ],
       "debutScore": 0.02,
-      "peakScore": 0.02,
-      "duration": 3.75,
+      "peakScore": 0.376,
+      "duration": 4,
       "score": 2.771,
       "genres": [
         "adult-contemporary"
@@ -589,5 +280,5 @@
   "score": 40.968999999999994,
   "songCount": 5,
   "songAdjustedAverage": 18.321893794037774,
-  "rank": 30
+  "rank": 31
 }

@@ -36,14 +36,8 @@
       "debut": "1994-01",
       "playlists": [
       ],
-      "ranks": [
-        20,
-        14,
-        9,
-        6.5,
-        6,
-        6.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.001,
         0.12,
@@ -65,8 +59,8 @@
         0
       ],
       "debutScore": 0.001,
-      "peakScore": 0.001,
-      "duration": 4.5,
+      "peakScore": 0.402,
+      "duration": 5,
       "score": 4.0680000000000005,
       "genres": [
         "urban"
@@ -86,8 +80,8 @@
       "debut": "1993-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hip-hop"

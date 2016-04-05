@@ -43,18 +43,8 @@
       "debut": 2014,
       "playlists": [
       ],
-      "ranks": [
-        16,
-        11,
-        6,
-        3.2,
-        2.5,
-        2.6,
-        2.7,
-        2.85,
-        3.01,
-        3.45
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.2,
@@ -83,8 +73,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 6.25,
+      "peakScore": 0.694,
+      "duration": 7,
       "score": 10.618999999999996,
       "genres": [
         "pop"
@@ -106,14 +96,8 @@
       "debut": 2013,
       "playlists": [
       ],
-      "ranks": [
-        16.5,
-        7,
-        4,
-        3.5,
-        3.2,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.065,
         0.351,
@@ -138,8 +122,8 @@
         0
       ],
       "debutScore": 0.065,
-      "peakScore": 0.065,
-      "duration": 5.25,
+      "peakScore": 0.612,
+      "duration": 6,
       "score": 2.0567500000000005,
       "genres": [
         "pop"
@@ -161,8 +145,8 @@
         "adultery",
         "cheating"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -175,5 +159,5 @@
   "score": 12.675749999999997,
   "songCount": 3,
   "songAdjustedAverage": 7.318347674680398,
-  "rank": 358
+  "rank": 359
 }

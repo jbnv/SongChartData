@@ -36,13 +36,8 @@
       "debut": "1991-12",
       "playlists": [
       ],
-      "ranks": [
-        8,
-        1.03,
-        1.08,
-        1.15,
-        1.31
-      ],
+      "ranks": {
+      },
       "scores": [
         0.306,
         0.99,
@@ -70,7 +65,7 @@
         0
       ],
       "debutScore": 0.306,
-      "peakScore": 0.306,
+      "peakScore": 0.99,
       "duration": 6,
       "score": 1.4794,
       "genres": [

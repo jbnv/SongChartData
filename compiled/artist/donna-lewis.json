@@ -34,13 +34,8 @@
       ],
       "genre": "pop",
       "debut": "1996-08",
-      "ranks": [
-        15,
-        6.6,
-        3.7,
-        2.4,
-        2.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.37,
@@ -65,8 +60,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.708,
+      "duration": 6,
       "score": 9.026,
       "genres": [
         "pop"
@@ -79,5 +74,5 @@
   "score": 9.026,
   "songCount": 1,
   "songAdjustedAverage": 9.026,
-  "rank": 273
+  "rank": 274
 }

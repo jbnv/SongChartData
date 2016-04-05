@@ -41,15 +41,8 @@
       "playlists": [
         "sample"
       ],
-      "ranks": [
-        15,
-        9,
-        6,
-        4.7,
-        3.9,
-        3.5,
-        4.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -74,8 +67,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.582,
+      "duration": 6,
       "score": 7.397,
       "genres": [
         "rap"
@@ -88,5 +81,5 @@
   "score": 7.397,
   "songCount": 1,
   "songAdjustedAverage": 7.397,
-  "rank": 353
+  "rank": 354
 }

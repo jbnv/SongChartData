@@ -36,15 +36,8 @@
       "debut": "1990-02",
       "playlists": [
       ],
-      "ranks": [
-        15.5,
-        10.5,
-        6.5,
-        4.6,
-        3.7,
-        3.9,
-        4.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.216,
@@ -69,8 +62,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
-      "duration": 5.25,
+      "peakScore": 0.563,
+      "duration": 6,
       "score": 6.974999999999999,
       "genres": [
         "dance"
@@ -93,8 +86,8 @@
       "debut": 1990,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "dance"
@@ -114,8 +107,8 @@
       "debut": "1989-09",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         true

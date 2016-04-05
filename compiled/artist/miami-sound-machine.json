@@ -36,1282 +36,7 @@
       "florida"
     ],
     "artists": [
-      {
-        "title": "Miami Sound Machine",
-        "instanceSlug": "miami-sound-machine",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "latin-dance",
-          "latin-pop"
-        ],
-        "members": [
-          "gloria-estafan"
-        ],
-        "xref": [
-        ],
-        "complete": false,
-        "origin": "miami",
-        "birth": "",
-        "death": "",
-        "songs": [
-          {
-            "title": "Rhythm is Gonna Get You",
-            "instanceSlug": 342,
-            "tags": [
-              "get-you",
-              "songs-of-summer"
-            ],
-            "parents": [
-            ],
-            "genre": "dance",
-            "debut": "1987-07",
-            "playlists": [
-            ],
-            "ranks": [
-              14,
-              4,
-              1.2,
-              1.25,
-              1.41,
-              1.76,
-              2.2,
-              2.75,
-              3.44,
-              4.3,
-              5.38,
-              6.72,
-              8.4,
-              10.51,
-              13.13,
-              16.41,
-              20.52,
-              25.65,
-              32.06,
-              40.07,
-              50.09,
-              62.62,
-              78.27,
-              97.84
-            ],
-            "artists": [
-              {
-                "slug": "miami-sound-machine",
-                "title": "Miami Sound Machine",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 14,
-            "peakRank": 1.2,
-            "duration": 6,
-            "score": 24.73,
-            "genres": [
-              {
-                "slug": "dance",
-                "title": "Dance"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Falling in Love",
-            "instanceSlug": 1476,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1986-12",
-            "playlists": [
-            ],
-            "ranks": [
-              15.5,
-              9.5,
-              4.9,
-              3.1,
-              2.5,
-              2.6,
-              2.8,
-              3.15,
-              3.94,
-              4.92,
-              6.15,
-              7.69,
-              9.61,
-              12.02,
-              15.02,
-              18.78,
-              23.47,
-              29.34,
-              36.67,
-              45.84,
-              57.3,
-              71.62,
-              89.53,
-              111.91
-            ],
-            "artists": [
-              {
-                "slug": "miami-sound-machine",
-                "title": "Miami Sound Machine",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15.5,
-            "peakRank": 2.5,
-            "duration": 6,
-            "score": 19.03,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Congo",
-            "instanceSlug": 1741,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "latin-dance-1",
-            "debut": "1985-01",
-            "playlists": [
-            ],
-            "ranks": [
-              18,
-              9,
-              7.8,
-              5.9,
-              5.2,
-              5.4,
-              5.9,
-              7.2,
-              9,
-              11.25,
-              14.06,
-              17.58,
-              21.97,
-              27.47,
-              34.33,
-              42.92,
-              53.64,
-              67.06,
-              83.82,
-              104.77
-            ],
-            "artists": [
-              {
-                "slug": "miami-sound-machine",
-                "title": "Miami Sound Machine",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18,
-            "peakRank": 5.2,
-            "duration": 5,
-            "score": 9.87,
-            "genres": [
-              {
-                "slug": "latin-dance-1"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Can't Stay Away from You",
-            "instanceSlug": 1834,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "adult-contemporary",
-            "playlists": [
-            ],
-            "ranks": [
-              18,
-              13.9,
-              8.2,
-              6.2,
-              4.9,
-              5.3,
-              5.9,
-              6.7,
-              8.38,
-              10.47,
-              13.09,
-              16.36,
-              20.45,
-              25.56,
-              31.95,
-              39.94,
-              49.92,
-              62.4,
-              78,
-              97.5
-            ],
-            "artists": [
-              {
-                "slug": "miami-sound-machine",
-                "title": "Miami Sound Machine",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18,
-            "peakRank": 4.9,
-            "duration": 5,
-            "score": 9.77,
-            "genres": [
-              {
-                "slug": "adult-contemporary",
-                "title": "Adult Contemporary"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Bad Boy",
-            "instanceSlug": 834,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": 1986,
-            "playlists": [
-            ],
-            "ranks": [
-              15,
-              8.6,
-              4.9,
-              3.9,
-              5.4,
-              7.48,
-              10.35,
-              14.33,
-              19.85,
-              27.48,
-              38.05,
-              52.69
-            ],
-            "artists": [
-              {
-                "slug": "miami-sound-machine",
-                "title": "Miami Sound Machine",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15,
-            "peakRank": 3.9,
-            "duration": 3,
-            "score": 7.5,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Words Get in the Way",
-            "instanceSlug": 328,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": true,
-            "debut": "1986-09",
-            "playlists": [
-            ],
-            "ranks": [
-              18,
-              11.7,
-              6.8,
-              7.5,
-              10.2,
-              13.9,
-              18.94,
-              25.81,
-              35.18,
-              47.94,
-              65.33,
-              89.02
-            ],
-            "artists": [
-              {
-                "slug": "miami-sound-machine",
-                "title": "Miami Sound Machine",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18,
-            "peakRank": 6.8,
-            "duration": 3,
-            "score": 3.82,
-            "genres": [
-              {
-                "slug": true
-              }
-            ],
-            "rank": 6
-          }
-        ],
-        "score": 74.72,
-        "songAdjustedAverage": 30.5,
-        "rank": 41
-      },
-      {
-        "title": "Gloria Estefan",
-        "instanceSlug": "gloria-estefan",
-        "tags": [
-          "1980s",
-          "1990s"
-        ],
-        "parents": [
-        ],
-        "genres": [
-        ],
-        "members": [
-        ],
-        "complete": false,
-        "origin": "miami",
-        "birth": "",
-        "death": "",
-        "songs": [
-          {
-            "title": "Coming Out of the Dark",
-            "instanceSlug": 1213,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": 1990,
-            "playlists": [
-            ],
-            "ranks": [
-              14,
-              5,
-              1.9,
-              1.3,
-              1.4,
-              1.55,
-              1.75,
-              1.95,
-              2.3,
-              2.88,
-              3.59,
-              4.49,
-              5.62,
-              7.02,
-              8.77,
-              10.97,
-              13.71,
-              17.14,
-              21.42,
-              26.78,
-              33.47,
-              41.84,
-              52.3,
-              65.37
-            ],
-            "artists": [
-              {
-                "slug": "gloria-estefan",
-                "title": "Gloria Estefan",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 14,
-            "peakRank": 1.3,
-            "duration": 6,
-            "score": 28.47,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Get On Your Feet",
-            "instanceSlug": 1421,
-            "tags": [
-              "feet",
-              "get",
-              "on",
-              "your"
-            ],
-            "parents": [
-            ],
-            "genre": "dance",
-            "debut": "1989-10",
-            "playlists": [
-            ],
-            "ranks": [
-              18,
-              13,
-              10,
-              8.5,
-              7.8,
-              7.2,
-              6.9,
-              7.1,
-              7.75,
-              9.3,
-              11.63,
-              14.53,
-              18.16,
-              22.71,
-              28.38,
-              35.48,
-              44.35,
-              55.43,
-              69.29,
-              86.61
-            ],
-            "artists": [
-              {
-                "slug": "gloria-estefan",
-                "title": "Gloria Estefan",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18,
-            "peakRank": 6.9,
-            "duration": 5,
-            "score": 8.88,
-            "genres": [
-              {
-                "slug": "dance",
-                "title": "Dance"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Turn the Beat Around",
-            "instanceSlug": 1286,
-            "tags": [
-              "around",
-              "beat",
-              "turn"
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": "1994-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "gloria-estefan",
-                "title": "Gloria Estefan",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "I Live For Loving You",
-            "instanceSlug": 1519,
-            "tags": [
-              "i",
-              "i-live",
-              "live",
-              "loving",
-              "you"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1991-11",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "gloria-estefan",
-                "title": "Gloria Estefan",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          }
-        ],
-        "score": 37.35,
-        "songAdjustedAverage": 18.68,
-        "rank": 211
-      },
-      {
-        "title": "Expose",
-        "instanceSlug": "expose",
-        "tags": [
-          "all-female"
-        ],
-        "parents": [
-        ],
-        "genres": [
-        ],
-        "members": [
-        ],
-        "complete": false,
-        "origin": "miami",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "Let Me Be the One",
-            "instanceSlug": 92,
-            "tags": [
-              "let-me",
-              "let-me-be-the-one",
-              "one"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1987-08",
-            "ranks": [
-              15.2,
-              9.6,
-              5.4,
-              3.7,
-              2.8,
-              2.2,
-              2,
-              2.25,
-              2.55,
-              2.85,
-              3.35,
-              4.19,
-              5.23,
-              6.54,
-              8.18,
-              10.22,
-              12.78,
-              15.97,
-              19.97,
-              24.96,
-              31.2,
-              39,
-              48.75,
-              60.94
-            ],
-            "artists": [
-              {
-                "slug": "expose",
-                "title": "Expose",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15.2,
-            "peakRank": 2,
-            "duration": 6,
-            "score": 24.8,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "playlists": [
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Tell Me Why",
-            "instanceSlug": 1948,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "dance",
-            "debut": "1990-02",
-            "playlists": [
-            ],
-            "ranks": [
-              16,
-              7,
-              7.4,
-              8.2,
-              10.25,
-              12.81,
-              16.02,
-              20.02,
-              25.02,
-              31.28,
-              39.1,
-              48.88,
-              61.09,
-              76.37,
-              95.46,
-              119.33
-            ],
-            "artists": [
-              {
-                "slug": "expose",
-                "title": "Expose",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 16,
-            "peakRank": 7,
-            "duration": 4,
-            "score": 4.53,
-            "genres": [
-              {
-                "slug": "dance",
-                "title": "Dance"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Seasons Change",
-            "instanceSlug": 1460,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1987-12",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "expose",
-                "title": "Expose",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "I'll Never Get Over You Getting Over Me",
-            "instanceSlug": 3061,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1993-06",
-            "playlists": [
-              {
-                "slug": "summer",
-                "title": "Songs of Summer"
-              }
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "expose",
-                "title": "Expose",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "When I Looked At Him",
-            "instanceSlug": 503,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": true,
-            "debut": "1989-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "expose",
-                "title": "Expose",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": true
-              }
-            ],
-            "rank": 5
-          }
-        ],
-        "score": 29.33,
-        "songAdjustedAverage": 13.12,
-        "rank": 345
-      },
-      {
-        "title": "Enrique Iglesias",
-        "instanceSlug": "enrique-iglesias",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "latin-pop"
-        ],
-        "members": [
-        ],
-        "complete": true,
-        "origin": "miami",
-        "birth": 1975,
-        "death": "",
-        "type": "m",
-        "songs": [
-          {
-            "title": "Rhythm Divine",
-            "instanceSlug": 1438,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "latin",
-            "debut": "2000-01",
-            "playlists": [
-            ],
-            "ranks": [
-              12,
-              4,
-              2,
-              2.21,
-              2.76,
-              3.45,
-              4.32,
-              5.4,
-              6.74,
-              8.43,
-              10.54,
-              13.17,
-              16.47,
-              20.58,
-              25.73,
-              32.16,
-              40.2,
-              50.25,
-              62.81,
-              78.51
-            ],
-            "artists": [
-              {
-                "slug": "enrique-iglesias",
-                "title": "Enrique Iglesias",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 12,
-            "peakRank": 2,
-            "duration": 5,
-            "score": 16.46,
-            "genres": [
-              {
-                "slug": "latin",
-                "title": "Latin"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Bailamos",
-            "instanceSlug": 568,
-            "tags": [
-              "#1",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "latin-pop",
-            "debut": "1999-08",
-            "source": "wild-wild-west",
-            "playlists": [
-            ],
-            "ranks": [
-              18,
-              12,
-              8,
-              7,
-              7.5,
-              8.5,
-              10.63,
-              13.28,
-              16.6,
-              20.75,
-              25.94,
-              32.42,
-              40.53,
-              50.66,
-              63.33,
-              79.16
-            ],
-            "artists": [
-              {
-                "slug": "enrique-iglesias",
-                "title": "Enrique Iglesias",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 18,
-            "peakRank": 7,
-            "duration": 4,
-            "score": 5.69,
-            "genres": [
-              {
-                "slug": "latin-pop",
-                "title": "Latin Pop"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Be With You",
-            "instanceSlug": 2502,
-            "tags": [
-              "#1",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "2000-05",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "enrique-iglesias",
-                "title": "Enrique Iglesias",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Hero",
-            "instanceSlug": 2503,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "2001-10",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "enrique-iglesias",
-                "title": "Enrique Iglesias",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 4
-          }
-        ],
-        "score": 22.15,
-        "songAdjustedAverage": 11.08,
-        "rank": 415
-      },
-      {
-        "title": "KC & the Sunshine Band",
-        "instanceSlug": "kc",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "disco"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": false,
-        "origin": "miami",
-        "birth": "",
-        "death": "",
-        "type": "g",
-        "songs": [
-          {
-            "title": "(Shake, Shake, Shake) Shake Your Bootie",
-            "instanceSlug": 1502,
-            "tags": [
-              "shake",
-              "your"
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": 1976,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Get Down Tonight",
-            "instanceSlug": 2317,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": 1975,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "That's the Way (I Like It)",
-            "instanceSlug": 2318,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": 1975,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "I'm Your Boogie Man",
-            "instanceSlug": 2319,
-            "tags": [
-              "#1",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": 1977,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "Keep It Coming Love",
-            "instanceSlug": 2320,
-            "tags": [
-              "#1",
-              "#1-r&b"
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": 1977,
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Boogie Shoes",
-            "instanceSlug": 2321,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "disco",
-            "debut": "1978-04",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "disco",
-                "title": "Disco"
-              }
-            ],
-            "rank": 6
-          },
-          {
-            "title": "Please Don't Go",
-            "instanceSlug": 2322,
-            "tags": [
-              "don't-go",
-              "please-don't-go",
-              "remade",
-              "s:890"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1979-10",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 7
-          },
-          {
-            "title": "Give It Up",
-            "instanceSlug": 2323,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1984-02",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "kc",
-                "title": "KC & the Sunshine Band",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 8
-          }
-        ],
-        "score": 0,
-        "songAdjustedAverage": 0,
-        "rank": 979
-      },
-      {
-        "title": "Vanilla Ice",
-        "instanceSlug": "vanilla-ice",
-        "tags": [
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "rap"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "miami",
-        "birth": 1968,
-        "death": "",
-        "type": "m",
-        "songs": [
-          {
-            "title": "Play That Funky Music",
-            "instanceSlug": 1167,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rap",
-            "debut": "1990-12",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "vanilla-ice",
-                "title": "Vanilla Ice",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rap",
-                "title": "Rap"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Ice Ice Baby",
-            "instanceSlug": 2923,
-            "tags": [
-              "#1",
-              "#1-hot-100"
-            ],
-            "parents": [
-            ],
-            "genre": "rap",
-            "debut": "1990-10",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "vanilla-ice",
-                "title": "Vanilla Ice",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rap",
-                "title": "Rap"
-              }
-            ],
-            "rank": 2
-          }
-        ],
-        "score": 0,
-        "songAdjustedAverage": 0,
-        "rank": 1106
-      }
-    ],
-    "score": 163.55,
-    "artistAdjustedAverage": 66.77
+    ]
   },
   "birth": "",
   "death": "",
@@ -1336,13 +61,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        14,
-        4,
-        1.2,
-        1.25,
-        1.41
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.537,
@@ -1370,7 +90,7 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
+      "peakScore": 0.939,
       "duration": 6,
       "score": 13.635999999999994,
       "genres": [
@@ -1389,15 +109,8 @@
       "debut": "1986-12",
       "playlists": [
       ],
-      "ranks": [
-        15.5,
-        4.9,
-        3.1,
-        2.5,
-        2.6,
-        2.8,
-        3.15
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.47,
@@ -1424,8 +137,8 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
-      "duration": 5.75,
+      "peakScore": 0.694,
+      "duration": 6,
       "score": 9.681000000000001,
       "genres": [
         "pop"
@@ -1443,15 +156,8 @@
       "debut": "1986-04",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        8.6,
-        4.9,
-        3.9,
-        3.5,
-        3.64,
-        3.79
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.282,
@@ -1477,8 +183,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.582,
+      "duration": 6,
       "score": 8.071,
       "genres": [
         "pop"
@@ -1502,14 +208,8 @@
         "spanish",
         "ballad"
       ],
-      "ranks": [
-        14,
-        7,
-        4.4,
-        3.4,
-        3.45,
-        3.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.351,
@@ -1534,8 +234,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.25,
+      "peakScore": 0.592,
+      "duration": 6,
       "score": 7.5459999999999985,
       "role": true,
       "scoreFactor": 1,
@@ -1551,16 +251,8 @@
       "genre": "adult-contemporary",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        13.9,
-        8.2,
-        6.2,
-        4.9,
-        5.3,
-        5.9,
-        6.7
-      ],
+      "ranks": {
+      },
       "debut": "1988-01",
       "scores": [
         0.036,
@@ -1585,7 +277,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
+      "peakScore": 0.47,
       "duration": 5,
       "score": 5.118999999999998,
       "genres": [
@@ -1610,14 +302,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        19,
-        10,
-        7,
-        6,
-        5,
-        6.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.232,
@@ -1640,8 +326,8 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
-      "duration": 4.75,
+      "peakScore": 0.463,
+      "duration": 5,
       "score": 4.8069999999999995,
       "genres": [
         [
@@ -1662,15 +348,8 @@
       "debut": "1985-12",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        7.8,
-        5.9,
-        5.2,
-        5.4,
-        5.9,
-        7.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.315,
@@ -1693,8 +372,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.75,
+      "peakScore": 0.45,
+      "duration": 5,
       "score": 4.715999999999998,
       "genres": [
         "latin-dance"
@@ -1716,14 +395,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        18,
-        11.7,
-        6.8,
-        7.5,
-        10.2,
-        13.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.18,
@@ -1740,8 +413,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 3.25,
+      "peakScore": 0.361,
+      "duration": 4,
       "score": 1.7040000000000002,
       "role": true,
       "scoreFactor": 1,
@@ -1757,8 +430,8 @@
       "debut": "1987-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "role": true,
       "scoreFactor": 1,
@@ -1768,5 +441,5 @@
   "score": 55.279999999999994,
   "songCount": 9,
   "songAdjustedAverage": 18.426666666666666,
-  "rank": 27
+  "rank": 28
 }

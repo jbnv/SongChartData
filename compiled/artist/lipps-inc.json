@@ -37,18 +37,8 @@
       ],
       "genre": "disco",
       "debut": "1980-05",
-      "ranks": [
-        24.9,
-        14.6,
-        8.6,
-        11,
-        16.2,
-        23.8,
-        34.8,
-        51.1,
-        74.8,
-        109.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.106,
         0.282,
@@ -61,8 +51,8 @@
         0
       ],
       "debutScore": 0.106,
-      "peakScore": 0.071,
-      "duration": 2.25,
+      "peakScore": 0.282,
+      "duration": 3,
       "score": 0.843,
       "genres": [
         "disco"

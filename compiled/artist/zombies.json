@@ -36,15 +36,8 @@
       "debut": 1969,
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        5.5,
-        4,
-        4.2,
-        4.6,
-        5.15
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -68,7 +61,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.537,
       "duration": 5,
       "score": 6.412999999999999,
       "genres": [
@@ -89,8 +82,8 @@
       "debut": 1964,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -110,8 +103,8 @@
       "debut": 1965,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

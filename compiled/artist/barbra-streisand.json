@@ -33,14 +33,8 @@
       "debut": "1980-09",
       "playlists": [
       ],
-      "ranks": [
-        13.9,
-        7.3,
-        3.8,
-        1.9,
-        1.6,
-        2.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.122,
         0.337,
@@ -67,8 +61,8 @@
         0
       ],
       "debutScore": 0.122,
-      "peakScore": 0.122,
-      "duration": 5.75,
+      "peakScore": 0.843,
+      "duration": 6,
       "score": 10.835999999999999,
       "genres": [
         "adult-contemporary"
@@ -88,13 +82,8 @@
       "debut": "1980-11",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        9.6,
-        5.4,
-        3.7,
-        5.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.246,
@@ -117,8 +106,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.75,
+      "peakScore": 0.563,
+      "duration": 5,
       "score": 5.41,
       "genres": [
         "adult-contemporary"
@@ -140,8 +129,8 @@
       "debut": "1981-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -163,7 +152,8 @@
       "playlists": [
         "love"
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "adult-contemporary"
       ],
@@ -184,8 +174,8 @@
       "debut": "1979-11",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -198,5 +188,5 @@
   "score": 16.246,
   "songCount": 5,
   "songAdjustedAverage": 7.265432072492316,
-  "rank": 362
+  "rank": 363
 }

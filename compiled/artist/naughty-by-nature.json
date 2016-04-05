@@ -36,12 +36,8 @@
       "debut": "1991-10",
       "playlists": [
       ],
-      "ranks": [
-        17.9,
-        10.6,
-        7.4,
-        10.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.038,
         0.213,
@@ -58,8 +54,8 @@
         0
       ],
       "debutScore": 0.038,
-      "peakScore": 0.038,
-      "duration": 3.25,
+      "peakScore": 0.332,
+      "duration": 4,
       "score": 1.837,
       "genres": [
         "rap"

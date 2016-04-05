@@ -41,14 +41,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        15,
-        6.4,
-        4.2,
-        5.8,
-        8.1,
-        11.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.381,
@@ -67,8 +61,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 3.75,
+      "peakScore": 0.521,
+      "duration": 4,
       "score": 2.8609999999999993,
       "genres": [
         "pop"

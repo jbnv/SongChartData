@@ -35,16 +35,8 @@
       ],
       "genre": "pop",
       "debut": "1987-08",
-      "ranks": [
-        12,
-        6.8,
-        2.8,
-        2.2,
-        1.95,
-        2.15,
-        2.34,
-        2.68
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.361,
@@ -72,7 +64,7 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
+      "peakScore": 0.777,
       "duration": 6,
       "score": 11.498000000000003,
       "genres": [
@@ -86,5 +78,5 @@
   "score": 11.498000000000003,
   "songCount": 1,
   "songAdjustedAverage": 11.498000000000003,
-  "rank": 142
+  "rank": 145
 }

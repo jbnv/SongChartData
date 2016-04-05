@@ -27,13 +27,8 @@
       "debut": "1982-04",
       "playlists": [
       ],
-      "ranks": [
-        12,
-        5.2,
-        1.9,
-        1.4,
-        1.56
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.45,
@@ -60,8 +55,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.75,
+      "peakScore": 0.887,
+      "duration": 6,
       "score": 12.767000000000001,
       "genres": [
         "pop"

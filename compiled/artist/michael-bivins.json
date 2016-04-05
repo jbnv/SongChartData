@@ -39,13 +39,8 @@
       ],
       "genre": "hip-hop",
       "debut": "1991-07",
-      "ranks": [
-        16.5,
-        9.5,
-        5.4,
-        4.4,
-        5.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.065,
         0.249,
@@ -67,8 +62,8 @@
         0
       ],
       "debutScore": 0.065,
-      "peakScore": 0.065,
-      "duration": 4.5,
+      "peakScore": 0.506,
+      "duration": 5,
       "score": 0.5040000000000001,
       "genres": [
         "hip-hop"

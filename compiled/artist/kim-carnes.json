@@ -35,11 +35,8 @@
       ],
       "genre": "pop",
       "debut": 1981,
-      "ranks": [
-        11,
-        1.1,
-        1.17
-      ],
+      "ranks": {
+      },
       "scores": [
         0.2,
         0.968,
@@ -65,8 +62,8 @@
         0
       ],
       "debutScore": 0.2,
-      "peakScore": 0.2,
-      "duration": 5.5,
+      "peakScore": 0.968,
+      "duration": 6,
       "score": 13.461,
       "genres": [
         "pop"
@@ -86,14 +83,8 @@
       "debut": "1980-05",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        6.4,
-        4.3,
-        3.7,
-        3.8,
-        4.25
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.381,
@@ -117,7 +108,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.563,
       "duration": 5,
       "score": 7.070999999999999,
       "genres": [
@@ -138,8 +129,8 @@
       "debut": "1980-04",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "country"
@@ -152,5 +143,5 @@
   "score": 20.532,
   "songCount": 3,
   "songAdjustedAverage": 11.854155727001396,
-  "rank": 135
+  "rank": 136
 }

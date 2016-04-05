@@ -54,14 +54,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        15,
-        4.4,
-        2.3,
-        2.2,
-        2.35,
-        2.55
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.506,
@@ -88,8 +82,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.75,
+      "peakScore": 0.737,
+      "duration": 6,
       "score": 10.376,
       "role": true,
       "scoreFactor": 1,
@@ -109,15 +103,8 @@
       "playlists": [
         "ballad"
       ],
-      "ranks": [
-        15,
-        9,
-        6,
-        4.5,
-        3.6,
-        3,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -143,8 +130,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 8.55,
       "genres": [
         "pop"
@@ -166,16 +153,8 @@
       "debut": "1989-11",
       "playlists": [
       ],
-      "ranks": [
-        19,
-        15,
-        11,
-        9.5,
-        8.8,
-        9.2,
-        10,
-        11.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.097,
@@ -195,7 +174,7 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
+      "peakScore": 0.275,
       "duration": 4,
       "score": 2.3510000000000004,
       "genres": [
@@ -218,8 +197,8 @@
       "debut": "1978-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -232,5 +211,5 @@
   "score": 21.277,
   "songCount": 4,
   "songAdjustedAverage": 10.6385,
-  "rank": 175
+  "rank": 178
 }

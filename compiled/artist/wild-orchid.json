@@ -27,13 +27,8 @@
       "debut": "1996-09",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        8.7,
-        5,
-        5.4,
-        9.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.278,
@@ -52,8 +47,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 3.75,
+      "peakScore": 0.463,
+      "duration": 4,
       "score": 3.0100000000000002,
       "genres": [
         true

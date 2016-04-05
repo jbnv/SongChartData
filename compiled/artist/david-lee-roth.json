@@ -34,15 +34,8 @@
       "debut": "1985-05",
       "playlists": [
       ],
-      "ranks": [
-        14,
-        7,
-        4.5,
-        3.3,
-        2.9,
-        3.2,
-        3.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.351,
@@ -68,8 +61,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.5,
+      "peakScore": 0.645,
+      "duration": 6,
       "score": 8.623,
       "genres": [
         "pop"
@@ -88,13 +81,8 @@
       "playlists": [
         "remake"
       ],
-      "ranks": [
-        19,
-        12,
-        9,
-        7,
-        7.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.018,
         0.171,
@@ -114,7 +102,7 @@
         0
       ],
       "debutScore": 0.018,
-      "peakScore": 0.018,
+      "peakScore": 0.351,
       "duration": 4,
       "score": 2.412,
       "genres": [
@@ -136,11 +124,8 @@
       ],
       "genre": "hard-rock",
       "debut": "1984-02",
-      "ranks": [
-        12,
-        2,
-        2.29
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.768,
@@ -164,7 +149,7 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
+      "peakScore": 0.768,
       "duration": 5,
       "score": 2.2875000000000005,
       "genres": [
@@ -189,17 +174,8 @@
       "debut": "1982-07",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        14,
-        11.5,
-        10,
-        9,
-        8.5,
-        8.7,
-        9.6,
-        11
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.12,
@@ -221,8 +197,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.5,
+      "peakScore": 0.286,
+      "duration": 5,
       "score": 0.71725,
       "genres": [
         "hard-rock"
@@ -242,14 +218,8 @@
       "debut": "1986-08",
       "playlists": [
       ],
-      "ranks": [
-        22,
-        17,
-        14,
-        15.1,
-        16.8,
-        19
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.12,
@@ -261,7 +231,7 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.018,
+      "peakScore": 0.12,
       "duration": 2,
       "score": 0.36300000000000004,
       "genres": [
@@ -272,28 +242,25 @@
       "rank": 5
     },
     {
-      "title": "California Girls",
-      "instanceSlug": 1636,
+      "title": "Panama",
+      "instanceSlug": "panama",
       "tags": [
-        "california",
-        "girl",
-        "places",
-        "remake"
       ],
       "parents": [
       ],
-      "genre": "rock",
-      "debut": "1985-02",
+      "genre": "hard-rock",
+      "debut": "1984-07",
       "playlists": [
+        "inanimate"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
-        "rock"
+        "hard-rock"
       ],
-      "role": true,
-      "scoreFactor": 1,
+      "role": "lead",
+      "scoreFactor": 0.75,
       "rank": 6
     },
     {
@@ -310,8 +277,8 @@
       "debut": "1982-03",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"
@@ -331,8 +298,8 @@
       "debut": "1984-05",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"
@@ -352,8 +319,8 @@
       "debut": "1984-07",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "hard-rock"
@@ -373,8 +340,8 @@
       "debut": "1988-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -384,25 +351,28 @@
       "rank": 10
     },
     {
-      "title": "Panama",
-      "instanceSlug": "panama",
+      "title": "California Girls",
+      "instanceSlug": 1636,
       "tags": [
+        "california",
+        "girl",
+        "places",
+        "remake"
       ],
       "parents": [
       ],
-      "genre": "hard-rock",
-      "debut": "1984-07",
+      "genre": "rock",
+      "debut": "1985-02",
       "playlists": [
-        "inanimate"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
-        "hard-rock"
+        "rock"
       ],
-      "role": "lead",
-      "scoreFactor": 0.75,
+      "role": true,
+      "scoreFactor": 1,
       "rank": 11
     }
   ],

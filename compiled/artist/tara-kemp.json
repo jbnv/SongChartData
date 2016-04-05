@@ -28,14 +28,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-        15,
-        7,
-        5,
-        3.4,
-        3,
-        3.6
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.351,
@@ -60,8 +54,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 7.931,
       "genres": [
         "pop"
@@ -81,13 +75,8 @@
       "debut": "1991-02",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        7,
-        5,
-        3,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.351,
@@ -111,7 +100,7 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
+      "peakScore": 0.633,
       "duration": 5,
       "score": 7.6240000000000006,
       "genres": [
@@ -125,5 +114,5 @@
   "score": 15.555,
   "songCount": 2,
   "songAdjustedAverage": 10.999045981356746,
-  "rank": 164
+  "rank": 166
 }

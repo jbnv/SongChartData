@@ -36,13 +36,8 @@
       ],
       "genre": "pop",
       "debut": "1987-06",
-      "ranks": [
-        13,
-        7.5,
-        4.3,
-        4.2,
-        5.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.328,
@@ -64,8 +59,8 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
-      "duration": 4.5,
+      "peakScore": 0.521,
+      "duration": 5,
       "score": 5.536999999999998,
       "genres": [
         "pop"

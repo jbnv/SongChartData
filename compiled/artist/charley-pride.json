@@ -34,14 +34,8 @@
       "debut": 1972,
       "playlists": [
       ],
-      "ranks": [
-        14,
-        9,
-        6,
-        4.2,
-        3,
-        3.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.267,
@@ -66,8 +60,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.25,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 7.873000000000001,
       "genres": [
         "country"
@@ -80,5 +74,5 @@
   "score": 7.873000000000001,
   "songCount": 1,
   "songAdjustedAverage": 7.873000000000001,
-  "rank": 331
+  "rank": 333
 }

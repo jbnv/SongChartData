@@ -37,14 +37,8 @@
       "source": "goonies",
       "playlists": [
       ],
-      "ranks": [
-        10,
-        1.9,
-        1,
-        1.05,
-        1.17,
-        1.34
-      ],
+      "ranks": {
+      },
       "scores": [
         0.232,
         0.786,
@@ -73,8 +67,8 @@
         0
       ],
       "debutScore": 0.232,
-      "peakScore": 0.232,
-      "duration": 6.25,
+      "peakScore": 1,
+      "duration": 7,
       "score": 15.386000000000001,
       "role": true,
       "scoreFactor": 1,
@@ -92,16 +86,8 @@
       "debut": "1984-05",
       "playlists": [
       ],
-      "ranks": [
-        12,
-        4.5,
-        2.6,
-        2.2,
-        2.1,
-        2.3,
-        2.6,
-        3.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.498,
@@ -129,7 +115,7 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
+      "peakScore": 0.752,
       "duration": 6,
       "score": 10.474000000000004,
       "genres": [
@@ -152,16 +138,8 @@
       "debut": "1987-01",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11,
-        8,
-        5.9,
-        4.21,
-        3.79,
-        4.1,
-        4.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.2,
@@ -187,8 +165,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 5.5,
+      "peakScore": 0.555,
+      "duration": 6,
       "score": 6.878,
       "genres": [
         "pop"
@@ -209,16 +187,8 @@
       "playlists": [
         "remake"
       ],
-      "ranks": [
-        14,
-        9,
-        6,
-        4.8,
-        3.9,
-        4.1,
-        4.6,
-        5.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.267,
@@ -243,8 +213,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.25,
+      "peakScore": 0.546,
+      "duration": 6,
       "score": 6.784000000000001,
       "genres": [
         "pop"
@@ -264,16 +234,8 @@
       "debut": "1984-07",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.2,
-        5.3,
-        4.6,
-        4.5,
-        4.7,
-        4.9,
-        5.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.26,
@@ -298,8 +260,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 5.25,
+      "peakScore": 0.498,
+      "duration": 6,
       "score": 6.5070000000000014,
       "genres": [
         "pop"
@@ -319,14 +281,8 @@
       "debut": "1986-09",
       "playlists": [
       ],
-      "ranks": [
-        15.9,
-        9.3,
-        6.9,
-        5.4,
-        6,
-        8.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.256,
@@ -347,8 +303,8 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
-      "duration": 4.25,
+      "peakScore": 0.437,
+      "duration": 5,
       "score": 3.706,
       "genres": [
         "pop"
@@ -368,13 +324,8 @@
       "debut": "1984-10",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        10,
-        6,
-        8.1,
-        10.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.232,
@@ -392,8 +343,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 3.5,
+      "peakScore": 0.402,
+      "duration": 4,
       "score": 2.2180000000000004,
       "genres": [
         "pop"
@@ -413,8 +364,8 @@
       "debut": "1985-01",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -434,8 +385,8 @@
       "debut": "1984-02",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -455,8 +406,8 @@
       "debut": "1989-06",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -469,5 +420,5 @@
   "score": 51.95300000000002,
   "songCount": 10,
   "songAdjustedAverage": 16.428981127872785,
-  "rank": 40
+  "rank": 41
 }

@@ -34,15 +34,8 @@
       "debut": "1994-12",
       "playlists": [
       ],
-      "ranks": [
-        14.5,
-        3.9,
-        2.3,
-        1.9,
-        1.75,
-        1.89,
-        2.42
-      ],
+      "ranks": {
+      },
       "scores": [
         0.108,
         0.546,
@@ -70,7 +63,7 @@
         0
       ],
       "debutScore": 0.108,
-      "peakScore": 0.108,
+      "peakScore": 0.813,
       "duration": 6,
       "score": 1.1667,
       "genres": [
@@ -91,12 +84,8 @@
       "debut": "1989-12",
       "playlists": [
       ],
-      "ranks": [
-        24,
-        18,
-        12,
-        15
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.171,
@@ -109,8 +98,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 2.25,
+      "peakScore": 0.171,
+      "duration": 3,
       "score": 0.06140000000000001,
       "genres": [
         "pop"

@@ -33,624 +33,7 @@
       "new-york"
     ],
     "artists": [
-      {
-        "title": "Taylor Dayne",
-        "instanceSlug": "taylor-dayne",
-        "tags": [
-          "1980s",
-          "1990s"
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "dance-pop"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "long-island",
-        "birth": "",
-        "death": "",
-        "type": "f",
-        "songs": [
-          {
-            "title": "Heart of Stone",
-            "instanceSlug": 203,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop-ballad",
-            "debut": "1990-09",
-            "ranks": [
-              13.7,
-              7.7,
-              4.3,
-              3.1,
-              2.4,
-              2.82,
-              3.53,
-              4.41,
-              5.51,
-              6.88,
-              8.61,
-              10.76,
-              13.45,
-              16.81,
-              21.01,
-              26.26,
-              32.83,
-              41.04,
-              51.3,
-              64.12
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 13.7,
-            "peakRank": 2.4,
-            "duration": 5,
-            "score": 16.51,
-            "genres": [
-              {
-                "slug": "pop-ballad",
-                "title": "Pop Ballad"
-              }
-            ],
-            "playlists": [
-            ],
-            "rank": 1
-          },
-          {
-            "title": "Love Will Lead You Back",
-            "instanceSlug": 1341,
-            "tags": [
-              "#1",
-              "#1-adult-contemporary",
-              "love-will"
-            ],
-            "parents": [
-            ],
-            "genre": "pop-ballad",
-            "debut": "1990-02",
-            "playlists": [
-            ],
-            "ranks": [
-              16,
-              10,
-              7.2,
-              5.6,
-              4.5,
-              4.45,
-              4.75,
-              5.4,
-              6.75,
-              8.44,
-              10.55,
-              13.18,
-              16.48,
-              20.6,
-              25.75,
-              32.19,
-              40.23,
-              50.29,
-              62.86,
-              78.58
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 16,
-            "peakRank": 4.45,
-            "duration": 5,
-            "score": 12.21,
-            "genres": [
-              {
-                "slug": "pop-ballad",
-                "title": "Pop Ballad"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "I'll Always Love You",
-            "instanceSlug": 555,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop-ballad",
-            "debut": "1988-08",
-            "playlists": [
-              {
-                "slug": "summer",
-                "title": "Songs of Summer"
-              }
-            ],
-            "ranks": [
-              15.2,
-              6,
-              3.2,
-              3.61,
-              4.51,
-              5.64,
-              7.05,
-              8.81,
-              11.02,
-              13.77,
-              17.21,
-              21.52,
-              26.9,
-              33.62,
-              42.03,
-              52.53
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15.2,
-            "peakRank": 3.2,
-            "duration": 4,
-            "score": 10.81,
-            "genres": [
-              {
-                "slug": "pop-ballad",
-                "title": "Pop Ballad"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Tell It to My Heart",
-            "instanceSlug": 1836,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "dance-pop",
-            "debut": "1987-12",
-            "playlists": [
-            ],
-            "ranks": [
-              15.7,
-              11,
-              8,
-              6.4,
-              5.4,
-              4.8,
-              5.4,
-              6.75,
-              8.44,
-              10.55,
-              13.18,
-              16.48,
-              20.6,
-              25.75,
-              32.19,
-              40.23,
-              50.29,
-              62.86,
-              78.58,
-              98.23
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 15.7,
-            "peakRank": 4.8,
-            "duration": 5,
-            "score": 10.19,
-            "genres": [
-              {
-                "slug": "dance-pop",
-                "title": "Dance-Pop"
-              }
-            ],
-            "rank": 4
-          },
-          {
-            "title": "With Every Beat of My Heart",
-            "instanceSlug": 1420,
-            "tags": [
-              "beat",
-              "every",
-              "heart",
-              "my",
-              "this-of-that",
-              "with"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1989-11",
-            "playlists": [
-            ],
-            "ranks": [
-              17,
-              13,
-              9.5,
-              6.5,
-              5.9,
-              5.8,
-              6.3,
-              7.88,
-              9.84,
-              12.3,
-              15.38,
-              19.23,
-              24.03,
-              30.04,
-              37.55,
-              46.94,
-              58.67,
-              73.34,
-              91.68,
-              114.6
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 17,
-            "peakRank": 5.8,
-            "duration": 5,
-            "score": 8.56,
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 5
-          },
-          {
-            "title": "Prove Your Love",
-            "instanceSlug": 455,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "dance-pop",
-            "debut": "1988-03",
-            "playlists": [
-            ],
-            "ranks": [
-              21,
-              12.5,
-              10.1,
-              8.4,
-              7.6,
-              7.2,
-              7,
-              7.9,
-              9.88,
-              12.34,
-              15.43,
-              19.29,
-              24.11,
-              30.14,
-              37.67,
-              47.09,
-              58.86,
-              73.57,
-              91.97,
-              114.96
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "debutRank": 21,
-            "peakRank": 7,
-            "duration": 5,
-            "score": 7.52,
-            "genres": [
-              {
-                "slug": "dance-pop",
-                "title": "Dance-Pop"
-              }
-            ],
-            "rank": 6
-          },
-          {
-            "title": "I'll Be Your Shelter",
-            "instanceSlug": 1328,
-            "tags": [
-              "i'll",
-              "i'll-be"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1990-06",
-            "playlists": [
-              {
-                "slug": "summer",
-                "title": "Songs of Summer"
-              }
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 7
-          },
-          {
-            "title": "Can't Get Enough of Your Love",
-            "instanceSlug": 1418,
-            "tags": [
-              "",
-              "your-love"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1993-07",
-            "playlists": [
-              {
-                "slug": "remake",
-                "title": "Remakes"
-              }
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 8
-          },
-          {
-            "title": "Don't Rush Me",
-            "instanceSlug": 1582,
-            "tags": [
-              "don't",
-              "me",
-              "rush"
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1988-12",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 9
-          },
-          {
-            "title": "Send Me a Lover",
-            "instanceSlug": 706,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "pop",
-            "debut": "1993-10",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "taylor-dayne",
-                "title": "Taylor Dayne",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "pop",
-                "title": "Pop"
-              }
-            ],
-            "rank": 10
-          }
-        ],
-        "score": 65.8,
-        "songAdjustedAverage": 20.81,
-        "rank": 152
-      },
-      {
-        "title": "LL Cool J",
-        "instanceSlug": "ll-cool-j",
-        "tags": [
-          "1980s",
-          "1990s",
-          "2000s"
-        ],
-        "parents": [
-        ],
-        "genres": [
-          "rap"
-        ],
-        "members": [
-        ],
-        "xref": [
-        ],
-        "complete": true,
-        "origin": "long-island",
-        "birth": "",
-        "death": "",
-        "type": "m",
-        "songs": [
-          {
-            "title": "Around the Way Girl",
-            "instanceSlug": 1169,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rap",
-            "debut": "1991-05-1",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ll-cool-j",
-                "title": "LL Cool J",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rap",
-                "title": "Rap"
-              }
-            ],
-            "rank": 1
-          },
-          {
-            "title": "I Need Love",
-            "instanceSlug": 2044,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rap",
-            "debut": "1987-09",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ll-cool-j",
-                "title": "LL Cool J",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rap",
-                "title": "Rap"
-              }
-            ],
-            "rank": 2
-          },
-          {
-            "title": "Going Back to Cali",
-            "instanceSlug": 2045,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rap",
-            "debut": "1988-04",
-            "source": "less-than-zero",
-            "playlists": [
-            ],
-            "ranks": true,
-            "artists": [
-              {
-                "slug": "ll-cool-j",
-                "title": "LL Cool J",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rap",
-                "title": "Rap"
-              }
-            ],
-            "rank": 3
-          },
-          {
-            "title": "Mama Said Knock You Out",
-            "instanceSlug": 2046,
-            "tags": [
-            ],
-            "parents": [
-            ],
-            "genre": "rap",
-            "debut": "1991-05",
-            "playlists": [
-            ],
-            "ranks": [
-            ],
-            "artists": [
-              {
-                "slug": "ll-cool-j",
-                "title": "LL Cool J",
-                "roleSlug": true
-              }
-            ],
-            "genres": [
-              {
-                "slug": "rap",
-                "title": "Rap"
-              }
-            ],
-            "rank": 4
-          }
-        ],
-        "score": 0,
-        "songAdjustedAverage": 0,
-        "rank": 1056
-      }
-    ],
-    "score": 65.8,
-    "artistAdjustedAverage": 46.53
+    ]
   },
   "birth": "",
   "death": "",
@@ -674,14 +57,8 @@
       ],
       "genre": "pop",
       "debut": "1990-09",
-      "ranks": [
-        13.7,
-        7.7,
-        4.3,
-        3.1,
-        2.4,
-        2.82
-      ],
+      "ranks": {
+      },
       "scores": [
         0.127,
         0.319,
@@ -707,8 +84,8 @@
         0
       ],
       "debutScore": 0.127,
-      "peakScore": 0.127,
-      "duration": 5.5,
+      "peakScore": 0.708,
+      "duration": 6,
       "score": 9.352999999999998,
       "genres": [
         "pop"
@@ -726,14 +103,8 @@
       "debut": "1988-12",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        7,
-        3.5,
-        3,
-        3.1,
-        3.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.351,
@@ -758,8 +129,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.25,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 8.365,
       "genres": [
         "pop"
@@ -781,12 +152,8 @@
         "summer",
         "ballad"
       ],
-      "ranks": [
-        15.2,
-        6,
-        3.2,
-        3.61
-      ],
+      "ranks": {
+      },
       "scores": [
         0.092,
         0.402,
@@ -809,8 +176,8 @@
         0
       ],
       "debutScore": 0.092,
-      "peakScore": 0.092,
-      "duration": 4.75,
+      "peakScore": 0.612,
+      "duration": 5,
       "score": 6.886000000000001,
       "genres": [
         "pop"
@@ -836,16 +203,8 @@
         "lost-loves",
         "feb13"
       ],
-      "ranks": [
-        16,
-        10,
-        7.2,
-        5.6,
-        4.5,
-        4.45,
-        4.75,
-        5.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.075,
         0.232,
@@ -870,8 +229,8 @@
         0
       ],
       "debutScore": 0.075,
-      "peakScore": 0.075,
-      "duration": 5.25,
+      "peakScore": 0.502,
+      "duration": 6,
       "score": 6.413999999999999,
       "genres": [
         "pop"
@@ -891,15 +250,8 @@
       "debut": "1987-12",
       "playlists": [
       ],
-      "ranks": [
-        15.7,
-        11,
-        8,
-        6.4,
-        5.4,
-        4.8,
-        5.4
-      ],
+      "ranks": {
+      },
       "scores": [
         0.082,
         0.2,
@@ -923,7 +275,7 @@
         0
       ],
       "debutScore": 0.082,
-      "peakScore": 0.082,
+      "peakScore": 0.477,
       "duration": 5,
       "score": 5.743999999999999,
       "genres": [
@@ -950,15 +302,8 @@
       "debut": "1989-11",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        13,
-        9.5,
-        6.5,
-        5.9,
-        5.8,
-        6.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.145,
@@ -981,8 +326,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 4.75,
+      "peakScore": 0.414,
+      "duration": 5,
       "score": 4.848999999999999,
       "genres": [
         "pop"
@@ -1002,16 +347,8 @@
       "debut": "1988-03",
       "playlists": [
       ],
-      "ranks": [
-        21,
-        12.5,
-        10.1,
-        8.4,
-        7.6,
-        7.2,
-        7,
-        7.9
-      ],
+      "ranks": {
+      },
       "scores": [
         0.158,
         0.229,
@@ -1033,8 +370,8 @@
         0
       ],
       "debutScore": 0.158,
-      "peakScore": 0.158,
-      "duration": 4.5,
+      "peakScore": 0.351,
+      "duration": 5,
       "score": 4.013,
       "genres": [
         "dance-pop"
@@ -1057,8 +394,8 @@
       "playlists": [
         "summer"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -1081,8 +418,8 @@
       "playlists": [
         "remake"
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -1102,8 +439,8 @@
       "debut": "1993-10",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -1116,5 +453,5 @@
   "score": 45.62399999999999,
   "songCount": 10,
   "songAdjustedAverage": 14.42757559675221,
-  "rank": 65
+  "rank": 63
 }

@@ -28,16 +28,8 @@
       "debut": "2010s",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        9,
-        5,
-        3.9,
-        3,
-        2.5,
-        2.75,
-        3.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.267,
@@ -65,7 +57,7 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
+      "peakScore": 0.694,
       "duration": 6,
       "score": 9.871999999999998,
       "genres": [
@@ -79,5 +71,5 @@
   "score": 9.871999999999998,
   "songCount": 1,
   "songAdjustedAverage": 9.871999999999998,
-  "rank": 229
+  "rank": 232
 }

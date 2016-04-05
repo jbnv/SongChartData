@@ -32,13 +32,8 @@
       ],
       "genre": "pop",
       "debut": "1992-12",
-      "ranks": [
-        14,
-        4.2,
-        1.4,
-        1.51,
-        1.78
-      ],
+      "ranks": {
+      },
       "scores": [
         0.12,
         0.521,
@@ -65,8 +60,8 @@
         0
       ],
       "debutScore": 0.12,
-      "peakScore": 0.12,
-      "duration": 5.75,
+      "peakScore": 0.887,
+      "duration": 6,
       "score": 12.071000000000003,
       "genres": [
         "pop"
@@ -83,14 +78,8 @@
       "debut": 1985,
       "playlists": [
       ],
-      "ranks": [
-        12,
-        3,
-        1.7,
-        1.77,
-        1.85,
-        2.2
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.633,
@@ -117,8 +106,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.75,
+      "peakScore": 0.823,
+      "duration": 6,
       "score": 11.679,
       "role": true,
       "scoreFactor": 1,
@@ -134,13 +123,8 @@
       "genre": [
       ],
       "debut": "1987-09",
-      "ranks": [
-        12,
-        3,
-        1.6,
-        1.7,
-        2.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.171,
         0.633,
@@ -166,8 +150,8 @@
         0
       ],
       "debutScore": 0.171,
-      "peakScore": 0.171,
-      "duration": 5.5,
+      "peakScore": 0.843,
+      "duration": 6,
       "score": 11.173999999999998,
       "genres": [
         [
@@ -189,15 +173,8 @@
       "genres": [
       ],
       "debut": "1990-07",
-      "ranks": [
-        15.9,
-        9.4,
-        5.5,
-        5.1,
-        4.9,
-        5.1,
-        5.5
-      ],
+      "ranks": {
+      },
       "scores": [
         0.077,
         0.253,
@@ -221,7 +198,7 @@
         0
       ],
       "debutScore": 0.077,
-      "peakScore": 0.077,
+      "peakScore": 0.47,
       "duration": 5,
       "score": 5.926000000000001,
       "role": true,
@@ -238,15 +215,8 @@
       ],
       "genre": "pop",
       "debut": 1993,
-      "ranks": [
-        25,
-        22,
-        18,
-        16,
-        15,
-        15.5,
-        19
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.075,
@@ -258,7 +228,7 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.018,
+      "peakScore": 0.097,
       "duration": 2,
       "score": 0.328,
       "genres": [
@@ -272,5 +242,5 @@
   "score": 41.178000000000004,
   "songCount": 5,
   "songAdjustedAverage": 18.415361435497267,
-  "rank": 28
+  "rank": 29
 }

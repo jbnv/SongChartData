@@ -36,13 +36,8 @@
       "debut": "1980-10",
       "playlists": [
       ],
-      "ranks": [
-        12.5,
-        2.8,
-        1.7,
-        1.85,
-        2.21
-      ],
+      "ranks": {
+      },
       "scores": [
         0.158,
         0.656,
@@ -68,8 +63,8 @@
         0
       ],
       "debutScore": 0.158,
-      "peakScore": 0.158,
-      "duration": 5.5,
+      "peakScore": 0.823,
+      "duration": 6,
       "score": 10.846,
       "genres": [
         "pop"
@@ -92,16 +87,8 @@
       "debut": "1982-10",
       "playlists": [
       ],
-      "ranks": [
-        15.5,
-        10.2,
-        7,
-        5.2,
-        4.9,
-        5.2,
-        5.8,
-        7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.086,
         0.225,
@@ -125,7 +112,7 @@
         0
       ],
       "debutScore": 0.086,
-      "peakScore": 0.086,
+      "peakScore": 0.47,
       "duration": 5,
       "score": 5.228,
       "genres": [
@@ -139,5 +126,5 @@
   "score": 16.073999999999998,
   "songCount": 2,
   "songAdjustedAverage": 11.366034400792563,
-  "rank": 150
+  "rank": 152
 }

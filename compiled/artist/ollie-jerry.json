@@ -28,7 +28,8 @@
       "source": "breakin",
       "playlists": [
       ],
-      "ranks": true,
+      "ranks": {
+      },
       "genres": [
         "urban"
       ],

@@ -38,15 +38,8 @@
       "debut": "1984-07",
       "playlists": [
       ],
-      "ranks": [
-        18,
-        9,
-        7.6,
-        7.7,
-        7.8,
-        8.4,
-        9.8
-      ],
+      "ranks": {
+      },
       "scores": [
         0.036,
         0.267,
@@ -67,8 +60,8 @@
         0
       ],
       "debutScore": 0.036,
-      "peakScore": 0.036,
-      "duration": 4.25,
+      "peakScore": 0.323,
+      "duration": 5,
       "score": 3.1150000000000007,
       "genres": [
         "rock"

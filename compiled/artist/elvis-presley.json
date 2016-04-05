@@ -49,14 +49,8 @@
       "debut": "1970s",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        6.6,
-        3.3,
-        2.2,
-        2.13,
-        2.42
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.37,
@@ -83,8 +77,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.75,
+      "peakScore": 0.747,
+      "duration": 6,
       "score": 10.458,
       "genres": [
         "pop"
@@ -106,15 +100,8 @@
       "debut": "1981-03",
       "playlists": [
       ],
-      "ranks": [
-        15,
-        9,
-        6,
-        4.5,
-        3,
-        3.2,
-        3.7
-      ],
+      "ranks": {
+      },
       "scores": [
         0.097,
         0.267,
@@ -140,8 +127,8 @@
         0
       ],
       "debutScore": 0.097,
-      "peakScore": 0.097,
-      "duration": 5.5,
+      "peakScore": 0.633,
+      "duration": 6,
       "score": 8.154,
       "genres": [
         "rock"
@@ -161,8 +148,8 @@
       "debut": "1950s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -182,8 +169,8 @@
       "debut": "1950s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -203,8 +190,8 @@
       "debut": "1950s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -224,8 +211,8 @@
       "debut": "1950s",
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "rock"
@@ -245,8 +232,8 @@
       "debut": 1972,
       "playlists": [
       ],
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"
@@ -267,8 +254,8 @@
       ],
       "genre": "pop",
       "debut": 1970,
-      "ranks": [
-      ],
+      "ranks": {
+      },
       "scores": null,
       "genres": [
         "pop"

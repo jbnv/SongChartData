@@ -36,13 +36,8 @@
       "debut": "1981-05",
       "playlists": [
       ],
-      "ranks": [
-        13,
-        6,
-        3,
-        1,
-        1.31
-      ],
+      "ranks": {
+      },
       "scores": [
         0.145,
         0.402,
@@ -70,7 +65,7 @@
         0
       ],
       "debutScore": 0.145,
-      "peakScore": 0.145,
+      "peakScore": 1,
       "duration": 6,
       "score": 13.751,
       "genres": [

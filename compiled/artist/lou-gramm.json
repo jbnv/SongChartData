@@ -41,16 +41,8 @@
       "debut": "1989-10",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        11,
-        8,
-        6,
-        4.4,
-        4.22,
-        4.5,
-        5.1
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.2,
@@ -76,8 +68,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 5.5,
+      "peakScore": 0.52,
+      "duration": 6,
       "score": 6.596,
       "genres": [
         "pop"

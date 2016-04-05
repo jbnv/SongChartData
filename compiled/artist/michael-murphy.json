@@ -36,14 +36,8 @@
       "debut": "1982-09",
       "playlists": [
       ],
-      "ranks": [
-        25,
-        17,
-        11.8,
-        8.9,
-        9.2,
-        11
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.177,
@@ -61,8 +55,8 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
-      "duration": 3.5,
+      "peakScore": 0.271,
+      "duration": 4,
       "score": 1.963,
       "genres": [
         "country"

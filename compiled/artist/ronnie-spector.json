@@ -38,11 +38,8 @@
       "debut": "1986-10",
       "playlists": [
       ],
-      "ranks": [
-        7.7,
-        1.13,
-        1.41
-      ],
+      "ranks": {
+      },
       "scores": [
         0.319,
         0.959,
@@ -68,8 +65,8 @@
         0
       ],
       "debutScore": 0.319,
-      "peakScore": 0.319,
-      "duration": 5.5,
+      "peakScore": 0.959,
+      "duration": 6,
       "score": 1.2392999999999998,
       "genres": [
         "rock"

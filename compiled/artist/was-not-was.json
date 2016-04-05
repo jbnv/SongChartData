@@ -28,13 +28,8 @@
       "playlists": [
         "organ"
       ],
-      "ranks": [
-        8,
-        1,
-        1.1105,
-        1.24,
-        1.46
-      ],
+      "ranks": {
+      },
       "note": "Project 4 weeks at #1.",
       "scores": [
         0.306,
@@ -63,7 +58,7 @@
         0
       ],
       "debutScore": 0.306,
-      "peakScore": 0.306,
+      "peakScore": 1,
       "duration": 6,
       "score": 14.086000000000002,
       "genres": [
@@ -85,14 +80,8 @@
       "debut": "1988-11",
       "playlists": [
       ],
-      "ranks": [
-        17,
-        10,
-        6.5,
-        4.5,
-        4,
-        4.3
-      ],
+      "ranks": {
+      },
       "scores": [
         0.055,
         0.232,
@@ -116,7 +105,7 @@
         0
       ],
       "debutScore": 0.055,
-      "peakScore": 0.055,
+      "peakScore": 0.537,
       "duration": 5,
       "score": 6.6049999999999995,
       "role": true,
