@@ -1,1 +1,86 @@
-{"title":"Brenda Russell","instanceSlug":"brenda-russell","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Piano in the Dark","instanceSlug":460,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1988-04","playlists":["ballad","piano"],"ranks":[13.9,2.4,2.2,2.31,2.47,2.63,2.95,3.43,4.07,4.87,5.83,6.95,8.23,9.67,11.27,13.03,14.95,17.03,19.27,21.67,24.23,26.95,29.83,32.87,36.07,39.43,42.95,46.63,50.47,54.47,58.63,62.95],"debutRank":13.9,"peakRank":2.2,"duration":8,"score":23.13,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":1}],"score":23.13,"songAdjustedAverage":23.13,"rank":124}
+{
+  "title": "Brenda Russell",
+  "instanceSlug": "brenda-russell",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Piano in the Dark",
+      "instanceSlug": 460,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1988-04",
+      "playlists": [
+        "ballad",
+        "piano"
+      ],
+      "ranks": [
+        13.9,
+        2.4,
+        2.2,
+        2.31,
+        2.47
+      ],
+      "scores": [
+        0.122,
+        0.708,
+        0.737,
+        0.72,
+        0.698,
+        0.693,
+        0.683,
+        0.668,
+        0.648,
+        0.623,
+        0.593,
+        0.558,
+        0.518,
+        0.473,
+        0.423,
+        0.368,
+        0.308,
+        0.243,
+        0.173,
+        0.098,
+        0.018,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.122,
+      "duration": 5.5,
+      "score": 10.073000000000002,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 10.073000000000002,
+  "songCount": 1,
+  "songAdjustedAverage": 10.073000000000002,
+  "rank": 209
+}

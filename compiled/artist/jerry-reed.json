@@ -1,1 +1,130 @@
-{"title":"Jerry Reed","instanceSlug":"jerry-reed","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Guitar Man","instanceSlug":2584,"tags":["#1","#1-country"],"parents":[],"genre":"rock","debut":"1981-03","playlists":[],"ranks":[15,9,6,4.5,3,3.2,3.7,4.2,5.2,6.7,8.7,11.2,14.2,17.7,21.7,26.2,31.2,36.7,42.7,49.2,56.2,63.7,71.7,80.2],"debutRank":15,"peakRank":3,"duration":6,"score":1.5140000000000002,"genres":["rock"],"role":"backup","scoreFactor":0.1,"rank":1},{"title":"Amos Moses","instanceSlug":2684,"tags":[],"parents":[],"genre":"country","debut":1971,"playlists":[],"ranks":[],"genres":["country"],"role":true,"scoreFactor":1,"score":null,"rank":2},{"title":"When You're Hot, You're Hot","instanceSlug":2685,"tags":[],"parents":[],"genre":"country","debut":1971,"playlists":[],"ranks":[],"genres":["country"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":1.51,"songAdjustedAverage":0.87,"rank":735}
+{
+  "title": "Jerry Reed",
+  "instanceSlug": "jerry-reed",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Guitar Man",
+      "instanceSlug": 2584,
+      "tags": [
+        "#1",
+        "#1-country"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1981-03",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        9,
+        6,
+        4.5,
+        3,
+        3.2,
+        3.7
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.498,
+        0.633,
+        0.612,
+        0.563,
+        0.558,
+        0.548,
+        0.533,
+        0.513,
+        0.488,
+        0.458,
+        0.423,
+        0.383,
+        0.338,
+        0.288,
+        0.233,
+        0.173,
+        0.108,
+        0.038,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 0.8154,
+      "genres": [
+        "rock"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    },
+    {
+      "title": "Amos Moses",
+      "instanceSlug": 2684,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1971,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "When You're Hot, You're Hot",
+      "instanceSlug": 2685,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1971,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 0.8154,
+  "songCount": 3,
+  "songAdjustedAverage": 0.4707714094972209,
+  "rank": 739
+}

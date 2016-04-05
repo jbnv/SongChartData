@@ -1,1 +1,164 @@
-{"title":"Pretenders","instanceSlug":"pretenders","tags":[{"slug":"1980s","title":"Major Artists of the 1980s"},{"slug":"hof","title":"Rock & Roll Hall of Fame Members"}],"parents":[],"genres":[{"slug":"rock","title":"Rock"}],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Back on the Chain Gang","instanceSlug":1617,"tags":["back","chain","gang"],"parents":[],"genre":"rock","debut":"1983-04","playlists":[],"ranks":[16.2,9.5,4.5,3.2,2.9,3.45,4,5.1,6.75,8.95,11.7,15,18.85,23.25,28.2,33.7,39.75,46.35,53.5,61.2],"debutRank":16.2,"peakRank":2.9,"duration":5,"score":13.77,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Don't Get Me Wrong","instanceSlug":1032,"tags":["don't","get","me","wrong"],"parents":[],"genre":"rock","debut":"1986-10","playlists":[],"ranks":[12.5,10,7.5,5,5.2,5.5,5.9,6.4,6.9,7.6,8.6,9.6,11.6,14.6,18.6,23.6,29.6,36.6,44.6,53.6],"debutRank":12.5,"peakRank":5,"duration":5,"score":13.13,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2}],"score":26.9,"songAdjustedAverage":19.02,"rank":233}
+{
+  "title": "Pretenders",
+  "instanceSlug": "pretenders",
+  "tags": [
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    },
+    {
+      "slug": "hof",
+      "title": "Rock & Roll Hall of Fame Members"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Back on the Chain Gang",
+      "instanceSlug": 1617,
+      "tags": [
+        "back",
+        "chain",
+        "gang"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": [
+        16.2,
+        9.5,
+        4.5,
+        3.2,
+        2.9,
+        3.45
+      ],
+      "scores": [
+        0.071,
+        0.249,
+        0.498,
+        0.612,
+        0.645,
+        0.587,
+        0.582,
+        0.572,
+        0.557,
+        0.537,
+        0.512,
+        0.482,
+        0.447,
+        0.407,
+        0.362,
+        0.312,
+        0.257,
+        0.197,
+        0.132,
+        0.062,
+        0
+      ],
+      "debutScore": 0.071,
+      "peakScore": 0.071,
+      "duration": 5.25,
+      "score": 8.08,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Don't Get Me Wrong",
+      "instanceSlug": 1032,
+      "tags": [
+        "don't",
+        "get",
+        "me",
+        "wrong"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-10",
+      "playlists": [
+      ],
+      "ranks": [
+        12.5,
+        10,
+        7.5,
+        5,
+        5.2,
+        5.5,
+        5.9,
+        6.4,
+        6.9,
+        7.6,
+        8.6
+      ],
+      "scores": [
+        0.158,
+        0.232,
+        0.328,
+        0.463,
+        0.45,
+        0.431,
+        0.408,
+        0.381,
+        0.356,
+        0.323,
+        0.282,
+        0.277,
+        0.267,
+        0.252,
+        0.232,
+        0.207,
+        0.177,
+        0.142,
+        0.102,
+        0.057,
+        0.007,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.158,
+      "duration": 5.5,
+      "score": 5.532,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 13.612,
+  "songCount": 2,
+  "songAdjustedAverage": 9.625137505511285,
+  "rank": 246
+}

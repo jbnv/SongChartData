@@ -1,1 +1,234 @@
-{"title":"Dino","instanceSlug":"dino","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Ooh Child","instanceSlug":315,"tags":[],"playlists":["remake","summer"],"parents":[],"genre":"pop","debut":"1993-08","ranks":[4.5,1,1.12,1.24,1.48,1.84,2.32,2.92,3.64,4.48,5.44,6.52,7.72,9.04,10.48,12.04,13.72,15.52,17.44,19.48,21.64,23.92,26.32,28.84,31.48,34.24,37.12,40.12,43.24,46.48,49.84,53.32],"debutRank":4.5,"peakRank":1,"duration":8,"score":28.62,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Summer Girls","instanceSlug":3043,"tags":[],"parents":[],"genre":"pop","debut":1988,"playlists":["summer"],"ranks":[12,2.5,2,2.01,2.08,2.2,2.7,3.2,4.2,5.7,7.7,10.2,13.2,16.7,20.7,25.2,30.2,35.7,41.7,48.2,55.2,62.7,70.7,79.2],"debutRank":12,"peakRank":2,"duration":6,"score":20.6,"genres":["pop"],"role":true,"scoreFactor":1,"rank":2},{"title":"I Like It","instanceSlug":495,"tags":[],"parents":[],"genre":"pop","debut":"1989-07","playlists":["summer"],"ranks":[15,4.6,2.5,2.71,2.92,3.34,3.97,4.81,5.86,7.12,8.59,10.27,12.16,14.26,16.57,19.09,21.82,24.76,27.91,31.27,34.84,38.62,42.61,46.81,51.22,55.84,60.67,65.71],"debutRank":15,"peakRank":2.5,"duration":7,"score":17.5,"genres":["pop"],"role":true,"scoreFactor":1,"rank":3},{"title":"Romeo","instanceSlug":199,"tags":[],"parents":[],"genre":"dance","debut":"1990-09","ranks":[24.9,14.5,8.4,9.8,11.2,14,18.2,23.8,30.8,39.2,49,60.2],"debutRank":24.9,"peakRank":8.4,"duration":3,"score":2.96,"genres":["dance"],"role":true,"scoreFactor":1,"rank":4}],"score":69.68,"songAdjustedAverage":34.84,"rank":27}
+{
+  "title": "Dino",
+  "instanceSlug": "dino",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Ooh Child",
+      "instanceSlug": 315,
+      "tags": [
+      ],
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1993-08",
+      "ranks": [
+        4.5,
+        1,
+        1.12
+      ],
+      "scores": [
+        0.498,
+        1,
+        0.962,
+        0.957,
+        0.947,
+        0.932,
+        0.912,
+        0.887,
+        0.857,
+        0.822,
+        0.782,
+        0.737,
+        0.687,
+        0.632,
+        0.572,
+        0.507,
+        0.437,
+        0.362,
+        0.282,
+        0.197,
+        0.107,
+        0.012,
+        0
+      ],
+      "debutScore": 0.498,
+      "peakScore": 0.498,
+      "duration": 5.75,
+      "score": 14.087999999999997,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Summer Girls",
+      "instanceSlug": 3043,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1988,
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        12,
+        2.5,
+        2,
+        2.01,
+        2.08,
+        2.2,
+        2.7
+      ],
+      "scores": [
+        0.171,
+        0.694,
+        0.768,
+        0.767,
+        0.755,
+        0.737,
+        0.668,
+        0.663,
+        0.653,
+        0.638,
+        0.618,
+        0.593,
+        0.563,
+        0.528,
+        0.488,
+        0.443,
+        0.393,
+        0.338,
+        0.278,
+        0.213,
+        0.143,
+        0.068,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 5.75,
+      "score": 11.18,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "I Like It",
+      "instanceSlug": 495,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1989-07",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        15,
+        4.6,
+        2.5,
+        2.71
+      ],
+      "scores": [
+        0.097,
+        0.491,
+        0.694,
+        0.667,
+        0.662,
+        0.652,
+        0.637,
+        0.617,
+        0.592,
+        0.562,
+        0.527,
+        0.487,
+        0.442,
+        0.392,
+        0.337,
+        0.277,
+        0.212,
+        0.142,
+        0.067,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5,
+      "score": 8.554,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Romeo",
+      "instanceSlug": 199,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-09",
+      "ranks": [
+        24.9,
+        14.5,
+        8.4,
+        9.8
+      ],
+      "scores": [
+        0.108,
+        0.29,
+        0.239,
+        0.234,
+        0.224,
+        0.209,
+        0.189,
+        0.164,
+        0.134,
+        0.099,
+        0.059,
+        0.014,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.108,
+      "duration": 3.25,
+      "score": 1.9629999999999999,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    }
+  ],
+  "score": 35.785,
+  "songCount": 4,
+  "songAdjustedAverage": 17.8925,
+  "rank": 31
+}

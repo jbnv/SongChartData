@@ -1,1 +1,112 @@
-{"title":"Toby Keith","instanceSlug":"toby-keith","tags":[],"parents":[],"genres":[{"slug":"country","title":"Country"}],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Beer for My Horses","instanceSlug":1716,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"2003-05","playlists":[],"ranks":[15.5,8.1,5.9,5.2,5.3,5.7,7,8.3,10.9,14.8,20,26.5,34.3,43.4,53.8,65.5],"debutRank":15.5,"peakRank":5.2,"duration":4,"score":9.19,"genres":["country"],"role":true,"scoreFactor":1,"rank":1},{"title":"Red Solo Cup","instanceSlug":2064,"tags":[],"parents":[],"genre":"country","debut":"2011-10","playlists":[],"ranks":[],"genres":["country"],"role":true,"scoreFactor":1,"score":null,"rank":2}],"score":9.19,"songAdjustedAverage":6.5,"rank":592}
+{
+  "title": "Toby Keith",
+  "instanceSlug": "toby-keith",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Beer for My Horses",
+      "instanceSlug": 1716,
+      "tags": [
+        "#1",
+        "#1-country"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "2003-05",
+      "playlists": [
+      ],
+      "ranks": [
+        15.5,
+        8.1,
+        5.9,
+        5.2,
+        5.3,
+        5.7,
+        7
+      ],
+      "scores": [
+        0.086,
+        0.302,
+        0.408,
+        0.45,
+        0.444,
+        0.419,
+        0.351,
+        0.346,
+        0.336,
+        0.321,
+        0.301,
+        0.276,
+        0.246,
+        0.211,
+        0.171,
+        0.126,
+        0.076,
+        0.021,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.086,
+      "duration": 4.75,
+      "score": 4.891,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Red Solo Cup",
+      "instanceSlug": 2064,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "2011-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 4.891,
+  "songCount": 2,
+  "songAdjustedAverage": 3.4584592667834038,
+  "rank": 597
+}

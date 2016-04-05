@@ -1,1 +1,48 @@
-{"title":"Louis Armstrong","instanceSlug":"louis-armstrong","tags":[{"slug":"hof","title":"Rock & Roll Hall of Fame Members"}],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"What a Wonderful World","instanceSlug":["larmstrong01","good-morning-vietnam"],"tags":[],"parents":[],"debut":"1988-03","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1125}
+{
+  "title": "Louis Armstrong",
+  "instanceSlug": "louis-armstrong",
+  "tags": [
+    {
+      "slug": "hof",
+      "title": "Rock & Roll Hall of Fame Members"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "What a Wonderful World",
+      "instanceSlug": [
+        "larmstrong01",
+        "good-morning-vietnam"
+      ],
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": "1988-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1091
+}

@@ -1,1 +1,80 @@
-{"title":"Dionne Farris","instanceSlug":"dionne-farris","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"I Know","instanceSlug":406,"tags":[],"parents":[],"genre":"pop","debut":"1995-05","playlists":[],"ranks":[14,2.25,2.37,2.49,2.73,3.09,3.57,4.17,4.89,5.73,6.69,7.77,8.97,10.29,11.73,13.29,14.97,16.77,18.69,20.73,22.89,25.17,27.57,30.09,32.73,35.49,38.37,41.37,44.49,47.73,51.09,54.57],"debutRank":14,"peakRank":2.25,"duration":8,"score":21.63,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":21.63,"songAdjustedAverage":21.63,"rank":153}
+{
+  "title": "Dionne Farris",
+  "instanceSlug": "dionne-farris",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "I Know",
+      "instanceSlug": 406,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1995-05",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        2.25,
+        2.37
+      ],
+      "scores": [
+        0.12,
+        0.729,
+        0.712,
+        0.707,
+        0.697,
+        0.682,
+        0.662,
+        0.637,
+        0.607,
+        0.572,
+        0.532,
+        0.487,
+        0.437,
+        0.382,
+        0.322,
+        0.257,
+        0.187,
+        0.112,
+        0.032,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5,
+      "score": 8.873,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 8.873,
+  "songCount": 1,
+  "songAdjustedAverage": 8.873,
+  "rank": 279
+}

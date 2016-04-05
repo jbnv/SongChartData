@@ -1,1 +1,153 @@
-{"title":"Maroon 5","instanceSlug":"maroon-5","tags":[],"parents":[],"genres":[],"members":["adam-levine"],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Sugar","instanceSlug":2523,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2015-04","playlists":["summer"],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":1},{"title":"Daylight","instanceSlug":3014,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":2},{"title":"Moves Like Jagger","instanceSlug":3029,"tags":["#1","#1-rdwt40-hot-adult","a:mick-jagger"],"parents":[],"genre":"dance-pop","debut":2010,"playlists":[],"ranks":[],"genres":["dance-pop"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"One More Night","instanceSlug":3032,"tags":["#1","#1-rdwt40-hot-adult","one-more"],"parents":[],"genre":"pop","debut":"2000s","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Payphone","instanceSlug":3033,"tags":["#1","#1-rdwt40-hot-adult","phone"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":5}],"score":0,"songAdjustedAverage":0,"rank":1173}
+{
+  "title": "Maroon 5",
+  "instanceSlug": "maroon-5",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+    "adam-levine"
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Sugar",
+      "instanceSlug": 2523,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2015-04",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Daylight",
+      "instanceSlug": 3014,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2010s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Moves Like Jagger",
+      "instanceSlug": 3029,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult",
+        "a:mick-jagger"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2010,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "One More Night",
+      "instanceSlug": 3032,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult",
+        "one-more"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2000s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Payphone",
+      "instanceSlug": 3033,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult",
+        "phone"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2010s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    }
+  ],
+  "score": 0,
+  "songCount": 5,
+  "songAdjustedAverage": 0,
+  "rank": 1162
+}

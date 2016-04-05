@@ -1,1 +1,109 @@
-{"title":"Dan Hill","instanceSlug":"dan-hill","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Can't We Try","instanceSlug":240,"tags":[],"playlists":["ballad"],"genre":"pop","debut":"1987-08","ranks":[12,6.8,2.8,2.2,1.95,2.15,2.34,2.68,3.02,3.7,4.72,6.08,7.78,9.82,12.2,14.92,17.98,21.38,25.12,29.2,33.62,38.38,43.48,48.92,54.7,60.82,67.28,74.08],"debutRank":12,"peakRank":1.95,"duration":7,"score":23.31,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Sometimes When We Touch","instanceSlug":1854,"tags":[],"parents":[],"genre":"pop","debut":1978,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":2}],"score":23.31,"songAdjustedAverage":16.48,"rank":285}
+{
+  "title": "Dan Hill",
+  "instanceSlug": "dan-hill",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Can't We Try",
+      "instanceSlug": 240,
+      "tags": [
+      ],
+      "playlists": [
+        "ballad"
+      ],
+      "genre": "pop",
+      "debut": "1987-08",
+      "ranks": [
+        12,
+        6.8,
+        2.8,
+        2.2,
+        1.95,
+        2.15,
+        2.34,
+        2.68
+      ],
+      "scores": [
+        0.171,
+        0.361,
+        0.656,
+        0.737,
+        0.777,
+        0.744,
+        0.716,
+        0.671,
+        0.666,
+        0.656,
+        0.641,
+        0.621,
+        0.596,
+        0.566,
+        0.531,
+        0.491,
+        0.446,
+        0.396,
+        0.341,
+        0.281,
+        0.216,
+        0.146,
+        0.071,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 6,
+      "score": 11.498000000000003,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Sometimes When We Touch",
+      "instanceSlug": 1854,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1978,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 11.498000000000003,
+  "songCount": 2,
+  "songAdjustedAverage": 8.130313770082925,
+  "rank": 322
+}

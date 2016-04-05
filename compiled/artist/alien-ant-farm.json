@@ -1,1 +1,72 @@
-{"title":"Alien Ant Farm'","instanceSlug":"alien-ant-farm","tags":[],"parents":[],"genres":[],"type":"","origin":"","birth":"","death":"","complete":false,"songs":[{"title":"Smooth Criminal","instanceSlug":2099,"tags":["#1","remake"],"parents":[],"genre":"hard-rock","debut":"2001-10","playlists":[],"ranks":[15,10,7.5,5,5.4,5.8,6.6,7.8,9.4,11.4,13.8,16.6,19.8,23.4,27.4,31.8,36.6,41.8,47.4,53.4],"debutRank":15,"peakRank":5,"duration":5,"score":9.89,"genres":["hard-rock"],"role":true,"scoreFactor":1,"rank":1}],"score":9.89,"songAdjustedAverage":9.89,"rank":489}
+{
+  "title": "Alien Ant Farm'",
+  "instanceSlug": "alien-ant-farm",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "type": "",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "Smooth Criminal",
+      "instanceSlug": 2099,
+      "tags": [
+        "#1",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "2001-10",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        10,
+        7.5,
+        5,
+        5.4
+      ],
+      "scores": [
+        0.097,
+        0.232,
+        0.328,
+        0.463,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 4.5,
+      "score": 4.980999999999999,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.980999999999999,
+  "songCount": 1,
+  "songAdjustedAverage": 4.980999999999999,
+  "rank": 502
+}

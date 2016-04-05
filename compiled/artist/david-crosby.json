@@ -1,1 +1,127 @@
-{"title":"David Crosby","instanceSlug":"david-crosby","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Hold My Hand","instanceSlug":1273,"tags":[],"parents":[],"genre":"rock","debut":"1994-12","playlists":[],"ranks":[14.5,3.9,2.3,1.9,1.75,1.89,2.42,2.95,4.01,5.6,7.72,10.37,13.55,17.26,21.5,26.27,31.57,37.4,43.76,50.65],"debutRank":14.5,"peakRank":1.75,"duration":5,"score":2.038,"genres":["rock"],"role":"backup","scoreFactor":0.1,"rank":1},{"title":"Another Day in Paradise","instanceSlug":397,"tags":[],"parents":[],"genre":"pop","debut":"1989-12","playlists":[],"ranks":[24,18,12,15,18,24,33,45,60,78,99,123],"debutRank":24,"peakRank":12,"duration":3,"score":0.10300000000000001,"genres":["pop"],"role":"backup","scoreFactor":0.1,"rank":2}],"score":2.14,"songAdjustedAverage":1.51,"rank":723}
+{
+  "title": "David Crosby",
+  "instanceSlug": "david-crosby",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Hold My Hand",
+      "instanceSlug": 1273,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1994-12",
+      "playlists": [
+      ],
+      "ranks": [
+        14.5,
+        3.9,
+        2.3,
+        1.9,
+        1.75,
+        1.89,
+        2.42
+      ],
+      "scores": [
+        0.108,
+        0.546,
+        0.722,
+        0.786,
+        0.813,
+        0.787,
+        0.705,
+        0.7,
+        0.69,
+        0.675,
+        0.655,
+        0.63,
+        0.6,
+        0.565,
+        0.525,
+        0.48,
+        0.43,
+        0.375,
+        0.315,
+        0.25,
+        0.18,
+        0.105,
+        0.025,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.108,
+      "duration": 6,
+      "score": 1.1667,
+      "genres": [
+        "rock"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    },
+    {
+      "title": "Another Day in Paradise",
+      "instanceSlug": 397,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1989-12",
+      "playlists": [
+      ],
+      "ranks": [
+        24,
+        18,
+        12,
+        15
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.097,
+        0.092,
+        0.082,
+        0.067,
+        0.047,
+        0.022,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 2.25,
+      "score": 0.06140000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 2
+    }
+  ],
+  "score": 1.2281,
+  "songCount": 2,
+  "songAdjustedAverage": 0.868397837975199,
+  "rank": 717
+}

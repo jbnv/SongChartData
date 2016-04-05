@@ -1,1 +1,150 @@
-{"title":"Anita Baker","instanceSlug":"anita-baker","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Giving You The Best That I Got","instanceSlug":1310,"tags":["give-you"],"genre":"soul","debut":"1988-10","playlists":[],"ranks":[17,10,7.5,5.5,3.5,3.7,3.9,4.3,4.9,5.7,6.7,7.9,9.3,10.9,12.7,14.7,16.9,19.3,21.9,24.7,27.7,30.9,34.3,37.9,41.7,45.7,49.9,54.3],"debutRank":17,"peakRank":3.5,"duration":7,"score":16.83,"genres":["soul"],"role":true,"scoreFactor":1,"rank":1},{"title":"Sweet Love","instanceSlug":275,"tags":[],"parents":[],"genre":true,"debut":"1986-09","playlists":[],"ranks":[12,6.9,4,3.4,4.7,6,8.6,12.5,17.7,24.2,32,41.1,51.5,63.2,76.2,90.5],"debutRank":12,"peakRank":3.4,"duration":4,"score":9.08,"genres":[true],"role":true,"scoreFactor":1,"rank":2},{"title":"Rapture","instanceSlug":649,"tags":[],"parents":[],"debut":1986,"playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":25.91,"songAdjustedAverage":14.96,"rank":329}
+{
+  "title": "Anita Baker",
+  "instanceSlug": "anita-baker",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Giving You The Best That I Got",
+      "instanceSlug": 1310,
+      "tags": [
+        "give-you"
+      ],
+      "genre": "soul",
+      "debut": "1988-10",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        10,
+        7.5,
+        5.5,
+        3.5,
+        3.7
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.328,
+        0.431,
+        0.582,
+        0.563,
+        0.558,
+        0.548,
+        0.533,
+        0.513,
+        0.488,
+        0.458,
+        0.423,
+        0.383,
+        0.338,
+        0.288,
+        0.233,
+        0.173,
+        0.108,
+        0.038,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 5.25,
+      "score": 7.273,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Sweet Love",
+      "instanceSlug": 275,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1986-09",
+      "playlists": [
+      ],
+      "ranks": [
+        12,
+        6.9,
+        4,
+        3.4,
+        4.7
+      ],
+      "scores": [
+        0.171,
+        0.356,
+        0.537,
+        0.592,
+        0.484,
+        0.479,
+        0.469,
+        0.454,
+        0.434,
+        0.409,
+        0.379,
+        0.344,
+        0.304,
+        0.259,
+        0.209,
+        0.154,
+        0.094,
+        0.029,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 4.75,
+      "score": 6.157000000000002,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Rapture",
+      "instanceSlug": 649,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": 1986,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 13.430000000000001,
+  "songCount": 3,
+  "songAdjustedAverage": 7.7538141152166755,
+  "rank": 335
+}

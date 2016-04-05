@@ -1,1 +1,43 @@
-{"title":"Another Bad Creation","instanceSlug":"another-bad-creation","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"songs":[{"title":"Iesha","instanceSlug":2119,"tags":[],"parents":[],"genre":"urban","debut":"1991-02","playlists":[],"ranks":[],"genres":["urban"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1156}
+{
+  "title": "Another Bad Creation",
+  "instanceSlug": "another-bad-creation",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "Iesha",
+      "instanceSlug": 2119,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1991-02",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "urban"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1167
+}

@@ -1,1 +1,78 @@
-{"title":"Duncan Shiek","instanceSlug":"duncan-shiek","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Barely Breathing","instanceSlug":1893,"tags":[],"parents":[],"genre":"pop","debut":"1997-02","playlists":[],"ranks":[17.7,10.7,7.7,8.2,9.1,10.5,11.9,14.7,18.9,24.5,31.5,39.9,49.7,60.9,73.5,87.5],"debutRank":17.7,"peakRank":7.7,"duration":4,"score":4.95,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":4.95,"songAdjustedAverage":4.95,"rank":637}
+{
+  "title": "Duncan Shiek",
+  "instanceSlug": "duncan-shiek",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Barely Breathing",
+      "instanceSlug": 1893,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1997-02",
+      "playlists": [
+      ],
+      "ranks": [
+        17.7,
+        10.7,
+        7.7,
+        8.2,
+        9.1,
+        10.5
+      ],
+      "scores": [
+        0.042,
+        0.209,
+        0.319,
+        0.298,
+        0.263,
+        0.216,
+        0.211,
+        0.201,
+        0.186,
+        0.166,
+        0.141,
+        0.111,
+        0.076,
+        0.036,
+        0
+      ],
+      "debutScore": 0.042,
+      "peakScore": 0.042,
+      "duration": 3.75,
+      "score": 2.4750000000000005,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 2.4750000000000005,
+  "songCount": 1,
+  "songAdjustedAverage": 2.4750000000000005,
+  "rank": 647
+}

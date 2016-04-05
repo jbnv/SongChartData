@@ -1,1 +1,104 @@
-{"title":"Terrence Trent D'Arby","instanceSlug":"terrence-trent-d-arby","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Sign Your Name","instanceSlug":3005,"tags":[],"parents":[],"genre":"pop","debut":1988,"playlists":[],"ranks":[21.5,15,12.5,10,10.7,12.1,13.5,16.3,20.5,26.1,33.1,41.5,51.3,62.5,75.1,89.1],"debutRank":21.5,"peakRank":10,"duration":4,"score":3.21,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Wishing Well","instanceSlug":128,"tags":["well","wish"],"parents":[],"genre":true,"debut":1988,"ranks":[19.9,12,32.4,88.3,241,393.7,699.1,1157.2],"debutRank":19.9,"peakRank":12,"duration":2,"score":0.52,"genres":[true],"role":true,"scoreFactor":1,"rank":2}],"score":3.73,"songAdjustedAverage":2.64,"rank":694}
+{
+  "title": "Terrence Trent D'Arby",
+  "instanceSlug": "terrence-trent-d-arby",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Sign Your Name",
+      "instanceSlug": 3005,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1988,
+      "playlists": [
+      ],
+      "ranks": [
+        21.5,
+        15,
+        12.5,
+        10,
+        10.7,
+        12.1
+      ],
+      "scores": [
+        0.097,
+        0.158,
+        0.232,
+        0.209,
+        0.168,
+        0.163,
+        0.153,
+        0.138,
+        0.118,
+        0.093,
+        0.063,
+        0.028,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 3.25,
+      "score": 1.6199999999999999,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Wishing Well",
+      "instanceSlug": 128,
+      "tags": [
+        "well",
+        "wish"
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": 1988,
+      "ranks": [
+        19.9,
+        12,
+        32.4,
+        88.3,
+        241
+      ],
+      "scores": [
+        0.003,
+        0.171,
+        0.003,
+        0
+      ],
+      "debutScore": 0.003,
+      "peakScore": 0.003,
+      "duration": 1,
+      "score": 0.17700000000000002,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 1.797,
+  "songCount": 2,
+  "songAdjustedAverage": 1.2706708857922258,
+  "rank": 698
+}

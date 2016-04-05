@@ -1,1 +1,68 @@
-{"title":"Carla Bonoff","instanceSlug":"carla-bonoff","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","songs":[{"title":"Personally","instanceSlug":616,"tags":[],"parents":[],"genre":true,"debut":"1982-06","playlists":[],"ranks":[17,9.9,5.8,6.2,8.5,10.8,15.4,22.3,31.5,43,56.8,72.9],"debutRank":17,"peakRank":5.8,"duration":3,"score":5.04,"genres":[true],"role":true,"scoreFactor":1,"rank":1}],"score":5.04,"songAdjustedAverage":5.04,"rank":634}
+{
+  "title": "Carla Bonoff",
+  "instanceSlug": "carla-bonoff",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Personally",
+      "instanceSlug": 616,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1982-06",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        9.9,
+        5.8,
+        6.2,
+        8.5
+      ],
+      "scores": [
+        0.055,
+        0.235,
+        0.414,
+        0.391,
+        0.286,
+        0.281,
+        0.271,
+        0.256,
+        0.236,
+        0.211,
+        0.181,
+        0.146,
+        0.106,
+        0.061,
+        0.011,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4,
+      "score": 3.1409999999999996,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 3.1409999999999996,
+  "songCount": 1,
+  "songAdjustedAverage": 3.1409999999999996,
+  "rank": 615
+}

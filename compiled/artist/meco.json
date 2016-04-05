@@ -1,1 +1,87 @@
-{"title":"Meco","instanceSlug":"meco","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Empire Strikes Back Medley","instanceSlug":467,"tags":["movie-song","movie-theme"],"parents":[],"genre":"disco","debut":"1980-05","playlists":["medley"],"ranks":[15.9,9,5,3.1,3.5,3.9,4.7,5.9,7.5,9.5,11.9,14.7,17.9,21.5,25.5,29.9,34.7,39.9,45.5,51.5],"debutRank":15.9,"peakRank":3.1,"duration":5,"score":13.04,"genres":["disco"],"role":true,"scoreFactor":1,"rank":1}],"score":13.04,"songAdjustedAverage":13.04,"rank":383}
+{
+  "title": "Meco",
+  "instanceSlug": "meco",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Empire Strikes Back Medley",
+      "instanceSlug": 467,
+      "tags": [
+        "movie-song",
+        "movie-theme"
+      ],
+      "parents": [
+      ],
+      "genre": "disco",
+      "debut": "1980-05",
+      "playlists": [
+        "medley"
+      ],
+      "ranks": [
+        15.9,
+        9,
+        5,
+        3.1,
+        3.5
+      ],
+      "scores": [
+        0.077,
+        0.267,
+        0.463,
+        0.622,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.077,
+      "duration": 5,
+      "score": 7.359000000000002,
+      "genres": [
+        "disco"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 7.359000000000002,
+  "songCount": 1,
+  "songAdjustedAverage": 7.359000000000002,
+  "rank": 354
+}

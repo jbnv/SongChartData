@@ -1,1 +1,55 @@
-{"title":"Rick Dees","instanceSlug":"rick-dees","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Disco Duck","instanceSlug":825,"tags":[],"parents":[],"genre":"novelty","debut":1976,"playlists":["animals"],"ranks":[],"genres":["novelty"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":960}
+{
+  "title": "Rick Dees",
+  "instanceSlug": "rick-dees",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Disco Duck",
+      "instanceSlug": 825,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "novelty",
+      "debut": 1976,
+      "playlists": [
+        "animals"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "novelty"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 961
+}

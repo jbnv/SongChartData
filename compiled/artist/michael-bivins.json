@@ -1,1 +1,85 @@
-{"title":"Michael Bivins","instanceSlug":"michael-bivins","tags":[],"parents":[],"genres":[],"members":[],"xref":["bell-biv-devoe","new-edition"],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Motownphilly","instanceSlug":163,"tags":["detroit","philadelphia"],"playlists":["summer"],"genre":"hip-hop","debut":"1991-07","ranks":[16.5,9.5,5.4,4.4,5.5,6.6,8.8,12.1,16.5,22,28.6,36.3,45.1,55,66,78.1],"debutRank":16.5,"peakRank":4.4,"duration":4,"score":0.771,"genres":["hip-hop"],"role":"backup","scoreFactor":0.1,"rank":1}],"score":0.77,"songAdjustedAverage":0.77,"rank":737}
+{
+  "title": "Michael Bivins",
+  "instanceSlug": "michael-bivins",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+    "bell-biv-devoe",
+    "new-edition"
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Motownphilly",
+      "instanceSlug": 163,
+      "tags": [
+        "detroit",
+        "philadelphia"
+      ],
+      "playlists": [
+        "summer"
+      ],
+      "genre": "hip-hop",
+      "debut": "1991-07",
+      "ranks": [
+        16.5,
+        9.5,
+        5.4,
+        4.4,
+        5.5
+      ],
+      "scores": [
+        0.065,
+        0.249,
+        0.437,
+        0.506,
+        0.431,
+        0.426,
+        0.416,
+        0.401,
+        0.381,
+        0.356,
+        0.326,
+        0.291,
+        0.251,
+        0.206,
+        0.156,
+        0.101,
+        0.041,
+        0
+      ],
+      "debutScore": 0.065,
+      "peakScore": 0.065,
+      "duration": 4.5,
+      "score": 0.5040000000000001,
+      "genres": [
+        "hip-hop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    }
+  ],
+  "score": 0.5040000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 0.5040000000000001,
+  "rank": 735
+}

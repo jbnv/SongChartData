@@ -1,1 +1,65 @@
-{"title":"12 Gauge","instanceSlug":"12-gauge","tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"}],"type":"","origin":"","birth":"","death":"","complete":false,"songs":[{"title":"Dunkie Butt","instanceSlug":2199,"tags":[],"parents":[],"genre":"dance","debut":"1994-04","playlists":[],"ranks":[20,17,14,15.8,17.6,21.2,26.6,33.8,42.8,53.6,66.2,80.6],"debutRank":20,"peakRank":14,"duration":3,"score":0.9,"genres":["dance"],"role":true,"scoreFactor":1,"rank":1}],"score":0.9,"songAdjustedAverage":0.9,"rank":734}
+{
+  "title": "12 Gauge",
+  "instanceSlug": "12-gauge",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "type": "",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "Dunkie Butt",
+      "instanceSlug": 2199,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1994-04",
+      "playlists": [
+      ],
+      "ranks": [
+        20,
+        17,
+        14,
+        15.8
+      ],
+      "scores": [
+        0.001,
+        0.055,
+        0.12,
+        0.079,
+        0.074,
+        0.064,
+        0.049,
+        0.029,
+        0.004,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 2.5,
+      "score": 0.47500000000000003,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0.47500000000000003,
+  "songCount": 1,
+  "songAdjustedAverage": 0.47500000000000003,
+  "rank": 738
+}

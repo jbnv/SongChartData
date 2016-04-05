@@ -1,1 +1,304 @@
-{"title":"Survivor","instanceSlug":"survivor","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Is This Love","instanceSlug":1017,"tags":["is","is-this","love","this"],"parents":[],"genre":"rock","debut":"1986-11","playlists":[],"ranks":[16,10,4,1.95,2.1,2.27,2.48,2.85,3.22,3.96,5.07,6.55,8.4,10.62,13.21,16.17,19.5,23.2,27.27,31.71,36.52,41.7,47.25,53.17],"debutRank":16,"peakRank":1.95,"duration":6,"score":21.48,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Burning Heart","instanceSlug":1380,"tags":["burn","burning","heart"],"parents":[],"genre":"rock","debut":"1985-12","source":"rocky-4","playlists":[],"ranks":[19,12.6,9.5,7.5,6.8,6.5,7.2,8,8.8,10.4,12.8,16,20,24.8,30.4,36.8,44,52,60.8,70.4],"debutRank":19,"peakRank":6.5,"duration":5,"score":8.58,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2},{"title":"Eye of the Tiger","instanceSlug":384,"tags":["#1","#1-hot100","#1-mainstream-rock","animals"],"parents":[],"genre":"rock","debut":"1982-07","source":"rocky-3","playlists":[],"ranks":[19,13,10,8.5,7.6,7,7.5,8.6,9.7,11.9,15.2,19.6,25.1,31.7,39.4,48.2,58.1,69.1,81.2,94.4],"debutRank":19,"peakRank":7,"duration":5,"score":7.46,"genres":["rock"],"role":true,"scoreFactor":1,"rank":3},{"title":"I Can't Hold Back","instanceSlug":1765,"tags":[],"parents":[],"genre":"rock","debut":"1984-11","playlists":[],"ranks":[21,14.5,11.1,9.3,8.5,8,9.2,10.4,12.8,16.4,21.2,27.2,34.4,42.8,52.4,63.2],"debutRank":21,"peakRank":8,"duration":4,"score":5.56,"genres":["rock"],"role":true,"scoreFactor":1,"rank":4},{"title":"The Search is Over","instanceSlug":1635,"tags":["#1","#1-adult-contemporary","this-is-that"],"parents":[],"genre":"rock","debut":"1985-05","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":5},{"title":"High on You","instanceSlug":2203,"tags":[],"parents":[],"genre":"rock","debut":"1985-02","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":6}],"score":43.08,"songAdjustedAverage":17.59,"rank":259}
+{
+  "title": "Survivor",
+  "instanceSlug": "survivor",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Is This Love",
+      "instanceSlug": 1017,
+      "tags": [
+        "is",
+        "is-this",
+        "love",
+        "this"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-11",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        10,
+        4,
+        1.95,
+        2.1,
+        2.27,
+        2.48,
+        2.85
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.537,
+        0.777,
+        0.752,
+        0.726,
+        0.697,
+        0.65,
+        0.645,
+        0.635,
+        0.62,
+        0.6,
+        0.575,
+        0.545,
+        0.51,
+        0.47,
+        0.425,
+        0.375,
+        0.32,
+        0.26,
+        0.195,
+        0.125,
+        0.05,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 6,
+      "score": 10.796000000000003,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Burning Heart",
+      "instanceSlug": 1380,
+      "tags": [
+        "burn",
+        "burning",
+        "heart"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-12",
+      "source": "rocky-4",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        12.6,
+        9.5,
+        7.5,
+        6.8,
+        6.5,
+        7.2,
+        8
+      ],
+      "scores": [
+        0.018,
+        0.155,
+        0.249,
+        0.328,
+        0.361,
+        0.376,
+        0.341,
+        0.306,
+        0.301,
+        0.291,
+        0.276,
+        0.256,
+        0.231,
+        0.201,
+        0.166,
+        0.126,
+        0.081,
+        0.031,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 4.093999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Eye of the Tiger",
+      "instanceSlug": 384,
+      "tags": [
+        "#1",
+        "#1-hot100",
+        "#1-mainstream-rock",
+        "animals"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1982-07",
+      "source": "rocky-3",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        13,
+        10,
+        8.5,
+        7.6,
+        7,
+        7.5,
+        8.6
+      ],
+      "scores": [
+        0.018,
+        0.145,
+        0.232,
+        0.286,
+        0.323,
+        0.351,
+        0.328,
+        0.282,
+        0.277,
+        0.267,
+        0.252,
+        0.232,
+        0.207,
+        0.177,
+        0.142,
+        0.102,
+        0.057,
+        0.007,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 3.685,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "I Can't Hold Back",
+      "instanceSlug": 1765,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1984-11",
+      "playlists": [
+      ],
+      "ranks": [
+        21,
+        14.5,
+        11.1,
+        9.3,
+        8.5,
+        8,
+        9.2
+      ],
+      "scores": [
+        0.108,
+        0.197,
+        0.256,
+        0.286,
+        0.306,
+        0.26,
+        0.255,
+        0.245,
+        0.23,
+        0.21,
+        0.185,
+        0.155,
+        0.12,
+        0.08,
+        0.035,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.108,
+      "duration": 4,
+      "score": 2.9280000000000004,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "The Search is Over",
+      "instanceSlug": 1635,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "this-is-that"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "High on You",
+      "instanceSlug": 2203,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-02",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    }
+  ],
+  "score": 21.503000000000004,
+  "songCount": 6,
+  "songAdjustedAverage": 8.778562989844449,
+  "rank": 283
+}

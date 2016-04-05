@@ -1,1 +1,87 @@
-{"title":"Incubus","instanceSlug":"incubus","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Drive","instanceSlug":2506,"tags":["#1","#1-modern-rock"],"parents":[],"genre":"rock","debut":"2001-06","playlists":[],"ranks":[14,6,2.5,1.5,1.79,2.08,2.66,3.53,4.69,6.14,7.88,9.91,12.23,14.84,17.74,20.93,24.41,28.18,32.24,36.59,41.23,46.16,51.38,56.89],"debutRank":14,"peakRank":1.5,"duration":6,"score":19.9,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1}],"score":19.9,"songAdjustedAverage":19.9,"rank":204}
+{
+  "title": "Incubus",
+  "instanceSlug": "incubus",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Drive",
+      "instanceSlug": 2506,
+      "tags": [
+        "#1",
+        "#1-modern-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "2001-06",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        6,
+        2.5,
+        1.5,
+        1.79
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.694,
+        0.864,
+        0.805,
+        0.8,
+        0.79,
+        0.775,
+        0.755,
+        0.73,
+        0.7,
+        0.665,
+        0.625,
+        0.58,
+        0.53,
+        0.475,
+        0.415,
+        0.35,
+        0.28,
+        0.205,
+        0.125,
+        0.04,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.75,
+      "score": 11.724999999999998,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 11.724999999999998,
+  "songCount": 1,
+  "songAdjustedAverage": 11.724999999999998,
+  "rank": 138
+}

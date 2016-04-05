@@ -1,1 +1,134 @@
-{"title":"Jude Cole","instanceSlug":"jude-cole","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Baby, It's Tonight","instanceSlug":2022,"tags":[],"genre":"pop","debut":"1990-05","playlists":["summer"],"ranks":[12,3,1,1.03,1.13,1.25,1.37,1.61,1.97,2.45,3.05,3.77,4.61,5.57,6.65,7.85,9.17,10.61,12.17,13.85,15.65,17.57,19.61,21.77,24.05,26.45,28.97,31.61,34.37,37.25,40.25,43.37,46.61,49.97,53.45,57.05],"note":"Project 4 weeks at #1.","debutRank":12,"peakRank":1,"duration":9,"score":34.74,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Time for Letting Go","instanceSlug":2023,"tags":[],"parents":[],"genre":"pop","debut":"1990-10","playlists":[],"ranks":[16,4,4.6,5.2,6.4,8.2,10.6,13.6,17.2,21.4,26.2,31.6,37.6,44.2,51.4,59.2],"debutRank":16,"peakRank":4,"duration":4,"score":7.89,"genres":["pop"],"role":true,"scoreFactor":1,"rank":2}],"score":42.63,"songAdjustedAverage":30.14,"rank":54}
+{
+  "title": "Jude Cole",
+  "instanceSlug": "jude-cole",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Baby, It's Tonight",
+      "instanceSlug": 2022,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1990-05",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        12,
+        3,
+        1,
+        1.03,
+        1.13,
+        1.25
+      ],
+      "note": "Project 4 weeks at #1.",
+      "scores": [
+        0.171,
+        0.633,
+        1,
+        0.99,
+        0.959,
+        0.925,
+        0.92,
+        0.91,
+        0.895,
+        0.875,
+        0.85,
+        0.82,
+        0.785,
+        0.745,
+        0.7,
+        0.65,
+        0.595,
+        0.535,
+        0.47,
+        0.4,
+        0.325,
+        0.245,
+        0.16,
+        0.07,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 6.25,
+      "score": 15.628,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Time for Letting Go",
+      "instanceSlug": 2023,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-10",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        4,
+        4.6
+      ],
+      "scores": [
+        0.075,
+        0.537,
+        0.491,
+        0.486,
+        0.476,
+        0.461,
+        0.441,
+        0.416,
+        0.386,
+        0.351,
+        0.311,
+        0.266,
+        0.216,
+        0.161,
+        0.101,
+        0.036,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 4.25,
+      "score": 5.2109999999999985,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 20.839,
+  "songCount": 2,
+  "songAdjustedAverage": 14.735398213146462,
+  "rank": 54
+}

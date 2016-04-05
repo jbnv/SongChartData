@@ -1,1 +1,363 @@
-{"title":"Sammy Hagar","instanceSlug":"sammy-hagar","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Your Love is Driving Me Crazy","instanceSlug":1964,"tags":[],"parents":[],"genre":"rock","debut":"1983-02","playlists":[],"ranks":[14.4,7.9,4.2,2.1,2.25,2.58,2.91,3.57,4.56,5.88,7.53,9.51,11.82,14.46,17.43,20.73,24.36,28.32,32.61,37.23,42.18,47.46,53.07,59.01],"debutRank":14.4,"peakRank":2.1,"duration":6,"score":18.43,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Can't Stop Lovin' You","instanceSlug":1490,"tags":["can't-stop","can't-stop-loving-you","loving-you"],"parents":[],"genre":"hard-rock","debut":"1995-04","playlists":[],"ranks":[14,5,2,2.31,2.62,3.24,4.17,5.41,6.96,8.82,10.99,13.47,16.26,19.36,22.77,26.49,30.52,34.86,39.51,44.47,49.74,55.32,61.21,67.41],"debutRank":14,"peakRank":2,"duration":6,"score":4.025,"genres":["hard-rock"],"role":"member","scoreFactor":0.25,"rank":2},{"title":"Love Walks In","instanceSlug":647,"tags":[],"parents":[],"genre":"rock","debut":"1986-09","playlists":[],"ranks":[17,11,8,6.1,5,5.4,5.95,6.5,7.6,9.25,11.45,14.2,17.5,21.35,25.75,30.7,36.2,42.25,48.85,56],"debutRank":17,"peakRank":5,"duration":5,"score":2.68,"genres":["rock"],"role":"member","scoreFactor":0.25,"rank":3},{"title":"When It's Love","instanceSlug":553,"tags":[],"parents":[],"genre":"rock","debut":"1988-08","playlists":[],"ranks":[18.3,12.3,9.3,6.9,6.3,6.5,7.2,7.9,9.3,11.4,14.2,17.7,21.9,26.8,32.4,38.7,45.7,53.4,61.8,70.9],"debutRank":18.3,"peakRank":6.3,"duration":5,"score":2.12,"genres":["rock"],"role":"member","scoreFactor":0.25,"rank":4},{"title":"Finish What You Started","instanceSlug":1302,"tags":[],"parents":[],"genre":"hard-rock","debut":"1988-11","playlists":[],"ranks":[],"genres":["hard-rock"],"role":"member","scoreFactor":0.25,"score":null,"rank":5},{"title":"I Can't Drive 55","instanceSlug":1498,"tags":["can't","drive","i","numbers"],"parents":[],"genre":"rock","debut":1984,"playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":6},{"title":"Standing On Top of the World","instanceSlug":1518,"tags":["on-top","standing","this-of-that","top","world"],"parents":[],"genre":"rock","debut":"1991-12","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":7},{"title":"Why Can't This Be Love","instanceSlug":2921,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"hard-rock","debut":"1986-04","playlists":[],"ranks":[],"genres":["hard-rock"],"role":"member","scoreFactor":0.25,"score":null,"rank":8},{"title":"Dreams","instanceSlug":2922,"tags":[],"parents":[],"genre":"rock","debut":"1986-06","playlists":[],"ranks":[],"genres":["rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":9}],"score":27.26,"songAdjustedAverage":9.09,"rank":512}
+{
+  "title": "Sammy Hagar",
+  "instanceSlug": "sammy-hagar",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Your Love is Driving Me Crazy",
+      "instanceSlug": 1964,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-02",
+      "playlists": [
+      ],
+      "ranks": [
+        14.4,
+        7.9,
+        4.2,
+        2.1,
+        2.25,
+        2.58
+      ],
+      "scores": [
+        0.11,
+        0.311,
+        0.521,
+        0.752,
+        0.729,
+        0.684,
+        0.679,
+        0.669,
+        0.654,
+        0.634,
+        0.609,
+        0.579,
+        0.544,
+        0.504,
+        0.459,
+        0.409,
+        0.354,
+        0.294,
+        0.229,
+        0.159,
+        0.084,
+        0.004,
+        0
+      ],
+      "debutScore": 0.11,
+      "peakScore": 0.11,
+      "duration": 5.75,
+      "score": 9.970999999999998,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Can't Stop Lovin' You",
+      "instanceSlug": 1490,
+      "tags": [
+        "can't-stop",
+        "can't-stop-loving-you",
+        "loving-you"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1995-04",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        5,
+        2,
+        2.31
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.768,
+        0.72,
+        0.715,
+        0.705,
+        0.69,
+        0.67,
+        0.645,
+        0.615,
+        0.58,
+        0.54,
+        0.495,
+        0.445,
+        0.39,
+        0.33,
+        0.265,
+        0.195,
+        0.12,
+        0.04,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.25,
+      "score": 2.37775,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 2
+    },
+    {
+      "title": "Love Walks In",
+      "instanceSlug": 647,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-09",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        11,
+        8,
+        6.1,
+        5,
+        5.4,
+        5.95
+      ],
+      "scores": [
+        0.055,
+        0.2,
+        0.306,
+        0.397,
+        0.463,
+        0.437,
+        0.405,
+        0.4,
+        0.39,
+        0.375,
+        0.355,
+        0.33,
+        0.3,
+        0.265,
+        0.225,
+        0.18,
+        0.13,
+        0.075,
+        0.015,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 5,
+      "score": 1.3257499999999995,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 3
+    },
+    {
+      "title": "When It's Love",
+      "instanceSlug": 553,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1988-08",
+      "playlists": [
+      ],
+      "ranks": [
+        18.3,
+        12.3,
+        9.3,
+        6.9,
+        6.3,
+        6.5,
+        7.2
+      ],
+      "scores": [
+        0.031,
+        0.163,
+        0.256,
+        0.356,
+        0.386,
+        0.376,
+        0.341,
+        0.336,
+        0.326,
+        0.311,
+        0.291,
+        0.266,
+        0.236,
+        0.201,
+        0.161,
+        0.116,
+        0.066,
+        0.011,
+        0
+      ],
+      "debutScore": 0.031,
+      "peakScore": 0.031,
+      "duration": 4.75,
+      "score": 1.0574999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 4
+    },
+    {
+      "title": "Finish What You Started",
+      "instanceSlug": 1302,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1988-11",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 5
+    },
+    {
+      "title": "I Can't Drive 55",
+      "instanceSlug": 1498,
+      "tags": [
+        "can't",
+        "drive",
+        "i",
+        "numbers"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1984,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Standing On Top of the World",
+      "instanceSlug": 1518,
+      "tags": [
+        "on-top",
+        "standing",
+        "this-of-that",
+        "top",
+        "world"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1991-12",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
+    },
+    {
+      "title": "Why Can't This Be Love",
+      "instanceSlug": 2921,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1986-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 8
+    },
+    {
+      "title": "Dreams",
+      "instanceSlug": 2922,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-06",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 9
+    }
+  ],
+  "score": 14.731999999999998,
+  "songCount": 9,
+  "songAdjustedAverage": 4.910666666666666,
+  "rank": 511
+}

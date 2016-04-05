@@ -1,1 +1,82 @@
-{"title":"OXO","instanceSlug":"oxo","tags":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"All-Male Group","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"mmm"},"songs":[{"title":"Whirly Girl","instanceSlug":1613,"tags":[],"genre":"dance","debut":"1983-04","playlists":[],"ranks":[9,1.5,1.08,1.17,1.26,1.44,1.71,2.07,2.52,3.06,3.69,4.41,5.22,6.12,7.11,8.19,9.36,10.62,11.97,13.41,14.94,16.56,18.27,20.07,21.96,23.94,26.01,28.17,30.42,32.76,35.19,37.71,40.32,43.02,45.81,48.69,51.66,54.72,57.87,61.11],"debutRank":9,"peakRank":1.08,"duration":10,"score":33.85,"genres":["dance"],"role":true,"scoreFactor":1,"rank":1}],"score":33.85,"songAdjustedAverage":33.85,"rank":36}
+{
+  "title": "OXO",
+  "instanceSlug": "oxo",
+  "tags": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "All-Male Group",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "mmm"
+  },
+  "songs": [
+    {
+      "title": "Whirly Girl",
+      "instanceSlug": 1613,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": [
+        9,
+        1.5,
+        1.08,
+        1.17
+      ],
+      "scores": [
+        0.267,
+        0.864,
+        0.974,
+        0.947,
+        0.942,
+        0.932,
+        0.917,
+        0.897,
+        0.872,
+        0.842,
+        0.807,
+        0.767,
+        0.722,
+        0.672,
+        0.617,
+        0.557,
+        0.492,
+        0.422,
+        0.347,
+        0.267,
+        0.182,
+        0.092,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.267,
+      "duration": 5.75,
+      "score": 14.398000000000001,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 14.398000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 14.398000000000001,
+  "rank": 66
+}

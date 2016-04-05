@@ -1,1 +1,67 @@
-{"title":"Cameo","instanceSlug":"cameo","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","songs":[{"title":"Word Up","instanceSlug":639,"tags":[],"parents":[],"genre":"funk","debut":"1986-10","playlists":["pph"],"ranks":[14.5,8.6,6.5,8.7,10.9,15.3,21.9,30.7,41.7,54.9,70.3,87.9],"debutRank":14.5,"peakRank":6.5,"duration":3,"score":4.02,"genres":["funk"],"role":true,"scoreFactor":1,"rank":1}],"score":4.02,"songAdjustedAverage":4.02,"rank":658}
+{
+  "title": "Cameo",
+  "instanceSlug": "cameo",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Word Up",
+      "instanceSlug": 639,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1986-10",
+      "playlists": [
+        "pph"
+      ],
+      "ranks": [
+        14.5,
+        8.6,
+        6.5,
+        8.7
+      ],
+      "scores": [
+        0.108,
+        0.282,
+        0.376,
+        0.278,
+        0.273,
+        0.263,
+        0.248,
+        0.228,
+        0.203,
+        0.173,
+        0.138,
+        0.098,
+        0.053,
+        0.003,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.108,
+      "duration": 3.75,
+      "score": 2.7239999999999998,
+      "genres": [
+        "funk"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 2.7239999999999998,
+  "songCount": 1,
+  "songAdjustedAverage": 2.7239999999999998,
+  "rank": 635
+}

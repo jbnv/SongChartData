@@ -2,13 +2,12 @@
   "title": "Alexander O'Neal",
   "instanceSlug": "alexander-o-neal",
   "tags": [],
-  "parents": [],
   "genres": [
-    "soul"
+    "soul","urban"
   ],
   "type": "m",
-  "origin": "us",
-  "birth": "",
+  "origin": "mississippi",
+  "birth": "1953-11",
   "death": "",
-  "complete": false
+  "complete": true
 }

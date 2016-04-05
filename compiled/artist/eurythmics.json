@@ -1,1 +1,190 @@
-{"title":"Eurythmics","instanceSlug":"eurythmics","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Missionary Man","instanceSlug":281,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[],"ranks":[13.9,7.9,4.53,2.9,4,5.1,7.3,10.6,15,20.5,27.1,34.8,43.6,53.5,64.5,76.6],"debutRank":13.9,"peakRank":2.9,"duration":4,"score":9.65,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"There Must Be an Angel","instanceSlug":984,"tags":[],"parents":[],"genre":"pop","debut":"1985-07","playlists":[],"ranks":[17.9,10.6,6.8,9.8,12.8,18.8,27.8,39.8,54.8,72.8,93.8,117.8],"debutRank":17.9,"peakRank":6.8,"duration":3,"score":3.07,"genres":["pop"],"role":true,"scoreFactor":1,"rank":2},{"title":"Who's That Girl","instanceSlug":1043,"tags":[],"parents":[],"genre":"pop","debut":"1984-06","playlists":[],"ranks":[19,17,16,17,21,25,33,45,61,81,105,133],"debutRank":19,"peakRank":16,"duration":3,"score":0.62,"genres":["pop"],"role":true,"scoreFactor":1,"rank":3},{"title":"Sweet Dreams","instanceSlug":376,"tags":["dream","sweet","sweet-dreams"],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":4}],"score":13.34,"songAdjustedAverage":6.67,"rank":584}
+{
+  "title": "Eurythmics",
+  "instanceSlug": "eurythmics",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Missionary Man",
+      "instanceSlug": 281,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-09",
+      "playlists": [
+      ],
+      "ranks": [
+        13.9,
+        7.9,
+        4.53,
+        2.9,
+        4
+      ],
+      "scores": [
+        0.122,
+        0.311,
+        0.496,
+        0.645,
+        0.537,
+        0.532,
+        0.522,
+        0.507,
+        0.487,
+        0.462,
+        0.432,
+        0.397,
+        0.357,
+        0.312,
+        0.262,
+        0.207,
+        0.147,
+        0.082,
+        0.012,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.122,
+      "duration": 5,
+      "score": 6.829,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "There Must Be an Angel",
+      "instanceSlug": 984,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-07",
+      "playlists": [
+      ],
+      "ranks": [
+        17.9,
+        10.6,
+        6.8,
+        9.8
+      ],
+      "scores": [
+        0.038,
+        0.213,
+        0.361,
+        0.239,
+        0.234,
+        0.224,
+        0.209,
+        0.189,
+        0.164,
+        0.134,
+        0.099,
+        0.059,
+        0.014,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.038,
+      "duration": 3.5,
+      "score": 2.177,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Who's That Girl",
+      "instanceSlug": 1043,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1984-06",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        17,
+        16,
+        17,
+        21
+      ],
+      "scores": [
+        0.018,
+        0.055,
+        0.075,
+        0.055,
+        0.05,
+        0.04,
+        0.025,
+        0.005,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 2.25,
+      "score": 0.323,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Sweet Dreams",
+      "instanceSlug": 376,
+      "tags": [
+        "dream",
+        "sweet",
+        "sweet-dreams"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1983-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    }
+  ],
+  "score": 9.329,
+  "songCount": 4,
+  "songAdjustedAverage": 4.6645,
+  "rank": 530
+}

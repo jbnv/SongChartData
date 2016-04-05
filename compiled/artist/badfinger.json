@@ -1,1 +1,80 @@
-{"title":"Badfinger","instanceSlug":"badfinger","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"It Don't Come Easy","instanceSlug":2962,"tags":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[19,10,6.1,5,5.2,5.7,6.2,7.2,8.7,10.7,13.2,16.2,19.7,23.7,28.2,33.2,38.7,44.7,51.2,58.2],"debutRank":19,"peakRank":5,"duration":5,"score":1.027,"genres":["pop"],"role":"backup","scoreFactor":0.1,"rank":1}],"score":1.03,"songAdjustedAverage":1.03,"rank":733}
+{
+  "title": "Badfinger",
+  "instanceSlug": "badfinger",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "It Don't Come Easy",
+      "instanceSlug": 2962,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": 1971,
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        10,
+        6.1,
+        5,
+        5.2,
+        5.7
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.397,
+        0.463,
+        0.45,
+        0.419,
+        0.414,
+        0.404,
+        0.389,
+        0.369,
+        0.344,
+        0.314,
+        0.279,
+        0.239,
+        0.194,
+        0.144,
+        0.089,
+        0.029,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 0.5186999999999999,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    }
+  ],
+  "score": 0.5186999999999999,
+  "songCount": 1,
+  "songAdjustedAverage": 0.5186999999999999,
+  "rank": 734
+}

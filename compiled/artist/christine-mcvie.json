@@ -1,1 +1,615 @@
-{"title":"Christine McVie","instanceSlug":"christine-mcvie","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Everywhere","instanceSlug":861,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1988-01","playlists":[],"ranks":[14,4.1,1.11,1.184,1.27,1.41,1.72,2.05,2.38,3.04,4.03,5.35,7,8.98,11.29,13.93,16.9,20.2,23.83,27.79,32.08,36.7,41.65,46.93,52.54,58.48,64.75,71.35],"debutRank":14,"peakRank":1.11,"duration":7,"score":20.82,"genres":["adult-contemporary"],"role":"lead","scoreFactor":0.75,"rank":1},{"title":"Little Lies","instanceSlug":152,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1987-09","ranks":[15,9,6,4.4,3.6,3.1,3.45,3.8,4.5,5.55,6.95,8.7,10.8,13.25,16.05,19.2,22.7,26.55,30.75,35.3,40.2,45.45,51.05,57],"debutRank":15,"peakRank":3.1,"duration":6,"score":12.615,"genres":["pop"],"role":"lead","scoreFactor":0.75,"rank":2},{"title":"Hold Me","instanceSlug":2750,"tags":[],"genre":"rock","debut":"1982-07","playlists":[],"ranks":[19,10,7.5,5.5,5,5.4,5.8,6.6,7.8,9.4,11.4,13.8,16.6,19.8,23.4,27.4,31.8,36.6,41.8,47.4,53.4,59.8,66.6,73.8],"debutRank":19,"peakRank":5,"duration":6,"score":8.205,"genres":["rock"],"role":"lead","scoreFactor":0.75,"rank":3},{"title":"Big Love","instanceSlug":862,"tags":[],"genre":"rock","debut":"1987-04","playlists":[],"ranks":[15.9,4.8,2.7,2.5,2.45,2.52,2.79,3.1,3.41,4.03,4.96,6.2,7.75,9.61,11.78,14.26,17.05,20.15,23.56,27.28,31.31,35.65,40.3,45.26,50.53,56.11,62,68.2],"debutRank":15.9,"peakRank":2.45,"duration":7,"score":5.615,"genres":["rock"],"role":"member","scoreFactor":0.25,"rank":4},{"title":"Don't Stop","instanceSlug":2746,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[18,11,9,7,7.1,7.8,8.5,9.9,12,14.8,18.3,22.5,27.4,33,39.3,46.3,54,62.4,71.5,81.3],"debutRank":18,"peakRank":7,"duration":5,"score":5.28,"genres":["rock"],"role":"lead","scoreFactor":0.75,"rank":5},{"title":"Go Your Own Way","instanceSlug":2745,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[15,9,6.5,5.1,4.5,4.47,4.61,4.93,5.25,5.89,6.85,8.13,9.73,11.65,13.89,16.45,19.33,22.53,26.05,29.89,34.05,38.53,43.33,48.45,53.89,59.65,65.73,72.13],"debutRank":15,"peakRank":4.47,"duration":7,"score":3.9725,"genres":["rock"],"role":"member","scoreFactor":0.25,"rank":6},{"title":"Rhiannon (Will You Ever Win)","instanceSlug":2744,"tags":[],"genre":"rock","debut":1976,"playlists":[],"ranks":[20,15,10,9,8,8.5,9.2,9.9,11.3,13.4,16.2,19.7,23.9,28.8,34.4,40.7,47.7,55.4,63.8,72.9],"debutRank":20,"peakRank":8,"duration":5,"score":1.57,"genres":["rock"],"role":"member","scoreFactor":0.25,"rank":7},{"title":"Seven Wonders","instanceSlug":863,"tags":[],"parents":[],"genre":"pop","debut":"1987-07","playlists":[],"ranks":[17.9,10.6,6.2,6.6,7.9,9.2,11.8,15.7,20.9,27.4,35.2,44.3,54.7,66.4,79.4,93.7],"debutRank":17.9,"peakRank":6.2,"duration":4,"score":1.3825,"genres":["pop"],"role":"member","scoreFactor":0.25,"rank":8},{"title":"Tusk","instanceSlug":"tusk","tags":[],"debut":"1979-10","playlists":[],"ranks":[25,15,13,11,12,13,15,18,22,27,33,40,48,57,67,78],"debutRank":25,"peakRank":11,"duration":4,"score":0.67,"role":"member","scoreFactor":0.25,"rank":9},{"title":"Save Me","instanceSlug":2751,"tags":[],"parents":[],"genre":"pop","debut":"1990-05","playlists":[],"ranks":[],"genres":["pop"],"role":"lead","scoreFactor":0.75,"score":null,"rank":10},{"title":"Gypsy","instanceSlug":678,"tags":[],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[],"genres":["pop"],"role":"member","scoreFactor":0.25,"score":null,"rank":11},{"title":"Over My Head","instanceSlug":2743,"tags":[],"parents":[],"genre":"pop","debut":1976,"playlists":[],"ranks":[],"genres":["pop"],"role":"lead","scoreFactor":0.75,"score":null,"rank":12},{"title":"Sara","instanceSlug":2748,"tags":[],"parents":[],"genre":"rock","debut":"1980-01","playlists":[],"ranks":[],"genres":["rock"],"role":"member","scoreFactor":0.25,"score":null,"rank":13},{"title":"You Make Loving Fun","instanceSlug":2747,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"genres":["rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":14},{"title":"Think About Me","instanceSlug":2749,"tags":[],"parents":[],"genre":"rock","debut":"1980-04","playlists":[],"ranks":[],"genres":["rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":15}],"score":60.13,"songAdjustedAverage":15.53,"rank":315}
+{
+  "title": "Christine McVie",
+  "instanceSlug": "christine-mcvie",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Everywhere",
+      "instanceSlug": 861,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1988-01",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        4.1,
+        1.11,
+        1.184,
+        1.27,
+        1.41,
+        1.72,
+        2.05
+      ],
+      "scores": [
+        0.12,
+        0.529,
+        0.965,
+        0.943,
+        0.92,
+        0.885,
+        0.819,
+        0.76,
+        0.755,
+        0.745,
+        0.73,
+        0.71,
+        0.685,
+        0.655,
+        0.62,
+        0.58,
+        0.535,
+        0.485,
+        0.43,
+        0.37,
+        0.305,
+        0.235,
+        0.16,
+        0.08,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 6.25,
+      "score": 10.515749999999997,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 1
+    },
+    {
+      "title": "Little Lies",
+      "instanceSlug": 152,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-09",
+      "ranks": [
+        15,
+        9,
+        6,
+        4.4,
+        3.6,
+        3.1,
+        3.45
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.506,
+        0.573,
+        0.622,
+        0.587,
+        0.582,
+        0.572,
+        0.557,
+        0.537,
+        0.512,
+        0.482,
+        0.447,
+        0.407,
+        0.362,
+        0.312,
+        0.257,
+        0.197,
+        0.132,
+        0.062,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 6.353999999999999,
+      "genres": [
+        "pop"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 2
+    },
+    {
+      "title": "Hold Me",
+      "instanceSlug": 2750,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1982-07",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        10,
+        7.5,
+        5.5,
+        5,
+        5.4
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.328,
+        0.431,
+        0.463,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 3.9997499999999997,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 3
+    },
+    {
+      "title": "Don't Stop",
+      "instanceSlug": 2746,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        11,
+        9,
+        7,
+        7.1,
+        7.8
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.267,
+        0.351,
+        0.346,
+        0.315,
+        0.31,
+        0.3,
+        0.285,
+        0.265,
+        0.24,
+        0.21,
+        0.175,
+        0.135,
+        0.09,
+        0.04,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.25,
+      "score": 2.6737499999999996,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 4
+    },
+    {
+      "title": "Big Love",
+      "instanceSlug": 862,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1987-04",
+      "playlists": [
+      ],
+      "ranks": [
+        15.9,
+        4.8,
+        2.7,
+        2.5,
+        2.45,
+        2.52,
+        2.79,
+        3.1
+      ],
+      "scores": [
+        0.077,
+        0.477,
+        0.668,
+        0.694,
+        0.701,
+        0.691,
+        0.657,
+        0.622,
+        0.617,
+        0.607,
+        0.592,
+        0.572,
+        0.547,
+        0.517,
+        0.482,
+        0.442,
+        0.397,
+        0.347,
+        0.292,
+        0.232,
+        0.167,
+        0.097,
+        0.022,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.077,
+      "duration": 6,
+      "score": 2.6292499999999994,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 5
+    },
+    {
+      "title": "Go Your Own Way",
+      "instanceSlug": 2745,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        9,
+        6.5,
+        5.1,
+        4.5,
+        4.47,
+        4.61,
+        4.93
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.376,
+        0.456,
+        0.498,
+        0.5,
+        0.49,
+        0.468,
+        0.463,
+        0.453,
+        0.438,
+        0.418,
+        0.393,
+        0.363,
+        0.328,
+        0.288,
+        0.243,
+        0.193,
+        0.138,
+        0.078,
+        0.013,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 1.74025,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 6
+    },
+    {
+      "title": "Seven Wonders",
+      "instanceSlug": 863,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-07",
+      "playlists": [
+      ],
+      "ranks": [
+        17.9,
+        10.6,
+        6.2,
+        6.6,
+        7.9
+      ],
+      "scores": [
+        0.038,
+        0.213,
+        0.391,
+        0.37,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.038,
+      "duration": 4,
+      "score": 0.83325,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 7
+    },
+    {
+      "title": "Rhiannon (Will You Ever Win)",
+      "instanceSlug": 2744,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": [
+        20,
+        15,
+        10,
+        9,
+        8,
+        8.5,
+        9.2
+      ],
+      "scores": [
+        0.001,
+        0.097,
+        0.232,
+        0.267,
+        0.306,
+        0.286,
+        0.26,
+        0.255,
+        0.245,
+        0.23,
+        0.21,
+        0.185,
+        0.155,
+        0.12,
+        0.08,
+        0.035,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 4.25,
+      "score": 0.7410000000000001,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 8
+    },
+    {
+      "title": "Tusk",
+      "instanceSlug": "tusk",
+      "tags": [
+      ],
+      "debut": "1979-10",
+      "playlists": [
+      ],
+      "ranks": [
+        25,
+        15,
+        13,
+        11,
+        12
+      ],
+      "scores": [
+        0.097,
+        0.145,
+        0.2,
+        0.171,
+        0.166,
+        0.156,
+        0.141,
+        0.121,
+        0.096,
+        0.066,
+        0.031,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 3,
+      "score": 0.34750000000000003,
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 9
+    },
+    {
+      "title": "Save Me",
+      "instanceSlug": 2751,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 10
+    },
+    {
+      "title": "Gypsy",
+      "instanceSlug": 678,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 11
+    },
+    {
+      "title": "Over My Head",
+      "instanceSlug": 2743,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 12
+    },
+    {
+      "title": "Sara",
+      "instanceSlug": 2748,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-01",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 13
+    },
+    {
+      "title": "You Make Loving Fun",
+      "instanceSlug": 2747,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 14
+    },
+    {
+      "title": "Think About Me",
+      "instanceSlug": 2749,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 15
+    }
+  ],
+  "score": 29.83449999999999,
+  "songCount": 15,
+  "songAdjustedAverage": 7.703234776161676,
+  "rank": 337
+}

@@ -1,1 +1,413 @@
-{"title":"David Lee Roth","instanceSlug":"david-lee-roth","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Just a Gigolo/I Ain't Got Nobody","instanceSlug":1977,"tags":[],"parents":[],"genre":"pop","debut":"1985-05","playlists":[],"ranks":[14,7,4.5,3.3,2.9,3.2,3.6,4,4.8,6,7.6,9.6,12,14.8,18,21.6,25.6,30,34.8,40,45.6,51.6,58,64.8],"debutRank":14,"peakRank":2.9,"duration":6,"score":17.1,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"You Really Got Me","instanceSlug":2916,"tags":[],"genre":"metal","debut":"1978-03","playlists":["remake"],"ranks":[19,12,9,7,7.7,8.4,9.8,11.9,14.7,18.2,22.4,27.3,32.9,39.2,46.2,53.9],"debutRank":19,"peakRank":7,"duration":4,"score":4.4325,"genres":["metal"],"role":"lead","scoreFactor":0.75,"rank":2},{"title":"Jump","instanceSlug":79,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"hard-rock","debut":"1984-02","ranks":[12,2,2.29,2.58,3.16,4.03,5.19,6.64,8.38,10.41,12.73,15.34,18.24,21.43,24.91,28.68,32.74,37.09,41.73,46.66,51.88,57.39,63.19,69.28],"debutRank":12,"peakRank":2,"duration":6,"score":3.8275,"genres":["hard-rock"],"role":"member","scoreFactor":0.25,"rank":3},{"title":"Dancing in the Streets","instanceSlug":1052,"tags":["dance","remake","street","this-in-that"],"parents":[],"genre":"hard-rock","debut":"1982-07","playlists":[],"ranks":[17,14,11.5,10,9,8.5,8.7,9.6,11,12.4,15.2,19.4,25,32,40.4,50.2],"debutRank":17,"peakRank":8.5,"duration":4,"score":1.605,"genres":["hard-rock"],"role":"member","scoreFactor":0.25,"rank":4},{"title":"Yankee Rose","instanceSlug":276,"tags":[],"parents":[],"genre":"metal","debut":"1986-08","playlists":[],"ranks":[22,17,14,15.1,16.8,19,21.2,25.6,32.2,41,52,65.2],"debutRank":22,"peakRank":14,"duration":3,"score":1.05,"genres":["metal"],"role":true,"scoreFactor":1,"rank":5},{"title":"California Girls","instanceSlug":1636,"tags":["california","girl","places","remake"],"parents":[],"genre":"rock","debut":"1985-02","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":6},{"title":"Pretty Woman","instanceSlug":2918,"tags":["#1","#1-mainstream-rock","remake"],"parents":[],"genre":"hard-rock","debut":"1982-03","playlists":[],"ranks":[],"genres":["hard-rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":7},{"title":"I'll Wait","instanceSlug":2919,"tags":[],"parents":[],"genre":"hard-rock","debut":"1984-05","playlists":[],"ranks":[],"genres":["hard-rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":8},{"title":"Panama","instanceSlug":2920,"tags":[],"parents":[],"genre":"hard-rock","debut":"1984-07","playlists":[],"ranks":[],"genres":["hard-rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":9},{"title":"Just Like Paradise","instanceSlug":1978,"tags":[],"parents":[],"genre":"rock","debut":"1988-02","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":10},{"title":"Panama","instanceSlug":"panama","tags":[],"parents":[],"genre":"hard-rock","debut":"1984-07","playlists":["inanimate"],"ranks":[],"genres":["hard-rock"],"role":"lead","scoreFactor":0.75,"score":null,"rank":11}],"score":28.02,"songAdjustedAverage":8.45,"rank":536}
+{
+  "title": "David Lee Roth",
+  "instanceSlug": "david-lee-roth",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Just a Gigolo/I Ain't Got Nobody",
+      "instanceSlug": 1977,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-05",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        7,
+        4.5,
+        3.3,
+        2.9,
+        3.2,
+        3.6
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.498,
+        0.602,
+        0.645,
+        0.612,
+        0.573,
+        0.568,
+        0.558,
+        0.543,
+        0.523,
+        0.498,
+        0.468,
+        0.433,
+        0.393,
+        0.348,
+        0.298,
+        0.243,
+        0.183,
+        0.118,
+        0.048,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.5,
+      "score": 8.623,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "You Really Got Me",
+      "instanceSlug": 2916,
+      "tags": [
+      ],
+      "genre": "metal",
+      "debut": "1978-03",
+      "playlists": [
+        "remake"
+      ],
+      "ranks": [
+        19,
+        12,
+        9,
+        7,
+        7.7
+      ],
+      "scores": [
+        0.018,
+        0.171,
+        0.267,
+        0.351,
+        0.319,
+        0.314,
+        0.304,
+        0.289,
+        0.269,
+        0.244,
+        0.214,
+        0.179,
+        0.139,
+        0.094,
+        0.044,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4,
+      "score": 2.412,
+      "genres": [
+        "metal"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 2
+    },
+    {
+      "title": "Jump",
+      "instanceSlug": 79,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-02",
+      "ranks": [
+        12,
+        2,
+        2.29
+      ],
+      "scores": [
+        0.171,
+        0.768,
+        0.723,
+        0.718,
+        0.708,
+        0.693,
+        0.673,
+        0.648,
+        0.618,
+        0.583,
+        0.543,
+        0.498,
+        0.448,
+        0.393,
+        0.333,
+        0.268,
+        0.198,
+        0.123,
+        0.043,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 5,
+      "score": 2.2875000000000005,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 3
+    },
+    {
+      "title": "Dancing in the Streets",
+      "instanceSlug": 1052,
+      "tags": [
+        "dance",
+        "remake",
+        "street",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1982-07",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        14,
+        11.5,
+        10,
+        9,
+        8.5,
+        8.7,
+        9.6,
+        11
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.185,
+        0.232,
+        0.267,
+        0.286,
+        0.278,
+        0.246,
+        0.2,
+        0.195,
+        0.185,
+        0.17,
+        0.15,
+        0.125,
+        0.095,
+        0.06,
+        0.02,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4.5,
+      "score": 0.71725,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 4
+    },
+    {
+      "title": "Yankee Rose",
+      "instanceSlug": 276,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "metal",
+      "debut": "1986-08",
+      "playlists": [
+      ],
+      "ranks": [
+        22,
+        17,
+        14,
+        15.1,
+        16.8,
+        19
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.095,
+        0.059,
+        0.018,
+        0.013,
+        0.003,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.018,
+      "duration": 2,
+      "score": 0.36300000000000004,
+      "genres": [
+        "metal"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "California Girls",
+      "instanceSlug": 1636,
+      "tags": [
+        "california",
+        "girl",
+        "places",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-02",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Pretty Woman",
+      "instanceSlug": 2918,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1982-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 7
+    },
+    {
+      "title": "I'll Wait",
+      "instanceSlug": 2919,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 8
+    },
+    {
+      "title": "Panama",
+      "instanceSlug": 2920,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 9
+    },
+    {
+      "title": "Just Like Paradise",
+      "instanceSlug": 1978,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1988-02",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 10
+    },
+    {
+      "title": "Panama",
+      "instanceSlug": "panama",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-07",
+      "playlists": [
+        "inanimate"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "hard-rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 11
+    }
+  ],
+  "score": 14.402750000000001,
+  "songCount": 11,
+  "songAdjustedAverage": 4.342592518117385,
+  "rank": 550
+}

@@ -1,1 +1,81 @@
-{"title":"Good Charlotte","instanceSlug":"good-charlotte","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Dance Floor Anthem (Don't Wanna Be in Love)","instanceSlug":1339,"tags":["don't-wanna","in-love"],"genre":"rock","debut":2007,"playlists":[],"ranks":[21,11,7.2,5.5,5.6,5.9,6.2,6.8,7.7,8.9,10.4,12.2,14.3,16.7,19.4,22.4,25.7,29.3,33.2,37.4,41.9,46.7,51.8,57.2],"debutRank":21,"peakRank":5.5,"duration":6,"score":11.17,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1}],"score":11.17,"songAdjustedAverage":11.17,"rank":445}
+{
+  "title": "Good Charlotte",
+  "instanceSlug": "good-charlotte",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Dance Floor Anthem (Don't Wanna Be in Love)",
+      "instanceSlug": 1339,
+      "tags": [
+        "don't-wanna",
+        "in-love"
+      ],
+      "genre": "rock",
+      "debut": 2007,
+      "playlists": [
+      ],
+      "ranks": [
+        21,
+        11,
+        7.2,
+        5.5,
+        5.6,
+        5.9
+      ],
+      "scores": [
+        0.2,
+        0.341,
+        0.431,
+        0.425,
+        0.408,
+        0.403,
+        0.393,
+        0.378,
+        0.358,
+        0.333,
+        0.303,
+        0.268,
+        0.228,
+        0.183,
+        0.133,
+        0.078,
+        0.018,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.2,
+      "duration": 4.5,
+      "score": 4.881,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.881,
+  "songCount": 1,
+  "songAdjustedAverage": 4.881,
+  "rank": 514
+}

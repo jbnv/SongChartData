@@ -1,1 +1,85 @@
-{"title":"Charlie Daniels","instanceSlug":"charlie-daniels","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"The Devil Went Down to Georgia","instanceSlug":829,"tags":[],"parents":[],"genre":"country","debut":1979,"playlists":["places"],"ranks":[9,1,1.1,1.25,1.4,1.7,2.15,2.75,3.5,4.4,5.45,6.65,8,9.5,11.15,12.95,14.9,17,19.25,21.65,24.2,26.9,29.75,32.75,35.9,39.2,42.65,46.25,50,53.9,57.95,62.15],"debutRank":9,"peakRank":1,"duration":8,"score":27.72,"genres":["country"],"role":true,"scoreFactor":1,"rank":1}],"score":27.72,"songAdjustedAverage":27.72,"rank":70}
+{
+  "title": "Charlie Daniels",
+  "instanceSlug": "charlie-daniels",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "The Devil Went Down to Georgia",
+      "instanceSlug": 829,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1979,
+      "playlists": [
+        "places"
+      ],
+      "ranks": [
+        9,
+        1,
+        1.1,
+        1.25
+      ],
+      "scores": [
+        0.267,
+        1,
+        0.968,
+        0.925,
+        0.92,
+        0.91,
+        0.895,
+        0.875,
+        0.85,
+        0.82,
+        0.785,
+        0.745,
+        0.7,
+        0.65,
+        0.595,
+        0.535,
+        0.47,
+        0.4,
+        0.325,
+        0.245,
+        0.16,
+        0.07,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.267,
+      "duration": 5.75,
+      "score": 14.11,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 14.11,
+  "songCount": 1,
+  "songAdjustedAverage": 14.11,
+  "rank": 71
+}

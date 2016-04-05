@@ -1,1 +1,84 @@
-{"title":"Steel Breeze","instanceSlug":"steel-breeze","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"You Don't Want Me Anymore","instanceSlug":662,"tags":[],"parents":[],"genre":"rock","debut":"1982-09","playlists":[],"ranks":[18,11,7.5,5.5,4.5,5.25,6,7.5,9.75,12.75,16.5,21,26.25,32.25,39,46.5,54.75,63.75,73.5,84],"debutRank":18,"peakRank":4.5,"duration":5,"score":9.4,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1}],"score":9.4,"songAdjustedAverage":9.4,"rank":506}
+{
+  "title": "Steel Breeze",
+  "instanceSlug": "steel-breeze",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "You Don't Want Me Anymore",
+      "instanceSlug": 662,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1982-09",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        11,
+        7.5,
+        5.5,
+        4.5,
+        5.25
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.328,
+        0.431,
+        0.498,
+        0.447,
+        0.442,
+        0.432,
+        0.417,
+        0.397,
+        0.372,
+        0.342,
+        0.307,
+        0.267,
+        0.222,
+        0.172,
+        0.117,
+        0.057,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.75,
+      "score": 5.484000000000001,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 5.484000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 5.484000000000001,
+  "rank": 472
+}

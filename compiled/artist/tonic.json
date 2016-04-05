@@ -1,1 +1,57 @@
-{"title":"Tonic","instanceSlug":"tonic","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"If You Could Only See","instanceSlug":2827,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1997-07","playlists":["summer"],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1167}
+{
+  "title": "Tonic",
+  "instanceSlug": "tonic",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "If You Could Only See",
+      "instanceSlug": 2827,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1997-07",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1168
+}

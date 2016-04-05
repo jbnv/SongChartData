@@ -1,1 +1,768 @@
-{"title":"Gloria Estefan","instanceSlug":"gloria-estefan","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"tags":[{"slug":"1980s","title":"Major Artists of the 1980s"},{"slug":"1990s","title":"Major Artists of the 1990s"}],"xref":["miami-sound-machine"],"genres":[{"slug":"pop","title":"Pop"},{"slug":"dance-pop","title":"Dance-Pop"},{"slug":"latin-pop","title":"Latin Pop"}],"complete":true,"birth":"1957-09","death":"","songs":[{"title":"Coming Out of the Dark","instanceSlug":1213,"tags":[],"genre":"pop","debut":"1991-02","playlists":[],"ranks":[14,5,1.3,1.4,1.55,1.75,1.95,2.3,2.65,3.35,4.4,5.8,7.55,9.65,12.1,14.9,18.05,21.55,25.4,29.6,34.15,39.05,44.3,49.9,55.85,62.15,68.8,75.8],"debutRank":14,"peakRank":1.3,"duration":7,"score":25.85,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Rhythm is Gonna Get You","instanceSlug":342,"tags":["get-you"],"genre":"latin-dance","debut":"1987-06","playlists":["summer"],"ranks":[14,4,1.2,1.25,1.41,1.57,1.89,2.37,3.01,3.81,4.77,5.89,7.17,8.61,10.21,11.97,13.89,15.97,18.21,20.61,23.17,25.89,28.77,31.81,35.01,38.37,41.89,45.57,49.41,53.41,57.57,61.89],"debutRank":14,"peakRank":1.2,"duration":8,"score":20.4525,"genres":["latin-dance"],"role":"lead","scoreFactor":0.75,"rank":2},{"title":"Bad Boy","instanceSlug":834,"tags":[],"genre":"pop","debut":"1986-04","playlists":[],"ranks":[15,8.6,4.9,3.9,3.5,3.64,3.79,3.94,4.24,4.69,5.29,6.04,6.94,7.99,9.19,10.54,12.04,13.69,15.49,17.44,19.54,21.79,24.19,26.74,29.44,32.29,35.29,38.44,41.74,45.19,48.79,52.54],"debutRank":15,"peakRank":3.5,"duration":8,"score":15.915,"genres":["pop"],"role":"lead","scoreFactor":0.75,"rank":3},{"title":"Falling in Love","instanceSlug":1476,"tags":[],"genre":"pop","debut":"1986-12","playlists":[],"ranks":[15.5,4.9,3.1,2.5,2.6,2.8,3.15,3.5,4.2,5.25,6.65,8.4,10.5,12.95,15.75,18.9,22.4,26.25,30.45,35,39.9,45.15,50.75,56.7],"debutRank":15.5,"peakRank":2.5,"duration":6,"score":14.6325,"genres":["pop"],"role":"lead","scoreFactor":0.75,"rank":4},{"title":"Live For Loving You","instanceSlug":1519,"tags":[],"genre":"pop","debut":"1991-11","playlists":[],"ranks":[19,10,7.5,5.4,5,5.4,5.8,6.6,7.8,9.4,11.4,13.8,16.6,19.8,23.4,27.4,31.8,36.6,41.8,47.4,53.4,59.8,66.6,73.8],"debutRank":19,"peakRank":5,"duration":6,"score":10.96,"genres":["pop"],"role":true,"scoreFactor":1,"rank":5},{"title":"Anything for You","instanceSlug":"anything-for-you-1988","tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"debut":"1988-04","playlists":["spanish","ballad"],"ranks":[14,7,4.4,3.4,3.45,3.9,4.35,5.25,6.6,8.4,10.65,13.35,16.5,20.1,24.15,28.65,33.6,39,44.85,51.15],"debutRank":14,"peakRank":3.4,"duration":5,"score":10.6575,"role":"lead","scoreFactor":0.75,"rank":6},{"title":"Get On Your Feet","instanceSlug":1421,"tags":[],"genre":"dance","debut":"1989-11","playlists":[],"ranks":[18,8.5,6.9,7.1,7.3,7.7,8.3,9.1,10.1,11.3,12.7,14.3,16.1,18.1,20.3,22.7,25.3,28.1,31.1,34.3,37.7,41.3,45.1,49.1,53.3,57.7,62.3,67.1],"debutRank":18,"peakRank":6.9,"duration":7,"score":9.11,"genres":["dance"],"role":true,"scoreFactor":1,"rank":7},{"title":"Turn the Beat Around","instanceSlug":1286,"tags":[],"genre":"disco","debut":"1994-11","playlists":["remake"],"source":"specialist","ranks":[20,13,10,8,6,6.5,7,8,9.5,11.5,14,17,20.5,24.5,29,34,39.5,45.5,52,59],"debutRank":20,"peakRank":6,"duration":5,"score":8.2,"genres":["disco"],"role":true,"scoreFactor":1,"rank":8},{"title":"Can't Stay Away from You","instanceSlug":1834,"tags":["#1","#1-adult-contemporary"],"genre":"adult-contemporary","playlists":[],"ranks":[18,13.9,8.2,6.2,4.9,5.3,5.9,6.7,7.5,9.1,11.5,14.7,18.7,23.5,29.1,35.5,42.7,50.7,59.5,69.1],"debut":"1988-01","debutRank":18,"peakRank":4.9,"duration":5,"score":7.7475000000000005,"genres":["adult-contemporary"],"role":"lead","scoreFactor":0.75,"rank":9},{"title":"Conga","instanceSlug":1741,"tags":[],"genre":"latin-dance","debut":"1985-12","playlists":[],"ranks":[18,7.8,5.9,5.2,5.4,5.9,7.2,8.5,11.1,15,20.2,26.7,34.5,43.6,54,65.7],"debutRank":18,"peakRank":5.2,"duration":4,"score":6.705,"genres":["latin-dance"],"role":"lead","scoreFactor":0.75,"rank":10},{"title":"1-2-3","instanceSlug":"1-2-3","tags":["#1","#1-adult-contemporary"],"genre":["dance","latin-dance"],"debut":"1988-07","playlists":["summer"],"ranks":[19,10,7,6,5,6.1,7.2,9.4,12.7,17.1,22.6,29.2,36.9,45.7,55.6,66.6],"debutRank":19,"peakRank":5,"duration":4,"score":6,"genres":[["dance","latin-dance"]],"role":"lead","scoreFactor":0.75,"rank":11},{"title":"Words Get in the Way","instanceSlug":328,"tags":["#1","#1-adult-contemporary"],"genres":[],"debut":"1986-08","playlists":["ballad"],"ranks":[18,11.7,6.8,7.5,10.2,13.9,17.6,25,36.1,50.9,69.4,91.6],"debutRank":18,"peakRank":6.8,"duration":3,"score":2.925,"role":"lead","scoreFactor":0.75,"rank":12},{"title":"Betcha Say That","instanceSlug":"betcha-say-that","tags":[],"parents":[],"debut":"1987-11","playlists":[],"ranks":[],"role":"lead","scoreFactor":0.75,"score":null,"rank":13},{"title":"Everlasting Love","instanceSlug":"everlasting-love-ge","tags":[],"parents":[],"genre":"dance-pop","debut":"1995-02","playlists":["remake"],"ranks":[],"genres":["dance-pop"],"role":true,"scoreFactor":1,"score":null,"rank":14},{"title":"Don't Wanna Lose You","instanceSlug":"gestefan10","tags":[],"parents":[],"debut":"1989-08","playlists":["ballad"],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":15},{"title":"Here We Are","instanceSlug":"here-we-are-1990","tags":["#1","#1-adult-contemporary"],"parents":[],"debut":"1990-01","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":16}],"score":139.16,"songAdjustedAverage":34.79,"rank":28}
+{
+  "title": "Gloria Estefan",
+  "instanceSlug": "gloria-estefan",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "tags": [
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    },
+    {
+      "slug": "1990s",
+      "title": "Major Artists of the 1990s"
+    }
+  ],
+  "xref": [
+    "miami-sound-machine"
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    },
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    },
+    {
+      "slug": "latin-pop",
+      "title": "Latin Pop"
+    }
+  ],
+  "complete": true,
+  "birth": "1957-09",
+  "death": "",
+  "songs": [
+    {
+      "title": "Coming Out of the Dark",
+      "instanceSlug": 1213,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1991-02",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        5,
+        1.3,
+        1.4,
+        1.55,
+        1.75,
+        1.95,
+        2.3
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.912,
+        0.887,
+        0.853,
+        0.813,
+        0.777,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 6.25,
+      "score": 13.018999999999998,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Rhythm is Gonna Get You",
+      "instanceSlug": 342,
+      "tags": [
+        "get-you"
+      ],
+      "genre": "latin-dance",
+      "debut": "1987-06",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        14,
+        4,
+        1.2,
+        1.25,
+        1.41
+      ],
+      "scores": [
+        0.12,
+        0.537,
+        0.939,
+        0.925,
+        0.885,
+        0.88,
+        0.87,
+        0.855,
+        0.835,
+        0.81,
+        0.78,
+        0.745,
+        0.705,
+        0.66,
+        0.61,
+        0.555,
+        0.495,
+        0.43,
+        0.36,
+        0.285,
+        0.205,
+        0.12,
+        0.03,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 6,
+      "score": 10.226999999999995,
+      "genres": [
+        "latin-dance"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 2
+    },
+    {
+      "title": "Falling in Love",
+      "instanceSlug": 1476,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1986-12",
+      "playlists": [
+      ],
+      "ranks": [
+        15.5,
+        4.9,
+        3.1,
+        2.5,
+        2.6,
+        2.8,
+        3.15
+      ],
+      "scores": [
+        0.086,
+        0.47,
+        0.622,
+        0.694,
+        0.681,
+        0.656,
+        0.617,
+        0.612,
+        0.602,
+        0.587,
+        0.567,
+        0.542,
+        0.512,
+        0.477,
+        0.437,
+        0.392,
+        0.342,
+        0.287,
+        0.227,
+        0.162,
+        0.092,
+        0.017,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.086,
+      "duration": 5.75,
+      "score": 7.260750000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 3
+    },
+    {
+      "title": "Bad Boy",
+      "instanceSlug": 834,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1986-04",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        8.6,
+        4.9,
+        3.9,
+        3.5,
+        3.64,
+        3.79
+      ],
+      "scores": [
+        0.097,
+        0.282,
+        0.47,
+        0.546,
+        0.582,
+        0.569,
+        0.555,
+        0.55,
+        0.54,
+        0.525,
+        0.505,
+        0.48,
+        0.45,
+        0.415,
+        0.375,
+        0.33,
+        0.28,
+        0.225,
+        0.165,
+        0.1,
+        0.03,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 6.05325,
+      "genres": [
+        "pop"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 4
+    },
+    {
+      "title": "Anything for You",
+      "instanceSlug": "anything-for-you-1988",
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "debut": "1988-04",
+      "playlists": [
+        "spanish",
+        "ballad"
+      ],
+      "ranks": [
+        14,
+        7,
+        4.4,
+        3.4,
+        3.45,
+        3.9
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.506,
+        0.592,
+        0.587,
+        0.546,
+        0.541,
+        0.531,
+        0.516,
+        0.496,
+        0.471,
+        0.441,
+        0.406,
+        0.366,
+        0.321,
+        0.271,
+        0.216,
+        0.156,
+        0.091,
+        0.021,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.25,
+      "score": 5.659499999999999,
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 5
+    },
+    {
+      "title": "Live For Loving You",
+      "instanceSlug": 1519,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1991-11",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        10,
+        7.5,
+        5.4,
+        5,
+        5.4
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.328,
+        0.437,
+        0.463,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 5.3389999999999995,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Turn the Beat Around",
+      "instanceSlug": 1286,
+      "tags": [
+      ],
+      "genre": "disco",
+      "debut": "1994-11",
+      "playlists": [
+        "remake"
+      ],
+      "source": "specialist",
+      "ranks": [
+        20,
+        13,
+        10,
+        8,
+        6,
+        6.5
+      ],
+      "scores": [
+        0.001,
+        0.145,
+        0.232,
+        0.306,
+        0.402,
+        0.376,
+        0.371,
+        0.361,
+        0.346,
+        0.326,
+        0.301,
+        0.271,
+        0.236,
+        0.196,
+        0.151,
+        0.101,
+        0.046,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 4.5,
+      "score": 4.168000000000001,
+      "genres": [
+        "disco"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
+    },
+    {
+      "title": "Can't Stay Away from You",
+      "instanceSlug": 1834,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "genre": "adult-contemporary",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        13.9,
+        8.2,
+        6.2,
+        4.9,
+        5.3,
+        5.9,
+        6.7
+      ],
+      "debut": "1988-01",
+      "scores": [
+        0.036,
+        0.122,
+        0.298,
+        0.391,
+        0.47,
+        0.444,
+        0.408,
+        0.365,
+        0.36,
+        0.35,
+        0.335,
+        0.315,
+        0.29,
+        0.26,
+        0.225,
+        0.185,
+        0.14,
+        0.09,
+        0.035,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 5,
+      "score": 3.8392499999999985,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 8
+    },
+    {
+      "title": "1-2-3",
+      "instanceSlug": "1-2-3",
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "genre": [
+        "dance",
+        "latin-dance"
+      ],
+      "debut": "1988-07",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        19,
+        10,
+        7,
+        6,
+        5,
+        6.1
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.351,
+        0.402,
+        0.463,
+        0.397,
+        0.392,
+        0.382,
+        0.367,
+        0.347,
+        0.322,
+        0.292,
+        0.257,
+        0.217,
+        0.172,
+        0.122,
+        0.067,
+        0.007,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 3.60525,
+      "genres": [
+        [
+          "dance",
+          "latin-dance"
+        ]
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 9
+    },
+    {
+      "title": "Conga",
+      "instanceSlug": 1741,
+      "tags": [
+      ],
+      "genre": "latin-dance",
+      "debut": "1985-12",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        7.8,
+        5.9,
+        5.2,
+        5.4,
+        5.9,
+        7.2
+      ],
+      "scores": [
+        0.036,
+        0.315,
+        0.408,
+        0.45,
+        0.437,
+        0.408,
+        0.341,
+        0.336,
+        0.326,
+        0.311,
+        0.291,
+        0.266,
+        0.236,
+        0.201,
+        0.161,
+        0.116,
+        0.066,
+        0.011,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.75,
+      "score": 3.536999999999999,
+      "genres": [
+        "latin-dance"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 10
+    },
+    {
+      "title": "Get On Your Feet",
+      "instanceSlug": 1421,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1989-11",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        8.5,
+        6.9,
+        7.1
+      ],
+      "scores": [
+        0.036,
+        0.286,
+        0.356,
+        0.346,
+        0.341,
+        0.331,
+        0.316,
+        0.296,
+        0.271,
+        0.241,
+        0.206,
+        0.166,
+        0.121,
+        0.071,
+        0.016,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4,
+      "score": 3.4,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 11
+    },
+    {
+      "title": "Words Get in the Way",
+      "instanceSlug": 328,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "genres": [
+      ],
+      "debut": "1986-08",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        18,
+        11.7,
+        6.8,
+        7.5,
+        10.2,
+        13.9
+      ],
+      "scores": [
+        0.036,
+        0.18,
+        0.361,
+        0.328,
+        0.225,
+        0.122,
+        0.117,
+        0.107,
+        0.092,
+        0.072,
+        0.047,
+        0.017,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 3.25,
+      "score": 1.278,
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 12
+    },
+    {
+      "title": "Betcha Say That",
+      "instanceSlug": "betcha-say-that",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": "1987-11",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 13
+    },
+    {
+      "title": "Everlasting Love",
+      "instanceSlug": "everlasting-love-ge",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1995-02",
+      "playlists": [
+        "remake"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 14
+    },
+    {
+      "title": "Don't Wanna Lose You",
+      "instanceSlug": "gestefan10",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": "1989-08",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 15
+    },
+    {
+      "title": "Here We Are",
+      "instanceSlug": "here-we-are-1990",
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "debut": "1990-01",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 16
+    },
+    {
+      "title": "Seal Our Fate",
+      "instanceSlug": "seal-our-fate",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1991-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 17
+    }
+  ],
+  "score": 67.386,
+  "songCount": 17,
+  "songAdjustedAverage": 16.34350562869833,
+  "rank": 42
+}

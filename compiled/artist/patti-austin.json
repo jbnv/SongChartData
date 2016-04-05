@@ -1,1 +1,85 @@
-{"title":"Patti Austin","instanceSlug":"patti-austin","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Baby Come To Me","instanceSlug":367,"tags":["#1","#1-adult-contemporary","#1-hot-100","come-to"],"parents":[],"genre":"pop","debut":"1982-12","playlists":["ballad"],"ranks":[15,6.4,4.2,5.8,8.1,11.2,14.3,20.5,29.8,42.2,57.7,76.3],"debutRank":15,"peakRank":4.2,"duration":3,"score":6.07,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":6.07,"songAdjustedAverage":6.07,"rank":607}
+{
+  "title": "Patti Austin",
+  "instanceSlug": "patti-austin",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Baby Come To Me",
+      "instanceSlug": 367,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-hot-100",
+        "come-to"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-12",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        15,
+        6.4,
+        4.2,
+        5.8,
+        8.1,
+        11.2
+      ],
+      "scores": [
+        0.097,
+        0.381,
+        0.521,
+        0.414,
+        0.302,
+        0.194,
+        0.189,
+        0.179,
+        0.164,
+        0.144,
+        0.119,
+        0.089,
+        0.054,
+        0.014,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 3.75,
+      "score": 2.8609999999999993,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 2.8609999999999993,
+  "songCount": 1,
+  "songAdjustedAverage": 2.8609999999999993,
+  "rank": 632
+}

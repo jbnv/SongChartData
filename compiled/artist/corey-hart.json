@@ -1,1 +1,121 @@
-{"title":"Corey Hart","instanceSlug":"corey-hart","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Never Surrender","instanceSlug":839,"tags":["never","surrender"],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[17,10.1,7.6,8.4,10.1,11.8,15.2,20.3,27.1,35.6,45.8,57.7],"debutRank":17,"peakRank":7.6,"duration":3,"score":4.2,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"I Am By Your Side","instanceSlug":638,"tags":[],"parents":[],"genre":true,"debut":"1986-10","playlists":[],"ranks":[],"genres":[true],"role":true,"scoreFactor":1,"score":null,"rank":2},{"title":"Sunglasses at Night","instanceSlug":778,"tags":[],"parents":[],"genre":"rock","debut":1985,"playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":4.2,"songAdjustedAverage":2.42,"rank":697}
+{
+  "title": "Corey Hart",
+  "instanceSlug": "corey-hart",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Never Surrender",
+      "instanceSlug": 839,
+      "tags": [
+        "never",
+        "surrender"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-08",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        10.1,
+        7.6,
+        8.4,
+        10.1
+      ],
+      "scores": [
+        0.055,
+        0.229,
+        0.323,
+        0.29,
+        0.229,
+        0.224,
+        0.214,
+        0.199,
+        0.179,
+        0.154,
+        0.124,
+        0.089,
+        0.049,
+        0.004,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 3.75,
+      "score": 2.362,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "I Am By Your Side",
+      "instanceSlug": 638,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1986-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Sunglasses at Night",
+      "instanceSlug": 778,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1985,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 2.362,
+  "songCount": 3,
+  "songAdjustedAverage": 1.3637013358258963,
+  "rank": 693
+}

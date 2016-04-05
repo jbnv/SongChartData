@@ -1,1 +1,636 @@
-{"title":"Shai","instanceSlug":"shai","tags":[],"genres":[{"slug":"r&b"},{"slug":"soul","title":"Soul"},{"slug":"urban","title":"Urban / R&B"}],"members":[],"xref":[],"complete":true,"origin":{"title":"Washington, DC","instanceSlug":"dc","tags":[],"parents":["us"],"artists":[{"title":"Tony Terry","instanceSlug":"tony-terry","tags":[],"parents":[],"genres":["r&b","funk"],"members":[],"xref":[],"complete":true,"origin":"dc","birth":"1964","death":"","type":"m","songs":[{"title":"With You","instanceSlug":956,"tags":[],"parents":[],"genre":"soul","debut":"1991-10","playlists":[],"ranks":[16.5,9.7,5.7,7.2,9.8,13.34,18.16,24.71,33.64,45.78,62.31,84.82],"artists":[{"slug":"tony-terry","title":"Tony Terry","roleSlug":true}],"debutRank":16.5,"peakRank":5.7,"duration":3,"score":4.44,"genres":[{"slug":"soul","title":"Soul"}],"rank":1}],"score":4.44,"songAdjustedAverage":4.44,"rank":633},{"title":"Johnny Gill","instanceSlug":"johnny-gill","tags":[],"parents":[],"genres":["urban"],"members":[],"complete":true,"origin":"dc","birth":1966,"death":"","type":"m","songs":[{"title":"My My My","instanceSlug":194,"tags":["my","triple"],"parents":[],"genre":"pop","debut":"1990-09","ranks":[18,12,8,7.6,8.1,9,11.25,14.06,17.58,21.97,27.47,34.33,42.92,53.64,67.06,83.82],"artists":[{"slug":"johnny-gill","title":"Johnny Gill","roleSlug":true},{"slug":"after-7","title":"After 7","roleSlug":"backup"}],"debutRank":18,"peakRank":7.6,"duration":4,"score":5.3,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":1},{"title":"Rub You the Right Way","instanceSlug":1340,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"johnny-gill","title":"Johnny Gill","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":2}],"score":5.3,"songAdjustedAverage":3.75,"rank":655},{"title":"Marvin Gaye","instanceSlug":"marvin-gaye","tags":["1960s","1970s"],"parents":[],"genres":["soul"],"members":[],"xref":[],"complete":true,"origin":"dc","birth":1939,"death":1984,"type":"m","songs":[{"title":"I Heard It Through the Grapevine","instanceSlug":1452,"tags":[],"parents":[],"genre":"soul","debut":1968,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":1},{"title":"My Mistake (Was to Love You)","instanceSlug":1969,"tags":[],"parents":[],"genre":"soul","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"diana-ross","title":"Diana Ross","roleSlug":true},{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":2},{"title":"It Takes Two","instanceSlug":2534,"tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true},{"slug":"kim-weston","title":"Kim Weston","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":3},{"title":"Ain't No Mountain High Enough","instanceSlug":2535,"tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true},{"slug":"tammi-terrell","title":"Tammi Terrell","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":4},{"title":"Ain't Nothing Like the Real Thing","instanceSlug":2536,"tags":[],"parents":[],"genre":"soul","debut":1968,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true},{"slug":"tammi-terrell","title":"Tammi Terrell","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":5},{"title":"What's Going On","instanceSlug":2537,"tags":["#1","#1-r&b","#2-hot-100"],"parents":[],"genre":"soul","debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":6},{"title":"Let's Get It On","instanceSlug":2538,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"soul","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":7},{"title":"Got to Give It Up","instanceSlug":2539,"tags":[],"parents":[],"genre":"funk","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":8},{"title":"Sexual Healing","instanceSlug":2540,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1982-12","playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":9}],"score":0,"songAdjustedAverage":0,"rank":1104}],"score":9.74,"artistAdjustedAverage":5.62},"birth":"","death":"","type":{"title":"All-Male Group","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"mmm"},"songs":[{"title":"If I Ever Fall in Love","instanceSlug":1059,"tags":[],"genres":["soul","r&b","urban"],"debut":"1992-11","playlists":[],"ranks":[15,5,3,1.9,2.4,2.9,3.9,5.4,7.4,9.9,12.9,16.4,20.4,24.9,29.9,35.4,41.4,47.9,54.9,62.4],"debutRank":15,"peakRank":1.9,"duration":5,"score":15.31,"role":true,"scoreFactor":1,"rank":1},{"title":"Baby I'm Yours","instanceSlug":714,"tags":[],"genres":["soul","r&b","urban"],"debut":"1993-07","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":2},{"title":"Comforter","instanceSlug":"comforter","tags":[],"parents":[],"genre":"soul","debut":"1993-03","playlists":[],"ranks":[],"genres":["soul"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":15.31,"songAdjustedAverage":8.84,"rank":522}
+{
+  "title": "Shai",
+  "instanceSlug": "shai",
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "r&b"
+    },
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": true,
+  "origin": {
+    "title": "Washington, DC",
+    "instanceSlug": "dc",
+    "tags": [
+    ],
+    "parents": [
+      "us"
+    ],
+    "artists": [
+      {
+        "title": "Tony Terry",
+        "instanceSlug": "tony-terry",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "r&b",
+          "funk"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "dc",
+        "birth": "1964",
+        "death": "",
+        "type": "m",
+        "songs": [
+          {
+            "title": "With You",
+            "instanceSlug": 956,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1991-10",
+            "playlists": [
+            ],
+            "ranks": [
+              16.5,
+              9.7,
+              5.7,
+              7.2,
+              9.8,
+              13.34,
+              18.16,
+              24.71,
+              33.64,
+              45.78,
+              62.31,
+              84.82
+            ],
+            "artists": [
+              {
+                "slug": "tony-terry",
+                "title": "Tony Terry",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16.5,
+            "peakRank": 5.7,
+            "duration": 3,
+            "score": 4.44,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 4.44,
+        "songAdjustedAverage": 4.44,
+        "rank": 633
+      },
+      {
+        "title": "Johnny Gill",
+        "instanceSlug": "johnny-gill",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "dc",
+        "birth": 1966,
+        "death": "",
+        "type": "m",
+        "songs": [
+          {
+            "title": "My My My",
+            "instanceSlug": 194,
+            "tags": [
+              "my",
+              "triple"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1990-09",
+            "ranks": [
+              18,
+              12,
+              8,
+              7.6,
+              8.1,
+              9,
+              11.25,
+              14.06,
+              17.58,
+              21.97,
+              27.47,
+              34.33,
+              42.92,
+              53.64,
+              67.06,
+              83.82
+            ],
+            "artists": [
+              {
+                "slug": "johnny-gill",
+                "title": "Johnny Gill",
+                "roleSlug": true
+              },
+              {
+                "slug": "after-7",
+                "title": "After 7",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 7.6,
+            "duration": 4,
+            "score": 5.3,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Rub You the Right Way",
+            "instanceSlug": 1340,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": "1990-06",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "johnny-gill",
+                "title": "Johnny Gill",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 2
+          }
+        ],
+        "score": 5.3,
+        "songAdjustedAverage": 3.75,
+        "rank": 655
+      },
+      {
+        "title": "Marvin Gaye",
+        "instanceSlug": "marvin-gaye",
+        "tags": [
+          "1960s",
+          "1970s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "soul"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "dc",
+        "birth": 1939,
+        "death": 1984,
+        "type": "m",
+        "songs": [
+          {
+            "title": "I Heard It Through the Grapevine",
+            "instanceSlug": 1452,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1968,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "My Mistake (Was to Love You)",
+            "instanceSlug": 1969,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1974,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "diana-ross",
+                "title": "Diana Ross",
+                "roleSlug": true
+              },
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "It Takes Two",
+            "instanceSlug": 2534,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1967,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              },
+              {
+                "slug": "kim-weston",
+                "title": "Kim Weston",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Ain't No Mountain High Enough",
+            "instanceSlug": 2535,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1967,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              },
+              {
+                "slug": "tammi-terrell",
+                "title": "Tammi Terrell",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Ain't Nothing Like the Real Thing",
+            "instanceSlug": 2536,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1968,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              },
+              {
+                "slug": "tammi-terrell",
+                "title": "Tammi Terrell",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "What's Going On",
+            "instanceSlug": 2537,
+            "tags": [
+              "#1",
+              "#1-r&b",
+              "#2-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1971,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Let's Get It On",
+            "instanceSlug": 2538,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1973,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Got to Give It Up",
+            "instanceSlug": 2539,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": 1977,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Sexual Healing",
+            "instanceSlug": 2540,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1982-12",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "marvin-gaye",
+                "title": "Marvin Gaye",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 9
+          }
+        ],
+        "score": 0,
+        "songAdjustedAverage": 0,
+        "rank": 1104
+      }
+    ],
+    "score": 9.74,
+    "artistAdjustedAverage": 5.62
+  },
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "All-Male Group",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "mmm"
+  },
+  "songs": [
+    {
+      "title": "If I Ever Fall in Love",
+      "instanceSlug": 1059,
+      "tags": [
+      ],
+      "genres": [
+        "soul",
+        "r&b",
+        "urban"
+      ],
+      "debut": "1992-11",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        5,
+        3,
+        1.9,
+        2.4
+      ],
+      "scores": [
+        0.097,
+        0.463,
+        0.633,
+        0.786,
+        0.708,
+        0.703,
+        0.693,
+        0.678,
+        0.658,
+        0.633,
+        0.603,
+        0.568,
+        0.528,
+        0.483,
+        0.433,
+        0.378,
+        0.318,
+        0.253,
+        0.183,
+        0.108,
+        0.028,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 9.935,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Baby I'm Yours",
+      "instanceSlug": 714,
+      "tags": [
+      ],
+      "genres": [
+        "soul",
+        "r&b",
+        "urban"
+      ],
+      "debut": "1993-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Comforter",
+      "instanceSlug": "comforter",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1993-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 9.935,
+  "songCount": 3,
+  "songAdjustedAverage": 5.735974924398932,
+  "rank": 457
+}

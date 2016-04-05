@@ -1,1 +1,77 @@
-{"title":"Carl Carlton","instanceSlug":"carl-carlton","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"She's A Bad Mama Jama","instanceSlug":911,"tags":[],"parents":[],"genre":"funk","debut":"1981-10","playlists":[],"ranks":[17.9,10.4,6.1,6,8.3,10.6,15.2,22.1,31.3,42.8,56.6,72.7],"debutRank":17.9,"peakRank":6,"duration":3,"score":4.97,"genres":["funk"],"role":true,"scoreFactor":1,"rank":1}],"score":4.97,"songAdjustedAverage":4.97,"rank":636}
+{
+  "title": "Carl Carlton",
+  "instanceSlug": "carl-carlton",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "She's A Bad Mama Jama",
+      "instanceSlug": 911,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1981-10",
+      "playlists": [
+      ],
+      "ranks": [
+        17.9,
+        10.4,
+        6.1,
+        6,
+        8.3
+      ],
+      "scores": [
+        0.038,
+        0.219,
+        0.397,
+        0.402,
+        0.294,
+        0.289,
+        0.279,
+        0.264,
+        0.244,
+        0.219,
+        0.189,
+        0.154,
+        0.114,
+        0.069,
+        0.019,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.038,
+      "duration": 4,
+      "score": 3.19,
+      "genres": [
+        "funk"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 3.19,
+  "songCount": 1,
+  "songAdjustedAverage": 3.19,
+  "rank": 612
+}

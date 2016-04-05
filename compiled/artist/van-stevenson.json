@@ -1,1 +1,80 @@
-{"title":"Van Stevenson","instanceSlug":"van-stevenson","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Modern-Day Delilah","instanceSlug":1042,"tags":[],"parents":[],"genre":"pop","debut":"1984-06","playlists":[],"ranks":[15,12,10,9,8,7.5,7.4,7.7,8,9,10,12,15,19,24,30,37,45,54,64],"debutRank":15,"peakRank":7.4,"duration":5,"score":9.45,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":9.45,"songAdjustedAverage":9.45,"rank":504}
+{
+  "title": "Van Stevenson",
+  "instanceSlug": "van-stevenson",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Modern-Day Delilah",
+      "instanceSlug": 1042,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1984-06",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        12,
+        10,
+        9,
+        8,
+        7.5,
+        7.4,
+        7.7,
+        8,
+        9
+      ],
+      "scores": [
+        0.097,
+        0.171,
+        0.232,
+        0.267,
+        0.306,
+        0.328,
+        0.332,
+        0.319,
+        0.306,
+        0.267,
+        0.262,
+        0.252,
+        0.237,
+        0.217,
+        0.192,
+        0.162,
+        0.127,
+        0.087,
+        0.042,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5,
+      "score": 4.203,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.203,
+  "songCount": 1,
+  "songAdjustedAverage": 4.203,
+  "rank": 558
+}

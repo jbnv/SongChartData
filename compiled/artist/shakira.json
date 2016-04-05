@@ -1,1 +1,69 @@
-{"title":"Shakira","instanceSlug":"shakira","tags":[],"genres":[{"slug":"latin-pop","title":"Latin Pop"}],"xref":[],"complete":false,"active":true,"birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Hips Dont Lie","instanceSlug":"hips-dont-lie","tags":["#1","#1-hot-100"],"parents":[],"debut":"2006-05","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":1},{"title":"Whenever, Wherever","instanceSlug":"whenever200111","tags":[],"parents":[],"debut":"2001-12","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":2}],"score":0,"songAdjustedAverage":0,"rank":1019}
+{
+  "title": "Shakira",
+  "instanceSlug": "shakira",
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "latin-pop",
+      "title": "Latin Pop"
+    }
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "active": true,
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Hips Dont Lie",
+      "instanceSlug": "hips-dont-lie",
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "debut": "2006-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Whenever, Wherever",
+      "instanceSlug": "whenever200111",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": "2001-12",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 0,
+  "songCount": 2,
+  "songAdjustedAverage": 0,
+  "rank": 1020
+}

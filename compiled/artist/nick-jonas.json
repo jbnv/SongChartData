@@ -1,1 +1,102 @@
-{"title":"Nick Jonas","instanceSlug":"nick-jonas","tags":[],"genres":[],"xref":["jonas-brothers"],"complete":false,"active":true,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Chains","instanceSlug":3053,"tags":[],"parents":[],"genre":"pop","debut":"2015-06","playlists":[],"ranks":[18,10,5,4,4.3,4.6,5.2,6.1,7.3,8.8,10.6,12.7,15.1,17.8,20.8,24.1,27.7,31.6,35.8,40.3,45.1,50.2,55.6,61.3],"debutRank":18,"peakRank":4,"duration":6,"score":12.71,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Jealous","instanceSlug":2526,"tags":[],"parents":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":2}],"score":12.71,"songAdjustedAverage":8.99,"rank":514}
+{
+  "title": "Nick Jonas",
+  "instanceSlug": "nick-jonas",
+  "tags": [
+  ],
+  "genres": [
+  ],
+  "xref": [
+    "jonas-brothers"
+  ],
+  "complete": false,
+  "active": true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Chains",
+      "instanceSlug": 3053,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2015-06",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        10,
+        5,
+        4,
+        4.3
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.463,
+        0.537,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.75,
+      "score": 6.175000000000002,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Jealous",
+      "instanceSlug": 2526,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2015,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 6.175000000000002,
+  "songCount": 2,
+  "songAdjustedAverage": 4.366384373826932,
+  "rank": 549
+}

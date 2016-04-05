@@ -1,1 +1,81 @@
-{"title":"Monkees","instanceSlug":"monkees","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"That Was Then, This is Now","instanceSlug":272,"tags":["long-title","now","that-was","then","this-is"],"parents":[],"genre":"pop","debut":"1986-08","ranks":[21,15.5,13,13.3,13.9,14.8,16.1,17.7,19.3,22.5,27.3,33.7,41.7,51.3,62.5,75.3],"debutRank":21,"peakRank":13,"duration":4,"score":2.17,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":2.17,"songAdjustedAverage":2.17,"rank":705}
+{
+  "title": "Monkees",
+  "instanceSlug": "monkees",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "That Was Then, This is Now",
+      "instanceSlug": 272,
+      "tags": [
+        "long-title",
+        "now",
+        "that-was",
+        "then",
+        "this-is"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-08",
+      "ranks": [
+        21,
+        15.5,
+        13,
+        13.3,
+        13.9,
+        14.8,
+        16.1,
+        17.7
+      ],
+      "scores": [
+        0.086,
+        0.145,
+        0.137,
+        0.122,
+        0.101,
+        0.073,
+        0.042,
+        0.037,
+        0.027,
+        0.012,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.042,
+      "duration": 2.75,
+      "score": 0.782,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0.782,
+  "songCount": 1,
+  "songAdjustedAverage": 0.782,
+  "rank": 723
+}

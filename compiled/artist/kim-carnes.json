@@ -1,1 +1,156 @@
-{"title":"Kim Carnes","instanceSlug":"kim-carnes","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Bette Davis Eyes","instanceSlug":189,"tags":[],"playlists":["real-person"],"genre":"pop","debut":1981,"ranks":[11,1.1,1.17,1.24,1.38,1.59,1.87,2.22,2.64,3.13,3.69,4.32,5.02,5.79,6.63,7.54,8.52,9.57,10.69,11.88,13.14,14.47,15.87,17.34,18.88,20.49,22.17,23.92,25.74,27.63,29.59,31.62,33.72,35.89,38.13,40.44,42.82,45.27,47.79,50.38],"debutRank":11,"peakRank":1.1,"duration":10,"score":34.71,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"More Love","instanceSlug":525,"tags":[],"parents":[],"genre":true,"debut":"1980-05","playlists":[],"ranks":[15,6.4,4.3,3.7,3.8,4.25,4.7,5.6,6.95,8.75,11,13.7,16.85,20.45,24.5,29,33.95,39.35,45.2,51.5],"debutRank":15,"peakRank":3.7,"duration":5,"score":13.67,"genres":[true],"role":true,"scoreFactor":1,"rank":2},{"title":"Don't Fall in Love with a Dreamer","instanceSlug":2576,"tags":[],"parents":[],"genre":"country","debut":"1980-04","playlists":[],"ranks":[],"genres":["country"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":48.38,"songAdjustedAverage":27.93,"rank":69}
+{
+  "title": "Kim Carnes",
+  "instanceSlug": "kim-carnes",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Bette Davis Eyes",
+      "instanceSlug": 189,
+      "tags": [
+      ],
+      "playlists": [
+        "real-person"
+      ],
+      "genre": "pop",
+      "debut": 1981,
+      "ranks": [
+        11,
+        1.1,
+        1.17
+      ],
+      "scores": [
+        0.2,
+        0.968,
+        0.947,
+        0.942,
+        0.932,
+        0.917,
+        0.897,
+        0.872,
+        0.842,
+        0.807,
+        0.767,
+        0.722,
+        0.672,
+        0.617,
+        0.557,
+        0.492,
+        0.422,
+        0.347,
+        0.267,
+        0.182,
+        0.092,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.2,
+      "duration": 5.5,
+      "score": 13.461,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "More Love",
+      "instanceSlug": 525,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1980-05",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        6.4,
+        4.3,
+        3.7,
+        3.8,
+        4.25
+      ],
+      "scores": [
+        0.097,
+        0.381,
+        0.513,
+        0.563,
+        0.554,
+        0.517,
+        0.512,
+        0.502,
+        0.487,
+        0.467,
+        0.442,
+        0.412,
+        0.377,
+        0.337,
+        0.292,
+        0.242,
+        0.187,
+        0.127,
+        0.062,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5,
+      "score": 7.070999999999999,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Don't Fall in Love with a Dreamer",
+      "instanceSlug": 2576,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 20.532,
+  "songCount": 3,
+  "songAdjustedAverage": 11.854155727001396,
+  "rank": 135
+}

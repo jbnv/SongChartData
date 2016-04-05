@@ -1,1 +1,43 @@
-{"title":"JJ Fad","instanceSlug":"jj-fad","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Supersonic","instanceSlug":2383,"tags":[],"parents":[],"genre":"rap","debut":"1988-06","playlists":[],"ranks":[],"genres":["rap"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1108}
+{
+  "title": "JJ Fad",
+  "instanceSlug": "jj-fad",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Supersonic",
+      "instanceSlug": 2383,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rap",
+      "debut": "1988-06",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rap"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1008
+}

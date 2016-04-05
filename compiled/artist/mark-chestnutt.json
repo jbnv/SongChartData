@@ -1,1 +1,55 @@
-{"title":"Mark Chestnutt","instanceSlug":"mark-chestnutt","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Bubba Shot the Jukebox","instanceSlug":1183,"tags":["shoot"],"parents":[],"genre":"country","debut":1992,"playlists":[],"ranks":[],"genres":["country"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1164}
+{
+  "title": "Mark Chestnutt",
+  "instanceSlug": "mark-chestnutt",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Bubba Shot the Jukebox",
+      "instanceSlug": 1183,
+      "tags": [
+        "shoot"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1156
+}

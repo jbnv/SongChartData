@@ -1,1 +1,87 @@
-{"title":"Bone Thugs-N-Harmony","instanceSlug":"bone-thugs-n-harmony","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Crossroads","instanceSlug":589,"tags":["#1","#1-hot-100","#1-r&b","death"],"parents":[],"genre":"rap","debut":"1996-05","playlists":["summer"],"ranks":[15.5,11.3,6.4,4.2,4.45,5.2,5.95,7.45,9.7,12.7,16.45,20.95,26.2,32.2,38.95,46.45,54.7,63.7,73.45,83.95],"debutRank":15.5,"peakRank":4.2,"duration":5,"score":10,"genres":["rap"],"role":true,"scoreFactor":1,"rank":1}],"score":10,"songAdjustedAverage":10,"rank":485}
+{
+  "title": "Bone Thugs-N-Harmony",
+  "instanceSlug": "bone-thugs-n-harmony",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Crossroads",
+      "instanceSlug": 589,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b",
+        "death"
+      ],
+      "parents": [
+      ],
+      "genre": "rap",
+      "debut": "1996-05",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        15.5,
+        11.3,
+        6.4,
+        4.2,
+        4.45,
+        5.2
+      ],
+      "scores": [
+        0.086,
+        0.191,
+        0.381,
+        0.521,
+        0.502,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.086,
+      "duration": 4.75,
+      "score": 5.710999999999998,
+      "genres": [
+        "rap"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 5.710999999999998,
+  "songCount": 1,
+  "songAdjustedAverage": 5.710999999999998,
+  "rank": 459
+}

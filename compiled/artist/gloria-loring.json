@@ -1,1 +1,89 @@
-{"title":"Gloria Loring","instanceSlug":"gloria-loring","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Friends and Lovers","instanceSlug":294,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1986-08","playlists":[],"ranks":[17,8,6.9,6.5,6.2,6.4,6.7,7.3,8,8.9,10.2,11.5,14.1,18,23.2,29.7,37.5,46.6,57,68.7],"debutRank":17,"peakRank":6.2,"duration":5,"score":11.15,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":1}],"score":11.15,"songAdjustedAverage":11.15,"rank":447}
+{
+  "title": "Gloria Loring",
+  "instanceSlug": "gloria-loring",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Friends and Lovers",
+      "instanceSlug": 294,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1986-08",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        8,
+        6.9,
+        6.5,
+        6.2,
+        6.4,
+        6.7,
+        7.3,
+        8,
+        8.9,
+        10.2
+      ],
+      "scores": [
+        0.055,
+        0.306,
+        0.356,
+        0.376,
+        0.391,
+        0.381,
+        0.365,
+        0.337,
+        0.306,
+        0.271,
+        0.225,
+        0.22,
+        0.21,
+        0.195,
+        0.175,
+        0.15,
+        0.12,
+        0.085,
+        0.045,
+        0,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 5.25,
+      "score": 4.569000000000001,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.569000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 4.569000000000001,
+  "rank": 535
+}

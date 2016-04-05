@@ -1,1 +1,79 @@
-{"title":"Avril Lavigne","instanceSlug":"avril-lavigne","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"songs":[{"title":"Complicated","instanceSlug":736,"tags":[],"parents":[],"genre":"pop","debut":2002,"playlists":[],"ranks":[13,6.5,3.2,1.6,1.1,1.5,1.9,2.7,3.9,5.5,7.5,9.9,12.7,15.9,19.5,23.5,27.9,32.7,37.9,43.5,49.5,55.9,62.7,69.9],"debutRank":13,"peakRank":1.1,"duration":6,"score":21.14,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":21.14,"songAdjustedAverage":21.14,"rank":171}
+{
+  "title": "Avril Lavigne",
+  "instanceSlug": "avril-lavigne",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "Complicated",
+      "instanceSlug": 736,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2002,
+      "playlists": [
+      ],
+      "ranks": [
+        13,
+        6.5,
+        3.2,
+        1.6,
+        1.1,
+        1.5
+      ],
+      "scores": [
+        0.145,
+        0.376,
+        0.612,
+        0.843,
+        0.968,
+        0.864,
+        0.859,
+        0.849,
+        0.834,
+        0.814,
+        0.789,
+        0.759,
+        0.724,
+        0.684,
+        0.639,
+        0.589,
+        0.534,
+        0.474,
+        0.409,
+        0.339,
+        0.264,
+        0.184,
+        0.099,
+        0.009,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.145,
+      "duration": 6.25,
+      "score": 13.66,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 13.66,
+  "songCount": 1,
+  "songAdjustedAverage": 13.66,
+  "rank": 80
+}

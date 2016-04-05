@@ -1,1 +1,513 @@
-{"title":"Justin Timberlake","instanceSlug":"justin-timberlake","tags":[{"slug":"1990s","title":"Major Artists of the 1990s"},{"slug":"2000s","title":"Major Artists of the 2000s"},{"slug":"2010s","title":"Major Artists of the 2010s"}],"parents":[],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"members":[],"xref":["nsync"],"complete":false,"active":true,"origin":{"title":"Memphis","instanceSlug":"memphis","tags":[],"parents":["tennessee"],"artists":[{"title":"Justin Timberlake","instanceSlug":"justin-timberlake","tags":["1990s","2000s","2010s"],"parents":[],"genres":["dance-pop"],"members":[],"xref":["nsync"],"complete":true,"origin":"memphis","birth":"","death":"","type":"m","songs":[{"title":"LoveStoned","instanceSlug":2260,"tags":[],"parents":[],"genre":"dance-pop","debut":2007,"playlists":[],"ranks":[15,9,6,4.4,3.6,3,3.25,3.75,4.69,5.86,7.32,9.16,11.44,14.31,17.88,22.35,27.94,34.92,43.66,54.57],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":5,"score":16.44,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":1},{"title":"SexyBack","instanceSlug":2259,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":2006,"playlists":[],"ranks":[17,11,8,5.9,5,5.7,7.13,8.91,11.13,13.92,17.4,21.74,27.18,33.97,42.47,53.09],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true},{"slug":"timbaland","title":"Timbaland","roleSlug":"feature"}],"debutRank":17,"peakRank":5,"duration":4,"score":8.51,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":2},{"title":"Cry Me a River","instanceSlug":2257,"tags":[],"parents":[],"genre":"pop","debut":2003,"playlists":[],"ranks":[],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":3},{"title":"Rock Your Body","instanceSlug":2258,"tags":[],"parents":[],"genre":"dance-pop","debut":2003,"playlists":[],"ranks":[],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":4},{"title":"Mirrors","instanceSlug":3028,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":5},{"title":"Not a Bad Thing","instanceSlug":3031,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":2013,"playlists":[],"ranks":[],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":6}],"score":24.95,"songAdjustedAverage":10.19,"rank":454}],"score":24.95,"artistAdjustedAverage":24.95},"birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"LoveStoned","instanceSlug":2260,"tags":[],"parents":[],"genre":"dance-pop","debut":2007,"playlists":[],"ranks":[15,9,6,4.4,3.6,3,3.25,3.75,4.25,5.25,6.75,8.75,11.25,14.25,17.75,21.75,26.25,31.25,36.75,42.75,49.25,56.25,63.75,71.75],"debutRank":15,"peakRank":3,"duration":6,"score":16.8,"genres":["dance-pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"SexyBack","instanceSlug":2259,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":2006,"playlists":[],"ranks":[17,11,8,5.9,5,5.7,6.4,7.8,9.9,12.7,16.2,20.4,25.3,30.9,37.2,44.2,51.9,60.3,69.4,79.2],"debutRank":17,"peakRank":5,"duration":5,"score":9.04,"genres":["dance-pop"],"role":true,"scoreFactor":1,"rank":2},{"title":"Cry Me a River","instanceSlug":2257,"tags":[],"parents":[],"genre":"pop","debut":2003,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"Rock Your Body","instanceSlug":2258,"tags":[],"parents":[],"genre":"dance-pop","debut":2003,"playlists":[],"ranks":[],"genres":["dance-pop"],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Mirrors","instanceSlug":3028,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":5},{"title":"Not a Bad Thing","instanceSlug":3031,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":2013,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":6}],"score":25.84,"songAdjustedAverage":10.55,"rank":466}
+{
+  "title": "Justin Timberlake",
+  "instanceSlug": "justin-timberlake",
+  "tags": [
+    {
+      "slug": "1990s",
+      "title": "Major Artists of the 1990s"
+    },
+    {
+      "slug": "2000s",
+      "title": "Major Artists of the 2000s"
+    },
+    {
+      "slug": "2010s",
+      "title": "Major Artists of the 2010s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+    "nsync"
+  ],
+  "complete": false,
+  "active": true,
+  "origin": {
+    "title": "Memphis",
+    "instanceSlug": "memphis",
+    "tags": [
+    ],
+    "parents": [
+      "tennessee"
+    ],
+    "artists": [
+      {
+        "title": "Justin Timberlake",
+        "instanceSlug": "justin-timberlake",
+        "tags": [
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "dance-pop"
+        ],
+        "members": [
+        ],
+        "xref": [
+          "nsync"
+        ],
+        "complete": true,
+        "origin": "memphis",
+        "birth": "",
+        "death": "",
+        "type": "m",
+        "songs": [
+          {
+            "title": "LoveStoned",
+            "instanceSlug": 2260,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": 2007,
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              9,
+              6,
+              4.4,
+              3.6,
+              3,
+              3.25,
+              3.75,
+              4.69,
+              5.86,
+              7.32,
+              9.16,
+              11.44,
+              14.31,
+              17.88,
+              22.35,
+              27.94,
+              34.92,
+              43.66,
+              54.57
+            ],
+            "artists": [
+              {
+                "slug": "justin-timberlake",
+                "title": "Justin Timberlake",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 3,
+            "duration": 5,
+            "score": 16.44,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "SexyBack",
+            "instanceSlug": 2259,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": 2006,
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              11,
+              8,
+              5.9,
+              5,
+              5.7,
+              7.13,
+              8.91,
+              11.13,
+              13.92,
+              17.4,
+              21.74,
+              27.18,
+              33.97,
+              42.47,
+              53.09
+            ],
+            "artists": [
+              {
+                "slug": "justin-timberlake",
+                "title": "Justin Timberlake",
+                "roleSlug": true
+              },
+              {
+                "slug": "timbaland",
+                "title": "Timbaland",
+                "roleSlug": "feature"
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 5,
+            "duration": 4,
+            "score": 8.51,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Cry Me a River",
+            "instanceSlug": 2257,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 2003,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "justin-timberlake",
+                "title": "Justin Timberlake",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Rock Your Body",
+            "instanceSlug": 2258,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": 2003,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "justin-timberlake",
+                "title": "Justin Timberlake",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Mirrors",
+            "instanceSlug": 3028,
+            "tags": [
+              "#1",
+              "#1-rdwt40-hot-adult"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "2010s",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "justin-timberlake",
+                "title": "Justin Timberlake",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Not a Bad Thing",
+            "instanceSlug": 3031,
+            "tags": [
+              "#1",
+              "#1-rdwt40-hot-adult"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 2013,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "justin-timberlake",
+                "title": "Justin Timberlake",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 6
+          }
+        ],
+        "score": 24.95,
+        "songAdjustedAverage": 10.19,
+        "rank": 454
+      }
+    ],
+    "score": 24.95,
+    "artistAdjustedAverage": 24.95
+  },
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "LoveStoned",
+      "instanceSlug": 2260,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2007,
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        9,
+        6,
+        4.4,
+        3.6,
+        3,
+        3.25,
+        3.75
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.506,
+        0.573,
+        0.633,
+        0.607,
+        0.559,
+        0.554,
+        0.544,
+        0.529,
+        0.509,
+        0.484,
+        0.454,
+        0.419,
+        0.379,
+        0.334,
+        0.284,
+        0.229,
+        0.169,
+        0.104,
+        0.034,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.75,
+      "score": 8.67,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "SexyBack",
+      "instanceSlug": 2259,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2006,
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        11,
+        8,
+        5.9,
+        5,
+        5.7
+      ],
+      "scores": [
+        0.055,
+        0.2,
+        0.306,
+        0.408,
+        0.463,
+        0.419,
+        0.414,
+        0.404,
+        0.389,
+        0.369,
+        0.344,
+        0.314,
+        0.279,
+        0.239,
+        0.194,
+        0.144,
+        0.089,
+        0.029,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4.75,
+      "score": 5.058999999999999,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Cry Me a River",
+      "instanceSlug": 2257,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2003,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Rock Your Body",
+      "instanceSlug": 2258,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2003,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Mirrors",
+      "instanceSlug": 3028,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2010s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "Not a Bad Thing",
+      "instanceSlug": 3031,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2013,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    }
+  ],
+  "score": 13.729,
+  "songCount": 6,
+  "songAdjustedAverage": 5.6048407797783755,
+  "rank": 465
+}

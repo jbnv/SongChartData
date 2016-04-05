@@ -1,1 +1,4815 @@
-{"title":"Janet Jackson","instanceSlug":"janet-jackson","tags":[{"slug":"1980s","title":"Major Artists of the 1980s"},{"slug":"1990s","title":"Major Artists of the 1990s"},{"slug":"2000s","title":"Major Artists of the 2000s"}],"parents":[],"genres":[{"slug":"pop","title":"Pop"}],"members":[],"complete":true,"origin":{"title":"Gary, Ind.","instanceSlug":"gary-ind","tags":[],"parents":["indiana"],"artists":[{"title":"Michael Jackson","instanceSlug":"michael-jackson","tags":["1970s","1980s","1990s"],"parents":[],"genres":["pop","soul","urban","dance","dance-pop"],"searchTerms":["michael","jackson","michael jackson","jacksons","thriller","bad"],"members":[],"xref":["jacksons"],"complete":true,"origin":"gary-ind","birth":"1958","death":"2009","type":"m","songs":[{"title":"Remember the Time","instanceSlug":363,"tags":["#1","#1-r&b"],"source":"dangerous","genre":"new-jack-swing","debut":"1992-02","playlists":[],"ranks":[8,1,1.02,1.05,1.08,1.12,1.17,1.23,1.3,1.4,1.53,1.67,1.9,2.2,2.75,3.44,4.3,5.37,6.71,8.39,10.49,13.11,16.39,20.49,25.61,32.01,40.02,50.02],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":8,"peakRank":1,"duration":7,"score":46.19,"genres":[{"slug":"new-jack-swing","title":"New Jack Swing"}],"rank":1},{"title":"Centipede","instanceSlug":2359,"tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"funk","title":"Funk"},{"slug":"dance","title":"Dance"}],"debut":"1984-12","playlists":[],"ranks":[12,2.2,1,1.09,1.36,1.7,2.13,2.66,3.33,4.16,5.2,6.5,8.12,10.15,12.69,15.86,19.83,24.78,30.98,38.72,48.41,60.51,75.63,94.54],"artists":[{"slug":"rebbie-jackson","title":"Rebbie Jackson","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"writer"}],"debutRank":12,"peakRank":1,"duration":6,"score":26.22,"rank":2},{"title":"The Girl Is Mine","instanceSlug":1234,"tags":["#1","#1-adult-contemporary","#1-r&b"],"source":"thriller","genre":"soul","debut":"1982-11","playlists":[],"ranks":[12.5,4.5,2.8,2.32,2.1,2.15,2.25,2.36,2.5,3,3.75,4.69,5.86,7.32,9.16,11.44,14.31,17.88,22.35,27.94,34.92,43.66,54.57,68.21],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":true}],"debutRank":12.5,"peakRank":2.1,"duration":6,"score":26.08,"genres":[{"slug":"soul","title":"Soul"}],"rank":3},{"title":"Black or White","instanceSlug":53,"tags":["#1","#1-hot-100","this-or-that"],"source":"dangerous","genre":"dance-pop","debut":"1991-12","ranks":[15,8,4,3.2,2.2,2,2.15,2.35,2.58,2.92,3.28,4.1,5.13,6.41,8.01,10.01,12.51,15.64,19.55,24.44,30.55,38.18,47.73,59.66],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":6,"score":25.82,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"rank":4},{"title":"You Rock My World","instanceSlug":1215,"tags":["my","rock","world","you"],"parents":[],"genre":"soul","debut":"2001-09","playlists":[],"ranks":[16,10,4.5,3,2.2,2.1,2,2.3,2.6,2.9,3.4,4.25,5.31,6.64,8.3,10.38,12.97,16.21,20.27,25.33,31.66,39.58,49.48,61.85],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":16,"peakRank":2,"duration":6,"score":25.21,"genres":[{"slug":"soul","title":"Soul"}],"rank":5},{"title":"Off the Wall","instanceSlug":11,"tags":["halloween","off","wall"],"source":"off-the-wall","genre":"pop","debut":"1980-03","ranks":[12,6,3,1.5,1,1.3,1.7,2.22,2.91,3.8,4.97,6.5,8.5,11.12,14.54,19.01,24.86,32.51,42.51,55.59],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":1,"duration":5,"score":24.58,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":6},{"title":"Smooth Criminal","instanceSlug":245,"tags":[],"source":"bad","playlists":[{"slug":"crime"}],"genre":"dance-pop","debut":"1988-11","ranks":[8,1,1.084,1.36,1.69,2.12,2.65,3.31,4.14,5.17,6.46,8.08,10.1,12.62,15.77,19.72,24.65,30.81,38.51,48.14,60.17,75.22,94.02,117.53],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":8,"peakRank":1,"duration":6,"score":24.48,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":7},{"title":"Say Say Say","instanceSlug":"say say say","tags":[],"parents":[],"genre":"pop","debut":"1983-10","ranks":[9,1,1.09,1.36,1.7,2.13,2.66,3.33,4.16,5.2,6.5,8.12,10.15,12.69,15.86,19.83,24.78,30.98,38.72,48.41,60.51,75.63,94.54,118.18],"artists":[{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":9,"peakRank":1,"duration":6,"score":24.29,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":8},{"title":"Beat It","instanceSlug":83,"tags":["#1","#1-hot-100","#1-r&b"],"source":"thriller","genre":"pop","debut":"1983-04","ranks":[13.2,4,1.08,1.19,1.49,1.86,2.32,2.91,3.63,4.54,5.67,7.09,8.87,11.08,13.85,17.32,21.65,27.06,33.82,42.28,52.85,66.06,82.57,103.22],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"eddie-van-halen","title":"Eddie Van Halen","roleSlug":"backup"}],"debutRank":13.2,"peakRank":1.08,"duration":6,"score":24.29,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":9},{"title":"PYT","instanceSlug":63,"tags":["acronym"],"parents":[],"genre":"soul","debut":"1983-11","ranks":[11,2.1,1.1,1.29,1.61,2.02,2.52,3.15,3.94,4.92,6.15,7.69,9.61,12.01,15.02,18.77,23.46,29.33,36.66,45.83,57.29,71.61,89.51,111.89],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":11,"peakRank":1.1,"duration":6,"score":24.05,"genres":[{"slug":"soul","title":"Soul"}],"playlists":[],"rank":10},{"title":"Bad","instanceSlug":25,"tags":["#1-hot-100","#1-r&b"],"playlists":[],"genre":"soul","debut":"1987-09","ranks":[15,3.5,1,1.25,1.56,1.95,2.44,3.05,3.81,4.77,5.96,7.45,9.31,11.64,14.55,18.19,22.74,28.42,35.53,44.41,55.51,69.39,86.74,108.42],"source":"bad","artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":15,"peakRank":1,"duration":6,"score":23.74,"genres":[{"slug":"soul","title":"Soul"}],"rank":11},{"title":"Leave Me Alone","instanceSlug":508,"tags":[],"source":"bad","genre":"pop","debut":"1989-02","playlists":[],"ranks":[9,2.6,1.4,1.5,1.7,2.1,2.63,3.28,4.1,5.13,6.41,8.01,10.01,12.52,15.65,19.56,24.45,30.56,38.2,47.75,59.69,74.61,93.26,116.57],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":9,"peakRank":1.4,"duration":6,"score":23.14,"genres":[{"slug":"pop","title":"Pop"}],"rank":12},{"title":"Rock With You","instanceSlug":1214,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"source":"off-the-wall","genre":"soul","debut":"1979-12","playlists":[],"ranks":[16,10,5,3.5,2.5,2.6,2.8,3,3.2,3.5,3.9,4.88,6.09,7.62,9.52,11.9,14.88,18.6,23.25,29.06,36.32,45.4,56.75,70.94],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":6,"score":22.51,"genres":[{"slug":"soul","title":"Soul"}],"rank":13},{"title":"Somebody's Watching Me","instanceSlug":2583,"tags":[],"parents":[],"genre":"pop","debut":"1984-02","playlists":[{"slug":"halloween","title":"Halloween"},{"slug":"stalking"},{"slug":"paranoia"}],"ranks":[14,8,5,3.5,2,2.15,2.42,3.03,3.78,4.73,5.91,7.39,9.23,11.54,14.42,18.03,22.54,28.17,35.22,44.02,55.02,68.78,85.98,107.47],"artists":[{"slug":"rockwell","title":"Rockwell","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"backup"}],"debutRank":14,"peakRank":2,"duration":6,"score":20.08,"genres":[{"slug":"pop","title":"Pop"}],"rank":14},{"title":"This Is It","instanceSlug":360,"tags":["this","this-is"],"parents":[],"genre":"pop","debut":2009,"playlists":[],"ranks":[10,2.7,1.4,1.1,1.52,2.1,2.9,4.01,5.54,7.66,10.58,14.62,20.2,27.92,38.58,53.31],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":10,"peakRank":1.1,"duration":4,"score":19.87,"genres":[{"slug":"pop","title":"Pop"}],"rank":15},{"title":"Another Part of Me","instanceSlug":547,"tags":[],"source":"bad","genre":"dance-pop","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,3,1.1,1.44,1.89,2.47,3.23,4.23,5.54,7.25,9.49,12.42,16.26,21.28,27.86,36.48,47.75,62.51,81.83,107.12],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":1.1,"duration":5,"score":19.55,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":16},{"title":"The Way You Make Me Feel","instanceSlug":1464,"tags":["#1-hot-100","#1-r&b"],"source":"bad","genre":"pop","debut":"1987-12","playlists":[],"ranks":[13,3.5,1.9,2.05,2.25,2.68,3.35,4.19,5.23,6.54,8.18,10.22,12.78,15.97,19.97,24.96,31.2,39,48.75,60.94],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":13,"peakRank":1.9,"duration":5,"score":19.11,"genres":[{"slug":"pop","title":"Pop"}],"rank":17},{"title":"Don't Stop 'Til You Get Enough","instanceSlug":1230,"tags":[],"source":"off-the-wall","genre":"dance","debut":"1979-09","playlists":[],"ranks":[16,7,3.9,3.2,2.9,3.15,3.43,3.74,4.15,5.19,6.48,8.11,10.13,12.66,15.83,19.79,24.74,30.92,38.65,48.31,60.39,75.49,94.36,117.95],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":16,"peakRank":2.9,"duration":6,"score":18.36,"genres":[{"slug":"dance","title":"Dance"}],"rank":18},{"title":"I Just Can't Stop Loving You","instanceSlug":244,"tags":["#1","#1-adult-contemporary","#1-hot-100","#1-r&b","can't-stop"],"source":"bad","genre":"pop-ballad","debut":"1987-08","ranks":[13.9,7.3,3.6,1.9,2.3,2.88,3.59,4.49,5.62,7.02,8.77,10.97,13.71,17.14,21.42,26.78,33.47,41.84,52.3,65.37],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"siedah-garrett","title":"Siedah Garrett","roleSlug":"backup"}],"debutRank":13.9,"peakRank":1.9,"duration":5,"score":17.09,"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"playlists":[],"rank":19},{"title":"Thriller","instanceSlug":12,"tags":["album-title"],"source":"thriller","playlists":[{"slug":"halloween","title":"Halloween"}],"genre":"dance","debut":"1984-02","ranks":[12,6.6,3.7,2,2.48,3.1,3.88,4.84,6.05,7.57,9.46,11.83,14.78,18.48,23.1,28.87,36.09,45.11,56.39,70.49],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":5,"score":16.5,"genres":[{"slug":"dance","title":"Dance"}],"rank":20},{"title":"You Are Not Alone","instanceSlug":349,"tags":["alone","not","you-are"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[17,11,7.5,4.2,3.25,3.45,3.66,3.91,4.4,5.5,6.88,8.59,10.74,13.43,16.78,20.98,26.23,32.78,40.98,51.22],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":17,"peakRank":3.25,"duration":5,"score":16.18,"genres":[{"slug":"pop","title":"Pop"}],"rank":21},{"title":"Human Nature","instanceSlug":610,"tags":[],"source":"thriller","genre":"soul","debut":"1983-08","playlists":[],"ranks":[13.5,7.6,4.2,2.5,3,3.75,4.69,5.86,7.32,9.16,11.44,14.31,17.88,22.35,27.94,34.92,43.66,54.57,68.21,85.27],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":13.5,"peakRank":2.5,"duration":5,"score":14.1,"genres":[{"slug":"soul","title":"Soul"}],"rank":22},{"title":"Billie Jean","instanceSlug":372,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"source":"thriller","genre":"dance-pop","debut":"1983-02","playlists":[{"slug":"women"}],"ranks":[19.5,12.5,9,6.4,5.5,6.2,7.75,9.69,12.11,15.14,18.92,23.65,29.56,36.95,46.19,57.74],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":19.5,"peakRank":5.5,"duration":4,"score":7.45,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":23},{"title":"Jam","instanceSlug":256,"tags":[],"source":"dangerous","genre":"pop","debut":"1992-08","ranks":[19.9,11.4,6.5,4.9,5.8,7.25,9.06,11.33,14.16,17.7,22.13,27.66,34.57,43.21,54.02,67.52],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"heavy-d","title":"Heavy D","roleSlug":"backup"}],"debutRank":19.9,"peakRank":4.9,"duration":4,"score":7.22,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":24},{"title":"Baby Be Mine","instanceSlug":773,"tags":[],"genre":"pop","debut":1983,"source":"thriller","playlists":[],"ranks":[13.9,7.9,4.5,3.4,6.1,10.94,19.64,35.23,63.2,113.39,203.44,364.99],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":13.9,"peakRank":3.4,"duration":3,"score":6.4,"genres":[{"slug":"pop","title":"Pop"}],"rank":25},{"title":"Dirty Diana","instanceSlug":127,"tags":["dirt"],"source":"bad","playlists":[{"slug":"women"}],"genre":"rock","debut":"1988-06","ranks":[25,16,14,12,15.2,19.25,24.39,30.89,39.13,49.56,62.78,79.52],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":25,"peakRank":12,"duration":3,"score":1.42,"genres":[{"slug":"rock","title":"Rock"}],"rank":26},{"title":"Who Is It","instanceSlug":1134,"tags":[],"source":"dangerous","genre":"pop","debut":"1993-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":27},{"title":"Blood on the Dance Floor","instanceSlug":1231,"tags":["blood","dance","floor","this-on-that"],"parents":[],"genre":"pop","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":28},{"title":"Got To Be There","instanceSlug":1232,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":29},{"title":"Liberian Girl","instanceSlug":"libgirl","tags":[],"genre":"pop","debut":1983,"source":"thriller","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":30},{"title":"She's Out Of My Life","instanceSlug":1220,"tags":[],"source":"off-the-wall","genre":"soul","debut":"1980-05","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":31},{"title":"Scream","instanceSlug":1221,"tags":[],"parents":[],"genre":"pop","debut":"1995-07","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":32},{"title":"Man in the Mirror","instanceSlug":364,"tags":[],"source":"bad","genre":"soul","debut":"1988-02","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"siedah-garrett","title":"Siedah Garrett","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":33},{"title":"Streetwalker","instanceSlug":1566,"tags":[],"source":"bad","genre":"pop","debut":1988,"playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":34},{"title":"Fly Away","instanceSlug":1567,"tags":["away","fly"],"parents":[],"genre":"pop","debut":1988,"playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":35},{"title":"Speed Demon","instanceSlug":1568,"tags":[],"source":"bad","genre":"pop","debut":1988,"playlists":[{"slug":"driving"}],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":36},{"title":"In the Closet","instanceSlug":1089,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1992-05","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":37},{"title":"Farewell My Summer Love","instanceSlug":2358,"tags":[],"parents":[],"genre":"soul","debut":"1984-07","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":38},{"title":"Will You Be There","instanceSlug":1222,"tags":[],"parents":[],"genre":"soul","debut":"1993-08","source":"free-willy","playlists":[],"ranks":true,"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":39},{"title":"I Will Be There","instanceSlug":716,"tags":[],"parents":[],"genre":"pop","debut":"1993-09","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":40},{"title":"Ben","instanceSlug":1227,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":41},{"title":"Rockin' Robin","instanceSlug":1229,"tags":["","birds","rock"],"parents":[],"genre":"pop","debut":1972,"playlists":[{"slug":"animals"}],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":42},{"title":"Wanna Be Startin' Something","instanceSlug":2357,"tags":[],"source":"thriller","genre":"dance-pop","debut":"1983-06","playlists":[{"slug":"start"}],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":43}],"score":523.93,"songAdjustedAverage":79.9,"rank":1},{"title":"Janet Jackson","instanceSlug":"janet-jackson","tags":["1980s","1990s","2000s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"gary-ind","birth":"","death":"","type":"f","songs":[{"title":"Rhythm Nation","instanceSlug":289,"tags":["#1","#1-r&b","sample"],"parents":[],"genre":"dance","debut":"1989-12","playlists":[],"ranks":[13,3,1.09,1.11,1.22,1.34,1.47,1.69,2.11,2.64,3.3,4.13,5.16,6.45,8.06,10.07,12.59,15.74,19.67,24.59,30.74,38.43,48.03,60.04],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":13,"peakRank":1.09,"duration":6,"score":31.25,"genres":[{"slug":"dance","title":"Dance"}],"rank":1},{"title":"Control","instanceSlug":60,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1986-12","ranks":[12,3.4,1.7,1.45,1.5,1.56,1.69,1.88,2.34,2.93,3.66,4.57,5.71,7.14,8.93,11.16,13.95,17.43,21.79,27.24,34.05,42.56,53.21,66.51],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":12,"peakRank":1.45,"duration":6,"score":28.84,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":2},{"title":"Love Will Never Do (Without You)","instanceSlug":312,"tags":[],"parents":[],"genre":"pop","debut":"1990-12","playlists":[],"ranks":[11,4.8,1.67,1.5,1.55,1.8,2.2,2.75,3.44,4.3,5.37,6.71,8.39,10.49,13.11,16.39,20.49,25.61,32.01,40.02,50.02,62.53,78.16,97.7],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":11,"peakRank":1.5,"duration":6,"score":24.16,"genres":[{"slug":"pop","title":"Pop"}],"rank":3},{"title":"You Want This","instanceSlug":1284,"tags":["this","want","you"],"parents":[],"genre":"pop","debut":"1994-11","playlists":[],"ranks":[13.2,4.97,2.5,2.17,1.8,1.98,2.3,2.88,3.59,4.49,5.62,7.02,8.77,10.97,13.71,17.14,21.42,26.78,33.47,41.84,52.3,65.37,81.71,102.14],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true},{"slug":"mc-lyte","title":"MC Lyte","roleSlug":"backup"}],"debutRank":13.2,"peakRank":1.8,"duration":6,"score":22.48,"genres":[{"slug":"pop","title":"Pop"}],"rank":4},{"title":"Because of Love","instanceSlug":2350,"tags":[],"parents":[],"genre":"pop","debut":"1994-02","playlists":[],"ranks":[16,9,4,3.1,2.4,2.1,2.5,3.13,3.91,4.88,6.1,7.63,9.54,11.92,14.9,18.63,23.28,29.1,36.38,45.47,56.84,71.05,88.82,111.02],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":16,"peakRank":2.1,"duration":6,"score":19.69,"genres":[{"slug":"pop","title":"Pop"}],"rank":5},{"title":"Come Back to Me","instanceSlug":207,"tags":["songs-of-summer"],"parents":[],"genre":"pop-ballad","debut":"1990-07","ranks":[15,8.4,4.7,2.7,2.5,2.4,2.75,3.44,4.3,5.37,6.71,8.39,10.49,13.11,16.39,20.49,25.61,32.01,40.02,50.02],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":15,"peakRank":2.4,"duration":5,"score":18.69,"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"playlists":[],"rank":6},{"title":"That's the Way Love Goes","instanceSlug":394,"tags":[],"parents":[],"genre":"pop","debut":"1993-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,7,3.3,2.4,1.8,2.3,2.94,3.76,4.8,6.13,7.83,10.01,12.79,16.34,20.88,26.69,34.1,43.57,55.67,71.14],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":15,"peakRank":1.8,"duration":5,"score":18.37,"genres":[{"slug":"pop","title":"Pop"}],"rank":7},{"title":"Diamonds","instanceSlug":1011,"tags":["#1","#1-r&b"],"parents":[],"genre":"jazz","debut":"1987-05","playlists":[],"ranks":[15,5.5,2.5,2.7,2.95,3.5,4.38,5.47,6.84,8.54,10.68,13.35,16.69,20.86,26.08,32.6,40.75,50.93,63.66,79.58],"artists":[{"slug":"herb-alpert","title":"Herb Alpert","roleSlug":true},{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":"feature"},{"slug":"lisa-keith","title":"Lisa Keith","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":5,"score":15.32,"genres":[{"slug":"jazz","title":"Jazz"}],"rank":8},{"title":"Escapade","instanceSlug":1950,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[14,6,2.5,2.7,3.1,3.8,4.75,5.94,7.42,9.28,11.6,14.5,18.12,22.65,28.31,35.39,44.24,55.3,69.12,86.4],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":5,"score":14.6,"genres":[{"slug":"dance","title":"Dance"}],"rank":9},{"title":"Let's Wait Awhile","instanceSlug":95,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1987-02","ranks":[14,6,3.3,2.2,2.5,2.9,4,5.52,7.61,10.5,14.48,19.97,27.54,37.99,52.4,72.28],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":14,"peakRank":2.2,"duration":4,"score":14.46,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":10},{"title":"When I Think of You","instanceSlug":286,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[],"ranks":[16,10,6,3.3,3.12,3.6,4.41,5.51,6.89,8.61,10.77,13.46,16.82,21.03,26.29,32.86,41.07,51.34,64.17,80.22],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":16,"peakRank":3.12,"duration":5,"score":13.45,"genres":[{"slug":"pop","title":"Pop"}],"rank":11},{"title":"Any Time, Any Place","instanceSlug":2351,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1994-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17,10,7,5.5,4.5,4,4.25,4.8,6,7.5,9.38,11.72,14.65,18.31,22.89,28.61,35.76,44.7,55.88,69.85],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":17,"peakRank":4,"duration":5,"score":13.21,"genres":[{"slug":"soul","title":"Soul"}],"rank":12},{"title":"Runaway","instanceSlug":345,"tags":["run"],"parents":[],"genre":"pop","debut":"1995-10","playlists":[],"ranks":[15,11.5,6.6,5.2,4.4,3.9,5,6.41,8.22,10.54,13.51,17.32,22.2,28.46,36.49,46.79,59.98,76.9,98.59,126.4],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":15,"peakRank":3.9,"duration":5,"score":11.09,"genres":[{"slug":"pop","title":"Pop"}],"rank":13},{"title":"Miss You Much","instanceSlug":515,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1989-09","playlists":[],"ranks":[15,8.5,4.8,4.4,4.3,6,8.37,11.68,16.3,22.74,31.74,44.28,61.79,86.22,120.31,167.87],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":15,"peakRank":4.3,"duration":4,"score":8.48,"genres":[{"slug":"dance","title":"Dance"}],"rank":14},{"title":"What Have You Done For Me Lately","instanceSlug":485,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1986-04","playlists":[],"ranks":[16,6.4,4.2,5.2,6.5,8.13,10.16,12.7,15.87,19.84,24.8,30.99,38.74,48.43,60.54,75.67],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":16,"peakRank":4.2,"duration":4,"score":7.71,"genres":[{"slug":"pop","title":"Pop"}],"rank":15},{"title":"If","instanceSlug":351,"tags":[],"parents":[],"genre":"dance","debut":"1993-08","playlists":[],"ranks":[18.9,11,8.8,6.9,6.3,6.7,7.9,9.88,12.34,15.43,19.29,24.11,30.14,37.67,47.09,58.86],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":18.9,"peakRank":6.3,"duration":4,"score":7.25,"genres":[{"slug":"dance","title":"Dance"}],"rank":16},{"title":"Nasty","instanceSlug":59,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","ranks":[21,12,10,8.7,8,8.9,11.13,13.91,17.38,21.73,27.16,33.95,42.44,53.05,66.31,82.89],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":21,"peakRank":8,"duration":4,"score":4.89,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":17},{"title":"The Pleasure Principle","instanceSlug":2344,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":18},{"title":"Doesn't Really Matter","instanceSlug":2352,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"2000-07","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":19},{"title":"The Best Things in Life Are Free","instanceSlug":1078,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1992-06","source":"mo-money","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":true,"artists":[{"slug":"luther-vandross","title":"Luther Vandross","roleSlug":true},{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true},{"slug":"bell-biv-devoe","title":"Bell Biv DeVoe","roleSlug":"backup"}],"genres":[{"slug":"soul","title":"Soul"}],"rank":20},{"title":"Someone to Call My Lover","instanceSlug":1784,"tags":[],"parents":[],"genre":"dance","debut":"2001-07","playlists":[{"slug":"sample"}],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"rank":21},{"title":"All For You","instanceSlug":2354,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":"2001-04","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":22},{"title":"State of the World","instanceSlug":2346,"tags":[],"parents":[],"genre":"pop","debut":"1991-03","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":23},{"title":"Alright","instanceSlug":2345,"tags":[],"parents":[],"genre":"dance-pop","debut":"1990-04","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":24},{"title":"Scream","instanceSlug":1221,"tags":[],"parents":[],"genre":"pop","debut":"1995-07","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":25},{"title":"Again","instanceSlug":709,"tags":[],"parents":[],"genre":"pop","debut":"1993-11","source":"poetic-justice","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":26},{"title":"Together Again","instanceSlug":2353,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1998-01","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":27}],"score":273.94,"songAdjustedAverage":52.72,"rank":5},{"title":"Rebbie Jackson","instanceSlug":"rebbie-jackson","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"gary-ind","birth":"","death":"","type":"f","songs":[{"title":"Centipede","instanceSlug":2359,"tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"funk","title":"Funk"},{"slug":"dance","title":"Dance"}],"debut":"1984-12","playlists":[],"ranks":[12,2.2,1,1.09,1.36,1.7,2.13,2.66,3.33,4.16,5.2,6.5,8.12,10.15,12.69,15.86,19.83,24.78,30.98,38.72,48.41,60.51,75.63,94.54],"artists":[{"slug":"rebbie-jackson","title":"Rebbie Jackson","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"writer"}],"debutRank":12,"peakRank":1,"duration":6,"score":26.22,"rank":1}],"score":26.22,"songAdjustedAverage":26.22,"rank":71},{"title":"Jermaine Jackson","instanceSlug":"jermaine-jackson","tags":[],"parents":[],"genres":["urban"],"members":[],"complete":true,"origin":"gary-ind","birth":"","death":"","type":"m","songs":[{"title":"Dynamite","instanceSlug":438,"tags":[],"parents":[],"genre":"dance-pop","debut":"1984-08","playlists":[],"ranks":[16,9.5,6.1,4.5,3.5,3,3.28,3.74,4.68,5.84,7.3,9.13,11.41,14.27,17.83,22.29,27.87,34.83,43.54,54.42],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":5,"score":16.32,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":1},{"title":"Let's Get Serious","instanceSlug":2355,"tags":["#1","#1-r&b"],"parents":[],"genre":"dance-pop","debut":"1980-05","playlists":[],"ranks":[],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":2},{"title":"Let Me Tickle Your Fancy","instanceSlug":2356,"tags":[],"parents":[],"genre":"pop","debut":"1982-09","playlists":[],"ranks":[],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true},{"slug":"devo","title":"Devo","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":3}],"score":16.32,"songAdjustedAverage":9.42,"rank":468},{"title":"Jackson 5 / Jacksons","instanceSlug":"jacksons","tags":["1970s","1980s"],"parents":[],"genres":["soul"],"members":["michael-jackson","jermaine-jackson"],"complete":true,"origin":"gary-ind","birth":"","death":"","type":"g","songs":[],"score":0,"rank":834}],"score":840.41,"artistAdjustedAverage":375.84},"birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Rhythm Nation","instanceSlug":289,"tags":["#1","#1-r&b","sample"],"parents":[],"genre":"dance","debut":"1989-12","playlists":[],"ranks":[13,3,1.09,1.11,1.22,1.34,1.47,1.69,1.91,2.35,3.01,3.89,4.99,6.31,7.85,9.61,11.59,13.79,16.21,18.85,21.71,24.79,28.09,31.61,35.35,39.31,43.49,47.89,52.51,57.35,62.41,67.69],"debutRank":13,"peakRank":1.09,"duration":8,"score":32.21,"genres":["dance"],"role":true,"scoreFactor":1,"rank":1},{"title":"Control","instanceSlug":60,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1986-12","ranks":[12,3.4,1.7,1.45,1.5,1.56,1.69,1.88,2.34,2.8,3.72,5.1,6.94,9.24,12,15.22,18.9,23.04,27.64,32.7,38.22,44.2,50.64,57.54],"debutRank":12,"peakRank":1.45,"duration":6,"score":27.25,"genres":["pop"],"role":true,"scoreFactor":1,"rank":2},{"title":"Love Will Never Do (Without You)","instanceSlug":312,"tags":[],"parents":[],"genre":"pop","debut":"1990-12","playlists":[],"ranks":[11,4.8,1.67,1.5,1.55,1.8,2.2,2.6,3.4,4.6,6.2,8.2,10.6,13.4,16.6,20.2,24.2,28.6,33.4,38.6,44.2,50.2,56.6,63.4],"debutRank":11,"peakRank":1.5,"duration":6,"score":22.9,"genres":["pop"],"role":true,"scoreFactor":1,"rank":3},{"title":"You Want This","instanceSlug":1284,"tags":["this","want","you"],"parents":[],"genre":"pop","debut":"1994-11","playlists":[],"ranks":[13.2,4.97,2.5,2.17,1.8,1.98,2.3,2.62,3.26,4.22,5.5,7.1,9.02,11.26,13.82,16.7,19.9,23.42,27.26,31.42,35.9,40.7,45.82,51.26],"debutRank":13.2,"peakRank":1.8,"duration":6,"score":22.72,"genres":["pop"],"role":true,"scoreFactor":1,"rank":4},{"title":"Because of Love","instanceSlug":2350,"tags":[],"parents":[],"genre":"pop","debut":"1994-02","playlists":[],"ranks":[16,9,4,3.1,2.4,2.1,2.5,2.9,3.7,4.9,6.5,8.5,10.9,13.7,16.9,20.5,24.5,28.9,33.7,38.9,44.5,50.5,56.9,63.7],"debutRank":16,"peakRank":2.1,"duration":6,"score":19.17,"genres":["pop"],"role":true,"scoreFactor":1,"rank":5},{"title":"Come Back to Me","instanceSlug":207,"tags":[],"playlists":["ballad","summer"],"genre":"pop","debut":"1990-07","ranks":[15,2.7,2.4,2.5,2.75,3,3.5,4.25,5.25,6.5,8,9.75,11.75,14,16.5,19.25,22.25,25.5,29,32.75,36.75,41,45.5,50.25],"debutRank":15,"peakRank":2.4,"duration":6,"score":18.95,"genres":["pop"],"role":true,"scoreFactor":1,"rank":6},{"title":"That's the Way Love Goes","instanceSlug":394,"tags":[],"parents":[],"genre":"pop","debut":"1993-05","playlists":["summer"],"ranks":[15,7,3.3,2.4,1.8,2.3,2.8,3.8,5.3,7.3,9.8,12.8,16.3,20.3,24.8,29.8,35.3,41.3,47.8,54.8],"debutRank":15,"peakRank":1.8,"duration":5,"score":17.21,"genres":["pop"],"role":true,"scoreFactor":1,"rank":7},{"title":"Let's Wait Awhile","instanceSlug":95,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1987-02","ranks":[14,6,3.3,2.2,2.5,2.9,4,5.1,7.3,10.6,15,20.5,27.1,34.8,43.6,53.5],"debutRank":14,"peakRank":2.2,"duration":4,"score":14.53,"genres":["pop"],"role":true,"scoreFactor":1,"rank":8},{"title":"Any Time, Any Place","instanceSlug":2351,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1994-06","playlists":["summer"],"ranks":[17,10,7,5.5,4.5,4,4.25,4.8,5.35,6.45,8.1,10.3,13.05,16.35,20.2,24.6,29.55,35.05,41.1,47.7,54.85,62.55,70.8,79.6],"debutRank":17,"peakRank":4,"duration":6,"score":13.98,"genres":["soul"],"role":true,"scoreFactor":1,"rank":9},{"title":"Escapade","instanceSlug":1950,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[14,6,2.5,2.7,3.1,3.8,4.5,5.9,8,10.8,14.3,18.5,23.4,29,35.3,42.3,50,58.4,67.5,77.3],"debutRank":14,"peakRank":2.5,"duration":5,"score":13.88,"genres":["dance"],"role":true,"scoreFactor":1,"rank":10},{"title":"When I Think of You","instanceSlug":286,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[],"ranks":[16,10,6,3.3,3.12,3.6,4.41,5.22,6.84,9.27,12.51,16.56,21.42,27.09,33.57,40.86,48.96,57.87,67.59,78.12],"debutRank":16,"peakRank":3.12,"duration":5,"score":12.9,"genres":["pop"],"role":true,"scoreFactor":1,"rank":11},{"title":"The Pleasure Principle","instanceSlug":2344,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-07","playlists":["summer"],"ranks":[19,11,7,5,5.2,5.5,5.9,6.3,7.1,8.3,9.9,11.9,14.3,17.1,20.3,23.9,27.9,32.3,37.1,42.3,47.9,53.9,60.3,67.1],"debutRank":19,"peakRank":5,"duration":6,"score":11.79,"genres":["dance-pop"],"role":true,"scoreFactor":1,"rank":12},{"title":"Runaway","instanceSlug":345,"tags":["run"],"parents":[],"genre":"pop","debut":"1995-10","playlists":[],"ranks":[15,11.5,6.6,5.2,4.4,3.9,5,6.1,8.3,11.6,16,21.5,28.1,35.8,44.6,54.5],"debutRank":15,"peakRank":3.9,"duration":4,"score":10.71,"genres":["pop"],"role":true,"scoreFactor":1,"rank":13},{"title":"Miss You Much","instanceSlug":515,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1989-09","playlists":[],"ranks":[15,8.5,4.8,4.4,4.3,6,7.7,11.1,16.2,23,31.5,41.7,53.6,67.2,82.5,99.5],"debutRank":15,"peakRank":4.3,"duration":4,"score":8.62,"genres":["dance"],"role":true,"scoreFactor":1,"rank":14},{"title":"If","instanceSlug":351,"tags":[],"parents":[],"genre":"dance","debut":"1993-08","playlists":[],"ranks":[18.9,11,8.8,6.9,6.3,6.7,7.9,9.1,11.5,15.1,19.9,25.9,33.1,41.5,51.1,61.9],"debutRank":18.9,"peakRank":6.3,"duration":4,"score":7.39,"genres":["dance"],"role":true,"scoreFactor":1,"rank":15},{"title":"What Have You Done For Me Lately","instanceSlug":485,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1986-04","playlists":[],"ranks":[16,6.4,4.2,5.2,6.2,8.2,11.2,15.2,20.2,26.2,33.2,41.2,50.2,60.2,71.2,83.2],"debutRank":16,"peakRank":4.2,"duration":4,"score":7.22,"genres":["pop"],"role":true,"scoreFactor":1,"rank":16},{"title":"Nasty","instanceSlug":59,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","ranks":[21,12,10,8.7,8,8.9,9.8,11.6,14.3,17.9,22.4,27.8,34.1,41.3,49.4,58.4],"debutRank":21,"peakRank":8,"duration":4,"score":5.51,"genres":["pop"],"role":true,"scoreFactor":1,"rank":17},{"title":"Diamonds","instanceSlug":1011,"tags":["#1","#1-r&b"],"parents":[],"genre":"jazz","debut":"1987-05","playlists":[],"ranks":[15,5.5,2.5,2.7,2.95,3.5,4.05,5.15,6.8,9,11.75,15.05,18.9,23.3,28.25,33.75,39.8,46.4,53.55,61.25],"debutRank":15,"peakRank":2.5,"duration":5,"score":3.77,"genres":["jazz"],"role":"feature","scoreFactor":0.25,"rank":18},{"title":"All For You","instanceSlug":2354,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":"2001-04","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":19},{"title":"The Best Things in Life Are Free","instanceSlug":1078,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1992-06","source":"mo-money","playlists":["summer"],"ranks":true,"genres":["soul"],"role":true,"scoreFactor":1,"score":null,"rank":20},{"title":"Doesn't Really Matter","instanceSlug":2352,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"2000-07","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":21},{"title":"State of the World","instanceSlug":2346,"tags":[],"parents":[],"genre":"pop","debut":"1991-03","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":22},{"title":"Alright","instanceSlug":2345,"tags":[],"parents":[],"genre":"dance-pop","debut":"1990-04","playlists":[],"ranks":[],"genres":["dance-pop"],"role":true,"scoreFactor":1,"score":null,"rank":23},{"title":"Someone to Call My Lover","instanceSlug":1784,"tags":[],"parents":[],"genre":"dance","debut":"2001-07","playlists":["sample"],"ranks":[],"genres":["dance"],"role":true,"scoreFactor":1,"score":null,"rank":24},{"title":"Scream","instanceSlug":1221,"tags":[],"parents":[],"genre":"pop","debut":"1995-07","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":25},{"title":"Again","instanceSlug":709,"tags":[],"parents":[],"genre":"pop","debut":"1993-11","source":"poetic-justice","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":26},{"title":"Together Again","instanceSlug":2353,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1998-01","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":27}],"score":270.71,"songAdjustedAverage":52.1,"rank":5}
+{
+  "title": "Janet Jackson",
+  "instanceSlug": "janet-jackson",
+  "tags": [
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    },
+    {
+      "slug": "1990s",
+      "title": "Major Artists of the 1990s"
+    },
+    {
+      "slug": "2000s",
+      "title": "Major Artists of the 2000s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "members": [
+  ],
+  "complete": true,
+  "origin": {
+    "title": "Gary, Ind.",
+    "instanceSlug": "gary-ind",
+    "tags": [
+    ],
+    "parents": [
+      "indiana"
+    ],
+    "artists": [
+      {
+        "title": "Michael Jackson",
+        "instanceSlug": "michael-jackson",
+        "tags": [
+          "1970s",
+          "1980s",
+          "1990s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "pop",
+          "soul",
+          "urban",
+          "dance",
+          "dance-pop"
+        ],
+        "searchTerms": [
+          "michael",
+          "jackson",
+          "michael jackson",
+          "jacksons",
+          "thriller",
+          "bad"
+        ],
+        "members": [
+        ],
+        "xref": [
+          "jacksons"
+        ],
+        "complete": true,
+        "origin": "gary-ind",
+        "birth": "1958",
+        "death": "2009",
+        "type": "m",
+        "songs": [
+          {
+            "title": "Remember the Time",
+            "instanceSlug": 363,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "source": "dangerous",
+            "genre": "new-jack-swing",
+            "debut": "1992-02",
+            "playlists": [
+            ],
+            "ranks": [
+              8,
+              1,
+              1.02,
+              1.05,
+              1.08,
+              1.12,
+              1.17,
+              1.23,
+              1.3,
+              1.4,
+              1.53,
+              1.67,
+              1.9,
+              2.2,
+              2.75,
+              3.44,
+              4.3,
+              5.37,
+              6.71,
+              8.39,
+              10.49,
+              13.11,
+              16.39,
+              20.49,
+              25.61,
+              32.01,
+              40.02,
+              50.02
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 8,
+            "peakRank": 1,
+            "duration": 7,
+            "score": 46.19,
+            "genres": [
+              {
+                "slug": "new-jack-swing",
+                "title": "New Jack Swing"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Centipede",
+            "instanceSlug": 2359,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              },
+              {
+                "slug": "soul",
+                "title": "Soul"
+              },
+              {
+                "slug": "r&b"
+              },
+              {
+                "slug": "funk",
+                "title": "Funk"
+              },
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "debut": "1984-12",
+            "playlists": [
+            ],
+            "ranks": [
+              12,
+              2.2,
+              1,
+              1.09,
+              1.36,
+              1.7,
+              2.13,
+              2.66,
+              3.33,
+              4.16,
+              5.2,
+              6.5,
+              8.12,
+              10.15,
+              12.69,
+              15.86,
+              19.83,
+              24.78,
+              30.98,
+              38.72,
+              48.41,
+              60.51,
+              75.63,
+              94.54
+            ],
+            "artists": [
+              {
+                "slug": "rebbie-jackson",
+                "title": "Rebbie Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": "writer"
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 26.22,
+            "rank": 2
+          },
+          {
+            "title": "The Girl Is Mine",
+            "instanceSlug": 1234,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "#1-r&b"
+            ],
+            "source": "thriller",
+            "genre": "soul",
+            "debut": "1982-11",
+            "playlists": [
+            ],
+            "ranks": [
+              12.5,
+              4.5,
+              2.8,
+              2.32,
+              2.1,
+              2.15,
+              2.25,
+              2.36,
+              2.5,
+              3,
+              3.75,
+              4.69,
+              5.86,
+              7.32,
+              9.16,
+              11.44,
+              14.31,
+              17.88,
+              22.35,
+              27.94,
+              34.92,
+              43.66,
+              54.57,
+              68.21
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "paul-mccartney",
+                "title": "Paul McCartney",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12.5,
+            "peakRank": 2.1,
+            "duration": 6,
+            "score": 26.08,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Black or White",
+            "instanceSlug": 53,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "this-or-that"
+            ],
+            "source": "dangerous",
+            "genre": "dance-pop",
+            "debut": "1991-12",
+            "ranks": [
+              15,
+              8,
+              4,
+              3.2,
+              2.2,
+              2,
+              2.15,
+              2.35,
+              2.58,
+              2.92,
+              3.28,
+              4.1,
+              5.13,
+              6.41,
+              8.01,
+              10.01,
+              12.51,
+              15.64,
+              19.55,
+              24.44,
+              30.55,
+              38.18,
+              47.73,
+              59.66
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 2,
+            "duration": 6,
+            "score": 25.82,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 4
+          },
+          {
+            "title": "You Rock My World",
+            "instanceSlug": 1215,
+            "tags": [
+              "my",
+              "rock",
+              "world",
+              "you"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "2001-09",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              10,
+              4.5,
+              3,
+              2.2,
+              2.1,
+              2,
+              2.3,
+              2.6,
+              2.9,
+              3.4,
+              4.25,
+              5.31,
+              6.64,
+              8.3,
+              10.38,
+              12.97,
+              16.21,
+              20.27,
+              25.33,
+              31.66,
+              39.58,
+              49.48,
+              61.85
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 2,
+            "duration": 6,
+            "score": 25.21,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Off the Wall",
+            "instanceSlug": 11,
+            "tags": [
+              "halloween",
+              "off",
+              "wall"
+            ],
+            "source": "off-the-wall",
+            "genre": "pop",
+            "debut": "1980-03",
+            "ranks": [
+              12,
+              6,
+              3,
+              1.5,
+              1,
+              1.3,
+              1.7,
+              2.22,
+              2.91,
+              3.8,
+              4.97,
+              6.5,
+              8.5,
+              11.12,
+              14.54,
+              19.01,
+              24.86,
+              32.51,
+              42.51,
+              55.59
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1,
+            "duration": 5,
+            "score": 24.58,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Smooth Criminal",
+            "instanceSlug": 245,
+            "tags": [
+            ],
+            "source": "bad",
+            "playlists": [
+              {
+                "slug": "crime"
+              }
+            ],
+            "genre": "dance-pop",
+            "debut": "1988-11",
+            "ranks": [
+              8,
+              1,
+              1.084,
+              1.36,
+              1.69,
+              2.12,
+              2.65,
+              3.31,
+              4.14,
+              5.17,
+              6.46,
+              8.08,
+              10.1,
+              12.62,
+              15.77,
+              19.72,
+              24.65,
+              30.81,
+              38.51,
+              48.14,
+              60.17,
+              75.22,
+              94.02,
+              117.53
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 8,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 24.48,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Say Say Say",
+            "instanceSlug": "say say say",
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1983-10",
+            "ranks": [
+              9,
+              1,
+              1.09,
+              1.36,
+              1.7,
+              2.13,
+              2.66,
+              3.33,
+              4.16,
+              5.2,
+              6.5,
+              8.12,
+              10.15,
+              12.69,
+              15.86,
+              19.83,
+              24.78,
+              30.98,
+              38.72,
+              48.41,
+              60.51,
+              75.63,
+              94.54,
+              118.18
+            ],
+            "artists": [
+              {
+                "slug": "paul-mccartney",
+                "title": "Paul McCartney",
+                "roleSlug": true
+              },
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 9,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 24.29,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Beat It",
+            "instanceSlug": 83,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "source": "thriller",
+            "genre": "pop",
+            "debut": "1983-04",
+            "ranks": [
+              13.2,
+              4,
+              1.08,
+              1.19,
+              1.49,
+              1.86,
+              2.32,
+              2.91,
+              3.63,
+              4.54,
+              5.67,
+              7.09,
+              8.87,
+              11.08,
+              13.85,
+              17.32,
+              21.65,
+              27.06,
+              33.82,
+              42.28,
+              52.85,
+              66.06,
+              82.57,
+              103.22
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "eddie-van-halen",
+                "title": "Eddie Van Halen",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 13.2,
+            "peakRank": 1.08,
+            "duration": 6,
+            "score": 24.29,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 9
+          },
+          {
+            "title": "PYT",
+            "instanceSlug": 63,
+            "tags": [
+              "acronym"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1983-11",
+            "ranks": [
+              11,
+              2.1,
+              1.1,
+              1.29,
+              1.61,
+              2.02,
+              2.52,
+              3.15,
+              3.94,
+              4.92,
+              6.15,
+              7.69,
+              9.61,
+              12.01,
+              15.02,
+              18.77,
+              23.46,
+              29.33,
+              36.66,
+              45.83,
+              57.29,
+              71.61,
+              89.51,
+              111.89
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 11,
+            "peakRank": 1.1,
+            "duration": 6,
+            "score": 24.05,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Bad",
+            "instanceSlug": 25,
+            "tags": [
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "playlists": [
+            ],
+            "genre": "soul",
+            "debut": "1987-09",
+            "ranks": [
+              15,
+              3.5,
+              1,
+              1.25,
+              1.56,
+              1.95,
+              2.44,
+              3.05,
+              3.81,
+              4.77,
+              5.96,
+              7.45,
+              9.31,
+              11.64,
+              14.55,
+              18.19,
+              22.74,
+              28.42,
+              35.53,
+              44.41,
+              55.51,
+              69.39,
+              86.74,
+              108.42
+            ],
+            "source": "bad",
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 23.74,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Leave Me Alone",
+            "instanceSlug": 508,
+            "tags": [
+            ],
+            "source": "bad",
+            "genre": "pop",
+            "debut": "1989-02",
+            "playlists": [
+            ],
+            "ranks": [
+              9,
+              2.6,
+              1.4,
+              1.5,
+              1.7,
+              2.1,
+              2.63,
+              3.28,
+              4.1,
+              5.13,
+              6.41,
+              8.01,
+              10.01,
+              12.52,
+              15.65,
+              19.56,
+              24.45,
+              30.56,
+              38.2,
+              47.75,
+              59.69,
+              74.61,
+              93.26,
+              116.57
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 9,
+            "peakRank": 1.4,
+            "duration": 6,
+            "score": 23.14,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "Rock With You",
+            "instanceSlug": 1214,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "#1-hot-100"
+            ],
+            "source": "off-the-wall",
+            "genre": "soul",
+            "debut": "1979-12",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              10,
+              5,
+              3.5,
+              2.5,
+              2.6,
+              2.8,
+              3,
+              3.2,
+              3.5,
+              3.9,
+              4.88,
+              6.09,
+              7.62,
+              9.52,
+              11.9,
+              14.88,
+              18.6,
+              23.25,
+              29.06,
+              36.32,
+              45.4,
+              56.75,
+              70.94
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 2.5,
+            "duration": 6,
+            "score": 22.51,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 13
+          },
+          {
+            "title": "Somebody's Watching Me",
+            "instanceSlug": 2583,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1984-02",
+            "playlists": [
+              {
+                "slug": "halloween",
+                "title": "Halloween"
+              },
+              {
+                "slug": "stalking"
+              },
+              {
+                "slug": "paranoia"
+              }
+            ],
+            "ranks": [
+              14,
+              8,
+              5,
+              3.5,
+              2,
+              2.15,
+              2.42,
+              3.03,
+              3.78,
+              4.73,
+              5.91,
+              7.39,
+              9.23,
+              11.54,
+              14.42,
+              18.03,
+              22.54,
+              28.17,
+              35.22,
+              44.02,
+              55.02,
+              68.78,
+              85.98,
+              107.47
+            ],
+            "artists": [
+              {
+                "slug": "rockwell",
+                "title": "Rockwell",
+                "roleSlug": true
+              },
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 2,
+            "duration": 6,
+            "score": 20.08,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 14
+          },
+          {
+            "title": "This Is It",
+            "instanceSlug": 360,
+            "tags": [
+              "this",
+              "this-is"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 2009,
+            "playlists": [
+            ],
+            "ranks": [
+              10,
+              2.7,
+              1.4,
+              1.1,
+              1.52,
+              2.1,
+              2.9,
+              4.01,
+              5.54,
+              7.66,
+              10.58,
+              14.62,
+              20.2,
+              27.92,
+              38.58,
+              53.31
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 10,
+            "peakRank": 1.1,
+            "duration": 4,
+            "score": 19.87,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 15
+          },
+          {
+            "title": "Another Part of Me",
+            "instanceSlug": 547,
+            "tags": [
+            ],
+            "source": "bad",
+            "genre": "dance-pop",
+            "debut": "1988-08",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              12,
+              3,
+              1.1,
+              1.44,
+              1.89,
+              2.47,
+              3.23,
+              4.23,
+              5.54,
+              7.25,
+              9.49,
+              12.42,
+              16.26,
+              21.28,
+              27.86,
+              36.48,
+              47.75,
+              62.51,
+              81.83,
+              107.12
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1.1,
+            "duration": 5,
+            "score": 19.55,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 16
+          },
+          {
+            "title": "The Way You Make Me Feel",
+            "instanceSlug": 1464,
+            "tags": [
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "source": "bad",
+            "genre": "pop",
+            "debut": "1987-12",
+            "playlists": [
+            ],
+            "ranks": [
+              13,
+              3.5,
+              1.9,
+              2.05,
+              2.25,
+              2.68,
+              3.35,
+              4.19,
+              5.23,
+              6.54,
+              8.18,
+              10.22,
+              12.78,
+              15.97,
+              19.97,
+              24.96,
+              31.2,
+              39,
+              48.75,
+              60.94
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 1.9,
+            "duration": 5,
+            "score": 19.11,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 17
+          },
+          {
+            "title": "Don't Stop 'Til You Get Enough",
+            "instanceSlug": 1230,
+            "tags": [
+            ],
+            "source": "off-the-wall",
+            "genre": "dance",
+            "debut": "1979-09",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              7,
+              3.9,
+              3.2,
+              2.9,
+              3.15,
+              3.43,
+              3.74,
+              4.15,
+              5.19,
+              6.48,
+              8.11,
+              10.13,
+              12.66,
+              15.83,
+              19.79,
+              24.74,
+              30.92,
+              38.65,
+              48.31,
+              60.39,
+              75.49,
+              94.36,
+              117.95
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 2.9,
+            "duration": 6,
+            "score": 18.36,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 18
+          },
+          {
+            "title": "I Just Can't Stop Loving You",
+            "instanceSlug": 244,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "#1-hot-100",
+              "#1-r&b",
+              "can't-stop"
+            ],
+            "source": "bad",
+            "genre": "pop-ballad",
+            "debut": "1987-08",
+            "ranks": [
+              13.9,
+              7.3,
+              3.6,
+              1.9,
+              2.3,
+              2.88,
+              3.59,
+              4.49,
+              5.62,
+              7.02,
+              8.77,
+              10.97,
+              13.71,
+              17.14,
+              21.42,
+              26.78,
+              33.47,
+              41.84,
+              52.3,
+              65.37
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "siedah-garrett",
+                "title": "Siedah Garrett",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 13.9,
+            "peakRank": 1.9,
+            "duration": 5,
+            "score": 17.09,
+            "genres": [
+              {
+                "slug": "pop-ballad",
+                "title": "Pop Ballad"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 19
+          },
+          {
+            "title": "Thriller",
+            "instanceSlug": 12,
+            "tags": [
+              "album-title"
+            ],
+            "source": "thriller",
+            "playlists": [
+              {
+                "slug": "halloween",
+                "title": "Halloween"
+              }
+            ],
+            "genre": "dance",
+            "debut": "1984-02",
+            "ranks": [
+              12,
+              6.6,
+              3.7,
+              2,
+              2.48,
+              3.1,
+              3.88,
+              4.84,
+              6.05,
+              7.57,
+              9.46,
+              11.83,
+              14.78,
+              18.48,
+              23.1,
+              28.87,
+              36.09,
+              45.11,
+              56.39,
+              70.49
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 2,
+            "duration": 5,
+            "score": 16.5,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 20
+          },
+          {
+            "title": "You Are Not Alone",
+            "instanceSlug": 349,
+            "tags": [
+              "alone",
+              "not",
+              "you-are"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1995-09",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              11,
+              7.5,
+              4.2,
+              3.25,
+              3.45,
+              3.66,
+              3.91,
+              4.4,
+              5.5,
+              6.88,
+              8.59,
+              10.74,
+              13.43,
+              16.78,
+              20.98,
+              26.23,
+              32.78,
+              40.98,
+              51.22
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 3.25,
+            "duration": 5,
+            "score": 16.18,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 21
+          },
+          {
+            "title": "Human Nature",
+            "instanceSlug": 610,
+            "tags": [
+            ],
+            "source": "thriller",
+            "genre": "soul",
+            "debut": "1983-08",
+            "playlists": [
+            ],
+            "ranks": [
+              13.5,
+              7.6,
+              4.2,
+              2.5,
+              3,
+              3.75,
+              4.69,
+              5.86,
+              7.32,
+              9.16,
+              11.44,
+              14.31,
+              17.88,
+              22.35,
+              27.94,
+              34.92,
+              43.66,
+              54.57,
+              68.21,
+              85.27
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13.5,
+            "peakRank": 2.5,
+            "duration": 5,
+            "score": 14.1,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 22
+          },
+          {
+            "title": "Billie Jean",
+            "instanceSlug": 372,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "#1-hot-100"
+            ],
+            "source": "thriller",
+            "genre": "dance-pop",
+            "debut": "1983-02",
+            "playlists": [
+              {
+                "slug": "women"
+              }
+            ],
+            "ranks": [
+              19.5,
+              12.5,
+              9,
+              6.4,
+              5.5,
+              6.2,
+              7.75,
+              9.69,
+              12.11,
+              15.14,
+              18.92,
+              23.65,
+              29.56,
+              36.95,
+              46.19,
+              57.74
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 19.5,
+            "peakRank": 5.5,
+            "duration": 4,
+            "score": 7.45,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 23
+          },
+          {
+            "title": "Jam",
+            "instanceSlug": 256,
+            "tags": [
+            ],
+            "source": "dangerous",
+            "genre": "pop",
+            "debut": "1992-08",
+            "ranks": [
+              19.9,
+              11.4,
+              6.5,
+              4.9,
+              5.8,
+              7.25,
+              9.06,
+              11.33,
+              14.16,
+              17.7,
+              22.13,
+              27.66,
+              34.57,
+              43.21,
+              54.02,
+              67.52
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "heavy-d",
+                "title": "Heavy D",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 19.9,
+            "peakRank": 4.9,
+            "duration": 4,
+            "score": 7.22,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 24
+          },
+          {
+            "title": "Baby Be Mine",
+            "instanceSlug": 773,
+            "tags": [
+            ],
+            "genre": "pop",
+            "debut": 1983,
+            "source": "thriller",
+            "playlists": [
+            ],
+            "ranks": [
+              13.9,
+              7.9,
+              4.5,
+              3.4,
+              6.1,
+              10.94,
+              19.64,
+              35.23,
+              63.2,
+              113.39,
+              203.44,
+              364.99
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13.9,
+            "peakRank": 3.4,
+            "duration": 3,
+            "score": 6.4,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 25
+          },
+          {
+            "title": "Dirty Diana",
+            "instanceSlug": 127,
+            "tags": [
+              "dirt"
+            ],
+            "source": "bad",
+            "playlists": [
+              {
+                "slug": "women"
+              }
+            ],
+            "genre": "rock",
+            "debut": "1988-06",
+            "ranks": [
+              25,
+              16,
+              14,
+              12,
+              15.2,
+              19.25,
+              24.39,
+              30.89,
+              39.13,
+              49.56,
+              62.78,
+              79.52
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 25,
+            "peakRank": 12,
+            "duration": 3,
+            "score": 1.42,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 26
+          },
+          {
+            "title": "Who Is It",
+            "instanceSlug": 1134,
+            "tags": [
+            ],
+            "source": "dangerous",
+            "genre": "pop",
+            "debut": "1993-05",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 27
+          },
+          {
+            "title": "Blood on the Dance Floor",
+            "instanceSlug": 1231,
+            "tags": [
+              "blood",
+              "dance",
+              "floor",
+              "this-on-that"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 28
+          },
+          {
+            "title": "Got To Be There",
+            "instanceSlug": 1232,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 1971,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 29
+          },
+          {
+            "title": "Liberian Girl",
+            "instanceSlug": "libgirl",
+            "tags": [
+            ],
+            "genre": "pop",
+            "debut": 1983,
+            "source": "thriller",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 30
+          },
+          {
+            "title": "She's Out Of My Life",
+            "instanceSlug": 1220,
+            "tags": [
+            ],
+            "source": "off-the-wall",
+            "genre": "soul",
+            "debut": "1980-05",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 31
+          },
+          {
+            "title": "Scream",
+            "instanceSlug": 1221,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1995-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 32
+          },
+          {
+            "title": "Man in the Mirror",
+            "instanceSlug": 364,
+            "tags": [
+            ],
+            "source": "bad",
+            "genre": "soul",
+            "debut": "1988-02",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "siedah-garrett",
+                "title": "Siedah Garrett",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 33
+          },
+          {
+            "title": "Streetwalker",
+            "instanceSlug": 1566,
+            "tags": [
+            ],
+            "source": "bad",
+            "genre": "pop",
+            "debut": 1988,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 34
+          },
+          {
+            "title": "Fly Away",
+            "instanceSlug": 1567,
+            "tags": [
+              "away",
+              "fly"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 1988,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 35
+          },
+          {
+            "title": "Speed Demon",
+            "instanceSlug": 1568,
+            "tags": [
+            ],
+            "source": "bad",
+            "genre": "pop",
+            "debut": 1988,
+            "playlists": [
+              {
+                "slug": "driving"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 36
+          },
+          {
+            "title": "In the Closet",
+            "instanceSlug": 1089,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1992-05",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 37
+          },
+          {
+            "title": "Farewell My Summer Love",
+            "instanceSlug": 2358,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1984-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 38
+          },
+          {
+            "title": "Will You Be There",
+            "instanceSlug": 1222,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1993-08",
+            "source": "free-willy",
+            "playlists": [
+            ],
+            "ranks": true,
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 39
+          },
+          {
+            "title": "I Will Be There",
+            "instanceSlug": 716,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1993-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 40
+          },
+          {
+            "title": "Ben",
+            "instanceSlug": 1227,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 1972,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 41
+          },
+          {
+            "title": "Rockin' Robin",
+            "instanceSlug": 1229,
+            "tags": [
+              "",
+              "birds",
+              "rock"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 1972,
+            "playlists": [
+              {
+                "slug": "animals"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 42
+          },
+          {
+            "title": "Wanna Be Startin' Something",
+            "instanceSlug": 2357,
+            "tags": [
+            ],
+            "source": "thriller",
+            "genre": "dance-pop",
+            "debut": "1983-06",
+            "playlists": [
+              {
+                "slug": "start"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 43
+          }
+        ],
+        "score": 523.93,
+        "songAdjustedAverage": 79.9,
+        "rank": 1
+      },
+      {
+        "title": "Janet Jackson",
+        "instanceSlug": "janet-jackson",
+        "tags": [
+          "1980s",
+          "1990s",
+          "2000s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "pop"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "gary-ind",
+        "birth": "",
+        "death": "",
+        "type": "f",
+        "songs": [
+          {
+            "title": "Rhythm Nation",
+            "instanceSlug": 289,
+            "tags": [
+              "#1",
+              "#1-r&b",
+              "sample"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1989-12",
+            "playlists": [
+            ],
+            "ranks": [
+              13,
+              3,
+              1.09,
+              1.11,
+              1.22,
+              1.34,
+              1.47,
+              1.69,
+              2.11,
+              2.64,
+              3.3,
+              4.13,
+              5.16,
+              6.45,
+              8.06,
+              10.07,
+              12.59,
+              15.74,
+              19.67,
+              24.59,
+              30.74,
+              38.43,
+              48.03,
+              60.04
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 1.09,
+            "duration": 6,
+            "score": 31.25,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Control",
+            "instanceSlug": 60,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1986-12",
+            "ranks": [
+              12,
+              3.4,
+              1.7,
+              1.45,
+              1.5,
+              1.56,
+              1.69,
+              1.88,
+              2.34,
+              2.93,
+              3.66,
+              4.57,
+              5.71,
+              7.14,
+              8.93,
+              11.16,
+              13.95,
+              17.43,
+              21.79,
+              27.24,
+              34.05,
+              42.56,
+              53.21,
+              66.51
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1.45,
+            "duration": 6,
+            "score": 28.84,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Love Will Never Do (Without You)",
+            "instanceSlug": 312,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1990-12",
+            "playlists": [
+            ],
+            "ranks": [
+              11,
+              4.8,
+              1.67,
+              1.5,
+              1.55,
+              1.8,
+              2.2,
+              2.75,
+              3.44,
+              4.3,
+              5.37,
+              6.71,
+              8.39,
+              10.49,
+              13.11,
+              16.39,
+              20.49,
+              25.61,
+              32.01,
+              40.02,
+              50.02,
+              62.53,
+              78.16,
+              97.7
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 11,
+            "peakRank": 1.5,
+            "duration": 6,
+            "score": 24.16,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "You Want This",
+            "instanceSlug": 1284,
+            "tags": [
+              "this",
+              "want",
+              "you"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1994-11",
+            "playlists": [
+            ],
+            "ranks": [
+              13.2,
+              4.97,
+              2.5,
+              2.17,
+              1.8,
+              1.98,
+              2.3,
+              2.88,
+              3.59,
+              4.49,
+              5.62,
+              7.02,
+              8.77,
+              10.97,
+              13.71,
+              17.14,
+              21.42,
+              26.78,
+              33.47,
+              41.84,
+              52.3,
+              65.37,
+              81.71,
+              102.14
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "mc-lyte",
+                "title": "MC Lyte",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 13.2,
+            "peakRank": 1.8,
+            "duration": 6,
+            "score": 22.48,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Because of Love",
+            "instanceSlug": 2350,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1994-02",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              9,
+              4,
+              3.1,
+              2.4,
+              2.1,
+              2.5,
+              3.13,
+              3.91,
+              4.88,
+              6.1,
+              7.63,
+              9.54,
+              11.92,
+              14.9,
+              18.63,
+              23.28,
+              29.1,
+              36.38,
+              45.47,
+              56.84,
+              71.05,
+              88.82,
+              111.02
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 2.1,
+            "duration": 6,
+            "score": 19.69,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Come Back to Me",
+            "instanceSlug": 207,
+            "tags": [
+              "songs-of-summer"
+            ],
+            "parents": [
+            ],
+            "genre": "pop-ballad",
+            "debut": "1990-07",
+            "ranks": [
+              15,
+              8.4,
+              4.7,
+              2.7,
+              2.5,
+              2.4,
+              2.75,
+              3.44,
+              4.3,
+              5.37,
+              6.71,
+              8.39,
+              10.49,
+              13.11,
+              16.39,
+              20.49,
+              25.61,
+              32.01,
+              40.02,
+              50.02
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 2.4,
+            "duration": 5,
+            "score": 18.69,
+            "genres": [
+              {
+                "slug": "pop-ballad",
+                "title": "Pop Ballad"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 6
+          },
+          {
+            "title": "That's the Way Love Goes",
+            "instanceSlug": 394,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1993-05",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              15,
+              7,
+              3.3,
+              2.4,
+              1.8,
+              2.3,
+              2.94,
+              3.76,
+              4.8,
+              6.13,
+              7.83,
+              10.01,
+              12.79,
+              16.34,
+              20.88,
+              26.69,
+              34.1,
+              43.57,
+              55.67,
+              71.14
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 1.8,
+            "duration": 5,
+            "score": 18.37,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Diamonds",
+            "instanceSlug": 1011,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "jazz",
+            "debut": "1987-05",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              5.5,
+              2.5,
+              2.7,
+              2.95,
+              3.5,
+              4.38,
+              5.47,
+              6.84,
+              8.54,
+              10.68,
+              13.35,
+              16.69,
+              20.86,
+              26.08,
+              32.6,
+              40.75,
+              50.93,
+              63.66,
+              79.58
+            ],
+            "artists": [
+              {
+                "slug": "herb-alpert",
+                "title": "Herb Alpert",
+                "roleSlug": true
+              },
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": "feature"
+              },
+              {
+                "slug": "lisa-keith",
+                "title": "Lisa Keith",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 2.5,
+            "duration": 5,
+            "score": 15.32,
+            "genres": [
+              {
+                "slug": "jazz",
+                "title": "Jazz"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Escapade",
+            "instanceSlug": 1950,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1990-02",
+            "playlists": [
+            ],
+            "ranks": [
+              14,
+              6,
+              2.5,
+              2.7,
+              3.1,
+              3.8,
+              4.75,
+              5.94,
+              7.42,
+              9.28,
+              11.6,
+              14.5,
+              18.12,
+              22.65,
+              28.31,
+              35.39,
+              44.24,
+              55.3,
+              69.12,
+              86.4
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 2.5,
+            "duration": 5,
+            "score": 14.6,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "Let's Wait Awhile",
+            "instanceSlug": 95,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1987-02",
+            "ranks": [
+              14,
+              6,
+              3.3,
+              2.2,
+              2.5,
+              2.9,
+              4,
+              5.52,
+              7.61,
+              10.5,
+              14.48,
+              19.97,
+              27.54,
+              37.99,
+              52.4,
+              72.28
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 2.2,
+            "duration": 4,
+            "score": 14.46,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 10
+          },
+          {
+            "title": "When I Think of You",
+            "instanceSlug": 286,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1986-09",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              10,
+              6,
+              3.3,
+              3.12,
+              3.6,
+              4.41,
+              5.51,
+              6.89,
+              8.61,
+              10.77,
+              13.46,
+              16.82,
+              21.03,
+              26.29,
+              32.86,
+              41.07,
+              51.34,
+              64.17,
+              80.22
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 3.12,
+            "duration": 5,
+            "score": 13.45,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Any Time, Any Place",
+            "instanceSlug": 2351,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1994-06",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              17,
+              10,
+              7,
+              5.5,
+              4.5,
+              4,
+              4.25,
+              4.8,
+              6,
+              7.5,
+              9.38,
+              11.72,
+              14.65,
+              18.31,
+              22.89,
+              28.61,
+              35.76,
+              44.7,
+              55.88,
+              69.85
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 4,
+            "duration": 5,
+            "score": 13.21,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "Runaway",
+            "instanceSlug": 345,
+            "tags": [
+              "run"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1995-10",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              11.5,
+              6.6,
+              5.2,
+              4.4,
+              3.9,
+              5,
+              6.41,
+              8.22,
+              10.54,
+              13.51,
+              17.32,
+              22.2,
+              28.46,
+              36.49,
+              46.79,
+              59.98,
+              76.9,
+              98.59,
+              126.4
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 3.9,
+            "duration": 5,
+            "score": 11.09,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 13
+          },
+          {
+            "title": "Miss You Much",
+            "instanceSlug": 515,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1989-09",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              8.5,
+              4.8,
+              4.4,
+              4.3,
+              6,
+              8.37,
+              11.68,
+              16.3,
+              22.74,
+              31.74,
+              44.28,
+              61.79,
+              86.22,
+              120.31,
+              167.87
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 4.3,
+            "duration": 4,
+            "score": 8.48,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 14
+          },
+          {
+            "title": "What Have You Done For Me Lately",
+            "instanceSlug": 485,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1986-04",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              6.4,
+              4.2,
+              5.2,
+              6.5,
+              8.13,
+              10.16,
+              12.7,
+              15.87,
+              19.84,
+              24.8,
+              30.99,
+              38.74,
+              48.43,
+              60.54,
+              75.67
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 4.2,
+            "duration": 4,
+            "score": 7.71,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 15
+          },
+          {
+            "title": "If",
+            "instanceSlug": 351,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1993-08",
+            "playlists": [
+            ],
+            "ranks": [
+              18.9,
+              11,
+              8.8,
+              6.9,
+              6.3,
+              6.7,
+              7.9,
+              9.88,
+              12.34,
+              15.43,
+              19.29,
+              24.11,
+              30.14,
+              37.67,
+              47.09,
+              58.86
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18.9,
+            "peakRank": 6.3,
+            "duration": 4,
+            "score": 7.25,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 16
+          },
+          {
+            "title": "Nasty",
+            "instanceSlug": 59,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1986-06",
+            "ranks": [
+              21,
+              12,
+              10,
+              8.7,
+              8,
+              8.9,
+              11.13,
+              13.91,
+              17.38,
+              21.73,
+              27.16,
+              33.95,
+              42.44,
+              53.05,
+              66.31,
+              82.89
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 21,
+            "peakRank": 8,
+            "duration": 4,
+            "score": 4.89,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 17
+          },
+          {
+            "title": "The Pleasure Principle",
+            "instanceSlug": 2344,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": "1987-07",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 18
+          },
+          {
+            "title": "Doesn't Really Matter",
+            "instanceSlug": 2352,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "2000-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 19
+          },
+          {
+            "title": "The Best Things in Life Are Free",
+            "instanceSlug": 1078,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1992-06",
+            "source": "mo-money",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": true,
+            "artists": [
+              {
+                "slug": "luther-vandross",
+                "title": "Luther Vandross",
+                "roleSlug": true
+              },
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "bell-biv-devoe",
+                "title": "Bell Biv DeVoe",
+                "roleSlug": "backup"
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 20
+          },
+          {
+            "title": "Someone to Call My Lover",
+            "instanceSlug": 1784,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "2001-07",
+            "playlists": [
+              {
+                "slug": "sample"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 21
+          },
+          {
+            "title": "All For You",
+            "instanceSlug": 2354,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "2001-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 22
+          },
+          {
+            "title": "State of the World",
+            "instanceSlug": 2346,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1991-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 23
+          },
+          {
+            "title": "Alright",
+            "instanceSlug": 2345,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": "1990-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 24
+          },
+          {
+            "title": "Scream",
+            "instanceSlug": 1221,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1995-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 25
+          },
+          {
+            "title": "Again",
+            "instanceSlug": 709,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1993-11",
+            "source": "poetic-justice",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 26
+          },
+          {
+            "title": "Together Again",
+            "instanceSlug": 2353,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1998-01",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "janet-jackson",
+                "title": "Janet Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 27
+          }
+        ],
+        "score": 273.94,
+        "songAdjustedAverage": 52.72,
+        "rank": 5
+      },
+      {
+        "title": "Rebbie Jackson",
+        "instanceSlug": "rebbie-jackson",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": false,
+        "origin": "gary-ind",
+        "birth": "",
+        "death": "",
+        "type": "f",
+        "songs": [
+          {
+            "title": "Centipede",
+            "instanceSlug": 2359,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              },
+              {
+                "slug": "soul",
+                "title": "Soul"
+              },
+              {
+                "slug": "r&b"
+              },
+              {
+                "slug": "funk",
+                "title": "Funk"
+              },
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "debut": "1984-12",
+            "playlists": [
+            ],
+            "ranks": [
+              12,
+              2.2,
+              1,
+              1.09,
+              1.36,
+              1.7,
+              2.13,
+              2.66,
+              3.33,
+              4.16,
+              5.2,
+              6.5,
+              8.12,
+              10.15,
+              12.69,
+              15.86,
+              19.83,
+              24.78,
+              30.98,
+              38.72,
+              48.41,
+              60.51,
+              75.63,
+              94.54
+            ],
+            "artists": [
+              {
+                "slug": "rebbie-jackson",
+                "title": "Rebbie Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": "writer"
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 26.22,
+            "rank": 1
+          }
+        ],
+        "score": 26.22,
+        "songAdjustedAverage": 26.22,
+        "rank": 71
+      },
+      {
+        "title": "Jermaine Jackson",
+        "instanceSlug": "jermaine-jackson",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "gary-ind",
+        "birth": "",
+        "death": "",
+        "type": "m",
+        "songs": [
+          {
+            "title": "Dynamite",
+            "instanceSlug": 438,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": "1984-08",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              9.5,
+              6.1,
+              4.5,
+              3.5,
+              3,
+              3.28,
+              3.74,
+              4.68,
+              5.84,
+              7.3,
+              9.13,
+              11.41,
+              14.27,
+              17.83,
+              22.29,
+              27.87,
+              34.83,
+              43.54,
+              54.42
+            ],
+            "artists": [
+              {
+                "slug": "jermaine-jackson",
+                "title": "Jermaine Jackson",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 3,
+            "duration": 5,
+            "score": 16.32,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Let's Get Serious",
+            "instanceSlug": 2355,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": "1980-05",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "jermaine-jackson",
+                "title": "Jermaine Jackson",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Let Me Tickle Your Fancy",
+            "instanceSlug": 2356,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1982-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "jermaine-jackson",
+                "title": "Jermaine Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "devo",
+                "title": "Devo",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          }
+        ],
+        "score": 16.32,
+        "songAdjustedAverage": 9.42,
+        "rank": 468
+      },
+      {
+        "title": "Jackson 5 / Jacksons",
+        "instanceSlug": "jacksons",
+        "tags": [
+          "1970s",
+          "1980s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "soul"
+        ],
+        "members": [
+          "michael-jackson",
+          "jermaine-jackson"
+        ],
+        "complete": true,
+        "origin": "gary-ind",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+        ],
+        "score": 0,
+        "rank": 834
+      }
+    ],
+    "score": 840.41,
+    "artistAdjustedAverage": 375.84
+  },
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Rhythm Nation",
+      "instanceSlug": 289,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "sample"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-12",
+      "playlists": [
+      ],
+      "ranks": [
+        13,
+        3,
+        1.09,
+        1.11,
+        1.22,
+        1.34,
+        1.47,
+        1.69
+      ],
+      "scores": [
+        0.145,
+        0.633,
+        0.971,
+        0.965,
+        0.933,
+        0.902,
+        0.871,
+        0.825,
+        0.82,
+        0.81,
+        0.795,
+        0.775,
+        0.75,
+        0.72,
+        0.685,
+        0.645,
+        0.6,
+        0.55,
+        0.495,
+        0.435,
+        0.37,
+        0.3,
+        0.225,
+        0.145,
+        0.06,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.145,
+      "duration": 6.5,
+      "score": 15.425,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Control",
+      "instanceSlug": 60,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-12",
+      "ranks": [
+        12,
+        3.4,
+        1.7,
+        1.45,
+        1.5,
+        1.56,
+        1.69,
+        1.88,
+        2.34
+      ],
+      "scores": [
+        0.171,
+        0.592,
+        0.823,
+        0.876,
+        0.864,
+        0.851,
+        0.825,
+        0.789,
+        0.716,
+        0.711,
+        0.701,
+        0.686,
+        0.666,
+        0.641,
+        0.611,
+        0.576,
+        0.536,
+        0.491,
+        0.441,
+        0.386,
+        0.326,
+        0.261,
+        0.191,
+        0.116,
+        0.036,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 6.5,
+      "score": 13.883000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Love Will Never Do (Without You)",
+      "instanceSlug": 312,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-12",
+      "playlists": [
+      ],
+      "ranks": [
+        11,
+        4.8,
+        1.67,
+        1.5,
+        1.55,
+        1.8,
+        2.2
+      ],
+      "scores": [
+        0.2,
+        0.477,
+        0.829,
+        0.864,
+        0.853,
+        0.804,
+        0.737,
+        0.732,
+        0.722,
+        0.707,
+        0.687,
+        0.662,
+        0.632,
+        0.597,
+        0.557,
+        0.512,
+        0.462,
+        0.407,
+        0.347,
+        0.282,
+        0.212,
+        0.137,
+        0.057,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.2,
+      "duration": 6,
+      "score": 12.476,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "You Want This",
+      "instanceSlug": 1284,
+      "tags": [
+        "this",
+        "want",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1994-11",
+      "playlists": [
+      ],
+      "ranks": [
+        13.2,
+        4.97,
+        2.5,
+        2.17,
+        1.8,
+        1.98,
+        2.3
+      ],
+      "scores": [
+        0.139,
+        0.465,
+        0.694,
+        0.741,
+        0.804,
+        0.772,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.139,
+      "peakScore": 0.139,
+      "duration": 6,
+      "score": 11.808999999999997,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "That's the Way Love Goes",
+      "instanceSlug": 394,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1993-05",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        15,
+        7,
+        3.3,
+        2.4,
+        1.8,
+        2.3
+      ],
+      "scores": [
+        0.097,
+        0.351,
+        0.602,
+        0.708,
+        0.804,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.75,
+      "score": 10.755999999999997,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "Because of Love",
+      "instanceSlug": 2350,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1994-02",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        9,
+        4,
+        3.1,
+        2.4,
+        2.1,
+        2.5
+      ],
+      "scores": [
+        0.075,
+        0.267,
+        0.537,
+        0.622,
+        0.708,
+        0.752,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 6,
+      "score": 10.679,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Come Back to Me",
+      "instanceSlug": 207,
+      "tags": [
+      ],
+      "playlists": [
+        "ballad",
+        "summer"
+      ],
+      "genre": "pop",
+      "debut": "1990-07",
+      "ranks": [
+        15,
+        2.7,
+        2.4,
+        2.5,
+        2.75
+      ],
+      "scores": [
+        0.097,
+        0.668,
+        0.708,
+        0.694,
+        0.662,
+        0.657,
+        0.647,
+        0.632,
+        0.612,
+        0.587,
+        0.557,
+        0.522,
+        0.482,
+        0.437,
+        0.387,
+        0.332,
+        0.272,
+        0.207,
+        0.137,
+        0.062,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.25,
+      "score": 9.359000000000002,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
+    },
+    {
+      "title": "Let's Wait Awhile",
+      "instanceSlug": 95,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-02",
+      "ranks": [
+        14,
+        6,
+        3.3,
+        2.2,
+        2.5,
+        2.9,
+        4
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.602,
+        0.737,
+        0.694,
+        0.645,
+        0.537,
+        0.532,
+        0.522,
+        0.507,
+        0.487,
+        0.462,
+        0.432,
+        0.397,
+        0.357,
+        0.312,
+        0.262,
+        0.207,
+        0.147,
+        0.082,
+        0.012,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.5,
+      "score": 8.455000000000004,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 8
+    },
+    {
+      "title": "Escapade",
+      "instanceSlug": 1950,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        6,
+        2.5,
+        2.7,
+        3.1,
+        3.8
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.694,
+        0.668,
+        0.622,
+        0.554,
+        0.549,
+        0.539,
+        0.524,
+        0.504,
+        0.479,
+        0.449,
+        0.414,
+        0.374,
+        0.329,
+        0.279,
+        0.224,
+        0.164,
+        0.099,
+        0.029,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.25,
+      "score": 8.016,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 9
+    },
+    {
+      "title": "When I Think of You",
+      "instanceSlug": 286,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-09",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        10,
+        6,
+        3.3,
+        3.12,
+        3.6,
+        4.41
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.402,
+        0.602,
+        0.62,
+        0.573,
+        0.505,
+        0.5,
+        0.49,
+        0.475,
+        0.455,
+        0.43,
+        0.4,
+        0.365,
+        0.325,
+        0.28,
+        0.23,
+        0.175,
+        0.115,
+        0.05,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.25,
+      "score": 7.299,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 10
+    },
+    {
+      "title": "Any Time, Any Place",
+      "instanceSlug": 2351,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1994-06",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        17,
+        10,
+        7,
+        5.5,
+        4.5,
+        4,
+        4.25,
+        4.8
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.351,
+        0.431,
+        0.498,
+        0.537,
+        0.517,
+        0.477,
+        0.472,
+        0.462,
+        0.447,
+        0.427,
+        0.402,
+        0.372,
+        0.337,
+        0.297,
+        0.252,
+        0.202,
+        0.147,
+        0.087,
+        0.022,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 5.5,
+      "score": 7.023999999999999,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 11
+    },
+    {
+      "title": "Runaway",
+      "instanceSlug": 345,
+      "tags": [
+        "run"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1995-10",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        11.5,
+        6.6,
+        5.2,
+        4.4,
+        3.9,
+        5
+      ],
+      "scores": [
+        0.097,
+        0.185,
+        0.37,
+        0.45,
+        0.506,
+        0.546,
+        0.463,
+        0.458,
+        0.448,
+        0.433,
+        0.413,
+        0.388,
+        0.358,
+        0.323,
+        0.283,
+        0.238,
+        0.188,
+        0.133,
+        0.073,
+        0.008,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.25,
+      "score": 6.361,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 12
+    },
+    {
+      "title": "The Pleasure Principle",
+      "instanceSlug": 2344,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-07",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        19,
+        11,
+        7,
+        5,
+        5.2,
+        5.5,
+        5.9
+      ],
+      "scores": [
+        0.018,
+        0.2,
+        0.351,
+        0.463,
+        0.45,
+        0.431,
+        0.408,
+        0.403,
+        0.393,
+        0.378,
+        0.358,
+        0.333,
+        0.303,
+        0.268,
+        0.228,
+        0.183,
+        0.133,
+        0.078,
+        0.018,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 5,
+      "score": 5.396999999999999,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 13
+    },
+    {
+      "title": "Miss You Much",
+      "instanceSlug": 515,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-09",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        8.5,
+        4.8,
+        4.4,
+        4.3,
+        6
+      ],
+      "scores": [
+        0.097,
+        0.286,
+        0.477,
+        0.506,
+        0.513,
+        0.402,
+        0.397,
+        0.387,
+        0.372,
+        0.352,
+        0.327,
+        0.297,
+        0.262,
+        0.222,
+        0.177,
+        0.127,
+        0.072,
+        0.012,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 4.75,
+      "score": 5.284999999999998,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 14
+    },
+    {
+      "title": "What Have You Done For Me Lately",
+      "instanceSlug": 485,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-04",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        6.4,
+        4.2,
+        5.2
+      ],
+      "scores": [
+        0.075,
+        0.381,
+        0.521,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 4.25,
+      "score": 5.006999999999999,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 15
+    },
+    {
+      "title": "If",
+      "instanceSlug": 351,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1993-08",
+      "playlists": [
+      ],
+      "ranks": [
+        18.9,
+        11,
+        8.8,
+        6.9,
+        6.3,
+        6.7,
+        7.9
+      ],
+      "scores": [
+        0.02,
+        0.2,
+        0.275,
+        0.356,
+        0.386,
+        0.365,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.02,
+      "peakScore": 0.02,
+      "duration": 4.5,
+      "score": 3.923,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 16
+    },
+    {
+      "title": "Nasty",
+      "instanceSlug": 59,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-06",
+      "ranks": [
+        21,
+        12,
+        10,
+        8.7,
+        8,
+        8.9
+      ],
+      "scores": [
+        0.171,
+        0.232,
+        0.278,
+        0.306,
+        0.271,
+        0.266,
+        0.256,
+        0.241,
+        0.221,
+        0.196,
+        0.166,
+        0.131,
+        0.091,
+        0.046,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 3.75,
+      "score": 2.8720000000000003,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 17
+    },
+    {
+      "title": "Diamonds",
+      "instanceSlug": 1011,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "jazz",
+      "debut": "1987-05",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        5.5,
+        2.5,
+        2.7,
+        2.95,
+        3.5
+      ],
+      "scores": [
+        0.097,
+        0.431,
+        0.694,
+        0.668,
+        0.639,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.25,
+      "score": 2.114750000000001,
+      "genres": [
+        "jazz"
+      ],
+      "role": "feature",
+      "scoreFactor": 0.25,
+      "rank": 18
+    },
+    {
+      "title": "All For You",
+      "instanceSlug": 2354,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2001-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 19
+    },
+    {
+      "title": "The Best Things in Life Are Free",
+      "instanceSlug": 1078,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1992-06",
+      "source": "mo-money",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 20
+    },
+    {
+      "title": "Doesn't Really Matter",
+      "instanceSlug": 2352,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2000-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 21
+    },
+    {
+      "title": "State of the World",
+      "instanceSlug": 2346,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1991-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 22
+    },
+    {
+      "title": "Alright",
+      "instanceSlug": 2345,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1990-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 23
+    },
+    {
+      "title": "Someone to Call My Lover",
+      "instanceSlug": 1784,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "2001-07",
+      "playlists": [
+        "sample"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 24
+    },
+    {
+      "title": "Scream",
+      "instanceSlug": 1221,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1995-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 25
+    },
+    {
+      "title": "Again",
+      "instanceSlug": 709,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1993-11",
+      "source": "poetic-justice",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 26
+    },
+    {
+      "title": "Together Again",
+      "instanceSlug": 2353,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1998-01",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 27
+    }
+  ],
+  "score": 146.14075000000003,
+  "songCount": 27,
+  "songAdjustedAverage": 28.12480045069127,
+  "rank": 4
+}

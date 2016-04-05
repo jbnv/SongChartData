@@ -1,1 +1,118 @@
-{"title":"Sade","instanceSlug":"sade","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"The Sweetest Taboo","instanceSlug":1744,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1986-01","playlists":[],"ranks":[18.5,13,10,8.2,6.9,6.5,7.3,9,10.7,14.1,19.2,26,34.5,44.7,56.6,70.2],"debutRank":18.5,"peakRank":6.5,"duration":4,"score":7.15,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":1},{"title":"No Ordinary Love","instanceSlug":1182,"tags":[],"parents":[],"genre":"soul","debut":1992,"playlists":[],"ranks":[],"genres":["soul"],"role":true,"scoreFactor":1,"score":null,"rank":2},{"title":"Smooth Operator","instanceSlug":400,"tags":[],"parents":[],"genre":"pop","debut":1985,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":7.15,"songAdjustedAverage":4.13,"rank":656}
+{
+  "title": "Sade",
+  "instanceSlug": "sade",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "The Sweetest Taboo",
+      "instanceSlug": 1744,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": [
+        18.5,
+        13,
+        10,
+        8.2,
+        6.9,
+        6.5,
+        7.3,
+        9
+      ],
+      "scores": [
+        0.027,
+        0.145,
+        0.232,
+        0.298,
+        0.356,
+        0.376,
+        0.337,
+        0.267,
+        0.262,
+        0.252,
+        0.237,
+        0.217,
+        0.192,
+        0.162,
+        0.127,
+        0.087,
+        0.042,
+        0
+      ],
+      "debutScore": 0.027,
+      "peakScore": 0.027,
+      "duration": 4.5,
+      "score": 3.616,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "No Ordinary Love",
+      "instanceSlug": 1182,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Smooth Operator",
+      "instanceSlug": 400,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1985,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 3.616,
+  "songCount": 3,
+  "songAdjustedAverage": 2.087698573389687,
+  "rank": 667
+}

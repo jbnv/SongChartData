@@ -1,1 +1,99 @@
-{"title":"Wiz Khalifa","instanceSlug":"wiz-khalifa","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"active":true,"origin":"","birth":"","death":"","songs":[{"title":"See You Again","instanceSlug":3057,"tags":[],"genre":"pop","debut":"2015-06","source":"ff7","playlists":["death"],"ranks":[18,9.9,8.1,6.7,6.72,7.4,8.08,9.44,11.48,14.2,17.6,21.68,26.44,31.88,38,44.8,52.28,60.44,69.28,78.8],"debutRank":18,"peakRank":6.7,"duration":5,"score":7.62,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Payphone","instanceSlug":3033,"tags":["#1","#1-rdwt40-hot-adult","phone"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"genres":["pop"],"role":"feature","scoreFactor":0.25,"score":null,"rank":2}],"score":7.62,"songAdjustedAverage":5.39,"rank":624}
+{
+  "title": "Wiz Khalifa",
+  "instanceSlug": "wiz-khalifa",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "active": true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "See You Again",
+      "instanceSlug": 3057,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "2015-06",
+      "source": "ff7",
+      "playlists": [
+        "death"
+      ],
+      "ranks": [
+        18,
+        9.9,
+        8.1,
+        6.7,
+        6.72,
+        7.4
+      ],
+      "scores": [
+        0.036,
+        0.235,
+        0.302,
+        0.365,
+        0.364,
+        0.332,
+        0.327,
+        0.317,
+        0.302,
+        0.282,
+        0.257,
+        0.227,
+        0.192,
+        0.152,
+        0.107,
+        0.057,
+        0.002,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.5,
+      "score": 3.8560000000000003,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Payphone",
+      "instanceSlug": 3033,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult",
+        "phone"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2010s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "feature",
+      "scoreFactor": 0.25,
+      "rank": 2
+    }
+  ],
+  "score": 3.8560000000000003,
+  "songCount": 2,
+  "songAdjustedAverage": 2.7266037482553274,
+  "rank": 634
+}

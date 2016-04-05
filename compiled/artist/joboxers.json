@@ -1,1 +1,77 @@
-{"title":"JoBoxers","instanceSlug":"joboxers","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Just Got Lucky","instanceSlug":2384,"tags":[],"parents":[],"genre":"dance-pop","debut":"1983-11","playlists":[],"ranks":[14,8,4,3,2,2.3,2.6,3.2,4.1,5.3,6.8,8.6,10.7,13.1,15.8,18.8,22.1,25.7,29.6,33.8,38.3,43.1,48.2,53.6],"debutRank":14,"peakRank":2,"duration":6,"score":19.37,"genres":["dance-pop"],"role":true,"scoreFactor":1,"rank":1}],"score":19.37,"songAdjustedAverage":19.37,"rank":225}
+{
+  "title": "JoBoxers",
+  "instanceSlug": "joboxers",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Just Got Lucky",
+      "instanceSlug": 2384,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1983-11",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        8,
+        4,
+        3,
+        2,
+        2.3
+      ],
+      "scores": [
+        0.12,
+        0.306,
+        0.537,
+        0.633,
+        0.768,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.75,
+      "score": 10.557999999999998,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 10.557999999999998,
+  "songCount": 1,
+  "songAdjustedAverage": 10.557999999999998,
+  "rank": 180
+}

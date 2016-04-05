@@ -1,1 +1,166 @@
-{"title":"Sheila E","instanceSlug":"sheila-e","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"The Glamorous Life","instanceSlug":440,"tags":[],"parents":[],"genre":"dance","debut":"1984-08","playlists":[],"ranks":[13,7,3.8,2,1.9,2.5,3.1,4.3,6.1,8.5,11.5,15.1,19.3,24.1,29.5,35.5,42.1,49.3,57.1,65.5],"debutRank":13,"peakRank":1.9,"duration":5,"score":16.25,"genres":["dance"],"role":true,"scoreFactor":1,"rank":1},{"title":"Love Bazaar","instanceSlug":1740,"tags":[],"parents":[],"genre":"dance","debut":"1986-01","playlists":[],"ranks":[15,9,6,4.8,4.25,4,4.25,4.6,5.2,5.8,7,8.8,11.2,14.2,17.8,22,26.8,32.2,38.2,44.8,52,59.8,68.2,77.2],"debutRank":15,"peakRank":4,"duration":6,"score":15.45,"genres":["dance"],"role":true,"scoreFactor":1,"rank":2},{"title":"Every Time I Close My Eyes","instanceSlug":1869,"tags":[],"parents":[],"genre":"pop","debut":"1997-02","playlists":[],"ranks":[],"genres":["pop"],"role":"backup","scoreFactor":0.1,"score":null,"rank":3}],"score":31.7,"songAdjustedAverage":18.3,"rank":247}
+{
+  "title": "Sheila E",
+  "instanceSlug": "sheila-e",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "The Glamorous Life",
+      "instanceSlug": 440,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1984-08",
+      "playlists": [
+      ],
+      "ranks": [
+        13,
+        7,
+        3.8,
+        2,
+        1.9,
+        2.5
+      ],
+      "scores": [
+        0.145,
+        0.351,
+        0.554,
+        0.768,
+        0.786,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.145,
+      "duration": 5.75,
+      "score": 10.322000000000001,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Love Bazaar",
+      "instanceSlug": 1740,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        9,
+        6,
+        4.8,
+        4.25,
+        4,
+        4.25,
+        4.6,
+        5.2
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.477,
+        0.517,
+        0.537,
+        0.517,
+        0.491,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 7.334999999999998,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Every Time I Close My Eyes",
+      "instanceSlug": 1869,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1997-02",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 3
+    }
+  ],
+  "score": 17.657,
+  "songCount": 3,
+  "songAdjustedAverage": 10.194273703081222,
+  "rank": 199
+}

@@ -1,1 +1,334 @@
-{"title":"Midnight Star","instanceSlug":"midnight-star","tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"}],"members":[],"xref":[],"complete":true,"origin":{"title":"Louisville, KY","instanceSlug":"louisville-ky","tags":[],"parents":["kentucky"],"artists":[{"title":"Midnight Star","instanceSlug":"midnight-star","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"louisville-ky","birth":"","death":"","type":"g","songs":[{"title":"Freakazoid","instanceSlug":752,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[9,4.7,2.5,1.3,1.2,1.7,2.41,3.41,4.83,6.85,9.7,13.74,19.47,27.58,39.07,55.35],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"debutRank":9,"peakRank":1.2,"duration":4,"score":19.9,"genres":[{"slug":"dance","title":"Dance"}],"rank":1},{"title":"Operator","instanceSlug":1757,"tags":[],"parents":[],"genre":"dance","debut":"1985-01","playlists":[],"ranks":[14,7,5,3.2,3,3.24,3.68,4.6,5.75,7.19,8.98,11.23,14.04,17.55,21.93,27.42,34.27,42.84,53.55,66.94],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":5,"score":15.7,"genres":[{"slug":"dance","title":"Dance"}],"rank":2},{"title":"Electricity","instanceSlug":2027,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"rank":3}],"score":35.6,"songAdjustedAverage":20.55,"rank":161}],"score":35.6,"artistAdjustedAverage":35.6},"birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Freakazoid","instanceSlug":752,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[9,4.7,2.5,1.3,1.2,1.7,2.2,3.2,4.7,6.7,9.2,12.2,15.7,19.7,24.2,29.2,34.7,40.7,47.2,54.2],"debutRank":9,"peakRank":1.2,"duration":5,"score":20.51,"genres":["dance"],"role":true,"scoreFactor":1,"rank":1},{"title":"Operator","instanceSlug":1757,"tags":[],"parents":[],"genre":"dance","debut":"1985-01","playlists":[],"ranks":[14,7,5,3.2,3,3.24,3.68,4.12,5,6.32,8.08,10.28,12.92,16,19.52,23.48,27.88,32.72,38,43.72,49.88,56.48,63.52,71],"debutRank":14,"peakRank":3,"duration":6,"score":16.47,"genres":["dance"],"role":true,"scoreFactor":1,"rank":2},{"title":"Electricity","instanceSlug":2027,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[],"genres":["dance"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":36.98,"songAdjustedAverage":21.35,"rank":161}
+{
+  "title": "Midnight Star",
+  "instanceSlug": "midnight-star",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": true,
+  "origin": {
+    "title": "Louisville, KY",
+    "instanceSlug": "louisville-ky",
+    "tags": [
+    ],
+    "parents": [
+      "kentucky"
+    ],
+    "artists": [
+      {
+        "title": "Midnight Star",
+        "instanceSlug": "midnight-star",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "louisville-ky",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Freakazoid",
+            "instanceSlug": 752,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1980s",
+            "playlists": [
+            ],
+            "ranks": [
+              9,
+              4.7,
+              2.5,
+              1.3,
+              1.2,
+              1.7,
+              2.41,
+              3.41,
+              4.83,
+              6.85,
+              9.7,
+              13.74,
+              19.47,
+              27.58,
+              39.07,
+              55.35
+            ],
+            "artists": [
+              {
+                "slug": "midnight-star",
+                "title": "Midnight Star",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 9,
+            "peakRank": 1.2,
+            "duration": 4,
+            "score": 19.9,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Operator",
+            "instanceSlug": 1757,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1985-01",
+            "playlists": [
+            ],
+            "ranks": [
+              14,
+              7,
+              5,
+              3.2,
+              3,
+              3.24,
+              3.68,
+              4.6,
+              5.75,
+              7.19,
+              8.98,
+              11.23,
+              14.04,
+              17.55,
+              21.93,
+              27.42,
+              34.27,
+              42.84,
+              53.55,
+              66.94
+            ],
+            "artists": [
+              {
+                "slug": "midnight-star",
+                "title": "Midnight Star",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 3,
+            "duration": 5,
+            "score": 15.7,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Electricity",
+            "instanceSlug": 2027,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1980s",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "midnight-star",
+                "title": "Midnight Star",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 3
+          }
+        ],
+        "score": 35.6,
+        "songAdjustedAverage": 20.55,
+        "rank": 161
+      }
+    ],
+    "score": 35.6,
+    "artistAdjustedAverage": 35.6
+  },
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Freakazoid",
+      "instanceSlug": 752,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": [
+        9,
+        4.7,
+        2.5,
+        1.3,
+        1.2,
+        1.7
+      ],
+      "scores": [
+        0.267,
+        0.484,
+        0.694,
+        0.912,
+        0.939,
+        0.823,
+        0.818,
+        0.808,
+        0.793,
+        0.773,
+        0.748,
+        0.718,
+        0.683,
+        0.643,
+        0.598,
+        0.548,
+        0.493,
+        0.433,
+        0.368,
+        0.298,
+        0.223,
+        0.143,
+        0.058,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.267,
+      "duration": 6,
+      "score": 13.265000000000002,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Operator",
+      "instanceSlug": 1757,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-01",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        7,
+        5,
+        3.2,
+        3,
+        3.24,
+        3.68
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.463,
+        0.612,
+        0.633,
+        0.608,
+        0.565,
+        0.56,
+        0.55,
+        0.535,
+        0.515,
+        0.49,
+        0.46,
+        0.425,
+        0.385,
+        0.34,
+        0.29,
+        0.235,
+        0.175,
+        0.11,
+        0.04,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.5,
+      "score": 8.461999999999998,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Electricity",
+      "instanceSlug": 2027,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 21.727,
+  "songCount": 3,
+  "songAdjustedAverage": 12.544089298683,
+  "rank": 113
+}

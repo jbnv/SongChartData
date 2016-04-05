@@ -1,1 +1,90 @@
-{"title":"Musical Youth","instanceSlug":"musical-youth","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Pass the Dutchie","instanceSlug":1966,"tags":[],"parents":[],"genre":"reggae","debut":"1983-02","playlists":[],"ranks":[14,7,4.5,3.2,2.5,2.7,2.95,3.4,3.85,4.75,6.1,7.9,10.15,12.85,16,19.6,23.65,28.15,33.1,38.5,44.35,50.65,57.4,64.6],"debutRank":14,"peakRank":2.5,"duration":6,"score":19.13,"genres":["reggae"],"role":true,"scoreFactor":1,"rank":1}],"score":19.13,"songAdjustedAverage":19.13,"rank":229}
+{
+  "title": "Musical Youth",
+  "instanceSlug": "musical-youth",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Pass the Dutchie",
+      "instanceSlug": 1966,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "reggae",
+      "debut": "1983-02",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        7,
+        4.5,
+        3.2,
+        2.5,
+        2.7,
+        2.95,
+        3.4
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.498,
+        0.612,
+        0.694,
+        0.668,
+        0.639,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.75,
+      "score": 9.662,
+      "genres": [
+        "reggae"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 9.662,
+  "songCount": 1,
+  "songAdjustedAverage": 9.662,
+  "rank": 242
+}

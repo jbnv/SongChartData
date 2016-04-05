@@ -1,1 +1,173 @@
-{"title":"Yvonne Elliman","instanceSlug":"yvonne-elleman","tags":[],"parents":[],"genres":[{"slug":"pop","title":"Pop"}],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"If I Can't Have You","instanceSlug":1856,"tags":[],"parents":[],"genre":"disco","debut":1978,"source":"saturday-night-fever","playlists":[],"ranks":[13,3,4.5,6,9,13.5,19.5,27,36,46.5,58.5,72],"debutRank":13,"peakRank":3,"duration":3,"score":6.27,"genres":["disco"],"role":true,"scoreFactor":1,"rank":1},{"title":"Lay Down Sally","instanceSlug":2008,"tags":[],"parents":[],"genre":"blues","debut":"1978-02","playlists":[],"ranks":[15.5,3,3.4,3.8,4.6,5.8,7.4,9.4,11.8,14.6,17.8,21.4,25.4,29.8,34.6,39.8,45.4,51.4,57.8,64.6],"debutRank":15.5,"peakRank":3,"duration":5,"score":1.1050000000000002,"genres":["blues"],"role":"backup","scoreFactor":0.1,"rank":2},{"title":"Wonderful Tonight","instanceSlug":1844,"tags":[],"parents":[],"genre":"blues","debut":"1978-06","playlists":[],"ranks":[],"genres":["blues"],"role":"backup","scoreFactor":0.1,"score":null,"rank":3},{"title":"I Shot the Sheriff","instanceSlug":2007,"tags":[],"parents":[],"genre":"blues","debut":1974,"playlists":[],"ranks":[],"genres":["blues"],"role":"backup","scoreFactor":0.1,"score":null,"rank":4}],"score":7.38,"songAdjustedAverage":3.69,"rank":670}
+{
+  "title": "Yvonne Elliman",
+  "instanceSlug": "yvonne-elleman",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "If I Can't Have You",
+      "instanceSlug": 1856,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "disco",
+      "debut": 1978,
+      "source": "saturday-night-fever",
+      "playlists": [
+      ],
+      "ranks": [
+        13,
+        3,
+        4.5
+      ],
+      "scores": [
+        0.145,
+        0.633,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.145,
+      "duration": 4.25,
+      "score": 5.474999999999999,
+      "genres": [
+        "disco"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Lay Down Sally",
+      "instanceSlug": 2008,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "blues",
+      "debut": "1978-02",
+      "playlists": [
+      ],
+      "ranks": [
+        15.5,
+        3,
+        3.4
+      ],
+      "scores": [
+        0.086,
+        0.633,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.086,
+      "duration": 4.5,
+      "score": 0.6799000000000002,
+      "genres": [
+        "blues"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 2
+    },
+    {
+      "title": "Wonderful Tonight",
+      "instanceSlug": 1844,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "blues",
+      "debut": "1978-06",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "blues"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 3
+    },
+    {
+      "title": "I Shot the Sheriff",
+      "instanceSlug": 2007,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "blues",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "blues"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 4
+    }
+  ],
+  "score": 6.154899999999999,
+  "songCount": 4,
+  "songAdjustedAverage": 3.0774499999999994,
+  "rank": 619
+}

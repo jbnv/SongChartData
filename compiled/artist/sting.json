@@ -1,1 +1,558 @@
-{"title":"Sting","instanceSlug":"sting","tags":[{"slug":"1980s","title":"Major Artists of the 1980s"},{"slug":"1990s","title":"Major Artists of the 1990s"}],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Desert Rose","instanceSlug":1196,"tags":["desert","rose"],"parents":[],"genre":"pop","debut":2000,"playlists":[],"ranks":[10,1,1,1.085,1.17,1.34,1.59,1.93,2.36,2.87,3.46,4.14,4.91,5.76,6.69,7.71,8.82,10.01,11.28,12.64,14.09,15.62,17.23,18.93,20.72,22.59,24.54,26.58,28.71,30.92,33.21,35.6,38.06,40.61,43.24,45.96,48.77,51.66,54.63,57.69],"note":"Project 6 weeks at #1.","debutRank":10,"peakRank":1,"duration":10,"score":35.56,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"We'll Be Together","instanceSlug":707,"tags":["together","we","we'll"],"parents":[],"genre":"rock","debut":"1987-10","playlists":[],"ranks":[14,5.2,1.9,1.5,1.7,1.9,2.3,2.9,3.7,4.7,5.9,7.3,8.9,10.7,12.7,14.9,17.3,19.9,22.7,25.7,28.9,32.3,35.9,39.7,43.7,47.9,52.3,56.9],"debutRank":14,"peakRank":1.5,"duration":7,"score":23.34,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2},{"title":"When We Dance","instanceSlug":1817,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1995-01","playlists":[],"ranks":[16,9,5.4,4.2,3.5,3,3.2,3.6,4,4.8,6,7.6,9.6,12,14.8,18,21.6,25.6,30,34.8,40,45.6,51.6,58],"debutRank":16,"peakRank":3,"duration":6,"score":18.01,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":3},{"title":"All for Love","instanceSlug":1602,"genres":["pop","rock"],"debut":"1993-12","source":"three-musketeers-1993","playlists":["ballad","love"],"ranks":[18,11,7.5,5.4,4.8,4.95,5.25,5.86,6.4,6.94,8.02,9.64,11.8,14.5,17.74,21.52,25.84,30.7,36.1,42.04,48.52,55.54,63.1,71.2],"debutRank":18,"peakRank":4.8,"duration":6,"score":13.26,"role":true,"scoreFactor":1,"rank":4},{"title":"Be Still My Beating Heart","instanceSlug":1831,"tags":[],"parents":[],"genre":"pop","debut":"1988-02","playlists":[],"ranks":[16,8,6.2,4.5,4.7,4.9,5.4,6.1,6.8,8.2,10.3,13.1,16.6,20.8,25.7,31.3,37.6,44.6,52.3,60.7],"debutRank":16,"peakRank":4.5,"duration":5,"score":12.45,"genres":["pop"],"role":true,"scoreFactor":1,"rank":5},{"title":"If I Ever Lose My Faith in You","instanceSlug":313,"tags":["faith","i","lose","my","you"],"parents":[],"genre":"pop","debut":1993,"playlists":[],"ranks":[15.9,8.6,4.6,2.4,2.4,3.5,5,7,10,13,19,28,40,55,73,94],"debutRank":15.9,"peakRank":2.4,"duration":4,"score":12.18,"genres":["pop"],"role":true,"scoreFactor":1,"rank":6},{"title":"Fortress Around Your Heart","instanceSlug":941,"tags":["around","fortress","heart","your"],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[15.5,10.5,7,5.2,5.9,7.5,9,12,15,18,21,24,30,39,51,66],"debutRank":15.5,"peakRank":5.2,"duration":4,"score":7.24,"genres":["pop"],"role":true,"scoreFactor":1,"rank":7},{"title":"Take Me Home","instanceSlug":2168,"tags":[],"parents":[],"genre":"pop","debut":"1986-04","playlists":[],"ranks":[16,8,6,4,4.6,5.2,6.4,8.2,10.6,13.6,17.2,21.4,26.2,31.6,37.6,44.2,51.4,59.2,67.6,76.6],"debutRank":16,"peakRank":4,"duration":5,"score":1.002,"genres":["pop"],"role":"backup","scoreFactor":0.1,"rank":8},{"title":"Love is the Seventh Wave","instanceSlug":1378,"tags":["love","number","seven","wave"],"parents":[],"genre":"pop","debut":"1985-11","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":9},{"title":"Still Know Nothing About Me","instanceSlug":708,"tags":["know","nothing"],"parents":[],"genre":"rock","debut":"1993-10","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":10},{"title":"All This Time","instanceSlug":1151,"tags":["all","this","time"],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":11}],"score":123.04,"songAdjustedAverage":37.1,"rank":20}
+{
+  "title": "Sting",
+  "instanceSlug": "sting",
+  "tags": [
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    },
+    {
+      "slug": "1990s",
+      "title": "Major Artists of the 1990s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Desert Rose",
+      "instanceSlug": 1196,
+      "tags": [
+        "desert",
+        "rose"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2000,
+      "playlists": [
+      ],
+      "ranks": [
+        10,
+        1,
+        1,
+        1.085
+      ],
+      "note": "Project 6 weeks at #1.",
+      "scores": [
+        0.232,
+        1,
+        1,
+        0.972,
+        0.967,
+        0.957,
+        0.942,
+        0.922,
+        0.897,
+        0.867,
+        0.832,
+        0.792,
+        0.747,
+        0.697,
+        0.642,
+        0.582,
+        0.517,
+        0.447,
+        0.372,
+        0.292,
+        0.207,
+        0.117,
+        0.022,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.232,
+      "duration": 6,
+      "score": 15.022,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "We'll Be Together",
+      "instanceSlug": 707,
+      "tags": [
+        "together",
+        "we",
+        "we'll"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-10",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        5.2,
+        1.9,
+        1.5,
+        1.7
+      ],
+      "scores": [
+        0.12,
+        0.45,
+        0.786,
+        0.864,
+        0.823,
+        0.818,
+        0.808,
+        0.793,
+        0.773,
+        0.748,
+        0.718,
+        0.683,
+        0.643,
+        0.598,
+        0.548,
+        0.493,
+        0.433,
+        0.368,
+        0.298,
+        0.223,
+        0.143,
+        0.058,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 5.75,
+      "score": 12.189000000000004,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "When We Dance",
+      "instanceSlug": 1817,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1995-01",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        9,
+        5.4,
+        4.2,
+        3.5,
+        3,
+        3.2,
+        3.6
+      ],
+      "scores": [
+        0.075,
+        0.267,
+        0.437,
+        0.521,
+        0.582,
+        0.633,
+        0.612,
+        0.573,
+        0.568,
+        0.558,
+        0.543,
+        0.523,
+        0.498,
+        0.468,
+        0.433,
+        0.393,
+        0.348,
+        0.298,
+        0.243,
+        0.183,
+        0.118,
+        0.048,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.75,
+      "score": 8.922,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Be Still My Beating Heart",
+      "instanceSlug": 1831,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1988-02",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        8,
+        6.2,
+        4.5,
+        4.7,
+        4.9,
+        5.4,
+        6.1
+      ],
+      "scores": [
+        0.075,
+        0.306,
+        0.391,
+        0.498,
+        0.484,
+        0.47,
+        0.437,
+        0.397,
+        0.392,
+        0.382,
+        0.367,
+        0.347,
+        0.322,
+        0.292,
+        0.257,
+        0.217,
+        0.172,
+        0.122,
+        0.067,
+        0.007,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.25,
+      "score": 6.001999999999998,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "All for Love",
+      "instanceSlug": 1602,
+      "genres": [
+        "pop",
+        "rock"
+      ],
+      "debut": "1993-12",
+      "source": "three-musketeers-1993",
+      "playlists": [
+        "ballad",
+        "love"
+      ],
+      "ranks": [
+        18,
+        11,
+        7.5,
+        5.4,
+        4.8,
+        4.95,
+        5.25,
+        5.86,
+        6.4
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.328,
+        0.437,
+        0.477,
+        0.466,
+        0.447,
+        0.41,
+        0.381,
+        0.376,
+        0.366,
+        0.351,
+        0.331,
+        0.306,
+        0.276,
+        0.241,
+        0.201,
+        0.156,
+        0.106,
+        0.051,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 5.25,
+      "score": 5.943,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "If I Ever Lose My Faith in You",
+      "instanceSlug": 313,
+      "tags": [
+        "faith",
+        "i",
+        "lose",
+        "my",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1993,
+      "playlists": [
+      ],
+      "ranks": [
+        15.9,
+        8.6,
+        4.6,
+        2.4,
+        2.4,
+        3.5,
+        5,
+        7,
+        10
+      ],
+      "scores": [
+        0.077,
+        0.282,
+        0.491,
+        0.708,
+        0.708,
+        0.582,
+        0.463,
+        0.351,
+        0.232,
+        0.227,
+        0.217,
+        0.202,
+        0.182,
+        0.157,
+        0.127,
+        0.092,
+        0.052,
+        0.007,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.077,
+      "duration": 4.75,
+      "score": 5.156999999999999,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Fortress Around Your Heart",
+      "instanceSlug": 941,
+      "tags": [
+        "around",
+        "fortress",
+        "heart",
+        "your"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-08",
+      "playlists": [
+      ],
+      "ranks": [
+        15.5,
+        10.5,
+        7,
+        5.2,
+        5.9,
+        7.5,
+        9,
+        12,
+        15,
+        18,
+        21
+      ],
+      "scores": [
+        0.086,
+        0.216,
+        0.351,
+        0.45,
+        0.408,
+        0.328,
+        0.267,
+        0.171,
+        0.097,
+        0.036,
+        0.031,
+        0.021,
+        0.006,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.036,
+      "duration": 3.5,
+      "score": 2.4679999999999995,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
+    },
+    {
+      "title": "Take Me Home",
+      "instanceSlug": 2168,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-04",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        8,
+        6,
+        4,
+        4.6
+      ],
+      "scores": [
+        0.075,
+        0.306,
+        0.402,
+        0.537,
+        0.491,
+        0.486,
+        0.476,
+        0.461,
+        0.441,
+        0.416,
+        0.386,
+        0.351,
+        0.311,
+        0.266,
+        0.216,
+        0.161,
+        0.101,
+        0.036,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 4.75,
+      "score": 0.5918999999999999,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 8
+    },
+    {
+      "title": "Love is the Seventh Wave",
+      "instanceSlug": 1378,
+      "tags": [
+        "love",
+        "number",
+        "seven",
+        "wave"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-11",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 9
+    },
+    {
+      "title": "Still Know Nothing About Me",
+      "instanceSlug": 708,
+      "tags": [
+        "know",
+        "nothing"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1993-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 10
+    },
+    {
+      "title": "All This Time",
+      "instanceSlug": 1151,
+      "tags": [
+        "all",
+        "this",
+        "time"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1991,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 11
+    }
+  ],
+  "score": 56.2949,
+  "songCount": 11,
+  "songAdjustedAverage": 16.973550991870745,
+  "rank": 37
+}

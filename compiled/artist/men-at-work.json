@@ -1,1 +1,188 @@
-{"title":"Men at Work","instanceSlug":"men-at-work","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Overkill","instanceSlug":1620,"tags":["unique-words"],"parents":[],"genre":"rock","debut":"1983-04","playlists":[],"ranks":[17.7,11.4,8.2,5.9,5.2,5.45,6.4,7.35,9.25,12.1,15.9,20.65,26.35,33,40.6,49.15,58.65,69.1,80.5,92.85],"debutRank":17.7,"peakRank":5.2,"duration":5,"score":9.13,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Dr. Heckle & Mr. Jive","instanceSlug":618,"tags":[],"parents":[],"genre":true,"debut":1983,"playlists":[],"ranks":[17,11.7,6.8,6.4,6.6,7.2,9,10.8,14.4,19.8,27,36,46.8,59.4,73.8,90],"debutRank":17,"peakRank":6.4,"duration":4,"score":6.84,"genres":[true],"role":true,"scoreFactor":1,"rank":2},{"title":"Down Under","instanceSlug":371,"tags":["australia","places"],"parents":[],"genre":"pop","debut":1983,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"Who Can It Be Now","instanceSlug":617,"tags":[],"parents":[],"debut":"1982-08","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"It's a Mistake","instanceSlug":748,"tags":[],"parents":[],"genre":"rock","debut":"1983-07","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":5}],"score":15.97,"songAdjustedAverage":7.14,"rank":569}
+{
+  "title": "Men at Work",
+  "instanceSlug": "men-at-work",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Overkill",
+      "instanceSlug": 1620,
+      "tags": [
+        "unique-words"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": [
+        17.7,
+        11.4,
+        8.2,
+        5.9,
+        5.2,
+        5.45,
+        6.4
+      ],
+      "scores": [
+        0.042,
+        0.188,
+        0.298,
+        0.408,
+        0.45,
+        0.434,
+        0.381,
+        0.376,
+        0.366,
+        0.351,
+        0.331,
+        0.306,
+        0.276,
+        0.241,
+        0.201,
+        0.156,
+        0.106,
+        0.051,
+        0
+      ],
+      "debutScore": 0.042,
+      "peakScore": 0.042,
+      "duration": 4.75,
+      "score": 4.961999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Dr. Heckle & Mr. Jive",
+      "instanceSlug": 618,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": 1983,
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        11.7,
+        6.8,
+        6.4,
+        6.6,
+        7.2,
+        9
+      ],
+      "scores": [
+        0.055,
+        0.18,
+        0.361,
+        0.381,
+        0.37,
+        0.341,
+        0.267,
+        0.262,
+        0.252,
+        0.237,
+        0.217,
+        0.192,
+        0.162,
+        0.127,
+        0.087,
+        0.042,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4.25,
+      "score": 3.533000000000001,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Down Under",
+      "instanceSlug": 371,
+      "tags": [
+        "australia",
+        "places"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1983,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Who Can It Be Now",
+      "instanceSlug": 617,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": "1982-08",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "It's a Mistake",
+      "instanceSlug": 748,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    }
+  ],
+  "score": 8.495,
+  "songCount": 5,
+  "songAdjustedAverage": 3.799079493772142,
+  "rank": 583
+}

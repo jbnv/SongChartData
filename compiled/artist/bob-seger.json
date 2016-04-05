@@ -1,1 +1,1507 @@
-{"title":"Bob Seger","instanceSlug":"bob-seger","tags":[{"slug":"hof","title":"Rock & Roll Hall of Fame Members"},{"slug":"1970s","title":"Major Artists of the 1970s"},{"slug":"1980s","title":"Major Artists of the 1980s"}],"parents":[],"genres":[{"slug":"rock","title":"Rock"}],"members":[],"origin":{"title":"Detroit","instanceSlug":"detroit","tags":[],"parents":["michigan"],"artists":[{"title":"Spinners","instanceSlug":"spinners","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"detroit","birth":"","death":"","type":"g","songs":[{"title":"Working My Way Back to You","instanceSlug":2665,"tags":[],"parents":[],"genre":"urban","debut":"1980-02","playlists":[],"ranks":[13,5,1.4,1.67,2.09,2.61,3.26,4.08,5.1,6.37,7.96,9.95,12.44,15.55,19.44,24.3,30.38,37.97,47.46,59.33],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"debutRank":13,"peakRank":1.4,"duration":5,"score":19.61,"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":1},{"title":"Mama Can't Buy You Love","instanceSlug":1664,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1979-07","playlists":[],"ranks":[],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true},{"slug":"spinners","title":"Spinners","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}],"rank":2},{"title":"Cupid / I've Loved You For a Long Time","instanceSlug":1666,"tags":[],"parents":[],"genre":"soul","debut":"1980-06","playlists":[{"slug":"remake","title":"Remakes"},{"slug":"medley","title":"Medleys"}],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":3},{"title":"I'll Be Around","instanceSlug":2660,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":4},{"title":"Could It Be I'm Falling in Love","instanceSlug":2661,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":5},{"title":"One of a Kind (Love Affair)","instanceSlug":2662,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":6},{"title":"Then Came You","instanceSlug":2663,"tags":["#1","#1-hot-100"],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"dionne-warwick","title":"Dionne Warwick","roleSlug":true},{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":7},{"title":"The Rubberband Man","instanceSlug":2664,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":8}],"score":19.61,"songAdjustedAverage":6.93,"rank":554},{"title":"Bob Seger","instanceSlug":"bob-seger","tags":["1970s","1980s"],"parents":[],"genres":["rock"],"members":[],"origin":"detroit","birth":1945,"death":"","complete":false,"type":"m","songs":[{"title":"Shakedown","instanceSlug":949,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1987-06","source":"beverly-hills-cop-ii","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[16,10,7,5.4,4.6,4,4.5,5.63,7.03,8.79,10.99,13.73,17.17,21.46,26.82,33.53,41.91,52.39,65.48,81.85],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":5,"score":12.16,"genres":[{"slug":"rock","title":"Rock"}],"rank":1},{"title":"Shame on the Moon","instanceSlug":366,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"rock","debut":"1983-01","playlists":[],"ranks":[18,12.5,9.5,7.9,7.2,7,7.8,9.75,12.19,15.23,19.04,23.8,29.75,37.19,46.49,58.11],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"debutRank":18,"peakRank":7,"duration":4,"score":6.84,"genres":[{"slug":"rock","title":"Rock"}],"rank":2},{"title":"Mainstreet","instanceSlug":2600,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":3},{"title":"Still the Same","instanceSlug":2601,"tags":[],"parents":[],"genre":"pop","debut":"1978-06","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":4},{"title":"Hollywood Nights","instanceSlug":2602,"tags":[],"parents":[],"genre":"rock","debut":"1978-09","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":5},{"title":"We've Got Tonight","instanceSlug":2603,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1978-12","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":6},{"title":"Old Time Rock & Roll","instanceSlug":2604,"tags":[],"parents":[],"genre":"rock","debut":"1979-05","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":7},{"title":"Night Moves","instanceSlug":2599,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":8},{"title":"Against the Wind","instanceSlug":2606,"tags":[],"parents":[],"genre":"rock","debut":"1980-05","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":9},{"title":"You'll Accompany Me","instanceSlug":2607,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1980-09","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":10},{"title":"Tryin' to Live My Life Without You","instanceSlug":2608,"tags":[],"parents":[],"genre":"rock","debut":"1981-10","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":11},{"title":"Even Now","instanceSlug":2609,"tags":[],"parents":[],"genre":"rock","debut":"1983-04","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":12},{"title":"The Real Love","instanceSlug":2610,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1991-09","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":13},{"title":"Understanding","instanceSlug":1767,"tags":[],"parents":[],"genre":"pop","debut":"1984-12","source":"teachers","playlists":[],"ranks":true,"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":14},{"title":"Fire Lake","instanceSlug":2605,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1980-03","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":15}],"score":19,"songAdjustedAverage":4.91,"rank":618},{"title":"Four Tops","instanceSlug":"four-tops","tags":["1960s","1970s"],"parents":[],"genres":["urban"],"members":[],"complete":true,"origin":"detroit","birth":"","death":"","type":"g","songs":[{"title":"Baby I Need Your Loving","instanceSlug":2898,"tags":[],"parents":[],"genre":"urban","debut":1964,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":1},{"title":"I Can't Help Myself","instanceSlug":2899,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":1965,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":2},{"title":"It's the Same Old Song","instanceSlug":2900,"tags":[],"parents":[],"genre":"soul","debut":1965,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":3},{"title":"Reach Out I'll Be There","instanceSlug":2901,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"soul","debut":1966,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":4},{"title":"Standing in the Shadows of Love","instanceSlug":2902,"tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":5},{"title":"Bernadette","instanceSlug":2903,"tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":6},{"title":"Ain't No Woman (Like the One I've Got)","instanceSlug":2904,"tags":[],"parents":[],"genre":"soul","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":7}],"score":0,"songAdjustedAverage":0,"rank":1058}],"score":38.61,"artistAdjustedAverage":22.29},"birth":1945,"death":"","complete":false,"type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"You'll Accompany Me","instanceSlug":2607,"tags":[],"parents":[],"genre":"rock","debut":"1980-09","playlists":["ballad","love"],"ranks":[15,5,1.5,1.61,1.72,1.94,2.27,2.71,3.26,3.92,4.69,5.57,6.56,7.66,8.87,10.19,11.62,13.16,14.81,16.57,18.44,20.42,22.51,24.71,27.02,29.44,31.97,34.61,37.36,40.22,43.19,46.27,49.46,52.76,56.17,59.69],"debutRank":15,"peakRank":1.5,"duration":9,"score":27.1,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Shakedown","instanceSlug":949,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1987-06","source":"beverly-hills-cop-ii","playlists":["summer"],"ranks":[16,10,7,5.4,4.6,4,4.5,5,6,7.5,9.5,12,15,18.5,22.5,27,32,37.5,43.5,50,57,64.5,72.5,81],"debutRank":16,"peakRank":4,"duration":6,"score":13.1,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2},{"title":"Shame on the Moon","instanceSlug":366,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"rock","debut":"1983-01","playlists":[],"ranks":[18,12.5,9.5,7.9,7.2,7,7.8,8.6,10.2,12.6,15.8,19.8,24.6,30.2,36.6,43.8,51.8,60.6,70.2,80.6],"debutRank":18,"peakRank":7,"duration":5,"score":7.54,"genres":["rock"],"role":true,"scoreFactor":1,"rank":3},{"title":"Still the Same","instanceSlug":2601,"tags":[],"parents":[],"genre":"pop","debut":"1978-06","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Hollywood Nights","instanceSlug":2602,"tags":[],"parents":[],"genre":"rock","debut":"1978-09","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":5},{"title":"We've Got Tonight","instanceSlug":2603,"tags":[],"parents":[],"genre":"rock","debut":"1978-12","playlists":["ballad"],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":6},{"title":"Old Time Rock & Roll","instanceSlug":2604,"tags":[],"parents":[],"genre":"rock","debut":"1979-05","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":7},{"title":"Night Moves","instanceSlug":2599,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":8},{"title":"Against the Wind","instanceSlug":2606,"tags":[],"parents":[],"genre":"rock","debut":"1980-05","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":9},{"title":"Understanding","instanceSlug":1767,"tags":[],"parents":[],"genre":"pop","debut":"1984-12","source":"teachers","playlists":[],"ranks":true,"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":10},{"title":"Tryin' to Live My Life Without You","instanceSlug":2608,"tags":[],"parents":[],"genre":"rock","debut":"1981-10","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":11},{"title":"Even Now","instanceSlug":2609,"tags":[],"parents":[],"genre":"rock","debut":"1983-04","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":12},{"title":"The Real Love","instanceSlug":2610,"tags":[],"parents":[],"genre":"rock","debut":"1991-09","playlists":["ballad"],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":13},{"title":"Mainstreet","instanceSlug":2600,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":14},{"title":"Fire Lake","instanceSlug":2605,"tags":[],"parents":[],"genre":"rock","debut":"1980-03","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":15}],"score":47.74,"songAdjustedAverage":12.33,"rank":408}
+{
+  "title": "Bob Seger",
+  "instanceSlug": "bob-seger",
+  "tags": [
+    {
+      "slug": "hof",
+      "title": "Rock & Roll Hall of Fame Members"
+    },
+    {
+      "slug": "1970s",
+      "title": "Major Artists of the 1970s"
+    },
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "members": [
+  ],
+  "origin": {
+    "title": "Detroit",
+    "instanceSlug": "detroit",
+    "tags": [
+    ],
+    "parents": [
+      "michigan"
+    ],
+    "artists": [
+      {
+        "title": "Spinners",
+        "instanceSlug": "spinners",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "detroit",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Working My Way Back to You",
+            "instanceSlug": 2665,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": "1980-02",
+            "playlists": [
+            ],
+            "ranks": [
+              13,
+              5,
+              1.4,
+              1.67,
+              2.09,
+              2.61,
+              3.26,
+              4.08,
+              5.1,
+              6.37,
+              7.96,
+              9.95,
+              12.44,
+              15.55,
+              19.44,
+              24.3,
+              30.38,
+              37.97,
+              47.46,
+              59.33
+            ],
+            "artists": [
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 1.4,
+            "duration": 5,
+            "score": 19.61,
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Mama Can't Buy You Love",
+            "instanceSlug": 1664,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1979-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "elton-john",
+                "title": "Elton John",
+                "roleSlug": true
+              },
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": "backup"
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Cupid / I've Loved You For a Long Time",
+            "instanceSlug": 1666,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1980-06",
+            "playlists": [
+              {
+                "slug": "remake",
+                "title": "Remakes"
+              },
+              {
+                "slug": "medley",
+                "title": "Medleys"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "I'll Be Around",
+            "instanceSlug": 2660,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1972,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Could It Be I'm Falling in Love",
+            "instanceSlug": 2661,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1973,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "One of a Kind (Love Affair)",
+            "instanceSlug": 2662,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": 1973,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Then Came You",
+            "instanceSlug": 2663,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": 1974,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "dionne-warwick",
+                "title": "Dionne Warwick",
+                "roleSlug": true
+              },
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "The Rubberband Man",
+            "instanceSlug": 2664,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": 1976,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "spinners",
+                "title": "Spinners",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 8
+          }
+        ],
+        "score": 19.61,
+        "songAdjustedAverage": 6.93,
+        "rank": 554
+      },
+      {
+        "title": "Bob Seger",
+        "instanceSlug": "bob-seger",
+        "tags": [
+          "1970s",
+          "1980s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "rock"
+        ],
+        "members": [
+        ],
+        "origin": "detroit",
+        "birth": 1945,
+        "death": "",
+        "complete": false,
+        "type": "m",
+        "songs": [
+          {
+            "title": "Shakedown",
+            "instanceSlug": 949,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-mainstream-rock"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1987-06",
+            "source": "beverly-hills-cop-ii",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              16,
+              10,
+              7,
+              5.4,
+              4.6,
+              4,
+              4.5,
+              5.63,
+              7.03,
+              8.79,
+              10.99,
+              13.73,
+              17.17,
+              21.46,
+              26.82,
+              33.53,
+              41.91,
+              52.39,
+              65.48,
+              81.85
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 4,
+            "duration": 5,
+            "score": 12.16,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Shame on the Moon",
+            "instanceSlug": 366,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1983-01",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              12.5,
+              9.5,
+              7.9,
+              7.2,
+              7,
+              7.8,
+              9.75,
+              12.19,
+              15.23,
+              19.04,
+              23.8,
+              29.75,
+              37.19,
+              46.49,
+              58.11
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 7,
+            "duration": 4,
+            "score": 6.84,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Mainstreet",
+            "instanceSlug": 2600,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": 1977,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Still the Same",
+            "instanceSlug": 2601,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1978-06",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Hollywood Nights",
+            "instanceSlug": 2602,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1978-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "We've Got Tonight",
+            "instanceSlug": 2603,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1978-12",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Old Time Rock & Roll",
+            "instanceSlug": 2604,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1979-05",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Night Moves",
+            "instanceSlug": 2599,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": 1977,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Against the Wind",
+            "instanceSlug": 2606,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1980-05",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "You'll Accompany Me",
+            "instanceSlug": 2607,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1980-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Tryin' to Live My Life Without You",
+            "instanceSlug": 2608,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1981-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Even Now",
+            "instanceSlug": 2609,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1983-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "The Real Love",
+            "instanceSlug": 2610,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1991-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 13
+          },
+          {
+            "title": "Understanding",
+            "instanceSlug": 1767,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1984-12",
+            "source": "teachers",
+            "playlists": [
+            ],
+            "ranks": true,
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 14
+          },
+          {
+            "title": "Fire Lake",
+            "instanceSlug": 2605,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1980-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bob-seger",
+                "title": "Bob Seger",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 15
+          }
+        ],
+        "score": 19,
+        "songAdjustedAverage": 4.91,
+        "rank": 618
+      },
+      {
+        "title": "Four Tops",
+        "instanceSlug": "four-tops",
+        "tags": [
+          "1960s",
+          "1970s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "detroit",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Baby I Need Your Loving",
+            "instanceSlug": 2898,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": 1964,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "I Can't Help Myself",
+            "instanceSlug": 2899,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": 1965,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "It's the Same Old Song",
+            "instanceSlug": 2900,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1965,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Reach Out I'll Be There",
+            "instanceSlug": 2901,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1966,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Standing in the Shadows of Love",
+            "instanceSlug": 2902,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1967,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Bernadette",
+            "instanceSlug": 2903,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1967,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Ain't No Woman (Like the One I've Got)",
+            "instanceSlug": 2904,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": 1973,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-tops",
+                "title": "Four Tops",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 7
+          }
+        ],
+        "score": 0,
+        "songAdjustedAverage": 0,
+        "rank": 1058
+      }
+    ],
+    "score": 38.61,
+    "artistAdjustedAverage": 22.29
+  },
+  "birth": 1945,
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "You'll Accompany Me",
+      "instanceSlug": 2607,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-09",
+      "playlists": [
+        "ballad",
+        "love"
+      ],
+      "ranks": [
+        15,
+        5,
+        1.5,
+        1.61
+      ],
+      "scores": [
+        0.097,
+        0.463,
+        0.864,
+        0.841,
+        0.836,
+        0.826,
+        0.811,
+        0.791,
+        0.766,
+        0.736,
+        0.701,
+        0.661,
+        0.616,
+        0.566,
+        0.511,
+        0.451,
+        0.386,
+        0.316,
+        0.241,
+        0.161,
+        0.076,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 11.716999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Shakedown",
+      "instanceSlug": 949,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-06",
+      "source": "beverly-hills-cop-ii",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        16,
+        10,
+        7,
+        5.4,
+        4.6,
+        4,
+        4.5
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.351,
+        0.437,
+        0.491,
+        0.537,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.25,
+      "score": 6.8199999999999985,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Shame on the Moon",
+      "instanceSlug": 366,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-01",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        12.5,
+        9.5,
+        7.9,
+        7.2,
+        7,
+        7.8
+      ],
+      "scores": [
+        0.036,
+        0.158,
+        0.249,
+        0.311,
+        0.341,
+        0.351,
+        0.315,
+        0.31,
+        0.3,
+        0.285,
+        0.265,
+        0.24,
+        0.21,
+        0.175,
+        0.135,
+        0.09,
+        0.04,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.5,
+      "score": 3.810999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Still the Same",
+      "instanceSlug": 2601,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1978-06",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Hollywood Nights",
+      "instanceSlug": 2602,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1978-09",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "We've Got Tonight",
+      "instanceSlug": 2603,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1978-12",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Old Time Rock & Roll",
+      "instanceSlug": 2604,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1979-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
+    },
+    {
+      "title": "Night Moves",
+      "instanceSlug": 2599,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 8
+    },
+    {
+      "title": "Against the Wind",
+      "instanceSlug": 2606,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 9
+    },
+    {
+      "title": "Understanding",
+      "instanceSlug": 1767,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1984-12",
+      "source": "teachers",
+      "playlists": [
+      ],
+      "ranks": true,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 10
+    },
+    {
+      "title": "Tryin' to Live My Life Without You",
+      "instanceSlug": 2608,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1981-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 11
+    },
+    {
+      "title": "Even Now",
+      "instanceSlug": 2609,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 12
+    },
+    {
+      "title": "The Real Love",
+      "instanceSlug": 2610,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1991-09",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 13
+    },
+    {
+      "title": "Mainstreet",
+      "instanceSlug": 2600,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 14
+    },
+    {
+      "title": "Fire Lake",
+      "instanceSlug": 2605,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 15
+    }
+  ],
+  "score": 22.348,
+  "songCount": 15,
+  "songAdjustedAverage": 5.770228788069557,
+  "rank": 455
+}

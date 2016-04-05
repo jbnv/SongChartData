@@ -1,1 +1,80 @@
-{"title":"Boy Krazy","instanceSlug":"boy-krazy","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"songs":[{"title":"That's What Love Can Do","instanceSlug":2295,"tags":[],"parents":[],"genre":"dance-pop","debut":"1993-03","playlists":[],"ranks":[15,10,6,3.4,2.4,2,2.15,2.74,3.33,4.51,6.28,8.64,11.59,15.13,19.26,23.98,29.29,35.19,41.68,48.76,56.43,64.69,73.54,82.98],"debutRank":15,"peakRank":2,"duration":6,"score":18.8,"genres":["dance-pop"],"role":true,"scoreFactor":1,"rank":1}],"score":18.8,"songAdjustedAverage":18.8,"rank":238}
+{
+  "title": "Boy Krazy",
+  "instanceSlug": "boy-krazy",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "That's What Love Can Do",
+      "instanceSlug": 2295,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1993-03",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        10,
+        6,
+        3.4,
+        2.4,
+        2,
+        2.15,
+        2.74
+      ],
+      "scores": [
+        0.097,
+        0.232,
+        0.402,
+        0.592,
+        0.708,
+        0.768,
+        0.744,
+        0.664,
+        0.659,
+        0.649,
+        0.634,
+        0.614,
+        0.589,
+        0.559,
+        0.524,
+        0.484,
+        0.439,
+        0.389,
+        0.334,
+        0.274,
+        0.209,
+        0.139,
+        0.064,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 6,
+      "score": 10.766999999999996,
+      "genres": [
+        "dance-pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 10.766999999999996,
+  "songCount": 1,
+  "songAdjustedAverage": 10.766999999999996,
+  "rank": 172
+}

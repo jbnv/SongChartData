@@ -1,1 +1,113 @@
-{"title":"Sia","instanceSlug":"sia","tags":[],"parents":[],"genres":[{"slug":"pop","title":"Pop"}],"members":[],"xref":[],"complete":false,"active":true,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Elastic Heart","instanceSlug":3072,"tags":[],"parents":[],"genre":"pop","debut":"2015-07","playlists":[],"ranks":[16,12,8,6,4,4.3,4.9,5.5,6.7,8.5,10.9,13.9,17.5,21.7,26.5,31.9,37.9,44.5,51.7,59.5],"debutRank":16,"peakRank":4,"duration":5,"score":11.81,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Wild Ones","instanceSlug":3064,"tags":[],"parents":[],"genre":"pop","debut":2014,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":2}],"score":11.81,"songAdjustedAverage":8.35,"rank":540}
+{
+  "title": "Sia",
+  "instanceSlug": "sia",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "active": true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Elastic Heart",
+      "instanceSlug": 3072,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2015-07",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        12,
+        8,
+        6,
+        4,
+        4.3,
+        4.9
+      ],
+      "scores": [
+        0.075,
+        0.171,
+        0.306,
+        0.402,
+        0.537,
+        0.513,
+        0.47,
+        0.465,
+        0.455,
+        0.44,
+        0.42,
+        0.395,
+        0.365,
+        0.33,
+        0.29,
+        0.245,
+        0.195,
+        0.14,
+        0.08,
+        0.015,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.25,
+      "score": 6.309000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Wild Ones",
+      "instanceSlug": 3064,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2014,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 6.309000000000001,
+  "songCount": 2,
+  "songAdjustedAverage": 4.461136682505929,
+  "rank": 541
+}

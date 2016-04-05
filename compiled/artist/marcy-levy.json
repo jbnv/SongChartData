@@ -1,1 +1,92 @@
-{"title":"Marcy Levy","instanceSlug":"marcy-levy","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Lay Down Sally","instanceSlug":2008,"tags":[],"parents":[],"genre":"blues","debut":"1978-02","playlists":[],"ranks":[15.5,3,3.4,3.8,4.6,5.8,7.4,9.4,11.8,14.6,17.8,21.4,25.4,29.8,34.6,39.8,45.4,51.4,57.8,64.6],"debutRank":15.5,"peakRank":3,"duration":5,"score":1.1050000000000002,"genres":["blues"],"role":"backup","scoreFactor":0.1,"rank":1},{"title":"Wonderful Tonight","instanceSlug":1844,"tags":[],"parents":[],"genre":"blues","debut":"1978-06","playlists":[],"ranks":[],"genres":["blues"],"role":"backup","scoreFactor":0.1,"score":null,"rank":2}],"score":1.11,"songAdjustedAverage":0.78,"rank":736}
+{
+  "title": "Marcy Levy",
+  "instanceSlug": "marcy-levy",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Lay Down Sally",
+      "instanceSlug": 2008,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "blues",
+      "debut": "1978-02",
+      "playlists": [
+      ],
+      "ranks": [
+        15.5,
+        3,
+        3.4
+      ],
+      "scores": [
+        0.086,
+        0.633,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.086,
+      "duration": 4.5,
+      "score": 0.6799000000000002,
+      "genres": [
+        "blues"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    },
+    {
+      "title": "Wonderful Tonight",
+      "instanceSlug": 1844,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "blues",
+      "debut": "1978-06",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "blues"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 2
+    }
+  ],
+  "score": 0.6799000000000002,
+  "songCount": 2,
+  "songAdjustedAverage": 0.48076190052873374,
+  "rank": 737
+}

@@ -1,1 +1,77 @@
-{"title":"Brenda K. Starr","instanceSlug":"brenda-k-starr","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"I Still Believe","instanceSlug":791,"tags":[],"parents":[],"genre":"pop","debut":"1988-05","playlists":[],"ranks":[17,12,10,8,8.94,9.88,11.76,14.58,18.34,23.04,28.68,35.26,42.78,51.24,60.64,70.98],"debutRank":17,"peakRank":8,"duration":4,"score":4.77,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":4.77,"songAdjustedAverage":4.77,"rank":641}
+{
+  "title": "Brenda K. Starr",
+  "instanceSlug": "brenda-k-starr",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "I Still Believe",
+      "instanceSlug": 791,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1988-05",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        12,
+        10,
+        8,
+        8.94
+      ],
+      "scores": [
+        0.055,
+        0.171,
+        0.232,
+        0.306,
+        0.269,
+        0.264,
+        0.254,
+        0.239,
+        0.219,
+        0.194,
+        0.164,
+        0.129,
+        0.089,
+        0.044,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 3.75,
+      "score": 2.629,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 2.629,
+  "songCount": 1,
+  "songAdjustedAverage": 2.629,
+  "rank": 639
+}

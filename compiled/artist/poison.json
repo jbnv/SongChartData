@@ -1,1 +1,603 @@
-{"title":"Poison","instanceSlug":"poison","tags":[{"slug":"1980s","title":"Major Artists of the 1980s"},{"slug":"1990s","title":"Major Artists of the 1990s"}],"parents":[],"genres":[{"slug":"metal","title":"Metal"}],"members":[],"xref":[],"complete":true,"origin":{"title":"Pennsylvania","instanceSlug":"pennsylvania","tags":[],"parents":["us"],"artists":[{"title":"Poison","instanceSlug":"poison","tags":["1980s","1990s"],"parents":[],"genres":["metal"],"members":[],"xref":[],"complete":true,"origin":"pennsylvania","birth":"","death":"","type":"g","songs":[{"title":"Your Mama Don't Dance","instanceSlug":2647,"tags":[],"parents":[],"genre":"metal","debut":"1989-03","playlists":[],"ranks":[18,12,9,7.3,6.4,6,6.8,8.5,10.63,13.28,16.6,20.75,25.94,32.42,40.53,50.66],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"debutRank":18,"peakRank":6,"duration":4,"score":7.98,"genres":[{"slug":"metal","title":"Metal"}],"rank":1},{"title":"I Won't Forget You","instanceSlug":901,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1987-10","playlists":[],"ranks":[18,14,11,10,9,10.5,13.13,16.41,20.51,25.63,32.04,40.05,50.07,62.58,78.23,97.79],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"debutRank":18,"peakRank":9,"duration":4,"score":3.85,"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":2},{"title":"Every Rose Has Its Thorn","instanceSlug":1303,"tags":["every","rose","thorn"],"parents":[],"genre":"rock-ballad","debut":"1988-11","playlists":[],"ranks":[19,14,11,9.5,10.2,11.7,14.63,18.28,22.85,28.56,35.71,44.63,55.79,69.74,87.17,108.96],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"debutRank":19,"peakRank":9.5,"duration":4,"score":3.4,"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":3},{"title":"Fallen Angel","instanceSlug":552,"tags":[],"parents":[],"genre":"rock-ballad","debut":"1988-08","playlists":[],"ranks":[20,15,12.4,11.2,10.4,10,13,16.9,21.97,28.56,37.13,48.27,62.75,81.57,106.04,137.86],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"debutRank":20,"peakRank":10,"duration":4,"score":3.33,"genres":[{"slug":"rock-ballad","title":"Rock Ballad"}],"rank":4},{"title":"Nothing but a Good Time","instanceSlug":783,"tags":[],"parents":[],"genre":"metal","debut":"1988-05","playlists":[],"ranks":[24,21,18.5,16.6,16,20,25,31.25,39.06,48.83,61.04,76.29],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"debutRank":24,"peakRank":16,"duration":3,"score":0.5,"genres":[{"slug":"metal","title":"Metal"}],"rank":5},{"title":"Talk Dirty to Me","instanceSlug":2646,"tags":[],"parents":[],"genre":"metal","debut":"1987-04","playlists":[],"ranks":[],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"genres":[{"slug":"metal","title":"Metal"}],"rank":6}],"score":19.06,"songAdjustedAverage":7.78,"rank":527}],"score":19.06,"artistAdjustedAverage":19.06},"birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Your Mama Don't Dance","instanceSlug":2647,"tags":[],"parents":[],"genre":"metal","debut":"1989-03","playlists":[],"ranks":[18,12,9,7.3,6.4,6,6.8,7.6,9.2,11.6,14.8,18.8,23.6,29.2,35.6,42.8,50.8,59.6,69.2,79.6],"debutRank":18,"peakRank":6,"duration":5,"score":8.55,"genres":["metal"],"role":true,"scoreFactor":1,"rank":1},{"title":"I Won't Forget You","instanceSlug":901,"tags":[],"parents":[],"genre":"rock","debut":"1987-10","playlists":["ballad"],"ranks":[18,14,11,10,9,10.5,12,15,19.5,25.5,33,42,52.5,64.5,78,93],"debutRank":18,"peakRank":9,"duration":4,"score":4.06,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2},{"title":"Every Rose Has Its Thorn","instanceSlug":1303,"tags":[],"genre":"rock","debut":"1988-11","playlists":["ballad"],"ranks":[19,14,11,9.5,10.2,11.7,13.2,16.2,20.7,26.7,34.2,43.2,53.7,65.7,79.2,94.2],"debutRank":19,"peakRank":9.5,"duration":4,"score":3.62,"genres":["rock"],"role":true,"scoreFactor":1,"rank":3},{"title":"Fallen Angel","instanceSlug":552,"tags":[],"parents":[],"genre":"rock","debut":"1988-08","playlists":["ballad"],"ranks":[20,15,12.4,11.2,10.4,10,13,16,22,31,43,58],"debutRank":20,"peakRank":10,"duration":3,"score":3.38,"genres":["rock"],"role":true,"scoreFactor":1,"rank":4},{"title":"Nothing but a Good Time","instanceSlug":783,"tags":[],"parents":[],"genre":"metal","debut":"1988-05","playlists":[],"ranks":[24,21,18.5,16.6,16,20,24,32,44,60,80,104],"debutRank":24,"peakRank":16,"duration":3,"score":0.5,"genres":["metal"],"role":true,"scoreFactor":1,"rank":5},{"title":"Talk Dirty to Me","instanceSlug":2646,"tags":[],"parents":[],"genre":"metal","debut":"1987-04","playlists":[],"ranks":[],"genres":["metal"],"role":true,"scoreFactor":1,"score":null,"rank":6}],"score":20.11,"songAdjustedAverage":8.21,"rank":545}
+{
+  "title": "Poison",
+  "instanceSlug": "poison",
+  "tags": [
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    },
+    {
+      "slug": "1990s",
+      "title": "Major Artists of the 1990s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "metal",
+      "title": "Metal"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": true,
+  "origin": {
+    "title": "Pennsylvania",
+    "instanceSlug": "pennsylvania",
+    "tags": [
+    ],
+    "parents": [
+      "us"
+    ],
+    "artists": [
+      {
+        "title": "Poison",
+        "instanceSlug": "poison",
+        "tags": [
+          "1980s",
+          "1990s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "metal"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "pennsylvania",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Your Mama Don't Dance",
+            "instanceSlug": 2647,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "metal",
+            "debut": "1989-03",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              12,
+              9,
+              7.3,
+              6.4,
+              6,
+              6.8,
+              8.5,
+              10.63,
+              13.28,
+              16.6,
+              20.75,
+              25.94,
+              32.42,
+              40.53,
+              50.66
+            ],
+            "artists": [
+              {
+                "slug": "poison",
+                "title": "Poison",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 6,
+            "duration": 4,
+            "score": 7.98,
+            "genres": [
+              {
+                "slug": "metal",
+                "title": "Metal"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "I Won't Forget You",
+            "instanceSlug": 901,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1987-10",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              14,
+              11,
+              10,
+              9,
+              10.5,
+              13.13,
+              16.41,
+              20.51,
+              25.63,
+              32.04,
+              40.05,
+              50.07,
+              62.58,
+              78.23,
+              97.79
+            ],
+            "artists": [
+              {
+                "slug": "poison",
+                "title": "Poison",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 9,
+            "duration": 4,
+            "score": 3.85,
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Every Rose Has Its Thorn",
+            "instanceSlug": 1303,
+            "tags": [
+              "every",
+              "rose",
+              "thorn"
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1988-11",
+            "playlists": [
+            ],
+            "ranks": [
+              19,
+              14,
+              11,
+              9.5,
+              10.2,
+              11.7,
+              14.63,
+              18.28,
+              22.85,
+              28.56,
+              35.71,
+              44.63,
+              55.79,
+              69.74,
+              87.17,
+              108.96
+            ],
+            "artists": [
+              {
+                "slug": "poison",
+                "title": "Poison",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 19,
+            "peakRank": 9.5,
+            "duration": 4,
+            "score": 3.4,
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Fallen Angel",
+            "instanceSlug": 552,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock-ballad",
+            "debut": "1988-08",
+            "playlists": [
+            ],
+            "ranks": [
+              20,
+              15,
+              12.4,
+              11.2,
+              10.4,
+              10,
+              13,
+              16.9,
+              21.97,
+              28.56,
+              37.13,
+              48.27,
+              62.75,
+              81.57,
+              106.04,
+              137.86
+            ],
+            "artists": [
+              {
+                "slug": "poison",
+                "title": "Poison",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 20,
+            "peakRank": 10,
+            "duration": 4,
+            "score": 3.33,
+            "genres": [
+              {
+                "slug": "rock-ballad",
+                "title": "Rock Ballad"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Nothing but a Good Time",
+            "instanceSlug": 783,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "metal",
+            "debut": "1988-05",
+            "playlists": [
+            ],
+            "ranks": [
+              24,
+              21,
+              18.5,
+              16.6,
+              16,
+              20,
+              25,
+              31.25,
+              39.06,
+              48.83,
+              61.04,
+              76.29
+            ],
+            "artists": [
+              {
+                "slug": "poison",
+                "title": "Poison",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 24,
+            "peakRank": 16,
+            "duration": 3,
+            "score": 0.5,
+            "genres": [
+              {
+                "slug": "metal",
+                "title": "Metal"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Talk Dirty to Me",
+            "instanceSlug": 2646,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "metal",
+            "debut": "1987-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "poison",
+                "title": "Poison",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "metal",
+                "title": "Metal"
+              }
+            ],
+            "rank": 6
+          }
+        ],
+        "score": 19.06,
+        "songAdjustedAverage": 7.78,
+        "rank": 527
+      }
+    ],
+    "score": 19.06,
+    "artistAdjustedAverage": 19.06
+  },
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Your Mama Don't Dance",
+      "instanceSlug": 2647,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "metal",
+      "debut": "1989-03",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        12,
+        9,
+        7.3,
+        6.4,
+        6,
+        6.8
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.267,
+        0.337,
+        0.381,
+        0.402,
+        0.361,
+        0.356,
+        0.346,
+        0.331,
+        0.311,
+        0.286,
+        0.256,
+        0.221,
+        0.181,
+        0.136,
+        0.086,
+        0.031,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.75,
+      "score": 4.496,
+      "genres": [
+        "metal"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "I Won't Forget You",
+      "instanceSlug": 901,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-10",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        18,
+        14,
+        11,
+        10,
+        9,
+        10.5
+      ],
+      "scores": [
+        0.036,
+        0.12,
+        0.2,
+        0.232,
+        0.267,
+        0.216,
+        0.211,
+        0.201,
+        0.186,
+        0.166,
+        0.141,
+        0.111,
+        0.076,
+        0.036,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 3.75,
+      "score": 2.1990000000000003,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Every Rose Has Its Thorn",
+      "instanceSlug": 1303,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1988-11",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        19,
+        14,
+        11,
+        9.5,
+        10.2,
+        11.7
+      ],
+      "scores": [
+        0.018,
+        0.12,
+        0.2,
+        0.249,
+        0.225,
+        0.18,
+        0.175,
+        0.165,
+        0.15,
+        0.13,
+        0.105,
+        0.075,
+        0.04,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 3.5,
+      "score": 1.832,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Fallen Angel",
+      "instanceSlug": 552,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1988-08",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        20,
+        15,
+        12.4,
+        11.2,
+        10.4,
+        10,
+        13
+      ],
+      "scores": [
+        0.001,
+        0.097,
+        0.16,
+        0.194,
+        0.219,
+        0.232,
+        0.145,
+        0.14,
+        0.13,
+        0.115,
+        0.095,
+        0.07,
+        0.04,
+        0.005,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 3.75,
+      "score": 1.643,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Nothing but a Good Time",
+      "instanceSlug": 783,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "metal",
+      "debut": "1988-05",
+      "playlists": [
+      ],
+      "ranks": [
+        24,
+        21,
+        18.5,
+        16.6,
+        16,
+        20
+      ],
+      "scores": [
+        0.027,
+        0.063,
+        0.075,
+        0.001,
+        0
+      ],
+      "debutScore": 0.027,
+      "peakScore": 0.001,
+      "duration": 1.25,
+      "score": 0.16599999999999998,
+      "genres": [
+        "metal"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "Talk Dirty to Me",
+      "instanceSlug": 2646,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "metal",
+      "debut": "1987-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "metal"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    }
+  ],
+  "score": 10.336000000000002,
+  "songCount": 6,
+  "songAdjustedAverage": 4.21965433023449,
+  "rank": 557
+}

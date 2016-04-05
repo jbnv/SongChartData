@@ -1,1 +1,85 @@
-{"title":"Shaggy","instanceSlug":"shaggy","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"That Girl","instanceSlug":583,"tags":[],"playlists":["summer","sample"],"genre":"pop","debut":"1996-08","ranks":[17.5,6.1,4.4,4.1,4.2,5,5.8,7.4,9.8,13,17,21.8,27.4,33.8,41,49,57.8,67.4,77.8,89],"debutRank":17.5,"peakRank":4.1,"duration":5,"score":10.95,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":10.95,"songAdjustedAverage":10.95,"rank":452}
+{
+  "title": "Shaggy",
+  "instanceSlug": "shaggy",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "That Girl",
+      "instanceSlug": 583,
+      "tags": [
+      ],
+      "playlists": [
+        "summer",
+        "sample"
+      ],
+      "genre": "pop",
+      "debut": "1996-08",
+      "ranks": [
+        17.5,
+        6.1,
+        4.4,
+        4.1,
+        4.2,
+        5
+      ],
+      "scores": [
+        0.045,
+        0.397,
+        0.506,
+        0.529,
+        0.521,
+        0.463,
+        0.458,
+        0.448,
+        0.433,
+        0.413,
+        0.388,
+        0.358,
+        0.323,
+        0.283,
+        0.238,
+        0.188,
+        0.133,
+        0.073,
+        0.008,
+        0
+      ],
+      "debutScore": 0.045,
+      "peakScore": 0.045,
+      "duration": 5,
+      "score": 6.205000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 6.205000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 6.205000000000001,
+  "rank": 430
+}

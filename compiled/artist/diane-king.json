@@ -1,1 +1,89 @@
-{"title":"Diane King","instanceSlug":"diane-king","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Shy Guy","instanceSlug":339,"tags":[],"parents":[],"genre":"pop","debut":"1995-06","playlists":["summer"],"ranks":[17.5,11.5,8.5,7.5,6.5,6.3,6.6,6.9,7.2,8,8.8,10.4,12.8,16,20,24.8,30.4,36.8,44,52],"debutRank":17.5,"peakRank":6.3,"duration":5,"score":11.12,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":11.12,"songAdjustedAverage":11.12,"rank":449}
+{
+  "title": "Diane King",
+  "instanceSlug": "diane-king",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Shy Guy",
+      "instanceSlug": 339,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1995-06",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        17.5,
+        11.5,
+        8.5,
+        7.5,
+        6.5,
+        6.3,
+        6.6,
+        6.9,
+        7.2,
+        8
+      ],
+      "scores": [
+        0.045,
+        0.185,
+        0.286,
+        0.328,
+        0.376,
+        0.386,
+        0.37,
+        0.356,
+        0.341,
+        0.306,
+        0.301,
+        0.291,
+        0.276,
+        0.256,
+        0.231,
+        0.201,
+        0.166,
+        0.126,
+        0.081,
+        0.031,
+        0
+      ],
+      "debutScore": 0.045,
+      "peakScore": 0.045,
+      "duration": 5.25,
+      "score": 4.939000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.939000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 4.939000000000001,
+  "rank": 506
+}

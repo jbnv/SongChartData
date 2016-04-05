@@ -1,1 +1,52 @@
-{"title":"Andrew Donnells","instanceSlug":"andrew-donnells","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Michelle","instanceSlug":1821,"tags":[],"parents":[],"genre":"urban","debut":"1995-01","playlists":[],"ranks":[],"genres":["urban"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1166}
+{
+  "title": "Andrew Donnells",
+  "instanceSlug": "andrew-donnells",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Michelle",
+      "instanceSlug": 1821,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-01",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "urban"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1185
+}

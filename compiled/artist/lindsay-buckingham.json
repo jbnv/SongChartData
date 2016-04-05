@@ -1,1 +1,2878 @@
-{"title":"Lindsey Buckingham","instanceSlug":"lindsay-buckingham","tags":[{"slug":"singer"},{"slug":"guitarist"},{"slug":"songwriter"}],"genres":[{"slug":"rock","title":"Rock"}],"xref":["fleetwood-mac"],"complete":true,"origin":{"title":"California","instanceSlug":"california","tags":[],"parents":["us"],"artists":[{"title":"Paula Abdul","instanceSlug":"paula-abdul","tags":["1980s","1990s"],"parents":[],"genres":["dance"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"f","songs":[{"title":"The Way That You Love Me","instanceSlug":299,"tags":["love","me","way","you","you-and-me"],"parents":[],"genre":"dance","debut":"1989-10","playlists":[],"ranks":[12,3.2,1.05,1.13,1.23,1.34,1.46,1.59,1.78,2.23,2.78,3.48,4.35,5.43,6.79,8.49,10.61,13.26,16.58,20.72,25.9,32.38,40.47,50.59],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":12,"peakRank":1.05,"duration":6,"score":33.22,"genres":[{"slug":"dance","title":"Dance"}],"rank":1},{"title":"Vibeology","instanceSlug":2060,"tags":[],"parents":[],"genre":"dance","debut":"1992-02","playlists":[],"ranks":[10,1.8,1.3,1.1,1.24,1.55,1.94,2.42,3.03,3.78,4.73,5.91,7.39,9.24,11.55,14.44,18.04,22.56,28.19,35.24,44.05,55.07,68.83,86.04],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":10,"peakRank":1.1,"duration":6,"score":27.55,"genres":[{"slug":"dance","title":"Dance"}],"rank":2},{"title":"Blowing Kisses in the Wind","instanceSlug":259,"tags":["kiss","this-in-that","wind"],"parents":[],"genre":"adult-contemporary","debut":"1991-11","ranks":[14,6,2.5,1.75,1.5,1.62,1.8,2.25,2.81,3.52,4.39,5.49,6.87,8.58,10.73,13.41,16.76,20.95,26.19,32.74,40.93,51.16,63.95,79.94],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":14,"peakRank":1.5,"duration":6,"score":25.47,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"playlists":[],"rank":3},{"title":"Crazycool","instanceSlug":298,"tags":["cool","crazy"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[18,10,4,3.2,2.8,3,3.3,3.6,3.9,4.4,5.5,6.88,8.59,10.74,13.43,16.78,20.98,26.23,32.78,40.98,51.22,64.03,80.04,100.04],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":18,"peakRank":2.8,"duration":6,"score":19.24,"genres":[{"slug":"pop","title":"Pop"}],"rank":4},{"title":"Opposites Attract","instanceSlug":1331,"tags":["attract","opposite"],"parents":[],"genre":"dance","debut":"1990-01","playlists":[],"ranks":[14,6,4,2.9,2.5,2.9,3.63,4.53,5.66,7.08,8.85,11.06,13.83,17.29,21.61,27.01,33.76,42.2,52.75,65.94],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true},{"slug":"the-wild-pair"}],"debutRank":14,"peakRank":2.5,"duration":5,"score":16.59,"genres":[{"slug":"dance","title":"Dance"}],"rank":5},{"title":"Rush Rush","instanceSlug":258,"tags":["double-word","songs-of-summer"],"parents":[],"genre":"adult-contemporary","debut":"1991-05","ranks":[13.7,7.7,4.2,2.3,2.5,2.9,3.63,4.53,5.66,7.08,8.85,11.06,13.83,17.29,21.61,27.01,33.76,42.2,52.75,65.94],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":13.7,"peakRank":2.3,"duration":5,"score":16.54,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"playlists":[],"rank":6},{"title":"The Promise of a New Day","instanceSlug":952,"tags":["","this-of-that"],"parents":[],"genre":"pop","debut":"1991-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12.2,3.3,2.5,2.7,2.95,3.4,4.25,5.31,6.64,8.3,10.38,12.97,16.21,20.27,25.33,31.66,39.58,49.48,61.85,77.31],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":12.2,"peakRank":2.5,"duration":5,"score":16.28,"genres":[{"slug":"pop","title":"Pop"}],"rank":7},{"title":"Knocked Out","instanceSlug":808,"tags":["knock","out"],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[11,5.9,3.2,1.7,1.9,2.7,3.84,5.45,7.75,11.01,15.65,22.23,31.6,44.9,63.81,90.67],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":11,"peakRank":1.7,"duration":4,"score":15.26,"genres":[{"slug":"pop","title":"Pop"}],"rank":8},{"title":"Will You Marry Me","instanceSlug":1653,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1992-05","playlists":[],"ranks":[17,11,8,6,5.2,4.9,5.3,5.9,7.38,9.22,11.52,14.4,18.01,22.51,28.13,35.17,43.96,54.95,68.69,85.86],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":17,"peakRank":4.9,"duration":5,"score":10.99,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":9},{"title":"Forever Your Girl","instanceSlug":426,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"dance","debut":"1989-04","playlists":[],"ranks":[16,11.5,5.2,4.7,4.9,5.45,6.81,8.52,10.64,13.31,16.63,20.79,25.99,32.48,40.61,50.76],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":16,"peakRank":4.7,"duration":4,"score":9.48,"genres":[{"slug":"dance","title":"Dance"}],"rank":10},{"title":"Straight Up","instanceSlug":319,"tags":[],"parents":[],"genre":"pop","debut":"1989-01","playlists":[],"ranks":[17.6,8.6,6.6,5.9,6.1,6.8,8.5,10.63,13.28,16.6,20.75,25.94,32.42,40.53,50.66,63.33],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":17.6,"peakRank":5.9,"duration":4,"score":7.69,"genres":[{"slug":"pop","title":"Pop"}],"rank":11},{"title":"Cold Hearted","instanceSlug":1,"playlists":[{"slug":"cold"}],"parents":[],"genre":"pop","debut":"1989-07","ranks":[20,12,9,7.2,6.9,7.4,8.1,10.13,12.66,15.82,19.78,24.72,30.9,38.62,48.28,60.35],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":20,"peakRank":6.9,"duration":4,"score":6.72,"genres":[{"slug":"pop","title":"Pop"}],"rank":12},{"title":"My Love Is For Real","instanceSlug":2061,"tags":[],"parents":[],"genre":"pop","debut":"1995-07","playlists":[],"ranks":[],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":13},{"title":"State of Attraction","instanceSlug":1332,"tags":["attract","state"],"parents":[],"genre":"pop","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":14}],"score":205.03,"songAdjustedAverage":54.8,"rank":4},{"title":"Huey Lewis & the News","instanceSlug":"huey-lewis-the-news","tags":[],"parents":[],"genres":["rock"],"members":[],"complete":true,"origin":"california","birth":"","death":"","type":"g","songs":[{"title":"If This Is It","instanceSlug":98,"tags":["if","this"],"parents":[],"genre":"rock","debut":"1984-08","ranks":[13.9,6.9,3.4,1.6,1,1.27,1.61,2.05,2.6,3.3,4.2,5.33,6.77,8.59,10.92,13.86,17.61,22.36,28.4,36.06,45.8,58.17,73.87,93.81],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":13.9,"peakRank":1,"duration":6,"score":26.1,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"rank":1},{"title":"I Know What I Like","instanceSlug":1985,"tags":[],"parents":[],"genre":"rock","debut":"1987-04","playlists":[],"ranks":[15,8,4,2.2,1.9,1.6,1.95,2.44,3.05,3.81,4.76,5.95,7.44,9.3,11.62,14.53,18.16,22.7,28.38,35.47,44.34,55.42,69.28,86.6],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":15,"peakRank":1.6,"duration":6,"score":23.3,"genres":[{"slug":"rock","title":"Rock"}],"rank":2},{"title":"The Power of Love","instanceSlug":1983,"tags":[],"parents":[],"genre":"rock","debut":"1985-07","playlists":[],"ranks":[16,10,6,4,3.4,2.9,2.5,2.75,3.21,4.01,5.02,6.27,7.84,9.8,12.25,15.31,19.13,23.92,29.9,37.37,46.71,58.39,72.99,91.23],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":6,"score":20,"genres":[{"slug":"rock","title":"Rock"}],"rank":3},{"title":"I Want a New Drug","instanceSlug":419,"tags":["drug","i","i-want","new","want"],"parents":[],"genre":"rock","debut":"1984-02","playlists":[],"ranks":[15,8.7,4.7,4.1,3.5,3.2,3.4,3.92,4.9,6.13,7.66,9.57,11.96,14.95,18.69,23.37,29.21,36.51,45.63,57.04],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":15,"peakRank":3.2,"duration":5,"score":16.35,"genres":[{"slug":"rock","title":"Rock"}],"rank":4},{"title":"The Heart of Rock & Roll","instanceSlug":1046,"tags":["heart","rock-and-roll","this-of-that"],"parents":[],"genre":"rock","debut":"1984-05","playlists":[],"ranks":[16,10,7,5.5,5.2,5.3,5.4,5.8,6.5,7.8,9.75,12.19,15.23,19.04,23.8,29.75,37.19,46.49,58.11,72.64],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":16,"peakRank":5.2,"duration":5,"score":12.14,"genres":[{"slug":"rock","title":"Rock"}],"rank":5},{"title":"Stuck with You","instanceSlug":295,"tags":[],"parents":[],"genre":"rock","debut":"1986-08","playlists":[],"ranks":[17.9,10.6,6.2,5.5,6.5,8.13,10.16,12.7,15.87,19.84,24.8,30.99,38.74,48.43,60.54,75.67],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":17.9,"peakRank":5.5,"duration":4,"score":6.65,"genres":[{"slug":"rock","title":"Rock"}],"rank":6},{"title":"Hip to Be Square","instanceSlug":628,"tags":[],"parents":[],"genre":"rock","debut":"1986-11","playlists":[],"ranks":[17,11.8,7,6.5,7.2,8.1,10.13,12.66,15.82,19.78,24.72,30.9,38.62,48.28,60.35,75.44],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":17,"peakRank":6.5,"duration":4,"score":6.22,"genres":[{"slug":"rock","title":"Rock"}],"rank":7},{"title":"Perfect World","instanceSlug":1987,"tags":[],"parents":[],"genre":"pop","debut":"1988-08","playlists":[],"ranks":[24,18,15,12,13.3,14.9,18.63,23.28,29.1,36.38,45.47,56.84],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":24,"peakRank":12,"duration":3,"score":1.7,"genres":[{"slug":"pop","title":"Pop"}],"rank":8},{"title":"Couple Days Off","instanceSlug":1988,"tags":[],"parents":[],"genre":"rock","debut":"1991-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":9},{"title":"Walking on a Thin Line","instanceSlug":1982,"tags":[],"parents":[],"genre":"rock","debut":"1984-11","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":10},{"title":"Jacob's Ladder","instanceSlug":1984,"tags":[],"parents":[],"genre":"pop","debut":"1987-02","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":11},{"title":"It's Alright","instanceSlug":1989,"tags":[],"parents":[],"genre":"pop","debut":"1993-09","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":12},{"title":"Heart & Soul","instanceSlug":1981,"tags":[],"parents":[],"genre":"rock","debut":"1983-10","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":13},{"title":"Do You Believe in Love","instanceSlug":1980,"tags":[],"parents":[],"genre":"rock","debut":"1982-03","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":14},{"title":"Doing It All for My Baby","instanceSlug":1120,"tags":["baby","doing","do-it","","this-for-that"],"parents":[],"genre":"rock","debut":1987,"playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":15},{"title":"Doing It All For My Baby","instanceSlug":1986,"tags":[],"parents":[],"genre":"rock","debut":"1987-08","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":16}],"score":112.46,"songAdjustedAverage":28.12,"rank":52},{"title":"Timex Social Club","instanceSlug":"timex-social-club","tags":[],"parents":[],"genres":["funk"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"g","songs":[{"title":"Rumors","instanceSlug":285,"tags":["#1","#1-r&b","songs-of-summer"],"parents":[],"genre":"funk","debut":"1986-07","playlists":[],"ranks":[12,3,1,1.08,1.29,1.61,2.02,2.52,3.15,3.94,4.92,6.15,7.69,9.61,12.01,15.02,18.77,23.46,29.33,36.66,45.83,57.29,71.61,89.51],"artists":[{"slug":"timex-social-club","title":"Timex Social Club","roleSlug":true}],"debutRank":12,"peakRank":1,"duration":6,"score":26.62,"genres":[{"slug":"funk","title":"Funk"}],"rank":1}],"score":26.62,"songAdjustedAverage":26.62,"rank":64},{"title":"Eddie Van Halen","instanceSlug":"eddie-van-halen","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"california","birth":"","death":"","songs":[{"title":"Beat It","instanceSlug":83,"tags":["#1","#1-hot-100","#1-r&b"],"source":"thriller","genre":"pop","debut":"1983-04","ranks":[13.2,4,1.08,1.19,1.49,1.86,2.32,2.91,3.63,4.54,5.67,7.09,8.87,11.08,13.85,17.32,21.65,27.06,33.82,42.28,52.85,66.06,82.57,103.22],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"eddie-van-halen","title":"Eddie Van Halen","roleSlug":"backup"}],"debutRank":13.2,"peakRank":1.08,"duration":6,"score":24.29,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":1}],"score":24.29,"songAdjustedAverage":24.29,"rank":90},{"title":"Steve Perry","instanceSlug":"steve-perry","tags":[],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"m","songs":[{"title":"Foolish Heart","instanceSlug":1764,"tags":[],"parents":[],"genre":"pop","debut":"1985-01","playlists":[],"ranks":[14,6,4.1,3.1,2.7,3,3.3,3.9,4.88,6.09,7.62,9.52,11.9,14.88,18.6,23.25,29.06,36.32,45.4,56.75],"artists":[{"slug":"steve-perry","title":"Steve Perry","roleSlug":true}],"debutRank":14,"peakRank":2.7,"duration":5,"score":17.6,"genres":[{"slug":"pop","title":"Pop"}],"rank":1},{"title":"Oh Sherry","instanceSlug":666,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":1984,"playlists":[{"slug":"women"}],"ranks":[13,7.1,3.9,2.3,2.4,2.7,3.38,4.22,5.27,6.59,8.24,10.3,12.87,16.09,20.12,25.15,31.43,39.29,49.11,61.39],"artists":[{"slug":"steve-perry","title":"Steve Perry","roleSlug":true}],"debutRank":13,"peakRank":2.3,"duration":5,"score":17.43,"genres":[{"slug":"rock","title":"Rock"}],"rank":2},{"title":"You Better Wait","instanceSlug":469,"tags":[],"parents":[],"genre":"rock","debut":"1994-08","playlists":[],"ranks":[15.9,9.2,7.2,5.3,5.1,6.5,8.28,10.56,13.46,17.15,21.86,27.86,35.51,45.25,57.68,73.51],"artists":[{"slug":"steve-perry","title":"Steve Perry","roleSlug":true}],"debutRank":15.9,"peakRank":5.1,"duration":4,"score":7.96,"genres":[{"slug":"rock","title":"Rock"}],"rank":3},{"title":"Don't Fight It","instanceSlug":2030,"tags":[],"parents":[],"genre":"rock","debut":"1982-10","playlists":[],"ranks":[],"artists":[{"slug":"kenny-loggins","title":"Kenny Loggins","roleSlug":true},{"slug":"steve-perry","title":"Steve Perry","roleSlug":"feature"}],"genres":[{"slug":"rock","title":"Rock"}],"rank":4}],"score":42.99,"songAdjustedAverage":21.5,"rank":137},{"title":"Timmy T","instanceSlug":"timmy-t","tags":[],"parents":[],"genres":["dance-pop"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"m","songs":[{"title":"One More Try","instanceSlug":511,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1991-02","playlists":[],"ranks":[15.9,4.6,2.4,1.8,1.95,2.29,2.86,3.58,4.47,5.59,6.99,8.74,10.92,13.65,17.06,21.33,26.66,33.32,41.65,52.07],"artists":[{"slug":"timmy-t","title":"Timmy T","roleSlug":true}],"debutRank":15.9,"peakRank":1.8,"duration":5,"score":20.25,"genres":[{"slug":"pop","title":"Pop"}],"rank":1},{"title":"Time After Time","instanceSlug":2255,"tags":[],"parents":[],"genre":"dance-pop","debut":"1990-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[18,10,7,5.9,5.7,6.5,8.13,10.16,12.7,15.87,19.84,24.8,30.99,38.74,48.43,60.54],"artists":[{"slug":"timmy-t","title":"Timmy T","roleSlug":true}],"debutRank":18,"peakRank":5.7,"duration":4,"score":7.77,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":2}],"score":28.02,"songAdjustedAverage":19.81,"rank":182},{"title":"Times Two","instanceSlug":"times-two","tags":[],"parents":[],"genres":["electro-pop"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"g","songs":[{"title":"Strange But True","instanceSlug":132,"tags":["strange","true"],"parents":[],"genre":"pop","debut":"1988-05","ranks":[16.5,9.6,5.6,6.7,9.8,14.5,21.4,31.5,46.3,68.2,100.4,147.8],"artists":[{"slug":"times-two","title":"Times Two","roleSlug":true}],"debutRank":16.5,"peakRank":5.6,"duration":3,"score":4.35,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":1}],"score":4.35,"songAdjustedAverage":4.35,"rank":634},{"title":"Giuffria","instanceSlug":"giuffria","tags":[],"parents":[],"genres":["rock"],"members":[],"complete":true,"origin":"california","birth":"","death":"","type":"g","songs":[],"score":0,"rank":711},{"title":"Poco","instanceSlug":"poco","tags":[],"parents":[],"genres":["country-rock"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"g","songs":[{"title":"Crazy Love","instanceSlug":118,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1979-02","ranks":[],"artists":[{"slug":"poco","title":"Poco","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"playlists":[],"rank":1},{"title":"Heart of the Night","instanceSlug":2640,"tags":[],"parents":[],"genre":"pop","debut":"1979-07","playlists":[],"ranks":[],"artists":[{"slug":"poco","title":"Poco","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":2},{"title":"Call it Love","instanceSlug":2641,"tags":[],"parents":[],"genre":"pop","debut":"1989-10","playlists":[],"ranks":[],"artists":[{"slug":"poco","title":"Poco","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":3}],"score":0,"songAdjustedAverage":0,"rank":832}],"score":443.76,"artistAdjustedAverage":147.92},"birth":"1949-10","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Go Insane","instanceSlug":432,"tags":[],"genre":"pop","debut":"1984-09","playlists":["feb13"],"ranks":[17,4.7,2.4,2.49,2.65,2.85,3.15,3.45,4.05,4.95,6.15,7.65,9.45,11.55,13.95,16.65,19.65,22.95,26.55,30.45,34.65,39.15,43.95,49.05,54.45,60.15,66.15,72.45],"debutRank":17,"peakRank":2.4,"duration":7,"score":20.46,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Big Love","instanceSlug":862,"tags":[],"genre":"rock","debut":"1987-04","playlists":[],"ranks":[15.9,4.8,2.7,2.5,2.45,2.52,2.79,3.1,3.41,4.03,4.96,6.2,7.75,9.61,11.78,14.26,17.05,20.15,23.56,27.28,31.31,35.65,40.3,45.26,50.53,56.11,62,68.2],"debutRank":15.9,"peakRank":2.45,"duration":7,"score":16.845,"genres":["rock"],"role":"lead","scoreFactor":0.75,"rank":2},{"title":"Go Your Own Way","instanceSlug":2745,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[15,9,6.5,5.1,4.5,4.47,4.61,4.93,5.25,5.89,6.85,8.13,9.73,11.65,13.89,16.45,19.33,22.53,26.05,29.89,34.05,38.53,43.33,48.45,53.89,59.65,65.73,72.13],"debutRank":15,"peakRank":4.47,"duration":7,"score":11.9175,"genres":["rock"],"role":"lead","scoreFactor":0.75,"rank":3},{"title":"Trouble","instanceSlug":1538,"tags":[],"genre":"pop","debut":"1981-12","playlists":[],"ranks":[19,11,9,7,6,6.5,7.1,7.7,8.9,10.7,13.1,16.1,19.7,23.9,28.7,34.1,40.1,46.7,53.9,61.7],"debutRank":19,"peakRank":6,"duration":5,"score":8.96,"genres":["pop"],"role":true,"scoreFactor":1,"rank":4},{"title":"Hold Me","instanceSlug":2750,"tags":[],"genre":"rock","debut":"1982-07","playlists":[],"ranks":[19,10,7.5,5.5,5,5.4,5.8,6.6,7.8,9.4,11.4,13.8,16.6,19.8,23.4,27.4,31.8,36.6,41.8,47.4,53.4,59.8,66.6,73.8],"debutRank":19,"peakRank":5,"duration":6,"score":8.205,"genres":["rock"],"role":"lead","scoreFactor":0.75,"rank":5},{"title":"Don't Stop","instanceSlug":2746,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[18,11,9,7,7.1,7.8,8.5,9.9,12,14.8,18.3,22.5,27.4,33,39.3,46.3,54,62.4,71.5,81.3],"debutRank":18,"peakRank":7,"duration":5,"score":5.28,"genres":["rock"],"role":"lead","scoreFactor":0.75,"rank":6},{"title":"Little Lies","instanceSlug":152,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1987-09","ranks":[15,9,6,4.4,3.6,3.1,3.45,3.8,4.5,5.55,6.95,8.7,10.8,13.25,16.05,19.2,22.7,26.55,30.75,35.3,40.2,45.45,51.05,57],"debutRank":15,"peakRank":3.1,"duration":6,"score":4.205,"genres":["pop"],"role":"member","scoreFactor":0.25,"rank":7},{"title":"Rhiannon (Will You Ever Win)","instanceSlug":2744,"tags":[],"genre":"rock","debut":1976,"playlists":[],"ranks":[20,15,10,9,8,8.5,9.2,9.9,11.3,13.4,16.2,19.7,23.9,28.8,34.4,40.7,47.7,55.4,63.8,72.9],"debutRank":20,"peakRank":8,"duration":5,"score":1.57,"genres":["rock"],"role":"member","scoreFactor":0.25,"rank":8},{"title":"Seven Wonders","instanceSlug":863,"tags":[],"parents":[],"genre":"pop","debut":"1987-07","playlists":[],"ranks":[17.9,10.6,6.2,6.6,7.9,9.2,11.8,15.7,20.9,27.4,35.2,44.3,54.7,66.4,79.4,93.7],"debutRank":17.9,"peakRank":6.2,"duration":4,"score":1.3825,"genres":["pop"],"role":"member","scoreFactor":0.25,"rank":9},{"title":"Tusk","instanceSlug":"tusk","tags":[],"debut":"1979-10","playlists":[],"ranks":[25,15,13,11,12,13,15,18,22,27,33,40,48,57,67,78],"debutRank":25,"peakRank":11,"duration":4,"score":0.67,"role":"member","scoreFactor":0.25,"rank":10},{"title":"Save Me","instanceSlug":2751,"tags":[],"parents":[],"genre":"pop","debut":"1990-05","playlists":[],"ranks":[],"genres":["pop"],"role":"member","scoreFactor":0.25,"score":null,"rank":11},{"title":"Sara","instanceSlug":2748,"tags":[],"parents":[],"genre":"rock","debut":"1980-01","playlists":[],"ranks":[],"genres":["rock"],"role":"member","scoreFactor":0.25,"score":null,"rank":12},{"title":"Gypsy","instanceSlug":678,"tags":[],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[],"genres":["pop"],"role":"member","scoreFactor":0.25,"score":null,"rank":13},{"title":"You Make Loving Fun","instanceSlug":2747,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"genres":["rock"],"role":"member","scoreFactor":0.25,"score":null,"rank":14},{"title":"Over My Head","instanceSlug":2743,"tags":[],"parents":[],"genre":"pop","debut":1976,"playlists":[],"ranks":[],"genres":["pop"],"role":"member","scoreFactor":0.25,"score":null,"rank":15},{"title":"Think About Me","instanceSlug":2749,"tags":[],"parents":[],"genre":"rock","debut":"1980-04","playlists":[],"ranks":[],"genres":["rock"],"role":"member","scoreFactor":0.25,"score":null,"rank":16}],"score":79.49,"songAdjustedAverage":19.87,"rank":205}
+{
+  "title": "Lindsey Buckingham",
+  "instanceSlug": "lindsay-buckingham",
+  "tags": [
+    {
+      "slug": "singer"
+    },
+    {
+      "slug": "guitarist"
+    },
+    {
+      "slug": "songwriter"
+    }
+  ],
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "xref": [
+    "fleetwood-mac"
+  ],
+  "complete": true,
+  "origin": {
+    "title": "California",
+    "instanceSlug": "california",
+    "tags": [
+    ],
+    "parents": [
+      "us"
+    ],
+    "artists": [
+      {
+        "title": "Paula Abdul",
+        "instanceSlug": "paula-abdul",
+        "tags": [
+          "1980s",
+          "1990s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "dance"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "f",
+        "songs": [
+          {
+            "title": "The Way That You Love Me",
+            "instanceSlug": 299,
+            "tags": [
+              "love",
+              "me",
+              "way",
+              "you",
+              "you-and-me"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1989-10",
+            "playlists": [
+            ],
+            "ranks": [
+              12,
+              3.2,
+              1.05,
+              1.13,
+              1.23,
+              1.34,
+              1.46,
+              1.59,
+              1.78,
+              2.23,
+              2.78,
+              3.48,
+              4.35,
+              5.43,
+              6.79,
+              8.49,
+              10.61,
+              13.26,
+              16.58,
+              20.72,
+              25.9,
+              32.38,
+              40.47,
+              50.59
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1.05,
+            "duration": 6,
+            "score": 33.22,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Vibeology",
+            "instanceSlug": 2060,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1992-02",
+            "playlists": [
+            ],
+            "ranks": [
+              10,
+              1.8,
+              1.3,
+              1.1,
+              1.24,
+              1.55,
+              1.94,
+              2.42,
+              3.03,
+              3.78,
+              4.73,
+              5.91,
+              7.39,
+              9.24,
+              11.55,
+              14.44,
+              18.04,
+              22.56,
+              28.19,
+              35.24,
+              44.05,
+              55.07,
+              68.83,
+              86.04
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 10,
+            "peakRank": 1.1,
+            "duration": 6,
+            "score": 27.55,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Blowing Kisses in the Wind",
+            "instanceSlug": 259,
+            "tags": [
+              "kiss",
+              "this-in-that",
+              "wind"
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1991-11",
+            "ranks": [
+              14,
+              6,
+              2.5,
+              1.75,
+              1.5,
+              1.62,
+              1.8,
+              2.25,
+              2.81,
+              3.52,
+              4.39,
+              5.49,
+              6.87,
+              8.58,
+              10.73,
+              13.41,
+              16.76,
+              20.95,
+              26.19,
+              32.74,
+              40.93,
+              51.16,
+              63.95,
+              79.94
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 1.5,
+            "duration": 6,
+            "score": 25.47,
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Crazycool",
+            "instanceSlug": 298,
+            "tags": [
+              "cool",
+              "crazy"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1995-09",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              10,
+              4,
+              3.2,
+              2.8,
+              3,
+              3.3,
+              3.6,
+              3.9,
+              4.4,
+              5.5,
+              6.88,
+              8.59,
+              10.74,
+              13.43,
+              16.78,
+              20.98,
+              26.23,
+              32.78,
+              40.98,
+              51.22,
+              64.03,
+              80.04,
+              100.04
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 2.8,
+            "duration": 6,
+            "score": 19.24,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Opposites Attract",
+            "instanceSlug": 1331,
+            "tags": [
+              "attract",
+              "opposite"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1990-01",
+            "playlists": [
+            ],
+            "ranks": [
+              14,
+              6,
+              4,
+              2.9,
+              2.5,
+              2.9,
+              3.63,
+              4.53,
+              5.66,
+              7.08,
+              8.85,
+              11.06,
+              13.83,
+              17.29,
+              21.61,
+              27.01,
+              33.76,
+              42.2,
+              52.75,
+              65.94
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              },
+              {
+                "slug": "the-wild-pair"
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 2.5,
+            "duration": 5,
+            "score": 16.59,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Rush Rush",
+            "instanceSlug": 258,
+            "tags": [
+              "double-word",
+              "songs-of-summer"
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1991-05",
+            "ranks": [
+              13.7,
+              7.7,
+              4.2,
+              2.3,
+              2.5,
+              2.9,
+              3.63,
+              4.53,
+              5.66,
+              7.08,
+              8.85,
+              11.06,
+              13.83,
+              17.29,
+              21.61,
+              27.01,
+              33.76,
+              42.2,
+              52.75,
+              65.94
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13.7,
+            "peakRank": 2.3,
+            "duration": 5,
+            "score": 16.54,
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 6
+          },
+          {
+            "title": "The Promise of a New Day",
+            "instanceSlug": 952,
+            "tags": [
+              "",
+              "this-of-that"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1991-08",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              12.2,
+              3.3,
+              2.5,
+              2.7,
+              2.95,
+              3.4,
+              4.25,
+              5.31,
+              6.64,
+              8.3,
+              10.38,
+              12.97,
+              16.21,
+              20.27,
+              25.33,
+              31.66,
+              39.58,
+              49.48,
+              61.85,
+              77.31
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12.2,
+            "peakRank": 2.5,
+            "duration": 5,
+            "score": 16.28,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Knocked Out",
+            "instanceSlug": 808,
+            "tags": [
+              "knock",
+              "out"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 1990,
+            "playlists": [
+            ],
+            "ranks": [
+              11,
+              5.9,
+              3.2,
+              1.7,
+              1.9,
+              2.7,
+              3.84,
+              5.45,
+              7.75,
+              11.01,
+              15.65,
+              22.23,
+              31.6,
+              44.9,
+              63.81,
+              90.67
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 11,
+            "peakRank": 1.7,
+            "duration": 4,
+            "score": 15.26,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Will You Marry Me",
+            "instanceSlug": 1653,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1992-05",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              11,
+              8,
+              6,
+              5.2,
+              4.9,
+              5.3,
+              5.9,
+              7.38,
+              9.22,
+              11.52,
+              14.4,
+              18.01,
+              22.51,
+              28.13,
+              35.17,
+              43.96,
+              54.95,
+              68.69,
+              85.86
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 4.9,
+            "duration": 5,
+            "score": 10.99,
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "Forever Your Girl",
+            "instanceSlug": 426,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "songs-of-summer"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1989-04",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              11.5,
+              5.2,
+              4.7,
+              4.9,
+              5.45,
+              6.81,
+              8.52,
+              10.64,
+              13.31,
+              16.63,
+              20.79,
+              25.99,
+              32.48,
+              40.61,
+              50.76
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 4.7,
+            "duration": 4,
+            "score": 9.48,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Straight Up",
+            "instanceSlug": 319,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1989-01",
+            "playlists": [
+            ],
+            "ranks": [
+              17.6,
+              8.6,
+              6.6,
+              5.9,
+              6.1,
+              6.8,
+              8.5,
+              10.63,
+              13.28,
+              16.6,
+              20.75,
+              25.94,
+              32.42,
+              40.53,
+              50.66,
+              63.33
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17.6,
+            "peakRank": 5.9,
+            "duration": 4,
+            "score": 7.69,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Cold Hearted",
+            "instanceSlug": 1,
+            "playlists": [
+              {
+                "slug": "cold"
+              }
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1989-07",
+            "ranks": [
+              20,
+              12,
+              9,
+              7.2,
+              6.9,
+              7.4,
+              8.1,
+              10.13,
+              12.66,
+              15.82,
+              19.78,
+              24.72,
+              30.9,
+              38.62,
+              48.28,
+              60.35
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 20,
+            "peakRank": 6.9,
+            "duration": 4,
+            "score": 6.72,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "My Love Is For Real",
+            "instanceSlug": 2061,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1995-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 13
+          },
+          {
+            "title": "State of Attraction",
+            "instanceSlug": 1332,
+            "tags": [
+              "attract",
+              "state"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1980s",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "paula-abdul",
+                "title": "Paula Abdul",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 14
+          }
+        ],
+        "score": 205.03,
+        "songAdjustedAverage": 54.8,
+        "rank": 4
+      },
+      {
+        "title": "Huey Lewis & the News",
+        "instanceSlug": "huey-lewis-the-news",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "rock"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "If This Is It",
+            "instanceSlug": 98,
+            "tags": [
+              "if",
+              "this"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-08",
+            "ranks": [
+              13.9,
+              6.9,
+              3.4,
+              1.6,
+              1,
+              1.27,
+              1.61,
+              2.05,
+              2.6,
+              3.3,
+              4.2,
+              5.33,
+              6.77,
+              8.59,
+              10.92,
+              13.86,
+              17.61,
+              22.36,
+              28.4,
+              36.06,
+              45.8,
+              58.17,
+              73.87,
+              93.81
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13.9,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 26.1,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 1
+          },
+          {
+            "title": "I Know What I Like",
+            "instanceSlug": 1985,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1987-04",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              8,
+              4,
+              2.2,
+              1.9,
+              1.6,
+              1.95,
+              2.44,
+              3.05,
+              3.81,
+              4.76,
+              5.95,
+              7.44,
+              9.3,
+              11.62,
+              14.53,
+              18.16,
+              22.7,
+              28.38,
+              35.47,
+              44.34,
+              55.42,
+              69.28,
+              86.6
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 1.6,
+            "duration": 6,
+            "score": 23.3,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "The Power of Love",
+            "instanceSlug": 1983,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1985-07",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              10,
+              6,
+              4,
+              3.4,
+              2.9,
+              2.5,
+              2.75,
+              3.21,
+              4.01,
+              5.02,
+              6.27,
+              7.84,
+              9.8,
+              12.25,
+              15.31,
+              19.13,
+              23.92,
+              29.9,
+              37.37,
+              46.71,
+              58.39,
+              72.99,
+              91.23
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 2.5,
+            "duration": 6,
+            "score": 20,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "I Want a New Drug",
+            "instanceSlug": 419,
+            "tags": [
+              "drug",
+              "i",
+              "i-want",
+              "new",
+              "want"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-02",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              8.7,
+              4.7,
+              4.1,
+              3.5,
+              3.2,
+              3.4,
+              3.92,
+              4.9,
+              6.13,
+              7.66,
+              9.57,
+              11.96,
+              14.95,
+              18.69,
+              23.37,
+              29.21,
+              36.51,
+              45.63,
+              57.04
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 3.2,
+            "duration": 5,
+            "score": 16.35,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "The Heart of Rock & Roll",
+            "instanceSlug": 1046,
+            "tags": [
+              "heart",
+              "rock-and-roll",
+              "this-of-that"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-05",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              10,
+              7,
+              5.5,
+              5.2,
+              5.3,
+              5.4,
+              5.8,
+              6.5,
+              7.8,
+              9.75,
+              12.19,
+              15.23,
+              19.04,
+              23.8,
+              29.75,
+              37.19,
+              46.49,
+              58.11,
+              72.64
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 5.2,
+            "duration": 5,
+            "score": 12.14,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Stuck with You",
+            "instanceSlug": 295,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1986-08",
+            "playlists": [
+            ],
+            "ranks": [
+              17.9,
+              10.6,
+              6.2,
+              5.5,
+              6.5,
+              8.13,
+              10.16,
+              12.7,
+              15.87,
+              19.84,
+              24.8,
+              30.99,
+              38.74,
+              48.43,
+              60.54,
+              75.67
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17.9,
+            "peakRank": 5.5,
+            "duration": 4,
+            "score": 6.65,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Hip to Be Square",
+            "instanceSlug": 628,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1986-11",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              11.8,
+              7,
+              6.5,
+              7.2,
+              8.1,
+              10.13,
+              12.66,
+              15.82,
+              19.78,
+              24.72,
+              30.9,
+              38.62,
+              48.28,
+              60.35,
+              75.44
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 6.5,
+            "duration": 4,
+            "score": 6.22,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Perfect World",
+            "instanceSlug": 1987,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1988-08",
+            "playlists": [
+            ],
+            "ranks": [
+              24,
+              18,
+              15,
+              12,
+              13.3,
+              14.9,
+              18.63,
+              23.28,
+              29.1,
+              36.38,
+              45.47,
+              56.84
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 24,
+            "peakRank": 12,
+            "duration": 3,
+            "score": 1.7,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Couple Days Off",
+            "instanceSlug": 1988,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1991-05",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "Walking on a Thin Line",
+            "instanceSlug": 1982,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-11",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Jacob's Ladder",
+            "instanceSlug": 1984,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1987-02",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "It's Alright",
+            "instanceSlug": 1989,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1993-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "Heart & Soul",
+            "instanceSlug": 1981,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1983-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 13
+          },
+          {
+            "title": "Do You Believe in Love",
+            "instanceSlug": 1980,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1982-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 14
+          },
+          {
+            "title": "Doing It All for My Baby",
+            "instanceSlug": 1120,
+            "tags": [
+              "baby",
+              "doing",
+              "do-it",
+              "",
+              "this-for-that"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": 1987,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 15
+          },
+          {
+            "title": "Doing It All For My Baby",
+            "instanceSlug": 1986,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1987-08",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "huey-lewis-the-news",
+                "title": "Huey Lewis & the News",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 16
+          }
+        ],
+        "score": 112.46,
+        "songAdjustedAverage": 28.12,
+        "rank": 52
+      },
+      {
+        "title": "Timex Social Club",
+        "instanceSlug": "timex-social-club",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "funk"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Rumors",
+            "instanceSlug": 285,
+            "tags": [
+              "#1",
+              "#1-r&b",
+              "songs-of-summer"
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1986-07",
+            "playlists": [
+            ],
+            "ranks": [
+              12,
+              3,
+              1,
+              1.08,
+              1.29,
+              1.61,
+              2.02,
+              2.52,
+              3.15,
+              3.94,
+              4.92,
+              6.15,
+              7.69,
+              9.61,
+              12.01,
+              15.02,
+              18.77,
+              23.46,
+              29.33,
+              36.66,
+              45.83,
+              57.29,
+              71.61,
+              89.51
+            ],
+            "artists": [
+              {
+                "slug": "timex-social-club",
+                "title": "Timex Social Club",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 26.62,
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 26.62,
+        "songAdjustedAverage": 26.62,
+        "rank": 64
+      },
+      {
+        "title": "Eddie Van Halen",
+        "instanceSlug": "eddie-van-halen",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+        ],
+        "members": [
+        ],
+        "complete": false,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "songs": [
+          {
+            "title": "Beat It",
+            "instanceSlug": 83,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "source": "thriller",
+            "genre": "pop",
+            "debut": "1983-04",
+            "ranks": [
+              13.2,
+              4,
+              1.08,
+              1.19,
+              1.49,
+              1.86,
+              2.32,
+              2.91,
+              3.63,
+              4.54,
+              5.67,
+              7.09,
+              8.87,
+              11.08,
+              13.85,
+              17.32,
+              21.65,
+              27.06,
+              33.82,
+              42.28,
+              52.85,
+              66.06,
+              82.57,
+              103.22
+            ],
+            "artists": [
+              {
+                "slug": "michael-jackson",
+                "title": "Michael Jackson",
+                "roleSlug": true
+              },
+              {
+                "slug": "eddie-van-halen",
+                "title": "Eddie Van Halen",
+                "roleSlug": "backup"
+              }
+            ],
+            "debutRank": 13.2,
+            "peakRank": 1.08,
+            "duration": 6,
+            "score": 24.29,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 24.29,
+        "songAdjustedAverage": 24.29,
+        "rank": 90
+      },
+      {
+        "title": "Steve Perry",
+        "instanceSlug": "steve-perry",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "rock"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "m",
+        "songs": [
+          {
+            "title": "Foolish Heart",
+            "instanceSlug": 1764,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1985-01",
+            "playlists": [
+            ],
+            "ranks": [
+              14,
+              6,
+              4.1,
+              3.1,
+              2.7,
+              3,
+              3.3,
+              3.9,
+              4.88,
+              6.09,
+              7.62,
+              9.52,
+              11.9,
+              14.88,
+              18.6,
+              23.25,
+              29.06,
+              36.32,
+              45.4,
+              56.75
+            ],
+            "artists": [
+              {
+                "slug": "steve-perry",
+                "title": "Steve Perry",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 2.7,
+            "duration": 5,
+            "score": 17.6,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Oh Sherry",
+            "instanceSlug": 666,
+            "tags": [
+              "#1",
+              "#1-mainstream-rock"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": 1984,
+            "playlists": [
+              {
+                "slug": "women"
+              }
+            ],
+            "ranks": [
+              13,
+              7.1,
+              3.9,
+              2.3,
+              2.4,
+              2.7,
+              3.38,
+              4.22,
+              5.27,
+              6.59,
+              8.24,
+              10.3,
+              12.87,
+              16.09,
+              20.12,
+              25.15,
+              31.43,
+              39.29,
+              49.11,
+              61.39
+            ],
+            "artists": [
+              {
+                "slug": "steve-perry",
+                "title": "Steve Perry",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 2.3,
+            "duration": 5,
+            "score": 17.43,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "You Better Wait",
+            "instanceSlug": 469,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1994-08",
+            "playlists": [
+            ],
+            "ranks": [
+              15.9,
+              9.2,
+              7.2,
+              5.3,
+              5.1,
+              6.5,
+              8.28,
+              10.56,
+              13.46,
+              17.15,
+              21.86,
+              27.86,
+              35.51,
+              45.25,
+              57.68,
+              73.51
+            ],
+            "artists": [
+              {
+                "slug": "steve-perry",
+                "title": "Steve Perry",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15.9,
+            "peakRank": 5.1,
+            "duration": 4,
+            "score": 7.96,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Don't Fight It",
+            "instanceSlug": 2030,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1982-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "kenny-loggins",
+                "title": "Kenny Loggins",
+                "roleSlug": true
+              },
+              {
+                "slug": "steve-perry",
+                "title": "Steve Perry",
+                "roleSlug": "feature"
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 4
+          }
+        ],
+        "score": 42.99,
+        "songAdjustedAverage": 21.5,
+        "rank": 137
+      },
+      {
+        "title": "Timmy T",
+        "instanceSlug": "timmy-t",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "dance-pop"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "m",
+        "songs": [
+          {
+            "title": "One More Try",
+            "instanceSlug": 511,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1991-02",
+            "playlists": [
+            ],
+            "ranks": [
+              15.9,
+              4.6,
+              2.4,
+              1.8,
+              1.95,
+              2.29,
+              2.86,
+              3.58,
+              4.47,
+              5.59,
+              6.99,
+              8.74,
+              10.92,
+              13.65,
+              17.06,
+              21.33,
+              26.66,
+              33.32,
+              41.65,
+              52.07
+            ],
+            "artists": [
+              {
+                "slug": "timmy-t",
+                "title": "Timmy T",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15.9,
+            "peakRank": 1.8,
+            "duration": 5,
+            "score": 20.25,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Time After Time",
+            "instanceSlug": 2255,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": "1990-05",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              18,
+              10,
+              7,
+              5.9,
+              5.7,
+              6.5,
+              8.13,
+              10.16,
+              12.7,
+              15.87,
+              19.84,
+              24.8,
+              30.99,
+              38.74,
+              48.43,
+              60.54
+            ],
+            "artists": [
+              {
+                "slug": "timmy-t",
+                "title": "Timmy T",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 5.7,
+            "duration": 4,
+            "score": 7.77,
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 2
+          }
+        ],
+        "score": 28.02,
+        "songAdjustedAverage": 19.81,
+        "rank": 182
+      },
+      {
+        "title": "Times Two",
+        "instanceSlug": "times-two",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "electro-pop"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Strange But True",
+            "instanceSlug": 132,
+            "tags": [
+              "strange",
+              "true"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1988-05",
+            "ranks": [
+              16.5,
+              9.6,
+              5.6,
+              6.7,
+              9.8,
+              14.5,
+              21.4,
+              31.5,
+              46.3,
+              68.2,
+              100.4,
+              147.8
+            ],
+            "artists": [
+              {
+                "slug": "times-two",
+                "title": "Times Two",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16.5,
+            "peakRank": 5.6,
+            "duration": 3,
+            "score": 4.35,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 4.35,
+        "songAdjustedAverage": 4.35,
+        "rank": 634
+      },
+      {
+        "title": "Giuffria",
+        "instanceSlug": "giuffria",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "rock"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+        ],
+        "score": 0,
+        "rank": 711
+      },
+      {
+        "title": "Poco",
+        "instanceSlug": "poco",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "country-rock"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "california",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Crazy Love",
+            "instanceSlug": 118,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary"
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1979-02",
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "poco",
+                "title": "Poco",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Heart of the Night",
+            "instanceSlug": 2640,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1979-07",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "poco",
+                "title": "Poco",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Call it Love",
+            "instanceSlug": 2641,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1989-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "poco",
+                "title": "Poco",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          }
+        ],
+        "score": 0,
+        "songAdjustedAverage": 0,
+        "rank": 832
+      }
+    ],
+    "score": 443.76,
+    "artistAdjustedAverage": 147.92
+  },
+  "birth": "1949-10",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Go Insane",
+      "instanceSlug": 432,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1984-09",
+      "playlists": [
+        "feb13"
+      ],
+      "ranks": [
+        17,
+        4.7,
+        2.4,
+        2.49,
+        2.65,
+        2.85,
+        3.15
+      ],
+      "scores": [
+        0.055,
+        0.484,
+        0.708,
+        0.695,
+        0.675,
+        0.65,
+        0.617,
+        0.612,
+        0.602,
+        0.587,
+        0.567,
+        0.542,
+        0.512,
+        0.477,
+        0.437,
+        0.392,
+        0.342,
+        0.287,
+        0.227,
+        0.162,
+        0.092,
+        0.017,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 5.75,
+      "score": 9.739,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Big Love",
+      "instanceSlug": 862,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1987-04",
+      "playlists": [
+      ],
+      "ranks": [
+        15.9,
+        4.8,
+        2.7,
+        2.5,
+        2.45,
+        2.52,
+        2.79,
+        3.1
+      ],
+      "scores": [
+        0.077,
+        0.477,
+        0.668,
+        0.694,
+        0.701,
+        0.691,
+        0.657,
+        0.622,
+        0.617,
+        0.607,
+        0.592,
+        0.572,
+        0.547,
+        0.517,
+        0.482,
+        0.442,
+        0.397,
+        0.347,
+        0.292,
+        0.232,
+        0.167,
+        0.097,
+        0.022,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.077,
+      "duration": 6,
+      "score": 7.887749999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 2
+    },
+    {
+      "title": "Go Your Own Way",
+      "instanceSlug": 2745,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        9,
+        6.5,
+        5.1,
+        4.5,
+        4.47,
+        4.61,
+        4.93
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.376,
+        0.456,
+        0.498,
+        0.5,
+        0.49,
+        0.468,
+        0.463,
+        0.453,
+        0.438,
+        0.418,
+        0.393,
+        0.363,
+        0.328,
+        0.288,
+        0.243,
+        0.193,
+        0.138,
+        0.078,
+        0.013,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 5.220750000000001,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 3
+    },
+    {
+      "title": "Trouble",
+      "instanceSlug": 1538,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1981-12",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        11,
+        9,
+        7,
+        6,
+        6.5,
+        7.1
+      ],
+      "scores": [
+        0.018,
+        0.2,
+        0.267,
+        0.351,
+        0.402,
+        0.376,
+        0.346,
+        0.341,
+        0.331,
+        0.316,
+        0.296,
+        0.271,
+        0.241,
+        0.206,
+        0.166,
+        0.121,
+        0.071,
+        0.016,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 4.336,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Hold Me",
+      "instanceSlug": 2750,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1982-07",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        10,
+        7.5,
+        5.5,
+        5,
+        5.4
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.328,
+        0.431,
+        0.463,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 3.9997499999999997,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 5
+    },
+    {
+      "title": "Everywhere",
+      "instanceSlug": 861,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1988-01",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        4.1,
+        1.11,
+        1.184,
+        1.27,
+        1.41,
+        1.72,
+        2.05
+      ],
+      "scores": [
+        0.12,
+        0.529,
+        0.965,
+        0.943,
+        0.92,
+        0.885,
+        0.819,
+        0.76,
+        0.755,
+        0.745,
+        0.73,
+        0.71,
+        0.685,
+        0.655,
+        0.62,
+        0.58,
+        0.535,
+        0.485,
+        0.43,
+        0.37,
+        0.305,
+        0.235,
+        0.16,
+        0.08,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 6.25,
+      "score": 3.5052499999999993,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 6
+    },
+    {
+      "title": "Don't Stop",
+      "instanceSlug": 2746,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        11,
+        9,
+        7,
+        7.1,
+        7.8
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.267,
+        0.351,
+        0.346,
+        0.315,
+        0.31,
+        0.3,
+        0.285,
+        0.265,
+        0.24,
+        0.21,
+        0.175,
+        0.135,
+        0.09,
+        0.04,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.25,
+      "score": 2.6737499999999996,
+      "genres": [
+        "rock"
+      ],
+      "role": "lead",
+      "scoreFactor": 0.75,
+      "rank": 7
+    },
+    {
+      "title": "Little Lies",
+      "instanceSlug": 152,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-09",
+      "ranks": [
+        15,
+        9,
+        6,
+        4.4,
+        3.6,
+        3.1,
+        3.45
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.506,
+        0.573,
+        0.622,
+        0.587,
+        0.582,
+        0.572,
+        0.557,
+        0.537,
+        0.512,
+        0.482,
+        0.447,
+        0.407,
+        0.362,
+        0.312,
+        0.257,
+        0.197,
+        0.132,
+        0.062,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 2.118,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 8
+    },
+    {
+      "title": "Seven Wonders",
+      "instanceSlug": 863,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-07",
+      "playlists": [
+      ],
+      "ranks": [
+        17.9,
+        10.6,
+        6.2,
+        6.6,
+        7.9
+      ],
+      "scores": [
+        0.038,
+        0.213,
+        0.391,
+        0.37,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.038,
+      "duration": 4,
+      "score": 0.83325,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 9
+    },
+    {
+      "title": "Rhiannon (Will You Ever Win)",
+      "instanceSlug": 2744,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": [
+        20,
+        15,
+        10,
+        9,
+        8,
+        8.5,
+        9.2
+      ],
+      "scores": [
+        0.001,
+        0.097,
+        0.232,
+        0.267,
+        0.306,
+        0.286,
+        0.26,
+        0.255,
+        0.245,
+        0.23,
+        0.21,
+        0.185,
+        0.155,
+        0.12,
+        0.08,
+        0.035,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 4.25,
+      "score": 0.7410000000000001,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 10
+    },
+    {
+      "title": "Tusk",
+      "instanceSlug": "tusk",
+      "tags": [
+      ],
+      "debut": "1979-10",
+      "playlists": [
+      ],
+      "ranks": [
+        25,
+        15,
+        13,
+        11,
+        12
+      ],
+      "scores": [
+        0.097,
+        0.145,
+        0.2,
+        0.171,
+        0.166,
+        0.156,
+        0.141,
+        0.121,
+        0.096,
+        0.066,
+        0.031,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 3,
+      "score": 0.34750000000000003,
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 11
+    },
+    {
+      "title": "Save Me",
+      "instanceSlug": 2751,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-05",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 12
+    },
+    {
+      "title": "Gypsy",
+      "instanceSlug": 678,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 13
+    },
+    {
+      "title": "Sara",
+      "instanceSlug": 2748,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-01",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 14
+    },
+    {
+      "title": "You Make Loving Fun",
+      "instanceSlug": 2747,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 15
+    },
+    {
+      "title": "Over My Head",
+      "instanceSlug": 2743,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 16
+    },
+    {
+      "title": "Think About Me",
+      "instanceSlug": 2749,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": "member",
+      "scoreFactor": 0.25,
+      "rank": 17
+    }
+  ],
+  "score": 41.401999999999994,
+  "songCount": 17,
+  "songAdjustedAverage": 10.041459947754257,
+  "rank": 212
+}

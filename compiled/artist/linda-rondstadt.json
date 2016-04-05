@@ -1,1 +1,236 @@
-{"title":"Linda Ronstadt","instanceSlug":"linda-rondstadt","tags":[{"slug":"hof","title":"Rock & Roll Hall of Fame Members"},{"slug":"1970s","title":"Major Artists of the 1970s"},{"slug":"1980s","title":"Major Artists of the 1980s"}],"parents":[],"genres":[{"slug":"pop","title":"Pop"}],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Somewhere Out There","instanceSlug":302,"tags":[],"genres":["pop"],"debut":"1987-02","source":"an-american-tail","playlists":["ballad"],"ranks":[15,4.4,2.3,2.2,2.35,2.55,2.75,3.15,3.75,4.55,5.55,6.75,8.15,9.75,11.55,13.55,15.75,18.15,20.75,23.55,26.55,29.75,33.15,36.75,40.55,44.55,48.75,53.15],"debutRank":15,"peakRank":2.2,"duration":7,"score":22.7,"role":true,"scoreFactor":1,"rank":1},{"title":"All My Life","instanceSlug":1939,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1990-03","playlists":["ballad"],"ranks":[15,9,6,4.5,3.6,3,3.4,3.8,4.6,5.8,7.4,9.4,11.8,14.6,17.8,21.4,25.4,29.8,34.6,39.8,45.4,51.4,57.8,64.6],"debutRank":15,"peakRank":3,"duration":6,"score":16.31,"genres":["pop"],"role":true,"scoreFactor":1,"rank":2},{"title":"Don't Know Much","instanceSlug":1337,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1989-11","playlists":[],"ranks":[19,15,11,9.5,8.8,9.2,10,11.7,13.4,16.8,21.9,28.7,37.2,47.4,59.3,72.9],"debutRank":19,"peakRank":8.8,"duration":4,"score":5.13,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":3},{"title":"Poor Poor Pitiful Me","instanceSlug":1631,"tags":["me","poor"],"parents":[],"genre":"pop","debut":"1978-03","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":4}],"score":44.14,"songAdjustedAverage":22.07,"rank":144}
+{
+  "title": "Linda Ronstadt",
+  "instanceSlug": "linda-rondstadt",
+  "tags": [
+    {
+      "slug": "hof",
+      "title": "Rock & Roll Hall of Fame Members"
+    },
+    {
+      "slug": "1970s",
+      "title": "Major Artists of the 1970s"
+    },
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Somewhere Out There",
+      "instanceSlug": 302,
+      "tags": [
+      ],
+      "genres": [
+        "pop"
+      ],
+      "debut": "1987-02",
+      "source": "an-american-tail",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        15,
+        4.4,
+        2.3,
+        2.2,
+        2.35,
+        2.55
+      ],
+      "scores": [
+        0.097,
+        0.506,
+        0.722,
+        0.737,
+        0.715,
+        0.687,
+        0.682,
+        0.672,
+        0.657,
+        0.637,
+        0.612,
+        0.582,
+        0.547,
+        0.507,
+        0.462,
+        0.412,
+        0.357,
+        0.297,
+        0.232,
+        0.162,
+        0.087,
+        0.007,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.75,
+      "score": 10.376,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "All My Life",
+      "instanceSlug": 1939,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-03",
+      "playlists": [
+        "ballad"
+      ],
+      "ranks": [
+        15,
+        9,
+        6,
+        4.5,
+        3.6,
+        3,
+        3.4
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.498,
+        0.573,
+        0.633,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.5,
+      "score": 8.55,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Don't Know Much",
+      "instanceSlug": 1337,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1989-11",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        15,
+        11,
+        9.5,
+        8.8,
+        9.2,
+        10,
+        11.7
+      ],
+      "scores": [
+        0.018,
+        0.097,
+        0.2,
+        0.249,
+        0.275,
+        0.26,
+        0.232,
+        0.18,
+        0.175,
+        0.165,
+        0.15,
+        0.13,
+        0.105,
+        0.075,
+        0.04,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4,
+      "score": 2.3510000000000004,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Poor Poor Pitiful Me",
+      "instanceSlug": 1631,
+      "tags": [
+        "me",
+        "poor"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1978-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    }
+  ],
+  "score": 21.277,
+  "songCount": 4,
+  "songAdjustedAverage": 10.6385,
+  "rank": 175
+}

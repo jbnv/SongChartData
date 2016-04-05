@@ -1,1 +1,81 @@
-{"title":"Joe Public","instanceSlug":"joe-public","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Live and Learn","instanceSlug":1067,"tags":["learn","live","this-and-that"],"parents":[],"genre":"pop","debut":"1992-04","playlists":[],"ranks":[16,8,5,4,3.3,2.9,3.26,3.62,4.34,5.42,6.86,8.66,10.82,13.34,16.22,19.46,23.06,27.02,31.34,36.02,41.06,46.46,52.22,58.34],"debutRank":16,"peakRank":2.9,"duration":6,"score":17.46,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":17.46,"songAdjustedAverage":17.46,"rank":261}
+{
+  "title": "Joe Public",
+  "instanceSlug": "joe-public",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Live and Learn",
+      "instanceSlug": 1067,
+      "tags": [
+        "learn",
+        "live",
+        "this-and-that"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1992-04",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        8,
+        5,
+        4,
+        3.3,
+        2.9,
+        3.26
+      ],
+      "scores": [
+        0.075,
+        0.306,
+        0.463,
+        0.537,
+        0.602,
+        0.645,
+        0.606,
+        0.601,
+        0.591,
+        0.576,
+        0.556,
+        0.531,
+        0.501,
+        0.466,
+        0.426,
+        0.381,
+        0.331,
+        0.276,
+        0.216,
+        0.151,
+        0.081,
+        0.006,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.75,
+      "score": 8.924,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 8.924,
+  "songCount": 1,
+  "songAdjustedAverage": 8.924,
+  "rank": 277
+}

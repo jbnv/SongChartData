@@ -1,1 +1,130 @@
-{"title":"Billy Preston","instanceSlug":"billy-preston","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Instant Karma (We All Shine On)","instanceSlug":2047,"tags":[],"parents":[],"genre":"pop","debut":1970,"playlists":[],"ranks":[15,7,4,3,3.5,4,5,6.5,8.5,11,14,17.5,21.5,26,31,36.5,42.5,49,56,63.5],"debutRank":15,"peakRank":3,"duration":5,"score":1.27,"genres":["pop"],"role":"backup","scoreFactor":0.1,"rank":1},{"title":"Oh My My","instanceSlug":2965,"tags":[],"genre":"pop","debut":1974,"playlists":[],"ranks":[19,13,9,7.5,6.5,6.6,9,11.4,16.2,23.4,33,45,59.4,76.2,95.4,117],"debutRank":19,"peakRank":6.5,"duration":4,"score":0.61,"genres":["pop"],"role":"backup","scoreFactor":0.1,"rank":2}],"score":1.88,"songAdjustedAverage":1.33,"rank":726}
+{
+  "title": "Billy Preston",
+  "instanceSlug": "billy-preston",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Instant Karma (We All Shine On)",
+      "instanceSlug": 2047,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1970,
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        7,
+        4,
+        3,
+        3.5
+      ],
+      "scores": [
+        0.097,
+        0.351,
+        0.537,
+        0.633,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5,
+      "score": 0.7548,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    },
+    {
+      "title": "Oh My My",
+      "instanceSlug": 2965,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        13,
+        9,
+        7.5,
+        6.5,
+        6.6,
+        9
+      ],
+      "scores": [
+        0.018,
+        0.145,
+        0.267,
+        0.328,
+        0.376,
+        0.37,
+        0.267,
+        0.262,
+        0.252,
+        0.237,
+        0.217,
+        0.192,
+        0.162,
+        0.127,
+        0.087,
+        0.042,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.25,
+      "score": 0.3349000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 2
+    }
+  ],
+  "score": 1.0897000000000001,
+  "songCount": 2,
+  "songAdjustedAverage": 0.7705342594589809,
+  "rank": 724
+}

@@ -1,1 +1,169 @@
-{"title":"Goo Goo Dolls","instanceSlug":"goo-goo-dolls","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Name","instanceSlug":39,"tags":[],"parents":[],"genre":"rock","debut":"1995-09","ranks":[15.9,9.3,5.5,4.5,5.2,5.9,7.3,9.4,12.2,15.7,19.9,24.8,30.4,36.7,43.7,51.4],"debutRank":15.9,"peakRank":4.5,"duration":4,"score":8.9,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Black Balloon","instanceSlug":565,"tags":["balloon","black"],"parents":[],"genre":true,"debut":"1999-08","playlists":[],"ranks":[17,11.7,6.8,8.8,10.8,14.8,20.8,28.8,38.8,50.8,64.8,80.8],"debutRank":17,"peakRank":6.8,"duration":3,"score":3.54,"genres":[true],"role":true,"scoreFactor":1,"rank":2},{"title":"Iris","instanceSlug":33,"genre":"rock","source":"city-of-angels","ranks":[],"debut":"1990s","genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"Naked","instanceSlug":37,"tags":[],"parents":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Slide","instanceSlug":43,"tags":[],"parents":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":5}],"score":12.44,"songAdjustedAverage":5.56,"rank":617}
+{
+  "title": "Goo Goo Dolls",
+  "instanceSlug": "goo-goo-dolls",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Name",
+      "instanceSlug": 39,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1995-09",
+      "ranks": [
+        15.9,
+        9.3,
+        5.5,
+        4.5,
+        5.2
+      ],
+      "scores": [
+        0.077,
+        0.256,
+        0.431,
+        0.498,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.077,
+      "duration": 4.5,
+      "score": 5.291999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Black Balloon",
+      "instanceSlug": 565,
+      "tags": [
+        "balloon",
+        "black"
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1999-08",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        11.7,
+        6.8,
+        8.8
+      ],
+      "scores": [
+        0.055,
+        0.18,
+        0.361,
+        0.275,
+        0.27,
+        0.26,
+        0.245,
+        0.225,
+        0.2,
+        0.17,
+        0.135,
+        0.095,
+        0.05,
+        0,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 3.75,
+      "score": 2.5210000000000004,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Iris",
+      "instanceSlug": 33,
+      "genre": "rock",
+      "source": "city-of-angels",
+      "ranks": [
+      ],
+      "debut": "1990s",
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Naked",
+      "instanceSlug": 37,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Slide",
+      "instanceSlug": 43,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    }
+  ],
+  "score": 7.812999999999999,
+  "songCount": 5,
+  "songAdjustedAverage": 3.494079821641171,
+  "rank": 595
+}

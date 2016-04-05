@@ -1,1 +1,138 @@
-{"title":"Vertical Horizon","instanceSlug":"vertical-horizon","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Everything You Want","instanceSlug":1780,"tags":[],"genre":"rock","debut":"2000-02","playlists":[],"ranks":[8.5,1,1.09,1.19,1.31,1.43,1.57,1.71,1.99,2.41,2.97,3.67,4.51,5.49,6.61,7.87,9.27,10.81,12.49,14.31,16.27,18.37,20.61,22.99,25.51,28.17,30.97,33.91,36.99,40.21,43.57,47.07,50.71,54.49,58.41,62.47],"debutRank":8.5,"peakRank":1,"duration":9,"score":35.37,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"You're a God","instanceSlug":1781,"tags":[],"parents":[],"genre":"rock","debut":"2000-10","playlists":[],"ranks":[18,14,10.5,8,8.5,9.3,10.8,12.3,15.3,19.8,25.8,33.3,42.3,52.8,64.8,78.3],"debutRank":18,"peakRank":8,"duration":4,"score":5.07,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2}],"score":40.44,"songAdjustedAverage":28.6,"rank":62}
+{
+  "title": "Vertical Horizon",
+  "instanceSlug": "vertical-horizon",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Everything You Want",
+      "instanceSlug": 1780,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "2000-02",
+      "playlists": [
+      ],
+      "ranks": [
+        8.5,
+        1,
+        1.09,
+        1.19,
+        1.31,
+        1.43,
+        1.57
+      ],
+      "scores": [
+        0.286,
+        1,
+        0.971,
+        0.942,
+        0.909,
+        0.88,
+        0.849,
+        0.844,
+        0.834,
+        0.819,
+        0.799,
+        0.774,
+        0.744,
+        0.709,
+        0.669,
+        0.624,
+        0.574,
+        0.519,
+        0.459,
+        0.394,
+        0.324,
+        0.249,
+        0.169,
+        0.084,
+        0
+      ],
+      "debutScore": 0.286,
+      "peakScore": 0.286,
+      "duration": 6.25,
+      "score": 15.425,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "You're a God",
+      "instanceSlug": 1781,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "2000-10",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        14,
+        10.5,
+        8,
+        8.5,
+        9.3,
+        10.8
+      ],
+      "scores": [
+        0.036,
+        0.12,
+        0.216,
+        0.306,
+        0.286,
+        0.256,
+        0.206,
+        0.201,
+        0.191,
+        0.176,
+        0.156,
+        0.131,
+        0.101,
+        0.066,
+        0.026,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4,
+      "score": 2.4739999999999993,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 17.899,
+  "songCount": 2,
+  "songAdjustedAverage": 12.656504276458014,
+  "rank": 111
+}

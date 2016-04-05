@@ -1,1 +1,2158 @@
-{"title":"Juice Newton","instanceSlug":"juice-newton","tags":[],"parents":[],"genres":[{"slug":"country","title":"Country"},{"slug":"pop","title":"Pop"},{"slug":"pop-country","title":"Pop-Country"}],"members":[],"complete":true,"origin":{"title":"New Jersey","instanceSlug":"new-jersey","tags":[],"parents":["us"],"artists":[{"title":"Surface","instanceSlug":"surface","tags":[],"parents":[],"genres":["soul"],"members":[],"xref":[],"complete":true,"origin":"new-jersey","birth":"","death":"","type":"g","songs":[{"title":"The First Time","instanceSlug":1208,"tags":["#1","#1-adult-contemporary","#1-hot100","#1-r&b"],"parents":[],"genre":"soul","debut":"1990-12","playlists":[],"ranks":[18,10,7.5,6.2,5.2,4.9,5.49,6.86,8.58,10.72,13.4,16.75,20.94,26.18,32.72,40.9,51.13,63.91,79.89,99.86],"artists":[{"slug":"surface","title":"Surface","roleSlug":true}],"debutRank":18,"peakRank":4.9,"duration":5,"score":10.17,"genres":[{"slug":"soul","title":"Soul"}],"rank":1},{"title":"Happy","instanceSlug":532,"tags":[],"parents":[],"genre":"soul","debut":"1987-07","playlists":[],"ranks":[17,9.5,6.6,5.2,4.8,5.2,5.9,7.38,9.22,11.52,14.4,18.01,22.51,28.13,35.17,43.96,54.95,68.69,85.86,107.32],"artists":[{"slug":"surface","title":"Surface","roleSlug":true}],"debutRank":17,"peakRank":4.8,"duration":5,"score":10.17,"genres":[{"slug":"soul","title":"Soul"}],"rank":2},{"title":"Shower Me With Your Love","instanceSlug":531,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1989-08","playlists":[],"ranks":[19.1,11.8,8.2,9.4,11.5,14.38,17.97,22.46,28.08,35.1,43.87,54.84],"artists":[{"slug":"surface","title":"Surface","roleSlug":true}],"debutRank":19.1,"peakRank":8.2,"duration":3,"score":3.24,"genres":[{"slug":"soul","title":"Soul"}],"rank":3}],"score":23.58,"songAdjustedAverage":13.61,"rank":333},{"title":"Kool & the Gang","instanceSlug":"koolnthegang","tags":["1970s","1980s"],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"new-jersey","birth":"","death":"","type":"g","songs":[{"title":"Celebration","instanceSlug":765,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1980-12","playlists":[],"ranks":[13,2.55,1,1.04,1.11,1.22,1.53,1.91,2.38,2.98,3.72,4.65,5.82,7.27,9.09,11.36,14.2,17.75,22.19,27.74,34.67,43.34,54.18,67.72],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":13,"peakRank":1,"duration":6,"score":30.36,"genres":[{"slug":"dance","title":"Dance"}],"rank":1},{"title":"Victory","instanceSlug":766,"tags":[],"parents":[],"genre":"funk","debut":"1986-12","playlists":[],"ranks":[15.6,8.6,5.5,4.9,4.8,5.4,6.75,8.44,10.55,13.18,16.48,20.6,25.75,32.19,40.23,50.29],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":15.6,"peakRank":4.8,"duration":4,"score":9.77,"genres":[{"slug":"funk","title":"Funk"}],"rank":2},{"title":"Ladies' Night","instanceSlug":828,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1979-11","playlists":[],"ranks":[17,9.9,5.8,6.2,8.5,11.65,15.98,21.9,30.03,41.17,56.44,77.38],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":17,"peakRank":5.8,"duration":3,"score":4.93,"genres":[{"slug":"soul","title":"Soul"}],"rank":3},{"title":"Too Hot","instanceSlug":2,"tags":[],"genre":"soul","debut":"1980-02","ranks":[24.9,14.5,8.4,8.5,9.1,10.2,12.75,15.94,19.92,24.9,31.13,38.91,48.64,60.8,76,94.99],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":24.9,"peakRank":8.4,"duration":4,"score":4.22,"genres":[{"slug":"soul","title":"Soul"}],"playlists":[],"rank":4},{"title":"Stone Love","instanceSlug":767,"tags":[],"parents":[],"genre":"soul","debut":"1987-03","playlists":[],"ranks":[15.9,9.5,8,8.9,11.13,13.91,17.38,21.73,27.16,33.95,42.44,53.05],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":15.9,"peakRank":8,"duration":3,"score":3.82,"genres":[{"slug":"soul","title":"Soul"}],"rank":5},{"title":"Fresh","instanceSlug":422,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1985-05","playlists":[],"ranks":[17,8.6,10.3,12.88,16.09,20.12,25.15,31.43,39.29,49.11,61.39,76.74],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":17,"peakRank":8.6,"duration":3,"score":2.35,"genres":[{"slug":"soul","title":"Soul"}],"rank":6},{"title":"Get Down On It","instanceSlug":2517,"tags":[],"parents":[],"genre":"funk","debut":"1982-04","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":7},{"title":"Let's Go Dancing","instanceSlug":2518,"tags":[],"parents":[],"genre":"funk","debut":"1982-12","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":8},{"title":"Take My Heart (You Can Have It If You Want It)","instanceSlug":1534,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1981-11","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":9},{"title":"Cherish","instanceSlug":421,"tags":[],"parents":[],"genre":"soul","debut":"1985-08","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":10},{"title":"Misled","instanceSlug":1759,"tags":[],"parents":[],"genre":"urban","debut":"1985-01","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":11},{"title":"Big Fun","instanceSlug":668,"tags":[],"parents":[],"genre":"funk","debut":"1982-09","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":12},{"title":"Emergency","instanceSlug":1379,"tags":["emergency"],"parents":[],"genre":"funk","debut":"1985-12","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":13},{"title":"Jungle Boogie","instanceSlug":2515,"tags":[],"parents":[],"genre":"funk","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":14},{"title":"Hollywood Swinging","instanceSlug":2516,"tags":["#1","#1-r&b"],"parents":[],"genre":"funk","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":15},{"title":"Joanna","instanceSlug":78,"tags":["#1","#1-r&b","women"],"parents":[],"genre":"soul","debut":"1983-12","ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"playlists":[],"rank":16},{"title":"Tonight","instanceSlug":2519,"tags":[],"parents":[],"genre":"funk","debut":"1984-04","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"rank":17}],"score":55.45,"songAdjustedAverage":13.45,"rank":339},{"title":"Juice Newton","instanceSlug":"juice-newton","tags":[],"parents":[],"genres":["country","pop","pop-country"],"members":[],"complete":true,"origin":"new-jersey","birth":1952,"death":"","type":"f","songs":[{"title":"Love's Been a Little Bit Hard on Me","instanceSlug":383,"tags":["been","bit","hard","little","love","me"],"parents":[],"genre":"pop","debut":"1982-06","playlists":[],"ranks":[16,9.8,6.4,4.6,3.5,3.2,3.65,4.56,5.7,7.13,8.91,11.14,13.92,17.4,21.76,27.19,33.99,42.49,53.11,66.39],"artists":[{"slug":"juice-newton","title":"Juice Newton","roleSlug":true}],"debutRank":16,"peakRank":3.2,"duration":5,"score":14.54,"genres":[{"slug":"pop","title":"Pop"}],"rank":1},{"title":"Queen of Hearts","instanceSlug":909,"tags":["#2","#2-hot-100"],"parents":[],"genre":"pop","debut":"1981-07","playlists":[],"ranks":[13.9,4,2.2,2.2,3.2,4.65,6.77,9.85,14.32,20.83,30.3,44.08,64.12,93.26,135.65,197.31],"artists":[{"slug":"juice-newton","title":"Juice Newton","roleSlug":true}],"debutRank":13.9,"peakRank":2.2,"duration":4,"score":11.84,"genres":[{"slug":"pop","title":"Pop"}],"rank":2},{"title":"Angel of the Morning","instanceSlug":1390,"tags":["#1","#1-adult-contemporary","angel","morning","remake","this-in-that"],"parents":[],"genre":"pop","debut":"1981-03","playlists":[],"ranks":[],"artists":[{"slug":"juice-newton","title":"Juice Newton","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":3},{"title":"The Sweetest Thing (I've Ever Known)","instanceSlug":1535,"tags":["#1","#1-adult-contemporary","#1-country","sweetest-thing"],"parents":[],"genre":"country","debut":"1981-11","playlists":[],"ranks":[],"artists":[{"slug":"juice-newton","title":"Juice Newton","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"rank":4},{"title":"Tell Her No","instanceSlug":356,"tags":["tell-her"],"playlists":[{"slug":"remake","title":"Remakes"},{"slug":"summer","title":"Songs of Summer"}],"parents":[],"genre":"pop","debut":"1983-09","ranks":[],"artists":[{"slug":"juice-newton","title":"Juice Newton","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":5}],"score":26.38,"songAdjustedAverage":11.8,"rank":387},{"title":"PM Dawn","instanceSlug":"pm-dawn","tags":[],"parents":[],"genres":["dance-rap"],"members":[],"xref":[],"complete":true,"origin":"new-jersey","birth":"","death":"","type":"d","songs":[{"title":"I'd Die Without You","instanceSlug":895,"tags":["without-you"],"parents":[],"genre":"pop-ballad","debut":"1992-10","source":"boomerang","playlists":[],"ranks":[12.5,3.1,1,1.35,1.82,2.46,3.32,4.48,6.05,8.17,11.03,14.89,20.11,27.14,36.64,49.47,66.78,90.16,121.71,164.31],"artists":[{"slug":"pm-dawn","title":"PM Dawn","roleSlug":true}],"debutRank":12.5,"peakRank":1,"duration":5,"score":18.84,"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"rank":1},{"title":"Set Adrift on Memory Bliss","instanceSlug":1522,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":"1991-11","playlists":[],"ranks":[],"artists":[{"slug":"pm-dawn","title":"PM Dawn","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":2},{"title":"Paper Doll","instanceSlug":2638,"tags":[],"parents":[],"genre":"pop","debut":"1992-02","playlists":[],"ranks":[],"artists":[{"slug":"pm-dawn","title":"PM Dawn","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":3},{"title":"Looking Through Patient Eyes","instanceSlug":2639,"tags":[],"parents":[],"genre":"pop","debut":"1993-04","playlists":[],"ranks":[],"artists":[{"slug":"pm-dawn","title":"PM Dawn","roleSlug":true},{"slug":"cathy-dennis","title":"Cathy Dennis","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}],"rank":4}],"score":18.84,"songAdjustedAverage":9.42,"rank":469},{"title":"Bruce Springsteen","instanceSlug":"bruce-springsteen","tags":[],"parents":[],"genres":["rock"],"members":[],"origin":"new-jersey","birth":1949,"death":"","complete":true,"type":"m","songs":[{"title":"Tunnel of Love","instanceSlug":611,"tags":["#1","#1-mainstream-rock","this-of-that"],"parents":[],"genre":"rock","debut":"1988-01","playlists":[],"ranks":[15.9,8.8,4.8,2.6,2.2,2.4,3.1,4,5.17,6.68,8.63,11.15,14.4,18.6,24.02,31.03,40.07,51.76,66.86,86.36],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":15.9,"peakRank":2.2,"duration":5,"score":16.65,"genres":[{"slug":"rock","title":"Rock"}],"rank":1},{"title":"Cover Me","instanceSlug":700,"tags":["cover","me"],"parents":[],"genre":"rock","debut":"1984-09","playlists":[],"ranks":[17.9,10.6,6.2,6.6,7.5,9.38,11.72,14.65,18.31,22.89,28.61,35.76,44.7,55.88,69.85,87.31],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":17.9,"peakRank":6.2,"duration":4,"score":5.74,"genres":[{"slug":"rock","title":"Rock"}],"rank":2},{"title":"I'm Going Down","instanceSlug":939,"tags":[],"parents":[],"genre":"rock","debut":"1985-09","playlists":[],"ranks":[19,14,11,9.8,8.5,10,12.5,15.63,19.53,24.41,30.52,38.15,47.68,59.6,74.51,93.13],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":19,"peakRank":8.5,"duration":4,"score":4.05,"genres":[{"slug":"rock","title":"Rock"}],"rank":3},{"title":"Brilliant Disguise","instanceSlug":576,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1987-10","playlists":[],"ranks":[25,21,18,16,14.7,13.9,14.2,14.9,17,21.25,26.56,33.2,41.5,51.88,64.85,81.06],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":25,"peakRank":13.9,"duration":4,"score":1.83,"genres":[{"slug":"pop","title":"Pop"}],"rank":4},{"title":"Born in the USA","instanceSlug":1772,"tags":[],"parents":[],"genre":"rock","debut":"1984-12","playlists":[],"ranks":[24,18,15,12,14.6,18.25,22.81,28.52,35.64,44.56,55.69,69.62],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":24,"peakRank":12,"duration":3,"score":1.33,"genres":[{"slug":"rock","title":"Rock"}],"rank":5},{"title":"Fade Away","instanceSlug":2676,"tags":[],"parents":[],"genre":"pop","debut":"1981-03","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":6},{"title":"Glory Days","instanceSlug":1633,"tags":["day","glory"],"parents":[],"genre":"rock","debut":"1985-06","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":7},{"title":"I'm on Fire","instanceSlug":2678,"tags":[],"parents":[],"genre":"rock","debut":"1985-03","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":8},{"title":"My Hometown","instanceSlug":2679,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":9},{"title":"War","instanceSlug":1481,"tags":["","war"],"parents":[],"genre":"rock","debut":"1986-12","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":10},{"title":"Born to Run","instanceSlug":2674,"tags":[],"parents":[],"genre":"rock","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":11},{"title":"Hungry Heart","instanceSlug":2675,"tags":[],"parents":[],"genre":"rock","debut":"1980-11","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":12},{"title":"Dancing in the Dark","instanceSlug":2677,"tags":["#1","#1-mainstream-rock","#2-hot-100"],"parents":[],"genre":"rock","debut":"1984-06","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":13}],"score":29.6,"songAdjustedAverage":8.21,"rank":514},{"title":"Gloria Gaynor","instanceSlug":"gloria-gaynor","tags":[],"parents":[],"genres":["disco"],"members":[],"complete":true,"origin":"new-jersey","birth":1949,"death":"","type":"f","songs":[{"title":"Never Can Say Goodbye","instanceSlug":2542,"tags":[],"parents":[],"genre":"disco","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"gloria-gaynor","title":"Gloria Gaynor","roleSlug":true}],"genres":[{"slug":"disco","title":"Disco"}],"rank":1},{"title":"I Will Survive","instanceSlug":2543,"tags":["#1","#1-hot-100"],"parents":[],"genre":"disco","debut":"1979-02","playlists":[],"ranks":[],"artists":[{"slug":"gloria-gaynor","title":"Gloria Gaynor","roleSlug":true}],"genres":[{"slug":"disco","title":"Disco"}],"rank":2}],"score":0,"songAdjustedAverage":0,"rank":726},{"title":"Moments / Ray Goodman & Brown","instanceSlug":"ray-goodman-brown","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":false,"origin":"new-jersey","birth":"","death":"","type":"g","songs":[{"title":"Special Lady","instanceSlug":1662,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1980-03","playlists":[],"ranks":[],"artists":[{"slug":"ray-goodman-brown","title":"Moments / Ray Goodman & Brown","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":1}],"score":0,"songAdjustedAverage":0,"rank":864},{"title":"Four Seasons","instanceSlug":"four-seasons","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"new-jersey","birth":"","death":"","songs":[{"title":"December 1963","instanceSlug":1290,"tags":[],"parents":[],"genre":"pop","debut":"1994-09","playlists":[{"slug":"months"}],"ranks":[],"artists":[{"slug":"four-seasons","title":"Four Seasons","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1055}],"score":153.85,"artistAdjustedAverage":54.39},"birth":1952,"death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Love's Been a Little Bit Hard on Me","instanceSlug":383,"tags":["been","bit","hard","little","love","me"],"parents":[],"genre":"pop","debut":"1982-06","playlists":[],"ranks":[16,9.8,6.4,4.6,3.5,3.2,3.65,4.1,5,6.35,8.15,10.4,13.1,16.25,19.85,23.9,28.4,33.35,38.75,44.6,50.9,57.65,64.85,72.5],"debutRank":16,"peakRank":3.2,"duration":6,"score":15.19,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Queen of Hearts","instanceSlug":909,"tags":["#2","#2-hot-100"],"parents":[],"genre":"pop","debut":"1981-07","playlists":[],"ranks":[13.9,4,2.2,2.2,3.2,4.2,6.2,9.2,13.2,18.2,24.2,31.2,39.2,48.2,58.2,69.2],"debutRank":13.9,"peakRank":2.2,"duration":4,"score":12.28,"genres":["pop"],"role":true,"scoreFactor":1,"rank":2},{"title":"Angel of the Morning","instanceSlug":1390,"tags":["#1","#1-adult-contemporary","angel","morning","remake","this-in-that"],"parents":[],"genre":"pop","debut":"1981-03","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"The Sweetest Thing (I've Ever Known)","instanceSlug":1535,"tags":["#1","#1-adult-contemporary","#1-country","sweetest-thing"],"parents":[],"genre":"country","debut":"1981-11","playlists":[],"ranks":[],"genres":["country"],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Tell Her No","instanceSlug":356,"tags":["tell-her"],"playlists":["remake","summer"],"parents":[],"genre":"pop","debut":"1983-09","ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":5}],"score":27.47,"songAdjustedAverage":12.28,"rank":411}
+{
+  "title": "Juice Newton",
+  "instanceSlug": "juice-newton",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    },
+    {
+      "slug": "pop-country",
+      "title": "Pop-Country"
+    }
+  ],
+  "members": [
+  ],
+  "complete": true,
+  "origin": {
+    "title": "New Jersey",
+    "instanceSlug": "new-jersey",
+    "tags": [
+    ],
+    "parents": [
+      "us"
+    ],
+    "artists": [
+      {
+        "title": "Surface",
+        "instanceSlug": "surface",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "soul"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "new-jersey",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "The First Time",
+            "instanceSlug": 1208,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "#1-hot100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1990-12",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              10,
+              7.5,
+              6.2,
+              5.2,
+              4.9,
+              5.49,
+              6.86,
+              8.58,
+              10.72,
+              13.4,
+              16.75,
+              20.94,
+              26.18,
+              32.72,
+              40.9,
+              51.13,
+              63.91,
+              79.89,
+              99.86
+            ],
+            "artists": [
+              {
+                "slug": "surface",
+                "title": "Surface",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 4.9,
+            "duration": 5,
+            "score": 10.17,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Happy",
+            "instanceSlug": 532,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1987-07",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              9.5,
+              6.6,
+              5.2,
+              4.8,
+              5.2,
+              5.9,
+              7.38,
+              9.22,
+              11.52,
+              14.4,
+              18.01,
+              22.51,
+              28.13,
+              35.17,
+              43.96,
+              54.95,
+              68.69,
+              85.86,
+              107.32
+            ],
+            "artists": [
+              {
+                "slug": "surface",
+                "title": "Surface",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 4.8,
+            "duration": 5,
+            "score": 10.17,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Shower Me With Your Love",
+            "instanceSlug": 531,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1989-08",
+            "playlists": [
+            ],
+            "ranks": [
+              19.1,
+              11.8,
+              8.2,
+              9.4,
+              11.5,
+              14.38,
+              17.97,
+              22.46,
+              28.08,
+              35.1,
+              43.87,
+              54.84
+            ],
+            "artists": [
+              {
+                "slug": "surface",
+                "title": "Surface",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 19.1,
+            "peakRank": 8.2,
+            "duration": 3,
+            "score": 3.24,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 3
+          }
+        ],
+        "score": 23.58,
+        "songAdjustedAverage": 13.61,
+        "rank": 333
+      },
+      {
+        "title": "Kool & the Gang",
+        "instanceSlug": "koolnthegang",
+        "tags": [
+          "1970s",
+          "1980s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "new-jersey",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Celebration",
+            "instanceSlug": 765,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1980-12",
+            "playlists": [
+            ],
+            "ranks": [
+              13,
+              2.55,
+              1,
+              1.04,
+              1.11,
+              1.22,
+              1.53,
+              1.91,
+              2.38,
+              2.98,
+              3.72,
+              4.65,
+              5.82,
+              7.27,
+              9.09,
+              11.36,
+              14.2,
+              17.75,
+              22.19,
+              27.74,
+              34.67,
+              43.34,
+              54.18,
+              67.72
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 1,
+            "duration": 6,
+            "score": 30.36,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Victory",
+            "instanceSlug": 766,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1986-12",
+            "playlists": [
+            ],
+            "ranks": [
+              15.6,
+              8.6,
+              5.5,
+              4.9,
+              4.8,
+              5.4,
+              6.75,
+              8.44,
+              10.55,
+              13.18,
+              16.48,
+              20.6,
+              25.75,
+              32.19,
+              40.23,
+              50.29
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15.6,
+            "peakRank": 4.8,
+            "duration": 4,
+            "score": 9.77,
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Ladies' Night",
+            "instanceSlug": 828,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1979-11",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              9.9,
+              5.8,
+              6.2,
+              8.5,
+              11.65,
+              15.98,
+              21.9,
+              30.03,
+              41.17,
+              56.44,
+              77.38
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 5.8,
+            "duration": 3,
+            "score": 4.93,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Too Hot",
+            "instanceSlug": 2,
+            "tags": [
+            ],
+            "genre": "soul",
+            "debut": "1980-02",
+            "ranks": [
+              24.9,
+              14.5,
+              8.4,
+              8.5,
+              9.1,
+              10.2,
+              12.75,
+              15.94,
+              19.92,
+              24.9,
+              31.13,
+              38.91,
+              48.64,
+              60.8,
+              76,
+              94.99
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 24.9,
+            "peakRank": 8.4,
+            "duration": 4,
+            "score": 4.22,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Stone Love",
+            "instanceSlug": 767,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1987-03",
+            "playlists": [
+            ],
+            "ranks": [
+              15.9,
+              9.5,
+              8,
+              8.9,
+              11.13,
+              13.91,
+              17.38,
+              21.73,
+              27.16,
+              33.95,
+              42.44,
+              53.05
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15.9,
+            "peakRank": 8,
+            "duration": 3,
+            "score": 3.82,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Fresh",
+            "instanceSlug": 422,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1985-05",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              8.6,
+              10.3,
+              12.88,
+              16.09,
+              20.12,
+              25.15,
+              31.43,
+              39.29,
+              49.11,
+              61.39,
+              76.74
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 8.6,
+            "duration": 3,
+            "score": 2.35,
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Get Down On It",
+            "instanceSlug": 2517,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1982-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Let's Go Dancing",
+            "instanceSlug": 2518,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1982-12",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Take My Heart (You Can Have It If You Want It)",
+            "instanceSlug": 1534,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1981-11",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "Cherish",
+            "instanceSlug": 421,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1985-08",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Misled",
+            "instanceSlug": 1759,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "urban",
+            "debut": "1985-01",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "urban",
+                "title": "Urban / R&B"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Big Fun",
+            "instanceSlug": 668,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1982-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "Emergency",
+            "instanceSlug": 1379,
+            "tags": [
+              "emergency"
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1985-12",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 13
+          },
+          {
+            "title": "Jungle Boogie",
+            "instanceSlug": 2515,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": 1974,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 14
+          },
+          {
+            "title": "Hollywood Swinging",
+            "instanceSlug": 2516,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": 1974,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 15
+          },
+          {
+            "title": "Joanna",
+            "instanceSlug": 78,
+            "tags": [
+              "#1",
+              "#1-r&b",
+              "women"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1983-12",
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 16
+          },
+          {
+            "title": "Tonight",
+            "instanceSlug": 2519,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "funk",
+            "debut": "1984-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "koolnthegang",
+                "title": "Kool & the Gang",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "funk",
+                "title": "Funk"
+              }
+            ],
+            "rank": 17
+          }
+        ],
+        "score": 55.45,
+        "songAdjustedAverage": 13.45,
+        "rank": 339
+      },
+      {
+        "title": "Juice Newton",
+        "instanceSlug": "juice-newton",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "country",
+          "pop",
+          "pop-country"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "new-jersey",
+        "birth": 1952,
+        "death": "",
+        "type": "f",
+        "songs": [
+          {
+            "title": "Love's Been a Little Bit Hard on Me",
+            "instanceSlug": 383,
+            "tags": [
+              "been",
+              "bit",
+              "hard",
+              "little",
+              "love",
+              "me"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1982-06",
+            "playlists": [
+            ],
+            "ranks": [
+              16,
+              9.8,
+              6.4,
+              4.6,
+              3.5,
+              3.2,
+              3.65,
+              4.56,
+              5.7,
+              7.13,
+              8.91,
+              11.14,
+              13.92,
+              17.4,
+              21.76,
+              27.19,
+              33.99,
+              42.49,
+              53.11,
+              66.39
+            ],
+            "artists": [
+              {
+                "slug": "juice-newton",
+                "title": "Juice Newton",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 16,
+            "peakRank": 3.2,
+            "duration": 5,
+            "score": 14.54,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Queen of Hearts",
+            "instanceSlug": 909,
+            "tags": [
+              "#2",
+              "#2-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1981-07",
+            "playlists": [
+            ],
+            "ranks": [
+              13.9,
+              4,
+              2.2,
+              2.2,
+              3.2,
+              4.65,
+              6.77,
+              9.85,
+              14.32,
+              20.83,
+              30.3,
+              44.08,
+              64.12,
+              93.26,
+              135.65,
+              197.31
+            ],
+            "artists": [
+              {
+                "slug": "juice-newton",
+                "title": "Juice Newton",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13.9,
+            "peakRank": 2.2,
+            "duration": 4,
+            "score": 11.84,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Angel of the Morning",
+            "instanceSlug": 1390,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "angel",
+              "morning",
+              "remake",
+              "this-in-that"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1981-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "juice-newton",
+                "title": "Juice Newton",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "The Sweetest Thing (I've Ever Known)",
+            "instanceSlug": 1535,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary",
+              "#1-country",
+              "sweetest-thing"
+            ],
+            "parents": [
+            ],
+            "genre": "country",
+            "debut": "1981-11",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "juice-newton",
+                "title": "Juice Newton",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "country",
+                "title": "Country"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Tell Her No",
+            "instanceSlug": 356,
+            "tags": [
+              "tell-her"
+            ],
+            "playlists": [
+              {
+                "slug": "remake",
+                "title": "Remakes"
+              },
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1983-09",
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "juice-newton",
+                "title": "Juice Newton",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 5
+          }
+        ],
+        "score": 26.38,
+        "songAdjustedAverage": 11.8,
+        "rank": 387
+      },
+      {
+        "title": "PM Dawn",
+        "instanceSlug": "pm-dawn",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "dance-rap"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "new-jersey",
+        "birth": "",
+        "death": "",
+        "type": "d",
+        "songs": [
+          {
+            "title": "I'd Die Without You",
+            "instanceSlug": 895,
+            "tags": [
+              "without-you"
+            ],
+            "parents": [
+            ],
+            "genre": "pop-ballad",
+            "debut": "1992-10",
+            "source": "boomerang",
+            "playlists": [
+            ],
+            "ranks": [
+              12.5,
+              3.1,
+              1,
+              1.35,
+              1.82,
+              2.46,
+              3.32,
+              4.48,
+              6.05,
+              8.17,
+              11.03,
+              14.89,
+              20.11,
+              27.14,
+              36.64,
+              49.47,
+              66.78,
+              90.16,
+              121.71,
+              164.31
+            ],
+            "artists": [
+              {
+                "slug": "pm-dawn",
+                "title": "PM Dawn",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 12.5,
+            "peakRank": 1,
+            "duration": 5,
+            "score": 18.84,
+            "genres": [
+              {
+                "slug": "pop-ballad",
+                "title": "Pop Ballad"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Set Adrift on Memory Bliss",
+            "instanceSlug": 1522,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "dance-pop",
+            "debut": "1991-11",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "pm-dawn",
+                "title": "PM Dawn",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance-pop",
+                "title": "Dance-Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Paper Doll",
+            "instanceSlug": 2638,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1992-02",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "pm-dawn",
+                "title": "PM Dawn",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Looking Through Patient Eyes",
+            "instanceSlug": 2639,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1993-04",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "pm-dawn",
+                "title": "PM Dawn",
+                "roleSlug": true
+              },
+              {
+                "slug": "cathy-dennis",
+                "title": "Cathy Dennis",
+                "roleSlug": "backup"
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 4
+          }
+        ],
+        "score": 18.84,
+        "songAdjustedAverage": 9.42,
+        "rank": 469
+      },
+      {
+        "title": "Bruce Springsteen",
+        "instanceSlug": "bruce-springsteen",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "rock"
+        ],
+        "members": [
+        ],
+        "origin": "new-jersey",
+        "birth": 1949,
+        "death": "",
+        "complete": true,
+        "type": "m",
+        "songs": [
+          {
+            "title": "Tunnel of Love",
+            "instanceSlug": 611,
+            "tags": [
+              "#1",
+              "#1-mainstream-rock",
+              "this-of-that"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1988-01",
+            "playlists": [
+            ],
+            "ranks": [
+              15.9,
+              8.8,
+              4.8,
+              2.6,
+              2.2,
+              2.4,
+              3.1,
+              4,
+              5.17,
+              6.68,
+              8.63,
+              11.15,
+              14.4,
+              18.6,
+              24.02,
+              31.03,
+              40.07,
+              51.76,
+              66.86,
+              86.36
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15.9,
+            "peakRank": 2.2,
+            "duration": 5,
+            "score": 16.65,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Cover Me",
+            "instanceSlug": 700,
+            "tags": [
+              "cover",
+              "me"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-09",
+            "playlists": [
+            ],
+            "ranks": [
+              17.9,
+              10.6,
+              6.2,
+              6.6,
+              7.5,
+              9.38,
+              11.72,
+              14.65,
+              18.31,
+              22.89,
+              28.61,
+              35.76,
+              44.7,
+              55.88,
+              69.85,
+              87.31
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17.9,
+            "peakRank": 6.2,
+            "duration": 4,
+            "score": 5.74,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "I'm Going Down",
+            "instanceSlug": 939,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1985-09",
+            "playlists": [
+            ],
+            "ranks": [
+              19,
+              14,
+              11,
+              9.8,
+              8.5,
+              10,
+              12.5,
+              15.63,
+              19.53,
+              24.41,
+              30.52,
+              38.15,
+              47.68,
+              59.6,
+              74.51,
+              93.13
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 19,
+            "peakRank": 8.5,
+            "duration": 4,
+            "score": 4.05,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Brilliant Disguise",
+            "instanceSlug": 576,
+            "tags": [
+              "#1",
+              "#1-mainstream-rock"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1987-10",
+            "playlists": [
+            ],
+            "ranks": [
+              25,
+              21,
+              18,
+              16,
+              14.7,
+              13.9,
+              14.2,
+              14.9,
+              17,
+              21.25,
+              26.56,
+              33.2,
+              41.5,
+              51.88,
+              64.85,
+              81.06
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 25,
+            "peakRank": 13.9,
+            "duration": 4,
+            "score": 1.83,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Born in the USA",
+            "instanceSlug": 1772,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-12",
+            "playlists": [
+            ],
+            "ranks": [
+              24,
+              18,
+              15,
+              12,
+              14.6,
+              18.25,
+              22.81,
+              28.52,
+              35.64,
+              44.56,
+              55.69,
+              69.62
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 24,
+            "peakRank": 12,
+            "duration": 3,
+            "score": 1.33,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Fade Away",
+            "instanceSlug": 2676,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1981-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Glory Days",
+            "instanceSlug": 1633,
+            "tags": [
+              "day",
+              "glory"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1985-06",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "I'm on Fire",
+            "instanceSlug": 2678,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1985-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "My Hometown",
+            "instanceSlug": 2679,
+            "tags": [
+              "#1",
+              "#1-adult-contemporary"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1986-01",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "War",
+            "instanceSlug": 1481,
+            "tags": [
+              "",
+              "war"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1986-12",
+            "playlists": [
+              {
+                "slug": "remake",
+                "title": "Remakes"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Born to Run",
+            "instanceSlug": 2674,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": 1975,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 11
+          },
+          {
+            "title": "Hungry Heart",
+            "instanceSlug": 2675,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1980-11",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 12
+          },
+          {
+            "title": "Dancing in the Dark",
+            "instanceSlug": 2677,
+            "tags": [
+              "#1",
+              "#1-mainstream-rock",
+              "#2-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1984-06",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "bruce-springsteen",
+                "title": "Bruce Springsteen",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 13
+          }
+        ],
+        "score": 29.6,
+        "songAdjustedAverage": 8.21,
+        "rank": 514
+      },
+      {
+        "title": "Gloria Gaynor",
+        "instanceSlug": "gloria-gaynor",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "disco"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "new-jersey",
+        "birth": 1949,
+        "death": "",
+        "type": "f",
+        "songs": [
+          {
+            "title": "Never Can Say Goodbye",
+            "instanceSlug": 2542,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "disco",
+            "debut": 1974,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "gloria-gaynor",
+                "title": "Gloria Gaynor",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "disco",
+                "title": "Disco"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "I Will Survive",
+            "instanceSlug": 2543,
+            "tags": [
+              "#1",
+              "#1-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "disco",
+            "debut": "1979-02",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "gloria-gaynor",
+                "title": "Gloria Gaynor",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "disco",
+                "title": "Disco"
+              }
+            ],
+            "rank": 2
+          }
+        ],
+        "score": 0,
+        "songAdjustedAverage": 0,
+        "rank": 726
+      },
+      {
+        "title": "Moments / Ray Goodman & Brown",
+        "instanceSlug": "ray-goodman-brown",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "urban"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": false,
+        "origin": "new-jersey",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "Special Lady",
+            "instanceSlug": 1662,
+            "tags": [
+              "#1",
+              "#1-r&b"
+            ],
+            "parents": [
+            ],
+            "genre": "soul",
+            "debut": "1980-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "ray-goodman-brown",
+                "title": "Moments / Ray Goodman & Brown",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "soul",
+                "title": "Soul"
+              }
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 0,
+        "songAdjustedAverage": 0,
+        "rank": 864
+      },
+      {
+        "title": "Four Seasons",
+        "instanceSlug": "four-seasons",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+        ],
+        "members": [
+        ],
+        "complete": false,
+        "origin": "new-jersey",
+        "birth": "",
+        "death": "",
+        "songs": [
+          {
+            "title": "December 1963",
+            "instanceSlug": 1290,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1994-09",
+            "playlists": [
+              {
+                "slug": "months"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "four-seasons",
+                "title": "Four Seasons",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 0,
+        "songAdjustedAverage": 0,
+        "rank": 1055
+      }
+    ],
+    "score": 153.85,
+    "artistAdjustedAverage": 54.39
+  },
+  "birth": 1952,
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Queen of Hearts",
+      "instanceSlug": 909,
+      "tags": [
+        "#2",
+        "#2-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1981-07",
+      "playlists": [
+      ],
+      "ranks": [
+        13.9,
+        4,
+        2.2,
+        2.2,
+        3.2
+      ],
+      "scores": [
+        0.122,
+        0.537,
+        0.737,
+        0.737,
+        0.612,
+        0.607,
+        0.597,
+        0.582,
+        0.562,
+        0.537,
+        0.507,
+        0.472,
+        0.432,
+        0.387,
+        0.337,
+        0.282,
+        0.222,
+        0.157,
+        0.087,
+        0.012,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.122,
+      "duration": 5.25,
+      "score": 8.525,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Love's Been a Little Bit Hard on Me",
+      "instanceSlug": 383,
+      "tags": [
+        "been",
+        "bit",
+        "hard",
+        "little",
+        "love",
+        "me"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-06",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        9.8,
+        6.4,
+        4.6,
+        3.5,
+        3.2,
+        3.65
+      ],
+      "scores": [
+        0.075,
+        0.239,
+        0.381,
+        0.491,
+        0.582,
+        0.612,
+        0.568,
+        0.563,
+        0.553,
+        0.538,
+        0.518,
+        0.493,
+        0.463,
+        0.428,
+        0.388,
+        0.343,
+        0.293,
+        0.238,
+        0.178,
+        0.113,
+        0.043,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5.5,
+      "score": 8.1,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Angel of the Morning",
+      "instanceSlug": 1390,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "angel",
+        "morning",
+        "remake",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1981-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "The Sweetest Thing (I've Ever Known)",
+      "instanceSlug": 1535,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-country",
+        "sweetest-thing"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1981-11",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "country"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Tell Her No",
+      "instanceSlug": 356,
+      "tags": [
+        "tell-her"
+      ],
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1983-09",
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    }
+  ],
+  "score": 16.625,
+  "songCount": 5,
+  "songAdjustedAverage": 7.4349260251868,
+  "rank": 350
+}

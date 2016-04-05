@@ -1,1 +1,53 @@
-{"title":"Culture Beat","instanceSlug":"culture-beat","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Mr. Vain","instanceSlug":1597,"tags":["mr."],"parents":[],"genre":"dance","debut":"1993-12","playlists":[],"ranks":[],"genres":["dance"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":935}
+{
+  "title": "Culture Beat",
+  "instanceSlug": "culture-beat",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Mr. Vain",
+      "instanceSlug": 1597,
+      "tags": [
+        "mr."
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1993-12",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 977
+}

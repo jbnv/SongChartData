@@ -1,1 +1,143 @@
-{"title":"Jon Secada","instanceSlug":"jon-secada","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Believe In Us","instanceSlug":875,"tags":[],"parents":[],"genre":"pop","debut":"1992-09","playlists":[],"ranks":[15,4.7,2.8,2.4,2.23,2.57,2.91,3.59,4.61,5.97,7.67,9.71,12.09,14.81,17.87,21.27,25.01,29.09,33.51,38.27,43.37,48.81,54.59,60.71],"debutRank":15,"peakRank":2.23,"duration":6,"score":19.05,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Coming Out of the Dark","instanceSlug":1213,"tags":[],"genre":"pop","debut":"1991-02","playlists":[],"ranks":[14,5,1.3,1.4,1.55,1.75,1.95,2.3,2.65,3.35,4.4,5.8,7.55,9.65,12.1,14.9,18.05,21.55,25.4,29.6,34.15,39.05,44.3,49.9,55.85,62.15,68.8,75.8],"debutRank":14,"peakRank":1.3,"duration":7,"score":2.5850000000000004,"genres":["pop"],"role":"backup","scoreFactor":0.1,"rank":2}],"score":21.64,"songAdjustedAverage":15.3,"rank":321}
+{
+  "title": "Jon Secada",
+  "instanceSlug": "jon-secada",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Believe In Us",
+      "instanceSlug": 875,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1992-09",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        4.7,
+        2.8,
+        2.4,
+        2.23,
+        2.57
+      ],
+      "scores": [
+        0.097,
+        0.484,
+        0.656,
+        0.708,
+        0.732,
+        0.685,
+        0.68,
+        0.67,
+        0.655,
+        0.635,
+        0.61,
+        0.58,
+        0.545,
+        0.505,
+        0.46,
+        0.41,
+        0.355,
+        0.295,
+        0.23,
+        0.16,
+        0.085,
+        0.005,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.75,
+      "score": 10.242000000000004,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Coming Out of the Dark",
+      "instanceSlug": 1213,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1991-02",
+      "playlists": [
+      ],
+      "ranks": [
+        14,
+        5,
+        1.3,
+        1.4,
+        1.55,
+        1.75,
+        1.95,
+        2.3
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.912,
+        0.887,
+        0.853,
+        0.813,
+        0.777,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.12,
+      "duration": 6.25,
+      "score": 1.3018999999999998,
+      "genres": [
+        "pop"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 2
+    }
+  ],
+  "score": 11.543900000000004,
+  "songCount": 2,
+  "songAdjustedAverage": 8.162769971339388,
+  "rank": 319
+}

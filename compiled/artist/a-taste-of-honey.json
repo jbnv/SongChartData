@@ -1,1 +1,78 @@
-{"title":"A Taste of Honey","instanceSlug":"a-taste-of-honey","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Boogie Oogie Oogie","instanceSlug":536,"tags":[],"parents":[],"genre":true,"debut":"1978-08","playlists":[],"ranks":[20,11.3,6.4,4.3,7.8,11.3,18.3,28.8,42.8,60.3,81.3,105.8],"debutRank":20,"peakRank":4.3,"duration":3,"score":4.88,"genres":[true],"role":true,"scoreFactor":1,"rank":1}],"score":4.88,"songAdjustedAverage":4.88,"rank":638}
+{
+  "title": "A Taste of Honey",
+  "instanceSlug": "a-taste-of-honey",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Boogie Oogie Oogie",
+      "instanceSlug": 536,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1978-08",
+      "playlists": [
+      ],
+      "ranks": [
+        20,
+        11.3,
+        6.4,
+        4.3,
+        7.8
+      ],
+      "scores": [
+        0.001,
+        0.191,
+        0.381,
+        0.513,
+        0.315,
+        0.31,
+        0.3,
+        0.285,
+        0.265,
+        0.24,
+        0.21,
+        0.175,
+        0.135,
+        0.09,
+        0.04,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 4,
+      "score": 3.4509999999999996,
+      "genres": [
+        true
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 3.4509999999999996,
+  "songCount": 1,
+  "songAdjustedAverage": 3.4509999999999996,
+  "rank": 598
+}

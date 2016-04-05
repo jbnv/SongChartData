@@ -1,1 +1,28 @@
-{"title":"Buddy Holly","instanceSlug":"buddy-holly","tags":[{"slug":"hof","title":"Rock & Roll Hall of Fame Members"}],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[],"score":0,"songAdjustedAverage":null,"rank":1027}
+{
+  "title": "Buddy Holly",
+  "instanceSlug": "buddy-holly",
+  "tags": [
+    {
+      "slug": "hof",
+      "title": "Rock & Roll Hall of Fame Members"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+  ],
+  "score": 0,
+  "songCount": 0,
+  "songAdjustedAverage": null,
+  "rank": 1069
+}

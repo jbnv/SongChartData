@@ -1,1 +1,67 @@
-{"title":"Boy George","instanceSlug":"boy-george","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"songs":[{"title":"The Crying Game","instanceSlug":729,"tags":[],"parents":[],"genre":"pop","debut":"1993","source":"crying-game","playlists":[],"ranks":[21,17,14,12.5,11.5,13.2,14.9,18.3,23.4,30.2,38.7,48.9,60.8,74.4,89.7,106.7],"debutRank":21,"peakRank":11.5,"duration":4,"score":2.37,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":2.37,"songAdjustedAverage":2.37,"rank":698}
+{
+  "title": "Boy George",
+  "instanceSlug": "boy-george",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "The Crying Game",
+      "instanceSlug": 729,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1993",
+      "source": "crying-game",
+      "playlists": [
+      ],
+      "ranks": [
+        21,
+        17,
+        14,
+        12.5,
+        11.5,
+        13.2
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.158,
+        0.185,
+        0.139,
+        0.134,
+        0.124,
+        0.109,
+        0.089,
+        0.064,
+        0.034,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 3,
+      "score": 1.211,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 1.211,
+  "songCount": 1,
+  "songAdjustedAverage": 1.211,
+  "rank": 703
+}

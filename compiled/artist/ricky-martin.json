@@ -1,1 +1,171 @@
-{"title":"Ricky Martin","instanceSlug":"ricky-martin","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Living La Vida Loca","instanceSlug":1041,"tags":["crazy","living"],"parents":[],"genre":"latin-dance","debut":"1999-02","playlists":[],"ranks":[11,4,2,1.5,1.7,1.9,2.1,2.4,2.8,3.5,4.2,5.6,7.7,10.5,14,18.2,23.1,28.7,35,42,49.7,58.1,67.2,77],"debutRank":11,"peakRank":1.5,"duration":6,"score":24.95,"genres":["latin-dance"],"role":true,"scoreFactor":1,"rank":1},{"title":"The Cup of Life","instanceSlug":537,"tags":[],"parents":[],"genre":"latin-dance-1","debut":"1999-08","playlists":[],"ranks":[12,1.7,1.38,1.555,1.73,2.08,2.61,3.31,4.18,5.23,6.46,7.86,9.43,11.18,13.11,15.21,17.48,19.93,22.56,25.36,28.33,31.48,34.81,38.31,41.98,45.83,49.86,54.06],"debutRank":12,"peakRank":1.38,"duration":7,"score":23.97,"genres":["latin-dance-1"],"role":true,"scoreFactor":1,"rank":2},{"title":"Shake Your Bonbon","instanceSlug":1501,"tags":["shake","your"],"parents":[],"genre":"latin","debut":"1999-11","playlists":[],"ranks":[],"genres":["latin"],"role":true,"scoreFactor":1,"score":null,"rank":3}],"score":48.92,"songAdjustedAverage":28.24,"rank":67}
+{
+  "title": "Ricky Martin",
+  "instanceSlug": "ricky-martin",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "The Cup of Life",
+      "instanceSlug": 537,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "latin-dance-1",
+      "debut": "1999-08",
+      "playlists": [
+      ],
+      "ranks": [
+        12,
+        1.7,
+        1.38,
+        1.555
+      ],
+      "scores": [
+        0.171,
+        0.823,
+        0.892,
+        0.852,
+        0.847,
+        0.837,
+        0.822,
+        0.802,
+        0.777,
+        0.747,
+        0.712,
+        0.672,
+        0.627,
+        0.577,
+        0.522,
+        0.462,
+        0.397,
+        0.327,
+        0.252,
+        0.172,
+        0.087,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 5.5,
+      "score": 12.377000000000002,
+      "genres": [
+        "latin-dance-1"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Living La Vida Loca",
+      "instanceSlug": 1041,
+      "tags": [
+        "crazy",
+        "living"
+      ],
+      "parents": [
+      ],
+      "genre": "latin-dance",
+      "debut": "1999-02",
+      "playlists": [
+      ],
+      "ranks": [
+        11,
+        4,
+        2,
+        1.5,
+        1.7,
+        1.9,
+        2.1,
+        2.4,
+        2.8,
+        3.5
+      ],
+      "scores": [
+        0.2,
+        0.537,
+        0.768,
+        0.864,
+        0.823,
+        0.786,
+        0.752,
+        0.708,
+        0.656,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.2,
+      "duration": 6.25,
+      "score": 12.024000000000001,
+      "genres": [
+        "latin-dance"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Shake Your Bonbon",
+      "instanceSlug": 1501,
+      "tags": [
+        "shake",
+        "your"
+      ],
+      "parents": [
+      ],
+      "genre": "latin",
+      "debut": "1999-11",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "latin"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    }
+  ],
+  "score": 24.401000000000003,
+  "songCount": 3,
+  "songAdjustedAverage": 14.087923918496061,
+  "rank": 72
+}

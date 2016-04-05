@@ -1,1 +1,193 @@
-{"title":"Atlanta Rhythm Section","instanceSlug":"atlanta-rhythm-section","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"So In to You","instanceSlug":1881,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1977-03","playlists":[],"ranks":[16,8,4.2,3,3.5,4,5,6.5,8.5,11,14,17.5,21.5,26,31,36.5,42.5,49,56,63.5],"debutRank":16,"peakRank":3,"duration":5,"score":12.45,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":1},{"title":"Spooky","instanceSlug":1884,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1979-09","playlists":[],"ranks":[16.5,5.2,5.4,6.2,7,8.6,11,14.2,18.2,23,28.6,35,42.2,50.2,59,68.6],"debutRank":16.5,"peakRank":5.2,"duration":4,"score":6.99,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":2},{"title":"I'm Not Gonna Let It Bother Me Tonight","instanceSlug":1883,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1978-07","playlists":[],"ranks":[16,7,8.2,9.4,11.8,15.4,20.2,26.2,33.4,41.8,51.4,62.2],"debutRank":16,"peakRank":7,"duration":3,"score":3.73,"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"rank":3},{"title":"Imaginary Lover","instanceSlug":1882,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1978-04","playlists":[],"ranks":[],"genres":["adult-contemporary"],"role":true,"scoreFactor":1,"score":null,"rank":4}],"score":23.17,"songAdjustedAverage":11.59,"rank":429}
+{
+  "title": "Atlanta Rhythm Section",
+  "instanceSlug": "atlanta-rhythm-section",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "So In to You",
+      "instanceSlug": 1881,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1977-03",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        8,
+        4.2,
+        3,
+        3.5
+      ],
+      "scores": [
+        0.075,
+        0.306,
+        0.521,
+        0.633,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 5,
+      "score": 7.465000000000002,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Spooky",
+      "instanceSlug": 1884,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1979-09",
+      "playlists": [
+      ],
+      "ranks": [
+        16.5,
+        5.2,
+        5.4,
+        6.2
+      ],
+      "scores": [
+        0.065,
+        0.45,
+        0.437,
+        0.391,
+        0.386,
+        0.376,
+        0.361,
+        0.341,
+        0.316,
+        0.286,
+        0.251,
+        0.211,
+        0.166,
+        0.116,
+        0.061,
+        0.001,
+        0
+      ],
+      "debutScore": 0.065,
+      "peakScore": 0.065,
+      "duration": 4.25,
+      "score": 4.215,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "I'm Not Gonna Let It Bother Me Tonight",
+      "instanceSlug": 1883,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1978-07",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        7,
+        8.2
+      ],
+      "scores": [
+        0.075,
+        0.351,
+        0.298,
+        0.293,
+        0.283,
+        0.268,
+        0.248,
+        0.223,
+        0.193,
+        0.158,
+        0.118,
+        0.073,
+        0.023,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 3.5,
+      "score": 2.6039999999999996,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Imaginary Lover",
+      "instanceSlug": 1882,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1978-04",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "adult-contemporary"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    }
+  ],
+  "score": 14.284,
+  "songCount": 4,
+  "songAdjustedAverage": 7.142,
+  "rank": 370
+}

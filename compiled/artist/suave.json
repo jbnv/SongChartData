@@ -1,1 +1,73 @@
-{"title":"Suavé","instanceSlug":"suave","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"My Girl","instanceSlug":793,"tags":[],"parents":[],"genre":"urban","debut":"1988-05","playlists":["remake"],"ranks":[17,10.1,8,6,6.7,7.4,8.8,10.9,13.7,17.2,21.4,26.3,31.9,38.2,45.2,52.9],"debutRank":17,"peakRank":6,"duration":4,"score":7.05,"genres":["urban"],"role":true,"scoreFactor":1,"rank":1}],"score":7.05,"songAdjustedAverage":7.05,"rank":573}
+{
+  "title": "Suavé",
+  "instanceSlug": "suave",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "My Girl",
+      "instanceSlug": 793,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1988-05",
+      "playlists": [
+        "remake"
+      ],
+      "ranks": [
+        17,
+        10.1,
+        8,
+        6,
+        6.7
+      ],
+      "scores": [
+        0.055,
+        0.229,
+        0.306,
+        0.402,
+        0.365,
+        0.36,
+        0.35,
+        0.335,
+        0.315,
+        0.29,
+        0.26,
+        0.225,
+        0.185,
+        0.14,
+        0.09,
+        0.035,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4.25,
+      "score": 3.9420000000000006,
+      "genres": [
+        "urban"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 3.9420000000000006,
+  "songCount": 1,
+  "songAdjustedAverage": 3.9420000000000006,
+  "rank": 572
+}

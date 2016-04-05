@@ -1,1 +1,82 @@
-{"title":"Saigon Kick","instanceSlug":"saigon-kick","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Love Is On the Way","instanceSlug":888,"tags":[],"parents":[],"genre":"rock","debut":"1992-09","playlists":[],"ranks":[15.9,9.2,5.3,4.6,6,7.4,10.2,14.4,20,27,35.4,45.2,56.4,69,83,98.4],"debutRank":15.9,"peakRank":4.6,"duration":4,"score":7.04,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1}],"score":7.04,"songAdjustedAverage":7.04,"rank":575}
+{
+  "title": "Saigon Kick",
+  "instanceSlug": "saigon-kick",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Love Is On the Way",
+      "instanceSlug": 888,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1992-09",
+      "playlists": [
+      ],
+      "ranks": [
+        15.9,
+        9.2,
+        5.3,
+        4.6,
+        6
+      ],
+      "scores": [
+        0.077,
+        0.26,
+        0.444,
+        0.491,
+        0.402,
+        0.397,
+        0.387,
+        0.372,
+        0.352,
+        0.327,
+        0.297,
+        0.262,
+        0.222,
+        0.177,
+        0.127,
+        0.072,
+        0.012,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.077,
+      "duration": 4.5,
+      "score": 4.677999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.677999999999999,
+  "songCount": 1,
+  "songAdjustedAverage": 4.677999999999999,
+  "rank": 529
+}

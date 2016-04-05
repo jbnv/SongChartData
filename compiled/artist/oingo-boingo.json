@@ -1,1 +1,125 @@
-{"title":"Oingo Boingo","instanceSlug":"oingo-boingo","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Dead Man's Party","instanceSlug":10,"tags":["halloween","party"],"parents":[],"genre":"pop","debut":"1980s","ranks":[11,3.1,1.1,1.29,1.48,1.86,2.43,3.19,4.14,5.28,6.61,8.13,9.84,11.74,13.83,16.11,18.58,21.24,24.09,27.13,30.36,33.78,37.39,41.19,45.18,49.36,53.73,58.29],"debutRank":11,"peakRank":1.1,"duration":7,"score":23.91,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Weird Science","instanceSlug":"weird science","tags":[],"parents":[],"debut":1985,"playlists":[],"ranks":[18,9,7,5.2,5.5,5.8,6.7,7.6,9.4,12.1,15.7,20.2,25.6,31.9,39.1,47.2,56.2,66.1,76.9,88.6],"debutRank":18,"peakRank":5.2,"duration":5,"score":9.44,"role":true,"scoreFactor":1,"rank":2}],"score":33.35,"songAdjustedAverage":23.58,"rank":116}
+{
+  "title": "Oingo Boingo",
+  "instanceSlug": "oingo-boingo",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Dead Man's Party",
+      "instanceSlug": 10,
+      "tags": [
+        "halloween",
+        "party"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1980s",
+      "ranks": [
+        11,
+        3.1,
+        1.1,
+        1.29
+      ],
+      "scores": [
+        0.2,
+        0.622,
+        0.968,
+        0.915,
+        0.91,
+        0.9,
+        0.885,
+        0.865,
+        0.84,
+        0.81,
+        0.775,
+        0.735,
+        0.69,
+        0.64,
+        0.585,
+        0.525,
+        0.46,
+        0.39,
+        0.315,
+        0.235,
+        0.15,
+        0.06,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.2,
+      "duration": 5.75,
+      "score": 13.475000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Weird Science",
+      "instanceSlug": "weird-science",
+      "tags": [
+      ],
+      "debut": 1985,
+      "playlists": [
+      ],
+      "scores": [
+        0.2,
+        0.45,
+        0.464,
+        0.471,
+        0.465,
+        0.452,
+        0.431,
+        0.404,
+        0.365,
+        0.36,
+        0.35,
+        0.335,
+        0.315,
+        0.29,
+        0.26,
+        0.225,
+        0.185,
+        0.14,
+        0.09,
+        0.035,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.2,
+      "duration": 5.25,
+      "score": 6.286999999999999,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 19.762,
+  "songCount": 2,
+  "songAdjustedAverage": 13.97384420980855,
+  "rank": 75
+}

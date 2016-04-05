@@ -1,1 +1,204 @@
-{"title":"Kelly Clarkson","instanceSlug":"kelly-clarkson","tags":[{"slug":"2000s","title":"Major Artists of the 2000s"},{"slug":"2010s","title":"Major Artists of the 2010s"}],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Breakaway","instanceSlug":2016,"tags":[],"parents":[],"genre":"pop","debut":2004,"playlists":[],"ranks":[12,4,2,2.05,2.12,2.29,2.7,3.11,3.93,5.16,6.8,8.85,11.31,14.18,17.46,21.15,25.25,29.76,34.68,40.01,45.75,51.9,58.46,65.43],"debutRank":12,"peakRank":2,"duration":6,"score":20.97,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"A Moment Like This","instanceSlug":2014,"tags":[],"parents":[],"genre":"pop","debut":2002,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":2},{"title":"Miss Independent","instanceSlug":2015,"tags":[],"parents":[],"genre":"pop","debut":2003,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"Since U Been Gone","instanceSlug":2017,"tags":[],"parents":[],"genre":"pop","debut":2005,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Stronger","instanceSlug":3037,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2000s","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":5},{"title":"Invincible","instanceSlug":3071,"tags":[],"parents":[],"genre":"pop","debut":"2015-07","playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":6}],"score":20.97,"songAdjustedAverage":8.56,"rank":534}
+{
+  "title": "Kelly Clarkson",
+  "instanceSlug": "kelly-clarkson",
+  "tags": [
+    {
+      "slug": "2000s",
+      "title": "Major Artists of the 2000s"
+    },
+    {
+      "slug": "2010s",
+      "title": "Major Artists of the 2010s"
+    }
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Breakaway",
+      "instanceSlug": 2016,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2004,
+      "playlists": [
+      ],
+      "ranks": [
+        12,
+        4,
+        2,
+        2.05,
+        2.12,
+        2.29,
+        2.7
+      ],
+      "scores": [
+        0.171,
+        0.537,
+        0.768,
+        0.76,
+        0.749,
+        0.723,
+        0.668,
+        0.663,
+        0.653,
+        0.638,
+        0.618,
+        0.593,
+        0.563,
+        0.528,
+        0.488,
+        0.443,
+        0.393,
+        0.338,
+        0.278,
+        0.213,
+        0.143,
+        0.068,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.171,
+      "duration": 5.75,
+      "score": 10.996,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "A Moment Like This",
+      "instanceSlug": 2014,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2002,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Miss Independent",
+      "instanceSlug": 2015,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2003,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Since U Been Gone",
+      "instanceSlug": 2017,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2005,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Stronger",
+      "instanceSlug": 3037,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2000s",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "Invincible",
+      "instanceSlug": 3071,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2015-07",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    }
+  ],
+  "score": 10.996,
+  "songCount": 6,
+  "songAdjustedAverage": 4.489098201940639,
+  "rank": 537
+}

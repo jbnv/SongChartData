@@ -1,1 +1,94 @@
-{"title":"Lou Gramm","instanceSlug":"lou-gramm","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Just Between You and Me","instanceSlug":1327,"tags":["between","just","me","you","you-and-me"],"parents":[],"genre":"pop","debut":"1989-10","playlists":[],"ranks":[17,11,8,6,4.4,4.22,4.5,5.1,5.7,6.9,8.7,11.1,14.1,17.7,21.9,26.7,32.1,38.1,44.7,51.9],"debutRank":17,"peakRank":4.22,"duration":5,"score":13.08,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":13.08,"songAdjustedAverage":13.08,"rank":380}
+{
+  "title": "Lou Gramm",
+  "instanceSlug": "lou-gramm",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Just Between You and Me",
+      "instanceSlug": 1327,
+      "tags": [
+        "between",
+        "just",
+        "me",
+        "you",
+        "you-and-me"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1989-10",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        11,
+        8,
+        6,
+        4.4,
+        4.22,
+        4.5,
+        5.1
+      ],
+      "scores": [
+        0.055,
+        0.2,
+        0.306,
+        0.402,
+        0.506,
+        0.52,
+        0.498,
+        0.456,
+        0.451,
+        0.441,
+        0.426,
+        0.406,
+        0.381,
+        0.351,
+        0.316,
+        0.276,
+        0.231,
+        0.181,
+        0.126,
+        0.066,
+        0.001,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 5.5,
+      "score": 6.596,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 6.596,
+  "songCount": 1,
+  "songAdjustedAverage": 6.596,
+  "rank": 406
+}

@@ -1,1 +1,119 @@
-{"title":"Full Force","instanceSlug":"full-force","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"I Wonder If I Take You Home","instanceSlug":2041,"tags":[],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[16,9,6,6.1,6.5,6.9,7.7,8.9,10.5,12.5,14.9,17.7,20.9,24.5,28.5,32.9,37.7,42.9,48.5,54.5],"debutRank":16,"peakRank":6,"duration":5,"score":2.2375,"genres":["pop"],"role":"feature","scoreFactor":0.25,"rank":1},{"title":"All Cried Out","instanceSlug":270,"tags":[],"playlists":["feb13"],"genre":"pop","debut":"1986-09","ranks":[19.9,11.8,8.7,8.5,8.6,9.2,10.1,11,12.8,15.5,19.1,23.6,29,35.3,42.5,50.6],"debutRank":19.9,"peakRank":8.5,"duration":4,"score":1.48,"genres":["pop"],"role":"feature","scoreFactor":0.25,"rank":2}],"score":3.72,"songAdjustedAverage":2.63,"rank":695}
+{
+  "title": "Full Force",
+  "instanceSlug": "full-force",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "I Wonder If I Take You Home",
+      "instanceSlug": 2041,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-08",
+      "playlists": [
+      ],
+      "ranks": [
+        16,
+        9,
+        6,
+        6.1,
+        6.5
+      ],
+      "scores": [
+        0.075,
+        0.267,
+        0.402,
+        0.397,
+        0.376,
+        0.371,
+        0.361,
+        0.346,
+        0.326,
+        0.301,
+        0.271,
+        0.236,
+        0.196,
+        0.151,
+        0.101,
+        0.046,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.075,
+      "duration": 4.25,
+      "score": 1.0557500000000002,
+      "genres": [
+        "pop"
+      ],
+      "role": "feature",
+      "scoreFactor": 0.25,
+      "rank": 1
+    },
+    {
+      "title": "All Cried Out",
+      "instanceSlug": 270,
+      "tags": [
+      ],
+      "playlists": [
+        "feb13"
+      ],
+      "genre": "pop",
+      "debut": "1986-09",
+      "ranks": [
+        19.9,
+        11.8,
+        8.7,
+        8.5,
+        8.6,
+        9.2,
+        10.1
+      ],
+      "scores": [
+        0.003,
+        0.177,
+        0.278,
+        0.286,
+        0.282,
+        0.26,
+        0.229,
+        0.224,
+        0.214,
+        0.199,
+        0.179,
+        0.154,
+        0.124,
+        0.089,
+        0.049,
+        0.004,
+        0
+      ],
+      "debutScore": 0.003,
+      "peakScore": 0.003,
+      "duration": 4.25,
+      "score": 0.68775,
+      "genres": [
+        "pop"
+      ],
+      "role": "feature",
+      "scoreFactor": 0.25,
+      "rank": 2
+    }
+  ],
+  "score": 1.7435,
+  "songCount": 2,
+  "songAdjustedAverage": 1.2328406729987456,
+  "rank": 702
+}

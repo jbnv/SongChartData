@@ -1,1 +1,81 @@
-{"title":"Autograph","instanceSlug":"autograph","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"Turn Up the Radio","instanceSlug":1887,"tags":[],"parents":[],"genre":"rock","debut":"1985-03","playlists":[],"ranks":[18,10,6.8,6,6.1,6.8,7.5,8.9,11,13.8,17.3,21.5,26.4,32,38.3,45.3,53,61.4,70.5,80.3],"debutRank":18,"peakRank":6,"duration":5,"score":8.3,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1}],"score":8.3,"songAdjustedAverage":8.3,"rank":542}
+{
+  "title": "Autograph",
+  "instanceSlug": "autograph",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "Turn Up the Radio",
+      "instanceSlug": 1887,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-03",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        10,
+        6.8,
+        6,
+        6.1,
+        6.8
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.361,
+        0.402,
+        0.397,
+        0.361,
+        0.356,
+        0.346,
+        0.331,
+        0.311,
+        0.286,
+        0.256,
+        0.221,
+        0.181,
+        0.136,
+        0.086,
+        0.031,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 4.5,
+      "score": 4.33,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 4.33,
+  "songCount": 1,
+  "songAdjustedAverage": 4.33,
+  "rank": 552
+}

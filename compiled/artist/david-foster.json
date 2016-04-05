@@ -1,1 +1,216 @@
-{"title":"David Foster","instanceSlug":"david-foster","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Stay the Night","instanceSlug":1044,"tags":[],"parents":[],"genres":["rock","pop"],"debut":"1984-06","playlists":[],"source":"chicago17","ranks":[17,14,11,9,8.5,7.7,7.4,8.1,8.8,10.2,12.3,15.1,18.6,22.8,27.7,33.3,39.6,46.6,54.3,62.7],"debutRank":17,"peakRank":7.4,"duration":5,"score":1.602,"role":"producer","scoreFactor":0.2,"rank":1},{"title":"Hard Habit to Break","instanceSlug":701,"tags":[],"parents":[],"genres":["jazz-rock","pop"],"debut":"1984-09","playlists":[],"source":"chicago17","ranks":[20,15,10,11,12,13,15,17,21,27,35,45,57,71,87,105],"debutRank":20,"peakRank":10,"duration":4,"score":0.6000000000000001,"role":"producer","scoreFactor":0.2,"rank":2},{"title":"You're the Inspiration","instanceSlug":1777,"tags":[],"parents":[],"genres":["rock","pop"],"debut":"1984-12","playlists":[],"source":"chicago17","ranks":[24,18,15,12,13,14.8,16.6,20.2,25.6,32.8,41.8,52.6],"debutRank":24,"peakRank":12,"duration":3,"score":0.37000000000000005,"role":"producer","scoreFactor":0.2,"rank":3},{"title":"Love Theme from St. Elmo's Fire","instanceSlug":1376,"tags":[],"genres":["adult-contemporary"],"debut":"1985-10","playlists":["instrumental"],"ranks":[],"source":"st-elmo-s-fire","role":true,"scoreFactor":1,"score":null,"rank":4},{"title":"Along Comes a Woman","instanceSlug":2000,"tags":[],"genres":["jazz-rock","pop"],"source":"chicago17","debut":"1985-03","playlists":[],"ranks":[],"role":"producer","scoreFactor":0.2,"score":null,"rank":5}],"score":2.57,"songAdjustedAverage":1.15,"rank":731}
+{
+  "title": "David Foster",
+  "instanceSlug": "david-foster",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Stay the Night",
+      "instanceSlug": 1044,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        "rock",
+        "pop"
+      ],
+      "debut": "1984-06",
+      "playlists": [
+      ],
+      "source": "chicago17",
+      "ranks": [
+        17,
+        14,
+        11,
+        9,
+        8.5,
+        7.7,
+        7.4,
+        8.1
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.2,
+        0.267,
+        0.286,
+        0.319,
+        0.332,
+        0.302,
+        0.297,
+        0.287,
+        0.272,
+        0.252,
+        0.227,
+        0.197,
+        0.162,
+        0.122,
+        0.077,
+        0.027,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4.75,
+      "score": 0.7602,
+      "role": "producer",
+      "scoreFactor": 0.2,
+      "rank": 1
+    },
+    {
+      "title": "Hard Habit to Break",
+      "instanceSlug": 701,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        "jazz-rock",
+        "pop"
+      ],
+      "debut": "1984-09",
+      "playlists": [
+      ],
+      "source": "chicago17",
+      "ranks": [
+        20,
+        15,
+        10,
+        11,
+        12,
+        13,
+        15
+      ],
+      "scores": [
+        0.001,
+        0.097,
+        0.232,
+        0.2,
+        0.171,
+        0.145,
+        0.097,
+        0.092,
+        0.082,
+        0.067,
+        0.047,
+        0.022,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 3.25,
+      "score": 0.25060000000000004,
+      "role": "producer",
+      "scoreFactor": 0.2,
+      "rank": 2
+    },
+    {
+      "title": "You're the Inspiration",
+      "instanceSlug": 1777,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        "rock",
+        "pop"
+      ],
+      "debut": "1984-12",
+      "playlists": [
+      ],
+      "source": "chicago17",
+      "ranks": [
+        24,
+        18,
+        15,
+        12,
+        13,
+        14.8
+      ],
+      "scores": [
+        0.036,
+        0.097,
+        0.171,
+        0.145,
+        0.101,
+        0.096,
+        0.086,
+        0.071,
+        0.051,
+        0.026,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 2.75,
+      "score": 0.17600000000000002,
+      "role": "producer",
+      "scoreFactor": 0.2,
+      "rank": 3
+    },
+    {
+      "title": "Love Theme from St. Elmo's Fire",
+      "instanceSlug": 1376,
+      "tags": [
+      ],
+      "genres": [
+        "adult-contemporary"
+      ],
+      "debut": "1985-10",
+      "playlists": [
+        "instrumental"
+      ],
+      "ranks": [
+      ],
+      "source": "st-elmo-s-fire",
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Along Comes a Woman",
+      "instanceSlug": 2000,
+      "tags": [
+      ],
+      "genres": [
+        "jazz-rock",
+        "pop"
+      ],
+      "source": "chicago17",
+      "debut": "1985-03",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": "producer",
+      "scoreFactor": 0.2,
+      "rank": 5
+    }
+  ],
+  "score": 1.1868,
+  "songCount": 5,
+  "songAdjustedAverage": 0.5307530951393501,
+  "rank": 733
+}

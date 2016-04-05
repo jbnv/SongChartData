@@ -1,1 +1,63 @@
-{"title":"Rick Nelson","instanceSlug":"rick-nelson","tags":[{"slug":"1950s","title":"Major Artists of the 1950s"},{"slug":"1960s","title":"Major Artists of the 1960s"},{"slug":"hof","title":"Rock & Roll Hall of Fame Members"}],"genres":[],"type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"xref":["nelson"],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"Garden Party","instanceSlug":1840,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":962}
+{
+  "title": "Rick Nelson",
+  "instanceSlug": "rick-nelson",
+  "tags": [
+    {
+      "slug": "1950s",
+      "title": "Major Artists of the 1950s"
+    },
+    {
+      "slug": "1960s",
+      "title": "Major Artists of the 1960s"
+    },
+    {
+      "slug": "hof",
+      "title": "Rock & Roll Hall of Fame Members"
+    }
+  ],
+  "genres": [
+  ],
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "xref": [
+    "nelson"
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "Garden Party",
+      "instanceSlug": 1840,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1972,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 963
+}

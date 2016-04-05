@@ -1,1 +1,84 @@
-{"title":"Stacy Q","instanceSlug":"stacy-q","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"Two of Hearts","instanceSlug":650,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[],"ranks":[19,12,8,6,5,5.56,6.12,7.24,8.92,11.16,13.96,17.32,21.24,25.72,30.76,36.36,42.52,49.24,56.52,64.36],"debutRank":19,"peakRank":5,"duration":5,"score":9.49,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":9.49,"songAdjustedAverage":9.49,"rank":502}
+{
+  "title": "Stacy Q",
+  "instanceSlug": "stacy-q",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "Two of Hearts",
+      "instanceSlug": 650,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-09",
+      "playlists": [
+      ],
+      "ranks": [
+        19,
+        12,
+        8,
+        6,
+        5,
+        5.56
+      ],
+      "scores": [
+        0.018,
+        0.171,
+        0.306,
+        0.402,
+        0.463,
+        0.428,
+        0.423,
+        0.413,
+        0.398,
+        0.378,
+        0.353,
+        0.323,
+        0.288,
+        0.248,
+        0.203,
+        0.153,
+        0.098,
+        0.038,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.018,
+      "duration": 4.75,
+      "score": 5.104000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 5.104000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 5.104000000000001,
+  "rank": 497
+}

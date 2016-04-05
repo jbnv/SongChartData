@@ -1,1 +1,156 @@
-{"title":"Baltimora","instanceSlug":"baltimora","tags":[],"parents":[],"genres":[{"slug":"pop","title":"Pop"}],"members":[],"origin":{"title":"Northern Ireland","instanceSlug":"northern-ireland","tags":[],"parents":["uk"],"artists":[{"title":"Baltimora","instanceSlug":"baltimora","tags":[],"parents":[],"genres":["pop"],"members":[],"origin":"northern-ireland","birth":1957,"death":1995,"complete":true,"type":"m","songs":[{"title":"Tarzan Boy","instanceSlug":1739,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[18,14,11,12.5,15.63,19.53,24.41,30.52,38.15,47.68,59.6,74.51],"artists":[{"slug":"baltimora","title":"Baltimora","roleSlug":true}],"debutRank":18,"peakRank":11,"duration":3,"score":1.83,"genres":[{"slug":"pop","title":"Pop"}],"rank":1}],"score":1.83,"songAdjustedAverage":1.83,"rank":686}],"score":1.83,"artistAdjustedAverage":1.83},"birth":1957,"death":1995,"complete":true,"type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Tarzan Boy","instanceSlug":1739,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[18,14,11,12.5,14,17,21.5,27.5,35,44,54.5,66.5],"debutRank":18,"peakRank":11,"duration":3,"score":2.07,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":2.07,"songAdjustedAverage":2.07,"rank":706}
+{
+  "title": "Baltimora",
+  "instanceSlug": "baltimora",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "members": [
+  ],
+  "origin": {
+    "title": "Northern Ireland",
+    "instanceSlug": "northern-ireland",
+    "tags": [
+    ],
+    "parents": [
+      "uk"
+    ],
+    "artists": [
+      {
+        "title": "Baltimora",
+        "instanceSlug": "baltimora",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "pop"
+        ],
+        "members": [
+        ],
+        "origin": "northern-ireland",
+        "birth": 1957,
+        "death": 1995,
+        "complete": true,
+        "type": "m",
+        "songs": [
+          {
+            "title": "Tarzan Boy",
+            "instanceSlug": 1739,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1986-01",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              14,
+              11,
+              12.5,
+              15.63,
+              19.53,
+              24.41,
+              30.52,
+              38.15,
+              47.68,
+              59.6,
+              74.51
+            ],
+            "artists": [
+              {
+                "slug": "baltimora",
+                "title": "Baltimora",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 11,
+            "duration": 3,
+            "score": 1.83,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 1
+          }
+        ],
+        "score": 1.83,
+        "songAdjustedAverage": 1.83,
+        "rank": 686
+      }
+    ],
+    "score": 1.83,
+    "artistAdjustedAverage": 1.83
+  },
+  "birth": 1957,
+  "death": 1995,
+  "complete": true,
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Tarzan Boy",
+      "instanceSlug": 1739,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": [
+        18,
+        14,
+        11,
+        12.5
+      ],
+      "scores": [
+        0.036,
+        0.12,
+        0.2,
+        0.158,
+        0.153,
+        0.143,
+        0.128,
+        0.108,
+        0.083,
+        0.053,
+        0.018,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 3,
+      "score": 1.2,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 1.2,
+  "songCount": 1,
+  "songAdjustedAverage": 1.2,
+  "rank": 704
+}

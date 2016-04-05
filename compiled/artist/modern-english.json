@@ -1,1 +1,79 @@
-{"title":"Modern English","instanceSlug":"modern-english","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Group (deprecated)","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"g"},"songs":[{"title":"I Melt With You","instanceSlug":1624,"tags":["i","melt","with","you"],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[24,18,15,12,13.2,14.4,16.8,20.4,25.2,31.2,38.4,46.8,56.4,67.2,79.2,92.4],"debutRank":24,"peakRank":12,"duration":4,"score":1.85,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1}],"score":1.85,"songAdjustedAverage":1.85,"rank":715}
+{
+  "title": "Modern English",
+  "instanceSlug": "modern-english",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Group (deprecated)",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "g"
+  },
+  "songs": [
+    {
+      "title": "I Melt With You",
+      "instanceSlug": 1624,
+      "tags": [
+        "i",
+        "melt",
+        "with",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": [
+        24,
+        18,
+        15,
+        12,
+        13.2
+      ],
+      "scores": [
+        0.036,
+        0.097,
+        0.171,
+        0.139,
+        0.134,
+        0.124,
+        0.109,
+        0.089,
+        0.064,
+        0.034,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.036,
+      "duration": 2.75,
+      "score": 0.9970000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0.9970000000000001,
+  "songCount": 1,
+  "songAdjustedAverage": 0.9970000000000001,
+  "rank": 712
+}

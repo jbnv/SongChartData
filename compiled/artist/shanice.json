@@ -1,1 +1,247 @@
-{"title":"Shanice","instanceSlug":"shanice","tags":[],"genres":[{"slug":"r&b"}],"xref":[],"complete":false,"origin":{"title":"Pittsburgh","instanceSlug":"pittsburgh","tags":[],"parents":["pennsylvania"],"artists":[{"title":"Snap!","instanceSlug":"snap","tags":[],"parents":[],"genres":["techno-dance"],"members":[],"xref":[],"complete":true,"origin":"pittsburgh","birth":"","death":"","type":"d","songs":[{"title":"Rhythm is a Dancer","instanceSlug":873,"tags":[],"parents":[],"genre":"dance","debut":"1992-10","playlists":[],"ranks":[17,7.6,5.5,4.9,5.25,5.78,8,11.07,15.33,21.21,29.36,40.64,56.24,77.84,107.74,149.12],"artists":[{"slug":"snap","title":"Snap!","roleSlug":true}],"debutRank":17,"peakRank":4.9,"duration":4,"score":8.22,"genres":[{"slug":"dance","title":"Dance"}],"rank":1},{"title":"The Power","instanceSlug":2936,"tags":[],"parents":[],"genre":"techno-dance","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"snap","title":"Snap!","roleSlug":true}],"genres":[{"slug":"techno-dance","title":"Techno-Dance"}],"rank":2},{"title":"Ooops Up","instanceSlug":2937,"tags":[],"parents":[],"genre":"dance","debut":"1990-10","playlists":[],"ranks":[],"artists":[{"slug":"snap","title":"Snap!","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"rank":3}],"score":8.22,"songAdjustedAverage":4.75,"rank":624}],"score":8.22,"artistAdjustedAverage":8.22},"birth":"1973-05","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"I Love Your Smile","instanceSlug":1071,"tags":["i-love","#1","#1-r&b"],"genre":"pop","debut":"1991-12","playlists":[],"ranks":[7.5,1,1.09,1.18,1.36,1.63,1.99,2.44,2.98,3.61,4.33,5.14,6.04,7.03,8.11,9.28,10.54,11.89,13.33,14.86,16.48,18.19,19.99,21.88,23.86,25.93,28.09,30.34,32.68,35.11,37.63,40.24,42.94,45.73,48.61,51.58],"note":"Project 6 weeks at #1.","debutRank":7.5,"peakRank":1,"duration":9,"score":31.99,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Saving Forever For You","instanceSlug":"shanice01","tags":[],"debut":"1992-12","source":"beverly-hills-90210","playlists":[],"ranks":[],"role":true,"scoreFactor":1,"score":null,"rank":2}],"score":31.99,"songAdjustedAverage":22.62,"rank":129}
+{
+  "title": "Shanice",
+  "instanceSlug": "shanice",
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "r&b"
+    }
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": {
+    "title": "Pittsburgh",
+    "instanceSlug": "pittsburgh",
+    "tags": [
+    ],
+    "parents": [
+      "pennsylvania"
+    ],
+    "artists": [
+      {
+        "title": "Snap!",
+        "instanceSlug": "snap",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "techno-dance"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "pittsburgh",
+        "birth": "",
+        "death": "",
+        "type": "d",
+        "songs": [
+          {
+            "title": "Rhythm is a Dancer",
+            "instanceSlug": 873,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1992-10",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              7.6,
+              5.5,
+              4.9,
+              5.25,
+              5.78,
+              8,
+              11.07,
+              15.33,
+              21.21,
+              29.36,
+              40.64,
+              56.24,
+              77.84,
+              107.74,
+              149.12
+            ],
+            "artists": [
+              {
+                "slug": "snap",
+                "title": "Snap!",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 4.9,
+            "duration": 4,
+            "score": 8.22,
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "The Power",
+            "instanceSlug": 2936,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "techno-dance",
+            "debut": "1990-06",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "snap",
+                "title": "Snap!",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "techno-dance",
+                "title": "Techno-Dance"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "Ooops Up",
+            "instanceSlug": 2937,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "dance",
+            "debut": "1990-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "snap",
+                "title": "Snap!",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "dance",
+                "title": "Dance"
+              }
+            ],
+            "rank": 3
+          }
+        ],
+        "score": 8.22,
+        "songAdjustedAverage": 4.75,
+        "rank": 624
+      }
+    ],
+    "score": 8.22,
+    "artistAdjustedAverage": 8.22
+  },
+  "birth": "1973-05",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "I Love Your Smile",
+      "instanceSlug": 1071,
+      "tags": [
+        "i-love",
+        "#1",
+        "#1-r&b"
+      ],
+      "genre": "pop",
+      "debut": "1991-12",
+      "playlists": [
+      ],
+      "ranks": [
+        7.5,
+        1,
+        1.09
+      ],
+      "note": "Project 6 weeks at #1.",
+      "scores": [
+        0.328,
+        1,
+        0.971,
+        0.966,
+        0.956,
+        0.941,
+        0.921,
+        0.896,
+        0.866,
+        0.831,
+        0.791,
+        0.746,
+        0.696,
+        0.641,
+        0.581,
+        0.516,
+        0.446,
+        0.371,
+        0.291,
+        0.206,
+        0.116,
+        0.021,
+        0
+      ],
+      "debutScore": 0.328,
+      "peakScore": 0.328,
+      "duration": 5.75,
+      "score": 14.098,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Saving Forever For You",
+      "instanceSlug": "shanice01",
+      "tags": [
+      ],
+      "debut": "1992-12",
+      "source": "beverly-hills-90210",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    }
+  ],
+  "score": 14.098,
+  "songCount": 2,
+  "songAdjustedAverage": 9.968791401167946,
+  "rank": 220
+}

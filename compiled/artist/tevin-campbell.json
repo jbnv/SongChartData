@@ -1,1 +1,212 @@
-{"title":"Tevin Campbell","instanceSlug":"tevin-campbell","tags":[],"parents":[],"genres":[{"slug":"soul","title":"Soul"}],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Male","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"m"},"songs":[{"title":"Round and Round","instanceSlug":1142,"tags":["round"],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[15,9,5,3.9,3.4,3,2.9,3,3,15,3.3,3.5,3.8,4.15,4.5,5,5.75,6.5,8,10.25,13.25,17,21.5,26.75,32.75,39.5,47,55.25],"debutRank":15,"peakRank":2.9,"duration":7,"score":28.07,"genres":["pop"],"role":true,"scoreFactor":1,"rank":1},{"title":"Can We Talk","instanceSlug":704,"tags":[],"parents":[],"genre":"soul","debut":"1993-10","playlists":[],"ranks":[15,8.9,6.4,6.2,6,6.15,6.3,6.5,6.9,7.7,8.5,10.1,12.5,15.7,19.7,24.5,30.1,36.5,43.7,51.7],"debutRank":15,"peakRank":6,"duration":5,"score":12.42,"genres":["soul"],"role":true,"scoreFactor":1,"rank":2},{"title":"Tell Me","instanceSlug":1509,"tags":[],"parents":[],"genre":"soul","debut":"1991-12","playlists":[],"ranks":[],"genres":["soul"],"role":true,"scoreFactor":1,"score":null,"rank":3},{"title":"Strawberry Letter 23","instanceSlug":3060,"tags":[],"parents":[],"genre":"pop","debut":"1992-06","playlists":["remake","summer"],"ranks":[],"genres":["pop"],"role":true,"scoreFactor":1,"score":null,"rank":4}],"score":40.49,"songAdjustedAverage":20.25,"rank":193}
+{
+  "title": "Tevin Campbell",
+  "instanceSlug": "tevin-campbell",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Male",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "m"
+  },
+  "songs": [
+    {
+      "title": "Round and Round",
+      "instanceSlug": 1142,
+      "tags": [
+        "round"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1991,
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        9,
+        5,
+        3.9,
+        3.4,
+        3,
+        2.9,
+        3,
+        3,
+        15,
+        3.3,
+        3.5,
+        3.8,
+        4.15,
+        4.5,
+        5,
+        5.75
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.463,
+        0.546,
+        0.592,
+        0.633,
+        0.645,
+        0.633,
+        0.633,
+        0.097,
+        0.602,
+        0.582,
+        0.554,
+        0.525,
+        0.498,
+        0.463,
+        0.416,
+        0.411,
+        0.401,
+        0.386,
+        0.366,
+        0.341,
+        0.311,
+        0.276,
+        0.236,
+        0.191,
+        0.141,
+        0.086,
+        0.026,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 7.5,
+      "score": 11.418000000000001,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Can We Talk",
+      "instanceSlug": 704,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1993-10",
+      "playlists": [
+      ],
+      "ranks": [
+        15,
+        8.9,
+        6.4,
+        6.2,
+        6,
+        6.15,
+        6.3,
+        6.5,
+        6.9,
+        7.7
+      ],
+      "scores": [
+        0.097,
+        0.271,
+        0.381,
+        0.391,
+        0.402,
+        0.394,
+        0.386,
+        0.376,
+        0.356,
+        0.319,
+        0.314,
+        0.304,
+        0.289,
+        0.269,
+        0.244,
+        0.214,
+        0.179,
+        0.139,
+        0.094,
+        0.044,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.097,
+      "duration": 5.25,
+      "score": 5.463000000000001,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "Tell Me",
+      "instanceSlug": 1509,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1991-12",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "soul"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Strawberry Letter 23",
+      "instanceSlug": 3060,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1992-06",
+      "playlists": [
+        "remake",
+        "summer"
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "pop"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    }
+  ],
+  "score": 16.881,
+  "songCount": 4,
+  "songAdjustedAverage": 8.4405,
+  "rank": 303
+}

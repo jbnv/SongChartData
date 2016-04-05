@@ -1,1 +1,44 @@
-{"title":"Allure","instanceSlug":"allure","tags":[],"parents":[],"genres":[],"members":[],"type":"","origin":"","birth":"","death":"","complete":false,"songs":[{"title":"All Cried Out","instanceSlug":2109,"tags":[],"parents":[],"genre":"urban","debut":"1997-09","playlists":[],"ranks":[],"genres":["urban"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1180}
+{
+  "title": "Allure",
+  "instanceSlug": "allure",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "type": "",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "songs": [
+    {
+      "title": "All Cried Out",
+      "instanceSlug": 2109,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1997-09",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "urban"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1197
+}

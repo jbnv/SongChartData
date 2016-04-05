@@ -1,1 +1,48 @@
-{"title":"Sister Sledge","instanceSlug":"sister-sledge","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","songs":[{"title":"He's the Greatest Dancer","instanceSlug":1548,"tags":["dancer","greatest","he's"],"parents":[],"genre":"disco","debut":1979,"playlists":[],"ranks":[],"genres":["disco"],"role":true,"scoreFactor":1,"score":null,"rank":1}],"score":0,"songAdjustedAverage":0,"rank":1041}
+{
+  "title": "Sister Sledge",
+  "instanceSlug": "sister-sledge",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "songs": [
+    {
+      "title": "He's the Greatest Dancer",
+      "instanceSlug": 1548,
+      "tags": [
+        "dancer",
+        "greatest",
+        "he's"
+      ],
+      "parents": [
+      ],
+      "genre": "disco",
+      "debut": 1979,
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "disco"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "rank": 1042
+}

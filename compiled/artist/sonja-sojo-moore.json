@@ -1,1 +1,88 @@
-{"title":"Sonja \"Sojo\" Moore","instanceSlug":"sonja-sojo-moore","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":{"title":"Solo Female","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"f"},"songs":[{"title":"2 Legit 2 Quit","instanceSlug":1082,"tags":[],"parents":[],"genre":"rap","debut":"1991-12","playlists":[],"ranks":[8,1.03,1.08,1.15,1.31,1.47,1.79,2.27,2.91,3.71,4.67,5.79,7.07,8.51,10.11,11.87,13.79,15.87,18.11,20.51,23.07,25.79,28.67,31.71,34.91,38.27,41.79,45.47,49.31,53.31,57.47,61.79],"debutRank":8,"peakRank":1.03,"duration":8,"score":2.9770000000000003,"genres":["rap"],"role":"backup","scoreFactor":0.1,"rank":1}],"score":2.98,"songAdjustedAverage":2.98,"rank":682}
+{
+  "title": "Sonja \"Sojo\" Moore",
+  "instanceSlug": "sonja-sojo-moore",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+  ],
+  "members": [
+  ],
+  "xref": [
+  ],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": {
+    "title": "Solo Female",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "f"
+  },
+  "songs": [
+    {
+      "title": "2 Legit 2 Quit",
+      "instanceSlug": 1082,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rap",
+      "debut": "1991-12",
+      "playlists": [
+      ],
+      "ranks": [
+        8,
+        1.03,
+        1.08,
+        1.15,
+        1.31
+      ],
+      "scores": [
+        0.306,
+        0.99,
+        0.974,
+        0.953,
+        0.909,
+        0.904,
+        0.894,
+        0.879,
+        0.859,
+        0.834,
+        0.804,
+        0.769,
+        0.729,
+        0.684,
+        0.634,
+        0.579,
+        0.519,
+        0.454,
+        0.384,
+        0.309,
+        0.229,
+        0.144,
+        0.054,
+        0
+      ],
+      "debutScore": 0.306,
+      "peakScore": 0.306,
+      "duration": 6,
+      "score": 1.4794,
+      "genres": [
+        "rap"
+      ],
+      "role": "backup",
+      "scoreFactor": 0.1,
+      "rank": 1
+    }
+  ],
+  "score": 1.4794,
+  "songCount": 1,
+  "songAdjustedAverage": 1.4794,
+  "rank": 687
+}

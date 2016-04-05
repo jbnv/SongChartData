@@ -1,1 +1,1677 @@
-{"title":"INXS","instanceSlug":"inxs","tags":[{"slug":"1980s","title":"Major Artists of the 1980s"},{"slug":"1990s","title":"Major Artists of the 1990s"}],"genres":[{"slug":"alternative-rock","title":"Alternative Rock"}],"members":[],"complete":true,"origin":{"title":"Australia","instanceSlug":"australia","tags":[],"parents":[],"artists":[{"title":"Little River Band","instanceSlug":"little-river-band","tags":["1970s","1980s"],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"australia","birth":"","death":"","type":"g","songs":[{"title":"The Night Owls","instanceSlug":918,"tags":[],"parents":[],"genre":"rock","debut":"1981-09","playlists":[],"ranks":[13.9,4.5,1.9,1.41,1.56,1.95,2.44,3.05,3.81,4.76,5.95,7.44,9.3,11.62,14.53,18.16,22.7,28.38,35.47,44.34,55.42,69.28,86.6,108.25],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":13.9,"peakRank":1.41,"duration":6,"score":22.81,"genres":[{"slug":"rock","title":"Rock"}],"rank":1},{"title":"Lonesome Loser","instanceSlug":2037,"tags":[],"parents":[],"genre":"pop","debut":"1979-08","playlists":[],"ranks":[13,5,2.9,2.2,2.4,2.8,3.5,4.38,5.47,6.84,8.54,10.68,13.35,16.69,20.86,26.08,32.6,40.75,50.93,63.66],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":13,"peakRank":2.2,"duration":5,"score":17.8,"genres":[{"slug":"pop","title":"Pop"}],"rank":2},{"title":"The Other Guy","instanceSlug":2039,"tags":[],"parents":[],"genre":"pop","debut":"1982-12","playlists":[],"ranks":[10,2.1,2.35,2.94,3.67,4.59,5.74,7.17,8.96,11.21,14.01,17.51,21.89,27.36,34.2,42.75,53.43,66.79,83.49,104.36],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":10,"peakRank":2.1,"duration":5,"score":14.37,"genres":[{"slug":"pop","title":"Pop"}],"rank":3},{"title":"Cool Change","instanceSlug":5,"tags":["change","cool"],"parents":[],"genre":"pop","debut":"1979-11","ranks":[15,10,5,4.5,4.2,4.31,4.57,4.99,6.03,7.54,9.42,11.78,14.72,18.4,23,28.75,35.94,44.93,56.16,70.2],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":null}],"debutRank":15,"peakRank":4.2,"duration":5,"score":13.73,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":4},{"title":"Man on Your Mind","instanceSlug":2038,"tags":[],"parents":[],"genre":"rock","debut":"1982-05","playlists":[],"ranks":[15,7,4.1,3.2,3.5,3.9,4.88,6.09,7.62,9.52,11.9,14.88,18.6,23.25,29.06,36.32,45.4,56.75,70.94,88.68],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":15,"peakRank":3.2,"duration":5,"score":13.38,"genres":[{"slug":"rock","title":"Rock"}],"rank":5},{"title":"You're Driving Me Out of My Mind","instanceSlug":2040,"tags":[],"parents":[],"genre":"pop","debut":"1983-09","playlists":[],"ranks":[14,8,5,5.2,5.7,7.13,8.91,11.13,13.92,17.4,21.74,27.18,33.97,42.47,53.09,66.36],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":14,"peakRank":5,"duration":4,"score":8.23,"genres":[{"slug":"pop","title":"Pop"}],"rank":6},{"title":"It's a Long Way There","instanceSlug":2034,"tags":[],"parents":[],"genre":"pop","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":7},{"title":"Happy Anniversary","instanceSlug":2035,"tags":[],"parents":[],"genre":"pop","debut":"1978-01","playlists":[],"ranks":[],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":8},{"title":"Reminiscing","instanceSlug":2036,"tags":[],"parents":[],"genre":"pop","debut":"1978-09","playlists":[],"ranks":[],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":9},{"title":"Lady","instanceSlug":1551,"tags":["lady"],"parents":[],"genre":"pop","debut":"1979-02","playlists":[],"ranks":[],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":10},{"title":"Take It Easy on Me","instanceSlug":1493,"tags":[],"parents":[],"genre":"rock","debut":"1982-01","playlists":[],"ranks":[],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":11}],"score":90.32,"songAdjustedAverage":27.23,"rank":61},{"title":"INXS","instanceSlug":"inxs","tags":["1980s","1990s"],"parents":[],"genres":["alternative-rock"],"members":[],"complete":true,"origin":"australia","birth":"","death":"","type":"g","songs":[{"title":"What You Need","instanceSlug":585,"tags":[],"parents":[],"genre":"rock","debut":"1986-03","playlists":[],"ranks":[9,1,1.18,1.48,1.84,2.3,2.88,3.6,4.5,5.63,7.03,8.79,10.99,13.74,17.17,21.46,26.83,33.54,41.92,52.4],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":9,"peakRank":1,"duration":5,"score":23.25,"genres":[{"slug":"rock","title":"Rock"}],"rank":1},{"title":"Disappear","instanceSlug":260,"tags":["disappear"],"parents":[],"genre":"rock","debut":"1991-01","ranks":[13,4,2,1.24,1.56,1.96,2.47,3.11,3.91,4.92,6.19,7.78,9.79,12.32,15.49,19.49,24.52,30.85,38.81,48.83,61.43,77.28,97.22,122.32],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":13,"peakRank":1.24,"duration":6,"score":22.65,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"rank":2},{"title":"New Sensation","instanceSlug":2513,"tags":[],"parents":[],"genre":"rock","debut":"1988-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[20,13,9,7.6,6.5,6.9,8.4,10.5,13.13,16.41,20.51,25.63,32.04,40.05,50.07,62.58],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":20,"peakRank":6.5,"duration":4,"score":6.56,"genres":[{"slug":"rock","title":"Rock"}],"rank":3},{"title":"Need You Tonight","instanceSlug":1121,"tags":["#1","#1-hot-100","need-you"],"parents":[],"genre":"rock","debut":"1987-12","playlists":[],"ranks":[17,11,8,7,7.5,8.4,10.5,13.13,16.41,20.51,25.63,32.04,40.05,50.07,62.58,78.23],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":17,"peakRank":7,"duration":4,"score":5.88,"genres":[{"slug":"rock","title":"Rock"}],"rank":4},{"title":"Suicide Blonde","instanceSlug":177,"tags":["#1","#1-mainstream-rock","#1-modern-rock","hair","hair-color"],"parents":[],"genre":"rock","debut":"1990-10","ranks":[19.9,11.5,6.6,5.8,7.9,10.76,14.66,19.96,27.19,37.04,50.45,68.71],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":19.9,"peakRank":5.8,"duration":3,"score":4.8,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"rank":5},{"title":"Devil Inside","instanceSlug":780,"tags":["#2","#2-hot-100"],"parents":[],"genre":"rock","debut":"1988-03","playlists":[],"ranks":[17.9,10.7,8.9,9.6,10.9,13.63,17.03,21.29,26.61,33.26,41.58,51.98],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":17.9,"peakRank":8.9,"duration":3,"score":3.46,"genres":[{"slug":"rock","title":"Rock"}],"rank":6},{"title":"Never Tear Us Apart","instanceSlug":1308,"tags":[],"parents":[],"genre":"rock","debut":"1988-10","playlists":[],"ranks":[],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":7},{"title":"The One Thing","instanceSlug":2511,"tags":[],"parents":[],"genre":"rock","debut":"1983-06","playlists":[],"ranks":[],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":8},{"title":"Mediate","instanceSlug":2512,"tags":[],"parents":[],"genre":"rock","debut":"1987-12","playlists":[],"ranks":[],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":9},{"title":"Not Enough Time","instanceSlug":2514,"tags":[],"parents":[],"genre":"rock","debut":"1992-09","playlists":[],"ranks":[],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":10}],"score":66.6,"songAdjustedAverage":21.06,"rank":143},{"title":"Air Supply","instanceSlug":"air-supply","tags":[],"parents":[],"genres":["adult-contemporary"],"type":"g","origin":"australia","birth":"","death":"","complete":true,"songs":[{"title":"Even the Nights Are Better","instanceSlug":614,"tags":["better","even","night"],"parents":[],"genre":"adult-contemporary","debut":"1982-07","playlists":[],"ranks":[17,9.8,5.7,5.3,4.85,5,5.25,6,7.5,9.38,11.72,14.65,18.31,22.89,28.61,35.76,44.7,55.88,69.85,87.31],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"debutRank":17,"peakRank":4.85,"duration":5,"score":11.53,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":1},{"title":"Making Love Out of Nothing At All","instanceSlug":743,"tags":["make-love","nothing-at-all"],"parents":[],"genre":"pop-ballad","debut":"1983-08","playlists":[],"ranks":[15,8.7,5,4.7,5.29,6.61,8.27,10.33,12.92,16.14,20.18,25.22,31.53,39.41,49.27,61.58],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"debutRank":15,"peakRank":4.7,"duration":4,"score":8.63,"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"rank":2},{"title":"The One That You Love","instanceSlug":2095,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1981-06","playlists":[],"ranks":[18,7,8,10,12.5,15.63,19.53,24.41,30.52,38.15,47.68,59.6],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"debutRank":18,"peakRank":7,"duration":3,"score":3.53,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":3},{"title":"All Out of Love","instanceSlug":1843,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1980-08","playlists":[],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":4},{"title":"Lost in Love","instanceSlug":2093,"tags":[],"parents":[],"genre":"pop","debut":"1980-03","playlists":[],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":5},{"title":"Every Woman in the World","instanceSlug":2094,"tags":[],"parents":[],"genre":"pop-ballad","debut":"1980-12","playlists":[],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"rank":6},{"title":"Sweet Dreams","instanceSlug":2096,"tags":[],"parents":[],"genre":"pop-ballad","debut":"1982-01","playlists":[],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"pop-ballad","title":"Pop Ballad"}],"rank":7},{"title":"Here I Am (Just When I Thought I Was Over You)","instanceSlug":912,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1981-10","playlists":[],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":8}],"score":23.69,"songAdjustedAverage":8.38,"rank":510}],"score":180.61,"artistAdjustedAverage":104.28},"birth":"1970s","death":"","type":{"title":"All-Male Group","artists":[],"artistCount":0,"score":0,"artistAdjustedAverage":0,"slug":"mmm"},"songs":[{"title":"What You Need","instanceSlug":585,"tags":[],"parents":[],"genre":"rock","debut":"1986-03","playlists":[],"ranks":[9,1,1.18,1.36,1.72,2.26,2.98,3.88,4.96,6.22,7.66,9.28,11.08,13.06,15.22,17.56,20.08,22.78,25.66,28.72,31.96,35.38,38.98,42.76,46.72,50.86,55.18,59.68],"debutRank":9,"peakRank":1,"duration":7,"score":23.27,"genres":["rock"],"role":true,"scoreFactor":1,"rank":1},{"title":"Disappear","instanceSlug":260,"tags":["disappear"],"parents":[],"genre":"rock","debut":"1991-01","ranks":[13,4,2,1.24,1.56,1.88,2.52,3.48,4.76,6.36,8.28,10.52,13.08,15.96,19.16,22.68,26.52,30.68,35.16,39.96,45.08,50.52,56.28,62.36],"debutRank":13,"peakRank":1.24,"duration":6,"score":20.72,"genres":["rock"],"role":true,"scoreFactor":1,"rank":2},{"title":"New Sensation","instanceSlug":2513,"tags":[],"parents":[],"genre":"rock","debut":"1988-06","playlists":["summer"],"ranks":[20,13,9,7.6,6.5,6.9,8.4,9.9,12.9,17.4,23.4,30.9,39.9,50.4,62.4,75.9],"debutRank":20,"peakRank":6.5,"duration":4,"score":6.58,"genres":["rock"],"role":true,"scoreFactor":1,"rank":3},{"title":"Need You Tonight","instanceSlug":1121,"tags":["#1","#1-hot-100","need-you"],"parents":[],"genre":"rock","debut":"1987-12","playlists":[],"ranks":[17,11,8,7,7.5,8.4,9.3,11.1,13.8,17.4,21.9,27.3,33.6,40.8,48.9,57.9],"debutRank":17,"peakRank":7,"duration":4,"score":6.48,"genres":["rock"],"role":true,"scoreFactor":1,"rank":4},{"title":"Suicide Blonde","instanceSlug":177,"tags":["#1","#1-mainstream-rock","#1-modern-rock","hair","hair-color"],"parents":[],"genre":"rock","debut":"1990-10","ranks":[19.9,11.5,6.6,5.8,7.9,10,14.2,20.5,28.9,39.4,52,66.7],"debutRank":19.9,"peakRank":5.8,"duration":3,"score":4.9,"genres":["rock"],"role":true,"scoreFactor":1,"rank":5},{"title":"Devil Inside","instanceSlug":780,"tags":["#2","#2-hot-100"],"parents":[],"genre":"rock","debut":"1988-03","playlists":[],"ranks":[17.9,10.7,8.9,9.6,10.9,12.2,14.8,18.7,23.9,30.4,38.2,47.3,57.7,69.4,82.4,96.7],"debutRank":17.9,"peakRank":8.9,"duration":4,"score":3.78,"genres":["rock"],"role":true,"scoreFactor":1,"rank":6},{"title":"Never Tear Us Apart","instanceSlug":1308,"tags":[],"parents":[],"genre":"rock","debut":"1988-10","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":7},{"title":"The One Thing","instanceSlug":2511,"tags":[],"parents":[],"genre":"rock","debut":"1983-06","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":8},{"title":"Mediate","instanceSlug":2512,"tags":[],"parents":[],"genre":"rock","debut":"1987-12","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":9},{"title":"Not Enough Time","instanceSlug":2514,"tags":[],"parents":[],"genre":"rock","debut":"1992-09","playlists":[],"ranks":[],"genres":["rock"],"role":true,"scoreFactor":1,"score":null,"rank":10}],"score":65.73,"songAdjustedAverage":20.79,"rank":181}
+{
+  "title": "INXS",
+  "instanceSlug": "inxs",
+  "tags": [
+    {
+      "slug": "1980s",
+      "title": "Major Artists of the 1980s"
+    },
+    {
+      "slug": "1990s",
+      "title": "Major Artists of the 1990s"
+    }
+  ],
+  "genres": [
+    {
+      "slug": "alternative-rock",
+      "title": "Alternative Rock"
+    }
+  ],
+  "members": [
+  ],
+  "complete": true,
+  "origin": {
+    "title": "Australia",
+    "instanceSlug": "australia",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "artists": [
+      {
+        "title": "Little River Band",
+        "instanceSlug": "little-river-band",
+        "tags": [
+          "1970s",
+          "1980s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "rock"
+        ],
+        "members": [
+        ],
+        "xref": [
+        ],
+        "complete": true,
+        "origin": "australia",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "The Night Owls",
+            "instanceSlug": 918,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1981-09",
+            "playlists": [
+            ],
+            "ranks": [
+              13.9,
+              4.5,
+              1.9,
+              1.41,
+              1.56,
+              1.95,
+              2.44,
+              3.05,
+              3.81,
+              4.76,
+              5.95,
+              7.44,
+              9.3,
+              11.62,
+              14.53,
+              18.16,
+              22.7,
+              28.38,
+              35.47,
+              44.34,
+              55.42,
+              69.28,
+              86.6,
+              108.25
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13.9,
+            "peakRank": 1.41,
+            "duration": 6,
+            "score": 22.81,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Lonesome Loser",
+            "instanceSlug": 2037,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1979-08",
+            "playlists": [
+            ],
+            "ranks": [
+              13,
+              5,
+              2.9,
+              2.2,
+              2.4,
+              2.8,
+              3.5,
+              4.38,
+              5.47,
+              6.84,
+              8.54,
+              10.68,
+              13.35,
+              16.69,
+              20.86,
+              26.08,
+              32.6,
+              40.75,
+              50.93,
+              63.66
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 2.2,
+            "duration": 5,
+            "score": 17.8,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "The Other Guy",
+            "instanceSlug": 2039,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1982-12",
+            "playlists": [
+            ],
+            "ranks": [
+              10,
+              2.1,
+              2.35,
+              2.94,
+              3.67,
+              4.59,
+              5.74,
+              7.17,
+              8.96,
+              11.21,
+              14.01,
+              17.51,
+              21.89,
+              27.36,
+              34.2,
+              42.75,
+              53.43,
+              66.79,
+              83.49,
+              104.36
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 10,
+            "peakRank": 2.1,
+            "duration": 5,
+            "score": 14.37,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Cool Change",
+            "instanceSlug": 5,
+            "tags": [
+              "change",
+              "cool"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1979-11",
+            "ranks": [
+              15,
+              10,
+              5,
+              4.5,
+              4.2,
+              4.31,
+              4.57,
+              4.99,
+              6.03,
+              7.54,
+              9.42,
+              11.78,
+              14.72,
+              18.4,
+              23,
+              28.75,
+              35.94,
+              44.93,
+              56.16,
+              70.2
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": null
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 4.2,
+            "duration": 5,
+            "score": 13.73,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Man on Your Mind",
+            "instanceSlug": 2038,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1982-05",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              7,
+              4.1,
+              3.2,
+              3.5,
+              3.9,
+              4.88,
+              6.09,
+              7.62,
+              9.52,
+              11.9,
+              14.88,
+              18.6,
+              23.25,
+              29.06,
+              36.32,
+              45.4,
+              56.75,
+              70.94,
+              88.68
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 3.2,
+            "duration": 5,
+            "score": 13.38,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "You're Driving Me Out of My Mind",
+            "instanceSlug": 2040,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1983-09",
+            "playlists": [
+            ],
+            "ranks": [
+              14,
+              8,
+              5,
+              5.2,
+              5.7,
+              7.13,
+              8.91,
+              11.13,
+              13.92,
+              17.4,
+              21.74,
+              27.18,
+              33.97,
+              42.47,
+              53.09,
+              66.36
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 14,
+            "peakRank": 5,
+            "duration": 4,
+            "score": 8.23,
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "It's a Long Way There",
+            "instanceSlug": 2034,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": 1976,
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Happy Anniversary",
+            "instanceSlug": 2035,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1978-01",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Reminiscing",
+            "instanceSlug": 2036,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1978-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "Lady",
+            "instanceSlug": 1551,
+            "tags": [
+              "lady"
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1979-02",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 10
+          },
+          {
+            "title": "Take It Easy on Me",
+            "instanceSlug": 1493,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1982-01",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "little-river-band",
+                "title": "Little River Band",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 11
+          }
+        ],
+        "score": 90.32,
+        "songAdjustedAverage": 27.23,
+        "rank": 61
+      },
+      {
+        "title": "INXS",
+        "instanceSlug": "inxs",
+        "tags": [
+          "1980s",
+          "1990s"
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "alternative-rock"
+        ],
+        "members": [
+        ],
+        "complete": true,
+        "origin": "australia",
+        "birth": "",
+        "death": "",
+        "type": "g",
+        "songs": [
+          {
+            "title": "What You Need",
+            "instanceSlug": 585,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1986-03",
+            "playlists": [
+            ],
+            "ranks": [
+              9,
+              1,
+              1.18,
+              1.48,
+              1.84,
+              2.3,
+              2.88,
+              3.6,
+              4.5,
+              5.63,
+              7.03,
+              8.79,
+              10.99,
+              13.74,
+              17.17,
+              21.46,
+              26.83,
+              33.54,
+              41.92,
+              52.4
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 9,
+            "peakRank": 1,
+            "duration": 5,
+            "score": 23.25,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Disappear",
+            "instanceSlug": 260,
+            "tags": [
+              "disappear"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1991-01",
+            "ranks": [
+              13,
+              4,
+              2,
+              1.24,
+              1.56,
+              1.96,
+              2.47,
+              3.11,
+              3.91,
+              4.92,
+              6.19,
+              7.78,
+              9.79,
+              12.32,
+              15.49,
+              19.49,
+              24.52,
+              30.85,
+              38.81,
+              48.83,
+              61.43,
+              77.28,
+              97.22,
+              122.32
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 13,
+            "peakRank": 1.24,
+            "duration": 6,
+            "score": 22.65,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 2
+          },
+          {
+            "title": "New Sensation",
+            "instanceSlug": 2513,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1988-06",
+            "playlists": [
+              {
+                "slug": "summer",
+                "title": "Songs of Summer"
+              }
+            ],
+            "ranks": [
+              20,
+              13,
+              9,
+              7.6,
+              6.5,
+              6.9,
+              8.4,
+              10.5,
+              13.13,
+              16.41,
+              20.51,
+              25.63,
+              32.04,
+              40.05,
+              50.07,
+              62.58
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 20,
+            "peakRank": 6.5,
+            "duration": 4,
+            "score": 6.56,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "Need You Tonight",
+            "instanceSlug": 1121,
+            "tags": [
+              "#1",
+              "#1-hot-100",
+              "need-you"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1987-12",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              11,
+              8,
+              7,
+              7.5,
+              8.4,
+              10.5,
+              13.13,
+              16.41,
+              20.51,
+              25.63,
+              32.04,
+              40.05,
+              50.07,
+              62.58,
+              78.23
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 7,
+            "duration": 4,
+            "score": 5.88,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Suicide Blonde",
+            "instanceSlug": 177,
+            "tags": [
+              "#1",
+              "#1-mainstream-rock",
+              "#1-modern-rock",
+              "hair",
+              "hair-color"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1990-10",
+            "ranks": [
+              19.9,
+              11.5,
+              6.6,
+              5.8,
+              7.9,
+              10.76,
+              14.66,
+              19.96,
+              27.19,
+              37.04,
+              50.45,
+              68.71
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 19.9,
+            "peakRank": 5.8,
+            "duration": 3,
+            "score": 4.8,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "playlists": [
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Devil Inside",
+            "instanceSlug": 780,
+            "tags": [
+              "#2",
+              "#2-hot-100"
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1988-03",
+            "playlists": [
+            ],
+            "ranks": [
+              17.9,
+              10.7,
+              8.9,
+              9.6,
+              10.9,
+              13.63,
+              17.03,
+              21.29,
+              26.61,
+              33.26,
+              41.58,
+              51.98
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17.9,
+            "peakRank": 8.9,
+            "duration": 3,
+            "score": 3.46,
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Never Tear Us Apart",
+            "instanceSlug": 1308,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1988-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "The One Thing",
+            "instanceSlug": 2511,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1983-06",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 8
+          },
+          {
+            "title": "Mediate",
+            "instanceSlug": 2512,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1987-12",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 9
+          },
+          {
+            "title": "Not Enough Time",
+            "instanceSlug": 2514,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "rock",
+            "debut": "1992-09",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "inxs",
+                "title": "INXS",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "rock",
+                "title": "Rock"
+              }
+            ],
+            "rank": 10
+          }
+        ],
+        "score": 66.6,
+        "songAdjustedAverage": 21.06,
+        "rank": 143
+      },
+      {
+        "title": "Air Supply",
+        "instanceSlug": "air-supply",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "genres": [
+          "adult-contemporary"
+        ],
+        "type": "g",
+        "origin": "australia",
+        "birth": "",
+        "death": "",
+        "complete": true,
+        "songs": [
+          {
+            "title": "Even the Nights Are Better",
+            "instanceSlug": 614,
+            "tags": [
+              "better",
+              "even",
+              "night"
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1982-07",
+            "playlists": [
+            ],
+            "ranks": [
+              17,
+              9.8,
+              5.7,
+              5.3,
+              4.85,
+              5,
+              5.25,
+              6,
+              7.5,
+              9.38,
+              11.72,
+              14.65,
+              18.31,
+              22.89,
+              28.61,
+              35.76,
+              44.7,
+              55.88,
+              69.85,
+              87.31
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 17,
+            "peakRank": 4.85,
+            "duration": 5,
+            "score": 11.53,
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "rank": 1
+          },
+          {
+            "title": "Making Love Out of Nothing At All",
+            "instanceSlug": 743,
+            "tags": [
+              "make-love",
+              "nothing-at-all"
+            ],
+            "parents": [
+            ],
+            "genre": "pop-ballad",
+            "debut": "1983-08",
+            "playlists": [
+            ],
+            "ranks": [
+              15,
+              8.7,
+              5,
+              4.7,
+              5.29,
+              6.61,
+              8.27,
+              10.33,
+              12.92,
+              16.14,
+              20.18,
+              25.22,
+              31.53,
+              39.41,
+              49.27,
+              61.58
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 15,
+            "peakRank": 4.7,
+            "duration": 4,
+            "score": 8.63,
+            "genres": [
+              {
+                "slug": "pop-ballad",
+                "title": "Pop Ballad"
+              }
+            ],
+            "rank": 2
+          },
+          {
+            "title": "The One That You Love",
+            "instanceSlug": 2095,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1981-06",
+            "playlists": [
+            ],
+            "ranks": [
+              18,
+              7,
+              8,
+              10,
+              12.5,
+              15.63,
+              19.53,
+              24.41,
+              30.52,
+              38.15,
+              47.68,
+              59.6
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "debutRank": 18,
+            "peakRank": 7,
+            "duration": 3,
+            "score": 3.53,
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "rank": 3
+          },
+          {
+            "title": "All Out of Love",
+            "instanceSlug": 1843,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1980-08",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "rank": 4
+          },
+          {
+            "title": "Lost in Love",
+            "instanceSlug": 2093,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop",
+            "debut": "1980-03",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop",
+                "title": "Pop"
+              }
+            ],
+            "rank": 5
+          },
+          {
+            "title": "Every Woman in the World",
+            "instanceSlug": 2094,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop-ballad",
+            "debut": "1980-12",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop-ballad",
+                "title": "Pop Ballad"
+              }
+            ],
+            "rank": 6
+          },
+          {
+            "title": "Sweet Dreams",
+            "instanceSlug": 2096,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "pop-ballad",
+            "debut": "1982-01",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "pop-ballad",
+                "title": "Pop Ballad"
+              }
+            ],
+            "rank": 7
+          },
+          {
+            "title": "Here I Am (Just When I Thought I Was Over You)",
+            "instanceSlug": 912,
+            "tags": [
+            ],
+            "parents": [
+            ],
+            "genre": "adult-contemporary",
+            "debut": "1981-10",
+            "playlists": [
+            ],
+            "ranks": [
+            ],
+            "artists": [
+              {
+                "slug": "air-supply",
+                "title": "Air Supply",
+                "roleSlug": true
+              }
+            ],
+            "genres": [
+              {
+                "slug": "adult-contemporary",
+                "title": "Adult Contemporary"
+              }
+            ],
+            "rank": 8
+          }
+        ],
+        "score": 23.69,
+        "songAdjustedAverage": 8.38,
+        "rank": 510
+      }
+    ],
+    "score": 180.61,
+    "artistAdjustedAverage": 104.28
+  },
+  "birth": "1970s",
+  "death": "",
+  "type": {
+    "title": "All-Male Group",
+    "artists": [
+    ],
+    "artistCount": 0,
+    "score": 0,
+    "artistAdjustedAverage": 0,
+    "slug": "mmm"
+  },
+  "songs": [
+    {
+      "title": "What You Need",
+      "instanceSlug": 585,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-03",
+      "playlists": [
+      ],
+      "ranks": [
+        9,
+        1,
+        1.18
+      ],
+      "scores": [
+        0.267,
+        1,
+        0.944,
+        0.939,
+        0.929,
+        0.914,
+        0.894,
+        0.869,
+        0.839,
+        0.804,
+        0.764,
+        0.719,
+        0.669,
+        0.614,
+        0.554,
+        0.489,
+        0.419,
+        0.344,
+        0.264,
+        0.179,
+        0.089,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.267,
+      "duration": 5.5,
+      "score": 13.503,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 1
+    },
+    {
+      "title": "Disappear",
+      "instanceSlug": 260,
+      "tags": [
+        "disappear"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1991-01",
+      "ranks": [
+        13,
+        4,
+        2,
+        1.24,
+        1.56
+      ],
+      "scores": [
+        0.145,
+        0.537,
+        0.768,
+        0.928,
+        0.851,
+        0.846,
+        0.836,
+        0.821,
+        0.801,
+        0.776,
+        0.746,
+        0.711,
+        0.671,
+        0.626,
+        0.576,
+        0.521,
+        0.461,
+        0.396,
+        0.326,
+        0.251,
+        0.171,
+        0.086,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.145,
+      "duration": 5.75,
+      "score": 12.851,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 2
+    },
+    {
+      "title": "New Sensation",
+      "instanceSlug": 2513,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1988-06",
+      "playlists": [
+        "summer"
+      ],
+      "ranks": [
+        20,
+        13,
+        9,
+        7.6,
+        6.5,
+        6.9,
+        8.4
+      ],
+      "scores": [
+        0.001,
+        0.145,
+        0.267,
+        0.323,
+        0.376,
+        0.356,
+        0.29,
+        0.285,
+        0.275,
+        0.26,
+        0.24,
+        0.215,
+        0.185,
+        0.15,
+        0.11,
+        0.065,
+        0.015,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.001,
+      "duration": 4.5,
+      "score": 3.5580000000000003,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 3
+    },
+    {
+      "title": "Need You Tonight",
+      "instanceSlug": 1121,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "need-you"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-12",
+      "playlists": [
+      ],
+      "ranks": [
+        17,
+        11,
+        8,
+        7,
+        7.5,
+        8.4
+      ],
+      "scores": [
+        0.055,
+        0.2,
+        0.306,
+        0.351,
+        0.328,
+        0.29,
+        0.285,
+        0.275,
+        0.26,
+        0.24,
+        0.215,
+        0.185,
+        0.15,
+        0.11,
+        0.065,
+        0.015,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.055,
+      "duration": 4.25,
+      "score": 3.3299999999999996,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 4
+    },
+    {
+      "title": "Suicide Blonde",
+      "instanceSlug": 177,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock",
+        "#1-modern-rock",
+        "hair",
+        "hair-color"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1990-10",
+      "ranks": [
+        19.9,
+        11.5,
+        6.6,
+        5.8,
+        7.9
+      ],
+      "scores": [
+        0.003,
+        0.185,
+        0.37,
+        0.414,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.003,
+      "peakScore": 0.003,
+      "duration": 4,
+      "score": 3.293,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 5
+    },
+    {
+      "title": "Devil Inside",
+      "instanceSlug": 780,
+      "tags": [
+        "#2",
+        "#2-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1988-03",
+      "playlists": [
+      ],
+      "ranks": [
+        17.9,
+        10.7,
+        8.9,
+        9.6,
+        10.9
+      ],
+      "scores": [
+        0.038,
+        0.209,
+        0.271,
+        0.246,
+        0.203,
+        0.198,
+        0.188,
+        0.173,
+        0.153,
+        0.128,
+        0.098,
+        0.063,
+        0.023,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.038,
+      "duration": 3.5,
+      "score": 1.9909999999999999,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 6
+    },
+    {
+      "title": "Never Tear Us Apart",
+      "instanceSlug": 1308,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1988-10",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 7
+    },
+    {
+      "title": "The One Thing",
+      "instanceSlug": 2511,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-06",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 8
+    },
+    {
+      "title": "Mediate",
+      "instanceSlug": 2512,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-12",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 9
+    },
+    {
+      "title": "Not Enough Time",
+      "instanceSlug": 2514,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1992-09",
+      "playlists": [
+      ],
+      "ranks": [
+      ],
+      "scores": null,
+      "genres": [
+        "rock"
+      ],
+      "role": true,
+      "scoreFactor": 1,
+      "rank": 10
+    }
+  ],
+  "score": 38.525999999999996,
+  "songCount": 10,
+  "songAdjustedAverage": 12.182990913564696,
+  "rank": 122
+}
