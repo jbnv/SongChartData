@@ -1,9 +1,8 @@
 {
   "title": "Drive",
   "instanceSlug": 441,
-  "tags": [
-  ],
-  "genre": "rock",
+  "tags": ["#1","#1-adult-contemporary"],
+  "genres": ["rock","adult-contemporary"],
   "debut": "1984-08",
   "playlists": [
   ],

@@ -1,19 +1,20 @@
 {
   "title": "Tonight She Comes",
   "instanceSlug": 1812,
-  "tags": [
-  ],
-  "parents": [
-  ],
-  "genre": "rock",
-  "debut": "1986-01",
-  "playlists": [
-  ],
-  "ranks": [
-  ],
+  "tags": ["#1","#1-mainstream-rock"],
+  "genres":["rock"],
+  "debut":"1985-12",
   "artists": {
-    "cars": true
+    "cars": true,
+    "ric-ocasek":"member",
+    "benjamin-orr":"member"
   },
   "scores": [
+    0.03,
+    0.10,
+    0.17,
+    0.20,
+    0.21,
+    0.14
   ]
 }
