@@ -45,6 +45,7 @@ module.exports = function(yargs,entities) {
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
 
+    entity.ranks = {};
     titles[entity.instanceSlug] = entity.title;
 
     scoring.score(entity);
@@ -121,8 +122,33 @@ module.exports = function(yargs,entities) {
 
   });
 
+  /* Calculate song rankings on all terms.*/
+
+  entities = scoring.sortAndRank(entities,true);
+
+  util.log("Ranking by artist.");
+  Object.keys(artists).forEach(function(artistKey) {
+    scoring.sortAndRank(artists[artistKey]);
+    artists[artistKey].forEach(function(song) {
+      thisEntity = entities.filter(function(e) { return e.instanceSlug === song.instanceSlug; })[0];
+      if (thisEntity) {
+        thisEntity.ranks["artist:"+artistKey] = song.rank;
+      }
+    });
+  });
+
+  // artists = {},
+  // genres = {},
+  // playlists = {},
+  // sources = new EntityMap(),
+  // decades = {},
+  // years = {},
+  // months = {},
+
+  /* All done. */
+
   return {
-    "all": scoring.sortAndRank(entities),
+    "all": scoring.sortAndRank(entities,true),
     "titles": titles,
     "by-artist": artists,
     "by-genre": genres,
