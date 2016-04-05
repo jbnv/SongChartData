@@ -10,7 +10,8 @@ var chalk       = require("chalk"),
     Era         = require('../../lib/era'),
     EntityMap   = require('../../lib/entity-map'),
     meta        = require('../meta'),
-    scoring     = require("../scoring");
+    scoring     = require("../scoring"),
+    transform   = require("../transform");
 
 require("../polyfill");
 
@@ -104,6 +105,7 @@ module.exports = function(yargs,entities) {
 
     if (entity.debut && entity.debut !== "") {
       var era = new Era(entity.debut);
+      entity.debutEra = era.clone();
       if (era.decade) { pushToCollection(decades,""+era.decade+"s",entity); }
       if (era.year) { pushToCollection(years,era.year,entity); }
       //TEMP Month push needs to actually put the song in all months to which is is scoreed.
@@ -127,25 +129,26 @@ module.exports = function(yargs,entities) {
   entities = scoring.sortAndRank(entities,true);
 
   util.log("Ranking by artist.");
-  Object.keys(artists).forEach(function(artistKey) {
-    scoring.sortAndRank(artists[artistKey]);
-    artists[artistKey].forEach(function(song) {
-      thisEntity = entities.filter(function(e) { return e.instanceSlug === song.instanceSlug; })[0];
-      if (thisEntity) {
-        thisEntity.ranks["artist:"+artistKey] = song.rank;
-      }
-    });
-  });
+  scoring.rankEntities(entities,artists,"artist");
 
-  // artists = {},
-  // genres = {},
-  // playlists = {},
-  // sources = new EntityMap(),
-  // decades = {},
-  // years = {},
+  util.log("Ranking by genre.");
+  scoring.rankEntities(entities,genres,"genre");
+
+  util.log("Ranking by playlist.");
+  scoring.rankEntities(entities,playlists,"playlist");
+
+  util.log("Ranking by source.");
+  scoring.rankEntities(entities,playlists,"source");
+
+  util.log("Ranking by decade.");
+  scoring.rankEntities(entities,decades,"decade");
+
+  util.log("Ranking by year.");
+  scoring.rankEntities(entities,years,"year");
+
   // months = {},
 
-  /* All done. */
+  util.log("Song processing complete.");
 
   return {
     "all": scoring.sortAndRank(entities,true),
