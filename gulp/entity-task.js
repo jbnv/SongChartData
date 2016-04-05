@@ -1,5 +1,6 @@
 var chalk       = require("chalk"),
     fs          = require("graceful-fs"),
+    git         = require('gulp-git'),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
@@ -111,6 +112,20 @@ module.exports = function(gulp,model) {
     .catch(function (error) {
       util.log("ERROR:",error);
     })
+  });
+
+  gulp.task("commit-"+spec.typeSlug, "Commit "+spec.typeNoun+" entities to Git.", function() {
+    return gulp
+      .src(["./raw/"+spec.typeSlug,"./compiled/"+spec.typeSlug])
+      .pipe(git.add())
+      .pipe(git.commit("Updates of "+spec.typeNoun+" entities."));
+  });
+
+  gulp.task("commit-raw-"+spec.typeSlug, "Commit raw "+spec.typeNoun+" entities to Git.", function() {
+    return gulp
+      .src(["./raw/"+spec.typeSlug])
+      .pipe(git.add())
+      .pipe(git.commit("Updates of raw "+spec.typeNoun+" entities."));
   });
 
 };
