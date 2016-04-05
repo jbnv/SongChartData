@@ -1,1 +1,14 @@
-{"title":"Johnny Cash","instanceSlug":"johnny-cash","tags":["hof"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Johnny Cash",
+  "instanceSlug": "johnny-cash",
+  "tags": [
+    "hof"
+  ],
+  "genres": ["country"],
+  "xref": ["june-carter","rosemary-cash"],
+  "complete": false,
+  "origin": "arkansas",
+  "birth": "1932-02",
+  "death": "2003-09",
+  "type": "m"
+}
