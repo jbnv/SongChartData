@@ -3,13 +3,13 @@
 require("./polyfill");
 var transform = require("./transform");
 
-function round00(n) {
-  return Math.round(parseFloat(n)*100)/100;
+function round000(n) {
+  return Math.round(parseFloat(n)*1000)/1000;
 }
 
 function _adjustedAverage(score,count) {
   if (!count || count < 1) return null;
-  return round00(score / Math.sqrt(count));
+  return score / Math.sqrt(count);
 }
 
 exports.adjustedAverage = _adjustedAverage;
@@ -24,8 +24,8 @@ exports.sortAndRank = function(list,sortFn) {
 }
 
 // Scoring criteria:
-// Debut rank (D): Higher rank (lower number) is better.
-// Peak rank (P): Higher rank (lower number) is better.
+// Debut score (D): Higher score (lower number) is better.
+// Peak score (P): Higher score (lower number) is better.
 // Duration (M): More is better.
 
 exports.score = function(song,scoringOptions) {
@@ -36,79 +36,42 @@ exports.score = function(song,scoringOptions) {
 
 	if (!scoringOptions) { scoringOptions = {}; }
 
-	// Now we always assume that .ranks, if populated, is proper JSON
-	// in the following format: [ debutRank, ascentRank{0,}, peakRank, ...]
-	// Ranks are projected geometrically from the final two ranks.
+	// Now we always assume that .scores, if populated, is proper JSON
+	// in the following format: [ debutScore, ascentScore{0,}, peakScore, ...]
+  // Assume that all scores are in the range {0,1].
+	// Scores are projected from the final two scores.
 
-  var rawRanks = song.ranks;
-	if (!rawRanks) return;
-  if (!Array.isArray(rawRanks)) return;
-  if (rawRanks.length == 0) return;
+  var rawScores = song.scores;
+	if (!song.scores) return;
+  if (!Array.isArray(song.scores)) { song.scores = null; return; }
+  if (song.scores.length == 0)  { song.scores = null; return; }
 
-  song.ranks = [];
+	song.debutScore = parseFloat(song.scores[0]);
 
-	// Look for embedded arrays.
-	// [ number ]: Hold at the previous rank for <number> weeks.
-	// [ increment, number ]: Apply <increment> to the rank for <number> weeks.
-	previousRank = NaN;
-	rawRanks.forEach(function(currentRank,index) {
-		if ((index = 0) || (isNaN(previousRank))) { // these should always be both true or both false
-			song.ranks.push(currentRank);
-			previousRank = currentRank;
-		} else if (Array.isArray(currentRank)) {
-			switch (currentRank.length()) {
-				case 1: // [ count ]
-					count = currentRank[0];
-					for (i = 0; i < count; i++) {
-						song.ranks.push(previousRank);
-					}
-					break;
-				case 2: // [ increment, count ]
-					increment = currentRank[0];
-					count = currentRank[1];
-					rank = previousRank;
-					for (i = 0; i < count; i++) {
-						rank += increment;
-						song.ranks.push(rank);
-					}
-					previousRank = rank;
-					break;
-				// anything else: do nothing (invalid)
-			}
-		} else {
-			song.ranks.push(currentRank);
-			previousRank = currentRank;
-		}
-	}); // rawRanks.forEach
-
-	song.debutRank = parseFloat(song.ranks[0]);
-
-  song.peakRank = song.ranks.reduce(function(prev,cur) {
+  song.peakScore = song.scores.reduce(function(prev,cur) {
     return !prev || prev > cur ? cur : prev;
   },null);
 
 	if (!scoringOptions.noProjectOut) {
-		rank0 = parseFloat(song.ranks[song.ranks.length-1]);
-		rank1 = parseFloat(song.ranks[song.ranks.length-2]) || rank0;
-		scale = rank0-rank1;
+		score0 = parseFloat(song.scores[song.scores.length-1]);
+		score1 = parseFloat(song.scores[song.scores.length-2]) || score0;
+		scale = score0-score1;
+    if (scale < .005) scale = .005;  // prevent infinite loops
     margin = scale;
 
-		while (!((rank0 > 50) && (song.ranks.length % 4 == 0))) {
-			rank0 += scale;
+		while (score0 > 0 ) {
+			score0 -= scale;
       scale += margin;
-			song.ranks.push(round00(rank0));
+      if (score0 < 0) score0 = 0;
+			song.scores.push(round000(score0));
 		}
 	}
 
-	song.duration = song.ranks.length/4;
+	song.duration = song.scores.length/4;
 
-	// Calculate score from point ranks.
+	// Calculate score from point scores.
 	song.score = 0;
-	for (var index in song.ranks) {
-		S = Math.log(song.ranks[index]);
-		if (S < 3) { song.score += (3-S); }
-	}
-	song.score = round00(song.score);
+  song.scores.forEach(function(s) { song.score += s; });
 
 	return song;
 }
@@ -136,7 +99,7 @@ exports.scoreCollection = function() {
   		}
     });
   }
-  this.score = round00(score);
+  this.score = score;
 
   if (this.songs) {
     this.songCount = this.songs.length;

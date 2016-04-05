@@ -2,6 +2,7 @@ var chalk       = require("chalk"),
     clone       = require("clone"),
     expandObject = require("../../lib/expand-object"),
     fs          = require("fs"),
+    numeral     = require("numeral"),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
@@ -39,7 +40,7 @@ module.exports = function(yargs,entities) {
       decades = {},
       years = {},
       months = {},
-      unranked = [];
+      unscored = [];
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
@@ -56,7 +57,7 @@ module.exports = function(yargs,entities) {
         var artist = entity.artists[artistSlug] || {};
         if (!artists[artistSlug]) artists[artistSlug] = [];
         var entityClone = clone(entity);
-        delete entityClone.artists; 
+        delete entityClone.artists;
         entityClone.role = artist; //FUTURE artist.roleSlug;
         entityClone.scoreFactor = 1.00; //FUTURE artist.scoreFactor;
         switch (entityClone.role) {
@@ -68,7 +69,7 @@ module.exports = function(yargs,entities) {
           case "producer": entityClone.scoreFactor = 0.20; break;
           default: entityClone.scoreFactor = 0.25;
         }
-        entityClone.score *= entityClone.scoreFactor;
+        if (entityClone.score) entityClone.score *= entityClone.scoreFactor;
         artists[artistSlug].push(entityClone);
       }
       entity.artists = expandObject.call(entity.artists,allArtists,transformArtist);
@@ -104,16 +105,18 @@ module.exports = function(yargs,entities) {
       var era = new Era(entity.debut);
       if (era.decade) { pushToCollection(decades,""+era.decade+"s",entity); }
       if (era.year) { pushToCollection(years,era.year,entity); }
-      //TEMP Month push needs to actually put the song in all months to which is is ranked.
+      //TEMP Month push needs to actually put the song in all months to which is is scoreed.
       if (era.month) { pushToCollection(months,entity.debut,entity); }
     }
 
-    if ((entity.ranks || []).length == 0) unranked.push(entity);
+    if ((entity.scores || []).length == 0) unscored.push(entity);
+
+    numeral.zeroFormat("");
 
     util.log(
       chalk.blue(entity.instanceSlug),
       entity.title,
-      chalk.gray(entity.score || 0)
+      chalk.gray(numeral(entity.score).format("0.00"))
     );
 
   });
@@ -128,6 +131,6 @@ module.exports = function(yargs,entities) {
     "by-decade": decades,
     "by-year": years,
     "by-month": months,
-    "unranked": unranked
+    "unscored": unscored
   }
 }
