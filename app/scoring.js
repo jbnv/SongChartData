@@ -67,7 +67,7 @@ exports.score = function(song,scoringOptions) {
 		}
 	}
 
-	song.duration = song.scores.length/4;
+	song.duration = Math.ceil(song.scores.length/4);
 
 	// Calculate score from point scores.
 	song.score = 0;
