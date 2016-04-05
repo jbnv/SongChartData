@@ -14,7 +14,7 @@ function _adjustedAverage(score,count) {
 
 exports.adjustedAverage = _adjustedAverage;
 
-exports.sortAndRank = function(list,sortFn) {
+function _sortAndRank(list,sortFn) {
   if (!list) return [];
   var outbound = list.sort(sortFn || transform.sortByScore);
   outbound.forEach(function(item,index) {
@@ -22,6 +22,8 @@ exports.sortAndRank = function(list,sortFn) {
   });
   return outbound;
 }
+
+exports.sortAndRank = _sortAndRank;
 
 // Scoring criteria:
 // Debut score (D): Higher score (lower number) is better.
@@ -156,5 +158,24 @@ exports.aggregateCollection = function() {
       item.artistAdjustedAverageScale = 1.0*item.artistAdjustedAverage / that.maxArtistAdjustedAverage;
     });
   }
+
+}
+
+// Rank an entity list over a collection.
+// For use after the list has been processed.
+// entityList: List of entities that will be ranked.
+// collection: Particular collection from which to get the rankings.
+// prefix: A prefix to add to the slug to make the ranking slug.
+exports.rankEntities = function(entityList,collection,prefix) {
+
+  Object.keys(collection).forEach(function(listKey) {
+    _sortAndRank(collection[listKey]);
+    collection[listKey].forEach(function(item) {
+      itemEntity = entityList.filter(function(e) { return e.instanceSlug === item.instanceSlug; })[0];
+      if (itemEntity) {
+        itemEntity.ranks[prefix+":"+listKey] = item.rank;
+      }
+    });
+  });
 
 }
