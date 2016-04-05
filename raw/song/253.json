@@ -5,8 +5,12 @@
     "#1",
     "#1-r&b"
   ],
-  "playlists": ["breakup","feb13"],
-  "parents": [],
+  "playlists": [
+    "breakup",
+    "feb13"
+  ],
+  "parents": [
+  ],
   "genre": "soul",
   "debut": "1992-08",
   "source": "boomerang",
@@ -21,5 +25,14 @@
   ],
   "artists": {
     "boyz-ii-men": true
-  }
+  },
+  "scores": [
+    0.232,
+    0.419,
+    0.602,
+    0.668,
+    0.708,
+    0.729,
+    0.691
+  ]
 }

@@ -1,1 +1,55 @@
-{"title":"Broken Wings","instanceSlug":487,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1985-11","playlists":[],"ranks":[20,14,11,9,13,17,25,37,53,73,97,125],"artists":[{"slug":"mister-mister","title":"Mr. Mister","roleSlug":true}],"debutRank":20,"peakRank":9,"duration":3,"score":2.37,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1490}
+{
+  "title": "Broken Wings",
+  "instanceSlug": 487,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-11",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    11,
+    9,
+    13
+  ],
+  "artists": [
+    {
+      "slug": "mister-mister",
+      "title": "Mr. Mister",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.267,
+    0.145,
+    0.14,
+    0.13,
+    0.115,
+    0.095,
+    0.07,
+    0.04,
+    0.005,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 3.25,
+  "score": 1.328,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1484
+}

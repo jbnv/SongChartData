@@ -1,1 +1,30 @@
-{"title":"Shake for the Sheik","instanceSlug":1928,"tags":[],"parents":[],"genre":"pop","debut":"1989-02","playlists":[],"ranks":[22.1,15,11,9,7,8.3],"artists":{"escape-club":true}}
+{
+  "title": "Shake for the Sheik",
+  "instanceSlug": 1928,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    22.1,
+    15,
+    11,
+    9,
+    7,
+    8.3
+  ],
+  "artists": {
+    "escape-club": true
+  },
+  "scores": [
+    0.097,
+    0.2,
+    0.267,
+    0.351,
+    0.294
+  ]
+}

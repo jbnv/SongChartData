@@ -1,11 +1,17 @@
 {
   "title": "Got My Mind Set on You",
   "instanceSlug": 1122,
-  "tags": ["#1","#1-hot-100","#1-adult-contemporary"],
-  "parents": [],
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1987-11",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     15.5,
     10,
@@ -22,5 +28,19 @@
   ],
   "artists": {
     "george-harrison": true
-  }
+  },
+  "scores": [
+    0.086,
+    0.232,
+    0.306,
+    0.361,
+    0.37,
+    0.365,
+    0.356,
+    0.337,
+    0.315,
+    0.286,
+    0.256,
+    0.206
+  ]
 }

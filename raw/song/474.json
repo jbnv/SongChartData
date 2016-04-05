@@ -1,1 +1,22 @@
-{"title":"Doctor My Eyes","instanceSlug":474,"tags":["doctor","eye","my"],"parents":[],"genre":"pop","debut":"1970s","playlists":[],"ranks":[],"artists":{"jackson-browne":true}}
+{
+  "title": "Doctor My Eyes",
+  "instanceSlug": 474,
+  "tags": [
+    "doctor",
+    "eye",
+    "my"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1970s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "jackson-browne": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,32 @@
-{"title":"Daylight","instanceSlug":3014,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"artists":[{"slug":"maroon-5","title":"Maroon 5","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2223}
+{
+  "title": "Daylight",
+  "instanceSlug": 3014,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "maroon-5",
+      "title": "Maroon 5",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2223
+}

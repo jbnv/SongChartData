@@ -1,1 +1,62 @@
-{"title":"Sledgehammer","instanceSlug":154,"tags":[],"parents":[],"genre":true,"debut":1986,"ranks":[13,4.2,3.2,3.3,3.4,3.7,4.25,4.8,5.9,7.55,9.75,12.5,15.8,19.65,24.05,29,34.5,40.55,47.15,54.3],"artists":[{"slug":"peter-gabriel","title":"Peter Gabriel","roleSlug":true}],"debutRank":13,"peakRank":3.2,"duration":5,"score":15.76,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":550}
+{
+  "title": "Sledgehammer",
+  "instanceSlug": 154,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1986,
+  "ranks": [
+    13,
+    4.2,
+    3.2,
+    3.3,
+    3.4,
+    3.7,
+    4.25
+  ],
+  "artists": [
+    {
+      "slug": "peter-gabriel",
+      "title": "Peter Gabriel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.521,
+    0.612,
+    0.602,
+    0.592,
+    0.563,
+    0.517,
+    0.512,
+    0.502,
+    0.487,
+    0.467,
+    0.442,
+    0.412,
+    0.377,
+    0.337,
+    0.292,
+    0.242,
+    0.187,
+    0.127,
+    0.062,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.25,
+  "score": 7.997999999999999,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 612
+}

@@ -1,12 +1,30 @@
 {
   "title": "Giving You The Best That I Got",
   "instanceSlug": 1310,
-  "tags": ["give-you"],
+  "tags": [
+    "give-you"
+  ],
   "genre": "soul",
   "debut": "1988-10",
-  "playlists": [],
-  "ranks": [17,10,7.5,5.5,3.5,3.7],
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    7.5,
+    5.5,
+    3.5,
+    3.7
+  ],
   "artists": {
     "anita-baker": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.232,
+    0.328,
+    0.431,
+    0.582,
+    0.563
+  ]
 }

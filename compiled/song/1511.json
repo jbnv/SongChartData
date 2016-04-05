@@ -1,1 +1,30 @@
-{"title":"Groovy Train","instanceSlug":1511,"tags":["groovy","train"],"parents":[],"genre":"pop","debut":"1991-12","playlists":[],"ranks":[],"artists":[{"slug":"the-farm"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2750}
+{
+  "title": "Groovy Train",
+  "instanceSlug": 1511,
+  "tags": [
+    "groovy",
+    "train"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "the-farm"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2982
+}

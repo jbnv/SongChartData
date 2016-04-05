@@ -1,1 +1,61 @@
-{"title":"What Do You Mean","instanceSlug":"whatdo2015","tags":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[18,10.5,5.2,4,4.01,4.21,4.54,4.87,5.53,6.52,7.84,9.49,11.47,13.78,16.42,19.39,22.69,26.32,30.28,34.57,39.19,44.14,49.42,55.03],"artists":[{"slug":"justin-bieber","title":"Justin Bieber","roleSlug":true}],"debutRank":18,"peakRank":4,"duration":6,"score":15.08,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":598}
+{
+  "title": "What Do You Mean",
+  "instanceSlug": "whatdo2015",
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10.5,
+    5.2,
+    4,
+    4.01,
+    4.21,
+    4.54
+  ],
+  "artists": [
+    {
+      "slug": "justin-bieber",
+      "title": "Justin Bieber",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.216,
+    0.45,
+    0.537,
+    0.537,
+    0.52,
+    0.495,
+    0.49,
+    0.48,
+    0.465,
+    0.445,
+    0.42,
+    0.39,
+    0.355,
+    0.315,
+    0.27,
+    0.22,
+    0.165,
+    0.105,
+    0.04,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5.25,
+  "score": 6.951000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 744
+}

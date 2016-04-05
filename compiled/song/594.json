@@ -1,1 +1,63 @@
-{"title":"My Boo","instanceSlug":594,"tags":[],"parents":[],"genre":"urban","debut":"1996-10","playlists":[],"ranks":[17.9,10.6,7.3,6.96,7.04,7.26,7.59,8,8.9,9.8,11.6,14.3,17.9,22.4,27.8,34.1,41.3,49.4,58.4,68.3],"artists":[{"slug":"ghost-town-djs","title":"Ghost Town DJs","roleSlug":true}],"debutRank":17.9,"peakRank":6.96,"duration":5,"score":9.32,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1004}
+{
+  "title": "My Boo",
+  "instanceSlug": 594,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1996-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    6.96,
+    7.04,
+    7.26,
+    7.59,
+    8,
+    8.9
+  ],
+  "artists": [
+    {
+      "slug": "ghost-town-djs",
+      "title": "Ghost Town DJs",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.353,
+    0.349,
+    0.339,
+    0.324,
+    0.306,
+    0.271,
+    0.266,
+    0.256,
+    0.241,
+    0.221,
+    0.196,
+    0.166,
+    0.131,
+    0.091,
+    0.046,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 4.75,
+  "score": 4.144,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 1138
+}

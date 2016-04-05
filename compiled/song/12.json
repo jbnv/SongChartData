@@ -1,1 +1,72 @@
-{"title":"Thriller","instanceSlug":12,"tags":["album-title"],"source":{"title":"Thriller","instanceSlug":"thriller","tags":["michael-jackson"],"type":"album"},"playlists":[{"slug":"halloween","title":"Halloween"}],"genre":"dance","debut":"1984-02","ranks":[12,6.6,3.7,2,2.48,2.96,3.92,5.36,7.28,9.68,12.56,15.92,19.76,24.08,28.88,34.16,39.92,46.16,52.88,60.08],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":5,"score":15.05,"genres":[{"slug":"dance","title":"Dance"}],"rank":602}
+{
+  "title": "Thriller",
+  "instanceSlug": 12,
+  "tags": [
+    "album-title"
+  ],
+  "source": {
+    "title": "Thriller",
+    "instanceSlug": "thriller",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "playlists": [
+    {
+      "slug": "halloween",
+      "title": "Halloween"
+    }
+  ],
+  "genre": "dance",
+  "debut": "1984-02",
+  "ranks": [
+    12,
+    6.6,
+    3.7,
+    2,
+    2.48
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.37,
+    0.563,
+    0.768,
+    0.697,
+    0.692,
+    0.682,
+    0.667,
+    0.647,
+    0.622,
+    0.592,
+    0.557,
+    0.517,
+    0.472,
+    0.422,
+    0.367,
+    0.307,
+    0.242,
+    0.172,
+    0.097,
+    0.017,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.5,
+  "score": 9.641,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "rank": 417
+}

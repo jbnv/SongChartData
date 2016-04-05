@@ -1,1 +1,53 @@
-{"title":"Listen to Your Heart","instanceSlug":162,"tags":["heart","listen"],"parents":[],"genre":true,"debut":"1989-09","ranks":[19.9,11.5,6.6,6.4,11.2,19.3,33.5,58,100.4,142.8,227.6,354.8],"artists":[{"slug":"roxette","title":"Roxette","roleSlug":true}],"debutRank":19.9,"peakRank":6.4,"duration":3,"score":3.45,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":1427}
+{
+  "title": "Listen to Your Heart",
+  "instanceSlug": 162,
+  "tags": [
+    "heart",
+    "listen"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1989-09",
+  "ranks": [
+    19.9,
+    11.5,
+    6.6,
+    6.4,
+    11.2,
+    19.3,
+    33.5,
+    58,
+    100.4
+  ],
+  "artists": [
+    {
+      "slug": "roxette",
+      "title": "Roxette",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.185,
+    0.37,
+    0.381,
+    0.194,
+    0.013,
+    0.008,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 2,
+  "score": 1.154,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1502
+}

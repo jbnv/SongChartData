@@ -1,1 +1,66 @@
-{"title":"I Want to Be Your Man","instanceSlug":1456,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1987-12","playlists":[],"ranks":[11,4,1.8,1.87,2.02,2.42,2.82,3.62,4.82,6.42,8.42,10.82,13.62,16.82,20.42,24.42,28.82,33.62,38.82,44.42,50.42,56.82,63.62,70.82],"artists":[{"slug":"roger","title":"Roger (Roger Troutman)","roleSlug":true}],"debutRank":11,"peakRank":1.8,"duration":6,"score":19.71,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":338}
+{
+  "title": "I Want to Be Your Man",
+  "instanceSlug": 1456,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-12",
+  "playlists": [
+  ],
+  "ranks": [
+    11,
+    4,
+    1.8,
+    1.87,
+    2.02,
+    2.42
+  ],
+  "artists": [
+    {
+      "slug": "roger",
+      "title": "Roger (Roger Troutman)",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.2,
+    0.537,
+    0.804,
+    0.791,
+    0.765,
+    0.705,
+    0.7,
+    0.69,
+    0.675,
+    0.655,
+    0.63,
+    0.6,
+    0.565,
+    0.525,
+    0.48,
+    0.43,
+    0.375,
+    0.315,
+    0.25,
+    0.18,
+    0.105,
+    0.025,
+    0
+  ],
+  "debutScore": 0.2,
+  "peakScore": 0.2,
+  "duration": 5.75,
+  "score": 11.002,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 265
+}

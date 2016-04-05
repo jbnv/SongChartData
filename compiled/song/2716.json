@@ -1,1 +1,30 @@
-{"title":"Fooling Yourself (The Angry Young Man)","instanceSlug":2716,"tags":[],"parents":[],"genre":"rock","debut":"1978-04","playlists":[],"ranks":[],"artists":[{"slug":"styx","title":"Styx","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1890}
+{
+  "title": "Fooling Yourself (The Angry Young Man)",
+  "instanceSlug": 2716,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1978-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "styx",
+      "title": "Styx",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1890
+}

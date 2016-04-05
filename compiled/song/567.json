@@ -1,1 +1,71 @@
-{"title":"Unpretty","instanceSlug":567,"tags":["#1","#1-hot-100","pretty","un"],"parents":[],"genre":"urban","debut":"1999-08","playlists":[],"ranks":[17,11.3,6.4,5.1,4.25,4.03,4.15,4.41,4.98,5.55,6.69,8.4,10.68,13.53,16.95,20.94,25.5,30.63,36.33,42.6,49.44,56.85,64.83,73.38],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":17,"peakRank":4.03,"duration":6,"score":15.36,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":571}
+{
+  "title": "Unpretty",
+  "instanceSlug": 567,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "pretty",
+    "un"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1999-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.3,
+    6.4,
+    5.1,
+    4.25,
+    4.03,
+    4.15,
+    4.41,
+    4.98
+  ],
+  "artists": [
+    {
+      "slug": "tlc",
+      "title": "TLC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.191,
+    0.381,
+    0.456,
+    0.517,
+    0.535,
+    0.525,
+    0.505,
+    0.464,
+    0.459,
+    0.449,
+    0.434,
+    0.414,
+    0.389,
+    0.359,
+    0.324,
+    0.284,
+    0.239,
+    0.189,
+    0.134,
+    0.074,
+    0.009,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.75,
+  "score": 7.386,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 684
+}

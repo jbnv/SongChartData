@@ -1,13 +1,30 @@
 {
   "title": "All-Time High",
   "instanceSlug": 815,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": 1983,
-  "playlists": ["james-bond"],
-  "ranks": [18.9,11.1,6.5,7.5,9.2],
+  "playlists": [
+    "james-bond"
+  ],
+  "ranks": [
+    18.9,
+    11.1,
+    6.5,
+    7.5,
+    9.2
+  ],
   "artists": {
     "rita-coolidge": true
-  }
+  },
+  "scores": [
+    0.02,
+    0.197,
+    0.376,
+    0.328,
+    0.26
+  ]
 }

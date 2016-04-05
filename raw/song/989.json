@@ -8,9 +8,24 @@
   "genre": "country",
   "debut": "1980-11",
   "source": "dukes-of-hazzard",
-  "playlists": ["tv-theme"],
-  "ranks": [15.9,5,2.2,2.4,2.7],
+  "playlists": [
+    "tv-theme"
+  ],
+  "ranks": [
+    15.9,
+    5,
+    2.2,
+    2.4,
+    2.7
+  ],
   "artists": {
     "waylon-jennings": true
-  }
+  },
+  "scores": [
+    0.077,
+    0.463,
+    0.737,
+    0.708,
+    0.668
+  ]
 }

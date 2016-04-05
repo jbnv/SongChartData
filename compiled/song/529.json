@@ -1,1 +1,60 @@
-{"title":"You're Only Human (Second Wind)","instanceSlug":529,"tags":[],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[16,9,5,3,4,5,7,10,14,19,25,32,40,49,59,70],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":4,"score":9.49,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":994}
+{
+  "title": "You're Only Human (Second Wind)",
+  "instanceSlug": 529,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    5,
+    3,
+    4
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.267,
+    0.463,
+    0.633,
+    0.537,
+    0.532,
+    0.522,
+    0.507,
+    0.487,
+    0.462,
+    0.432,
+    0.397,
+    0.357,
+    0.312,
+    0.262,
+    0.207,
+    0.147,
+    0.082,
+    0.012,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5,
+  "score": 6.6930000000000005,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 776
+}

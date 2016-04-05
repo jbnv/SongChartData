@@ -1,1 +1,21 @@
-{"title":"Automatic Lover","instanceSlug":1355,"tags":["automatic","lover"],"parents":[],"genre":"dance","debut":"1995-11","playlists":[],"ranks":[],"artists":{"real-mccoy":true}}
+{
+  "title": "Automatic Lover",
+  "instanceSlug": 1355,
+  "tags": [
+    "automatic",
+    "lover"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1995-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "real-mccoy": true
+  },
+  "scores": [
+  ]
+}

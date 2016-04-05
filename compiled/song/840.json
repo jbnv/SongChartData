@@ -1,1 +1,53 @@
-{"title":"Nothing at All","instanceSlug":840,"tags":[],"parents":[],"genre":"rock","debut":"1986-05","playlists":[],"ranks":[17.9,10.6,6.6,8.9,11.2,15.8,22.7,31.9,43.4,57.2,73.3,91.7],"artists":[{"slug":"heart","title":"Heart","roleSlug":true}],"debutRank":17.9,"peakRank":6.6,"duration":3,"score":3.51,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1425}
+{
+  "title": "Nothing at All",
+  "instanceSlug": 840,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    6.6,
+    8.9
+  ],
+  "artists": [
+    {
+      "slug": "heart",
+      "title": "Heart",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.37,
+    0.271,
+    0.266,
+    0.256,
+    0.241,
+    0.221,
+    0.196,
+    0.166,
+    0.131,
+    0.091,
+    0.046,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.5,
+  "score": 2.506,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1367
+}

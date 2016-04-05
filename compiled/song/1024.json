@@ -1,1 +1,69 @@
-{"title":"It's Raining Men","instanceSlug":1024,"tags":[],"parents":[],"genre":"dance","debut":1983,"playlists":[],"ranks":[18,10,7,5,3.5,3.3,3.5,3.7,3.9,4.5,5.1,6.3,8.1,10.5,13.5,17.1,21.3,26.1,31.5,37.5,44.1,51.3,59.1,67.5],"artists":[{"slug":"weather-girls","title":"Weather Girls","roleSlug":true}],"debutRank":18,"peakRank":3.3,"duration":6,"score":18.02,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":422}
+{
+  "title": "It's Raining Men",
+  "instanceSlug": 1024,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": 1983,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    7,
+    5,
+    3.5,
+    3.3,
+    3.5,
+    3.7,
+    3.9,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "weather-girls",
+      "title": "Weather Girls",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.232,
+    0.351,
+    0.463,
+    0.582,
+    0.602,
+    0.582,
+    0.563,
+    0.546,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 6,
+  "score": 8.654,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 513
+}

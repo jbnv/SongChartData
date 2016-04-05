@@ -1,1 +1,19 @@
-{"title":"My Sharona","instanceSlug":1688,"tags":[],"parents":[],"genre":"rock","debut":1979,"playlists":[],"ranks":[],"artists":{"the-knack":true}}
+{
+  "title": "My Sharona",
+  "instanceSlug": 1688,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1979,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "the-knack": true
+  },
+  "scores": [
+  ]
+}

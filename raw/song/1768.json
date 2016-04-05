@@ -1,1 +1,19 @@
-{"title":"Hello Again","instanceSlug":1768,"tags":[],"parents":[],"genre":"rock","debut":"1985-01","playlists":[],"ranks":[],"artists":{"cars":true}}
+{
+  "title": "Hello Again",
+  "instanceSlug": 1768,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "cars": true
+  },
+  "scores": [
+  ]
+}

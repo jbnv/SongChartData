@@ -1,1 +1,64 @@
-{"title":"Birmingham","instanceSlug":587,"tags":[],"parents":[],"genre":true,"debut":"1996-09","playlists":[{"slug":"places","title":"Places"}],"ranks":[15,8.3,4.6,2.5,3.4,4.7,6,8.6,12.5,17.7,24.2,32,41.1,51.5,63.2,76.2],"artists":[{"slug":"amanda-marshall","title":"Amanda Marshall","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":4,"score":10.62,"genres":[{"slug":true}],"source":null,"rank":911}
+{
+  "title": "Birmingham",
+  "instanceSlug": 587,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1996-09",
+  "playlists": [
+    {
+      "slug": "places",
+      "title": "Places"
+    }
+  ],
+  "ranks": [
+    15,
+    8.3,
+    4.6,
+    2.5,
+    3.4,
+    4.7
+  ],
+  "artists": [
+    {
+      "slug": "amanda-marshall",
+      "title": "Amanda Marshall",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.294,
+    0.491,
+    0.694,
+    0.592,
+    0.484,
+    0.479,
+    0.469,
+    0.454,
+    0.434,
+    0.409,
+    0.379,
+    0.344,
+    0.304,
+    0.259,
+    0.209,
+    0.154,
+    0.094,
+    0.029,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5,
+  "score": 6.6690000000000005,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 781
+}

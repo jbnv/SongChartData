@@ -1,1 +1,61 @@
-{"title":"You Dropped the Bomb on Me","instanceSlug":656,"tags":["bomb","you-did-what"],"parents":[],"genre":"urban","debut":"1982-09","playlists":[],"ranks":[15,8.5,4.8,3.1,4.3,5.5,7.9,11.5,16.3,22.3,29.5,37.9,47.5,58.3,70.3,83.5],"artists":[{"slug":"gap-band","title":"Gap Band","roleSlug":true}],"debutRank":15,"peakRank":3.1,"duration":4,"score":8.99,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1033}
+{
+  "title": "You Dropped the Bomb on Me",
+  "instanceSlug": 656,
+  "tags": [
+    "bomb",
+    "you-did-what"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.5,
+    4.8,
+    3.1,
+    4.3
+  ],
+  "artists": [
+    {
+      "slug": "gap-band",
+      "title": "Gap Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.286,
+    0.477,
+    0.622,
+    0.513,
+    0.508,
+    0.498,
+    0.483,
+    0.463,
+    0.438,
+    0.408,
+    0.373,
+    0.333,
+    0.288,
+    0.238,
+    0.183,
+    0.123,
+    0.058,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 4.75,
+  "score": 6.389000000000002,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 823
+}

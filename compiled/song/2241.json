@@ -1,1 +1,30 @@
-{"title":"Ain't Even Done with the Night","instanceSlug":2241,"tags":[],"parents":[],"genre":"rock","debut":"1981-04","playlists":[],"ranks":[],"artists":[{"slug":"john-mellancamp","title":"John Mellencamp","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2835}
+{
+  "title": "Ain't Even Done with the Night",
+  "instanceSlug": 2241,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "john-mellancamp",
+      "title": "John Mellencamp",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2804
+}

@@ -1,1 +1,30 @@
-{"title":"Freeze-Frame","instanceSlug":2545,"tags":[],"parents":[],"genre":"rock","debut":"1982-03","playlists":[],"ranks":[],"artists":[{"slug":"j-geils-band","title":"J. Geils Band","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1700}
+{
+  "title": "Freeze-Frame",
+  "instanceSlug": 2545,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "j-geils-band",
+      "title": "J. Geils Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1700
+}

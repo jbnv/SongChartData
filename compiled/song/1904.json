@@ -1,1 +1,71 @@
-{"title":"Don't Cry for Me, Argentina","instanceSlug":1904,"tags":[],"parents":[],"genre":"pop","debut":"1997-03","source":{"title":"Evita","instanceSlug":"evita","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[13.5,4.4,2.7,2.2,2.42,2.77,3.12,3.82,4.87,6.27,8.02,10.12,12.57,15.37,18.52,22.02,25.87,30.07,34.62,39.52,44.77,50.37,56.32,62.62],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":13.5,"peakRank":2.2,"duration":6,"score":18.76,"genres":[{"slug":"pop","title":"Pop"}],"rank":384}
+{
+  "title": "Don't Cry for Me, Argentina",
+  "instanceSlug": 1904,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1997-03",
+  "source": {
+    "title": "Evita",
+    "instanceSlug": "evita",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    13.5,
+    4.4,
+    2.7,
+    2.2,
+    2.42,
+    2.77
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.132,
+    0.506,
+    0.668,
+    0.737,
+    0.705,
+    0.66,
+    0.655,
+    0.645,
+    0.63,
+    0.61,
+    0.585,
+    0.555,
+    0.52,
+    0.48,
+    0.435,
+    0.385,
+    0.33,
+    0.27,
+    0.205,
+    0.135,
+    0.06,
+    0
+  ],
+  "debutScore": 0.132,
+  "peakScore": 0.132,
+  "duration": 5.5,
+  "score": 9.908000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 373
+}

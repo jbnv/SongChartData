@@ -1,1 +1,30 @@
-{"title":"Sky High","instanceSlug":2381,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"jigsaw","title":"Jigsaw","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3008}
+{
+  "title": "Sky High",
+  "instanceSlug": 2381,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jigsaw",
+      "title": "Jigsaw",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3009
+}

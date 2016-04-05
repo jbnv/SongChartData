@@ -1,1 +1,59 @@
-{"title":"Legs","instanceSlug":1873,"tags":[],"parents":[],"genre":"rock","debut":"1984-06","playlists":[],"ranks":[22,15,12,10.5,9,9.5,10.3,11.6,12.9,15.5,19.4,24.6,31.1,38.9,48,58.4],"artists":[{"slug":"zz-top","title":"ZZ Top","roleSlug":true}],"debutRank":22,"peakRank":9,"duration":4,"score":4.96,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1339}
+{
+  "title": "Legs",
+  "instanceSlug": 1873,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-06",
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    15,
+    12,
+    10.5,
+    9,
+    9.5,
+    10.3,
+    11.6
+  ],
+  "artists": [
+    {
+      "slug": "zz-top",
+      "title": "ZZ Top",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.171,
+    0.216,
+    0.267,
+    0.249,
+    0.222,
+    0.182,
+    0.177,
+    0.167,
+    0.152,
+    0.132,
+    0.107,
+    0.077,
+    0.042,
+    0.002,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 4,
+  "score": 2.26,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1395
+}

@@ -1,1 +1,61 @@
-{"title":"Perfect Way","instanceSlug":97,"tags":["only-hit","perfect","way"],"parents":[],"genre":"pop","debut":"1985-10","ranks":[15.9,9.2,5.3,4.67,5.2,5.73,6.79,8.38,10.5,13.15,16.33,20.04,24.28,29.05,34.35,40.18,46.54,53.43,60.85,68.8],"artists":[{"slug":"scritti-politi","title":"Scritti Politi","roleSlug":true}],"debutRank":15.9,"peakRank":4.67,"duration":5,"score":9.65,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":987}
+{
+  "title": "Perfect Way",
+  "instanceSlug": 97,
+  "tags": [
+    "only-hit",
+    "perfect",
+    "way"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-10",
+  "ranks": [
+    15.9,
+    9.2,
+    5.3,
+    4.67,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "scritti-politi",
+      "title": "Scritti Politi",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.26,
+    0.444,
+    0.486,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 4.5,
+  "score": 5.296999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 961
+}

@@ -1,1 +1,32 @@
-{"title":"Take My Heart (You Can Have It If You Want It)","instanceSlug":1534,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1981-11","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2846}
+{
+  "title": "Take My Heart (You Can Have It If You Want It)",
+  "instanceSlug": 1534,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "koolnthegang",
+      "title": "Kool & the Gang",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2496
+}

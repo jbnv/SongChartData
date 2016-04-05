@@ -1,1 +1,67 @@
-{"title":"Girl You Know It's True","instanceSlug":1921,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-02","playlists":[],"ranks":[18,12,7.5,5.8,5,5.15,5.46,5.99,6.5,7.4,8.3,10.1,12.8,16.4,20.9,26.3,32.6,39.8,47.9,56.9],"artists":[{"slug":"milli-vanilli","title":"Milli Vanilli","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":12.47,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":779}
+{
+  "title": "Girl You Know It's True",
+  "instanceSlug": 1921,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    12,
+    7.5,
+    5.8,
+    5,
+    5.15,
+    5.46,
+    5.99,
+    6.5,
+    7.4
+  ],
+  "artists": [
+    {
+      "slug": "milli-vanilli",
+      "title": "Milli Vanilli",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.171,
+    0.328,
+    0.414,
+    0.463,
+    0.453,
+    0.434,
+    0.403,
+    0.376,
+    0.332,
+    0.327,
+    0.317,
+    0.302,
+    0.282,
+    0.257,
+    0.227,
+    0.192,
+    0.152,
+    0.107,
+    0.057,
+    0.002,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5.5,
+  "score": 5.632000000000001,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 902
+}

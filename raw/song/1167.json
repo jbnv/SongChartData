@@ -1,1 +1,19 @@
-{"title":"Play That Funky Music","instanceSlug":1167,"tags":[],"parents":[],"genre":"rap","debut":"1990-12","playlists":[],"ranks":[],"artists":{"vanilla-ice":true}}
+{
+  "title": "Play That Funky Music",
+  "instanceSlug": 1167,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1990-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "vanilla-ice": true
+  },
+  "scores": [
+  ]
+}

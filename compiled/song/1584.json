@@ -1,1 +1,71 @@
-{"title":"Jungle Love","instanceSlug":1584,"tags":[],"parents":[],"genre":"funk-dance","debut":"1985-01","source":{"title":"Purple Rain","instanceSlug":"purple-rain","tags":["prince"],"parents":[],"type":"movie"},"playlists":[],"ranks":[11,1.2,1,1.05,1.21,1.37,1.69,2.17,2.81,3.61,4.57,5.69,6.97,8.41,10.01,11.77,13.69,15.77,18.01,20.41,22.97,25.69,28.57,31.61,34.81,38.17,41.69,45.37,49.21,53.21,57.37,61.69],"artists":[{"slug":"the-time"}],"debutRank":11,"peakRank":1,"duration":8,"score":29.89,"genres":[{"slug":"funk-dance","title":"Funk Dance"}],"rank":52}
+{
+  "title": "Jungle Love",
+  "instanceSlug": 1584,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "funk-dance",
+  "debut": "1985-01",
+  "source": {
+    "title": "Purple Rain",
+    "instanceSlug": "purple-rain",
+    "tags": [
+      "prince"
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    11,
+    1.2,
+    1,
+    1.05,
+    1.21
+  ],
+  "artists": [
+    {
+      "slug": "the-time"
+    }
+  ],
+  "scores": [
+    0.2,
+    0.939,
+    1,
+    0.983,
+    0.936,
+    0.931,
+    0.921,
+    0.906,
+    0.886,
+    0.861,
+    0.831,
+    0.796,
+    0.756,
+    0.711,
+    0.661,
+    0.606,
+    0.546,
+    0.481,
+    0.411,
+    0.336,
+    0.256,
+    0.171,
+    0.081,
+    0
+  ],
+  "debutScore": 0.2,
+  "peakScore": 0.2,
+  "duration": 6,
+  "score": 15.205999999999998,
+  "genres": [
+    {
+      "slug": "funk-dance",
+      "title": "Funk Dance"
+    }
+  ],
+  "rank": 20
+}

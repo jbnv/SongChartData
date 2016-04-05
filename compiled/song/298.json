@@ -1,1 +1,71 @@
-{"title":"Crazycool","instanceSlug":298,"tags":["cool","crazy"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[18,10,4,3.2,2.8,3,3.3,3.6,3.9,4.4,4.9,5.9,7.4,9.4,11.9,14.9,18.4,22.4,26.9,31.9,37.4,43.4,49.9,56.9],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":18,"peakRank":2.8,"duration":6,"score":20.12,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":317}
+{
+  "title": "Crazycool",
+  "instanceSlug": 298,
+  "tags": [
+    "cool",
+    "crazy"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-09",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    4,
+    3.2,
+    2.8,
+    3,
+    3.3,
+    3.6,
+    3.9,
+    4.4
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.232,
+    0.537,
+    0.612,
+    0.656,
+    0.633,
+    0.602,
+    0.573,
+    0.546,
+    0.506,
+    0.501,
+    0.491,
+    0.476,
+    0.456,
+    0.431,
+    0.401,
+    0.366,
+    0.326,
+    0.281,
+    0.231,
+    0.176,
+    0.116,
+    0.051,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 6,
+  "score": 9.236,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 451
+}

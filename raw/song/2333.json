@@ -1,12 +1,24 @@
 {
   "title": "Birthday Suit",
   "instanceSlug": 2333,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "urban",
   "debut": "1989-05",
-  "playlists": [18,10,7,4.9,4,4.1,4.5],
-  "ranks": [],
+  "playlists": [
+    18,
+    10,
+    7,
+    4.9,
+    4,
+    4.1,
+    4.5
+  ],
+  "ranks": [
+  ],
   "artists": {
     "johnny-kemp": true
-  }
+  },
+  "scores": [
+  ]
 }

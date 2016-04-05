@@ -1,1 +1,21 @@
-{"title":"You Got It","instanceSlug":2447,"tags":["you-got-it"],"parents":[],"genre":"pop","debut":"1995-03","playlists":["remake"],"ranks":[],"artists":{"bonnie-raitt":true}}
+{
+  "title": "You Got It",
+  "instanceSlug": 2447,
+  "tags": [
+    "you-got-it"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-03",
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bonnie-raitt": true
+  },
+  "scores": [
+  ]
+}

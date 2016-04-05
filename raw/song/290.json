@@ -10,7 +10,9 @@
   ],
   "genre": "pop",
   "debut": "1986-09",
-  "playlists": ["feb13"],
+  "playlists": [
+    "feb13"
+  ],
   "ranks": [
     13.9,
     8.6,
@@ -23,5 +25,14 @@
   "artists": {
     "genesis": true,
     "phil-collins": "member"
-  }
+  },
+  "scores": [
+    0.122,
+    0.282,
+    0.47,
+    0.645,
+    0.694,
+    0.731,
+    0.685
+  ]
 }

@@ -1,1 +1,23 @@
-{"title":"That's What Friends are For","instanceSlug":1377,"tags":[],"parents":[],"genre":"pop","debut":"1985-11","playlists":[],"ranks":[],"artists":{"dionne-friends":true,"dionne-warwick":"member","elton-john":"member","gladys-knight":"member","stevie-wonder":true}}
+{
+  "title": "That's What Friends are For",
+  "instanceSlug": 1377,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "dionne-friends": true,
+    "dionne-warwick": "member",
+    "elton-john": "member",
+    "gladys-knight": "member",
+    "stevie-wonder": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,65 @@
-{"title":"Diamonds and Pearls","instanceSlug":609,"tags":["diamond","jewelry","pearl","this-and-that"],"parents":[],"genre":"soul","debut":"1992-01","playlists":[],"ranks":[16,3.3,1.8,1.92,2.04,2.28,2.64,3.12,3.72,4.44,5.28,6.24,7.32,8.52,9.84,11.28,12.84,14.52,16.32,18.24,20.28,22.44,24.72,27.12,29.64,32.28,35.04,37.92,40.92,44.04,47.28,50.64],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":16,"peakRank":1.8,"duration":8,"score":25.08,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":136}
+{
+  "title": "Diamonds and Pearls",
+  "instanceSlug": 609,
+  "tags": [
+    "diamond",
+    "jewelry",
+    "pearl",
+    "this-and-that"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1992-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    3.3,
+    1.8,
+    1.92
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.602,
+    0.804,
+    0.782,
+    0.777,
+    0.767,
+    0.752,
+    0.732,
+    0.707,
+    0.677,
+    0.642,
+    0.602,
+    0.557,
+    0.507,
+    0.452,
+    0.392,
+    0.327,
+    0.257,
+    0.182,
+    0.102,
+    0.017,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 10.712,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 291
+}

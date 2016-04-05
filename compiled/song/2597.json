@@ -1,1 +1,65 @@
-{"title":"Someday","instanceSlug":2597,"tags":[],"parents":[],"genre":"pop-rock","debut":"1986-12","playlists":[],"ranks":[15,9.2,6.3,4.8,3.9,3.4,3.57,4.2,4.83,6.09,7.98,10.5,13.65,17.43,21.84,26.88,32.55,38.85,45.78,53.34],"artists":[{"slug":"glass-tiger","title":"Glass Tiger","roleSlug":true}],"debutRank":15,"peakRank":3.4,"duration":5,"score":15.09,"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":597}
+{
+  "title": "Someday",
+  "instanceSlug": 2597,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop-rock",
+  "debut": "1986-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9.2,
+    6.3,
+    4.8,
+    3.9,
+    3.4,
+    3.57,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "glass-tiger",
+      "title": "Glass Tiger",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.26,
+    0.386,
+    0.477,
+    0.546,
+    0.592,
+    0.575,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 7.952,
+  "genres": [
+    {
+      "slug": "pop-rock",
+      "title": "Pop-Rock"
+    }
+  ],
+  "source": null,
+  "rank": 618
+}

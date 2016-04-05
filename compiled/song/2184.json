@@ -1,1 +1,63 @@
-{"title":"Mama Used to Say","instanceSlug":2184,"tags":[],"parents":[],"genre":"pop","debut":"1982-04","playlists":[],"ranks":[12,5.2,1.9,1.4,1.56,1.72,2.04,2.52,3.16,3.96,4.92,6.04,7.32,8.76,10.36,12.12,14.04,16.12,18.36,20.76,23.32,26.04,28.92,31.96,35.16,38.52,42.04,45.72,49.56,53.56,57.72,62.04],"artists":[{"slug":"junior","title":"Junior","roleSlug":true}],"debutRank":12,"peakRank":1.4,"duration":8,"score":26.02,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":109}
+{
+  "title": "Mama Used to Say",
+  "instanceSlug": 2184,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-04",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    5.2,
+    1.9,
+    1.4,
+    1.56
+  ],
+  "artists": [
+    {
+      "slug": "junior",
+      "title": "Junior",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.45,
+    0.786,
+    0.887,
+    0.851,
+    0.846,
+    0.836,
+    0.821,
+    0.801,
+    0.776,
+    0.746,
+    0.711,
+    0.671,
+    0.626,
+    0.576,
+    0.521,
+    0.461,
+    0.396,
+    0.326,
+    0.251,
+    0.171,
+    0.086,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 12.767000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 145
+}

@@ -1,1 +1,63 @@
-{"title":"It Feels So Good","instanceSlug":2531,"tags":[],"parents":[],"genre":"dance","debut":"2000-02","playlists":[],"ranks":[14,7,3.5,2.9,2.5,2.759,3.02,3.54,4.31,5.35,6.64,8.2,10.01,12.08,14.41,17,19.85,22.96,26.33,29.95,33.84,37.98,42.39,47.05,51.97,57.15,62.59,68.29],"artists":[{"slug":"sonique","title":"Sonique","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":7,"score":19.38,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":350}
+{
+  "title": "It Feels So Good",
+  "instanceSlug": 2531,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "2000-02",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    7,
+    3.5,
+    2.9,
+    2.5,
+    2.759
+  ],
+  "artists": [
+    {
+      "slug": "sonique",
+      "title": "Sonique",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.351,
+    0.582,
+    0.645,
+    0.694,
+    0.661,
+    0.656,
+    0.646,
+    0.631,
+    0.611,
+    0.586,
+    0.556,
+    0.521,
+    0.481,
+    0.436,
+    0.386,
+    0.331,
+    0.271,
+    0.206,
+    0.136,
+    0.061,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 9.568,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 421
+}

@@ -1,1 +1,35 @@
-{"title":"When I'm Back on My Feet Again","instanceSlug":2833,"tags":["#1","#1-adult-contemporary","back-on","back-on-my-feet","i'm-back"],"parents":[],"genre":"adult-contemporary","debut":"1990-06","playlists":[],"ranks":[],"artists":[{"slug":"michael-bolton","title":"Michael Bolton","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2020}
+{
+  "title": "When I'm Back on My Feet Again",
+  "instanceSlug": 2833,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "back-on",
+    "back-on-my-feet",
+    "i'm-back"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1990-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "michael-bolton",
+      "title": "Michael Bolton",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2020
+}

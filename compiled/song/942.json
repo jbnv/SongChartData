@@ -1,1 +1,60 @@
-{"title":"Oh Sheila","instanceSlug":942,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":"1985-09","playlists":[],"ranks":[17.9,10.4,6.1,5.8,6.9,8,10.2,13.5,17.9,23.4,30,37.7,46.5,56.4,67.4,79.5],"artists":[{"slug":"ready-for-the-world","title":"Ready for the World","roleSlug":true}],"debutRank":17.9,"peakRank":5.8,"duration":4,"score":6.39,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1245}
+{
+  "title": "Oh Sheila",
+  "instanceSlug": 942,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1985-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.4,
+    6.1,
+    5.8,
+    6.9
+  ],
+  "artists": [
+    {
+      "slug": "ready-for-the-world",
+      "title": "Ready for the World",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.219,
+    0.397,
+    0.414,
+    0.356,
+    0.351,
+    0.341,
+    0.326,
+    0.306,
+    0.281,
+    0.251,
+    0.216,
+    0.176,
+    0.131,
+    0.081,
+    0.026,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 4.25,
+  "score": 3.9100000000000006,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 1173
+}

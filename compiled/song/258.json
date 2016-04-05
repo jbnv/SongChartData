@@ -1,1 +1,65 @@
-{"title":"Rush Rush","instanceSlug":258,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"adult-contemporary","debut":"1991-05","ranks":[13.7,7.7,4.2,2.3,2.5,2.9,3.3,4.1,5.3,6.9,8.9,11.3,14.1,17.3,20.9,24.9,29.3,34.1,39.3,44.9,50.9,57.3,64.1,71.3],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":13.7,"peakRank":2.3,"duration":6,"score":16.78,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":482}
+{
+  "title": "Rush Rush",
+  "instanceSlug": 258,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1991-05",
+  "ranks": [
+    13.7,
+    7.7,
+    4.2,
+    2.3,
+    2.5,
+    2.9
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.127,
+    0.319,
+    0.521,
+    0.722,
+    0.694,
+    0.645,
+    0.64,
+    0.63,
+    0.615,
+    0.595,
+    0.57,
+    0.54,
+    0.505,
+    0.465,
+    0.42,
+    0.37,
+    0.315,
+    0.255,
+    0.19,
+    0.12,
+    0.045,
+    0
+  ],
+  "debutScore": 0.127,
+  "peakScore": 0.127,
+  "duration": 5.5,
+  "score": 9.302999999999999,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 440
+}

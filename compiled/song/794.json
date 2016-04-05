@@ -1,1 +1,53 @@
-{"title":"Where Do Broken Hearts Go","instanceSlug":794,"tags":["#1","#1-adult-contemporary","#1-hot-100","broken-heart"],"parents":[],"genre":"pop","debut":"1988-05","playlists":[],"ranks":[17.9,9.9,12.1,14.3,18.7,25.3,34.1,45.1,58.3,73.7,91.3,111.1],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":17.9,"peakRank":9.9,"duration":3,"score":1.74,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1524}
+{
+  "title": "Where Do Broken Hearts Go",
+  "instanceSlug": 794,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "broken-heart"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    9.9,
+    12.1
+  ],
+  "artists": [
+    {
+      "slug": "whitney-houston",
+      "title": "Whitney Houston",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.235,
+    0.168,
+    0.163,
+    0.153,
+    0.138,
+    0.118,
+    0.093,
+    0.063,
+    0.028,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 2.75,
+  "score": 1.1969999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1495
+}

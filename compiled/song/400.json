@@ -1,1 +1,30 @@
-{"title":"Smooth Operator","instanceSlug":400,"tags":[],"parents":[],"genre":"pop","debut":1985,"playlists":[],"ranks":[],"artists":[{"slug":"sade","title":"Sade","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2393}
+{
+  "title": "Smooth Operator",
+  "instanceSlug": 400,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1985,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sade",
+      "title": "Sade",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2393
+}

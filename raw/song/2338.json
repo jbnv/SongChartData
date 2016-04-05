@@ -1,13 +1,30 @@
 {
   "title": "The Breakup Song (They Don't Write 'Em)",
   "instanceSlug": 2338,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1981-07",
-  "playlists": [],
-  "ranks": [25,11.5,10.5,10,10.2,10.9],
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    11.5,
+    10.5,
+    10,
+    10.2,
+    10.9
+  ],
   "artists": {
     "greg-kihn-band": true
-  }
+  },
+  "scores": [
+    0.185,
+    0.216,
+    0.232,
+    0.225,
+    0.203
+  ]
 }

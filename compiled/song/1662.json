@@ -1,1 +1,32 @@
-{"title":"Special Lady","instanceSlug":1662,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1980-03","playlists":[],"ranks":[],"artists":[{"slug":"ray-goodman-brown","title":"Moments / Ray Goodman & Brown","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2532}
+{
+  "title": "Special Lady",
+  "instanceSlug": 1662,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1980-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "ray-goodman-brown",
+      "title": "Moments / Ray Goodman & Brown",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2971
+}

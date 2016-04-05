@@ -1,14 +1,21 @@
 {
   "title": "A View to a Kill",
   "instanceSlug": 2451,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1985-06",
   "source": "a-view-to-a-kill",
-  "playlists": ["james-bond"],
-  "ranks": [],
+  "playlists": [
+    "james-bond"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "duran-duran": true
-  }
+  },
+  "scores": [
+  ]
 }

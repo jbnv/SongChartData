@@ -1,1 +1,30 @@
-{"title":"Ooops Up","instanceSlug":2937,"tags":[],"parents":[],"genre":"dance","debut":"1990-10","playlists":[],"ranks":[],"artists":[{"slug":"snap","title":"Snap!","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":2135}
+{
+  "title": "Ooops Up",
+  "instanceSlug": 2937,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1990-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "snap",
+      "title": "Snap!",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 2135
+}

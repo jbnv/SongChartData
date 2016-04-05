@@ -1,1 +1,76 @@
-{"title":"Exhale (Shoop Shoop)","instanceSlug":1365,"tags":["#1","#1-adult-contemporary","#1-r&b","breath"],"parents":[],"genre":"soul","debut":"1995-12","source":{"title":"Waiting to Exhale","instanceSlug":"waiting-to-exhale","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[11,3,1.9,1.8,1.95,2.2,2.45,2.95,3.7,4.7,5.95,7.45,9.2,11.2,13.45,15.95,18.7,21.7,24.95,28.45,32.2,36.2,40.45,44.95,49.7,54.7,59.95,65.45],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":11,"peakRank":1.8,"duration":7,"score":23.26,"genres":[{"slug":"soul","title":"Soul"}],"rank":192}
+{
+  "title": "Exhale (Shoop Shoop)",
+  "instanceSlug": 1365,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-r&b",
+    "breath"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1995-12",
+  "source": {
+    "title": "Waiting to Exhale",
+    "instanceSlug": "waiting-to-exhale",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    11,
+    3,
+    1.9,
+    1.8,
+    1.95,
+    2.2
+  ],
+  "artists": [
+    {
+      "slug": "whitney-houston",
+      "title": "Whitney Houston",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.2,
+    0.633,
+    0.786,
+    0.804,
+    0.777,
+    0.737,
+    0.732,
+    0.722,
+    0.707,
+    0.687,
+    0.662,
+    0.632,
+    0.597,
+    0.557,
+    0.512,
+    0.462,
+    0.407,
+    0.347,
+    0.282,
+    0.212,
+    0.137,
+    0.057,
+    0
+  ],
+  "debutScore": 0.2,
+  "peakScore": 0.2,
+  "duration": 5.75,
+  "score": 11.649000000000001,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "rank": 225
+}

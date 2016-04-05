@@ -1,1 +1,30 @@
-{"title":"State of the World","instanceSlug":2346,"tags":[],"parents":[],"genre":"pop","debut":"1991-03","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2964}
+{
+  "title": "State of the World",
+  "instanceSlug": 2346,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "janet-jackson",
+      "title": "Janet Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2963
+}

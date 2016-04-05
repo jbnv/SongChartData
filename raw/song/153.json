@@ -1,1 +1,42 @@
-{"title":"Big Time","instanceSlug":153,"tags":["big","time","top-10"],"parents":[],"genre":true,"debut":1987,"ranks":[19.9,11.3,6.4,4.2,5.8,8.1,11.2,15.6,21.6,30,41.7,57.9,80.3,111.4],"artists":{"peter-gabriel":true}}
+{
+  "title": "Big Time",
+  "instanceSlug": 153,
+  "tags": [
+    "big",
+    "time",
+    "top-10"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1987,
+  "ranks": [
+    19.9,
+    11.3,
+    6.4,
+    4.2,
+    5.8,
+    8.1,
+    11.2,
+    15.6,
+    21.6,
+    30,
+    41.7,
+    57.9,
+    80.3,
+    111.4
+  ],
+  "artists": {
+    "peter-gabriel": true
+  },
+  "scores": [
+    0.003,
+    0.191,
+    0.381,
+    0.521,
+    0.414,
+    0.302,
+    0.194,
+    0.084
+  ]
+}

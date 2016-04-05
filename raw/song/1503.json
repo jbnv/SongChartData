@@ -1,1 +1,22 @@
-{"title":"I've Found Someone","instanceSlug":1503,"tags":["found","i've","someone"],"parents":[],"genre":"pop","debut":"1988-01","playlists":[],"ranks":[],"artists":{"cher":true}}
+{
+  "title": "I've Found Someone",
+  "instanceSlug": 1503,
+  "tags": [
+    "found",
+    "i've",
+    "someone"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "cher": true
+  },
+  "scores": [
+  ]
+}

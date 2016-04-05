@@ -1,1 +1,33 @@
-{"title":"Heatwave","instanceSlug":18,"tags":["hot","wave"],"parents":[],"genre":"","debut":"1970s","ranks":[18,11,10,9.5,9.75,10.5,15],"artists":{"linda-ronstadt":true}}
+{
+  "title": "Heatwave",
+  "instanceSlug": 18,
+  "tags": [
+    "hot",
+    "wave"
+  ],
+  "parents": [
+  ],
+  "genre": "",
+  "debut": "1970s",
+  "ranks": [
+    18,
+    11,
+    10,
+    9.5,
+    9.75,
+    10.5,
+    15
+  ],
+  "artists": {
+    "linda-ronstadt": true
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.232,
+    0.249,
+    0.24,
+    0.216,
+    0.097
+  ]
+}

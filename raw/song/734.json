@@ -1,1 +1,29 @@
-{"title":"Right Here","instanceSlug":734,"tags":[],"parents":[],"genre":"soul","debut":"1993-09","playlists":[],"ranks":[15,8.5,4.9,3.5,4.6],"artists":{"swv":true}}
+{
+  "title": "Right Here",
+  "instanceSlug": 734,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1993-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.5,
+    4.9,
+    3.5,
+    4.6
+  ],
+  "artists": {
+    "swv": true
+  },
+  "scores": [
+    0.097,
+    0.286,
+    0.47,
+    0.582,
+    0.491
+  ]
+}

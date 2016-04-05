@@ -1,14 +1,21 @@
 {
   "title": "Please Come Home for Christmas",
   "instanceSlug": 2466,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "adult-contemporary",
   "debut": "1978-12",
-  "playlists": ["xmas"],
-  "ranks": [],
+  "playlists": [
+    "xmas"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "eagles": true,
     "don-henley": "lead"
-  }
+  },
+  "scores": [
+  ]
 }

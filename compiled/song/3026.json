@@ -1,1 +1,32 @@
-{"title":"Last Friday Night","instanceSlug":3026,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"dance-pop","debut":2008,"playlists":[],"ranks":[],"artists":[{"slug":"katy-perry","title":"Katy Perry","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":2236}
+{
+  "title": "Last Friday Night",
+  "instanceSlug": 3026,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2008,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "katy-perry",
+      "title": "Katy Perry",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2236
+}

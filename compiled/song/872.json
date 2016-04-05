@@ -1,1 +1,65 @@
-{"title":"Layla","instanceSlug":872,"tags":[],"parents":[],"genre":"blues","debut":"1992-10","playlists":[{"slug":"women"}],"ranks":[17,9.6,5.4,3.7,3.5,3.9,4.3,5.1,6.3,7.9,9.9,12.3,15.1,18.3,21.9,25.9,30.3,35.1,40.3,45.9,51.9,58.3,65.1,72.3],"artists":[{"slug":"eric-clapton","title":"Eric Clapton","roleSlug":true}],"debutRank":17,"peakRank":3.5,"duration":6,"score":13.88,"genres":[{"slug":"blues","title":"Blues"}],"source":null,"rank":682}
+{
+  "title": "Layla",
+  "instanceSlug": 872,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "blues",
+  "debut": "1992-10",
+  "playlists": [
+    {
+      "slug": "women"
+    }
+  ],
+  "ranks": [
+    17,
+    9.6,
+    5.4,
+    3.7,
+    3.5,
+    3.9
+  ],
+  "artists": [
+    {
+      "slug": "eric-clapton",
+      "title": "Eric Clapton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.246,
+    0.437,
+    0.563,
+    0.582,
+    0.546,
+    0.541,
+    0.531,
+    0.516,
+    0.496,
+    0.471,
+    0.441,
+    0.406,
+    0.366,
+    0.321,
+    0.271,
+    0.216,
+    0.156,
+    0.091,
+    0.021,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 7.272999999999999,
+  "genres": [
+    {
+      "slug": "blues",
+      "title": "Blues"
+    }
+  ],
+  "source": null,
+  "rank": 701
+}

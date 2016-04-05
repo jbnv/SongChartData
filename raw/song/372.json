@@ -6,10 +6,12 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "source":"thriller",
+  "source": "thriller",
   "genre": "dance-pop",
   "debut": "1983-02",
-  "playlists": ["women"],
+  "playlists": [
+    "women"
+  ],
   "ranks": [
     19.5,
     12.5,
@@ -20,5 +22,13 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.009,
+    0.158,
+    0.267,
+    0.381,
+    0.431,
+    0.391
+  ]
 }

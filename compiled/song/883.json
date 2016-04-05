@@ -1,1 +1,64 @@
-{"title":"I Will Be Here for You","instanceSlug":883,"tags":["i-will"],"genre":"pop","debut":"1992-11","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[15.5,9,5,3.9,3.5,4.2,4.9,6.3,8.4,11.2,14.7,18.9,23.8,29.4,35.7,42.7,50.4,58.8,67.9,77.7],"artists":[{"slug":"michael-w-smith","title":"Michael W. Smith","roleSlug":true}],"debutRank":15.5,"peakRank":3.5,"duration":5,"score":11.8,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":834}
+{
+  "title": "I Will Be Here for You",
+  "instanceSlug": 883,
+  "tags": [
+    "i-will"
+  ],
+  "genre": "pop",
+  "debut": "1992-11",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    15.5,
+    9,
+    5,
+    3.9,
+    3.5,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "michael-w-smith",
+      "title": "Michael W. Smith",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.267,
+    0.463,
+    0.546,
+    0.582,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 5,
+  "score": 6.963000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 740
+}

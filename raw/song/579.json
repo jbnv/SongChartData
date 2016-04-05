@@ -1,1 +1,42 @@
-{"title":"Don't Make Me Wait for Love","instanceSlug":579,"tags":["don't","","love","make","me","wait"],"parents":[],"genre":"adult-contemporary","debut":"1987-10","playlists":[],"ranks":[13,3.9,2.8,2.1,2.19,2.33,2.56,2.9],"artists":{"kenny-g":true,"lenny-williams":"backup"}}
+{
+  "title": "Don't Make Me Wait for Love",
+  "instanceSlug": 579,
+  "tags": [
+    "don't",
+    "",
+    "love",
+    "make",
+    "me",
+    "wait"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    3.9,
+    2.8,
+    2.1,
+    2.19,
+    2.33,
+    2.56,
+    2.9
+  ],
+  "artists": {
+    "kenny-g": true,
+    "lenny-williams": "backup"
+  },
+  "scores": [
+    0.145,
+    0.546,
+    0.656,
+    0.752,
+    0.738,
+    0.718,
+    0.686,
+    0.645
+  ]
+}

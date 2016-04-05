@@ -1,1 +1,51 @@
-{"title":"Simply Irresistible","instanceSlug":813,"tags":[],"parents":[],"genre":"rock","debut":1988,"playlists":[],"ranks":[17.9,10.7,9,12,15,21,30,42,57,75,96,120],"artists":[{"slug":"robert-palmer","title":"Robert Palmer","roleSlug":true}],"debutRank":17.9,"peakRank":9,"duration":3,"score":2.35,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1494}
+{
+  "title": "Simply Irresistible",
+  "instanceSlug": 813,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1988,
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    9,
+    12
+  ],
+  "artists": [
+    {
+      "slug": "robert-palmer",
+      "title": "Robert Palmer",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.267,
+    0.171,
+    0.166,
+    0.156,
+    0.141,
+    0.121,
+    0.096,
+    0.066,
+    0.031,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3,
+  "score": 1.4620000000000002,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1470
+}

@@ -1,1 +1,60 @@
-{"title":"Real Love","instanceSlug":1008,"tags":[],"parents":[],"genre":"pop","debut":"1980-09","playlists":[],"ranks":[13.9,7.8,4.4,2.6,3.55,4.5,6.4,9.25,13.05,17.8,23.5,30.15,37.75,46.3,55.8,66.25],"artists":[{"slug":"doobie-brothers","title":"Doobie Brothers","roleSlug":true}],"debutRank":13.9,"peakRank":2.6,"duration":4,"score":10.58,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":915}
+{
+  "title": "Real Love",
+  "instanceSlug": 1008,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    7.8,
+    4.4,
+    2.6,
+    3.55
+  ],
+  "artists": [
+    {
+      "slug": "doobie-brothers",
+      "title": "Doobie Brothers",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.315,
+    0.506,
+    0.681,
+    0.577,
+    0.572,
+    0.562,
+    0.547,
+    0.527,
+    0.502,
+    0.472,
+    0.437,
+    0.397,
+    0.352,
+    0.302,
+    0.247,
+    0.187,
+    0.122,
+    0.052,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 5,
+  "score": 7.478999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 675
+}

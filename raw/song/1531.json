@@ -1,1 +1,22 @@
-{"title":"Centerfold","instanceSlug":1531,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1981-12","playlists":[],"ranks":[],"artists":{"j-geils-band":true}}
+{
+  "title": "Centerfold",
+  "instanceSlug": 1531,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "j-geils-band": true
+  },
+  "scores": [
+  ]
+}

@@ -1,10 +1,17 @@
 {
   "title": "Move Any Mountain",
   "instanceSlug": "shamen01",
-  "tags": [],
+  "tags": [
+  ],
   "genre": "techno-dance",
   "debut": "1992-02",
-  "playlists": [],
-  "ranks": [],
-  "artists": {"shamen":true}
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "shamen": true
+  },
+  "scores": [
+  ]
 }

@@ -1,1 +1,66 @@
-{"title":"LoveStoned","instanceSlug":2260,"tags":[],"parents":[],"genre":"dance-pop","debut":2007,"playlists":[],"ranks":[15,9,6,4.4,3.6,3,3.25,3.75,4.25,5.25,6.75,8.75,11.25,14.25,17.75,21.75,26.25,31.25,36.75,42.75,49.25,56.25,63.75,71.75],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":6,"score":16.8,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":479}
+{
+  "title": "LoveStoned",
+  "instanceSlug": 2260,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2007,
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.4,
+    3.6,
+    3,
+    3.25,
+    3.75
+  ],
+  "artists": [
+    {
+      "slug": "justin-timberlake",
+      "title": "Justin Timberlake",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.506,
+    0.573,
+    0.633,
+    0.607,
+    0.559,
+    0.554,
+    0.544,
+    0.529,
+    0.509,
+    0.484,
+    0.454,
+    0.419,
+    0.379,
+    0.334,
+    0.284,
+    0.229,
+    0.169,
+    0.104,
+    0.034,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 8.67,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 512
+}

@@ -8,9 +8,27 @@
   "source": "dangerous",
   "genre": "pop",
   "debut": "1992-05",
-  "playlists": [],
-  "ranks": [19,10,6,4.4,4.2,4.5,5.2],
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    10,
+    6,
+    4.4,
+    4.2,
+    4.5,
+    5.2
+  ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.018,
+    0.232,
+    0.402,
+    0.506,
+    0.521,
+    0.498,
+    0.45
+  ]
 }

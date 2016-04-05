@@ -1,1 +1,32 @@
-{"title":"Welcome to the Jungle","instanceSlug":1583,"tags":["jungle","welcome"],"parents":[],"genre":"metal","debut":"1988-12","playlists":[],"ranks":[],"artists":[{"slug":"guns-n-roses","title":"Guns N Roses","roleSlug":true}],"genres":[{"slug":"metal","title":"Metal"}],"source":null,"rank":1988}
+{
+  "title": "Welcome to the Jungle",
+  "instanceSlug": 1583,
+  "tags": [
+    "jungle",
+    "welcome"
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1988-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "guns-n-roses",
+      "title": "Guns N Roses",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "metal",
+      "title": "Metal"
+    }
+  ],
+  "source": null,
+  "rank": 2298
+}

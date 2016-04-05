@@ -1,1 +1,33 @@
-{"title":"Real Real Real","instanceSlug":964,"tags":[],"parents":[],"genre":"rock","debut":"1991-09","playlists":[],"ranks":[14,6,4.05,4.1,4.2,4.4,5],"artists":{"jesus-jones":true}}
+{
+  "title": "Real Real Real",
+  "instanceSlug": 964,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-09",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    6,
+    4.05,
+    4.1,
+    4.2,
+    4.4,
+    5
+  ],
+  "artists": {
+    "jesus-jones": true
+  },
+  "scores": [
+    0.12,
+    0.402,
+    0.533,
+    0.529,
+    0.521,
+    0.506,
+    0.463
+  ]
+}

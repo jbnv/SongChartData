@@ -1,1 +1,67 @@
-{"title":"Let's Hear It For the Boy","instanceSlug":90,"tags":[],"source":{"title":"Footloose","instanceSlug":"footloose","tags":[],"parents":[],"type":"movie"},"genre":"dance","debut":1984,"ranks":[15,5,4.7,4.4,4.52,5.1,5.68,6.84,8.58,10.9,13.8,17.28,21.34,25.98,31.2,37,43.38,50.34,57.88,66],"artists":[{"slug":"deniece-williams","title":"Deniece Williams","roleSlug":true}],"debutRank":15,"peakRank":4.4,"duration":5,"score":11.84,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"rank":828}
+{
+  "title": "Let's Hear It For the Boy",
+  "instanceSlug": 90,
+  "tags": [
+  ],
+  "source": {
+    "title": "Footloose",
+    "instanceSlug": "footloose",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "genre": "dance",
+  "debut": 1984,
+  "ranks": [
+    15,
+    5,
+    4.7,
+    4.4,
+    4.52,
+    5.1
+  ],
+  "artists": [
+    {
+      "slug": "deniece-williams",
+      "title": "Deniece Williams",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.463,
+    0.484,
+    0.506,
+    0.497,
+    0.456,
+    0.451,
+    0.441,
+    0.426,
+    0.406,
+    0.381,
+    0.351,
+    0.316,
+    0.276,
+    0.231,
+    0.181,
+    0.126,
+    0.066,
+    0.001,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5,
+  "score": 6.156000000000001,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "playlists": [
+  ],
+  "rank": 845
+}

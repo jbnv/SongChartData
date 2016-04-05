@@ -1,1 +1,72 @@
-{"title":"When Doves Cry","instanceSlug":608,"tags":["#1","#1-hot-100","#1-r&b"],"source":{"title":"Purple Rain","instanceSlug":"purple-rain","tags":["prince"],"parents":[],"type":"movie"},"genre":"pop","debut":"1984-06","playlists":[],"ranks":[15,4,2.1,1.6,2.05,2.5,3.4,4.75,6.55,8.8,11.5,14.65,18.25,22.3,26.8,31.75,37.15,43,49.3,56.05],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":15,"peakRank":1.6,"duration":5,"score":17.19,"genres":[{"slug":"pop","title":"Pop"}],"rank":460}
+{
+  "title": "When Doves Cry",
+  "instanceSlug": 608,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "source": {
+    "title": "Purple Rain",
+    "instanceSlug": "purple-rain",
+    "tags": [
+      "prince"
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "genre": "pop",
+  "debut": "1984-06",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    4,
+    2.1,
+    1.6,
+    2.05
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.537,
+    0.752,
+    0.843,
+    0.76,
+    0.755,
+    0.745,
+    0.73,
+    0.71,
+    0.685,
+    0.655,
+    0.62,
+    0.58,
+    0.535,
+    0.485,
+    0.43,
+    0.37,
+    0.305,
+    0.235,
+    0.16,
+    0.08,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 11.068999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 259
+}

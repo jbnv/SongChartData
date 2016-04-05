@@ -1,1 +1,70 @@
-{"title":"I Do You","instanceSlug":830,"tags":["do","i","i-verb-you","you"],"parents":[],"genre":"dance-pop","debut":"1987-11","playlists":[],"ranks":[17.1,10.9,7.9,7.2,6.8,6.9,7.4,7.9,8.6,9.4,10.7,12,14.6,18.5,23.7,30.2,38,47.1,57.5,69.2],"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"debutRank":17.1,"peakRank":6.8,"duration":5,"score":9.97,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":961}
+{
+  "title": "I Do You",
+  "instanceSlug": 830,
+  "tags": [
+    "do",
+    "i",
+    "i-verb-you",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17.1,
+    10.9,
+    7.9,
+    7.2,
+    6.8,
+    6.9,
+    7.4,
+    7.9,
+    8.6,
+    9.4,
+    10.7
+  ],
+  "artists": [
+    {
+      "slug": "jets",
+      "title": "The Jets",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.053,
+    0.203,
+    0.311,
+    0.341,
+    0.361,
+    0.356,
+    0.332,
+    0.311,
+    0.282,
+    0.253,
+    0.209,
+    0.204,
+    0.194,
+    0.179,
+    0.159,
+    0.134,
+    0.104,
+    0.069,
+    0.029,
+    0
+  ],
+  "debutScore": 0.053,
+  "peakScore": 0.053,
+  "duration": 5,
+  "score": 4.0840000000000005,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1153
+}

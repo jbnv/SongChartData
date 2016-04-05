@@ -1,1 +1,64 @@
-{"title":"Diggin' On You","instanceSlug":1426,"tags":[],"parents":[],"genre":"urban","debut":"1995-12","playlists":[],"ranks":[16,10.5,6.5,3.7,3.4,3.58,4.14,4.7,5.82,7.5,9.74,12.54,15.9,19.82,24.3,29.34,34.94,41.1,47.82,55.1],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":16,"peakRank":3.4,"duration":5,"score":13.89,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":681}
+{
+  "title": "Diggin' On You",
+  "instanceSlug": 1426,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1995-12",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10.5,
+    6.5,
+    3.7,
+    3.4,
+    3.58,
+    4.14
+  ],
+  "artists": [
+    {
+      "slug": "tlc",
+      "title": "TLC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.216,
+    0.376,
+    0.563,
+    0.592,
+    0.574,
+    0.526,
+    0.521,
+    0.511,
+    0.496,
+    0.476,
+    0.451,
+    0.421,
+    0.386,
+    0.346,
+    0.301,
+    0.251,
+    0.196,
+    0.136,
+    0.071,
+    0.001,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 7.486,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 674
+}

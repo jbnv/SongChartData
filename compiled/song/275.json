@@ -1,1 +1,58 @@
-{"title":"Sweet Love","instanceSlug":275,"tags":[],"parents":[],"genre":true,"debut":"1986-09","playlists":[],"ranks":[12,6.9,4,3.4,4.7,6,8.6,12.5,17.7,24.2,32,41.1,51.5,63.2,76.2,90.5],"artists":[{"slug":"anita-baker","title":"Anita Baker","roleSlug":true}],"debutRank":12,"peakRank":3.4,"duration":4,"score":9.08,"genres":[{"slug":true}],"source":null,"rank":1019}
+{
+  "title": "Sweet Love",
+  "instanceSlug": 275,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1986-09",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    6.9,
+    4,
+    3.4,
+    4.7
+  ],
+  "artists": [
+    {
+      "slug": "anita-baker",
+      "title": "Anita Baker",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.356,
+    0.537,
+    0.592,
+    0.484,
+    0.479,
+    0.469,
+    0.454,
+    0.434,
+    0.409,
+    0.379,
+    0.344,
+    0.304,
+    0.259,
+    0.209,
+    0.154,
+    0.094,
+    0.029,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 4.75,
+  "score": 6.157000000000002,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 844
+}

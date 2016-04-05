@@ -1,1 +1,29 @@
-{"title":"My One and Only True Love","instanceSlug":497,"tags":[],"parents":[],"genre":true,"debut":"1989-09","playlists":[],"ranks":[],"artists":[{"slug":"seduction","title":"Seduction","roleSlug":true}],"genres":[{"slug":true}],"source":null,"rank":2499}
+{
+  "title": "My One and Only True Love",
+  "instanceSlug": 497,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1989-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "seduction",
+      "title": "Seduction",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 2499
+}

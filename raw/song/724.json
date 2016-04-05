@@ -1,1 +1,38 @@
-{"title":"No Rain","instanceSlug":724,"tags":["no","rain"],"parents":[],"genre":"rock","debut":"1993-09","playlists":[],"ranks":[22,14,11,10.5,10.9,11.5,12.25,13,14.5],"artists":{"blind-melon":true}}
+{
+  "title": "No Rain",
+  "instanceSlug": 724,
+  "tags": [
+    "no",
+    "rain"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1993-09",
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    14,
+    11,
+    10.5,
+    10.9,
+    11.5,
+    12.25,
+    13,
+    14.5
+  ],
+  "artists": {
+    "blind-melon": true
+  },
+  "scores": [
+    0.12,
+    0.2,
+    0.216,
+    0.203,
+    0.185,
+    0.164,
+    0.145,
+    0.108
+  ]
+}

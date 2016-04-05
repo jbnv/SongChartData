@@ -1,1 +1,20 @@
-{"title":"Carnival","instanceSlug":1424,"tags":["carnival"],"parents":[],"genre":"adult-contemporary","debut":"1995-09","playlists":[],"ranks":[],"artists":{"natalie-merchant":true}}
+{
+  "title": "Carnival",
+  "instanceSlug": 1424,
+  "tags": [
+    "carnival"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1995-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "natalie-merchant": true
+  },
+  "scores": [
+  ]
+}

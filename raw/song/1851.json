@@ -1,1 +1,17 @@
-{"title":"Last Dance","instanceSlug":1851,"tags":[],"parents":[],"genre":"disco","debut":"1978-06","source":"thank-god-it-s-friday","playlists":[],"ranks":true,"artists":{"donna-summer":true}}
+{
+  "title": "Last Dance",
+  "instanceSlug": 1851,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1978-06",
+  "source": "thank-god-it-s-friday",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "donna-summer": true
+  }
+}

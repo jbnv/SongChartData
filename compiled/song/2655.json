@@ -1,1 +1,79 @@
-{"title":"Magnum PI Theme","instanceSlug":2655,"tags":[],"genre":"rock","debut":"1982-04","source":{"title":"Magnum PI","instanceSlug":"magnum-pi","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[14,4,2,2.18,2.37,2.59,2.87,3.15,3.71,4.55,5.67,7.07,8.75,10.71,12.95,15.47,18.27,21.35,24.71,28.35,32.27,36.47,40.95,45.71,50.75,56.07,61.67,67.55],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"debutRank":14,"peakRank":2,"duration":7,"score":22.22,"genres":[{"slug":"rock","title":"Rock"}],"rank":225}
+{
+  "title": "Magnum PI Theme",
+  "instanceSlug": 2655,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1982-04",
+  "source": {
+    "title": "Magnum PI",
+    "instanceSlug": "magnum-pi",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+    {
+      "slug": "instrumental",
+      "title": "Instrumentals"
+    },
+    {
+      "slug": "tv-theme",
+      "title": "TV Show Themes"
+    }
+  ],
+  "ranks": [
+    14,
+    4,
+    2,
+    2.18,
+    2.37,
+    2.59,
+    2.87
+  ],
+  "artists": [
+    {
+      "slug": "mike-post",
+      "title": "Mike Post",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.537,
+    0.768,
+    0.74,
+    0.712,
+    0.682,
+    0.648,
+    0.643,
+    0.633,
+    0.618,
+    0.598,
+    0.573,
+    0.543,
+    0.508,
+    0.468,
+    0.423,
+    0.373,
+    0.318,
+    0.258,
+    0.193,
+    0.123,
+    0.048,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 10.527,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "rank": 305
+}

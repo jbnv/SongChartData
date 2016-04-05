@@ -1,1 +1,66 @@
-{"title":"Jump","instanceSlug":79,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"hard-rock","debut":"1984-02","ranks":[12,2,2.29,2.58,3.16,4.03,5.19,6.64,8.38,10.41,12.73,15.34,18.24,21.43,24.91,28.68,32.74,37.09,41.73,46.66,51.88,57.39,63.19,69.28],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"member"}],"debutRank":12,"peakRank":2,"duration":6,"score":15.31,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"playlists":[],"source":null,"rank":575}
+{
+  "title": "Jump",
+  "instanceSlug": 79,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1984-02",
+  "ranks": [
+    12,
+    2,
+    2.29
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    },
+    {
+      "slug": "david-lee-roth",
+      "title": "David Lee Roth",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.171,
+    0.768,
+    0.723,
+    0.718,
+    0.708,
+    0.693,
+    0.673,
+    0.648,
+    0.618,
+    0.583,
+    0.543,
+    0.498,
+    0.448,
+    0.393,
+    0.333,
+    0.268,
+    0.198,
+    0.123,
+    0.043,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5,
+  "score": 9.150000000000002,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 462
+}

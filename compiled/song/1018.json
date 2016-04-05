@@ -1,1 +1,63 @@
-{"title":"Never Gonna Give You Up","instanceSlug":1018,"tags":[],"parents":[],"genre":"pop","debut":"1988-01","playlists":[],"ranks":[15,5,3,2,2.25,2.65,3.05,3.85,5.05,6.65,8.65,11.05,13.85,17.05,20.65,24.65,29.05,33.85,39.05,44.65,50.65,57.05,63.85,71.05],"artists":[{"slug":"rick-astley","title":"Rick Astley","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":6,"score":18.1,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":416}
+{
+  "title": "Never Gonna Give You Up",
+  "instanceSlug": 1018,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    5,
+    3,
+    2,
+    2.25,
+    2.65
+  ],
+  "artists": [
+    {
+      "slug": "rick-astley",
+      "title": "Rick Astley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.463,
+    0.633,
+    0.768,
+    0.729,
+    0.675,
+    0.67,
+    0.66,
+    0.645,
+    0.625,
+    0.6,
+    0.57,
+    0.535,
+    0.495,
+    0.45,
+    0.4,
+    0.345,
+    0.285,
+    0.22,
+    0.15,
+    0.075,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 10.09,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 353
+}

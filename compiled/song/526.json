@@ -1,1 +1,68 @@
-{"title":"Let Me Love You Tonight","instanceSlug":526,"tags":["let","let-me","love","me","tonight","you"],"parents":[],"genre":true,"debut":"1980-05","playlists":[],"ranks":[13.9,7.6,4.1,2.2,2.6,3.6,5.1,6.6,9.6,14.1,20.1,27.6,36.6,47.1,59.1,72.6],"artists":[{"slug":"pure-prairie-league","title":"Pure Prairie League","roleSlug":true}],"debutRank":13.9,"peakRank":2.2,"duration":4,"score":12.48,"genres":[{"slug":true}],"source":null,"rank":778}
+{
+  "title": "Let Me Love You Tonight",
+  "instanceSlug": 526,
+  "tags": [
+    "let",
+    "let-me",
+    "love",
+    "me",
+    "tonight",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1980-05",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    7.6,
+    4.1,
+    2.2,
+    2.6,
+    3.6,
+    5.1
+  ],
+  "artists": [
+    {
+      "slug": "pure-prairie-league",
+      "title": "Pure Prairie League",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.323,
+    0.529,
+    0.737,
+    0.681,
+    0.573,
+    0.456,
+    0.451,
+    0.441,
+    0.426,
+    0.406,
+    0.381,
+    0.351,
+    0.316,
+    0.276,
+    0.231,
+    0.181,
+    0.126,
+    0.066,
+    0.001,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 5.25,
+  "score": 7.074,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 723
+}

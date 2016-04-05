@@ -1,1 +1,71 @@
-{"title":"Love Bazaar","instanceSlug":1740,"tags":[],"parents":[],"genre":"dance","debut":"1986-01","playlists":[],"ranks":[15,9,6,4.8,4.25,4,4.25,4.6,5.2,5.8,7,8.8,11.2,14.2,17.8,22,26.8,32.2,38.2,44.8,52,59.8,68.2,77.2],"artists":[{"slug":"sheila-e","title":"Sheila E","roleSlug":true},{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":15,"peakRank":4,"duration":6,"score":15.45,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":565}
+{
+  "title": "Love Bazaar",
+  "instanceSlug": 1740,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1986-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.8,
+    4.25,
+    4,
+    4.25,
+    4.6,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "sheila-e",
+      "title": "Sheila E",
+      "roleSlug": true
+    },
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.477,
+    0.517,
+    0.537,
+    0.517,
+    0.491,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 7.334999999999998,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 690
+}

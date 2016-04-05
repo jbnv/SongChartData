@@ -1,1 +1,19 @@
-{"title":"Pink","instanceSlug":2084,"tags":[],"parents":[],"genre":"rock","debut":"1998-03","playlists":[],"ranks":[],"artists":{"aerosmith":true}}
+{
+  "title": "Pink",
+  "instanceSlug": 2084,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1998-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "aerosmith": true
+  },
+  "scores": [
+  ]
+}

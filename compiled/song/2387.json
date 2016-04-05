@@ -1,1 +1,30 @@
-{"title":"Piano Man","instanceSlug":2387,"tags":[],"parents":[],"genre":"pop","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3015}
+{
+  "title": "Piano Man",
+  "instanceSlug": 2387,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3016
+}

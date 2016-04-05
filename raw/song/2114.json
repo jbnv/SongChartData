@@ -1,1 +1,31 @@
-{"title":"Ventura Highway","instanceSlug":2114,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[16,10,6,4,2,2.5],"artists":{"america":true}}
+{
+  "title": "Ventura Highway",
+  "instanceSlug": 2114,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    6,
+    4,
+    2,
+    2.5
+  ],
+  "artists": {
+    "america": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.768,
+    0.694
+  ]
+}

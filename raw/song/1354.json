@@ -1,1 +1,21 @@
-{"title":"Swing the Mood","instanceSlug":1354,"tags":["mood","swing"],"parents":[],"genre":"dance","debut":"1989-12","playlists":[],"ranks":[],"artists":{"jive-bunny":true}}
+{
+  "title": "Swing the Mood",
+  "instanceSlug": 1354,
+  "tags": [
+    "mood",
+    "swing"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1989-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "jive-bunny": true
+  },
+  "scores": [
+  ]
+}

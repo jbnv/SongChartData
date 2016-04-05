@@ -1,11 +1,14 @@
 {
   "title": "Lovely One",
   "instanceSlug": 1004,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "soul",
   "debut": "1980-10",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     15,
     8.2,
@@ -16,5 +19,12 @@
   "artists": {
     "jacksons": true,
     "michael-jackson": "lead"
-  }
+  },
+  "scores": [
+    0.097,
+    0.298,
+    0.498,
+    0.708,
+    0.656
+  ]
 }

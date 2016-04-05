@@ -1,1 +1,32 @@
-{"title":"Next Time I Fall","instanceSlug":779,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":["ballad","love"],"ranks":[13.5,3.7,2,1.7,2.05],"artists":{"peter-cetera":true,"amy-grant":true}}
+{
+  "title": "Next Time I Fall",
+  "instanceSlug": 779,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-09",
+  "playlists": [
+    "ballad",
+    "love"
+  ],
+  "ranks": [
+    13.5,
+    3.7,
+    2,
+    1.7,
+    2.05
+  ],
+  "artists": {
+    "peter-cetera": true,
+    "amy-grant": true
+  },
+  "scores": [
+    0.132,
+    0.563,
+    0.768,
+    0.823,
+    0.76
+  ]
+}

@@ -1,1 +1,76 @@
-{"title":"Smooth","instanceSlug":399,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1999-09","playlists":[],"ranks":[15.9,5.2,3.78,3.14,3.07,3.16,3.28,3.52,3.91,4.45,4.99,6.07,7.69,9.85,12.55,15.79,19.57,23.89,28.75,34.15,40.09,46.57,53.59,61.15],"artists":[{"slug":"santana","title":"Santana","roleSlug":true},{"slug":"rob-thomas","title":"Rob Thomas","roleSlug":true}],"debutRank":15.9,"peakRank":3.07,"duration":6,"score":20.53,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":298}
+{
+  "title": "Smooth",
+  "instanceSlug": 399,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    5.2,
+    3.78,
+    3.14,
+    3.07,
+    3.16,
+    3.28,
+    3.52,
+    3.91,
+    4.45
+  ],
+  "artists": [
+    {
+      "slug": "santana",
+      "title": "Santana",
+      "roleSlug": true
+    },
+    {
+      "slug": "rob-thomas",
+      "title": "Rob Thomas",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.45,
+    0.556,
+    0.618,
+    0.626,
+    0.616,
+    0.604,
+    0.58,
+    0.545,
+    0.502,
+    0.497,
+    0.487,
+    0.472,
+    0.452,
+    0.427,
+    0.397,
+    0.362,
+    0.322,
+    0.277,
+    0.227,
+    0.172,
+    0.112,
+    0.047,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 6,
+  "score": 9.424999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 431
+}

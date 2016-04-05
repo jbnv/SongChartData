@@ -1,1 +1,20 @@
-{"title":"Love Will Turn You Around","instanceSlug":2581,"tags":["#1","#1-adult-contemporary","#1-country"],"parents":[],"genre":"adult-contemporary","debut":"1982-08","source":"six-pack","playlists":[],"ranks":true,"artists":{"kenny-rogers":true}}
+{
+  "title": "Love Will Turn You Around",
+  "instanceSlug": 2581,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1982-08",
+  "source": "six-pack",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "kenny-rogers": true
+  }
+}

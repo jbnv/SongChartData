@@ -1,8 +1,14 @@
 {
   "title": "U Can't Touch This",
   "instanceSlug": 107,
-  "tags": ["#1","#1-r&b"],
-  "playlists":["summer","sampler"],
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "summer",
+    "sampler"
+  ],
   "genre": "rap",
   "debut": "1990-05",
   "ranks": [
@@ -15,5 +21,13 @@
   ],
   "artists": {
     "mc-hammer": true
-  }
+  },
+  "scores": [
+    0.038,
+    0.219,
+    0.397,
+    0.484,
+    0.498,
+    0.45
+  ]
 }

@@ -1,1 +1,59 @@
-{"title":"Dirty Diana","instanceSlug":127,"tags":["dirt"],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"playlists":[{"slug":"women"}],"genre":"rock","debut":"1988-06","ranks":[25,16,14,12,15.2,18.4,24.8,34.4,47.2,63.2,82.4,104.8],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":25,"peakRank":12,"duration":3,"score":1.47,"genres":[{"slug":"rock","title":"Rock"}],"rank":1534}
+{
+  "title": "Dirty Diana",
+  "instanceSlug": 127,
+  "tags": [
+    "dirt"
+  ],
+  "source": {
+    "title": "Bad",
+    "instanceSlug": "bad",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "playlists": [
+    {
+      "slug": "women"
+    }
+  ],
+  "genre": "rock",
+  "debut": "1988-06",
+  "ranks": [
+    25,
+    16,
+    14,
+    12,
+    15.2
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.12,
+    0.171,
+    0.092,
+    0.087,
+    0.077,
+    0.062,
+    0.042,
+    0.017,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 2.5,
+  "score": 0.743,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "rank": 1538
+}

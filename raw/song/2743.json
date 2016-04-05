@@ -1,16 +1,22 @@
 {
   "title": "Over My Head",
   "instanceSlug": 2743,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": 1976,
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "fleetwood-mac": true,
     "lindsay-buckingham": "member",
     "christine-mcvie": "lead",
     "stevie-nicks": "member"
-  }
+  },
+  "scores": [
+  ]
 }

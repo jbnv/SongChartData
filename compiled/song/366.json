@@ -1,1 +1,62 @@
-{"title":"Shame on the Moon","instanceSlug":366,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"rock","debut":"1983-01","playlists":[],"ranks":[18,12.5,9.5,7.9,7.2,7,7.8,8.6,10.2,12.6,15.8,19.8,24.6,30.2,36.6,43.8,51.8,60.6,70.2,80.6],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"debutRank":18,"peakRank":7,"duration":5,"score":7.54,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1146}
+{
+  "title": "Shame on the Moon",
+  "instanceSlug": 366,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-01",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    12.5,
+    9.5,
+    7.9,
+    7.2,
+    7,
+    7.8
+  ],
+  "artists": [
+    {
+      "slug": "bob-seger",
+      "title": "Bob Seger",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.158,
+    0.249,
+    0.311,
+    0.341,
+    0.351,
+    0.315,
+    0.31,
+    0.3,
+    0.285,
+    0.265,
+    0.24,
+    0.21,
+    0.175,
+    0.135,
+    0.09,
+    0.04,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.5,
+  "score": 3.810999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1189
+}

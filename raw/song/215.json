@@ -3,7 +3,9 @@
   "instanceSlug": 215,
   "tags": [
   ],
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1987-07",
   "ranks": [
@@ -16,5 +18,13 @@
   ],
   "artists": {
     "robbie-nevil": true
-  }
+  },
+  "scores": [
+    0.2,
+    1,
+    0.99,
+    0.959,
+    0.917,
+    0.864
+  ]
 }

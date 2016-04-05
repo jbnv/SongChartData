@@ -1,1 +1,20 @@
-{"title":"Friends","instanceSlug":502,"tags":["friend"],"parents":[],"genre":true,"debut":"1989-08","playlists":[],"ranks":[],"artists":{"jody-watley":true}}
+{
+  "title": "Friends",
+  "instanceSlug": 502,
+  "tags": [
+    "friend"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1989-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "jody-watley": true
+  },
+  "scores": [
+  ]
+}

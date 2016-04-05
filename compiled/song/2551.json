@@ -1,1 +1,30 @@
-{"title":"Paperlate","instanceSlug":2551,"tags":[],"parents":[],"genre":"jazz-pop","debut":"1982-08","playlists":[],"ranks":[],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"genres":[{"slug":"jazz-pop","title":"Jazz-Pop"}],"source":null,"rank":1707}
+{
+  "title": "Paperlate",
+  "instanceSlug": 2551,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "jazz-pop",
+  "debut": "1982-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "genesis",
+      "title": "Genesis",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "jazz-pop",
+      "title": "Jazz-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1707
+}

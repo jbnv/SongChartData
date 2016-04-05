@@ -1,1 +1,60 @@
-{"title":"Yesterday's Songs","instanceSlug":1537,"tags":[],"genre":"adult-contemporary","debut":"1981-12","playlists":[],"ranks":[15,6,3.5,3,3.3,3.75,4.2,5.1,6.45,8.25,10.5,13.2,16.35,19.95,24,28.5,33.45,38.85,44.7,51],"artists":[{"slug":"neil-diamond","title":"Neil Diamond","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":5,"score":14.88,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":615}
+{
+  "title": "Yesterday's Songs",
+  "instanceSlug": 1537,
+  "tags": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1981-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6,
+    3.5,
+    3,
+    3.3,
+    3.75
+  ],
+  "artists": [
+    {
+      "slug": "neil-diamond",
+      "title": "Neil Diamond",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.402,
+    0.582,
+    0.633,
+    0.602,
+    0.559,
+    0.554,
+    0.544,
+    0.529,
+    0.509,
+    0.484,
+    0.454,
+    0.419,
+    0.379,
+    0.334,
+    0.284,
+    0.229,
+    0.169,
+    0.104,
+    0.034,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 7.900999999999999,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 622
+}

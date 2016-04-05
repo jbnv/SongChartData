@@ -1,1 +1,60 @@
-{"title":"A Little More Love","instanceSlug":482,"tags":[],"parents":[],"genre":"pop","debut":"1978-12","playlists":[],"ranks":[17.9,10,5.5,3.1,4.1,5.1,7.1,10.1,14.1,19.1,25.1,32.1,40.1,49.1,59.1,70.1],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true}],"debutRank":17.9,"peakRank":3.1,"duration":4,"score":9.07,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1021}
+{
+  "title": "A Little More Love",
+  "instanceSlug": 482,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-12",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10,
+    5.5,
+    3.1,
+    4.1
+  ],
+  "artists": [
+    {
+      "slug": "olivia-newton-john",
+      "title": "Olivia Newton-John",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.232,
+    0.431,
+    0.622,
+    0.529,
+    0.524,
+    0.514,
+    0.499,
+    0.479,
+    0.454,
+    0.424,
+    0.389,
+    0.349,
+    0.304,
+    0.254,
+    0.199,
+    0.139,
+    0.074,
+    0.004,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 5,
+  "score": 6.458000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 811
+}

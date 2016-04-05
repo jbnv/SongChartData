@@ -1,1 +1,87 @@
-{"title":"Unforgettable","instanceSlug":1446,"tags":[],"searchTerms":["forget","unforgettable"],"genres":[{"slug":"soul","title":"Soul"},{"slug":"pop","title":"Pop"},{"slug":"adult-contemporary","title":"Adult Contemporary"}],"debut":"1991-08","playlists":[{"slug":"remake","title":"Remakes"},{"slug":"un","title":"\"Un\" Songs"},{"slug":"posthumous"}],"ranks":[14.5,5,3,3.125,3.42,3.95,4.48,5.54,7.13,9.25,11.9,15.08,18.79,23.03,27.8,33.1,38.93,45.29,52.18,59.6],"artists":[{"slug":"natalie-cole","title":"Natalie Cole","roleSlug":true},{"slug":"nat-king-cole","title":"Nat \"King\" Cole","roleSlug":"feature"}],"debutRank":14.5,"peakRank":3,"duration":5,"score":14.35,"source":null,"rank":651}
+{
+  "title": "Unforgettable",
+  "instanceSlug": 1446,
+  "tags": [
+  ],
+  "searchTerms": [
+    "forget",
+    "unforgettable"
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    },
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "debut": "1991-08",
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    },
+    {
+      "slug": "un",
+      "title": "\"Un\" Songs"
+    },
+    {
+      "slug": "posthumous"
+    }
+  ],
+  "ranks": [
+    14.5,
+    5,
+    3,
+    3.125,
+    3.42,
+    3.95
+  ],
+  "artists": [
+    {
+      "slug": "natalie-cole",
+      "title": "Natalie Cole",
+      "roleSlug": true
+    },
+    {
+      "slug": "nat-king-cole",
+      "title": "Nat \"King\" Cole",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.108,
+    0.463,
+    0.633,
+    0.62,
+    0.59,
+    0.542,
+    0.537,
+    0.527,
+    0.512,
+    0.492,
+    0.467,
+    0.437,
+    0.402,
+    0.362,
+    0.317,
+    0.267,
+    0.212,
+    0.152,
+    0.087,
+    0.017,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 5.25,
+  "score": 7.744000000000001,
+  "source": null,
+  "rank": 641
+}

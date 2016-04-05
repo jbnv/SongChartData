@@ -1,1 +1,71 @@
-{"title":"Bizarre Love Triangle","instanceSlug":1026,"tags":[],"parents":[],"genre":"pop","debut":1987,"playlists":[],"ranks":[16,8,4,2.9,2.4,2.2,2.2,2.5,2.8,3.3,3.8,4.8,6.3,8.3,10.8,13.8,17.3,21.3,25.8,30.8,36.3,42.3,48.8,55.8],"artists":[{"slug":"new-order","title":"New Order","roleSlug":true}],"debutRank":16,"peakRank":2.2,"duration":6,"score":23.39,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":182}
+{
+  "title": "Bizarre Love Triangle",
+  "instanceSlug": 1026,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1987,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    4,
+    2.9,
+    2.4,
+    2.2,
+    2.2,
+    2.5,
+    2.8,
+    3.3
+  ],
+  "artists": [
+    {
+      "slug": "new-order",
+      "title": "New Order",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.306,
+    0.537,
+    0.645,
+    0.708,
+    0.737,
+    0.737,
+    0.694,
+    0.656,
+    0.602,
+    0.597,
+    0.587,
+    0.572,
+    0.552,
+    0.527,
+    0.497,
+    0.462,
+    0.422,
+    0.377,
+    0.327,
+    0.272,
+    0.212,
+    0.147,
+    0.077,
+    0.002,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6.5,
+  "score": 11.327000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 241
+}

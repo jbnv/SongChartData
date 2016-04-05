@@ -1,1 +1,33 @@
-{"title":"Reach Out I'll Be There","instanceSlug":2901,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"soul","debut":1966,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2096}
+{
+  "title": "Reach Out I'll Be There",
+  "instanceSlug": 2901,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1966,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "four-tops",
+      "title": "Four Tops",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2096
+}

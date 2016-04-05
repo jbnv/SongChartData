@@ -1,1 +1,21 @@
-{"title":"Every Heartbeat","instanceSlug":1211,"tags":["every","heartbeat"],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[],"artists":{"amy-grant":true}}
+{
+  "title": "Every Heartbeat",
+  "instanceSlug": 1211,
+  "tags": [
+    "every",
+    "heartbeat"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "amy-grant": true
+  },
+  "scores": [
+  ]
+}

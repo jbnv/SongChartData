@@ -1,1 +1,21 @@
-{"title":"This Will Be","instanceSlug":2303,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":1975,"playlists":[],"ranks":[],"artists":{"natalie-cole":true}}
+{
+  "title": "This Will Be",
+  "instanceSlug": 2303,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "natalie-cole": true
+  },
+  "scores": [
+  ]
+}

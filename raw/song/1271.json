@@ -1,1 +1,19 @@
-{"title":"Smells Like Teen Spirit","instanceSlug":1271,"tags":[],"parents":[],"genre":"grunge","debut":1991,"playlists":[],"ranks":[],"artists":{"nirvana":true}}
+{
+  "title": "Smells Like Teen Spirit",
+  "instanceSlug": 1271,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "grunge",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "nirvana": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,35 @@
-{"title":"We Can Work It Out","instanceSlug":1471,"tags":["can","it","out","we","work"],"parents":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[],"artists":[{"slug":"beatles","title":"Beatles","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1798}
+{
+  "title": "We Can Work It Out",
+  "instanceSlug": 1471,
+  "tags": [
+    "can",
+    "it",
+    "out",
+    "we",
+    "work"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "beatles",
+      "title": "Beatles",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2423
+}

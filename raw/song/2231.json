@@ -1,1 +1,19 @@
-{"title":"Band on the Run","instanceSlug":2231,"tags":[],"parents":[],"genre":"rock","debut":1974,"playlists":[],"ranks":[],"artists":{"wings":true}}
+{
+  "title": "Band on the Run",
+  "instanceSlug": 2231,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "wings": true
+  },
+  "scores": [
+  ]
+}

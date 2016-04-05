@@ -1,1 +1,64 @@
-{"title":"Pop Goes the World","instanceSlug":620,"tags":["world"],"parents":[],"genre":"pop","debut":"1987-11","playlists":[],"ranks":[16,10,7,5.5,5,5.2,5.7,6.5,7.3,8.9,11.3,14.5,18.5,23.3,28.9,35.3,42.5,50.5,59.3,68.9],"artists":[{"slug":"men-without-hats","title":"Men Without Hats","roleSlug":true}],"debutRank":16,"peakRank":5,"duration":5,"score":11.21,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":866}
+{
+  "title": "Pop Goes the World",
+  "instanceSlug": 620,
+  "tags": [
+    "world"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.5,
+    5,
+    5.2,
+    5.7,
+    6.5
+  ],
+  "artists": [
+    {
+      "slug": "men-without-hats",
+      "title": "Men Without Hats",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.431,
+    0.463,
+    0.45,
+    0.419,
+    0.376,
+    0.371,
+    0.361,
+    0.346,
+    0.326,
+    0.301,
+    0.271,
+    0.236,
+    0.196,
+    0.151,
+    0.101,
+    0.046,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5,
+  "score": 5.502999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 922
+}

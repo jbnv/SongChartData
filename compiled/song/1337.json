@@ -1,1 +1,66 @@
-{"title":"Don't Know Much","instanceSlug":1337,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1989-11","playlists":[],"ranks":[19,15,11,9.5,8.8,9.2,10,11.7,13.4,16.8,21.9,28.7,37.2,47.4,59.3,72.9],"artists":[{"slug":"linda-rondstadt","title":"Linda Ronstadt","roleSlug":true},{"slug":"aaron-neville","title":"Aaron Neville","roleSlug":"feature"}],"debutRank":19,"peakRank":8.8,"duration":4,"score":5.13,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1327}
+{
+  "title": "Don't Know Much",
+  "instanceSlug": 1337,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1989-11",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    15,
+    11,
+    9.5,
+    8.8,
+    9.2,
+    10,
+    11.7
+  ],
+  "artists": [
+    {
+      "slug": "linda-rondstadt",
+      "title": "Linda Ronstadt",
+      "roleSlug": true
+    },
+    {
+      "slug": "aaron-neville",
+      "title": "Aaron Neville",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.018,
+    0.097,
+    0.2,
+    0.249,
+    0.275,
+    0.26,
+    0.232,
+    0.18,
+    0.175,
+    0.165,
+    0.15,
+    0.13,
+    0.105,
+    0.075,
+    0.04,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 4,
+  "score": 2.3510000000000004,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1385
+}

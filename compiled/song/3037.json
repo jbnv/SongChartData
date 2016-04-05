@@ -1,1 +1,32 @@
-{"title":"Stronger","instanceSlug":3037,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2000s","playlists":[],"ranks":[],"artists":[{"slug":"kelly-clarkson","title":"Kelly Clarkson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2248}
+{
+  "title": "Stronger",
+  "instanceSlug": 3037,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kelly-clarkson",
+      "title": "Kelly Clarkson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2248
+}

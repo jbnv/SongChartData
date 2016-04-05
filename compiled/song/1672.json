@@ -1,1 +1,71 @@
-{"title":"Just the Way You Are","instanceSlug":1672,"tags":["just-the-way"],"parents":[],"genre":"pop","debut":"1977-12","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[12,5,2.6,1.8,2.05,2.3,2.8,3.55,4.55,5.8,7.3,9.05,11.05,13.3,15.8,18.55,21.55,24.8,28.3,32.05,36.05,40.3,44.8,49.55,54.55,59.8,65.3,71.05],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":12,"peakRank":1.8,"duration":7,"score":20.38,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":305}
+{
+  "title": "Just the Way You Are",
+  "instanceSlug": 1672,
+  "tags": [
+    "just-the-way"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1977-12",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    },
+    {
+      "slug": "love",
+      "title": "Love Songs"
+    }
+  ],
+  "ranks": [
+    12,
+    5,
+    2.6,
+    1.8,
+    2.05
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.463,
+    0.681,
+    0.804,
+    0.76,
+    0.755,
+    0.745,
+    0.73,
+    0.71,
+    0.685,
+    0.655,
+    0.62,
+    0.58,
+    0.535,
+    0.485,
+    0.43,
+    0.37,
+    0.305,
+    0.235,
+    0.16,
+    0.08,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.5,
+  "score": 10.958999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 268
+}

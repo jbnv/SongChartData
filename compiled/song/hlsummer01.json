@@ -1,1 +1,64 @@
-{"title":"I Wish I Had a Girl","instanceSlug":"hlsummer01","tags":[],"genre":"rock","debut":"1988-04","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[20,10,7.5,5.5,5,5.2,5.4,5.6,6,6.6,7.4,8.4,9.6,11,12.6,14.4,16.4,18.6,21,23.6,26.4,29.4,32.6,36,39.6,43.4,47.4,51.6],"artists":[{"slug":"henry-lee-summer","title":"Henry Lee Summer","roleSlug":true}],"debutRank":20,"peakRank":5,"duration":7,"score":14.93,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":612}
+{
+  "title": "I Wish I Had a Girl",
+  "instanceSlug": "hlsummer01",
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1988-04",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    20,
+    10,
+    7.5,
+    5.5,
+    5,
+    5.2,
+    5.4
+  ],
+  "artists": [
+    {
+      "slug": "henry-lee-summer",
+      "title": "Henry Lee Summer",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.232,
+    0.328,
+    0.431,
+    0.463,
+    0.45,
+    0.437,
+    0.432,
+    0.422,
+    0.407,
+    0.387,
+    0.362,
+    0.332,
+    0.297,
+    0.257,
+    0.212,
+    0.162,
+    0.107,
+    0.047,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 5,
+  "score": 5.765999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 882
+}

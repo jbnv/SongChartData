@@ -1,10 +1,12 @@
 {
   "title": "Street of Dreams",
   "instanceSlug": 1144,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1991-11",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     12.5,
     3,
@@ -14,5 +16,11 @@
   "artists": {
     "nia-peeples": true
   },
-  "note":"Project 6 weeks at #1."
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.158,
+    0.633,
+    0.983,
+    0.957
+  ]
 }

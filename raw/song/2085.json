@@ -1,1 +1,19 @@
-{"title":"Jaded","instanceSlug":2085,"tags":[],"parents":[],"genre":"rock","debut":"2001-02","playlists":[],"ranks":[],"artists":{"aerosmith":true}}
+{
+  "title": "Jaded",
+  "instanceSlug": 2085,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "2001-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "aerosmith": true
+  },
+  "scores": [
+  ]
+}

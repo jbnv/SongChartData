@@ -1,1 +1,35 @@
-{"title":"Talk to Me","instanceSlug":1814,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1985-12","playlists":[],"ranks":[25,22,18,15,13,13.5,14.9,17],"artists":{"stevie-nicks":true}}
+{
+  "title": "Talk to Me",
+  "instanceSlug": 1814,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-12",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    22,
+    18,
+    15,
+    13,
+    13.5,
+    14.9,
+    17
+  ],
+  "artists": {
+    "stevie-nicks": true
+  },
+  "scores": [
+    0.036,
+    0.097,
+    0.145,
+    0.132,
+    0.099,
+    0.055
+  ]
+}

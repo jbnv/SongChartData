@@ -1,1 +1,31 @@
-{"title":"Hold Me, Thrill Me, Kiss Me, Kill Me","instanceSlug":1368,"tags":[],"parents":[],"genre":"rock","debut":"1995-08","source":"batman-forever","playlists":["summer"],"ranks":[13,3,1.5,1.6,1.89],"artists":{"u2":true}}
+{
+  "title": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+  "instanceSlug": 1368,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1995-08",
+  "source": "batman-forever",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    13,
+    3,
+    1.5,
+    1.6,
+    1.89
+  ],
+  "artists": {
+    "u2": true
+  },
+  "scores": [
+    0.145,
+    0.633,
+    0.864,
+    0.843,
+    0.787
+  ]
+}

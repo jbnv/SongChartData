@@ -1,1 +1,59 @@
-{"title":"Karma Chameleon","instanceSlug":671,"tags":["","odd-titles"],"parents":[],"genre":"pop","debut":1984,"playlists":[{"slug":"animals"}],"ranks":[18,11.7,6.8,7.5,8.2,9.6,11.7,14.5,18,22.2,27.1,32.7,39,46,53.7,62.1],"artists":[{"slug":"culture-club","title":"Culture Club","roleSlug":true}],"debutRank":18,"peakRank":6.8,"duration":4,"score":5.33,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1316}
+{
+  "title": "Karma Chameleon",
+  "instanceSlug": 671,
+  "tags": [
+    "",
+    "odd-titles"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1984,
+  "playlists": [
+    {
+      "slug": "animals"
+    }
+  ],
+  "ranks": [
+    18,
+    11.7,
+    6.8,
+    7.5
+  ],
+  "artists": [
+    {
+      "slug": "culture-club",
+      "title": "Culture Club",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.18,
+    0.361,
+    0.328,
+    0.323,
+    0.313,
+    0.298,
+    0.278,
+    0.253,
+    0.223,
+    0.188,
+    0.148,
+    0.103,
+    0.053,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 3.75,
+  "score": 3.0850000000000004,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1294
+}

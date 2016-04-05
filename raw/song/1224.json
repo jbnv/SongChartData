@@ -1,13 +1,32 @@
 {
   "title": "Enjoy Yourself",
   "instanceSlug": 1224,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "soul",
   "debut": "1977-01",
-  "playlists": [],
-  "ranks": [16,10,7,5.1,4,4.2,4.7],
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.1,
+    4,
+    4.2,
+    4.7
+  ],
   "artists": {
     "jacksons": true,
     "michael-jackson": "lead"
-  }
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.456,
+    0.537,
+    0.521,
+    0.484
+  ]
 }

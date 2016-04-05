@@ -1,1 +1,73 @@
-{"title":"One Sweet Day","instanceSlug":401,"tags":["#1","#1-adult-contemporary","#1-hot-100","death"],"parents":[],"genre":"soul","debut":"1995-12","playlists":[],"ranks":[15.9,9,5,3,3.8,3.4,3.77,4.14,4.88,5.99,7.47,9.32,11.54,14.13,17.09,20.42,24.12,28.19,32.63,37.44,42.62,48.17,54.09,60.38],"artists":[{"slug":"mariah-carey","title":"Mariah Carey","roleSlug":true},{"slug":"boyz-ii-men","title":"Boyz II Men","roleSlug":true}],"debutRank":15.9,"peakRank":3,"duration":6,"score":16.47,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":505}
+{
+  "title": "One Sweet Day",
+  "instanceSlug": 401,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "death"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1995-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    3.8,
+    3.4,
+    3.77
+  ],
+  "artists": [
+    {
+      "slug": "mariah-carey",
+      "title": "Mariah Carey",
+      "roleSlug": true
+    },
+    {
+      "slug": "boyz-ii-men",
+      "title": "Boyz II Men",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.554,
+    0.592,
+    0.557,
+    0.552,
+    0.542,
+    0.527,
+    0.507,
+    0.482,
+    0.452,
+    0.417,
+    0.377,
+    0.332,
+    0.282,
+    0.227,
+    0.167,
+    0.102,
+    0.032,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 5.5,
+  "score": 8.141,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 592
+}

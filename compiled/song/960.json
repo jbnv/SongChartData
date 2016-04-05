@@ -1,1 +1,65 @@
-{"title":"Time, Love & Tenderness","instanceSlug":960,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1991-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12.1,1.5,1.72,1.94,2.38,3.04,3.92,5.02,6.34,7.88,9.64,11.62,13.82,16.24,18.88,21.74,24.82,28.12,31.64,35.38,39.34,43.52,47.92,52.54],"artists":[{"slug":"michael-bolton","title":"Michael Bolton","roleSlug":true}],"debutRank":12.1,"peakRank":1.5,"duration":6,"score":18.96,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":371}
+{
+  "title": "Time, Love & Tenderness",
+  "instanceSlug": 960,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12.1,
+    1.5,
+    1.72
+  ],
+  "artists": [
+    {
+      "slug": "michael-bolton",
+      "title": "Michael Bolton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.168,
+    0.864,
+    0.819,
+    0.814,
+    0.804,
+    0.789,
+    0.769,
+    0.744,
+    0.714,
+    0.679,
+    0.639,
+    0.594,
+    0.544,
+    0.489,
+    0.429,
+    0.364,
+    0.294,
+    0.219,
+    0.139,
+    0.054,
+    0
+  ],
+  "debutScore": 0.168,
+  "peakScore": 0.168,
+  "duration": 5.25,
+  "score": 10.929000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 269
+}

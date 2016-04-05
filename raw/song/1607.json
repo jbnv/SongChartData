@@ -1,1 +1,33 @@
-{"title":"So Wrong","instanceSlug":1607,"tags":["so","wrong"],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[15.2,10.1,7.4,5.9,5,5.7],"artists":{"patrick-simmons":true}}
+{
+  "title": "So Wrong",
+  "instanceSlug": 1607,
+  "tags": [
+    "so",
+    "wrong"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+    15.2,
+    10.1,
+    7.4,
+    5.9,
+    5,
+    5.7
+  ],
+  "artists": {
+    "patrick-simmons": true
+  },
+  "scores": [
+    0.092,
+    0.229,
+    0.332,
+    0.408,
+    0.463,
+    0.419
+  ]
+}

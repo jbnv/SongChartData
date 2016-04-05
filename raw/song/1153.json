@@ -4,10 +4,12 @@
   "tags": [
     "motown"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1991-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16,
     10,
@@ -18,5 +20,13 @@
   ],
   "artists": {
     "rod-stewart": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.633,
+    0.612
+  ]
 }

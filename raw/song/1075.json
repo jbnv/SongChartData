@@ -1,1 +1,35 @@
-{"title":"It's So Hard to Say Goodbye to Yesterday","instanceSlug":1075,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1991-10","playlists":[],"ranks":[15,8.5,4,3.1,2.5,2.4,2.69],"artists":{"boyz-ii-men":true}}
+{
+  "title": "It's So Hard to Say Goodbye to Yesterday",
+  "instanceSlug": 1075,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.5,
+    4,
+    3.1,
+    2.5,
+    2.4,
+    2.69
+  ],
+  "artists": {
+    "boyz-ii-men": true
+  },
+  "scores": [
+    0.097,
+    0.286,
+    0.537,
+    0.622,
+    0.694,
+    0.708,
+    0.67
+  ]
+}

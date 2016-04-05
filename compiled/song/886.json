@@ -1,1 +1,67 @@
-{"title":"Come Undone","instanceSlug":886,"tags":[],"parents":[],"genre":"rock","debut":"1993-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,6.4,2.25,1.75,1.98,2.21,2.67,3.36,4.28,5.43,6.81,8.42,10.26,12.33,14.63,17.16,19.92,22.91,26.13,29.58,33.26,37.17,41.31,45.68,50.28,55.11,60.17,65.46],"artists":[{"slug":"duran-duran","title":"Duran Duran","roleSlug":true}],"debutRank":15,"peakRank":1.75,"duration":7,"score":20.84,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":278}
+{
+  "title": "Come Undone",
+  "instanceSlug": 886,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1993-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    15,
+    6.4,
+    2.25,
+    1.75,
+    1.98
+  ],
+  "artists": [
+    {
+      "slug": "duran-duran",
+      "title": "Duran Duran",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.381,
+    0.729,
+    0.813,
+    0.772,
+    0.767,
+    0.757,
+    0.742,
+    0.722,
+    0.697,
+    0.667,
+    0.632,
+    0.592,
+    0.547,
+    0.497,
+    0.442,
+    0.382,
+    0.317,
+    0.247,
+    0.172,
+    0.092,
+    0.007,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 11.071,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 258
+}

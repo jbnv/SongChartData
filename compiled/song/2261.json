@@ -1,1 +1,55 @@
-{"title":"Voices Carry","instanceSlug":2261,"tags":[],"parents":[],"genre":"pop","debut":"1985-06","playlists":[],"ranks":[20,15,12.5,11.1,10,11.7,13.4,16.8,21.9,28.7,37.2,47.4,59.3,72.9,88.2,105.2],"artists":[{"slug":"til-tuesday","title":"Til Tuesday","roleSlug":true}],"debutRank":20,"peakRank":10,"duration":4,"score":3.18,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1444}
+{
+  "title": "Voices Carry",
+  "instanceSlug": 2261,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-06",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    15,
+    12.5,
+    11.1,
+    10,
+    11.7
+  ],
+  "artists": [
+    {
+      "slug": "til-tuesday",
+      "title": "Til Tuesday",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.097,
+    0.158,
+    0.197,
+    0.232,
+    0.18,
+    0.175,
+    0.165,
+    0.15,
+    0.13,
+    0.105,
+    0.075,
+    0.04,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 3.5,
+  "score": 1.7049999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1441
+}

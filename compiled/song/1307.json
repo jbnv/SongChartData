@@ -1,1 +1,31 @@
-{"title":"Desire","instanceSlug":1307,"tags":["desire"],"parents":[],"genre":"rock","debut":"1988-09","playlists":[],"ranks":[],"artists":[{"slug":"u2","title":"U2","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2796}
+{
+  "title": "Desire",
+  "instanceSlug": 1307,
+  "tags": [
+    "desire"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "u2",
+      "title": "U2",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2160
+}

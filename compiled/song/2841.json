@@ -1,1 +1,34 @@
-{"title":"Do They Know It's Christmas","instanceSlug":2841,"tags":[],"parents":[],"genre":"pop","debut":"1984-12","playlists":[{"slug":"xmas","title":"Christmas"}],"ranks":[],"artists":[{"slug":"band-aid","title":"Band Aid","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2029}
+{
+  "title": "Do They Know It's Christmas",
+  "instanceSlug": 2841,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-12",
+  "playlists": [
+    {
+      "slug": "xmas",
+      "title": "Christmas"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "band-aid",
+      "title": "Band Aid",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2029
+}

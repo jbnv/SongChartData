@@ -1,1 +1,61 @@
-{"title":"Island Girl","instanceSlug":2409,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[12,1,1.13,1.26,1.52,1.91,2.43,3.08,3.86,4.77,5.81,6.98,8.28,9.71,11.27,12.96,14.78,16.73,18.81,21.02,23.36,25.83,28.43,31.16,34.02,37.01,40.13,43.38,46.76,50.27,53.91,57.68],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true}],"debutRank":12,"peakRank":1,"duration":8,"score":26.65,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":97}
+{
+  "title": "Island Girl",
+  "instanceSlug": 2409,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    1,
+    1.13
+  ],
+  "artists": [
+    {
+      "slug": "elton-john",
+      "title": "Elton John",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    1,
+    0.959,
+    0.954,
+    0.944,
+    0.929,
+    0.909,
+    0.884,
+    0.854,
+    0.819,
+    0.779,
+    0.734,
+    0.684,
+    0.629,
+    0.569,
+    0.504,
+    0.434,
+    0.359,
+    0.279,
+    0.194,
+    0.104,
+    0.009,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 13.700999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 96
+}

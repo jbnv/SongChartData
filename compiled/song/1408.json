@@ -1,1 +1,47 @@
-{"title":"NYPD Blue Theme","instanceSlug":1408,"tags":["new-york","police"],"parents":[],"genre":"pop-instrumental","debut":1994,"source":{"title":"NYPD Blue","instanceSlug":"nypd-blue","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"genres":[{"slug":"pop-instrumental"}],"rank":1967}
+{
+  "title": "NYPD Blue Theme",
+  "instanceSlug": 1408,
+  "tags": [
+    "new-york",
+    "police"
+  ],
+  "parents": [
+  ],
+  "genre": "pop-instrumental",
+  "debut": 1994,
+  "source": {
+    "title": "NYPD Blue",
+    "instanceSlug": "nypd-blue",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+    {
+      "slug": "instrumental",
+      "title": "Instrumentals"
+    },
+    {
+      "slug": "tv-theme",
+      "title": "TV Show Themes"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "mike-post",
+      "title": "Mike Post",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop-instrumental"
+    }
+  ],
+  "rank": 2946
+}

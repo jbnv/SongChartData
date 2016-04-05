@@ -1,1 +1,56 @@
-{"title":"The Sun Always Shines on TV","instanceSlug":1743,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[20.5,16,12.5,10.5,8.5,9.2,13,16.8,24.4,35.8,51,70],"artists":[{"slug":"a-ha","title":"A-Ha","roleSlug":true}],"debutRank":20.5,"peakRank":8.5,"duration":3,"score":3.6,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1420}
+{
+  "title": "The Sun Always Shines on TV",
+  "instanceSlug": 1743,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-01",
+  "playlists": [
+  ],
+  "ranks": [
+    20.5,
+    16,
+    12.5,
+    10.5,
+    8.5,
+    9.2,
+    13
+  ],
+  "artists": [
+    {
+      "slug": "a-ha",
+      "title": "A-Ha",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.158,
+    0.216,
+    0.286,
+    0.26,
+    0.145,
+    0.14,
+    0.13,
+    0.115,
+    0.095,
+    0.07,
+    0.04,
+    0.005,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 3.5,
+  "score": 1.7349999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1438
+}

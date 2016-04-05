@@ -1,1 +1,60 @@
-{"title":"When We Was Fab","instanceSlug":"fab88","tags":[],"debut":"1988-03","playlists":[{"slug":"tribute","title":"Tribute Songs"}],"ranks":[19,12,8,6,5,5.1,5.4,5.7,6.3,7.2,8.4,9.9,11.7,13.8,16.2,18.9,21.9,25.2,28.8,32.7,36.9,41.4,46.2,51.3],"artists":[{"slug":"george-harrison","title":"George Harrison","roleSlug":true}],"note":"Tribute to his days in the Beatles.","debutRank":19,"peakRank":5,"duration":6,"score":12.99,"genres":[],"source":null,"rank":746}
+{
+  "title": "When We Was Fab",
+  "instanceSlug": "fab88",
+  "tags": [
+  ],
+  "debut": "1988-03",
+  "playlists": [
+    {
+      "slug": "tribute",
+      "title": "Tribute Songs"
+    }
+  ],
+  "ranks": [
+    19,
+    12,
+    8,
+    6,
+    5,
+    5.1,
+    5.4
+  ],
+  "artists": [
+    {
+      "slug": "george-harrison",
+      "title": "George Harrison",
+      "roleSlug": true
+    }
+  ],
+  "note": "Tribute to his days in the Beatles.",
+  "scores": [
+    0.018,
+    0.171,
+    0.306,
+    0.402,
+    0.463,
+    0.456,
+    0.437,
+    0.432,
+    0.422,
+    0.407,
+    0.387,
+    0.362,
+    0.332,
+    0.297,
+    0.257,
+    0.212,
+    0.162,
+    0.107,
+    0.047,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 5,
+  "score": 5.676999999999999,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 896
+}

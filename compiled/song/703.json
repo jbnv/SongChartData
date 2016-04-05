@@ -1,1 +1,74 @@
-{"title":"Heart to Heart","instanceSlug":703,"tags":[],"genre":"rock","debut":"1982-12","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[15,3.5,1,1.14,1.28,1.43,1.59,1.75,2.07,2.55,3.19,3.99,4.95,6.07,7.35,8.79,10.39,12.15,14.07,16.15,18.39,20.79,23.35,26.07,28.95,31.99,35.19,38.55,42.07,45.75,49.59,53.59],"artists":[{"slug":"kenny-loggins","title":"Kenny Loggins","roleSlug":true},{"slug":"michael-mcdonald","title":"Michael McDonald","roleSlug":"backup"}],"debutRank":15,"peakRank":1,"duration":8,"score":32.33,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":32}
+{
+  "title": "Heart to Heart",
+  "instanceSlug": 703,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1982-12",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    15,
+    3.5,
+    1,
+    1.14,
+    1.28,
+    1.43,
+    1.59
+  ],
+  "artists": [
+    {
+      "slug": "kenny-loggins",
+      "title": "Kenny Loggins",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-mcdonald",
+      "title": "Michael McDonald",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.582,
+    1,
+    0.956,
+    0.917,
+    0.88,
+    0.845,
+    0.84,
+    0.83,
+    0.815,
+    0.795,
+    0.77,
+    0.74,
+    0.705,
+    0.665,
+    0.62,
+    0.57,
+    0.515,
+    0.455,
+    0.39,
+    0.32,
+    0.245,
+    0.165,
+    0.08,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6.25,
+  "score": 14.796999999999997,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 27
+}

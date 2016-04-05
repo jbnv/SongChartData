@@ -1,12 +1,32 @@
 {
   "title": "I Wish I Had a Girl",
   "instanceSlug": "hlsummer01",
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1988-04",
   "playlists": [
     "summer"
   ],
-  "ranks": [20,10,7.5,5.5,5,5.2,5.4],
-  "artists": {"henry-lee-summer":true}
+  "ranks": [
+    20,
+    10,
+    7.5,
+    5.5,
+    5,
+    5.2,
+    5.4
+  ],
+  "artists": {
+    "henry-lee-summer": true
+  },
+  "scores": [
+    0.001,
+    0.232,
+    0.328,
+    0.431,
+    0.463,
+    0.45,
+    0.437
+  ]
 }

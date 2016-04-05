@@ -1,1 +1,30 @@
-{"title":"I Love You More Than You Know","instanceSlug":2767,"tags":[],"parents":[],"genre":"pop","debut":"1989-03","playlists":[],"ranks":[],"artists":[{"slug":"martika","title":"Martika","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1946}
+{
+  "title": "I Love You More Than You Know",
+  "instanceSlug": 2767,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "martika",
+      "title": "Martika",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1946
+}

@@ -1,1 +1,32 @@
-{"title":"I'm Not the Only One","instanceSlug":2763,"tags":["cheating","feb13"],"parents":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[],"artists":[{"slug":"sam-smith","title":"Sam Smith","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1942}
+{
+  "title": "I'm Not the Only One",
+  "instanceSlug": 2763,
+  "tags": [
+    "cheating",
+    "feb13"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sam-smith",
+      "title": "Sam Smith",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1942
+}

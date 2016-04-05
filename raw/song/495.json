@@ -1,1 +1,28 @@
-{"title":"I Like It","instanceSlug":495,"tags":[],"parents":[],"genre":"pop","debut":"1989-07","playlists":["summer"],"ranks":[15,4.6,2.5,2.71],"artists":{"dino":true}}
+{
+  "title": "I Like It",
+  "instanceSlug": 495,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    15,
+    4.6,
+    2.5,
+    2.71
+  ],
+  "artists": {
+    "dino": true
+  },
+  "scores": [
+    0.097,
+    0.491,
+    0.694,
+    0.667
+  ]
+}

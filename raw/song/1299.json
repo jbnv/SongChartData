@@ -1,1 +1,23 @@
-{"title":"Love Bites","instanceSlug":1299,"tags":["#1","#1-hot-100","feb13"],"parents":[],"genre":"rock","debut":"1988-09","playlists":["ballad"],"ranks":[],"artists":{"def-leppard":true}}
+{
+  "title": "Love Bites",
+  "instanceSlug": 1299,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "feb13"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-09",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "def-leppard": true
+  },
+  "scores": [
+  ]
+}

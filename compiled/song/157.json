@@ -1,1 +1,32 @@
-{"title":"Stop to Love","instanceSlug":157,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1987-01","ranks":[],"artists":[{"slug":"luther-vandross","title":"Luther Vandross","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"playlists":[],"source":null,"rank":1810}
+{
+  "title": "Stop to Love",
+  "instanceSlug": 157,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-01",
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "luther-vandross",
+      "title": "Luther Vandross",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 2420
+}

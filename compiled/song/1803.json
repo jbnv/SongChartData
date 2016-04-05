@@ -1,1 +1,30 @@
-{"title":"I Ain't Gonna Stand for It","instanceSlug":1803,"tags":[],"parents":[],"genre":"urban","debut":"1981-02","playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1684}
+{
+  "title": "I Ain't Gonna Stand for It",
+  "instanceSlug": 1803,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1981-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 2819
+}

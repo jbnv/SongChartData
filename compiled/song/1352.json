@@ -1,1 +1,33 @@
-{"title":"Just a Friend","instanceSlug":1352,"tags":["feb13","friend","just"],"parents":[],"genre":"rap","debut":"1990-02","playlists":[],"ranks":[],"artists":[{"slug":"biz-markie","title":"Biz Markie","roleSlug":true}],"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":2266}
+{
+  "title": "Just a Friend",
+  "instanceSlug": 1352,
+  "tags": [
+    "feb13",
+    "friend",
+    "just"
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "biz-markie",
+      "title": "Biz Markie",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 1797
+}

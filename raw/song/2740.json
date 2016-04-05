@@ -1,1 +1,23 @@
-{"title":"Where Is the Love","instanceSlug":2740,"tags":["#1","#1-adult-contemporary","#1-r&b"],"parents":[],"genre":"adult-contemporary","debut":1972,"playlists":[],"ranks":[],"artists":{"roberta-flack":true,"donny-hathaway":true}}
+{
+  "title": "Where Is the Love",
+  "instanceSlug": 2740,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "roberta-flack": true,
+    "donny-hathaway": true
+  },
+  "scores": [
+  ]
+}

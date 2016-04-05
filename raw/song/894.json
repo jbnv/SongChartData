@@ -1,1 +1,34 @@
-{"title":"Free Your Mind","instanceSlug":894,"tags":["free","mind","your"],"parents":[],"genre":"pop","debut":"1992-09","playlists":[],"ranks":[13.6,7.6,4.1,2.2,2.4,3.2],"artists":{"en-vogue":true}}
+{
+  "title": "Free Your Mind",
+  "instanceSlug": 894,
+  "tags": [
+    "free",
+    "mind",
+    "your"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13.6,
+    7.6,
+    4.1,
+    2.2,
+    2.4,
+    3.2
+  ],
+  "artists": {
+    "en-vogue": true
+  },
+  "scores": [
+    0.129,
+    0.323,
+    0.529,
+    0.737,
+    0.708,
+    0.612
+  ]
+}

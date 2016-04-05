@@ -1,1 +1,62 @@
-{"title":"The Other Side","instanceSlug":115,"tags":[],"parents":[],"genre":"rock","debut":"1990-07","ranks":[13.5,6,3,2,2.5,3,4,5.5,7.5,10,13,16.5,20.5,25,30,35.5,41.5,48,55,62.5],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"debutRank":13.5,"peakRank":2,"duration":5,"score":15.02,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":604}
+{
+  "title": "The Other Side",
+  "instanceSlug": 115,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1990-07",
+  "ranks": [
+    13.5,
+    6,
+    3,
+    2,
+    2.5
+  ],
+  "artists": [
+    {
+      "slug": "aerosmith",
+      "title": "Aerosmith",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.132,
+    0.402,
+    0.633,
+    0.768,
+    0.694,
+    0.689,
+    0.679,
+    0.664,
+    0.644,
+    0.619,
+    0.589,
+    0.554,
+    0.514,
+    0.469,
+    0.419,
+    0.364,
+    0.304,
+    0.239,
+    0.169,
+    0.094,
+    0.014,
+    0
+  ],
+  "debutScore": 0.132,
+  "peakScore": 0.132,
+  "duration": 5.5,
+  "score": 9.653000000000002,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 415
+}

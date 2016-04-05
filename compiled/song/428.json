@@ -1,1 +1,58 @@
-{"title":"Hold Me Now","instanceSlug":428,"tags":[],"parents":[],"genre":"pop","debut":"1984-03","playlists":[],"ranks":[16.5,9.5,5.4,4.5,5.2,5.9,7.3,9.4,12.2,15.7,19.9,24.8,30.4,36.7,43.7,51.4],"artists":[{"slug":"thompson-twins","title":"Thompson Twins","roleSlug":true}],"debutRank":16.5,"peakRank":4.5,"duration":4,"score":8.86,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1056}
+{
+  "title": "Hold Me Now",
+  "instanceSlug": 428,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    9.5,
+    5.4,
+    4.5,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "thompson-twins",
+      "title": "Thompson Twins",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.065,
+    0.249,
+    0.437,
+    0.498,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 4.5,
+  "score": 5.278999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 966
+}

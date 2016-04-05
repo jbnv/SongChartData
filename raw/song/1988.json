@@ -1,1 +1,20 @@
-{"title":"Couple Days Off","instanceSlug":1988,"tags":[],"parents":[],"genre":"rock","debut":"1991-05","playlists":["summer"],"ranks":[],"artists":{"huey-lewis-the-news":true}}
+{
+  "title": "Couple Days Off",
+  "instanceSlug": 1988,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "huey-lewis-the-news": true
+  },
+  "scores": [
+  ]
+}

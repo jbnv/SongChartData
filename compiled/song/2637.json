@@ -1,1 +1,66 @@
-{"title":"How Bizarre","instanceSlug":2637,"tags":["accordion"],"parents":[],"genre":"dance-pop","debut":"1997-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,3.5,1.4,1.72,2.04,2.68,3.64,4.92,6.52,8.44,10.68,13.24,16.12,19.32,22.84,26.68,30.84,35.32,40.12,45.24,50.68,56.44,62.52,68.92],"artists":[{"slug":"omc","title":"OMC","roleSlug":true}],"debutRank":13,"peakRank":1.4,"duration":6,"score":18.02,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":420}
+{
+  "title": "How Bizarre",
+  "instanceSlug": 2637,
+  "tags": [
+    "accordion"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1997-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    13,
+    3.5,
+    1.4,
+    1.72
+  ],
+  "artists": [
+    {
+      "slug": "omc",
+      "title": "OMC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.582,
+    0.887,
+    0.819,
+    0.814,
+    0.804,
+    0.789,
+    0.769,
+    0.744,
+    0.714,
+    0.679,
+    0.639,
+    0.594,
+    0.544,
+    0.489,
+    0.429,
+    0.364,
+    0.294,
+    0.219,
+    0.139,
+    0.054,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.5,
+  "score": 11.511000000000001,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 232
+}

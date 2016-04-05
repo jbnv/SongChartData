@@ -1,1 +1,37 @@
-{"title":"Something in Common","instanceSlug":1596,"tags":["common","duet","something"],"parents":[],"genre":"pop","debut":"1993-12","playlists":[],"ranks":[20,14,10,9.2,8.8,8.9,10],"artists":{"bobby-brown":true,"whitney-houston":true}}
+{
+  "title": "Something in Common",
+  "instanceSlug": 1596,
+  "tags": [
+    "common",
+    "duet",
+    "something"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-12",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    10,
+    9.2,
+    8.8,
+    8.9,
+    10
+  ],
+  "artists": {
+    "bobby-brown": true,
+    "whitney-houston": true
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.232,
+    0.26,
+    0.275,
+    0.271,
+    0.232
+  ]
+}

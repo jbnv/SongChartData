@@ -1,10 +1,12 @@
 {
   "title": "Pop Life",
   "instanceSlug": 1732,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1985-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16,
     4,
@@ -13,5 +15,11 @@
   ],
   "artists": {
     "prince": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.537,
+    0.965,
+    0.937
+  ]
 }

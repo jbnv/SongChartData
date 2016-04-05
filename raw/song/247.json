@@ -3,7 +3,9 @@
   "instanceSlug": 247,
   "tags": [
   ],
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1992-08",
   "ranks": [
@@ -18,5 +20,15 @@
   ],
   "artists": {
     "bobby-brown": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.612,
+    0.823,
+    0.912,
+    0.864,
+    0.823,
+    0.752,
+    0.668
+  ]
 }

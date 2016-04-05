@@ -1,1 +1,74 @@
-{"title":"Off the Wall","instanceSlug":11,"tags":["halloween","off","wall"],"source":{"title":"Off the Wall","instanceSlug":"off-the-wall","tags":[],"type":"album"},"genre":"pop","debut":"1980-03","ranks":[12,6,3,1.5,1,1.3,1.7,2.1,2.9,4.1,5.7,7.7,10.1,12.9,16.1,19.7,23.7,28.1,32.9,38.1,43.7,49.7,56.1,62.9],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":1,"duration":6,"score":23.8,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":176}
+{
+  "title": "Off the Wall",
+  "instanceSlug": 11,
+  "tags": [
+    "halloween",
+    "off",
+    "wall"
+  ],
+  "source": {
+    "title": "Off the Wall",
+    "instanceSlug": "off-the-wall",
+    "tags": [
+    ],
+    "type": "album"
+  },
+  "genre": "pop",
+  "debut": "1980-03",
+  "ranks": [
+    12,
+    6,
+    3,
+    1.5,
+    1,
+    1.3,
+    1.7
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.402,
+    0.633,
+    0.864,
+    1,
+    0.912,
+    0.823,
+    0.818,
+    0.808,
+    0.793,
+    0.773,
+    0.748,
+    0.718,
+    0.683,
+    0.643,
+    0.598,
+    0.548,
+    0.493,
+    0.433,
+    0.368,
+    0.298,
+    0.223,
+    0.143,
+    0.058,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 6.25,
+  "score": 13.951000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "rank": 81
+}

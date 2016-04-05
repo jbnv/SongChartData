@@ -1,1 +1,67 @@
-{"title":"Don't Let Go","instanceSlug":1394,"tags":["don't","don't-let","go","let","let-go"],"parents":[],"genre":"soul","debut":"1996-11","playlists":[],"ranks":[15,6,3.1,2.4,2.75,3.4,4.05,5.35,7.3,9.9,13.15,17.05,21.6,26.8,32.65,39.15,46.3,54.1,62.55,71.65],"artists":[{"slug":"en-vogue","title":"En Vogue","roleSlug":true}],"debutRank":15,"peakRank":2.4,"duration":5,"score":14.49,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":641}
+{
+  "title": "Don't Let Go",
+  "instanceSlug": 1394,
+  "tags": [
+    "don't",
+    "don't-let",
+    "go",
+    "let",
+    "let-go"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1996-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6,
+    3.1,
+    2.4,
+    2.75,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "en-vogue",
+      "title": "En Vogue",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.402,
+    0.622,
+    0.708,
+    0.662,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 8.571000000000002,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 525
+}

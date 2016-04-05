@@ -1,1 +1,63 @@
-{"title":"Cult of Personality","instanceSlug":2043,"tags":[],"parents":[],"genre":"rock","debut":"1989-04","playlists":[],"ranks":[16,10,7,5.4,4,4.2,4.9,5.6,7,9.1,11.9,15.4,19.6,24.5,30.1,36.4,43.4,51.1,59.5,68.6],"artists":[{"slug":"living-colour","title":"Living Colour","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":5,"score":11.82,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":831}
+{
+  "title": "Cult of Personality",
+  "instanceSlug": 2043,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-04",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.4,
+    4,
+    4.2,
+    4.9
+  ],
+  "artists": [
+    {
+      "slug": "living-colour",
+      "title": "Living Colour",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.437,
+    0.537,
+    0.521,
+    0.47,
+    0.465,
+    0.455,
+    0.44,
+    0.42,
+    0.395,
+    0.365,
+    0.33,
+    0.29,
+    0.245,
+    0.195,
+    0.14,
+    0.08,
+    0.015,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 6.458,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 812
+}

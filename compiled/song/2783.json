@@ -1,1 +1,30 @@
-{"title":"Earth Angel","instanceSlug":2783,"tags":[],"parents":[],"genre":"soul","debut":"1986-10","playlists":[],"ranks":[],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1964}
+{
+  "title": "Earth Angel",
+  "instanceSlug": 2783,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1986-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "new-edition",
+      "title": "New Edition",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1964
+}

@@ -1,1 +1,32 @@
-{"title":"Raise Your Glass","instanceSlug":3023,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"artists":[{"slug":"pink","title":"Pink","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2233}
+{
+  "title": "Raise Your Glass",
+  "instanceSlug": 3023,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "pink",
+      "title": "Pink",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2233
+}

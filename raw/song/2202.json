@@ -1,1 +1,19 @@
-{"title":"Our House","instanceSlug":2202,"tags":[],"parents":[],"genre":"pop","debut":"1983-06","playlists":[],"ranks":[],"artists":{"madness":true}}
+{
+  "title": "Our House",
+  "instanceSlug": 2202,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "madness": true
+  },
+  "scores": [
+  ]
+}

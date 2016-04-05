@@ -1,1 +1,69 @@
-{"title":"The Longest Time","instanceSlug":1728,"tags":["#1","#1-adult-contemporary"],"source":{"title":"An Innocent Man","instanceSlug":"innocent-man","tags":["billy-joel"],"type":"album"},"genre":"pop","debut":"1984-04","playlists":[{"slug":"a-capella","title":"A Capella Songs"}],"ranks":[18,13,10,7,7.5,8.5,9.5,11.5,14.5,18.5,23.5,29.5,36.5,44.5,53.5,63.5],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":18,"peakRank":7,"duration":4,"score":5.86,"genres":[{"slug":"pop","title":"Pop"}],"rank":1283}
+{
+  "title": "The Longest Time",
+  "instanceSlug": 1728,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "source": {
+    "title": "An Innocent Man",
+    "instanceSlug": "innocent-man",
+    "tags": [
+      "billy-joel"
+    ],
+    "type": "album"
+  },
+  "genre": "pop",
+  "debut": "1984-04",
+  "playlists": [
+    {
+      "slug": "a-capella",
+      "title": "A Capella Songs"
+    }
+  ],
+  "ranks": [
+    18,
+    13,
+    10,
+    7,
+    7.5,
+    8.5
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.145,
+    0.232,
+    0.351,
+    0.328,
+    0.286,
+    0.281,
+    0.271,
+    0.256,
+    0.236,
+    0.211,
+    0.181,
+    0.146,
+    0.106,
+    0.061,
+    0.011,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.25,
+  "score": 3.1379999999999995,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 1286
+}

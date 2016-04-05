@@ -1,1 +1,71 @@
-{"title":"You Belong to the City","instanceSlug":926,"tags":["belong","city","you"],"parents":[],"genre":"rock","debut":"1985-10","source":{"title":"Miami Vice","instanceSlug":"miami-vice","tags":[],"parents":[],"type":"tv"},"playlists":[],"ranks":[16.8,9.2,5.25,4.6,5,5.9,6.8,8.6,11.3,14.9,19.4,24.8,31.1,38.3,46.4,55.4],"artists":[{"slug":"glenn-frye","title":"Glenn Frye","roleSlug":true}],"debutRank":16.8,"peakRank":4.6,"duration":4,"score":9.23,"genres":[{"slug":"rock","title":"Rock"}],"rank":1009}
+{
+  "title": "You Belong to the City",
+  "instanceSlug": 926,
+  "tags": [
+    "belong",
+    "city",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-10",
+  "source": {
+    "title": "Miami Vice",
+    "instanceSlug": "miami-vice",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    16.8,
+    9.2,
+    5.25,
+    4.6,
+    5,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "glenn-frye",
+      "title": "Glenn Frye",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.059,
+    0.26,
+    0.447,
+    0.491,
+    0.463,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.059,
+  "peakScore": 0.059,
+  "duration": 4.75,
+  "score": 5.204000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "rank": 977
+}

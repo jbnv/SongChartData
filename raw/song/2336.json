@@ -1,1 +1,22 @@
-{"title":"Fallin'","instanceSlug":2336,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"soul","debut":"2001-08","playlists":[],"ranks":[],"artists":{"alicia-keys":true}}
+{
+  "title": "Fallin'",
+  "instanceSlug": 2336,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "2001-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "alicia-keys": true
+  },
+  "scores": [
+  ]
+}

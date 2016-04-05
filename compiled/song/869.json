@@ -1,1 +1,59 @@
-{"title":"Where You Going Now","instanceSlug":869,"tags":[],"parents":[],"genre":"rock","debut":"1992-10","playlists":[],"ranks":[15.9,9,5,3,4.2,5.4,7.8,11.4,16.2,22.2,29.4,37.8,47.4,58.2,70.2,83.4],"artists":[{"slug":"damn-yankees","title":"Damn Yankees","roleSlug":true}],"debutRank":15.9,"peakRank":3,"duration":4,"score":8.93,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1046}
+{
+  "title": "Where You Going Now",
+  "instanceSlug": 869,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1992-10",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "damn-yankees",
+      "title": "Damn Yankees",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 4.75,
+  "score": 6.459000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 809
+}

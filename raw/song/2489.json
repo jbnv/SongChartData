@@ -1,1 +1,20 @@
-{"title":"Count on Me","instanceSlug":2489,"tags":[],"parents":[],"genre":"pop","debut":"1996-04","playlists":[],"ranks":[],"artists":{"whitney-houston":true,"cece-winans":true}}
+{
+  "title": "Count on Me",
+  "instanceSlug": 2489,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "whitney-houston": true,
+    "cece-winans": true
+  },
+  "scores": [
+  ]
+}

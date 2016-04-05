@@ -1,1 +1,30 @@
-{"title":"Let Me Be There","instanceSlug":802,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[17.9,10.4,6.1,6,8],"artists":{"olivia-newton-john":true,"mike-sammes":"backup"}}
+{
+  "title": "Let Me Be There",
+  "instanceSlug": 802,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.4,
+    6.1,
+    6,
+    8
+  ],
+  "artists": {
+    "olivia-newton-john": true,
+    "mike-sammes": "backup"
+  },
+  "scores": [
+    0.038,
+    0.219,
+    0.397,
+    0.402,
+    0.306
+  ]
+}

@@ -1,1 +1,64 @@
-{"title":"Kiss Him Goodbye","instanceSlug":219,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"remake","title":"Remakes"}],"genre":"pop","debut":"1987-06","ranks":[13,7.5,4.3,4.2,5.2,6.2,8.2,11.2,15.2,20.2,26.2,33.2,41.2,50.2,60.2,71.2],"artists":[{"slug":"nylons","title":"Nylons","roleSlug":true}],"debutRank":13,"peakRank":4.2,"duration":4,"score":8.81,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1059}
+{
+  "title": "Kiss Him Goodbye",
+  "instanceSlug": 219,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    },
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1987-06",
+  "ranks": [
+    13,
+    7.5,
+    4.3,
+    4.2,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "nylons",
+      "title": "Nylons",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.328,
+    0.513,
+    0.521,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 4.5,
+  "score": 5.536999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 918
+}

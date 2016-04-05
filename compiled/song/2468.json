@@ -1,1 +1,35 @@
-{"title":"Love Will Keep Us Alive","instanceSlug":2468,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"soft-rock","debut":"1995-02","playlists":[],"ranks":[],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"glenn-frey"}],"genres":[{"slug":"soft-rock","title":"Soft Rock"}],"source":null,"rank":1614}
+{
+  "title": "Love Will Keep Us Alive",
+  "instanceSlug": 2468,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": "1995-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "eagles",
+      "title": "Eagles",
+      "roleSlug": true
+    },
+    {
+      "slug": "glenn-frey"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soft-rock",
+      "title": "Soft Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1614
+}

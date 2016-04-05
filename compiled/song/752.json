@@ -1,1 +1,65 @@
-{"title":"Freakazoid","instanceSlug":752,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[9,4.7,2.5,1.3,1.2,1.7,2.2,3.2,4.7,6.7,9.2,12.2,15.7,19.7,24.2,29.2,34.7,40.7,47.2,54.2],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"debutRank":9,"peakRank":1.2,"duration":5,"score":20.51,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":300}
+{
+  "title": "Freakazoid",
+  "instanceSlug": 752,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "ranks": [
+    9,
+    4.7,
+    2.5,
+    1.3,
+    1.2,
+    1.7
+  ],
+  "artists": [
+    {
+      "slug": "midnight-star",
+      "title": "Midnight Star",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.267,
+    0.484,
+    0.694,
+    0.912,
+    0.939,
+    0.823,
+    0.818,
+    0.808,
+    0.793,
+    0.773,
+    0.748,
+    0.718,
+    0.683,
+    0.643,
+    0.598,
+    0.548,
+    0.493,
+    0.433,
+    0.368,
+    0.298,
+    0.223,
+    0.143,
+    0.058,
+    0
+  ],
+  "debutScore": 0.267,
+  "peakScore": 0.267,
+  "duration": 6,
+  "score": 13.265000000000002,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 124
+}

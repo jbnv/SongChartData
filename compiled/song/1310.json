@@ -1,1 +1,61 @@
-{"title":"Giving You The Best That I Got","instanceSlug":1310,"tags":["give-you"],"genre":"soul","debut":"1988-10","playlists":[],"ranks":[17,10,7.5,5.5,3.5,3.7,3.9,4.3,4.9,5.7,6.7,7.9,9.3,10.9,12.7,14.7,16.9,19.3,21.9,24.7,27.7,30.9,34.3,37.9,41.7,45.7,49.9,54.3],"artists":[{"slug":"anita-baker","title":"Anita Baker","roleSlug":true}],"debutRank":17,"peakRank":3.5,"duration":7,"score":16.83,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":476}
+{
+  "title": "Giving You The Best That I Got",
+  "instanceSlug": 1310,
+  "tags": [
+    "give-you"
+  ],
+  "genre": "soul",
+  "debut": "1988-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    7.5,
+    5.5,
+    3.5,
+    3.7
+  ],
+  "artists": [
+    {
+      "slug": "anita-baker",
+      "title": "Anita Baker",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.328,
+    0.431,
+    0.582,
+    0.563,
+    0.558,
+    0.548,
+    0.533,
+    0.513,
+    0.488,
+    0.458,
+    0.423,
+    0.383,
+    0.338,
+    0.288,
+    0.233,
+    0.173,
+    0.108,
+    0.038,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 7.273,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 700
+}

@@ -1,1 +1,65 @@
-{"title":"I Don't Wanna Miss a Thing","instanceSlug":402,"tags":[],"parents":[],"genre":"rock","debut":"1998-05","source":{"title":"Armageddon","instanceSlug":"armageddon","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[17.9,10.7,9.3,10.2,13,15.8,21.4,29.8,41,55,71.8,91.4],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"debutRank":17.9,"peakRank":9.3,"duration":3,"score":2.87,"genres":[{"slug":"rock","title":"Rock"}],"rank":1472}
+{
+  "title": "I Don't Wanna Miss a Thing",
+  "instanceSlug": 402,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1998-05",
+  "source": {
+    "title": "Armageddon",
+    "instanceSlug": "armageddon",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    9.3,
+    10.2,
+    13
+  ],
+  "artists": [
+    {
+      "slug": "aerosmith",
+      "title": "Aerosmith",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.256,
+    0.225,
+    0.145,
+    0.14,
+    0.13,
+    0.115,
+    0.095,
+    0.07,
+    0.04,
+    0.005,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.25,
+  "score": 1.4679999999999997,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "rank": 1468
+}

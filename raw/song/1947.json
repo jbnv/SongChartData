@@ -1,1 +1,20 @@
-{"title":"Feel Good","instanceSlug":1947,"tags":[],"parents":[],"genre":"modern-rock","debut":"2005-06","playlists":[],"ranks":[],"artists":{"gorillaz":true,"de-la-soul":true}}
+{
+  "title": "Feel Good",
+  "instanceSlug": 1947,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "modern-rock",
+  "debut": "2005-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "gorillaz": true,
+    "de-la-soul": true
+  },
+  "scores": [
+  ]
+}

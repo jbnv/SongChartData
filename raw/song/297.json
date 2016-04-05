@@ -1,11 +1,14 @@
 {
   "title": "Tell Me When",
   "instanceSlug": 297,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "electro-pop",
   "debut": "1995-04",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     5,
     1,
@@ -14,5 +17,10 @@
   "artists": {
     "human-league": true
   },
-  "note":"Project at 10 weeks at #1."
+  "note": "Project at 10 weeks at #1.",
+  "scores": [
+    0.463,
+    1,
+    0.977
+  ]
 }

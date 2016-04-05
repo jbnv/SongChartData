@@ -1,1 +1,63 @@
-{"title":"Mr. Roboto","instanceSlug":76,"tags":["technophobia"],"parents":[],"genre":"rock","debut":"1983-02","ranks":[9.5,1.2,1.32,1.48,1.64,1.96,2.44,3.08,3.88,4.84,5.96,7.24,8.68,10.28,12.04,13.96,16.04,18.28,20.68,23.24,25.96,28.84,31.88,35.08,38.44,41.96,45.64,49.48,53.48,57.64,61.96,66.44],"artists":[{"slug":"styx","title":"Styx","roleSlug":true}],"debutRank":9.5,"peakRank":1.2,"duration":8,"score":25.72,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":117}
+{
+  "title": "Mr. Roboto",
+  "instanceSlug": 76,
+  "tags": [
+    "technophobia"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-02",
+  "ranks": [
+    9.5,
+    1.2,
+    1.32,
+    1.48
+  ],
+  "artists": [
+    {
+      "slug": "styx",
+      "title": "Styx",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.249,
+    0.939,
+    0.907,
+    0.869,
+    0.864,
+    0.854,
+    0.839,
+    0.819,
+    0.794,
+    0.764,
+    0.729,
+    0.689,
+    0.644,
+    0.594,
+    0.539,
+    0.479,
+    0.414,
+    0.344,
+    0.269,
+    0.189,
+    0.104,
+    0.014,
+    0
+  ],
+  "debutScore": 0.249,
+  "peakScore": 0.249,
+  "duration": 5.75,
+  "score": 12.905999999999995,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 136
+}

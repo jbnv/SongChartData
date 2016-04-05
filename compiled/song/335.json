@@ -1,1 +1,69 @@
-{"title":"Every Little Thing I Do","instanceSlug":335,"tags":[],"parents":[],"genre":"urban","debut":"1995-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[14,4.3,3,3.23,3.47,3.79,4.24,4.9,5.56,6.88,8.86,11.5,14.8,18.76,23.38,28.66,34.6,41.2,48.46,56.38],"artists":[{"slug":"soul-4-real","title":"Soul for Real","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":5,"score":16.13,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":529}
+{
+  "title": "Every Little Thing I Do",
+  "instanceSlug": 335,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1995-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    14,
+    4.3,
+    3,
+    3.23,
+    3.47,
+    3.79,
+    4.24,
+    4.9
+  ],
+  "artists": [
+    {
+      "slug": "soul-4-real",
+      "title": "Soul for Real",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.513,
+    0.633,
+    0.609,
+    0.585,
+    0.555,
+    0.518,
+    0.47,
+    0.465,
+    0.455,
+    0.44,
+    0.42,
+    0.395,
+    0.365,
+    0.33,
+    0.29,
+    0.245,
+    0.195,
+    0.14,
+    0.08,
+    0.015,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 7.838000000000001,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 629
+}

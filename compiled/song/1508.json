@@ -1,1 +1,32 @@
-{"title":"Wild Side","instanceSlug":1508,"tags":["side","wild"],"parents":[],"genre":"pop","debut":"1991-12","playlists":[],"ranks":[],"artists":[{"slug":"marky-mark-the-funky-bunch","title":"Marky Mark & the Funky Bunch","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2697}
+{
+  "title": "Wild Side",
+  "instanceSlug": 1508,
+  "tags": [
+    "side",
+    "wild"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "marky-mark-the-funky-bunch",
+      "title": "Marky Mark & the Funky Bunch",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1912
+}

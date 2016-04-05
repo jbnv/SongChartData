@@ -1,1 +1,24 @@
-{"title":"Boulevard","instanceSlug":411,"tags":[],"parents":[],"playlists":[],"ranks":[],"artists":[{"slug":"jackson-browne","title":"Jackson Browne","roleSlug":true}],"genres":[],"source":null,"rank":2405}
+{
+  "title": "Boulevard",
+  "instanceSlug": 411,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jackson-browne",
+      "title": "Jackson Browne",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 2405
+}

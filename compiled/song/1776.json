@@ -1,1 +1,60 @@
-{"title":"ROCK in the USA","instanceSlug":1776,"tags":[],"parents":[],"genre":"rock","debut":"1986-03","playlists":[],"ranks":[18,11,7,5,5.4,6.1,6.8,8.2,10.3,13.1,16.6,20.8,25.7,31.3,37.6,44.6,52.3,60.7,69.8,79.6],"artists":[{"slug":"john-mellancamp","title":"John Mellencamp","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":8.93,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1047}
+{
+  "title": "ROCK in the USA",
+  "instanceSlug": 1776,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-03",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    7,
+    5,
+    5.4,
+    6.1
+  ],
+  "artists": [
+    {
+      "slug": "john-mellancamp",
+      "title": "John Mellencamp",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.2,
+    0.351,
+    0.463,
+    0.437,
+    0.397,
+    0.392,
+    0.382,
+    0.367,
+    0.347,
+    0.322,
+    0.292,
+    0.257,
+    0.217,
+    0.172,
+    0.122,
+    0.067,
+    0.007,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.75,
+  "score": 4.827999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1037
+}

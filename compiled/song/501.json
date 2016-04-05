@@ -1,1 +1,35 @@
-{"title":"Walk Like an Egyptian","instanceSlug":501,"tags":["#1","#1-hot-100","africa","egypt","places"],"parents":[],"genre":"pop","debut":"1986-11","playlists":[],"ranks":[],"artists":[{"slug":"bangles","title":"Bangles","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2505}
+{
+  "title": "Walk Like an Egyptian",
+  "instanceSlug": 501,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "africa",
+    "egypt",
+    "places"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bangles",
+      "title": "Bangles",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2505
+}

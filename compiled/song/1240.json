@@ -1,1 +1,64 @@
-{"title":"I'll Be There","instanceSlug":1240,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":1970,"playlists":[],"ranks":[21,14,11,9,9.5,10.2,10.9,12.3,14.4,17.2,20.7,24.9,29.8,35.4,41.7,48.7,56.4,64.8,73.9,83.7],"artists":[{"slug":"jacksons","title":"Jackson 5 / Jacksons","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"lead"}],"debutRank":21,"peakRank":9,"duration":5,"score":4.78,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1349}
+{
+  "title": "I'll Be There",
+  "instanceSlug": 1240,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1970,
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    11,
+    9,
+    9.5,
+    10.2
+  ],
+  "artists": [
+    {
+      "slug": "jacksons",
+      "title": "Jackson 5 / Jacksons",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": [
+    0.12,
+    0.2,
+    0.267,
+    0.249,
+    0.225,
+    0.22,
+    0.21,
+    0.195,
+    0.175,
+    0.15,
+    0.12,
+    0.085,
+    0.045,
+    0,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 3.75,
+  "score": 2.261,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1394
+}

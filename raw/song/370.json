@@ -1,1 +1,38 @@
-{"title":"Total Eclipse of the Heart","instanceSlug":370,"tags":["eclipse","heart","total"],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[17.5,12,8,6,5,4.5,4.9,5.5],"artists":{"bonnie-tyler":true}}
+{
+  "title": "Total Eclipse of the Heart",
+  "instanceSlug": 370,
+  "tags": [
+    "eclipse",
+    "heart",
+    "total"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-07",
+  "playlists": [
+  ],
+  "ranks": [
+    17.5,
+    12,
+    8,
+    6,
+    5,
+    4.5,
+    4.9,
+    5.5
+  ],
+  "artists": {
+    "bonnie-tyler": true
+  },
+  "scores": [
+    0.045,
+    0.171,
+    0.306,
+    0.402,
+    0.463,
+    0.498,
+    0.47,
+    0.431
+  ]
+}

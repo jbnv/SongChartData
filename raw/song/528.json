@@ -1,1 +1,49 @@
-{"title":"Miami Vice Theme","instanceSlug":528,"tags":["miami","tv-theme"],"parents":[],"genre":"pop","debut":"1985-09","playlists":[],"ranks":[9,5,2.9,2,2,3,4,5,6.6,8.3,10.4,13,16.3,20],"artists":{"jan-hammer":true}}
+{
+  "title": "Miami Vice Theme",
+  "instanceSlug": 528,
+  "tags": [
+    "miami",
+    "tv-theme"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-09",
+  "playlists": [
+  ],
+  "ranks": [
+    9,
+    5,
+    2.9,
+    2,
+    2,
+    3,
+    4,
+    5,
+    6.6,
+    8.3,
+    10.4,
+    13,
+    16.3,
+    20
+  ],
+  "artists": {
+    "jan-hammer": true
+  },
+  "scores": [
+    0.267,
+    0.463,
+    0.645,
+    0.768,
+    0.768,
+    0.633,
+    0.537,
+    0.463,
+    0.37,
+    0.294,
+    0.219,
+    0.145,
+    0.069,
+    0.001
+  ]
+}

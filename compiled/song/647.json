@@ -1,1 +1,67 @@
-{"title":"Love Walks In","instanceSlug":647,"tags":[],"parents":[],"genre":"rock","debut":"1986-09","playlists":[],"ranks":[17,11,8,6.1,5,5.4,5.95,6.5,7.6,9.25,11.45,14.2,17.5,21.35,25.75,30.7,36.2,42.25,48.85,56],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":"member"}],"debutRank":17,"peakRank":5,"duration":5,"score":10.72,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":903}
+{
+  "title": "Love Walks In",
+  "instanceSlug": 647,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11,
+    8,
+    6.1,
+    5,
+    5.4,
+    5.95
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    },
+    {
+      "slug": "sammy-hagar",
+      "title": "Sammy Hagar",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.055,
+    0.2,
+    0.306,
+    0.397,
+    0.463,
+    0.437,
+    0.405,
+    0.4,
+    0.39,
+    0.375,
+    0.355,
+    0.33,
+    0.3,
+    0.265,
+    0.225,
+    0.18,
+    0.13,
+    0.075,
+    0.015,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5,
+  "score": 5.302999999999998,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 958
+}

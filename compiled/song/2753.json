@@ -1,1 +1,30 @@
-{"title":"Wishing (If I Had a Photograph of You)","instanceSlug":2753,"tags":[],"parents":[],"genre":"new-wave","debut":"1983-06","playlists":[],"ranks":[],"artists":[{"slug":"a-flock-of-seagulls","title":"A Flock of Seagulls","roleSlug":true}],"genres":[{"slug":"new-wave","title":"New Wave"}],"source":null,"rank":1931}
+{
+  "title": "Wishing (If I Had a Photograph of You)",
+  "instanceSlug": 2753,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "new-wave",
+  "debut": "1983-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "a-flock-of-seagulls",
+      "title": "A Flock of Seagulls",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "new-wave",
+      "title": "New Wave"
+    }
+  ],
+  "source": null,
+  "rank": 1931
+}

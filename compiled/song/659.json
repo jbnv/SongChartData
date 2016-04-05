@@ -1,1 +1,61 @@
-{"title":"Promises Promises","instanceSlug":659,"tags":[],"genre":"pop","debut":"1983-08","playlists":[],"ranks":[10,2.3,1.3,1.5,1.7,1.9,2.3,2.9,3.7,4.7,5.9,7.3,8.9,10.7,12.7,14.9,17.3,19.9,22.7,25.7,28.9,32.3,35.9,39.7,43.7,47.9,52.3,56.9],"artists":[{"slug":"naked-eyes","title":"Naked Eyes","roleSlug":true}],"debutRank":10,"peakRank":1.3,"duration":7,"score":24.87,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":143}
+{
+  "title": "Promises Promises",
+  "instanceSlug": 659,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1983-08",
+  "playlists": [
+  ],
+  "ranks": [
+    10,
+    2.3,
+    1.3,
+    1.5,
+    1.7
+  ],
+  "artists": [
+    {
+      "slug": "naked-eyes",
+      "title": "Naked Eyes",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.722,
+    0.912,
+    0.864,
+    0.823,
+    0.818,
+    0.808,
+    0.793,
+    0.773,
+    0.748,
+    0.718,
+    0.683,
+    0.643,
+    0.598,
+    0.548,
+    0.493,
+    0.433,
+    0.368,
+    0.298,
+    0.223,
+    0.143,
+    0.058,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 5.75,
+  "score": 12.699000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 153
+}

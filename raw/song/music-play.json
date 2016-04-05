@@ -1,1 +1,19 @@
-{"title":"Let the Music Play","instanceSlug":"music-play","tags":[],"parents":[],"genre":"dance","debut":"1984-01","playlists":[],"ranks":[],"artists":{"shannon":true}}
+{
+  "title": "Let the Music Play",
+  "instanceSlug": "music-play",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1984-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "shannon": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,26 @@
-{"title":"Nighttime","instanceSlug":784,"tags":["night"],"parents":[],"genre":"dance","debut":"1988-05","playlists":[],"ranks":[15,9,11.2],"artists":{"pretty-poison":true}}
+{
+  "title": "Nighttime",
+  "instanceSlug": 784,
+  "tags": [
+    "night"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1988-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    11.2
+  ],
+  "artists": {
+    "pretty-poison": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.194
+  ]
+}

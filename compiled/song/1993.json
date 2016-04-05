@@ -1,1 +1,30 @@
-{"title":"Saturday in the Park","instanceSlug":1993,"tags":[],"parents":[],"genre":"jazz-rock","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"chicago","title":"Chicago","roleSlug":true}],"genres":[{"slug":"jazz-rock","title":"Jazz Rock"}],"source":null,"rank":2449}
+{
+  "title": "Saturday in the Park",
+  "instanceSlug": 1993,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "jazz-rock",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "chicago",
+      "title": "Chicago",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "jazz-rock",
+      "title": "Jazz Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2377
+}

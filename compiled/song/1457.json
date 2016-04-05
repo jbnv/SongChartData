@@ -1,1 +1,30 @@
-{"title":"Could've Been","instanceSlug":1457,"tags":[],"parents":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[],"artists":[{"slug":"tiffany","title":"Tiffany","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2795}
+{
+  "title": "Could've Been",
+  "instanceSlug": 1457,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tiffany",
+      "title": "Tiffany",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2565
+}

@@ -1,1 +1,63 @@
-{"title":1999,"instanceSlug":606,"tags":[],"genre":"pop","debut":"1983-06","playlists":[{"slug":"years","title":"Songs about Particular Years"}],"ranks":[13,3.9,2.1,2.25,2.75,3.25,4.25,5.75,7.75,10.25,13.25,16.75,20.75,25.25,30.25,35.75,41.75,48.25,55.25,62.75],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":5,"score":15.36,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":570}
+{
+  "title": 1999,
+  "instanceSlug": 606,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1983-06",
+  "playlists": [
+    {
+      "slug": "years",
+      "title": "Songs about Particular Years"
+    }
+  ],
+  "ranks": [
+    13,
+    3.9,
+    2.1,
+    2.25,
+    2.75
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.546,
+    0.752,
+    0.729,
+    0.662,
+    0.657,
+    0.647,
+    0.632,
+    0.612,
+    0.587,
+    0.557,
+    0.522,
+    0.482,
+    0.437,
+    0.387,
+    0.332,
+    0.272,
+    0.207,
+    0.137,
+    0.062,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.25,
+  "score": 9.364000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 434
+}

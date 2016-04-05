@@ -1,1 +1,67 @@
-{"title":"Farewell My Summer Love","instanceSlug":2358,"tags":["rerelease"],"parents":[],"genre":"soul","debut":"1984-07","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[19,10,7,5.5,5,5.4,5.9,6.4,7.4,8.9,10.9,13.4,16.4,19.9,23.9,28.4,33.4,38.9,44.9,51.4],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":19,"peakRank":5,"duration":5,"score":11.22,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":862}
+{
+  "title": "Farewell My Summer Love",
+  "instanceSlug": 2358,
+  "tags": [
+    "rerelease"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1984-07",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    19,
+    10,
+    7,
+    5.5,
+    5,
+    5.4,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.232,
+    0.351,
+    0.431,
+    0.463,
+    0.437,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 5,
+  "score": 5.4159999999999995,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 941
+}

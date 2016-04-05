@@ -1,1 +1,30 @@
-{"title":"Stickwitu","instanceSlug":2428,"tags":[],"parents":[],"genre":"pop","debut":2005,"playlists":[],"ranks":[],"artists":[{"slug":"pussycat-dolls","title":"Pussycat Dolls","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3095}
+{
+  "title": "Stickwitu",
+  "instanceSlug": 2428,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2005,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "pussycat-dolls",
+      "title": "Pussycat Dolls",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3091
+}

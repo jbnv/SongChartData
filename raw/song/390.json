@@ -1,1 +1,34 @@
-{"title":"Save the Best for Last","instanceSlug":390,"tags":["best","last","save"],"parents":[],"genre":true,"debut":1992,"playlists":[],"ranks":[13.5,8.4,5.4,2.8,2.2,2.5],"artists":{"vanessa-williams":true}}
+{
+  "title": "Save the Best for Last",
+  "instanceSlug": 390,
+  "tags": [
+    "best",
+    "last",
+    "save"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1992,
+  "playlists": [
+  ],
+  "ranks": [
+    13.5,
+    8.4,
+    5.4,
+    2.8,
+    2.2,
+    2.5
+  ],
+  "artists": {
+    "vanessa-williams": true
+  },
+  "scores": [
+    0.132,
+    0.29,
+    0.437,
+    0.656,
+    0.737,
+    0.694
+  ]
+}

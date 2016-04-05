@@ -1,1 +1,21 @@
-{"title":"Don't Ask Me Why","instanceSlug":2392,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1980-09","playlists":[],"ranks":[],"artists":{"billy-joel":true}}
+{
+  "title": "Don't Ask Me Why",
+  "instanceSlug": 2392,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "billy-joel": true
+  },
+  "scores": [
+  ]
+}

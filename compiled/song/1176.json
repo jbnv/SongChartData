@@ -1,1 +1,72 @@
-{"title":"Please Forgive Me","instanceSlug":1176,"tags":["forgive","me","please"],"parents":[],"genre":"pop","debut":"1993-11","playlists":[],"ranks":[17,13,8,6,5,4.7,4.9,5.2,5.5,5.9,6.6,7.3,8.7,10.8,13.6,17.1,21.3,26.2,31.8,38.1,45.1,52.8,61.2,70.3],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"debutRank":17,"peakRank":4.7,"duration":6,"score":14.99,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":607}
+{
+  "title": "Please Forgive Me",
+  "instanceSlug": 1176,
+  "tags": [
+    "forgive",
+    "me",
+    "please"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    13,
+    8,
+    6,
+    5,
+    4.7,
+    4.9,
+    5.2,
+    5.5,
+    5.9,
+    6.6
+  ],
+  "artists": [
+    {
+      "slug": "bryan-adams",
+      "title": "Bryan Adams",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.145,
+    0.306,
+    0.402,
+    0.463,
+    0.484,
+    0.47,
+    0.45,
+    0.431,
+    0.408,
+    0.37,
+    0.365,
+    0.355,
+    0.34,
+    0.32,
+    0.295,
+    0.265,
+    0.23,
+    0.19,
+    0.145,
+    0.095,
+    0.04,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.75,
+  "score": 6.6240000000000006,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 788
+}

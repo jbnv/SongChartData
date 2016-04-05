@@ -1,1 +1,30 @@
-{"title":"Lucky","instanceSlug":2952,"tags":[],"parents":[],"genre":"pop","debut":"2000-09","playlists":[],"ranks":[],"artists":[{"slug":"brittni-spears","title":"Britney Spears","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2152}
+{
+  "title": "Lucky",
+  "instanceSlug": 2952,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "brittni-spears",
+      "title": "Britney Spears",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2152
+}

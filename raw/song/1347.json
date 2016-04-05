@@ -4,12 +4,28 @@
   "debut": "1989",
   "tags": [
     "life",
-    "prison","drugs"
+    "prison",
+    "drugs"
   ],
-  "genres": ["metal"],
-  "playlists": [],
-  "ranks": [25,18,15,13,15],
+  "genres": [
+    "metal"
+  ],
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    18,
+    15,
+    13,
+    15
+  ],
   "artists": {
     "skid-row": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.097,
+    0.145,
+    0.097
+  ]
 }

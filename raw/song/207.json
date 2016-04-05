@@ -1,9 +1,11 @@
 {
   "title": "Come Back to Me",
   "instanceSlug": 207,
-  "tags": [],
+  "tags": [
+  ],
   "playlists": [
-    "ballad","summer"
+    "ballad",
+    "summer"
   ],
   "genre": "pop",
   "debut": "1990-07",
@@ -16,5 +18,12 @@
   ],
   "artists": {
     "janet-jackson": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.668,
+    0.708,
+    0.694,
+    0.662
+  ]
 }

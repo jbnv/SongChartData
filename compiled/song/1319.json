@@ -1,1 +1,64 @@
-{"title":"A Little Less Conversation, A Lot More Action","instanceSlug":1319,"tags":[],"parents":[],"genre":"pop","debut":"1970s","playlists":[],"ranks":[15,6.6,3.3,2.2,2.13,2.42,2.71,3.29,4.16,5.32,6.77,8.51,10.54,12.86,15.47,18.37,21.56,25.04,28.81,32.87,37.22,41.86,46.79,52.01],"artists":[{"slug":"elvis-presley","title":"Elvis Presley","roleSlug":true}],"debutRank":15,"peakRank":2.13,"duration":6,"score":19.89,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":329}
+{
+  "title": "A Little Less Conversation, A Lot More Action",
+  "instanceSlug": 1319,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1970s",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6.6,
+    3.3,
+    2.2,
+    2.13,
+    2.42
+  ],
+  "artists": [
+    {
+      "slug": "elvis-presley",
+      "title": "Elvis Presley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.37,
+    0.602,
+    0.737,
+    0.747,
+    0.705,
+    0.7,
+    0.69,
+    0.675,
+    0.655,
+    0.63,
+    0.6,
+    0.565,
+    0.525,
+    0.48,
+    0.43,
+    0.375,
+    0.315,
+    0.25,
+    0.18,
+    0.105,
+    0.025,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 10.458,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 312
+}

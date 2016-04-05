@@ -1,1 +1,20 @@
-{"title":"You Learn","instanceSlug":398,"tags":[],"parents":[],"genre":true,"debut":"1996-08","playlists":["summer"],"ranks":[],"artists":{"alanis-morrisette":true}}
+{
+  "title": "You Learn",
+  "instanceSlug": 398,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1996-08",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "alanis-morrisette": true
+  },
+  "scores": [
+  ]
+}

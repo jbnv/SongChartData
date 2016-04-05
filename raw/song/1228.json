@@ -1,13 +1,30 @@
 {
   "title": "Never Can Say Goodbye",
   "instanceSlug": 1228,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": 1971,
-  "playlists": [],
-  "ranks": [17,10,6,4,4.1,4.5],
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    6,
+    4,
+    4.1,
+    4.5
+  ],
   "artists": {
     "jacksons": true,
     "michael-jackson": "lead"
-  }
+  },
+  "scores": [
+    0.055,
+    0.232,
+    0.402,
+    0.537,
+    0.529,
+    0.498
+  ]
 }

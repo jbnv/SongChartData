@@ -1,1 +1,32 @@
-{"title":"Far Behind","instanceSlug":1269,"tags":["behind","far"],"parents":[],"genre":"alternative-rock","debut":"1994-10","playlists":[],"ranks":[],"artists":[{"slug":"candlebox","title":"Candlebox","roleSlug":true}],"genres":[{"slug":"alternative-rock","title":"Alternative Rock"}],"source":null,"rank":1658}
+{
+  "title": "Far Behind",
+  "instanceSlug": 1269,
+  "tags": [
+    "behind",
+    "far"
+  ],
+  "parents": [
+  ],
+  "genre": "alternative-rock",
+  "debut": "1994-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "candlebox",
+      "title": "Candlebox",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "alternative-rock",
+      "title": "Alternative Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2329
+}

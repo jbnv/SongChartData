@@ -1,12 +1,28 @@
 {
   "title": "Hardware Store",
   "instanceSlug": 809,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
-  "playlists": [],
-  "ranks": [15.9,9.2,5.3,4.6,5.2],
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.2,
+    5.3,
+    4.6,
+    5.2
+  ],
   "artists": {
     "weird-al-yankovic": true
-  }
+  },
+  "scores": [
+    0.077,
+    0.26,
+    0.444,
+    0.491,
+    0.45
+  ]
 }

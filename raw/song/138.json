@@ -1,8 +1,12 @@
 {
   "title": "Monkey",
   "instanceSlug": 138,
-  "tags": [],
-  "playlists": ["summer","animals"],
+  "tags": [
+  ],
+  "playlists": [
+    "summer",
+    "animals"
+  ],
   "genre": "pop",
   "debut": "1988-06",
   "ranks": [
@@ -18,5 +22,15 @@
   "artists": {
     "george-michael": true
   },
-  "note":"6 weeks at #1."
+  "note": "6 weeks at #1.",
+  "scores": [
+    0.134,
+    0.592,
+    1,
+    0.953,
+    0.907,
+    0.867,
+    0.827,
+    0.777
+  ]
 }

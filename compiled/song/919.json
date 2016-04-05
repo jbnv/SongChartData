@@ -1,1 +1,51 @@
-{"title":"I've Done Everything For You","instanceSlug":919,"tags":[],"parents":[],"genre":"rock","debut":"1981-09","playlists":[],"ranks":[17,10.1,9.3,12,14.7,20.1,28.2,39,52.5,68.7,87.6,109.2],"artists":[{"slug":"rick-springfield","title":"Rick Springfield","roleSlug":true}],"debutRank":17,"peakRank":9.3,"duration":3,"score":2.45,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1483}
+{
+  "title": "I've Done Everything For You",
+  "instanceSlug": 919,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    9.3,
+    12
+  ],
+  "artists": [
+    {
+      "slug": "rick-springfield",
+      "title": "Rick Springfield",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.229,
+    0.256,
+    0.171,
+    0.166,
+    0.156,
+    0.141,
+    0.121,
+    0.096,
+    0.066,
+    0.031,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3,
+  "score": 1.4880000000000002,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1466
+}

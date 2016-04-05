@@ -1,1 +1,19 @@
-{"title":"Another Day","instanceSlug":2225,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"paul-mccartney":true}}
+{
+  "title": "Another Day",
+  "instanceSlug": 2225,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "paul-mccartney": true
+  },
+  "scores": [
+  ]
+}

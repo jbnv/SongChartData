@@ -1,1 +1,62 @@
-{"title":"Got To Be There","instanceSlug":1232,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[15,6,2,2.1,2.5,2.9,3.7,4.9,6.5,8.5,10.9,13.7,16.9,20.5,24.5,28.9,33.7,38.9,44.5,50.5],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":5,"score":16.34,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":510}
+{
+  "title": "Got To Be There",
+  "instanceSlug": 1232,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6,
+    2,
+    2.1,
+    2.5
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.402,
+    0.768,
+    0.752,
+    0.694,
+    0.689,
+    0.679,
+    0.664,
+    0.644,
+    0.619,
+    0.589,
+    0.554,
+    0.514,
+    0.469,
+    0.419,
+    0.364,
+    0.304,
+    0.239,
+    0.169,
+    0.094,
+    0.014,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 9.737000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 404
+}

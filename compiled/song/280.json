@@ -1,1 +1,53 @@
-{"title":"A Matter of Trust","instanceSlug":280,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[],"ranks":[17.9,10.6,7.4,9.4,11.4,15.4,21.4,29.4,39.4,51.4,65.4,81.4],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":17.9,"peakRank":7.4,"duration":3,"score":3.34,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1433}
+{
+  "title": "A Matter of Trust",
+  "instanceSlug": 280,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.4,
+    9.4
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.332,
+    0.253,
+    0.248,
+    0.238,
+    0.223,
+    0.203,
+    0.178,
+    0.148,
+    0.113,
+    0.073,
+    0.028,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.5,
+  "score": 2.2880000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1393
+}

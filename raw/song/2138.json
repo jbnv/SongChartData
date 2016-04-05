@@ -1,1 +1,22 @@
-{"title":"You Are the Sunshine of My Life","instanceSlug":2138,"tags":["#1"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":{"stevie-wonder":true,"jim-gilstrap":"backup","gloria-barley":"backup"}}
+{
+  "title": "You Are the Sunshine of My Life",
+  "instanceSlug": 2138,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "stevie-wonder": true,
+    "jim-gilstrap": "backup",
+    "gloria-barley": "backup"
+  },
+  "scores": [
+  ]
+}

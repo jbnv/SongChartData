@@ -1,1 +1,19 @@
-{"title":"Basket Case","instanceSlug":1281,"tags":[],"parents":[],"genre":"grunge","debut":"1994-09","playlists":[],"ranks":[],"artists":{"green-day":true}}
+{
+  "title": "Basket Case",
+  "instanceSlug": 1281,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "grunge",
+  "debut": "1994-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "green-day": true
+  },
+  "scores": [
+  ]
+}

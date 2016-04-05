@@ -1,1 +1,17 @@
-{"title":"Live & Let Die","instanceSlug":2228,"tags":[],"parents":[],"genre":"rock","debut":1973,"source":"live-and-let-die","playlists":[],"ranks":true,"artists":{"wings":true}}
+{
+  "title": "Live & Let Die",
+  "instanceSlug": 2228,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1973,
+  "source": "live-and-let-die",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "wings": true
+  }
+}

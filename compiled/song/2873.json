@@ -1,1 +1,30 @@
-{"title":"Me & Julio Down by the Schoolyard","instanceSlug":2873,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"paul-simon","title":"Paul Simon","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2064}
+{
+  "title": "Me & Julio Down by the Schoolyard",
+  "instanceSlug": 2873,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "paul-simon",
+      "title": "Paul Simon",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2064
+}

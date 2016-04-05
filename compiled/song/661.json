@@ -1,1 +1,57 @@
-{"title":"New World Man","instanceSlug":661,"tags":["man","new","world"],"parents":[],"genre":"rock","debut":"1982-09","playlists":[],"ranks":[18,14.3,11.4,8.92,9.7,14.5,19.3,28.9,43.3,62.5,86.5,115.3],"artists":[{"slug":"rush","title":"Rush","roleSlug":true}],"debutRank":18,"peakRank":8.92,"duration":3,"score":2.92,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1470}
+{
+  "title": "New World Man",
+  "instanceSlug": 661,
+  "tags": [
+    "man",
+    "new",
+    "world"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    14.3,
+    11.4,
+    8.92,
+    9.7,
+    14.5
+  ],
+  "artists": [
+    {
+      "slug": "rush",
+      "title": "Rush",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.113,
+    0.188,
+    0.27,
+    0.242,
+    0.108,
+    0.103,
+    0.093,
+    0.078,
+    0.058,
+    0.033,
+    0.003,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 3.25,
+  "score": 1.325,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1485
+}

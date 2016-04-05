@@ -1,1 +1,70 @@
-{"title":"Nobody's Fool","instanceSlug":557,"tags":[],"parents":[],"genre":"pop","debut":"1988-08","source":{"title":"Caddyshack 2","instanceSlug":"caddyshack-2","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17.2,4.5,3.2,3.52,3.84,4.48,5.44,6.72,8.32,10.24,12.48,15.04,17.92,21.12,24.64,28.48,32.64,37.12,41.92,47.04,52.48,58.24,64.32,70.72],"artists":[{"slug":"kenny-loggins","title":"Kenny Loggins","roleSlug":true}],"debutRank":17.2,"peakRank":3.2,"duration":6,"score":13.22,"genres":[{"slug":"pop","title":"Pop"}],"rank":722}
+{
+  "title": "Nobody's Fool",
+  "instanceSlug": 557,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-08",
+  "source": {
+    "title": "Caddyshack 2",
+    "instanceSlug": "caddyshack-2",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    17.2,
+    4.5,
+    3.2,
+    3.52
+  ],
+  "artists": [
+    {
+      "slug": "kenny-loggins",
+      "title": "Kenny Loggins",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.051,
+    0.498,
+    0.612,
+    0.58,
+    0.575,
+    0.565,
+    0.55,
+    0.53,
+    0.505,
+    0.475,
+    0.44,
+    0.4,
+    0.355,
+    0.305,
+    0.25,
+    0.19,
+    0.125,
+    0.055,
+    0
+  ],
+  "debutScore": 0.051,
+  "peakScore": 0.051,
+  "duration": 4.75,
+  "score": 7.061000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 727
+}

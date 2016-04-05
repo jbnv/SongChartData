@@ -1,8 +1,12 @@
 {
   "title": "Good Stuff",
   "instanceSlug": 1064,
-  "tags": ["#1","#1-modern-rock"],
-  "parents": [],
+  "tags": [
+    "#1",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1992-07",
   "playlists": [
@@ -24,6 +28,20 @@
   ],
   "artists": {
     "b-52s": true,
-    "kate-pierson":"lead"
-  }
+    "kate-pierson": "lead"
+  },
+  "scores": [
+    0.055,
+    0.306,
+    0.498,
+    0.645,
+    0.694,
+    0.694,
+    0.668,
+    0.633,
+    0.582,
+    0.537,
+    0.498,
+    0.444
+  ]
 }

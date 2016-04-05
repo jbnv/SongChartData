@@ -1,1 +1,80 @@
-{"title":"Hold On My Heart","instanceSlug":1091,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1992-05","playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"ballad","title":"Ballads"}],"ranks":[13,5,2.9,2.2,1.9,2,2.2,2.4,2.8,3.4,4,5.2,7,9.4,12.4,16,20.2,25,30.4,36.4,43,50.2,58,66.4],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"debutRank":13,"peakRank":1.9,"duration":6,"score":24.21,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":161}
+{
+  "title": "Hold On My Heart",
+  "instanceSlug": 1091,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    },
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    13,
+    5,
+    2.9,
+    2.2,
+    1.9,
+    2,
+    2.2,
+    2.4,
+    2.8,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "genesis",
+      "title": "Genesis",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.463,
+    0.645,
+    0.737,
+    0.786,
+    0.768,
+    0.737,
+    0.708,
+    0.656,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 6.25,
+  "score": 11.725000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 217
+}

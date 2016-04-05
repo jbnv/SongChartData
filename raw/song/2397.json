@@ -1,1 +1,19 @@
-{"title":"And So It Goes","instanceSlug":2397,"tags":[],"parents":[],"genre":"pop","debut":"1990-12","playlists":[],"ranks":[],"artists":{"billy-joel":true}}
+{
+  "title": "And So It Goes",
+  "instanceSlug": 2397,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "billy-joel": true
+  },
+  "scores": [
+  ]
+}

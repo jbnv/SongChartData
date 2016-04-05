@@ -1,1 +1,52 @@
-{"title":"The One That You Love","instanceSlug":2095,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1981-06","playlists":[],"ranks":[18,7,8,9,11,14,18,23,29,36,44,53],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"debutRank":18,"peakRank":7,"duration":3,"score":3.96,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1400}
+{
+  "title": "The One That You Love",
+  "instanceSlug": 2095,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1981-06",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    7,
+    8
+  ],
+  "artists": [
+    {
+      "slug": "air-supply",
+      "title": "Air Supply",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.351,
+    0.306,
+    0.301,
+    0.291,
+    0.276,
+    0.256,
+    0.231,
+    0.201,
+    0.166,
+    0.126,
+    0.081,
+    0.031,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 3.5,
+  "score": 2.653,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1350
+}

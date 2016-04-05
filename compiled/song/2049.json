@@ -1,1 +1,30 @@
-{"title":"#9 Dream","instanceSlug":2049,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"john-lennon","title":"John Lennon","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2542}
+{
+  "title": "#9 Dream",
+  "instanceSlug": 2049,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "john-lennon",
+      "title": "John Lennon",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2475
+}

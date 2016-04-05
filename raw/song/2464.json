@@ -1,1 +1,22 @@
-{"title":"New Kid in Town","instanceSlug":2464,"tags":["#1","#1-hot-100"],"parents":[],"genre":"soft-rock","debut":1977,"playlists":[],"ranks":[],"artists":{"eagles":true,"glenn-frey":"lead"}}
+{
+  "title": "New Kid in Town",
+  "instanceSlug": 2464,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eagles": true,
+    "glenn-frey": "lead"
+  },
+  "scores": [
+  ]
+}

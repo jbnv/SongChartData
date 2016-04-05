@@ -1,1 +1,19 @@
-{"title":"Fire Lake","instanceSlug":2605,"tags":[],"parents":[],"genre":"rock","debut":"1980-03","playlists":[],"ranks":[],"artists":{"bob-seger":true}}
+{
+  "title": "Fire Lake",
+  "instanceSlug": 2605,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bob-seger": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,70 @@
-{"title":"In the Still of the Night","instanceSlug":1191,"tags":["night","remake","still"],"parents":[],"genre":"soul","debut":"1992-12","playlists":[],"ranks":[15,9,6,4.5,3.5,3,2.75,3.2,3.65,4.55,5.9,7.7,9.95,12.65,15.8,19.4,23.45,27.95,32.9,38.3,44.15,50.45,57.2,64.4],"artists":[{"slug":"boyz-ii-men","title":"Boyz II Men","roleSlug":true}],"debutRank":15,"peakRank":2.75,"duration":6,"score":18.09,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":417}
+{
+  "title": "In the Still of the Night",
+  "instanceSlug": 1191,
+  "tags": [
+    "night",
+    "remake",
+    "still"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1992-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3.5,
+    3,
+    2.75,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "boyz-ii-men",
+      "title": "Boyz II Men",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.582,
+    0.633,
+    0.662,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6,
+  "score": 9.533000000000001,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 425
+}

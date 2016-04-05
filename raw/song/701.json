@@ -1,11 +1,17 @@
 {
   "title": "Hard Habit to Break",
   "instanceSlug": 701,
-  "tags": [],
-  "parents": [],
-  "genres":[ "jazz-rock","pop"],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "jazz-rock",
+    "pop"
+  ],
   "debut": "1984-09",
-  "playlists": [],
+  "playlists": [
+  ],
   "source": "chicago17",
   "ranks": [
     20,
@@ -19,5 +25,14 @@
   "artists": {
     "chicago": true,
     "david-foster": "producer"
-  }
+  },
+  "scores": [
+    0.001,
+    0.097,
+    0.232,
+    0.2,
+    0.171,
+    0.145,
+    0.097
+  ]
 }

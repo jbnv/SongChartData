@@ -1,1 +1,34 @@
-{"title":"Drift Away","instanceSlug":1385,"tags":["away","drift","drift-away","remake"],"parents":[],"genre":"pop","debut":"2000s","playlists":[],"ranks":[],"artists":[{"slug":"uncle-kracker","title":"Uncle Kracker","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2578}
+{
+  "title": "Drift Away",
+  "instanceSlug": 1385,
+  "tags": [
+    "away",
+    "drift",
+    "drift-away",
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "uncle-kracker",
+      "title": "Uncle Kracker",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1638
+}

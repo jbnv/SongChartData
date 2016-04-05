@@ -1,1 +1,29 @@
-{"title":"Boogie Oogie Oogie","instanceSlug":536,"tags":[],"parents":[],"genre":true,"debut":"1978-08","playlists":[],"ranks":[20,11.3,6.4,4.3,7.8],"artists":{"a-taste-of-honey":true}}
+{
+  "title": "Boogie Oogie Oogie",
+  "instanceSlug": 536,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1978-08",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    11.3,
+    6.4,
+    4.3,
+    7.8
+  ],
+  "artists": {
+    "a-taste-of-honey": true
+  },
+  "scores": [
+    0.001,
+    0.191,
+    0.381,
+    0.513,
+    0.315
+  ]
+}

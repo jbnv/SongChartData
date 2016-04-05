@@ -1,1 +1,66 @@
-{"title":"The Locomotion","instanceSlug":543,"tags":["remake"],"parents":[],"genre":"dance-pop","debut":"1988-10","playlists":[],"ranks":[17.3,11.2,8.8,5.8,4.45,4.3,4.67,5.1,5.53,6.39,7.68,9.4,11.55,14.13,17.14,20.58,24.45,28.75,33.48,38.64,44.23,50.25,56.7,63.58],"artists":[{"slug":"kylie-minogue","title":"Kylie Minogue","roleSlug":true}],"debutRank":17.3,"peakRank":4.3,"duration":6,"score":13.9,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":678}
+{
+  "title": "The Locomotion",
+  "instanceSlug": 543,
+  "tags": [
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1988-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.3,
+    11.2,
+    8.8,
+    5.8,
+    4.45,
+    4.3,
+    4.67,
+    5.1
+  ],
+  "artists": [
+    {
+      "slug": "kylie-minogue",
+      "title": "Kylie Minogue",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.049,
+    0.194,
+    0.275,
+    0.414,
+    0.502,
+    0.513,
+    0.486,
+    0.456,
+    0.451,
+    0.441,
+    0.426,
+    0.406,
+    0.381,
+    0.351,
+    0.316,
+    0.276,
+    0.231,
+    0.181,
+    0.126,
+    0.066,
+    0.001,
+    0
+  ],
+  "debutScore": 0.049,
+  "peakScore": 0.049,
+  "duration": 5.5,
+  "score": 6.542,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 801
+}

@@ -1,1 +1,33 @@
-{"title":"Lean On Me","instanceSlug":2019,"tags":[],"parents":[],"genre":"hip-hop","debut":"1987-03","playlists":[],"ranks":[14,5,2.9,2.1,2.3,2.59,3],"artists":{"club-nouveau":true}}
+{
+  "title": "Lean On Me",
+  "instanceSlug": 2019,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hip-hop",
+  "debut": "1987-03",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    5,
+    2.9,
+    2.1,
+    2.3,
+    2.59,
+    3
+  ],
+  "artists": {
+    "club-nouveau": true
+  },
+  "scores": [
+    0.12,
+    0.463,
+    0.645,
+    0.752,
+    0.722,
+    0.682,
+    0.633
+  ]
+}

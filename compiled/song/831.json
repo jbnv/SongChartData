@@ -1,1 +1,62 @@
-{"title":"Let's Work","instanceSlug":831,"tags":["let's","work"],"parents":[],"genre":"rock","debut":"1987-11","playlists":[],"ranks":[15.9,9,5,3,3.35,3.7,4.4,5.45,6.85,8.6,10.7,13.15,15.95,19.1,22.6,26.45,30.65,35.2,40.1,45.35,50.95,56.9,63.2,69.85],"artists":[{"slug":"mick-jagger","title":"Mick Jagger","roleSlug":true}],"debutRank":15.9,"peakRank":3,"duration":6,"score":13.89,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":680}
+{
+  "title": "Let's Work",
+  "instanceSlug": 831,
+  "tags": [
+    "let's",
+    "work"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    3.35
+  ],
+  "artists": [
+    {
+      "slug": "mick-jagger",
+      "title": "Mick Jagger",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.597,
+    0.592,
+    0.582,
+    0.567,
+    0.547,
+    0.522,
+    0.492,
+    0.457,
+    0.417,
+    0.372,
+    0.322,
+    0.267,
+    0.207,
+    0.142,
+    0.072,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 5,
+  "score": 7.595,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 658
+}

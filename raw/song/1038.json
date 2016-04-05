@@ -1,1 +1,36 @@
-{"title":"Freedom Overspill","instanceSlug":1038,"tags":["freedom"],"parents":[],"genre":"pop","debut":"1986-11","playlists":[],"ranks":[13.5,8.3,6.5,5.9,5.4,5.5,5.9,7.2],"artists":{"steve-winwood":true}}
+{
+  "title": "Freedom Overspill",
+  "instanceSlug": 1038,
+  "tags": [
+    "freedom"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+    13.5,
+    8.3,
+    6.5,
+    5.9,
+    5.4,
+    5.5,
+    5.9,
+    7.2
+  ],
+  "artists": {
+    "steve-winwood": true
+  },
+  "scores": [
+    0.132,
+    0.294,
+    0.376,
+    0.408,
+    0.437,
+    0.431,
+    0.408,
+    0.341
+  ]
+}

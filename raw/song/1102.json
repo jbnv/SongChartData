@@ -1,1 +1,19 @@
-{"title":"Dark Horse","instanceSlug":1102,"tags":[],"parents":[],"genre":"pop","debut":2014,"playlists":[],"ranks":[],"artists":{"katy-perry":true}}
+{
+  "title": "Dark Horse",
+  "instanceSlug": 1102,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2014,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "katy-perry": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,25 @@
-{"title":"32 Flavors","instanceSlug":"32-flavors","tags":[],"parents":[],"debut":"1998-02","playlists":[],"ranks":[],"artists":[{"slug":"alana-davis","title":"Alana Davis","roleSlug":true}],"genres":[],"source":null,"rank":2305}
+{
+  "title": "32 Flavors",
+  "instanceSlug": "32-flavors",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": "1998-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "alana-davis",
+      "title": "Alana Davis",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 2305
+}

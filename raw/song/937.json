@@ -1,1 +1,28 @@
-{"title":"Money for Nothing","instanceSlug":937,"tags":[],"parents":[],"genre":"rock","debut":"1985-09","playlists":["for"],"ranks":[18.9,11.3,10.5,13.9],"artists":{"dire-straits":true}}
+{
+  "title": "Money for Nothing",
+  "instanceSlug": 937,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-09",
+  "playlists": [
+    "for"
+  ],
+  "ranks": [
+    18.9,
+    11.3,
+    10.5,
+    13.9
+  ],
+  "artists": {
+    "dire-straits": true
+  },
+  "scores": [
+    0.02,
+    0.191,
+    0.216,
+    0.122
+  ]
+}

@@ -1,1 +1,71 @@
-{"title":"Hold My Hand","instanceSlug":1273,"tags":[],"parents":[],"genre":"rock","debut":"1994-12","playlists":[],"ranks":[14.5,3.9,2.3,1.9,1.75,1.89,2.42,2.95,4.01,5.6,7.72,10.37,13.55,17.26,21.5,26.27,31.57,37.4,43.76,50.65],"artists":[{"slug":"hootie-the-blowfish","title":"Hootie & the Blowfish","roleSlug":true},{"slug":"david-crosby","title":"David Crosby","roleSlug":"backup"}],"debutRank":14.5,"peakRank":1.75,"duration":5,"score":20.38,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":306}
+{
+  "title": "Hold My Hand",
+  "instanceSlug": 1273,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1994-12",
+  "playlists": [
+  ],
+  "ranks": [
+    14.5,
+    3.9,
+    2.3,
+    1.9,
+    1.75,
+    1.89,
+    2.42
+  ],
+  "artists": [
+    {
+      "slug": "hootie-the-blowfish",
+      "title": "Hootie & the Blowfish",
+      "roleSlug": true
+    },
+    {
+      "slug": "david-crosby",
+      "title": "David Crosby",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.108,
+    0.546,
+    0.722,
+    0.786,
+    0.813,
+    0.787,
+    0.705,
+    0.7,
+    0.69,
+    0.675,
+    0.655,
+    0.63,
+    0.6,
+    0.565,
+    0.525,
+    0.48,
+    0.43,
+    0.375,
+    0.315,
+    0.25,
+    0.18,
+    0.105,
+    0.025,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 6,
+  "score": 11.667,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 223
+}

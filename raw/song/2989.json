@@ -1,1 +1,22 @@
-{"title":"I Write the Songs","instanceSlug":2989,"tags":["#1","#1-adult-contemporary","#1-hit-100"],"parents":[],"genre":"adult-contemporary","debut":1976,"playlists":[],"ranks":[],"artists":{"barry-manilow":true}}
+{
+  "title": "I Write the Songs",
+  "instanceSlug": 2989,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hit-100"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "barry-manilow": true
+  },
+  "scores": [
+  ]
+}

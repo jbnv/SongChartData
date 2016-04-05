@@ -1,1 +1,68 @@
-{"title":"Giving You the Benefit","instanceSlug":186,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1990-09","ranks":[10,2.8,1.9,1.7,1.65,1.81,2.2,2.59,3.37,4.54,6.1,8.05,10.39,13.12,16.24,19.75,23.65,27.94,32.62,37.69,43.15,49,55.24,61.87],"artists":[{"slug":"pebbles","title":"Pebbles","roleSlug":true}],"debutRank":10,"peakRank":1.65,"duration":6,"score":23.35,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":183}
+{
+  "title": "Giving You the Benefit",
+  "instanceSlug": 186,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-09",
+  "ranks": [
+    10,
+    2.8,
+    1.9,
+    1.7,
+    1.65,
+    1.81,
+    2.2
+  ],
+  "artists": [
+    {
+      "slug": "pebbles",
+      "title": "Pebbles",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.656,
+    0.786,
+    0.823,
+    0.833,
+    0.802,
+    0.737,
+    0.732,
+    0.722,
+    0.707,
+    0.687,
+    0.662,
+    0.632,
+    0.597,
+    0.557,
+    0.512,
+    0.462,
+    0.407,
+    0.347,
+    0.282,
+    0.212,
+    0.137,
+    0.057,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 6,
+  "score": 12.581000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 161
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Seal Our Fate",
+  "instanceSlug": "seal-our-fate",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "gloria-estefan",
+      "title": "Gloria Estefan",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3105
+}

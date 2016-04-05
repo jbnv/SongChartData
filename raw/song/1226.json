@@ -1,2 +1,33 @@
-{"title":"State of Shock","instanceSlug":1226,"tags":[],"genre":"pop","debut":"1984-07","playlists":[],"ranks":[15,9,4.9,3.6,3.5,3.86,4.4],"artists":{"jacksons":true,
-"michael-jackson": "lead","mick-jagger":"backup"}}
+{
+  "title": "State of Shock",
+  "instanceSlug": 1226,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    4.9,
+    3.6,
+    3.5,
+    3.86,
+    4.4
+  ],
+  "artists": {
+    "jacksons": true,
+    "michael-jackson": "lead",
+    "mick-jagger": "backup"
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.47,
+    0.573,
+    0.582,
+    0.549,
+    0.506
+  ]
+}

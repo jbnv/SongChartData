@@ -1,1 +1,67 @@
-{"title":"Hourglass","instanceSlug":493,"tags":["glass","hour","time"],"parents":[],"genre":"rock","debut":"1987-10","playlists":[],"ranks":[13,5,1.05,1.13,1.21,1.37,1.61,1.93,2.33,2.81,3.37,4.01,4.73,5.53,6.41,7.37,8.41,9.53,10.73,12.01,13.37,14.81,16.33,17.93,19.61,21.37,23.21,25.13,27.13,29.21,31.37,33.61,35.93,38.33,40.81,43.37,46.01,48.73,51.53,54.41],"artists":[{"slug":"squeeze","title":"Squeeze","roleSlug":true}],"note":"Project 8 weeks at #1.","debutRank":13,"peakRank":1.05,"duration":10,"score":34.23,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":19}
+{
+  "title": "Hourglass",
+  "instanceSlug": 493,
+  "tags": [
+    "glass",
+    "hour",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5,
+    1.05,
+    1.13
+  ],
+  "artists": [
+    {
+      "slug": "squeeze",
+      "title": "Squeeze",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 8 weeks at #1.",
+  "scores": [
+    0.145,
+    0.463,
+    0.983,
+    0.959,
+    0.954,
+    0.944,
+    0.929,
+    0.909,
+    0.884,
+    0.854,
+    0.819,
+    0.779,
+    0.734,
+    0.684,
+    0.629,
+    0.569,
+    0.504,
+    0.434,
+    0.359,
+    0.279,
+    0.194,
+    0.104,
+    0.009,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 6,
+  "score": 14.120999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 66
+}

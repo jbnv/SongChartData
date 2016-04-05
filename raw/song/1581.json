@@ -1,1 +1,39 @@
-{"title":"Put a Little Love in Your Heart","instanceSlug":1581,"tags":["heart","little","","love","put","your"],"parents":[],"genre":"pop","debut":"1988-12","source":"scrooged","playlists":[],"ranks":[12,4,1.7,1.84,1.98,2.32],"artists":{"annie-lennox":true,"al-green":true}}
+{
+  "title": "Put a Little Love in Your Heart",
+  "instanceSlug": 1581,
+  "tags": [
+    "heart",
+    "little",
+    "",
+    "love",
+    "put",
+    "your"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-12",
+  "source": "scrooged",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4,
+    1.7,
+    1.84,
+    1.98,
+    2.32
+  ],
+  "artists": {
+    "annie-lennox": true,
+    "al-green": true
+  },
+  "scores": [
+    0.171,
+    0.537,
+    0.823,
+    0.796,
+    0.772,
+    0.719
+  ]
+}

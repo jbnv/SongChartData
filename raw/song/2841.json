@@ -1,13 +1,20 @@
 {
   "title": "Do They Know It's Christmas",
   "instanceSlug": 2841,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1984-12",
-  "playlists": ["xmas"],
-  "ranks": [],
+  "playlists": [
+    "xmas"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "band-aid": true
-  }
+  },
+  "scores": [
+  ]
 }

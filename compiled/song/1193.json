@@ -1,1 +1,60 @@
-{"title":"Hopelessly","instanceSlug":1193,"tags":[],"genre":"pop","debut":"1993-10","playlists":[],"ranks":[21,15,11,7.5,6,6.1,6.5,7.2,9,10.8,14.4,19.8,27,36,46.8,59.4],"artists":[{"slug":"rick-astley","title":"Rick Astley","roleSlug":true}],"debutRank":21,"peakRank":6,"duration":4,"score":8.2,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1097}
+{
+  "title": "Hopelessly",
+  "instanceSlug": 1193,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1993-10",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    15,
+    11,
+    7.5,
+    6,
+    6.1,
+    6.5,
+    7.2,
+    9
+  ],
+  "artists": [
+    {
+      "slug": "rick-astley",
+      "title": "Rick Astley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.2,
+    0.328,
+    0.402,
+    0.397,
+    0.376,
+    0.341,
+    0.267,
+    0.262,
+    0.252,
+    0.237,
+    0.217,
+    0.192,
+    0.162,
+    0.127,
+    0.087,
+    0.042,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 4.5,
+  "score": 3.986000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1163
+}

@@ -1,1 +1,30 @@
-{"title":"You Gotta Be","instanceSlug":1277,"tags":[],"parents":[],"genre":"pop","debut":"1994-10","playlists":[],"ranks":[],"artists":[{"slug":"desiree","title":"Desiree","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1636}
+{
+  "title": "You Gotta Be",
+  "instanceSlug": 1277,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "desiree",
+      "title": "Desiree",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2300
+}

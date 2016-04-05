@@ -1,1 +1,68 @@
-{"title":"Anything","instanceSlug":1838,"tags":[],"parents":[],"genre":"soul","debut":"1996-02","playlists":[],"ranks":[14,8,5,3.7,2.5,2.7,2.94,3.25,3.65,4.05,4.85,6.05,7.65,9.65,12.05,14.85,18.05,21.65,25.65,30.05,34.85,40.05,45.65,51.65],"artists":[{"slug":"3t","title":"3T","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":6,"score":20.74,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":288}
+{
+  "title": "Anything",
+  "instanceSlug": 1838,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1996-02",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8,
+    5,
+    3.7,
+    2.5,
+    2.7,
+    2.94,
+    3.25,
+    3.65
+  ],
+  "artists": [
+    {
+      "slug": "3t",
+      "title": "3T",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.306,
+    0.463,
+    0.563,
+    0.694,
+    0.668,
+    0.64,
+    0.607,
+    0.568,
+    0.563,
+    0.553,
+    0.538,
+    0.518,
+    0.493,
+    0.463,
+    0.428,
+    0.388,
+    0.343,
+    0.293,
+    0.238,
+    0.178,
+    0.113,
+    0.043,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 6,
+  "score": 9.780999999999999,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 394
+}

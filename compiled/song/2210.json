@@ -1,1 +1,30 @@
-{"title":"I Wouldn't Want to Be Like You","instanceSlug":2210,"tags":[],"parents":[],"genre":"pop","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"alan-parsons-project","title":"Alan Parsons Project","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2793}
+{
+  "title": "I Wouldn't Want to Be Like You",
+  "instanceSlug": 2210,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "alan-parsons-project",
+      "title": "Alan Parsons Project",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2760
+}

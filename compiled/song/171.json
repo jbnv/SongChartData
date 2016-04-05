@@ -1,1 +1,64 @@
-{"title":"Back to Life","instanceSlug":171,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1989-10","ranks":[15.5,8,4,3,3.25,3.7,4.15,5.05,6.4,8.2,10.45,13.15,16.3,19.9,23.95,28.45,33.4,38.8,44.65,50.95],"artists":[{"slug":"soul-ii-soul","title":"Soul II Soul","roleSlug":true}],"debutRank":15.5,"peakRank":3,"duration":5,"score":14.5,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":640}
+{
+  "title": "Back to Life",
+  "instanceSlug": 171,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1989-10",
+  "ranks": [
+    15.5,
+    8,
+    4,
+    3,
+    3.25,
+    3.7
+  ],
+  "artists": [
+    {
+      "slug": "soul-ii-soul",
+      "title": "Soul II Soul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.306,
+    0.537,
+    0.633,
+    0.607,
+    0.563,
+    0.558,
+    0.548,
+    0.533,
+    0.513,
+    0.488,
+    0.458,
+    0.423,
+    0.383,
+    0.338,
+    0.288,
+    0.233,
+    0.173,
+    0.108,
+    0.038,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 5.25,
+  "score": 7.814,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 630
+}

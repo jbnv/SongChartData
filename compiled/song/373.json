@@ -1,1 +1,58 @@
-{"title":"Every Breath You Take","instanceSlug":373,"tags":["#1","#1-hot-100","#1-mainstream-rock","stalking"],"genre":"rock","debut":"1983-06","playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"}],"ranks":[24,18,15.5,13.8,13,14.7,16.4,19.8,24.9,31.7,40.2,50.4],"artists":[{"slug":"police","title":"Police, The","roleSlug":true}],"debutRank":24,"peakRank":13,"duration":3,"score":1.71,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1526}
+{
+  "title": "Every Breath You Take",
+  "instanceSlug": 373,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-mainstream-rock",
+    "stalking"
+  ],
+  "genre": "rock",
+  "debut": "1983-06",
+  "playlists": [
+    {
+      "slug": "feb13",
+      "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+    }
+  ],
+  "ranks": [
+    24,
+    18,
+    15.5,
+    13.8,
+    13,
+    14.7
+  ],
+  "artists": [
+    {
+      "slug": "police",
+      "title": "Police, The",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.086,
+    0.125,
+    0.145,
+    0.104,
+    0.099,
+    0.089,
+    0.074,
+    0.054,
+    0.029,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 2.75,
+  "score": 0.841,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1526
+}

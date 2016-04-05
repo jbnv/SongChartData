@@ -1,1 +1,62 @@
-{"title":"Hey Mr. DJ","instanceSlug":705,"tags":[],"parents":[],"genre":"soul","debut":"1993-10","playlists":[],"ranks":[17,9.9,5.8,4.4,4.2,4.6,5.9,7.2,9.8,13.7,18.9,25.4,33.2,42.3,52.7,64.4],"artists":[{"slug":"zhane","title":"Zhane","roleSlug":true}],"debutRank":17,"peakRank":4.2,"duration":4,"score":10.09,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":952}
+{
+  "title": "Hey Mr. DJ",
+  "instanceSlug": 705,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1993-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    4.4,
+    4.2,
+    4.6,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "zhane",
+      "title": "Zhane",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.506,
+    0.521,
+    0.491,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5,
+  "score": 5.7059999999999995,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 890
+}

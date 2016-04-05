@@ -1,1 +1,35 @@
-{"title":"Sensitivity","instanceSlug":2821,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1990-12","playlists":[],"ranks":[12,2.9,2.1,1.9,1.85,1.97,2.25],"artists":{"ralph-tresvant":true}}
+{
+  "title": "Sensitivity",
+  "instanceSlug": 2821,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-12",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    2.9,
+    2.1,
+    1.9,
+    1.85,
+    1.97,
+    2.25
+  ],
+  "artists": {
+    "ralph-tresvant": true
+  },
+  "scores": [
+    0.171,
+    0.645,
+    0.752,
+    0.786,
+    0.794,
+    0.773,
+    0.729
+  ]
+}

@@ -1,1 +1,23 @@
-{"title":"The Sweetest Thing (I've Ever Known)","instanceSlug":1535,"tags":["#1","#1-adult-contemporary","#1-country","sweetest-thing"],"parents":[],"genre":"country","debut":"1981-11","playlists":[],"ranks":[],"artists":{"juice-newton":true}}
+{
+  "title": "The Sweetest Thing (I've Ever Known)",
+  "instanceSlug": 1535,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-country",
+    "sweetest-thing"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "juice-newton": true
+  },
+  "scores": [
+  ]
+}

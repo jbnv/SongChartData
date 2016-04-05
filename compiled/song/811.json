@@ -1,1 +1,63 @@
-{"title":"C'est La Vie","instanceSlug":811,"tags":[],"parents":[],"genre":"pop","debut":"1986-12","playlists":[],"ranks":[13.9,7.6,4.1,2.2,2.4,2.7,3,3.6,4.5,5.7,7.2,9,11.1,13.5,16.2,19.2,22.5,26.1,30,34.2,38.7,43.5,48.6,54],"artists":[{"slug":"robbie-nevil","title":"Robbie Nevil","roleSlug":true}],"debutRank":13.9,"peakRank":2.2,"duration":6,"score":18.73,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":389}
+{
+  "title": "C'est La Vie",
+  "instanceSlug": 811,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-12",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    7.6,
+    4.1,
+    2.2,
+    2.4,
+    2.7
+  ],
+  "artists": [
+    {
+      "slug": "robbie-nevil",
+      "title": "Robbie Nevil",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.323,
+    0.529,
+    0.737,
+    0.708,
+    0.668,
+    0.663,
+    0.653,
+    0.638,
+    0.618,
+    0.593,
+    0.563,
+    0.528,
+    0.488,
+    0.443,
+    0.393,
+    0.338,
+    0.278,
+    0.213,
+    0.143,
+    0.068,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 5.5,
+  "score": 9.706999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 407
+}

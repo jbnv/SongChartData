@@ -1,1 +1,67 @@
-{"title":"Standing Outside a Broken Phone Booth with Money in My Hand","instanceSlug":598,"tags":[],"parents":[],"genre":"pop","debut":"1996-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,8.3,4.6,3.3,2.5,3.4,4.7,6.7,8.7,12.7,18.7,26.7,36.7,48.7,62.7,78.7],"artists":[{"slug":"primitive-radio-gods","title":"Primitive Radio Gods","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":4,"score":12.23,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":802}
+{
+  "title": "Standing Outside a Broken Phone Booth with Money in My Hand",
+  "instanceSlug": 598,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-07",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    15,
+    8.3,
+    4.6,
+    3.3,
+    2.5,
+    3.4,
+    4.7,
+    6.7
+  ],
+  "artists": [
+    {
+      "slug": "primitive-radio-gods",
+      "title": "Primitive Radio Gods",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.294,
+    0.491,
+    0.602,
+    0.694,
+    0.592,
+    0.484,
+    0.365,
+    0.36,
+    0.35,
+    0.335,
+    0.315,
+    0.29,
+    0.26,
+    0.225,
+    0.185,
+    0.14,
+    0.09,
+    0.035,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5,
+  "score": 6.203999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 840
+}

@@ -1,1 +1,32 @@
-{"title":"I'll Still Be Loving You","instanceSlug":2693,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1987-06","playlists":[],"ranks":[],"artists":[{"slug":"restless-heart","title":"Restless Heart","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1864}
+{
+  "title": "I'll Still Be Loving You",
+  "instanceSlug": 2693,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1987-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "restless-heart",
+      "title": "Restless Heart",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 1864
+}

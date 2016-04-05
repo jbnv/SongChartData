@@ -1,11 +1,15 @@
 {
   "title": "She Blinded Me with Science",
   "instanceSlug": 605,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1983-04",
-  "playlists": ["unique-words"],
+  "playlists": [
+    "unique-words"
+  ],
   "ranks": [
     14.5,
     3.7,
@@ -18,5 +22,15 @@
   ],
   "artists": {
     "thomas-dolby": true
-  }
+  },
+  "scores": [
+    0.108,
+    0.563,
+    0.768,
+    0.74,
+    0.708,
+    0.668,
+    0.622,
+    0.546
+  ]
 }

@@ -1,1 +1,35 @@
-{"title":"Rich Girl","instanceSlug":2978,"tags":[],"parents":[],"genre":"pop","debut":2005,"playlists":[],"ranks":[],"artists":[{"slug":"gwen-stefani","title":"Gwen Stefani","roleSlug":true},{"slug":"eve","title":"Eve","roleSlug":"feature"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2180}
+{
+  "title": "Rich Girl",
+  "instanceSlug": 2978,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2005,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "gwen-stefani",
+      "title": "Gwen Stefani",
+      "roleSlug": true
+    },
+    {
+      "slug": "eve",
+      "title": "Eve",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2180
+}

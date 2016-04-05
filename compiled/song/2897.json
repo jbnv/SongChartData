@@ -1,1 +1,30 @@
-{"title":"I Only Wanna Be With You","instanceSlug":2897,"tags":[],"parents":[],"genre":"pop","debut":"1989-05","playlists":[],"ranks":[],"artists":[{"slug":"samantha-fox","title":"Samantha Fox","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2090}
+{
+  "title": "I Only Wanna Be With You",
+  "instanceSlug": 2897,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "samantha-fox",
+      "title": "Samantha Fox",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2090
+}

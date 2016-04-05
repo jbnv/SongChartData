@@ -1,1 +1,20 @@
-{"title":"To Be With You","instanceSlug":1066,"tags":[],"parents":[],"genre":"rock","debut":"1992-02","playlists":["ballad"],"ranks":[],"artists":{"mr-big":true}}
+{
+  "title": "To Be With You",
+  "instanceSlug": 1066,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1992-02",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "mr-big": true
+  },
+  "scores": [
+  ]
+}

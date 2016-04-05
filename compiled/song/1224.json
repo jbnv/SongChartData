@@ -1,1 +1,66 @@
-{"title":"Enjoy Yourself","instanceSlug":1224,"tags":[],"genre":"soul","debut":"1977-01","playlists":[],"ranks":[16,10,7,5.1,4,4.2,4.7,5.2,6.2,7.7,9.7,12.2,15.2,18.7,22.7,27.2,32.2,37.7,43.7,50.2],"artists":[{"slug":"jacksons","title":"Jackson 5 / Jacksons","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"lead"}],"debutRank":16,"peakRank":4,"duration":5,"score":13.04,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":740}
+{
+  "title": "Enjoy Yourself",
+  "instanceSlug": 1224,
+  "tags": [
+  ],
+  "genre": "soul",
+  "debut": "1977-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.1,
+    4,
+    4.2,
+    4.7
+  ],
+  "artists": [
+    {
+      "slug": "jacksons",
+      "title": "Jackson 5 / Jacksons",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.456,
+    0.537,
+    0.521,
+    0.484,
+    0.479,
+    0.469,
+    0.454,
+    0.434,
+    0.409,
+    0.379,
+    0.344,
+    0.304,
+    0.259,
+    0.209,
+    0.154,
+    0.094,
+    0.029,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 6.673,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 779
+}

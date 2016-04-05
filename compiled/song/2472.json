@@ -1,1 +1,39 @@
-{"title":"Got to Get You Into My Life","instanceSlug":2472,"tags":["#1","#1-r&b","remake"],"parents":[],"genre":"urban","debut":"1978-08","source":{"title":"Sgt. Pepper's Lonely Hearts Club Band","instanceSlug":"sgt-pepper-s-lonely-hearts-club-band","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":1619}
+{
+  "title": "Got to Get You Into My Life",
+  "instanceSlug": 2472,
+  "tags": [
+    "#1",
+    "#1-r&b",
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1978-08",
+  "source": {
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "instanceSlug": "sgt-pepper-s-lonely-hearts-club-band",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": [
+    {
+      "slug": "earth-wind-fire",
+      "title": "Earth Wind & Fire",
+      "roleSlug": true
+    }
+  ],
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "rank": 1619
+}

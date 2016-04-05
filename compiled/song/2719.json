@@ -1,1 +1,31 @@
-{"title":"Too Much Time on My Hands","instanceSlug":2719,"tags":["too-much"],"parents":[],"genre":"rock","debut":"1981-04","playlists":[],"ranks":[],"artists":[{"slug":"styx","title":"Styx","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1893}
+{
+  "title": "Too Much Time on My Hands",
+  "instanceSlug": 2719,
+  "tags": [
+    "too-much"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "styx",
+      "title": "Styx",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1893
+}

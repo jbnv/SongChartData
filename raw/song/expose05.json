@@ -1,1 +1,20 @@
-{"title":"What You Don't Know","instanceSlug":"expose05","tags":[],"parents":[],"genre":"dance","debut":"1989-06","playlists":["summer"],"ranks":[],"artists":{"expose":true}}
+{
+  "title": "What You Don't Know",
+  "instanceSlug": "expose05",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1989-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "expose": true
+  },
+  "scores": [
+  ]
+}

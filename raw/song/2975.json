@@ -1,1 +1,21 @@
-{"title":"FM (No Static at All)","instanceSlug":2975,"tags":[],"parents":[],"genre":"soft-rock","debut":"1978-07","source":"fm","playlists":[],"ranks":[],"artists":{"steely-dan":true,"timothy-b-schmidt":"backup"}}
+{
+  "title": "FM (No Static at All)",
+  "instanceSlug": 2975,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": "1978-07",
+  "source": "fm",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "steely-dan": true,
+    "timothy-b-schmidt": "backup"
+  },
+  "scores": [
+  ]
+}

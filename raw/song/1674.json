@@ -1,1 +1,20 @@
-{"title":"Knock on Wood","instanceSlug":1674,"tags":[],"parents":[],"genre":"disco","debut":1979,"playlists":["remake"],"ranks":[],"artists":{"amy-stewart":true}}
+{
+  "title": "Knock on Wood",
+  "instanceSlug": 1674,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": 1979,
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "amy-stewart": true
+  },
+  "scores": [
+  ]
+}

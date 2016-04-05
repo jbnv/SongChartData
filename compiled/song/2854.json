@@ -1,1 +1,68 @@
-{"title":"Respect Yourself","instanceSlug":2854,"tags":[],"genre":"pop","debut":"1987-03","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[14,5.5,3.5,2.4,2.7,3,3.6,4.5,5.7,7.2,9,11.1,13.5,16.2,19.2,22.5,26.1,30,34.2,38.7,43.5,48.6,54,59.7],"artists":[{"slug":"bruce-willis","title":"Bruce Willis","roleSlug":true},{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":"backup"}],"debutRank":14,"peakRank":2.4,"duration":6,"score":16.99,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":470}
+{
+  "title": "Respect Yourself",
+  "instanceSlug": 2854,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1987-03",
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "ranks": [
+    14,
+    5.5,
+    3.5,
+    2.4,
+    2.7
+  ],
+  "artists": [
+    {
+      "slug": "bruce-willis",
+      "title": "Bruce Willis",
+      "roleSlug": true
+    },
+    {
+      "slug": "pointer-sisters",
+      "title": "Pointer Sisters",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.12,
+    0.431,
+    0.582,
+    0.708,
+    0.668,
+    0.663,
+    0.653,
+    0.638,
+    0.618,
+    0.593,
+    0.563,
+    0.528,
+    0.488,
+    0.443,
+    0.393,
+    0.338,
+    0.278,
+    0.213,
+    0.143,
+    0.068,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.25,
+  "score": 9.129,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 464
+}

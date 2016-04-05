@@ -1,1 +1,27 @@
-{"title":"Tarzan Boy","instanceSlug":1739,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[18,14,11,12.5],"artists":{"baltimora":true}}
+{
+  "title": "Tarzan Boy",
+  "instanceSlug": 1739,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-01",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    14,
+    11,
+    12.5
+  ],
+  "artists": {
+    "baltimora": true
+  },
+  "scores": [
+    0.036,
+    0.12,
+    0.2,
+    0.158
+  ]
+}

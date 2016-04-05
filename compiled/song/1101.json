@@ -1,1 +1,30 @@
-{"title":"Everything Changes","instanceSlug":1101,"tags":[],"parents":[],"genre":"pop","debut":"1992-03","playlists":[],"ranks":[],"artists":[{"slug":"kathy-troccoli","title":"Kathy Troccoli","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2628}
+{
+  "title": "Everything Changes",
+  "instanceSlug": 1101,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kathy-troccoli",
+      "title": "Kathy Troccoli",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2830
+}

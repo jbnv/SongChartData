@@ -6,7 +6,8 @@
   ],
   "genre": "pop",
   "debut": "1991-10",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     18,
     6,
@@ -17,5 +18,13 @@
   ],
   "artists": {
     "prince": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.402,
+    0.498,
+    0.521,
+    0.546,
+    0.521
+  ]
 }

@@ -1,1 +1,23 @@
-{"title":"Love Takes Time","instanceSlug":1172,"tags":["love","take","take-time","time"],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[],"artists":{"mariah-carey":true}}
+{
+  "title": "Love Takes Time",
+  "instanceSlug": 1172,
+  "tags": [
+    "love",
+    "take",
+    "take-time",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "mariah-carey": true
+  },
+  "scores": [
+  ]
+}

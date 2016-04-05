@@ -1,1 +1,59 @@
-{"title":"That Was Then, This is Now","instanceSlug":272,"tags":["long-title","now","that-was","then","this-is"],"parents":[],"genre":"pop","debut":"1986-08","ranks":[21,15.5,13,13.3,13.9,14.8,16.1,17.7,19.3,22.5,27.3,33.7,41.7,51.3,62.5,75.3],"artists":[{"slug":"monkees","title":"Monkees","roleSlug":true}],"debutRank":21,"peakRank":13,"duration":4,"score":2.17,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1503}
+{
+  "title": "That Was Then, This is Now",
+  "instanceSlug": 272,
+  "tags": [
+    "long-title",
+    "now",
+    "that-was",
+    "then",
+    "this-is"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-08",
+  "ranks": [
+    21,
+    15.5,
+    13,
+    13.3,
+    13.9,
+    14.8,
+    16.1,
+    17.7
+  ],
+  "artists": [
+    {
+      "slug": "monkees",
+      "title": "Monkees",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.145,
+    0.137,
+    0.122,
+    0.101,
+    0.073,
+    0.042,
+    0.037,
+    0.027,
+    0.012,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.042,
+  "duration": 2.75,
+  "score": 0.782,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1528
+}

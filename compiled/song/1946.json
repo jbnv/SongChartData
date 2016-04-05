@@ -1,1 +1,77 @@
-{"title":"Taken In","instanceSlug":1946,"tags":[],"parents":[],"genre":"pop","debut":"1986-08","playlists":[],"ranks":[16,10,7,5.2,4.5,4.7,5.4,6.1,7.5,9.6,12.4,15.9,20.1,25,30.6,36.9,43.9,51.6,60,69.1],"artists":[{"slug":"mike-mechanics","title":"Mike + the Mechanics","roleSlug":true},{"slug":"paul-carrack","title":"Paul Carrack","roleSlug":"member"},{"slug":"mike-rutherford","title":"Mike Rutherford","roleSlug":"member"},{"slug":"paul-young-2","title":"Paul Young","roleSlug":"lead"}],"debutRank":16,"peakRank":4.5,"duration":5,"score":11.22,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":864}
+{
+  "title": "Taken In",
+  "instanceSlug": 1946,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-08",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.2,
+    4.5,
+    4.7,
+    5.4
+  ],
+  "artists": [
+    {
+      "slug": "mike-mechanics",
+      "title": "Mike + the Mechanics",
+      "roleSlug": true
+    },
+    {
+      "slug": "paul-carrack",
+      "title": "Paul Carrack",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "mike-rutherford",
+      "title": "Mike Rutherford",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "paul-young-2",
+      "title": "Paul Young",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.45,
+    0.498,
+    0.484,
+    0.437,
+    0.432,
+    0.422,
+    0.407,
+    0.387,
+    0.362,
+    0.332,
+    0.297,
+    0.257,
+    0.212,
+    0.162,
+    0.107,
+    0.047,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5,
+  "score": 5.950999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 864
+}

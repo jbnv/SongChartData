@@ -1,1 +1,59 @@
-{"title":"Strut","instanceSlug":685,"tags":[],"parents":[],"genre":"pop","debut":"1984-10","playlists":[],"ranks":[13.9,7.9,4.5,3.2,4.5,5.8,8.4,12.3,17.5,24,31.8,40.9,51.3,63,76,90.3],"artists":[{"slug":"sheena-easton","title":"Sheena Easton","roleSlug":true}],"debutRank":13.9,"peakRank":3.2,"duration":4,"score":8.87,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1055}
+{
+  "title": "Strut",
+  "instanceSlug": 685,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-10",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    7.9,
+    4.5,
+    3.2,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "sheena-easton",
+      "title": "Sheena Easton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.311,
+    0.498,
+    0.612,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 4.75,
+  "score": 6.239999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 835
+}

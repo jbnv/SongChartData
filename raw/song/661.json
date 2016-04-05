@@ -1,1 +1,34 @@
-{"title":"New World Man","instanceSlug":661,"tags":["man","new","world"],"parents":[],"genre":"rock","debut":"1982-09","playlists":[],"ranks":[18,14.3,11.4,8.92,9.7,14.5],"artists":{"rush":true}}
+{
+  "title": "New World Man",
+  "instanceSlug": 661,
+  "tags": [
+    "man",
+    "new",
+    "world"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    14.3,
+    11.4,
+    8.92,
+    9.7,
+    14.5
+  ],
+  "artists": {
+    "rush": true
+  },
+  "scores": [
+    0.036,
+    0.113,
+    0.188,
+    0.27,
+    0.242,
+    0.108
+  ]
+}

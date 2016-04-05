@@ -1,1 +1,65 @@
-{"title":"Maneater","instanceSlug":77,"tags":["#1","#1-hot-100","eat","man"],"parents":[],"genre":"pop","debut":"1982-11","ranks":[20,15,11,9.2,7.9,7.5,7.85,9.1,10.35,12.85,16.6,21.6,27.85,35.35,44.1,54.1],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"debutRank":20,"peakRank":7.5,"duration":4,"score":6.63,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1223}
+{
+  "title": "Maneater",
+  "instanceSlug": 77,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "eat",
+    "man"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-11",
+  "ranks": [
+    20,
+    15,
+    11,
+    9.2,
+    7.9,
+    7.5,
+    7.85,
+    9.1
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.097,
+    0.2,
+    0.26,
+    0.311,
+    0.328,
+    0.313,
+    0.263,
+    0.258,
+    0.248,
+    0.233,
+    0.213,
+    0.188,
+    0.158,
+    0.123,
+    0.083,
+    0.038,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.5,
+  "score": 3.315,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1259
+}

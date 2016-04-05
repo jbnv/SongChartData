@@ -1,1 +1,30 @@
-{"title":"I'm Gonna Tear Your Playhouse Down","instanceSlug":934,"tags":[],"parents":[],"genre":"rock","debut":"1985-08","playlists":[],"ranks":[],"artists":[{"slug":"paul-young","title":"Paul Young","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2983}
+{
+  "title": "I'm Gonna Tear Your Playhouse Down",
+  "instanceSlug": 934,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "paul-young",
+      "title": "Paul Young",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2984
+}

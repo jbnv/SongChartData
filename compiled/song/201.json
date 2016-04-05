@@ -1,1 +1,65 @@
-{"title":"Vision of Love","instanceSlug":201,"tags":["#1"],"parents":[],"genre":"pop","debut":"1990-09","ranks":[22,16,12,9,7,6.5,6.6,6.8,7.2,9.1,11,14.8,20.5,28.1,37.6,49,62.3,77.5,94.6,113.6],"artists":[{"slug":"mariah-carey","title":"Mariah Carey","roleSlug":true}],"debutRank":22,"peakRank":6.5,"duration":5,"score":8.65,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1066}
+{
+  "title": "Vision of Love",
+  "instanceSlug": 201,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-09",
+  "ranks": [
+    22,
+    16,
+    12,
+    9,
+    7,
+    6.5,
+    6.6,
+    6.8,
+    7.2,
+    9.1
+  ],
+  "artists": [
+    {
+      "slug": "mariah-carey",
+      "title": "Mariah Carey",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.171,
+    0.267,
+    0.351,
+    0.376,
+    0.37,
+    0.361,
+    0.341,
+    0.263,
+    0.258,
+    0.248,
+    0.233,
+    0.213,
+    0.188,
+    0.158,
+    0.123,
+    0.083,
+    0.038,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.75,
+  "score": 4.117,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1144
+}

@@ -5,11 +5,33 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "genres": ["soul","pop","adult-contemporary"],
+  "genres": [
+    "soul",
+    "pop",
+    "adult-contemporary"
+  ],
   "debut": "1987-05",
-  "playlists": [],
-  "ranks": [18,10.5,7.5,5.5,4.5,4.4,4.7],
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10.5,
+    7.5,
+    5.5,
+    4.5,
+    4.4,
+    4.7
+  ],
   "artists": {
     "smokey-robinson": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.216,
+    0.328,
+    0.431,
+    0.498,
+    0.506,
+    0.484
+  ]
 }

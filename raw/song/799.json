@@ -1,1 +1,21 @@
-{"title":"Girls Girls Girls","instanceSlug":799,"tags":["girl","triple-word"],"parents":[],"genre":"metal","debut":"1987-06","playlists":[],"ranks":[],"artists":{"motley-crue":true}}
+{
+  "title": "Girls Girls Girls",
+  "instanceSlug": 799,
+  "tags": [
+    "girl",
+    "triple-word"
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1987-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "motley-crue": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,61 @@
-{"title":"Too Funky","instanceSlug":251,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genres":[{"slug":"pop","title":"Pop"}],"debut":"1992-08","ranks":[15.5,3.7,2.1,2.21,2.32,2.54,2.87,3.31,3.86,4.52,5.29,6.17,7.16,8.26,9.47,10.79,12.22,13.76,15.41,17.17,19.04,21.02,23.11,25.31,27.62,30.04,32.57,35.21,37.96,40.82,43.79,46.87,50.06,53.36,56.77,60.29],"artists":[{"slug":"george-michael","title":"George Michael","roleSlug":true}],"debutRank":15.5,"peakRank":2.1,"duration":9,"score":24.69,"source":null,"rank":147}
+{
+  "title": "Too Funky",
+  "instanceSlug": 251,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "debut": "1992-08",
+  "ranks": [
+    15.5,
+    3.7,
+    2.1,
+    2.21
+  ],
+  "artists": [
+    {
+      "slug": "george-michael",
+      "title": "George Michael",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.563,
+    0.752,
+    0.735,
+    0.73,
+    0.72,
+    0.705,
+    0.685,
+    0.66,
+    0.63,
+    0.595,
+    0.555,
+    0.51,
+    0.46,
+    0.405,
+    0.345,
+    0.28,
+    0.21,
+    0.135,
+    0.055,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 5.25,
+  "score": 9.815999999999999,
+  "source": null,
+  "rank": 386
+}

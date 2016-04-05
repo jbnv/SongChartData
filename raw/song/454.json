@@ -1,1 +1,36 @@
-{"title":"Chains of Love","instanceSlug":454,"tags":["chain","love","this-of-that"],"parents":[],"genre":"dance","debut":"1988-06","playlists":[],"ranks":[17,11.5,6.6,5.5,6.9,8.6,10.8],"artists":{"erasure":true}}
+{
+  "title": "Chains of Love",
+  "instanceSlug": 454,
+  "tags": [
+    "chain",
+    "love",
+    "this-of-that"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1988-06",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.5,
+    6.6,
+    5.5,
+    6.9,
+    8.6,
+    10.8
+  ],
+  "artists": {
+    "erasure": true
+  },
+  "scores": [
+    0.055,
+    0.185,
+    0.37,
+    0.431,
+    0.356,
+    0.282,
+    0.206
+  ]
+}

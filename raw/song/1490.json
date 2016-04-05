@@ -1,1 +1,31 @@
-{"title":"Can't Stop Lovin' You","instanceSlug":1490,"tags":["can't-stop","can't-stop-loving-you","loving-you"],"parents":[],"genre":"hard-rock","debut":"1995-04","playlists":[],"ranks":[14,5,2,2.31],"artists":{"van-halen":true,"sammy-hagar":"member"}}
+{
+  "title": "Can't Stop Lovin' You",
+  "instanceSlug": 1490,
+  "tags": [
+    "can't-stop",
+    "can't-stop-loving-you",
+    "loving-you"
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1995-04",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    5,
+    2,
+    2.31
+  ],
+  "artists": {
+    "van-halen": true,
+    "sammy-hagar": "member"
+  },
+  "scores": [
+    0.12,
+    0.463,
+    0.768,
+    0.72
+  ]
+}

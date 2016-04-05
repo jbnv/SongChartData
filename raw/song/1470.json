@@ -1,5 +1,34 @@
-{"title":"Come Together","instanceSlug":1470,"tags":[],"genre":"rock","debut":"1960s","playlists":[],"ranks":[21,14,10,8,8.4,9.2,10.5],"artists":{"beatles":true,
-"john-lennon":"lead",
-"paul-mccartney":"member",
-"george-harrison":"member",
-"ringo-starr":"member"}}
+{
+  "title": "Come Together",
+  "instanceSlug": 1470,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    10,
+    8,
+    8.4,
+    9.2,
+    10.5
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "lead",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.12,
+    0.232,
+    0.306,
+    0.29,
+    0.26,
+    0.216
+  ]
+}

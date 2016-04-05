@@ -1,1 +1,39 @@
-{"title":"Girl You Know It's True","instanceSlug":1921,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-02","playlists":[],"ranks":[18,12,7.5,5.8,5,5.15,5.46,5.99,6.5,7.4],"artists":{"milli-vanilli":true}}
+{
+  "title": "Girl You Know It's True",
+  "instanceSlug": 1921,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    12,
+    7.5,
+    5.8,
+    5,
+    5.15,
+    5.46,
+    5.99,
+    6.5,
+    7.4
+  ],
+  "artists": {
+    "milli-vanilli": true
+  },
+  "scores": [
+    0.036,
+    0.171,
+    0.328,
+    0.414,
+    0.463,
+    0.453,
+    0.434,
+    0.403,
+    0.376,
+    0.332
+  ]
+}

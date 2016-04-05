@@ -1,1 +1,30 @@
-{"title":"Never Gonna Get It","instanceSlug":1706,"tags":[],"parents":[],"genre":"hip-hop","debut":"1992-06","playlists":[],"ranks":[],"artists":[{"slug":"en-vogue","title":"En Vogue","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":2742}
+{
+  "title": "Never Gonna Get It",
+  "instanceSlug": 1706,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hip-hop",
+  "debut": "1992-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "en-vogue",
+      "title": "En Vogue",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hip-hop",
+      "title": "Hip Hop"
+    }
+  ],
+  "source": null,
+  "rank": 2167
+}

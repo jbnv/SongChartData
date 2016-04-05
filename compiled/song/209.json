@@ -1,1 +1,76 @@
-{"title":"Thieves in the Temple","instanceSlug":209,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"stealing"}],"genre":"pop","debut":"1990-08","source":{"title":"Graffitti Bridge","instanceSlug":"graffitti-bridge","tags":["prince"],"parents":[],"type":"movie"},"ranks":[17,6.6,4.4,3.3,3.45,3.75,4.05,4.65,5.55,6.75,8.25,10.05,12.15,14.55,17.25,20.25,23.55,27.15,31.05,35.25,39.75,44.55,49.65,55.05],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":17,"peakRank":3.3,"duration":6,"score":16.04,"genres":[{"slug":"pop","title":"Pop"}],"rank":534}
+{
+  "title": "Thieves in the Temple",
+  "instanceSlug": 209,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    },
+    {
+      "slug": "stealing"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1990-08",
+  "source": {
+    "title": "Graffitti Bridge",
+    "instanceSlug": "graffitti-bridge",
+    "tags": [
+      "prince"
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "ranks": [
+    17,
+    6.6,
+    4.4,
+    3.3,
+    3.45,
+    3.75
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.37,
+    0.506,
+    0.602,
+    0.587,
+    0.559,
+    0.554,
+    0.544,
+    0.529,
+    0.509,
+    0.484,
+    0.454,
+    0.419,
+    0.379,
+    0.334,
+    0.284,
+    0.229,
+    0.169,
+    0.104,
+    0.034,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 7.704999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 646
+}

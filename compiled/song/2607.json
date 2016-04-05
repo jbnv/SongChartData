@@ -1,1 +1,69 @@
-{"title":"You'll Accompany Me","instanceSlug":2607,"tags":[],"parents":[],"genre":"rock","debut":"1980-09","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[15,5,1.5,1.61,1.72,1.94,2.27,2.71,3.26,3.92,4.69,5.57,6.56,7.66,8.87,10.19,11.62,13.16,14.81,16.57,18.44,20.42,22.51,24.71,27.02,29.44,31.97,34.61,37.36,40.22,43.19,46.27,49.46,52.76,56.17,59.69],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"debutRank":15,"peakRank":1.5,"duration":9,"score":27.1,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":89}
+{
+  "title": "You'll Accompany Me",
+  "instanceSlug": 2607,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-09",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    },
+    {
+      "slug": "love",
+      "title": "Love Songs"
+    }
+  ],
+  "ranks": [
+    15,
+    5,
+    1.5,
+    1.61
+  ],
+  "artists": [
+    {
+      "slug": "bob-seger",
+      "title": "Bob Seger",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.463,
+    0.864,
+    0.841,
+    0.836,
+    0.826,
+    0.811,
+    0.791,
+    0.766,
+    0.736,
+    0.701,
+    0.661,
+    0.616,
+    0.566,
+    0.511,
+    0.451,
+    0.386,
+    0.316,
+    0.241,
+    0.161,
+    0.076,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 11.716999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 220
+}

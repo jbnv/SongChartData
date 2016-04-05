@@ -1,1 +1,71 @@
-{"title":"I Swear","instanceSlug":1274,"tags":["#1","#1-hot-100"],"parents":[],"genre":"soul","debut":"1994-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12.5,6,3.2,2.25,1.75,1.95,2.15,2.55,3.15,3.95,4.95,6.15,7.55,9.15,10.95,12.95,15.15,17.55,20.15,22.95,25.95,29.15,32.55,36.15,39.95,43.95,48.15,52.55],"artists":[{"slug":"all-4-one","title":"All-4-One","roleSlug":true}],"debutRank":12.5,"peakRank":1.75,"duration":7,"score":24.07,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":166}
+{
+  "title": "I Swear",
+  "instanceSlug": 1274,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1994-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12.5,
+    6,
+    3.2,
+    2.25,
+    1.75,
+    1.95
+  ],
+  "artists": [
+    {
+      "slug": "all-4-one",
+      "title": "All-4-One",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.158,
+    0.402,
+    0.612,
+    0.729,
+    0.813,
+    0.777,
+    0.772,
+    0.762,
+    0.747,
+    0.727,
+    0.702,
+    0.672,
+    0.637,
+    0.597,
+    0.552,
+    0.502,
+    0.447,
+    0.387,
+    0.322,
+    0.252,
+    0.177,
+    0.097,
+    0.012,
+    0
+  ],
+  "debutScore": 0.158,
+  "peakScore": 0.158,
+  "duration": 6,
+  "score": 11.854999999999999,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 209
+}

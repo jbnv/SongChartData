@@ -1,13 +1,18 @@
 {
   "title": "Uptown Girl",
   "instanceSlug": 2393,
-  "tags": [],
+  "tags": [
+  ],
   "source": "innocent-man",
   "genre": "pop",
   "debut": "1983-10",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "billy-joel": true
-  }
+  },
+  "scores": [
+  ]
 }

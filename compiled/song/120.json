@@ -1,1 +1,59 @@
-{"title":"Crazy","instanceSlug":120,"tags":["crazy"],"parents":[],"genre":"rock","debut":"1987-12","ranks":[19.9,11.9,9.5,8.5,8.9,9.6,11.2,12.8,16,20.8,27.2,35.2,44.8,56,68.8,83.2],"artists":[{"slug":"icehouse","title":"Icehouse","roleSlug":true}],"debutRank":19.9,"peakRank":8.5,"duration":4,"score":4.96,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":1338}
+{
+  "title": "Crazy",
+  "instanceSlug": 120,
+  "tags": [
+    "crazy"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-12",
+  "ranks": [
+    19.9,
+    11.9,
+    9.5,
+    8.5,
+    8.9,
+    9.6,
+    11.2
+  ],
+  "artists": [
+    {
+      "slug": "icehouse",
+      "title": "Icehouse",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.174,
+    0.249,
+    0.286,
+    0.271,
+    0.246,
+    0.194,
+    0.189,
+    0.179,
+    0.164,
+    0.144,
+    0.119,
+    0.089,
+    0.054,
+    0.014,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 4,
+  "score": 2.3749999999999996,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1381
+}

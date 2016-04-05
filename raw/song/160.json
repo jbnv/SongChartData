@@ -6,8 +6,11 @@
     "#1-hot-100",
     "mythology"
   ],
-  "playlists": ["remake"],
-  "parents": [],
+  "playlists": [
+    "remake"
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1986-08",
   "ranks": [
@@ -20,5 +23,13 @@
   ],
   "artists": {
     "bananarama": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.171,
+    0.267,
+    0.402,
+    0.391,
+    0.356
+  ]
 }

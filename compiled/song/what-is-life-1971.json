@@ -1,1 +1,25 @@
-{"title":"What is Life","instanceSlug":"what-is-life-1971","tags":[],"parents":[],"debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"george-harrison","title":"George Harrison","roleSlug":true}],"genres":[],"source":null,"rank":3115}
+{
+  "title": "What is Life",
+  "instanceSlug": "what-is-life-1971",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "george-harrison",
+      "title": "George Harrison",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 3120
+}

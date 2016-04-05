@@ -1,1 +1,41 @@
-{"title":"Crazycool","instanceSlug":298,"tags":["cool","crazy"],"parents":[],"genre":"pop","debut":"1995-09","playlists":[],"ranks":[18,10,4,3.2,2.8,3,3.3,3.6,3.9,4.4],"artists":{"paula-abdul":true}}
+{
+  "title": "Crazycool",
+  "instanceSlug": 298,
+  "tags": [
+    "cool",
+    "crazy"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-09",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    4,
+    3.2,
+    2.8,
+    3,
+    3.3,
+    3.6,
+    3.9,
+    4.4
+  ],
+  "artists": {
+    "paula-abdul": true
+  },
+  "scores": [
+    0.036,
+    0.232,
+    0.537,
+    0.612,
+    0.656,
+    0.633,
+    0.602,
+    0.573,
+    0.546,
+    0.506
+  ]
+}

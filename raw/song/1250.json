@@ -1,1 +1,34 @@
-{"title":"You Better You Bet","instanceSlug":1250,"tags":["#1"],"parents":[],"genre":"rock","debut":"1981-04","playlists":[],"ranks":[20,14,9,7,5.5,5.3,6.2],"artists":{"who":true}}
+{
+  "title": "You Better You Bet",
+  "instanceSlug": 1250,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-04",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    9,
+    7,
+    5.5,
+    5.3,
+    6.2
+  ],
+  "artists": {
+    "who": true
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.267,
+    0.351,
+    0.431,
+    0.444,
+    0.391
+  ]
+}

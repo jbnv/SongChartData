@@ -1,1 +1,28 @@
-{"title":"What Would You Say","instanceSlug":407,"tags":[],"parents":[],"genre":"pop","debut":"1995-06","playlists":["summer"],"ranks":[10.5,1.29,1.35,1.49],"artists":{"dave-matthews-band":true}}
+{
+  "title": "What Would You Say",
+  "instanceSlug": 407,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    10.5,
+    1.29,
+    1.35,
+    1.49
+  ],
+  "artists": {
+    "dave-matthews-band": true
+  },
+  "scores": [
+    0.216,
+    0.915,
+    0.899,
+    0.867
+  ]
+}

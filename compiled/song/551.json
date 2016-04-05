@@ -1,1 +1,62 @@
-{"title":"Where My Girls At","instanceSlug":551,"tags":[],"parents":[],"genre":"urban","debut":"1999-09","playlists":[],"ranks":[22,16,13,11.5,10,8.8,8.2,7.8,8.4,9.9,11.4,14.4,18.9,24.9,32.4,41.4,51.9,63.9,77.4,92.4],"artists":[{"slug":"702"}],"debutRank":22,"peakRank":7.8,"duration":5,"score":7.12,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1179}
+{
+  "title": "Where My Girls At",
+  "instanceSlug": 551,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1999-09",
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    16,
+    13,
+    11.5,
+    10,
+    8.8,
+    8.2,
+    7.8,
+    8.4,
+    9.9
+  ],
+  "artists": [
+    {
+      "slug": "702"
+    }
+  ],
+  "scores": [
+    0.075,
+    0.145,
+    0.185,
+    0.232,
+    0.275,
+    0.298,
+    0.315,
+    0.29,
+    0.235,
+    0.23,
+    0.22,
+    0.205,
+    0.185,
+    0.16,
+    0.13,
+    0.095,
+    0.055,
+    0.01,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.75,
+  "score": 3.3400000000000003,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 1252
+}

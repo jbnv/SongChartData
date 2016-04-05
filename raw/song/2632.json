@@ -1,13 +1,38 @@
 {
   "title": "For the Love of Money",
   "instanceSlug": 2632,
-  "tags": [],
-  "parents": [],
-  "genres": ["soul","urban","r&b"],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "soul",
+    "urban",
+    "r&b"
+  ],
   "debut": 1974,
-  "playlists": ["commentary"],
-  "ranks": [16,6,4,2,2.05,2.21,2.5],
+  "playlists": [
+    "commentary"
+  ],
+  "ranks": [
+    16,
+    6,
+    4,
+    2,
+    2.05,
+    2.21,
+    2.5
+  ],
   "artists": {
     "o-jays": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.402,
+    0.537,
+    0.768,
+    0.76,
+    0.735,
+    0.694
+  ]
 }

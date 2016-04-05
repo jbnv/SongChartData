@@ -1,1 +1,30 @@
-{"title":"Hang Fire","instanceSlug":2569,"tags":[],"parents":[],"genre":"rock","debut":"1982-04","playlists":[],"ranks":[],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1726}
+{
+  "title": "Hang Fire",
+  "instanceSlug": 2569,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1726
+}

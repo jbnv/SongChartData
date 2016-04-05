@@ -1,1 +1,19 @@
-{"title":"Crocodile Rock","instanceSlug":2401,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Crocodile Rock",
+  "instanceSlug": 2401,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

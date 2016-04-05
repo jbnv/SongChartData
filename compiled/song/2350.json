@@ -1,1 +1,66 @@
-{"title":"Because of Love","instanceSlug":2350,"tags":[],"parents":[],"genre":"pop","debut":"1994-02","playlists":[],"ranks":[16,9,4,3.1,2.4,2.1,2.5,2.9,3.7,4.9,6.5,8.5,10.9,13.7,16.9,20.5,24.5,28.9,33.7,38.9,44.5,50.5,56.9,63.7],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":16,"peakRank":2.1,"duration":6,"score":19.17,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":362}
+{
+  "title": "Because of Love",
+  "instanceSlug": 2350,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-02",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    4,
+    3.1,
+    2.4,
+    2.1,
+    2.5
+  ],
+  "artists": [
+    {
+      "slug": "janet-jackson",
+      "title": "Janet Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.267,
+    0.537,
+    0.622,
+    0.708,
+    0.752,
+    0.694,
+    0.689,
+    0.679,
+    0.664,
+    0.644,
+    0.619,
+    0.589,
+    0.554,
+    0.514,
+    0.469,
+    0.419,
+    0.364,
+    0.304,
+    0.239,
+    0.169,
+    0.094,
+    0.014,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6,
+  "score": 10.679,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 294
+}

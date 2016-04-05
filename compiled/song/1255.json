@@ -1,1 +1,56 @@
-{"title":"Jack & Diane","instanceSlug":1255,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rock","debut":"1982-08","playlists":[],"ranks":[22,17,14,13,12,12.9,14.7,16.5,20.1,25.5,32.7,41.7,52.5,65.1,79.5,95.7],"artists":[{"slug":"john-mellancamp","title":"John Mellencamp","roleSlug":true}],"debutRank":22,"peakRank":12,"duration":4,"score":2.43,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1486}
+{
+  "title": "Jack & Diane",
+  "instanceSlug": 1255,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-08",
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    17,
+    14,
+    13,
+    12,
+    12.9,
+    14.7
+  ],
+  "artists": [
+    {
+      "slug": "john-mellancamp",
+      "title": "John Mellencamp",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.12,
+    0.145,
+    0.171,
+    0.147,
+    0.104,
+    0.099,
+    0.089,
+    0.074,
+    0.054,
+    0.029,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3,
+  "score": 1.087,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1505
+}

@@ -1,1 +1,19 @@
-{"title":"Gin & Juice","instanceSlug":66,"tags":["drink","this-and-that"],"parents":[],"genre":"rap","debut":"1994-03","ranks":[],"artists":{"snoop-dogg":true}}
+{
+  "title": "Gin & Juice",
+  "instanceSlug": 66,
+  "tags": [
+    "drink",
+    "this-and-that"
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1994-03",
+  "ranks": [
+  ],
+  "artists": {
+    "snoop-dogg": true
+  },
+  "scores": [
+  ]
+}

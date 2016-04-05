@@ -1,1 +1,21 @@
-{"title":"I Like It","instanceSlug":1605,"tags":["i-like-it","like"],"parents":[],"genre":"soul","debut":"1983-04","playlists":[],"ranks":[],"artists":{"debarge":true}}
+{
+  "title": "I Like It",
+  "instanceSlug": 1605,
+  "tags": [
+    "i-like-it",
+    "like"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "debarge": true
+  },
+  "scores": [
+  ]
+}

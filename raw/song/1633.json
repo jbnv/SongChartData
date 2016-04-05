@@ -1,1 +1,21 @@
-{"title":"Glory Days","instanceSlug":1633,"tags":["day","glory"],"parents":[],"genre":"rock","debut":"1985-06","playlists":[],"ranks":[],"artists":{"bruce-springsteen":true}}
+{
+  "title": "Glory Days",
+  "instanceSlug": 1633,
+  "tags": [
+    "day",
+    "glory"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bruce-springsteen": true
+  },
+  "scores": [
+  ]
+}

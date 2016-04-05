@@ -1,1 +1,29 @@
-{"title":"You Don't Know","instanceSlug":"you-dont-know-1988","tags":[],"parents":[],"genre":"pop","debut":"1988-03","playlists":[],"ranks":[15,9,6,3,3.2],"artists":{"scarlett-black":true}}
+{
+  "title": "You Don't Know",
+  "instanceSlug": "you-dont-know-1988",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-03",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    3,
+    3.2
+  ],
+  "artists": {
+    "scarlett-black": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.633,
+    0.612
+  ]
+}

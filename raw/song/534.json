@@ -1,1 +1,33 @@
-{"title":"Heartbreaker","instanceSlug":534,"tags":[],"parents":[],"genre":true,"debut":"1999-09","playlists":[],"ranks":[13,7.4,4.2,3.3,4.6,6.3,8.7],"artists":{"mariah-carey":true}}
+{
+  "title": "Heartbreaker",
+  "instanceSlug": 534,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    7.4,
+    4.2,
+    3.3,
+    4.6,
+    6.3,
+    8.7
+  ],
+  "artists": {
+    "mariah-carey": true
+  },
+  "scores": [
+    0.145,
+    0.332,
+    0.521,
+    0.602,
+    0.491,
+    0.386,
+    0.278
+  ]
+}

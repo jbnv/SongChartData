@@ -1,1 +1,21 @@
-{"title":"Desert Moon","instanceSlug":687,"tags":["desert","moon"],"parents":[],"genre":"pop","debut":"1984-10","playlists":[],"ranks":[],"artists":{"dennis-deyoung":true}}
+{
+  "title": "Desert Moon",
+  "instanceSlug": 687,
+  "tags": [
+    "desert",
+    "moon"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "dennis-deyoung": true
+  },
+  "scores": [
+  ]
+}

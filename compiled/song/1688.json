@@ -1,1 +1,28 @@
-{"title":"My Sharona","instanceSlug":1688,"tags":[],"parents":[],"genre":"rock","debut":1979,"playlists":[],"ranks":[],"artists":[{"slug":"the-knack"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2629}
+{
+  "title": "My Sharona",
+  "instanceSlug": 1688,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1979,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "the-knack"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1875
+}

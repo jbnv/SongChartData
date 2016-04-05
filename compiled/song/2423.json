@@ -1,1 +1,30 @@
-{"title":"Doctor! Doctor!","instanceSlug":2423,"tags":[],"parents":[],"genre":"pop","debut":"1984-06","playlists":[],"ranks":[],"artists":[{"slug":"thompson-twins","title":"Thompson Twins","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3078}
+{
+  "title": "Doctor! Doctor!",
+  "instanceSlug": 2423,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "thompson-twins",
+      "title": "Thompson Twins",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3076
+}

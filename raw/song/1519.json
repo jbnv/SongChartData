@@ -1,12 +1,29 @@
 {
   "title": "Live For Loving You",
   "instanceSlug": 1519,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1991-11",
-  "playlists": [],
-  "ranks": [19,10,7.5,5.4,5,5.4],
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    10,
+    7.5,
+    5.4,
+    5,
+    5.4
+  ],
   "artists": {
     "gloria-estefan": true
-  }
+  },
+  "scores": [
+    0.018,
+    0.232,
+    0.328,
+    0.437,
+    0.463,
+    0.437
+  ]
 }

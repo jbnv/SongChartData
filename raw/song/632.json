@@ -1,1 +1,29 @@
-{"title":"You Spin Me Round (Like a Record)","instanceSlug":632,"tags":[],"parents":[],"genre":"dance-pop","debut":"1985-07","playlists":[],"ranks":[12,3,1.8,1.4,1.65],"artists":{"dead-or-alive":true}}
+{
+  "title": "You Spin Me Round (Like a Record)",
+  "instanceSlug": 632,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1985-07",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3,
+    1.8,
+    1.4,
+    1.65
+  ],
+  "artists": {
+    "dead-or-alive": true
+  },
+  "scores": [
+    0.171,
+    0.633,
+    0.804,
+    0.887,
+    0.833
+  ]
+}

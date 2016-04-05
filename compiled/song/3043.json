@@ -1,1 +1,69 @@
-{"title":"Summer Girls","instanceSlug":3043,"tags":[],"parents":[],"genre":"pop","debut":1988,"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,2.5,2,2.01,2.08,2.2,2.7,3.2,4.2,5.7,7.7,10.2,13.2,16.7,20.7,25.2,30.2,35.7,41.7,48.2,55.2,62.7,70.7,79.2],"artists":[{"slug":"dino","title":"Dino","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":6,"score":20.6,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":295}
+{
+  "title": "Summer Girls",
+  "instanceSlug": 3043,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1988,
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12,
+    2.5,
+    2,
+    2.01,
+    2.08,
+    2.2,
+    2.7
+  ],
+  "artists": [
+    {
+      "slug": "dino",
+      "title": "Dino",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.694,
+    0.768,
+    0.767,
+    0.755,
+    0.737,
+    0.668,
+    0.663,
+    0.653,
+    0.638,
+    0.618,
+    0.593,
+    0.563,
+    0.528,
+    0.488,
+    0.443,
+    0.393,
+    0.338,
+    0.278,
+    0.213,
+    0.143,
+    0.068,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 11.18,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 249
+}

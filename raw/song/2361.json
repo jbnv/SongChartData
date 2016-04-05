@@ -1,1 +1,19 @@
-{"title":"Just Another Night","instanceSlug":2361,"tags":[],"parents":[],"genre":"rock","debut":"1985-03","playlists":[],"ranks":[],"artists":{"mick-jagger":true}}
+{
+  "title": "Just Another Night",
+  "instanceSlug": 2361,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "mick-jagger": true
+  },
+  "scores": [
+  ]
+}

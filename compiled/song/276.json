@@ -1,1 +1,49 @@
-{"title":"Yankee Rose","instanceSlug":276,"tags":[],"parents":[],"genre":"metal","debut":"1986-08","playlists":[],"ranks":[22,17,14,15.1,16.8,19,21.2,25.6,32.2,41,52,65.2],"artists":[{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":true}],"debutRank":22,"peakRank":14,"duration":3,"score":1.05,"genres":[{"slug":"metal","title":"Metal"}],"source":null,"rank":1547}
+{
+  "title": "Yankee Rose",
+  "instanceSlug": 276,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1986-08",
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    17,
+    14,
+    15.1,
+    16.8,
+    19
+  ],
+  "artists": [
+    {
+      "slug": "david-lee-roth",
+      "title": "David Lee Roth",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.12,
+    0.095,
+    0.059,
+    0.018,
+    0.013,
+    0.003,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.018,
+  "duration": 2,
+  "score": 0.36300000000000004,
+  "genres": [
+    {
+      "slug": "metal",
+      "title": "Metal"
+    }
+  ],
+  "source": null,
+  "rank": 1561
+}

@@ -1,1 +1,36 @@
-{"title":"Stuck on You","instanceSlug":2704,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1984-07","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"lionel-richie","title":"Lionel Richie","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1877}
+{
+  "title": "Stuck on You",
+  "instanceSlug": 2704,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "lionel-richie",
+      "title": "Lionel Richie",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1877
+}

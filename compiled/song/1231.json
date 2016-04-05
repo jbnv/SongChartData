@@ -1,1 +1,28 @@
-{"title":"Blood on the Dance Floor","instanceSlug":1231,"tags":[],"debut":"1990s","genre":"pop","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2038}
+{
+  "title": "Blood on the Dance Floor",
+  "instanceSlug": 1231,
+  "tags": [
+  ],
+  "debut": "1990s",
+  "genre": "pop",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2428
+}

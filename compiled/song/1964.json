@@ -1,1 +1,64 @@
-{"title":"Your Love is Driving Me Crazy","instanceSlug":1964,"tags":[],"parents":[],"genre":"rock","debut":"1983-02","playlists":[],"ranks":[14.4,7.9,4.2,2.1,2.25,2.58,2.91,3.57,4.56,5.88,7.53,9.51,11.82,14.46,17.43,20.73,24.36,28.32,32.61,37.23,42.18,47.46,53.07,59.01],"artists":[{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":true}],"debutRank":14.4,"peakRank":2.1,"duration":6,"score":18.43,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":404}
+{
+  "title": "Your Love is Driving Me Crazy",
+  "instanceSlug": 1964,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-02",
+  "playlists": [
+  ],
+  "ranks": [
+    14.4,
+    7.9,
+    4.2,
+    2.1,
+    2.25,
+    2.58
+  ],
+  "artists": [
+    {
+      "slug": "sammy-hagar",
+      "title": "Sammy Hagar",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.11,
+    0.311,
+    0.521,
+    0.752,
+    0.729,
+    0.684,
+    0.679,
+    0.669,
+    0.654,
+    0.634,
+    0.609,
+    0.579,
+    0.544,
+    0.504,
+    0.459,
+    0.409,
+    0.354,
+    0.294,
+    0.229,
+    0.159,
+    0.084,
+    0.004,
+    0
+  ],
+  "debutScore": 0.11,
+  "peakScore": 0.11,
+  "duration": 5.75,
+  "score": 9.970999999999998,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 365
+}

@@ -1,11 +1,14 @@
 {
   "title": "Dare Me",
   "instanceSlug": 378,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "dance-pop",
   "debut": "1985-07",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     9,
     1.2,
@@ -15,5 +18,12 @@
   ],
   "artists": {
     "pointer-sisters": true
-  }
+  },
+  "scores": [
+    0.267,
+    0.939,
+    0.909,
+    0.871,
+    0.794
+  ]
 }

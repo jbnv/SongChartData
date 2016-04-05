@@ -1,1 +1,33 @@
-{"title":"Physical","instanceSlug":906,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1981-11","playlists":[],"ranks":[15.9,8.6,4.6,2.4,2.22,2.62],"artists":{"olivia-newton-john":true}}
+{
+  "title": "Physical",
+  "instanceSlug": 906,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    8.6,
+    4.6,
+    2.4,
+    2.22,
+    2.62
+  ],
+  "artists": {
+    "olivia-newton-john": true
+  },
+  "scores": [
+    0.077,
+    0.282,
+    0.491,
+    0.708,
+    0.734,
+    0.678
+  ]
+}

@@ -1,1 +1,52 @@
-{"title":"Oh Girl","instanceSlug":204,"tags":["girl","oh"],"parents":[],"genre":"pop","debut":"1990-08","ranks":[20,12,8.5,9.5,11,15,20,25,35,50,70,95],"artists":[{"slug":"paul-young","title":"Paul Young","roleSlug":true}],"debutRank":20,"peakRank":8.5,"duration":3,"score":3.03,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1461}
+{
+  "title": "Oh Girl",
+  "instanceSlug": 204,
+  "tags": [
+    "girl",
+    "oh"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-08",
+  "ranks": [
+    20,
+    12,
+    8.5,
+    9.5,
+    11,
+    15,
+    20
+  ],
+  "artists": [
+    {
+      "slug": "paul-young",
+      "title": "Paul Young",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.171,
+    0.286,
+    0.249,
+    0.2,
+    0.097,
+    0.001,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 2,
+  "score": 1.005,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1512
+}

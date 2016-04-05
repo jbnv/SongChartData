@@ -1,1 +1,56 @@
-{"title":"Devil Inside","instanceSlug":780,"tags":["#2","#2-hot-100"],"parents":[],"genre":"rock","debut":"1988-03","playlists":[],"ranks":[17.9,10.7,8.9,9.6,10.9,12.2,14.8,18.7,23.9,30.4,38.2,47.3,57.7,69.4,82.4,96.7],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":17.9,"peakRank":8.9,"duration":4,"score":3.78,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1413}
+{
+  "title": "Devil Inside",
+  "instanceSlug": 780,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-03",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    8.9,
+    9.6,
+    10.9
+  ],
+  "artists": [
+    {
+      "slug": "inxs",
+      "title": "INXS",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.271,
+    0.246,
+    0.203,
+    0.198,
+    0.188,
+    0.173,
+    0.153,
+    0.128,
+    0.098,
+    0.063,
+    0.023,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.5,
+  "score": 1.9909999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1422
+}

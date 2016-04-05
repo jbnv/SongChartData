@@ -1,1 +1,30 @@
-{"title":"Teenage Dream","instanceSlug":1103,"tags":[],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"artists":[{"slug":"katy-perry","title":"Katy Perry","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2624}
+{
+  "title": "Teenage Dream",
+  "instanceSlug": 1103,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "katy-perry",
+      "title": "Katy Perry",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2817
+}

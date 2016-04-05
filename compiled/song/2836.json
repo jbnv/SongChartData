@@ -1,1 +1,30 @@
-{"title":"This Little Girl","instanceSlug":2836,"tags":[],"parents":[],"genre":"pop","debut":"1981-05","playlists":[],"ranks":[],"artists":[{"slug":"gary-u-s-bonds","title":"Gary U.S. Bonds","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2023}
+{
+  "title": "This Little Girl",
+  "instanceSlug": 2836,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1981-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "gary-u-s-bonds",
+      "title": "Gary U.S. Bonds",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2023
+}

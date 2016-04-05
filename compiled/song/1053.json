@@ -1,1 +1,66 @@
-{"title":"Vacation","instanceSlug":1053,"tags":[],"parents":[],"genre":"pop","debut":"1982-07","playlists":[],"ranks":[18,13,9,7.8,7.6,7.7,8,8.5,9.1,9.8,11,12.2,14.6,18.2,23,29,36.2,44.6,54.2,65],"artists":[{"slug":"go-gos","title":"Go-Gos","roleSlug":true}],"debutRank":18,"peakRank":7.6,"duration":5,"score":9.03,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1027}
+{
+  "title": "Vacation",
+  "instanceSlug": 1053,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-07",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    13,
+    9,
+    7.8,
+    7.6,
+    7.7,
+    8,
+    8.5,
+    9.1,
+    9.8,
+    11
+  ],
+  "artists": [
+    {
+      "slug": "go-gos",
+      "title": "Go-Gos",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.145,
+    0.267,
+    0.315,
+    0.323,
+    0.319,
+    0.306,
+    0.286,
+    0.263,
+    0.239,
+    0.2,
+    0.195,
+    0.185,
+    0.17,
+    0.15,
+    0.125,
+    0.095,
+    0.06,
+    0.02,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 3.6990000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1209
+}

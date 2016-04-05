@@ -1,1 +1,21 @@
-{"title":"Hold the Line","instanceSlug":1549,"tags":["hold","line"],"parents":[],"genre":"rock","debut":"1978-11","playlists":[],"ranks":[],"artists":{"toto":true}}
+{
+  "title": "Hold the Line",
+  "instanceSlug": 1549,
+  "tags": [
+    "hold",
+    "line"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1978-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "toto": true
+  },
+  "scores": [
+  ]
+}

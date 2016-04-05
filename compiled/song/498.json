@@ -1,1 +1,66 @@
-{"title":"Mixed Emotions","instanceSlug":498,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1989-09","playlists":[],"ranks":[13.5,5.2,2.8,2.3,1.9,2.31,2.72,3.54,4.77,6.41,8.46,10.92,13.79,17.07,20.76,24.86,29.37,34.29,39.62,45.36,51.51,58.07,65.04,72.42],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"debutRank":13.5,"peakRank":1.9,"duration":6,"score":18.73,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":388}
+{
+  "title": "Mixed Emotions",
+  "instanceSlug": 498,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13.5,
+    5.2,
+    2.8,
+    2.3,
+    1.9,
+    2.31
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.132,
+    0.45,
+    0.656,
+    0.722,
+    0.786,
+    0.72,
+    0.715,
+    0.705,
+    0.69,
+    0.67,
+    0.645,
+    0.615,
+    0.58,
+    0.54,
+    0.495,
+    0.445,
+    0.39,
+    0.33,
+    0.265,
+    0.195,
+    0.12,
+    0.04,
+    0
+  ],
+  "debutScore": 0.132,
+  "peakScore": 0.132,
+  "duration": 5.75,
+  "score": 10.906,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 273
+}

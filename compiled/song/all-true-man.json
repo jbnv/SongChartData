@@ -1,0 +1,60 @@
+{
+  "title": "All True Man",
+  "instanceSlug": "all-true-man",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1991-04",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    10,
+    7,
+    5,
+    5.2,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "alexander-o-neal",
+      "title": "Alexander O'Neal",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.232,
+    0.351,
+    0.463,
+    0.45,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 4.75,
+  "score": 4.998,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1015
+}

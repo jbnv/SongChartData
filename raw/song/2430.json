@@ -1,1 +1,20 @@
-{"title":"Stumblin' In","instanceSlug":2430,"tags":[],"parents":[],"genre":"pop","debut":"1979-03","playlists":[],"ranks":[],"artists":{"suzy-quatro":true,"chris-normal":"backup"}}
+{
+  "title": "Stumblin' In",
+  "instanceSlug": 2430,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1979-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "suzy-quatro": true,
+    "chris-normal": "backup"
+  },
+  "scores": [
+  ]
+}

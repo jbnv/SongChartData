@@ -1,1 +1,67 @@
-{"title":"Tell Me","instanceSlug":1423,"tags":["me","tell","tell-me"],"parents":[],"genre":"dance","debut":"1995-10","playlists":[],"ranks":[16.1,7.9,4.9,3.7,3.5,3.72,4.13,4.54,5.36,6.59,8.23,10.28,12.74,15.61,18.89,22.58,26.68,31.19,36.11,41.44,47.18,53.33,59.89,66.86],"artists":[{"slug":"groove-theory","title":"Groove Theory","roleSlug":true}],"debutRank":16.1,"peakRank":3.5,"duration":6,"score":15.53,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":562}
+{
+  "title": "Tell Me",
+  "instanceSlug": 1423,
+  "tags": [
+    "me",
+    "tell",
+    "tell-me"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1995-10",
+  "playlists": [
+  ],
+  "ranks": [
+    16.1,
+    7.9,
+    4.9,
+    3.7,
+    3.5,
+    3.72,
+    4.13
+  ],
+  "artists": [
+    {
+      "slug": "groove-theory",
+      "title": "Groove Theory",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.073,
+    0.311,
+    0.47,
+    0.563,
+    0.582,
+    0.562,
+    0.527,
+    0.522,
+    0.512,
+    0.497,
+    0.477,
+    0.452,
+    0.422,
+    0.387,
+    0.347,
+    0.302,
+    0.252,
+    0.197,
+    0.137,
+    0.072,
+    0.002,
+    0
+  ],
+  "debutScore": 0.073,
+  "peakScore": 0.073,
+  "duration": 5.5,
+  "score": 7.665999999999999,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 652
+}

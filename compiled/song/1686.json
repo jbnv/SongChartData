@@ -1,1 +1,67 @@
-{"title":"Heartache Tonight","instanceSlug":1686,"tags":[],"parents":[],"genre":"rock","debut":"1979-10","playlists":[],"ranks":[18,9,7,5.6,5,5.45,6.1,6.75,8.05,10,12.6,15.85,19.75,24.3,29.5,35.35,41.85,49,56.8,65.25],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"glenn-frye","title":"Glenn Frye","roleSlug":"member"}],"debutRank":18,"peakRank":5,"duration":5,"score":10.55,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":918}
+{
+  "title": "Heartache Tonight",
+  "instanceSlug": 1686,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1979-10",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    9,
+    7,
+    5.6,
+    5,
+    5.45,
+    6.1
+  ],
+  "artists": [
+    {
+      "slug": "eagles",
+      "title": "Eagles",
+      "roleSlug": true
+    },
+    {
+      "slug": "glenn-frye",
+      "title": "Glenn Frye",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.036,
+    0.267,
+    0.351,
+    0.425,
+    0.463,
+    0.434,
+    0.397,
+    0.392,
+    0.382,
+    0.367,
+    0.347,
+    0.322,
+    0.292,
+    0.257,
+    0.217,
+    0.172,
+    0.122,
+    0.067,
+    0.007,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 5.316999999999998,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 956
+}

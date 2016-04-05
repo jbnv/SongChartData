@@ -1,1 +1,30 @@
-{"title":"Gypsies, Tramps and Thieves","instanceSlug":1514,"tags":[],"parents":[],"genre":"pop","debut":"1970s","playlists":[],"ranks":[],"artists":[{"slug":"cher","title":"Cher","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2761}
+{
+  "title": "Gypsies, Tramps and Thieves",
+  "instanceSlug": 1514,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1970s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "cher",
+      "title": "Cher",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2914
+}

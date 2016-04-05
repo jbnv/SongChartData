@@ -1,1 +1,36 @@
-{"title":"The Locomotion","instanceSlug":543,"tags":["remake"],"parents":[],"genre":"dance-pop","debut":"1988-10","playlists":[],"ranks":[17.3,11.2,8.8,5.8,4.45,4.3,4.67,5.1],"artists":{"kylie-minogue":true}}
+{
+  "title": "The Locomotion",
+  "instanceSlug": 543,
+  "tags": [
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1988-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.3,
+    11.2,
+    8.8,
+    5.8,
+    4.45,
+    4.3,
+    4.67,
+    5.1
+  ],
+  "artists": {
+    "kylie-minogue": true
+  },
+  "scores": [
+    0.049,
+    0.194,
+    0.275,
+    0.414,
+    0.502,
+    0.513,
+    0.486,
+    0.456
+  ]
+}

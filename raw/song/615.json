@@ -1,1 +1,32 @@
-{"title":"Forget-Me-Nots","instanceSlug":615,"tags":["forget"],"parents":[],"genre":true,"debut":"1982-06","playlists":[],"ranks":[13,7.3,4.2,2.8,4,5.5],"artists":{"patrice-rushin":true}}
+{
+  "title": "Forget-Me-Nots",
+  "instanceSlug": 615,
+  "tags": [
+    "forget"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1982-06",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    7.3,
+    4.2,
+    2.8,
+    4,
+    5.5
+  ],
+  "artists": {
+    "patrice-rushin": true
+  },
+  "scores": [
+    0.145,
+    0.337,
+    0.521,
+    0.656,
+    0.537,
+    0.431
+  ]
+}

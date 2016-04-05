@@ -1,1 +1,57 @@
-{"title":"Funkytown","instanceSlug":145,"tags":["#1","disco","remade"],"parents":[],"genre":"disco","debut":"1980-05","ranks":[24.9,14.6,8.6,11,16.2,23.8,34.8,51.1,74.8,109.6,144.4,214],"artists":[{"slug":"lipps-inc","title":"Lipps Inc.","roleSlug":true}],"debutRank":24.9,"peakRank":8.6,"duration":3,"score":1.98,"genres":[{"slug":"disco","title":"Disco"}],"playlists":[],"source":null,"rank":1512}
+{
+  "title": "Funkytown",
+  "instanceSlug": 145,
+  "tags": [
+    "#1",
+    "disco",
+    "remade"
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1980-05",
+  "ranks": [
+    24.9,
+    14.6,
+    8.6,
+    11,
+    16.2,
+    23.8,
+    34.8,
+    51.1,
+    74.8,
+    109.6
+  ],
+  "artists": [
+    {
+      "slug": "lipps-inc",
+      "title": "Lipps Inc.",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.106,
+    0.282,
+    0.2,
+    0.071,
+    0.066,
+    0.056,
+    0.041,
+    0.021,
+    0
+  ],
+  "debutScore": 0.106,
+  "peakScore": 0.071,
+  "duration": 2.25,
+  "score": 0.843,
+  "genres": [
+    {
+      "slug": "disco",
+      "title": "Disco"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1525
+}

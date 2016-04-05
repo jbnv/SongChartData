@@ -1,1 +1,21 @@
-{"title":"I'd Lie For You (And That's the Truth)","instanceSlug":1362,"tags":["for-you"],"parents":[],"genre":"rock","debut":"1995-11","playlists":["ballad"],"ranks":[],"artists":{"meatloaf":true}}
+{
+  "title": "I'd Lie For You (And That's the Truth)",
+  "instanceSlug": 1362,
+  "tags": [
+    "for-you"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1995-11",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "meatloaf": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,22 @@
-{"title":"Too Much Information","instanceSlug":1198,"tags":["much","too","too-much"],"parents":[],"genre":"pop","debut":"1993-10","playlists":[],"ranks":[],"artists":{"duran-duran":true}}
+{
+  "title": "Too Much Information",
+  "instanceSlug": 1198,
+  "tags": [
+    "much",
+    "too",
+    "too-much"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "duran-duran": true
+  },
+  "scores": [
+  ]
+}

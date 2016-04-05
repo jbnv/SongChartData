@@ -1,1 +1,69 @@
-{"title":"Learn to Fly","instanceSlug":1433,"tags":["#1","#1-modern-rock"],"parents":[],"genre":"modern-rock","debut":"1999-12","playlists":[],"ranks":[12,3,1.35,1.45,1.58,1.75,2,2.25,2.75,3.5,4.5,5.75,7.25,9,11,13.25,15.75,18.5,21.5,24.75,28.25,32,36,40.25,44.75,49.5,54.5,59.75],"artists":[{"slug":"foo-fighters","title":"Foo Fighters","roleSlug":true}],"debutRank":12,"peakRank":1.35,"duration":7,"score":26.87,"genres":[{"slug":"modern-rock","title":"Modern Rock"}],"source":null,"rank":94}
+{
+  "title": "Learn to Fly",
+  "instanceSlug": 1433,
+  "tags": [
+    "#1",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "modern-rock",
+  "debut": "1999-12",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3,
+    1.35,
+    1.45,
+    1.58,
+    1.75,
+    2
+  ],
+  "artists": [
+    {
+      "slug": "foo-fighters",
+      "title": "Foo Fighters",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.633,
+    0.899,
+    0.876,
+    0.847,
+    0.813,
+    0.768,
+    0.763,
+    0.753,
+    0.738,
+    0.718,
+    0.693,
+    0.663,
+    0.628,
+    0.588,
+    0.543,
+    0.493,
+    0.438,
+    0.378,
+    0.313,
+    0.243,
+    0.168,
+    0.088,
+    0.003,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 6.25,
+  "score": 13.217999999999998,
+  "genres": [
+    {
+      "slug": "modern-rock",
+      "title": "Modern Rock"
+    }
+  ],
+  "source": null,
+  "rank": 128
+}

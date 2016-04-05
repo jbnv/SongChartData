@@ -1,1 +1,62 @@
-{"title":"Dreamer","instanceSlug":1003,"tags":[],"parents":[],"genre":"pop","debut":"1980-10","playlists":[],"ranks":[12.5,2.8,1.7,1.85,2.21,2.57,3.29,4.37,5.81,7.61,9.77,12.29,15.17,18.41,22.01,25.97,30.29,34.97,40.01,45.41,51.17,57.29,63.77,70.61],"artists":[{"slug":"supertramp","title":"Supertramp","roleSlug":true}],"debutRank":12.5,"peakRank":1.7,"duration":6,"score":18.69,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":391}
+{
+  "title": "Dreamer",
+  "instanceSlug": 1003,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-10",
+  "playlists": [
+  ],
+  "ranks": [
+    12.5,
+    2.8,
+    1.7,
+    1.85,
+    2.21
+  ],
+  "artists": [
+    {
+      "slug": "supertramp",
+      "title": "Supertramp",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.158,
+    0.656,
+    0.823,
+    0.794,
+    0.735,
+    0.73,
+    0.72,
+    0.705,
+    0.685,
+    0.66,
+    0.63,
+    0.595,
+    0.555,
+    0.51,
+    0.46,
+    0.405,
+    0.345,
+    0.28,
+    0.21,
+    0.135,
+    0.055,
+    0
+  ],
+  "debutScore": 0.158,
+  "peakScore": 0.158,
+  "duration": 5.5,
+  "score": 10.846,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 277
+}

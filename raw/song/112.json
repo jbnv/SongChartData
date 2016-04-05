@@ -1,1 +1,38 @@
-{"title":"We Built This City","instanceSlug":112,"tags":["build","city","this"],"parents":[],"genre":"pop","debut":"1985-08","ranks":[17.9,10.6,7.3,9.9,13.3,17.8,24,32.2,43.2,58.1,78,104.7],"artists":{"starship":true}}
+{
+  "title": "We Built This City",
+  "instanceSlug": 112,
+  "tags": [
+    "build",
+    "city",
+    "this"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    9.9,
+    13.3,
+    17.8,
+    24,
+    32.2,
+    43.2,
+    58.1,
+    78,
+    104.7
+  ],
+  "artists": {
+    "starship": true
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.235,
+    0.137,
+    0.04
+  ]
+}

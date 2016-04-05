@@ -1,1 +1,30 @@
-{"title":"Communication","instanceSlug":2657,"tags":[],"parents":[],"genre":"rock","debut":"1985-10","playlists":[],"ranks":[],"artists":[{"slug":"power-station","title":"Power Station","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1824}
+{
+  "title": "Communication",
+  "instanceSlug": 2657,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "power-station",
+      "title": "Power Station",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1824
+}

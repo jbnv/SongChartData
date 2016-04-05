@@ -1,1 +1,71 @@
-{"title":"Good Enough","instanceSlug":1063,"tags":["enough","good"],"parents":[],"genre":"soul","debut":"1992-10","playlists":[],"ranks":[16,11,8,5,3.3,3.2,3.4,3.7,3.98,4.4,4.82,5.66,6.92,8.6,10.7,13.22,16.16,19.52,23.3,27.5,32.12,37.16,42.62,48.5,54.8,61.52,68.66,76.22],"artists":[{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":true}],"debutRank":16,"peakRank":3.2,"duration":7,"score":19.29,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":355}
+{
+  "title": "Good Enough",
+  "instanceSlug": 1063,
+  "tags": [
+    "enough",
+    "good"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1992-10",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    11,
+    8,
+    5,
+    3.3,
+    3.2,
+    3.4,
+    3.7,
+    3.98,
+    4.4
+  ],
+  "artists": [
+    {
+      "slug": "bobby-brown",
+      "title": "Bobby Brown",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.2,
+    0.306,
+    0.463,
+    0.602,
+    0.612,
+    0.592,
+    0.563,
+    0.539,
+    0.506,
+    0.501,
+    0.491,
+    0.476,
+    0.456,
+    0.431,
+    0.401,
+    0.366,
+    0.326,
+    0.281,
+    0.231,
+    0.176,
+    0.116,
+    0.051,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6,
+  "score": 8.761,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 503
+}

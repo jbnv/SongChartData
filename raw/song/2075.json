@@ -1,1 +1,23 @@
-{"title":"Run to You","instanceSlug":2075,"tags":[],"parents":[],"genre":"rock","debut":"1984-12","playlists":["feb13","cheating"],"ranks":[25,30],"artists":{"bryan-adams":true}}
+{
+  "title": "Run to You",
+  "instanceSlug": 2075,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-12",
+  "playlists": [
+    "feb13",
+    "cheating"
+  ],
+  "ranks": [
+    25,
+    30
+  ],
+  "artists": {
+    "bryan-adams": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,63 @@
-{"title":"Ooh Ahh… Just a Little Bit","instanceSlug":1913,"tags":[],"parents":[],"genre":"dance","debut":"1997-01","playlists":[],"ranks":[16,10,7,5.2,4.5,4,4.51,5.02,6.04,7.57,9.61,12.16,15.22,18.79,22.87,27.46,32.56,38.17,44.29,50.92],"artists":[{"slug":"gina-g","title":"Gina G","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":5,"score":13.08,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":735}
+{
+  "title": "Ooh Ahh… Just a Little Bit",
+  "instanceSlug": 1913,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1997-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.2,
+    4.5,
+    4,
+    4.51
+  ],
+  "artists": [
+    {
+      "slug": "gina-g",
+      "title": "Gina G",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.45,
+    0.498,
+    0.537,
+    0.497,
+    0.492,
+    0.482,
+    0.467,
+    0.447,
+    0.422,
+    0.392,
+    0.357,
+    0.317,
+    0.272,
+    0.222,
+    0.167,
+    0.107,
+    0.042,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 6.8260000000000005,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 758
+}

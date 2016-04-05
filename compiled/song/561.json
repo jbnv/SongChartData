@@ -1,1 +1,29 @@
-{"title":"Red Red Wine","instanceSlug":561,"tags":[],"parents":[],"debut":"1988-08","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[],"artists":[{"slug":"ub40","title":"UB40","roleSlug":true}],"genres":[],"source":null,"rank":2571}
+{
+  "title": "Red Red Wine",
+  "instanceSlug": 561,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": "1988-08",
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "ub40",
+      "title": "UB40",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 2571
+}

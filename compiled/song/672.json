@@ -1,1 +1,30 @@
-{"title":"Just What I Needed","instanceSlug":672,"tags":[],"parents":[],"genre":"rock","debut":"1970s","playlists":[],"ranks":[],"artists":[{"slug":"cars","title":"The Cars","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2694}
+{
+  "title": "Just What I Needed",
+  "instanceSlug": 672,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1970s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "cars",
+      "title": "The Cars",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2694
+}

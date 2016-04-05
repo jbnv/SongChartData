@@ -1,1 +1,21 @@
-{"title":"Nobody Knows","instanceSlug":1392,"tags":["#2","#2-hot-100"],"parents":[],"genre":"soul","debut":"1996-02","playlists":[],"ranks":[],"artists":{"tony-rich-project":true}}
+{
+  "title": "Nobody Knows",
+  "instanceSlug": 1392,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1996-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "tony-rich-project": true
+  },
+  "scores": [
+  ]
+}

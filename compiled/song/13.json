@@ -1,1 +1,59 @@
-{"title":"Devil Woman","instanceSlug":13,"tags":["halloween"],"parents":[],"genre":"pop","debut":1976,"ranks":[16.5,10.2,7,4.3,5.2,6.1,7.9,10.6,14.2,18.7,24.1,30.4,37.6,45.7,54.7,64.6],"artists":[{"slug":"cliff-richard","title":"Cliff Richard","roleSlug":true}],"debutRank":16.5,"peakRank":4.3,"duration":4,"score":8,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1110}
+{
+  "title": "Devil Woman",
+  "instanceSlug": 13,
+  "tags": [
+    "halloween"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1976,
+  "ranks": [
+    16.5,
+    10.2,
+    7,
+    4.3,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "cliff-richard",
+      "title": "Cliff Richard",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.065,
+    0.225,
+    0.351,
+    0.513,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 4.5,
+  "score": 5.183999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 984
+}

@@ -1,1 +1,62 @@
-{"title":"This Time I Know It's For Real","instanceSlug":2736,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,2,2.4,2.8,3.6,4.8,6.4,8.4,10.8,13.6,16.8,20.4,24.4,28.8,33.6,38.8,44.4,50.4,56.8,63.6],"artists":[{"slug":"donna-summer","title":"Donna Summer","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":5,"score":13.27,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":718}
+{
+  "title": "This Time I Know It's For Real",
+  "instanceSlug": 2736,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1989-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12,
+    2,
+    2.4
+  ],
+  "artists": [
+    {
+      "slug": "donna-summer",
+      "title": "Donna Summer",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.768,
+    0.708,
+    0.703,
+    0.693,
+    0.678,
+    0.658,
+    0.633,
+    0.603,
+    0.568,
+    0.528,
+    0.483,
+    0.433,
+    0.378,
+    0.318,
+    0.253,
+    0.183,
+    0.108,
+    0.028,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5,
+  "score": 8.895,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 488
+}

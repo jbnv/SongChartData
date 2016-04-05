@@ -1,1 +1,64 @@
-{"title":"Just a Gigolo/I Ain't Got Nobody","instanceSlug":1977,"tags":[],"parents":[],"genre":"pop","debut":"1985-05","playlists":[],"ranks":[14,7,4.5,3.3,2.9,3.2,3.6,4,4.8,6,7.6,9.6,12,14.8,18,21.6,25.6,30,34.8,40,45.6,51.6,58,64.8],"artists":[{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":true}],"debutRank":14,"peakRank":2.9,"duration":6,"score":17.1,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":464}
+{
+  "title": "Just a Gigolo/I Ain't Got Nobody",
+  "instanceSlug": 1977,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-05",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    7,
+    4.5,
+    3.3,
+    2.9,
+    3.2,
+    3.6
+  ],
+  "artists": [
+    {
+      "slug": "david-lee-roth",
+      "title": "David Lee Roth",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.351,
+    0.498,
+    0.602,
+    0.645,
+    0.612,
+    0.573,
+    0.568,
+    0.558,
+    0.543,
+    0.523,
+    0.498,
+    0.468,
+    0.433,
+    0.393,
+    0.348,
+    0.298,
+    0.243,
+    0.183,
+    0.118,
+    0.048,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 8.623,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 517
+}

@@ -1,5 +1,36 @@
-{"title":"Lucy in the Sky with Diamonds","instanceSlug":2406,"tags":[],"parents":[],"genre":"rock","debut":"1960s","playlists":[],"ranks":[25,20,15,12,10,11,14],"artists":{"beatles":true,
-"john-lennon":"lead",
-"paul-mccartney":"member",
-"george-harrison":"member",
-"ringo-starr":"member"}}
+{
+  "title": "Lucy in the Sky with Diamonds",
+  "instanceSlug": 2406,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    20,
+    15,
+    12,
+    10,
+    11,
+    14
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "lead",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.001,
+    0.097,
+    0.171,
+    0.232,
+    0.2,
+    0.12
+  ]
+}

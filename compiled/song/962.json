@@ -1,1 +1,63 @@
-{"title":"Alibis","instanceSlug":962,"tags":[],"parents":[],"genre":"pop","debut":1984,"playlists":[],"ranks":[15,8.1,4.4,2.3,2.5,3.5,5,6.5,9.5,14,20,27.5,36.5,47,59,72.5],"artists":[{"slug":"sergio-mendez","title":"Sergio Mendez","roleSlug":true}],"debutRank":15,"peakRank":2.3,"duration":4,"score":12.35,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":796}
+{
+  "title": "Alibis",
+  "instanceSlug": 962,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1984,
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.1,
+    4.4,
+    2.3,
+    2.5,
+    3.5,
+    5
+  ],
+  "artists": [
+    {
+      "slug": "sergio-mendez",
+      "title": "Sergio Mendez",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.302,
+    0.506,
+    0.722,
+    0.694,
+    0.582,
+    0.463,
+    0.458,
+    0.448,
+    0.433,
+    0.413,
+    0.388,
+    0.358,
+    0.323,
+    0.283,
+    0.238,
+    0.188,
+    0.133,
+    0.073,
+    0.008,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 7.11,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 719
+}

@@ -1,7 +1,8 @@
 {
   "title": "Jump (for My Love)",
   "instanceSlug": 108,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "dance",
   "debut": "1984-05",
   "ranks": [
@@ -13,5 +14,12 @@
   ],
   "artists": {
     "pointer-sisters": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.546,
+    0.752,
+    0.715,
+    0.639
+  ]
 }

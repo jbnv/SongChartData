@@ -1,1 +1,38 @@
-{"title":"Owner of a Lonely Heart","instanceSlug":326,"tags":["heart","lonely","own"],"parents":[],"genre":true,"debut":"1984-01","playlists":[],"ranks":[15.9,9,5,3,4.2,5.9,8.2,11.5],"artists":{"yes":true}}
+{
+  "title": "Owner of a Lonely Heart",
+  "instanceSlug": 326,
+  "tags": [
+    "heart",
+    "lonely",
+    "own"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1984-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    4.2,
+    5.9,
+    8.2,
+    11.5
+  ],
+  "artists": {
+    "yes": true
+  },
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.521,
+    0.408,
+    0.298,
+    0.185
+  ]
+}

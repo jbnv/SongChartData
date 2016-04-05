@@ -1,1 +1,33 @@
-{"title":"Dr. Heckle & Mr. Jive","instanceSlug":618,"tags":[],"parents":[],"genre":true,"debut":1983,"playlists":[],"ranks":[17,11.7,6.8,6.4,6.6,7.2,9],"artists":{"men-at-work":true}}
+{
+  "title": "Dr. Heckle & Mr. Jive",
+  "instanceSlug": 618,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1983,
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.7,
+    6.8,
+    6.4,
+    6.6,
+    7.2,
+    9
+  ],
+  "artists": {
+    "men-at-work": true
+  },
+  "scores": [
+    0.055,
+    0.18,
+    0.361,
+    0.381,
+    0.37,
+    0.341,
+    0.267
+  ]
+}

@@ -1,1 +1,19 @@
-{"title":"Lady","instanceSlug":987,"tags":[],"parents":[],"genre":"country","debut":"1980-09","playlists":[],"ranks":[],"artists":{"kenny-rogers":true}}
+{
+  "title": "Lady",
+  "instanceSlug": 987,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1980-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "kenny-rogers": true
+  },
+  "scores": [
+  ]
+}

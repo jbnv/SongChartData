@@ -1,1 +1,29 @@
-{"title":"Rock and Roll Heaven","instanceSlug":"rrheaven","tags":[],"parents":[],"debut":1974,"playlists":[{"slug":"tribute","title":"Tribute Songs"}],"ranks":[],"artists":[{"slug":"righteous-brothers","title":"Righteous Brothers","roleSlug":true}],"genres":[],"source":null,"rank":3101}
+{
+  "title": "Rock and Roll Heaven",
+  "instanceSlug": "rrheaven",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": 1974,
+  "playlists": [
+    {
+      "slug": "tribute",
+      "title": "Tribute Songs"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "righteous-brothers",
+      "title": "Righteous Brothers",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 3103
+}

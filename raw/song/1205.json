@@ -1,1 +1,25 @@
-{"title":"Give Me Just a Little More Time","instanceSlug":1205,"tags":["give-me","just","little","","more","time"],"parents":[],"genre":"pop","debut":1992,"playlists":[],"ranks":[],"artists":{"kylie-minogue":true}}
+{
+  "title": "Give Me Just a Little More Time",
+  "instanceSlug": 1205,
+  "tags": [
+    "give-me",
+    "just",
+    "little",
+    "",
+    "more",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1992,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "kylie-minogue": true
+  },
+  "scores": [
+  ]
+}

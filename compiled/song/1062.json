@@ -1,1 +1,65 @@
-{"title":"To Love Somebody","instanceSlug":1062,"tags":["#1","#1-adult-contemporary","remake","to-love"],"parents":[],"genre":"adult-contemporary","debut":"1992-11","playlists":[],"ranks":[14.5,5.9,3.8,2.5,2.75,3,3.5,4.25,5.25,6.5,8,9.75,11.75,14,16.5,19.25,22.25,25.5,29,32.75,36.75,41,45.5,50.25],"artists":[{"slug":"michael-bolton","title":"Michael Bolton","roleSlug":true}],"debutRank":14.5,"peakRank":2.5,"duration":6,"score":17.74,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":429}
+{
+  "title": "To Love Somebody",
+  "instanceSlug": 1062,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "remake",
+    "to-love"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1992-11",
+  "playlists": [
+  ],
+  "ranks": [
+    14.5,
+    5.9,
+    3.8,
+    2.5,
+    2.75
+  ],
+  "artists": [
+    {
+      "slug": "michael-bolton",
+      "title": "Michael Bolton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.108,
+    0.408,
+    0.554,
+    0.694,
+    0.662,
+    0.657,
+    0.647,
+    0.632,
+    0.612,
+    0.587,
+    0.557,
+    0.522,
+    0.482,
+    0.437,
+    0.387,
+    0.332,
+    0.272,
+    0.207,
+    0.137,
+    0.062,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 5.25,
+  "score": 8.956000000000003,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 481
+}

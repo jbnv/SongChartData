@@ -4,7 +4,8 @@
   "tags": [
     "crazy"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1987-12",
   "ranks": [
@@ -18,5 +19,14 @@
   ],
   "artists": {
     "icehouse": true
-  }
+  },
+  "scores": [
+    0.003,
+    0.174,
+    0.249,
+    0.286,
+    0.271,
+    0.246,
+    0.194
+  ]
 }

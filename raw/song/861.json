@@ -5,10 +5,12 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "adult-contemporary",
   "debut": "1988-01",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     14,
     4.1,
@@ -22,7 +24,17 @@
   "artists": {
     "fleetwood-mac": true,
     "christine-mcvie": "lead",
-    "stevie-nicks":"member",
-    "lindsay-buckingham":"member"
-  }
+    "stevie-nicks": "member",
+    "lindsay-buckingham": "member"
+  },
+  "scores": [
+    0.12,
+    0.529,
+    0.965,
+    0.943,
+    0.92,
+    0.885,
+    0.819,
+    0.76
+  ]
 }

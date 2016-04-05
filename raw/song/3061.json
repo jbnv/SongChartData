@@ -1,14 +1,38 @@
 {
   "title": "I'll Never Get Over You Getting Over Me",
   "instanceSlug": 3061,
-  "tags": ["#1","#1-adult-contemporary"],
-  "genres": ["pop","adult-contemporary"],
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genres": [
+    "pop",
+    "adult-contemporary"
+  ],
   "debut": "1993-06",
   "playlists": [
-    "summer","ballad"
+    "summer",
+    "ballad"
   ],
-  "ranks": [15,10,5,3.5,2.5,2.7,3.1],
+  "ranks": [
+    15,
+    10,
+    5,
+    3.5,
+    2.5,
+    2.7,
+    3.1
+  ],
   "artists": {
     "expose": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.232,
+    0.463,
+    0.582,
+    0.694,
+    0.668,
+    0.622
+  ]
 }

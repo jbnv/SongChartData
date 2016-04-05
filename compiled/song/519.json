@@ -1,1 +1,59 @@
-{"title":"End of the Innocence","instanceSlug":519,"tags":["#1","#1-mainstream-rock"],"genre":"adult-contemporary","debut":"1989-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[18,13,11,9,10.2,11.4,13.8,17.4,22.2,28.2,35.4,43.8,53.4,64.2,76.2,89.4],"artists":[{"slug":"don-henley","title":"Don Henley","roleSlug":true}],"debutRank":18,"peakRank":9,"duration":4,"score":3.71,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1417}
+{
+  "title": "End of the Innocence",
+  "instanceSlug": 519,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1989-07",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    18,
+    13,
+    11,
+    9,
+    10.2
+  ],
+  "artists": [
+    {
+      "slug": "don-henley",
+      "title": "Don Henley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.145,
+    0.2,
+    0.267,
+    0.225,
+    0.22,
+    0.21,
+    0.195,
+    0.175,
+    0.15,
+    0.12,
+    0.085,
+    0.045,
+    0,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 3.75,
+  "score": 2.073,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1419
+}

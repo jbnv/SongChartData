@@ -1,1 +1,59 @@
-{"title":"Sorry","instanceSlug":"sorry2015","tags":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[16,10,5.7,3,3.2,3.4,3.8,4.4,5.2,6.2,7.4,8.8,10.4,12.2,14.2,16.4,18.8,21.4,24.2,27.2,30.4,33.8,37.4,41.2,45.2,49.4,53.8,58.4],"artists":[{"slug":"justin-bieber","title":"Justin Bieber","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":7,"score":17.01,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":467}
+{
+  "title": "Sorry",
+  "instanceSlug": "sorry2015",
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    5.7,
+    3,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "justin-bieber",
+      "title": "Justin Bieber",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.419,
+    0.633,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 7.7509999999999994,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 637
+}

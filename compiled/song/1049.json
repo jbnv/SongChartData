@@ -1,1 +1,76 @@
-{"title":"Disco Lady","instanceSlug":1049,"tags":["disco","lady"],"parents":[],"genre":"soul","debut":1976,"playlists":[],"ranks":[16,8,5,3.5,2.5,2.2,2.3,2.6,3,3.5,4,4.7,5.5,6.3,7.9,10.3,13.5,17.5,22.3,27.9,34.3,41.5,49.5,58.3],"artists":[{"slug":"johnnie-taylor","title":"Johnnie Taylor","roleSlug":true}],"debutRank":16,"peakRank":2.2,"duration":6,"score":24.1,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":165}
+{
+  "title": "Disco Lady",
+  "instanceSlug": 1049,
+  "tags": [
+    "disco",
+    "lady"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    5,
+    3.5,
+    2.5,
+    2.2,
+    2.3,
+    2.6,
+    3,
+    3.5,
+    4,
+    4.7,
+    5.5
+  ],
+  "artists": [
+    {
+      "slug": "johnnie-taylor",
+      "title": "Johnnie Taylor",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.306,
+    0.463,
+    0.582,
+    0.694,
+    0.737,
+    0.722,
+    0.681,
+    0.633,
+    0.582,
+    0.537,
+    0.484,
+    0.431,
+    0.426,
+    0.416,
+    0.401,
+    0.381,
+    0.356,
+    0.326,
+    0.291,
+    0.251,
+    0.206,
+    0.156,
+    0.101,
+    0.041,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6.5,
+  "score": 10.279000000000002,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 331
+}

@@ -1,1 +1,19 @@
-{"title":"Mr. Brightside","instanceSlug":2339,"tags":[],"parents":[],"genre":"rock","debut":2005,"playlists":[],"ranks":[],"artists":{"killers":true}}
+{
+  "title": "Mr. Brightside",
+  "instanceSlug": 2339,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 2005,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "killers": true
+  },
+  "scores": [
+  ]
+}

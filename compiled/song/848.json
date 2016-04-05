@@ -1,1 +1,54 @@
-{"title":"I Can't Wait","instanceSlug":848,"tags":[],"parents":[],"genre":"pop","debut":"1986-04","playlists":[],"ranks":[15,8.8,5.6,7.5,9.4,13.2,18.9,26.5,36,47.4,60.7,75.9],"artists":[{"slug":"nu-shooz","title":"Nu Shooz","roleSlug":true}],"debutRank":15,"peakRank":5.6,"duration":3,"score":4.62,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1359}
+{
+  "title": "I Can't Wait",
+  "instanceSlug": 848,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.8,
+    5.6,
+    7.5
+  ],
+  "artists": [
+    {
+      "slug": "nu-shooz",
+      "title": "Nu Shooz",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.275,
+    0.425,
+    0.328,
+    0.323,
+    0.313,
+    0.298,
+    0.278,
+    0.253,
+    0.223,
+    0.188,
+    0.148,
+    0.103,
+    0.053,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3.75,
+  "score": 3.305,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1261
+}

@@ -6,13 +6,30 @@
     "#1-country",
     "you-and-i"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "country",
   "debut": "1982-11",
-  "playlists": [],
-  "ranks": [10,1.4,1.15,1.25,1.39,1.55],
+  "playlists": [
+  ],
+  "ranks": [
+    10,
+    1.4,
+    1.15,
+    1.25,
+    1.39,
+    1.55
+  ],
   "artists": {
     "eddie-rabbitt": true,
     "crystal-gayle": "feature"
-  }
+  },
+  "scores": [
+    0.232,
+    0.887,
+    0.953,
+    0.925,
+    0.89,
+    0.853
+  ]
 }

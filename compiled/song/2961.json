@@ -1,1 +1,32 @@
-{"title":"War","instanceSlug":2961,"tags":["#1","#1-hot-100"],"parents":[],"genre":"urban","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"edwin-starr","title":"Edwin Starr","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":2162}
+{
+  "title": "War",
+  "instanceSlug": 2961,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1970,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "edwin-starr",
+      "title": "Edwin Starr",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 2162
+}

@@ -1,12 +1,30 @@
 {
   "title": "Eyes Without a Face",
   "instanceSlug": 190,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1984-06",
-  "ranks": [25,20,18,15,14,14.8,16.2],
+  "ranks": [
+    25,
+    20,
+    18,
+    15,
+    14,
+    14.8,
+    16.2
+  ],
   "artists": {
     "billy-idol": true
-  }
+  },
+  "scores": [
+    0.001,
+    0.036,
+    0.097,
+    0.12,
+    0.101,
+    0.071
+  ]
 }

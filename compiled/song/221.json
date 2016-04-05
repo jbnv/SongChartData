@@ -1,1 +1,63 @@
-{"title":"You Are the Girl","instanceSlug":221,"tags":[],"parents":[],"genre":"rock","debut":"1987-09","ranks":[17,10,7.2,5.6,5.74,5.99,6.35,6.79,7.23,8.11,9.43,11.19,13.39,16.03,19.11,22.63,26.59,30.99,35.83,41.11,46.83,52.99,59.59,66.63],"artists":[{"slug":"cars","title":"The Cars","roleSlug":true}],"debutRank":17,"peakRank":5.6,"duration":6,"score":11.82,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":832}
+{
+  "title": "You Are the Girl",
+  "instanceSlug": 221,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-09",
+  "ranks": [
+    17,
+    10,
+    7.2,
+    5.6,
+    5.74,
+    5.99,
+    6.35,
+    6.79
+  ],
+  "artists": [
+    {
+      "slug": "cars",
+      "title": "The Cars",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.341,
+    0.425,
+    0.417,
+    0.403,
+    0.383,
+    0.361,
+    0.356,
+    0.346,
+    0.331,
+    0.311,
+    0.286,
+    0.256,
+    0.221,
+    0.181,
+    0.136,
+    0.086,
+    0.031,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5,
+  "score": 5.158,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 989
+}

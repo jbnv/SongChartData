@@ -1,1 +1,21 @@
-{"title":"Disturbia","instanceSlug":2714,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":2008,"playlists":[],"ranks":[],"artists":{"rihanna":true}}
+{
+  "title": "Disturbia",
+  "instanceSlug": 2714,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2008,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "rihanna": true
+  },
+  "scores": [
+  ]
+}

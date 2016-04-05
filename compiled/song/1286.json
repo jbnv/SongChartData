@@ -1,1 +1,69 @@
-{"title":"Turn the Beat Around","instanceSlug":1286,"tags":[],"genre":"disco","debut":"1994-11","playlists":[{"slug":"remake","title":"Remakes"}],"source":{"title":"Specialist, The","instanceSlug":"specialist","tags":[],"parents":[],"type":"movie"},"ranks":[20,13,10,8,6,6.5,7,8,9.5,11.5,14,17,20.5,24.5,29,34,39.5,45.5,52,59],"artists":[{"slug":"gloria-estefan","title":"Gloria Estefan","roleSlug":true}],"debutRank":20,"peakRank":6,"duration":5,"score":8.2,"genres":[{"slug":"disco","title":"Disco"}],"rank":1095}
+{
+  "title": "Turn the Beat Around",
+  "instanceSlug": 1286,
+  "tags": [
+  ],
+  "genre": "disco",
+  "debut": "1994-11",
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "source": {
+    "title": "Specialist, The",
+    "instanceSlug": "specialist",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "ranks": [
+    20,
+    13,
+    10,
+    8,
+    6,
+    6.5
+  ],
+  "artists": [
+    {
+      "slug": "gloria-estefan",
+      "title": "Gloria Estefan",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.145,
+    0.232,
+    0.306,
+    0.402,
+    0.376,
+    0.371,
+    0.361,
+    0.346,
+    0.326,
+    0.301,
+    0.271,
+    0.236,
+    0.196,
+    0.151,
+    0.101,
+    0.046,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.5,
+  "score": 4.168000000000001,
+  "genres": [
+    {
+      "slug": "disco",
+      "title": "Disco"
+    }
+  ],
+  "rank": 1134
+}

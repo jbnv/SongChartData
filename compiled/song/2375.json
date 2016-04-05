@@ -1,1 +1,36 @@
-{"title":"You Got It All","instanceSlug":2375,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1987-02","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3001}
+{
+  "title": "You Got It All",
+  "instanceSlug": 2375,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-02",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jets",
+      "title": "The Jets",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3002
+}

@@ -1,1 +1,34 @@
-{"title":"Baby I'm Yours","instanceSlug":714,"tags":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"urban","title":"Urban / R&B"}],"debut":"1993-07","playlists":[],"ranks":[],"artists":[{"slug":"shai","title":"Shai","roleSlug":true}],"source":null,"rank":2739}
+{
+  "title": "Baby I'm Yours",
+  "instanceSlug": 714,
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "r&b"
+    },
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "debut": "1993-07",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "shai",
+      "title": "Shai",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "source": null,
+  "rank": 2739
+}

@@ -1,1 +1,53 @@
-{"title":"White Wedding","instanceSlug":2499,"tags":[],"parents":[],"genre":"rock","debut":"1983-07","playlists":[],"ranks":[24,15,12,10,10.9,11.8,13.6,16.3,19.9,24.4,29.8,36.1,43.3,51.4,60.4,70.3],"artists":[{"slug":"billy-idol","title":"Billy Idol","roleSlug":true}],"debutRank":24,"peakRank":10,"duration":4,"score":3.26,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1439}
+{
+  "title": "White Wedding",
+  "instanceSlug": 2499,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-07",
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    15,
+    12,
+    10,
+    10.9
+  ],
+  "artists": [
+    {
+      "slug": "billy-idol",
+      "title": "Billy Idol",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.171,
+    0.232,
+    0.203,
+    0.198,
+    0.188,
+    0.173,
+    0.153,
+    0.128,
+    0.098,
+    0.063,
+    0.023,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3.25,
+  "score": 1.727,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1439
+}

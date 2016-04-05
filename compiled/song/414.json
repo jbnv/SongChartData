@@ -1,1 +1,33 @@
-{"title":"Paradise by the Dashboard Light","instanceSlug":414,"tags":["car"],"parents":[],"genre":"pop","debut":"1978-10","playlists":[],"ranks":[25,30,35,45,60,80,105,135],"artists":[{"slug":"meatloaf","title":"Meat Loaf","roleSlug":true}],"debutRank":25,"peakRank":25,"duration":2,"score":0,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2408}
+{
+  "title": "Paradise by the Dashboard Light",
+  "instanceSlug": 414,
+  "tags": [
+    "car"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-10",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    30
+  ],
+  "artists": [
+    {
+      "slug": "meatloaf",
+      "title": "Meat Loaf",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2408
+}

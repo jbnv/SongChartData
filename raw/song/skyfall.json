@@ -1,13 +1,21 @@
 {
   "title": "Skyfall",
   "instanceSlug": "skyfall",
-  "words": ["sky","fall"],
+  "words": [
+    "sky",
+    "fall"
+  ],
   "genre": "pop",
   "debut": "2010s",
   "source": "skyfall",
-  "playlists": ["james-bond"],
-  "ranks": [],
+  "playlists": [
+    "james-bond"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "adele": true
-  }
+  },
+  "scores": [
+  ]
 }

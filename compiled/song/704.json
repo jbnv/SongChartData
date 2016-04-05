@@ -1,1 +1,66 @@
-{"title":"Can We Talk","instanceSlug":704,"tags":[],"parents":[],"genre":"soul","debut":"1993-10","playlists":[],"ranks":[15,8.9,6.4,6.2,6,6.15,6.3,6.5,6.9,7.7,8.5,10.1,12.5,15.7,19.7,24.5,30.1,36.5,43.7,51.7],"artists":[{"slug":"tevin-campbell","title":"Tevin Campbell","roleSlug":true}],"debutRank":15,"peakRank":6,"duration":5,"score":12.42,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":786}
+{
+  "title": "Can We Talk",
+  "instanceSlug": 704,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1993-10",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.9,
+    6.4,
+    6.2,
+    6,
+    6.15,
+    6.3,
+    6.5,
+    6.9,
+    7.7
+  ],
+  "artists": [
+    {
+      "slug": "tevin-campbell",
+      "title": "Tevin Campbell",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.271,
+    0.381,
+    0.391,
+    0.402,
+    0.394,
+    0.386,
+    0.376,
+    0.356,
+    0.319,
+    0.314,
+    0.304,
+    0.289,
+    0.269,
+    0.244,
+    0.214,
+    0.179,
+    0.139,
+    0.094,
+    0.044,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 5.463000000000001,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 931
+}

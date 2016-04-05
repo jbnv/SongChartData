@@ -1,1 +1,32 @@
-{"title":"I Won't Forget You","instanceSlug":901,"tags":[],"parents":[],"genre":"rock","debut":"1987-10","playlists":["ballad"],"ranks":[18,14,11,10,9,10.5],"artists":{"poison":true}}
+{
+  "title": "I Won't Forget You",
+  "instanceSlug": 901,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    18,
+    14,
+    11,
+    10,
+    9,
+    10.5
+  ],
+  "artists": {
+    "poison": true
+  },
+  "scores": [
+    0.036,
+    0.12,
+    0.2,
+    0.232,
+    0.267,
+    0.216
+  ]
+}

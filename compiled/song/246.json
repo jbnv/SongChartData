@@ -1,1 +1,69 @@
-{"title":"Giving Him Something He Can Feel","instanceSlug":246,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"pop","debut":"1992-07","ranks":[10,2.7,1.13,1.25,1.39,1.57,1.885,2.2,2.83,3.78,5.04,6.61,8.5,10.71,13.23,16.06,19.21,22.67,26.46,30.55,34.96,39.68,44.72,50.08],"artists":[{"slug":"en-vogue","title":"En Vogue","roleSlug":true}],"debutRank":10,"peakRank":1.13,"duration":6,"score":26.45,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":101}
+{
+  "title": "Giving Him Something He Can Feel",
+  "instanceSlug": 246,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1992-07",
+  "ranks": [
+    10,
+    2.7,
+    1.13,
+    1.25,
+    1.39,
+    1.57,
+    1.885
+  ],
+  "artists": [
+    {
+      "slug": "en-vogue",
+      "title": "En Vogue",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.668,
+    0.959,
+    0.925,
+    0.89,
+    0.849,
+    0.788,
+    0.783,
+    0.773,
+    0.758,
+    0.738,
+    0.713,
+    0.683,
+    0.648,
+    0.608,
+    0.563,
+    0.513,
+    0.458,
+    0.398,
+    0.333,
+    0.263,
+    0.188,
+    0.108,
+    0.023,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 6.25,
+  "score": 13.862,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 87
+}

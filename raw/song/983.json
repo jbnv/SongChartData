@@ -1,1 +1,29 @@
-{"title":"Cry","instanceSlug":983,"tags":[],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[17.9,10.7,10.2,11.1,13.1],"artists":{"godley-cream":true}}
+{
+  "title": "Cry",
+  "instanceSlug": 983,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    10.2,
+    11.1,
+    13.1
+  ],
+  "artists": {
+    "godley-cream": true
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.225,
+    0.197,
+    0.142
+  ]
+}

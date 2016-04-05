@@ -1,10 +1,15 @@
 {
   "title": "The Living Years",
   "instanceSlug": 1923,
-  "tags": ["#1","#1-hot-100","#1-adult-contemporary"],
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-adult-contemporary"
+  ],
   "genre": "pop",
   "debut": "1989-02",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16,
     9,
@@ -15,7 +20,14 @@
   "artists": {
     "mike-mechanics": true,
     "paul-carrack": "lead",
-    "mike-rutherford":"member",
-    "paul-young-2":"member"
-  }
+    "mike-rutherford": "member",
+    "paul-young-2": "member"
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.463,
+    0.582,
+    0.498
+  ]
 }

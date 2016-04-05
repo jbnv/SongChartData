@@ -1,1 +1,66 @@
-{"title":"Skeletons","instanceSlug":625,"tags":["#1","halloween"],"parents":[],"genre":"soul","debut":"1987-11","playlists":[],"ranks":[10,5.7,3.3,3,3.15,3.35,3.68,4.01,4.67,5.66,6.98,8.63,10.61,12.92,15.56,18.53,21.83,25.46,29.42,33.71,38.33,43.28,48.56,54.17],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":10,"peakRank":3,"duration":6,"score":18.66,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":393}
+{
+  "title": "Skeletons",
+  "instanceSlug": 625,
+  "tags": [
+    "#1",
+    "halloween"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    10,
+    5.7,
+    3.3,
+    3,
+    3.15,
+    3.35,
+    3.68
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.419,
+    0.602,
+    0.633,
+    0.617,
+    0.597,
+    0.565,
+    0.56,
+    0.55,
+    0.535,
+    0.515,
+    0.49,
+    0.46,
+    0.425,
+    0.385,
+    0.34,
+    0.29,
+    0.235,
+    0.175,
+    0.11,
+    0.04,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 5.5,
+  "score": 8.774999999999997,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 499
+}

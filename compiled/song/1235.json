@@ -1,1 +1,64 @@
-{"title":"ABC","instanceSlug":1235,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":1970,"playlists":[],"ranks":[18,11,6,4,4.2,4.5,4.8,5.4,6.3,7.5,9,10.8,12.9,15.3,18,21,24.3,27.9,31.8,36,40.5,45.3,50.4,55.8],"artists":[{"slug":"jacksons","title":"Jackson 5 / Jacksons","roleSlug":true}],"debutRank":18,"peakRank":4,"duration":6,"score":13.73,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":692}
+{
+  "title": "ABC",
+  "instanceSlug": 1235,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1970,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    6,
+    4,
+    4.2,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "jacksons",
+      "title": "Jackson 5 / Jacksons",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.2,
+    0.402,
+    0.537,
+    0.521,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 6.392999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 822
+}

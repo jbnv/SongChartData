@@ -1,1 +1,21 @@
-{"title":"Go West","instanceSlug":1593,"tags":["go","west"],"parents":[],"genre":"pop","debut":"1993-12","playlists":[],"ranks":[],"artists":{"pet-shop-boys":true}}
+{
+  "title": "Go West",
+  "instanceSlug": 1593,
+  "tags": [
+    "go",
+    "west"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "pet-shop-boys": true
+  },
+  "scores": [
+  ]
+}

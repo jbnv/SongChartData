@@ -1,1 +1,21 @@
-{"title":"Strawberry Letter 23","instanceSlug":3060,"tags":[],"parents":[],"genre":"pop","debut":"1992-06","playlists":["remake","summer"],"ranks":[],"artists":{"tevin-campbell":true}}
+{
+  "title": "Strawberry Letter 23",
+  "instanceSlug": 3060,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-06",
+  "playlists": [
+    "remake",
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "tevin-campbell": true
+  },
+  "scores": [
+  ]
+}

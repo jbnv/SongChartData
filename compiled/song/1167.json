@@ -1,1 +1,30 @@
-{"title":"Play That Funky Music","instanceSlug":1167,"tags":[],"parents":[],"genre":"rap","debut":"1990-12","playlists":[],"ranks":[],"artists":[{"slug":"vanilla-ice","title":"Vanilla Ice","roleSlug":true}],"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":2385}
+{
+  "title": "Play That Funky Music",
+  "instanceSlug": 1167,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1990-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "vanilla-ice",
+      "title": "Vanilla Ice",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 2597
+}

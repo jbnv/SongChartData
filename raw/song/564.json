@@ -1,1 +1,28 @@
-{"title":"I've Seen Better Days","instanceSlug":564,"tags":[],"parents":[],"genre":true,"debut":"1999-09","playlists":["summer"],"ranks":[20,11.7,6.8,7.5],"artists":{"citizen-king":true}}
+{
+  "title": "I've Seen Better Days",
+  "instanceSlug": 564,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-09",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    20,
+    11.7,
+    6.8,
+    7.5
+  ],
+  "artists": {
+    "citizen-king": true
+  },
+  "scores": [
+    0.001,
+    0.18,
+    0.361,
+    0.328
+  ]
+}

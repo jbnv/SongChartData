@@ -1,1 +1,59 @@
-{"title":"Long December","instanceSlug":1888,"tags":[],"parents":[],"genre":"adult-alternative","debut":"1997-01","playlists":[{"slug":"months","title":"Months"}],"ranks":[21,15,10,8.5,9.4,10.8,12.2,15,19.2,24.8,31.8,40.2,50,61.2,73.8,87.8],"artists":[{"slug":"counting-crows","title":"Counting Crows","roleSlug":true}],"debutRank":21,"peakRank":8.5,"duration":4,"score":4.06,"genres":[{"slug":"adult-alternative","title":"Adult Alternative"}],"source":null,"rank":1389}
+{
+  "title": "Long December",
+  "instanceSlug": 1888,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-alternative",
+  "debut": "1997-01",
+  "playlists": [
+    {
+      "slug": "months",
+      "title": "Months"
+    }
+  ],
+  "ranks": [
+    21,
+    15,
+    10,
+    8.5,
+    9.4,
+    10.8
+  ],
+  "artists": [
+    {
+      "slug": "counting-crows",
+      "title": "Counting Crows",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.232,
+    0.286,
+    0.253,
+    0.206,
+    0.201,
+    0.191,
+    0.176,
+    0.156,
+    0.131,
+    0.101,
+    0.066,
+    0.026,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3.5,
+  "score": 2.122,
+  "genres": [
+    {
+      "slug": "adult-alternative",
+      "title": "Adult Alternative"
+    }
+  ],
+  "source": null,
+  "rank": 1408
+}

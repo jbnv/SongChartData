@@ -5,7 +5,9 @@
     "#1",
     "#1-hot-100"
   ],
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "genre": "dance-pop",
   "debut": "1989-04",
   "ranks": [
@@ -18,5 +20,13 @@
   ],
   "artists": {
     "paula-abdul": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.185,
+    0.45,
+    0.484,
+    0.47,
+    0.434
+  ]
 }

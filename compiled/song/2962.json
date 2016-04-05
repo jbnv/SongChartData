@@ -1,1 +1,63 @@
-{"title":"It Don't Come Easy","instanceSlug":2962,"tags":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[19,10,6.1,5,5.2,5.7,6.2,7.2,8.7,10.7,13.2,16.2,19.7,23.7,28.2,33.2,38.7,44.7,51.2,58.2],"artists":[{"slug":"ringo-starr","title":"Ringo Starr","roleSlug":true},{"slug":"badfinger","title":"Badfinger","roleSlug":"backup"}],"debutRank":19,"peakRank":5,"duration":5,"score":10.27,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":941}
+{
+  "title": "It Don't Come Easy",
+  "instanceSlug": 2962,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    10,
+    6.1,
+    5,
+    5.2,
+    5.7
+  ],
+  "artists": [
+    {
+      "slug": "ringo-starr",
+      "title": "Ringo Starr",
+      "roleSlug": true
+    },
+    {
+      "slug": "badfinger",
+      "title": "Badfinger",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.018,
+    0.232,
+    0.397,
+    0.463,
+    0.45,
+    0.419,
+    0.414,
+    0.404,
+    0.389,
+    0.369,
+    0.344,
+    0.314,
+    0.279,
+    0.239,
+    0.194,
+    0.144,
+    0.089,
+    0.029,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 4.75,
+  "score": 5.186999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 982
+}

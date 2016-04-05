@@ -1,1 +1,32 @@
-{"title":"Afternoon Delight","instanceSlug":2959,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"starland-vocal-band","title":"Starland Vocal Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2159}
+{
+  "title": "Afternoon Delight",
+  "instanceSlug": 2959,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "starland-vocal-band",
+      "title": "Starland Vocal Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2159
+}

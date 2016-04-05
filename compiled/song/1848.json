@@ -1,1 +1,30 @@
-{"title":"Magnet and Steel","instanceSlug":1848,"tags":[],"parents":[],"genre":"pop","debut":1978,"playlists":[],"ranks":[],"artists":[{"slug":"walter-egan","title":"Walter Egan","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1922}
+{
+  "title": "Magnet and Steel",
+  "instanceSlug": 1848,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1978,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "walter-egan",
+      "title": "Walter Egan",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1616
+}

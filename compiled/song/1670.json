@@ -1,1 +1,70 @@
-{"title":"I'm Alive","instanceSlug":1670,"tags":[],"parents":[],"genre":"orchestral-rock","debut":"1980-06","source":{"title":"Xanadu","instanceSlug":"xanadu","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[18,12,8,6.5,5.7,5.2,5.9,6.6,8,10.1,12.9,16.4,20.6,25.5,31.1,37.4,44.4,52.1,60.5,69.6],"artists":[{"slug":"electric-light-orchestra","title":"Electric Light Orchestra","roleSlug":true}],"debutRank":18,"peakRank":5.2,"duration":5,"score":9.88,"genres":[{"slug":"orchestral-rock","title":"Orchestral Rock"}],"rank":969}
+{
+  "title": "I'm Alive",
+  "instanceSlug": 1670,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "orchestral-rock",
+  "debut": "1980-06",
+  "source": {
+    "title": "Xanadu",
+    "instanceSlug": "xanadu",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    12,
+    8,
+    6.5,
+    5.7,
+    5.2,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "electric-light-orchestra",
+      "title": "Electric Light Orchestra",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.171,
+    0.306,
+    0.376,
+    0.419,
+    0.45,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 5.241999999999999,
+  "genres": [
+    {
+      "slug": "orchestral-rock",
+      "title": "Orchestral Rock"
+    }
+  ],
+  "rank": 972
+}

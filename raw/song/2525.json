@@ -1,1 +1,28 @@
-{"title":"Time of Our Lives","instanceSlug":2525,"tags":[],"parents":[],"genre":"dance-pop","debut":2015,"playlists":[],"ranks":[13,6,2,2.5],"artists":{"pitbull":true,"ne-yo":true}}
+{
+  "title": "Time of Our Lives",
+  "instanceSlug": 2525,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    6,
+    2,
+    2.5
+  ],
+  "artists": {
+    "pitbull": true,
+    "ne-yo": true
+  },
+  "scores": [
+    0.145,
+    0.402,
+    0.768,
+    0.694
+  ]
+}

@@ -1,1 +1,21 @@
-{"title":"Something About the Way You Look Tonight","instanceSlug":2420,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1997-10","playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Something About the Way You Look Tonight",
+  "instanceSlug": 2420,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1997-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

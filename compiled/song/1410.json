@@ -1,1 +1,34 @@
-{"title":"Don't Make Me Over","instanceSlug":1410,"tags":["don't","make","me","over"],"parents":[],"genre":"pop","debut":"1989-12","playlists":[],"ranks":[],"artists":[{"slug":"sybil","title":"Sybil","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2851}
+{
+  "title": "Don't Make Me Over",
+  "instanceSlug": 1410,
+  "tags": [
+    "don't",
+    "make",
+    "me",
+    "over"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sybil",
+      "title": "Sybil",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2937
+}

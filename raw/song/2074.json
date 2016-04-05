@@ -1,12 +1,16 @@
 {
   "title": "I Finally Found Someone",
   "instanceSlug": 2074,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "adult-contemporary",
   "debut": "1996-12",
   "source": "mirror-has-two-faces",
-  "playlists": ["love"],
+  "playlists": [
+    "love"
+  ],
   "ranks": true,
   "artists": {
     "barbra-streisand": true,

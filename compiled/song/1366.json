@@ -1,1 +1,30 @@
-{"title":"Cover Girl","instanceSlug":1366,"tags":["#2","#2-hot-100"],"parents":[],"genre":"pop","debut":"1989-10","playlists":[],"ranks":[],"artists":[{"slug":"new-kids-on-the-block"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3040}
+{
+  "title": "Cover Girl",
+  "instanceSlug": 1366,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "new-kids-on-the-block"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1728
+}

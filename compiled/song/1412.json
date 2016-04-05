@@ -1,1 +1,32 @@
-{"title":"Sugar Daddy","instanceSlug":1412,"tags":["daddy","sugar"],"parents":[],"genre":"pop","debut":"1989-11","playlists":[],"ranks":[],"artists":[{"slug":"thompson-twins","title":"Thompson Twins","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2768}
+{
+  "title": "Sugar Daddy",
+  "instanceSlug": 1412,
+  "tags": [
+    "daddy",
+    "sugar"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "thompson-twins",
+      "title": "Thompson Twins",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2917
+}

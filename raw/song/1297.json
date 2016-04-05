@@ -1,1 +1,20 @@
-{"title":"In Your Room","instanceSlug":1297,"tags":["in-something"],"parents":[],"genre":"pop","debut":"1988-11","playlists":[],"ranks":[],"artists":{"bangles":true}}
+{
+  "title": "In Your Room",
+  "instanceSlug": 1297,
+  "tags": [
+    "in-something"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bangles": true
+  },
+  "scores": [
+  ]
+}

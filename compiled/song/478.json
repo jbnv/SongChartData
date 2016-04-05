@@ -1,1 +1,59 @@
-{"title":"Everyone's a Winner","instanceSlug":478,"tags":["everyone","win"],"parents":[],"genre":"urban-rock","debut":"1978-12","playlists":[],"ranks":[15.5,6.4,4.3,5,5.7,7.1,9.2,12,15.5,19.7,24.6,30.2,36.5,43.5,51.2,59.6],"artists":[{"slug":"hot-chocolate","title":"Hot Chocolate","roleSlug":true}],"debutRank":15.5,"peakRank":4.3,"duration":4,"score":8.21,"genres":[{"slug":"urban-rock","title":"Urban Rock"}],"source":null,"rank":1092}
+{
+  "title": "Everyone's a Winner",
+  "instanceSlug": 478,
+  "tags": [
+    "everyone",
+    "win"
+  ],
+  "parents": [
+  ],
+  "genre": "urban-rock",
+  "debut": "1978-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    6.4,
+    4.3,
+    5
+  ],
+  "artists": [
+    {
+      "slug": "hot-chocolate",
+      "title": "Hot Chocolate",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.381,
+    0.513,
+    0.463,
+    0.458,
+    0.448,
+    0.433,
+    0.413,
+    0.388,
+    0.358,
+    0.323,
+    0.283,
+    0.238,
+    0.188,
+    0.133,
+    0.073,
+    0.008,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 4.5,
+  "score": 5.187,
+  "genres": [
+    {
+      "slug": "urban-rock",
+      "title": "Urban Rock"
+    }
+  ],
+  "source": null,
+  "rank": 981
+}

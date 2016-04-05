@@ -1,13 +1,32 @@
 {
   "title": "The Future's So Bright, I Gotta Wear Shades",
   "instanceSlug": 1021,
-  "searchTerms" : ["future","bright","shades","sunglasses"],
-  "tags": [],
+  "searchTerms": [
+    "future",
+    "bright",
+    "shades",
+    "sunglasses"
+  ],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1986-12",
-  "playlists": ["harmonica"],
-  "ranks": [11,2.5,1.9,2.21],
+  "playlists": [
+    "harmonica"
+  ],
+  "ranks": [
+    11,
+    2.5,
+    1.9,
+    2.21
+  ],
   "artists": {
     "timbuk-3": true
-  }
+  },
+  "scores": [
+    0.2,
+    0.694,
+    0.786,
+    0.735
+  ]
 }

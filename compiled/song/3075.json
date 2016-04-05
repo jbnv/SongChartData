@@ -1,1 +1,35 @@
-{"title":"Locked Away","instanceSlug":3075,"tags":[],"parents":[],"genre":"pop","debut":"2015-09","playlists":[],"ranks":[],"artists":[{"slug":"r-city","title":"R. City","roleSlug":true},{"slug":"adam-lambert","title":"Adam Lambert","roleSlug":"feature"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2290}
+{
+  "title": "Locked Away",
+  "instanceSlug": 3075,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "r-city",
+      "title": "R. City",
+      "roleSlug": true
+    },
+    {
+      "slug": "adam-lambert",
+      "title": "Adam Lambert",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2290
+}

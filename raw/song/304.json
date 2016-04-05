@@ -1,8 +1,10 @@
 {
   "title": "Don't Disturb This Groove",
   "instanceSlug": 304,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "soul",
   "debut": "1987-06",
   "playlists": [
@@ -19,5 +21,13 @@
   "artists": {
     "system": true
   },
-  "note":"Project 4 weeks at #1."
+  "note": "Project 4 weeks at #1.",
+  "scores": [
+    0.232,
+    0.983,
+    0.965,
+    0.942,
+    0.909,
+    0.864
+  ]
 }

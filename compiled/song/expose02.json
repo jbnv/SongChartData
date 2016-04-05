@@ -1,1 +1,30 @@
-{"title":"Point of No Return","instanceSlug":"expose02","tags":[],"parents":[],"genre":"dance","debut":"1987-06","playlists":[],"ranks":[],"artists":[{"slug":"expose","title":"Expose","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":3068}
+{
+  "title": "Point of No Return",
+  "instanceSlug": "expose02",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1987-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "expose",
+      "title": "Expose",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 3070
+}

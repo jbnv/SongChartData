@@ -1,1 +1,19 @@
-{"title":"Jamie","instanceSlug":1769,"tags":[],"parents":[],"genre":"urban","debut":"1985-01","playlists":[],"ranks":[],"artists":{"ray-parker-jr":true}}
+{
+  "title": "Jamie",
+  "instanceSlug": 1769,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1985-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "ray-parker-jr": true
+  },
+  "scores": [
+  ]
+}

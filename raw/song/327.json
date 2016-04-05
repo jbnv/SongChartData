@@ -1,1 +1,29 @@
-{"title":"I Get Weak","instanceSlug":327,"tags":[],"parents":[],"genre":"pop","debut":"1988-02","playlists":[],"ranks":[17.9,10.6,7.4,8.8,10.8],"artists":{"belinda-carlisle":true}}
+{
+  "title": "I Get Weak",
+  "instanceSlug": 327,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-02",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.4,
+    8.8,
+    10.8
+  ],
+  "artists": {
+    "belinda-carlisle": true
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.332,
+    0.275,
+    0.206
+  ]
+}

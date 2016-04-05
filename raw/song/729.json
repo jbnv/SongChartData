@@ -1,12 +1,15 @@
 {
   "title": "The Crying Game",
   "instanceSlug": 729,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1993",
   "source": "crying-game",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     21,
     17,
@@ -17,5 +20,12 @@
   ],
   "artists": {
     "boy-george": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.12,
+    0.158,
+    0.185,
+    0.139
+  ]
 }

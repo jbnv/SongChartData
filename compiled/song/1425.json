@@ -1,1 +1,34 @@
-{"title":"As I Lay Me","instanceSlug":1425,"tags":["as","i","lay","me"],"parents":[],"genre":"adult-contemporary","debut":"1995-09","playlists":[],"ranks":[],"artists":[{"slug":"sophie-b-hawkins","title":"Sophie B. Hawkins","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2072}
+{
+  "title": "As I Lay Me",
+  "instanceSlug": 1425,
+  "tags": [
+    "as",
+    "i",
+    "lay",
+    "me"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1995-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sophie-b-hawkins",
+      "title": "Sophie B. Hawkins",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2768
+}

@@ -4,13 +4,17 @@
   "tags": [
     "hero"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1993-11",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
   ],
   "artists": {
     "mariah-carey": true
-  }
+  },
+  "scores": [
+  ]
 }

@@ -1,1 +1,71 @@
-{"title":"How Long","instanceSlug":2067,"tags":[],"genre":"pop","debut":"1970s","playlists":[{"slug":"cheating","title":"Songs about Cheating"},{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"}],"ranks":[14,1.5,1.69,2.1,2.51,3.33,4.56,6.2,8.25,10.71,13.58,16.86,20.55,24.65,29.16,34.08,39.41,45.15,51.3,57.86],"artists":[{"slug":"ace","title":"Ace","roleSlug":true},{"slug":"paul-carrack","title":"Paul Carrack","roleSlug":"lead"}],"debutRank":14,"peakRank":1.5,"duration":5,"score":16.31,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":513}
+{
+  "title": "How Long",
+  "instanceSlug": 2067,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1970s",
+  "playlists": [
+    {
+      "slug": "cheating",
+      "title": "Songs about Cheating"
+    },
+    {
+      "slug": "feb13",
+      "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+    }
+  ],
+  "ranks": [
+    14,
+    1.5,
+    1.69,
+    2.1
+  ],
+  "artists": [
+    {
+      "slug": "ace",
+      "title": "Ace",
+      "roleSlug": true
+    },
+    {
+      "slug": "paul-carrack",
+      "title": "Paul Carrack",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": [
+    0.12,
+    0.864,
+    0.825,
+    0.752,
+    0.747,
+    0.737,
+    0.722,
+    0.702,
+    0.677,
+    0.647,
+    0.612,
+    0.572,
+    0.527,
+    0.477,
+    0.422,
+    0.362,
+    0.297,
+    0.227,
+    0.152,
+    0.072,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.25,
+  "score": 10.513,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 308
+}

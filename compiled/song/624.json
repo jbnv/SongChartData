@@ -1,1 +1,59 @@
-{"title":"Do I Do","instanceSlug":624,"tags":[],"parents":[],"genre":"soul","debut":"1982-07","playlists":[],"ranks":[13.9,8,4.6,3.5,4.2,4.9,6.3,8.4,11.2,14.7,18.9,23.8,29.4,35.7,42.7,50.4],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":13.9,"peakRank":3.5,"duration":4,"score":10.47,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":924}
+{
+  "title": "Do I Do",
+  "instanceSlug": 624,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1982-07",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    8,
+    4.6,
+    3.5,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.306,
+    0.491,
+    0.582,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 4.75,
+  "score": 6.52,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 803
+}

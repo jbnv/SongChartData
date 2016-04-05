@@ -1,1 +1,49 @@
-{"title":"Poison","instanceSlug":38,"tags":["poison"],"parents":[],"genre":true,"debut":1990,"ranks":[19.9,11.9,15.5,53,180.7,308.4,563.8,946.9],"artists":[{"slug":"bell-biv-devoe","title":"Bell Biv DeVoe","roleSlug":true}],"debutRank":19.9,"peakRank":11.9,"duration":2,"score":0.79,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":1558}
+{
+  "title": "Poison",
+  "instanceSlug": 38,
+  "tags": [
+    "poison"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1990,
+  "ranks": [
+    19.9,
+    11.9,
+    15.5,
+    53,
+    180.7
+  ],
+  "artists": [
+    {
+      "slug": "bell-biv-devoe",
+      "title": "Bell Biv DeVoe",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.174,
+    0.086,
+    0.081,
+    0.071,
+    0.056,
+    0.036,
+    0.011,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 2.25,
+  "score": 0.518,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1554
+}

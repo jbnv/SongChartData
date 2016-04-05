@@ -1,1 +1,56 @@
-{"title":"Sir Duke","instanceSlug":806,"tags":["#1","a:duke-ellington","tribute"],"parents":[],"genre":"soul","debut":1977,"playlists":[],"ranks":[17,10.1,7.6,10.1,12.6,17.6,25.1,35.1,47.6,62.6,80.1,100.1],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":17,"peakRank":7.6,"duration":3,"score":3.11,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1451}
+{
+  "title": "Sir Duke",
+  "instanceSlug": 806,
+  "tags": [
+    "#1",
+    "a:duke-ellington",
+    "tribute"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    7.6,
+    10.1
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.229,
+    0.323,
+    0.229,
+    0.224,
+    0.214,
+    0.199,
+    0.179,
+    0.154,
+    0.124,
+    0.089,
+    0.049,
+    0.004,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.5,
+  "score": 2.072,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1420
+}

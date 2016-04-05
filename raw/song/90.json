@@ -1,12 +1,28 @@
 {
   "title": "Let's Hear It For the Boy",
   "instanceSlug": 90,
-  "tags": [],
+  "tags": [
+  ],
   "source": "footloose",
   "genre": "dance",
   "debut": 1984,
-  "ranks": [15,5,4.7,4.4,4.52,5.1],
+  "ranks": [
+    15,
+    5,
+    4.7,
+    4.4,
+    4.52,
+    5.1
+  ],
   "artists": {
     "deniece-williams": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.463,
+    0.484,
+    0.506,
+    0.497,
+    0.456
+  ]
 }

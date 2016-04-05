@@ -1,1 +1,70 @@
-{"title":"I Go Blind","instanceSlug":1895,"tags":[],"parents":[],"genre":"pop","debut":"1996-10","source":{"title":"Friends","instanceSlug":"friends","tags":[],"parents":[],"type":"tv"},"playlists":[],"ranks":[16.4,8.1,5.2,4.2,4.4,4.74,5.23,5.72,6.7,8.17,10.13,12.58,15.52,18.95,22.87,27.28,32.18,37.57,43.45,49.82,56.68,64.03,71.87,80.2],"artists":[{"slug":"hootie-the-blowfish","title":"Hootie & the Blowfish","roleSlug":true}],"debutRank":16.4,"peakRank":4.2,"duration":6,"score":13.06,"genres":[{"slug":"pop","title":"Pop"}],"rank":737}
+{
+  "title": "I Go Blind",
+  "instanceSlug": 1895,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-10",
+  "source": {
+    "title": "Friends",
+    "instanceSlug": "friends",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    16.4,
+    8.1,
+    5.2,
+    4.2,
+    4.4,
+    4.74,
+    5.23
+  ],
+  "artists": [
+    {
+      "slug": "hootie-the-blowfish",
+      "title": "Hootie & the Blowfish",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.067,
+    0.302,
+    0.45,
+    0.521,
+    0.506,
+    0.481,
+    0.448,
+    0.443,
+    0.433,
+    0.418,
+    0.398,
+    0.373,
+    0.343,
+    0.308,
+    0.268,
+    0.223,
+    0.173,
+    0.118,
+    0.058,
+    0
+  ],
+  "debutScore": 0.067,
+  "peakScore": 0.067,
+  "duration": 5,
+  "score": 6.3309999999999995,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 828
+}

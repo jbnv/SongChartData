@@ -1,1 +1,32 @@
-{"title":"Desert Moon","instanceSlug":687,"tags":["desert","moon"],"parents":[],"genre":"pop","debut":"1984-10","playlists":[],"ranks":[],"artists":[{"slug":"dennis-deyoung","title":"Dennis DeYoung","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2709}
+{
+  "title": "Desert Moon",
+  "instanceSlug": 687,
+  "tags": [
+    "desert",
+    "moon"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "dennis-deyoung",
+      "title": "Dennis DeYoung",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2709
+}

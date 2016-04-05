@@ -1,1 +1,20 @@
-{"title":"Never a Time","instanceSlug":1055,"tags":[],"parents":[],"genre":"pop","debut":"1992-12","playlists":["ballad"],"ranks":[],"artists":{"genesis":true}}
+{
+  "title": "Never a Time",
+  "instanceSlug": 1055,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-12",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "genesis": true
+  },
+  "scores": [
+  ]
+}

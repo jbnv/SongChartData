@@ -1,1 +1,19 @@
-{"title":"Jane","instanceSlug":2371,"tags":[],"parents":[],"genre":"pop","debut":"1979-12","playlists":[],"ranks":[],"artists":{"starship":true}}
+{
+  "title": "Jane",
+  "instanceSlug": 2371,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1979-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "starship": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,21 @@
-{"title":"Medley","instanceSlug":2967,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance","debut":"1981-05","playlists":[],"ranks":[],"artists":{"stars-on-45":true}}
+{
+  "title": "Medley",
+  "instanceSlug": 2967,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1981-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "stars-on-45": true
+  },
+  "scores": [
+  ]
+}

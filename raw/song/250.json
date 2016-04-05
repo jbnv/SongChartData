@@ -3,7 +3,9 @@
   "instanceSlug": 250,
   "tags": [
   ],
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "genre": "soul",
   "debut": "1992-08",
   "ranks": [
@@ -16,5 +18,13 @@
   ],
   "artists": {
     "jade": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.737,
+    0.953,
+    0.92,
+    0.867,
+    0.818
+  ]
 }

@@ -1,1 +1,78 @@
-{"title":"Throwing It All Away","instanceSlug":290,"tags":["#1","#1-adult-contemporary","#1-mainstream-rock","discard","throw-away"],"genre":"pop","debut":"1986-09","playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"}],"ranks":[13.9,8.6,4.9,2.9,2.5,2.24,2.57,2.9,3.56,4.55,5.87,7.52,9.5,11.81,14.45,17.42,20.72,24.35,28.31,32.6,37.22,42.17,47.45,53.06],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true},{"slug":"phil-collins","title":"Phil Collins","roleSlug":"member"}],"debutRank":13.9,"peakRank":2.24,"duration":6,"score":20.01,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":325}
+{
+  "title": "Throwing It All Away",
+  "instanceSlug": 290,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-mainstream-rock",
+    "discard",
+    "throw-away"
+  ],
+  "genre": "pop",
+  "debut": "1986-09",
+  "playlists": [
+    {
+      "slug": "feb13",
+      "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+    }
+  ],
+  "ranks": [
+    13.9,
+    8.6,
+    4.9,
+    2.9,
+    2.5,
+    2.24,
+    2.57
+  ],
+  "artists": [
+    {
+      "slug": "genesis",
+      "title": "Genesis",
+      "roleSlug": true
+    },
+    {
+      "slug": "phil-collins",
+      "title": "Phil Collins",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.122,
+    0.282,
+    0.47,
+    0.645,
+    0.694,
+    0.731,
+    0.685,
+    0.68,
+    0.67,
+    0.655,
+    0.635,
+    0.61,
+    0.58,
+    0.545,
+    0.505,
+    0.46,
+    0.41,
+    0.355,
+    0.295,
+    0.23,
+    0.16,
+    0.085,
+    0.005,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 6,
+  "score": 10.509000000000006,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 309
+}

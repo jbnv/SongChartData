@@ -1,1 +1,36 @@
-{"title":"Just Like Heaven","instanceSlug":858,"tags":["heaven","just","like"],"parents":[],"genre":"rock","debut":"1987-10","playlists":[],"ranks":[17.9,10.7,7,6.5,6.8,7.7,9.1],"artists":{"cure":true}}
+{
+  "title": "Just Like Heaven",
+  "instanceSlug": 858,
+  "tags": [
+    "heaven",
+    "just",
+    "like"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    7,
+    6.5,
+    6.8,
+    7.7,
+    9.1
+  ],
+  "artists": {
+    "cure": true
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.351,
+    0.376,
+    0.361,
+    0.319,
+    0.263
+  ]
+}

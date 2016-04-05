@@ -1,1 +1,67 @@
-{"title":"Come Back to Me","instanceSlug":207,"tags":[],"playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"summer","title":"Songs of Summer"}],"genre":"pop","debut":"1990-07","ranks":[15,2.7,2.4,2.5,2.75,3,3.5,4.25,5.25,6.5,8,9.75,11.75,14,16.5,19.25,22.25,25.5,29,32.75,36.75,41,45.5,50.25],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":15,"peakRank":2.4,"duration":6,"score":18.95,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":372}
+{
+  "title": "Come Back to Me",
+  "instanceSlug": 207,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    },
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1990-07",
+  "ranks": [
+    15,
+    2.7,
+    2.4,
+    2.5,
+    2.75
+  ],
+  "artists": [
+    {
+      "slug": "janet-jackson",
+      "title": "Janet Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.668,
+    0.708,
+    0.694,
+    0.662,
+    0.657,
+    0.647,
+    0.632,
+    0.612,
+    0.587,
+    0.557,
+    0.522,
+    0.482,
+    0.437,
+    0.387,
+    0.332,
+    0.272,
+    0.207,
+    0.137,
+    0.062,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 9.359000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 435
+}

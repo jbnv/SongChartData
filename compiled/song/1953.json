@@ -1,1 +1,68 @@
-{"title":"Tenderness","instanceSlug":1953,"tags":[],"parents":[],"genre":"pop","debut":"1985-02","playlists":[],"ranks":[16,10.5,6.8,5.9,5.2,4.5,4.3,4.25,4.5,6,7.5,10.5,15,21,28.5,37.5,48,60,73.5,88.5],"artists":[{"slug":"general-public","title":"General Public","roleSlug":true}],"debutRank":16,"peakRank":4.25,"duration":5,"score":13.76,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":687}
+{
+  "title": "Tenderness",
+  "instanceSlug": 1953,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-02",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10.5,
+    6.8,
+    5.9,
+    5.2,
+    4.5,
+    4.3,
+    4.25,
+    4.5,
+    6
+  ],
+  "artists": [
+    {
+      "slug": "general-public",
+      "title": "General Public",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.216,
+    0.361,
+    0.408,
+    0.45,
+    0.498,
+    0.513,
+    0.517,
+    0.498,
+    0.402,
+    0.397,
+    0.387,
+    0.372,
+    0.352,
+    0.327,
+    0.297,
+    0.262,
+    0.222,
+    0.177,
+    0.127,
+    0.072,
+    0.012,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.75,
+  "score": 6.941999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 748
+}

@@ -1,1 +1,33 @@
-{"title":"The First Time Ever I Saw Your Face","instanceSlug":2739,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"adult-contemporary","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"roberta-flack","title":"Roberta Flack","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1915}
+{
+  "title": "The First Time Ever I Saw Your Face",
+  "instanceSlug": 2739,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "roberta-flack",
+      "title": "Roberta Flack",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1915
+}

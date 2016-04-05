@@ -1,1 +1,30 @@
-{"title":"It's Only Rock 'N Roll (But I Like It)","instanceSlug":2566,"tags":[],"parents":[],"genre":"rock","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1723}
+{
+  "title": "It's Only Rock 'N Roll (But I Like It)",
+  "instanceSlug": 2566,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1723
+}

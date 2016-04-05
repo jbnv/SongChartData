@@ -1,1 +1,27 @@
-{"title":"Dunkie Butt","instanceSlug":2199,"tags":[],"parents":[],"genre":"dance","debut":"1994-04","playlists":[],"ranks":[20,17,14,15.8],"artists":{"12-gauge":true}}
+{
+  "title": "Dunkie Butt",
+  "instanceSlug": 2199,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1994-04",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    17,
+    14,
+    15.8
+  ],
+  "artists": {
+    "12-gauge": true
+  },
+  "scores": [
+    0.001,
+    0.055,
+    0.12,
+    0.079
+  ]
+}

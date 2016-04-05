@@ -1,1 +1,30 @@
-{"title":"Girls Just Wanna Have Fun","instanceSlug":1753,"tags":[],"parents":[],"genre":"pop","debut":"1984-02","playlists":[],"ranks":[],"artists":[{"slug":"cyndi-lauper","title":"Cyndi Lauper","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2893}
+{
+  "title": "Girls Just Wanna Have Fun",
+  "instanceSlug": 1753,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "cyndi-lauper",
+      "title": "Cyndi Lauper",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2542
+}

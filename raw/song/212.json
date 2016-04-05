@@ -1,1 +1,31 @@
-{"title":"Causing a Commotion","instanceSlug":212,"tags":["cause"],"parents":[],"genre":"pop","debut":"1987-10","source":"who-s-that-girl","ranks":[13,7,3.7,2.05,1.8,2.07],"artists":{"madonnamember":true}}
+{
+  "title": "Causing a Commotion",
+  "instanceSlug": 212,
+  "tags": [
+    "cause"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-10",
+  "source": "who-s-that-girl",
+  "ranks": [
+    13,
+    7,
+    3.7,
+    2.05,
+    1.8,
+    2.07
+  ],
+  "artists": {
+    "madonnamember": true
+  },
+  "scores": [
+    0.145,
+    0.351,
+    0.563,
+    0.76,
+    0.804,
+    0.757
+  ]
+}

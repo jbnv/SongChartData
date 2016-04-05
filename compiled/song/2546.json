@@ -1,1 +1,30 @@
-{"title":"I'll Take You There","instanceSlug":2546,"tags":[],"parents":[],"genre":"pop","debut":"1994-05","playlists":[],"ranks":[],"artists":[{"slug":"general-public","title":"General Public","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1701}
+{
+  "title": "I'll Take You There",
+  "instanceSlug": 2546,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "general-public",
+      "title": "General Public",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1701
+}

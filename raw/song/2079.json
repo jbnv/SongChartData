@@ -1,1 +1,17 @@
-{"title":"Come Together","instanceSlug":2079,"tags":[],"parents":[],"genre":"rock","debut":"1978-09","source":"sgt-pepper-s-lonely-hearts-club-band","playlists":[],"ranks":true,"artists":{"aerosmith":true}}
+{
+  "title": "Come Together",
+  "instanceSlug": 2079,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1978-09",
+  "source": "sgt-pepper-s-lonely-hearts-club-band",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "aerosmith": true
+  }
+}

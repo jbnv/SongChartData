@@ -1,1 +1,34 @@
-{"title":"This House","instanceSlug":104,"tags":["1990s","1991","house","this"],"parents":[],"genre":"pop","debut":"1991-02","ranks":[],"artists":[{"slug":"tracie-spencer","title":"Tracie Spencer","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":2903}
+{
+  "title": "This House",
+  "instanceSlug": 104,
+  "tags": [
+    "1990s",
+    "1991",
+    "house",
+    "this"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-02",
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tracie-spencer",
+      "title": "Tracie Spencer",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 2968
+}

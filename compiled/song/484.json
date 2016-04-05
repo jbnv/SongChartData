@@ -1,1 +1,58 @@
-{"title":"Walk of Life","instanceSlug":484,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[19.5,14,12.2,11.9,11.8,12.1,12.7,14.5,16.3,19.9,25.3,32.5,41.5,52.3,64.9,79.3],"artists":[{"slug":"dire-straits","title":"Dire Straits","roleSlug":true}],"debutRank":19.5,"peakRank":11.8,"duration":4,"score":3.45,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1426}
+{
+  "title": "Walk of Life",
+  "instanceSlug": 484,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-01",
+  "playlists": [
+  ],
+  "ranks": [
+    19.5,
+    14,
+    12.2,
+    11.9,
+    11.8,
+    12.1,
+    12.7,
+    14.5
+  ],
+  "artists": [
+    {
+      "slug": "dire-straits",
+      "title": "Dire Straits",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.009,
+    0.12,
+    0.166,
+    0.174,
+    0.177,
+    0.168,
+    0.152,
+    0.108,
+    0.103,
+    0.093,
+    0.078,
+    0.058,
+    0.033,
+    0.003,
+    0
+  ],
+  "debutScore": 0.009,
+  "peakScore": 0.009,
+  "duration": 3.75,
+  "score": 1.442,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1473
+}

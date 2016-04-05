@@ -1,1 +1,20 @@
-{"title":"Lay Your Hands on Me","instanceSlug":3048,"tags":[],"parents":[],"genre":"rock","debut":"1989-06","playlists":["summer"],"ranks":[],"artists":{"bon-jovi":true}}
+{
+  "title": "Lay Your Hands on Me",
+  "instanceSlug": 3048,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bon-jovi": true
+  },
+  "scores": [
+  ]
+}

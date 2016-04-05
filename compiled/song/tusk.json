@@ -1,1 +1,65 @@
-{"title":"Tusk","instanceSlug":"tusk","tags":[],"debut":"1979-10","playlists":[],"ranks":[25,15,13,11,12,13,15,18,22,27,33,40,48,57,67,78],"artists":[{"slug":"fleetwood-mac","title":"Fleetwood Mac","roleSlug":true},{"slug":"lindsay-buckingham","title":"Lindsey Buckingham","roleSlug":"member"},{"slug":"christine-mcvie","title":"Christine McVie","roleSlug":"member"},{"slug":"stevie-nicks","title":"Stevie Nicks","roleSlug":"member"},{"slug":"usc","title":"USC Trojan Marching Band","roleSlug":"backup"}],"debutRank":25,"peakRank":11,"duration":4,"score":2.68,"genres":[],"source":null,"rank":1479}
+{
+  "title": "Tusk",
+  "instanceSlug": "tusk",
+  "tags": [
+  ],
+  "debut": "1979-10",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    15,
+    13,
+    11,
+    12
+  ],
+  "artists": [
+    {
+      "slug": "fleetwood-mac",
+      "title": "Fleetwood Mac",
+      "roleSlug": true
+    },
+    {
+      "slug": "lindsay-buckingham",
+      "title": "Lindsey Buckingham",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "christine-mcvie",
+      "title": "Christine McVie",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "stevie-nicks",
+      "title": "Stevie Nicks",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "usc",
+      "title": "USC Trojan Marching Band",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.145,
+    0.2,
+    0.171,
+    0.166,
+    0.156,
+    0.141,
+    0.121,
+    0.096,
+    0.066,
+    0.031,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3,
+  "score": 1.3900000000000001,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 1475
+}

@@ -1,1 +1,64 @@
-{"title":"Dreaming of You","instanceSlug":1370,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1995-11","playlists":[],"ranks":[15,8,5,3.9,3.2,3.4,3.76,4.12,4.84,5.92,7.36,9.16,11.32,13.84,16.72,19.96,23.56,27.52,31.84,36.52,41.56,46.96,52.72,58.84],"artists":[{"slug":"selena","title":"Selena","roleSlug":true}],"debutRank":15,"peakRank":3.2,"duration":6,"score":16.68,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":490}
+{
+  "title": "Dreaming of You",
+  "instanceSlug": 1370,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1995-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8,
+    5,
+    3.9,
+    3.2,
+    3.4,
+    3.76
+  ],
+  "artists": [
+    {
+      "slug": "selena",
+      "title": "Selena",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.306,
+    0.463,
+    0.546,
+    0.612,
+    0.592,
+    0.558,
+    0.553,
+    0.543,
+    0.528,
+    0.508,
+    0.483,
+    0.453,
+    0.418,
+    0.378,
+    0.333,
+    0.283,
+    0.228,
+    0.168,
+    0.103,
+    0.033,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 8.186,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 585
+}

@@ -1,1 +1,66 @@
-{"title":"Tell Her About It","instanceSlug":731,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"source":{"title":"An Innocent Man","instanceSlug":"innocent-man","tags":["billy-joel"],"type":"album"},"genre":"pop","debut":"1983-08","playlists":[],"ranks":[17,9.7,5.6,4.5,6.2,7.9,11.3,16.4,23.2,31.7,41.9,53.8],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":17,"peakRank":4.5,"duration":3,"score":6.55,"genres":[{"slug":"pop","title":"Pop"}],"rank":1229}
+{
+  "title": "Tell Her About It",
+  "instanceSlug": 731,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "source": {
+    "title": "An Innocent Man",
+    "instanceSlug": "innocent-man",
+    "tags": [
+      "billy-joel"
+    ],
+    "type": "album"
+  },
+  "genre": "pop",
+  "debut": "1983-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.7,
+    5.6,
+    4.5,
+    6.2
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.242,
+    0.425,
+    0.498,
+    0.391,
+    0.386,
+    0.376,
+    0.361,
+    0.341,
+    0.316,
+    0.286,
+    0.251,
+    0.211,
+    0.166,
+    0.116,
+    0.061,
+    0.001,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.5,
+  "score": 4.4830000000000005,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 1077
+}

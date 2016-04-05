@@ -1,1 +1,31 @@
-{"title":"Red Light Special","instanceSlug":2253,"tags":[],"parents":[],"genre":"urban","debut":"1995-03","playlists":[],"ranks":[16,11,8,6.2,5,5.7],"artists":{"tlc":true}}
+{
+  "title": "Red Light Special",
+  "instanceSlug": 2253,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1995-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    11,
+    8,
+    6.2,
+    5,
+    5.7
+  ],
+  "artists": {
+    "tlc": true
+  },
+  "scores": [
+    0.075,
+    0.2,
+    0.306,
+    0.391,
+    0.463,
+    0.419
+  ]
+}

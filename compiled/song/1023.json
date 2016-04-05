@@ -1,1 +1,70 @@
-{"title":"Whip Appeal","instanceSlug":1023,"tags":[],"parents":[],"genre":"soul","debut":"1990-04","playlists":[],"ranks":[16,8,4,2.8,2.6,2.5,2.6,2.7,3,3.5,4,5,6.5,8.5,11,14,17.5,21.5,26,31,36.5,42.5,49,56],"artists":[{"slug":"babyface","title":"Babyface","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":6,"score":22.65,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":211}
+{
+  "title": "Whip Appeal",
+  "instanceSlug": 1023,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-04",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    4,
+    2.8,
+    2.6,
+    2.5,
+    2.6,
+    2.7,
+    3,
+    3.5
+  ],
+  "artists": [
+    {
+      "slug": "babyface",
+      "title": "Babyface",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.306,
+    0.537,
+    0.656,
+    0.681,
+    0.694,
+    0.681,
+    0.668,
+    0.633,
+    0.582,
+    0.577,
+    0.567,
+    0.552,
+    0.532,
+    0.507,
+    0.477,
+    0.442,
+    0.402,
+    0.357,
+    0.307,
+    0.252,
+    0.192,
+    0.127,
+    0.057,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6.25,
+  "score": 10.861,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 275
+}

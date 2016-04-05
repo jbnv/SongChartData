@@ -1,1 +1,59 @@
-{"title":"Reminiscing","instanceSlug":2036,"tags":[],"parents":[],"genre":"pop","debut":"1978-09","playlists":[],"ranks":[21,10.5,7.5,5.9,5.5,5.8,8,10.2,14.6,21.2,30,41,54.2,69.6,87.2,107],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":21,"peakRank":5.5,"duration":4,"score":7.31,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1162}
+{
+  "title": "Reminiscing",
+  "instanceSlug": 2036,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-09",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    10.5,
+    7.5,
+    5.9,
+    5.5,
+    5.8,
+    8
+  ],
+  "artists": [
+    {
+      "slug": "little-river-band",
+      "title": "Little River Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.216,
+    0.328,
+    0.408,
+    0.431,
+    0.414,
+    0.306,
+    0.301,
+    0.291,
+    0.276,
+    0.256,
+    0.231,
+    0.201,
+    0.166,
+    0.126,
+    0.081,
+    0.031,
+    0
+  ],
+  "debutScore": 0.216,
+  "peakScore": 0.216,
+  "duration": 4.25,
+  "score": 4.063,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1156
+}

@@ -1,1 +1,63 @@
-{"title":"It Takes Two","instanceSlug":1951,"tags":[],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[15.5,10.5,6.5,4.6,3.7,3.9,4.5,5.1,6.3,8.1,10.5,13.5,17.1,21.3,26.1,31.5,37.5,44.1,51.3,59.1],"artists":[{"slug":"seduction","title":"Seduction","roleSlug":true}],"debutRank":15.5,"peakRank":3.7,"duration":5,"score":12.98,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":750}
+{
+  "title": "It Takes Two",
+  "instanceSlug": 1951,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    10.5,
+    6.5,
+    4.6,
+    3.7,
+    3.9,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "seduction",
+      "title": "Seduction",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.216,
+    0.376,
+    0.491,
+    0.563,
+    0.546,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 5.25,
+  "score": 6.974999999999999,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 736
+}

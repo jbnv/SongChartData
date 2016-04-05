@@ -1,1 +1,68 @@
-{"title":"Cool It Now","instanceSlug":3,"tags":["#1","#1-r&b"],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"pop","title":"Pop"}],"debut":"1984-11","ranks":[16,9,4.6,3.9,3.7,4.1,4.7,5.3,6.5,8.3,10.7,13.7,17.3,21.5,26.3,31.7,37.7,44.3,51.5,59.3],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"debutRank":16,"peakRank":3.7,"duration":5,"score":13.38,"playlists":[],"source":null,"rank":712}
+{
+  "title": "Cool It Now",
+  "instanceSlug": 3,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "debut": "1984-11",
+  "ranks": [
+    16,
+    9,
+    4.6,
+    3.9,
+    3.7,
+    4.1,
+    4.7
+  ],
+  "artists": [
+    {
+      "slug": "new-edition",
+      "title": "New Edition",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.267,
+    0.491,
+    0.546,
+    0.563,
+    0.529,
+    0.484,
+    0.479,
+    0.469,
+    0.454,
+    0.434,
+    0.409,
+    0.379,
+    0.344,
+    0.304,
+    0.259,
+    0.209,
+    0.154,
+    0.094,
+    0.029,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 6.972000000000001,
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 737
+}

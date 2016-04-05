@@ -1,1 +1,41 @@
-{"title":"Love Will Lead You Back","instanceSlug":1341,"tags":["#1","#1-adult-contemporary","love-will"],"parents":[],"genre":"pop","debut":"1990-02","playlists":["ballad","lost-loves","feb13"],"ranks":[16,10,7.2,5.6,4.5,4.45,4.75,5.4],"artists":{"taylor-dayne":true}}
+{
+  "title": "Love Will Lead You Back",
+  "instanceSlug": 1341,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "love-will"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-02",
+  "playlists": [
+    "ballad",
+    "lost-loves",
+    "feb13"
+  ],
+  "ranks": [
+    16,
+    10,
+    7.2,
+    5.6,
+    4.5,
+    4.45,
+    4.75,
+    5.4
+  ],
+  "artists": {
+    "taylor-dayne": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.341,
+    0.425,
+    0.498,
+    0.502,
+    0.48,
+    0.437
+  ]
+}

@@ -6,7 +6,8 @@
     "#1-hot100",
     "#1-r&b"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1991-09",
   "ranks": [
@@ -24,5 +25,17 @@
   "artists": {
     "karyn-white": true
   },
-  "note":"Project 9 weeks at #2."
+  "note": "Project 9 weeks at #2.",
+  "scores": [
+    0.2,
+    0.947,
+    0.94,
+    0.932,
+    0.923,
+    0.904,
+    0.876,
+    0.845,
+    0.805,
+    0.737
+  ]
 }

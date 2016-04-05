@@ -1,1 +1,51 @@
-{"title":"Staying Together","instanceSlug":548,"tags":[],"parents":[],"genre":"pop","debut":"1988-09","playlists":[],"ranks":[22,17,15,13,14.5,16,19,23.5,29.5,37,46,56.5],"artists":[{"slug":"debbie-gibson","title":"Debbie Gibson","roleSlug":true}],"debutRank":22,"peakRank":13,"duration":3,"score":1.5,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1532}
+{
+  "title": "Staying Together",
+  "instanceSlug": 548,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-09",
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    17,
+    15,
+    13,
+    14.5
+  ],
+  "artists": [
+    {
+      "slug": "debbie-gibson",
+      "title": "Debbie Gibson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.097,
+    0.145,
+    0.108,
+    0.103,
+    0.093,
+    0.078,
+    0.058,
+    0.033,
+    0.003,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 2.75,
+  "score": 0.773,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1530
+}

@@ -1,1 +1,62 @@
-{"title":"867-5309/Jenny","instanceSlug":2826,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1982-03","playlists":[],"ranks":[18,10,7,5.3,5,5.5,6,7,8.5,10.5,13,16,19.5,23.5,28,33,38.5,44.5,51,58],"artists":[{"slug":"tommy-tutone","title":"Tommy Tutone","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":10.34,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":932}
+{
+  "title": "867-5309/Jenny",
+  "instanceSlug": 2826,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-03",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    7,
+    5.3,
+    5,
+    5.5
+  ],
+  "artists": [
+    {
+      "slug": "tommy-tutone",
+      "title": "Tommy Tutone",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.232,
+    0.351,
+    0.444,
+    0.463,
+    0.431,
+    0.426,
+    0.416,
+    0.401,
+    0.381,
+    0.356,
+    0.326,
+    0.291,
+    0.251,
+    0.206,
+    0.156,
+    0.101,
+    0.041,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.75,
+  "score": 5.309000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 957
+}

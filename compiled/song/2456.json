@@ -1,1 +1,30 @@
-{"title":"Knockin' On Heaven's Door","instanceSlug":2456,"tags":[],"parents":[],"genre":"rock","debut":"1990s","playlists":[],"ranks":[],"artists":[{"slug":"guns-n-roses","title":"Guns N Roses","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1601}
+{
+  "title": "Knockin' On Heaven's Door",
+  "instanceSlug": 2456,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1990s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "guns-n-roses",
+      "title": "Guns N Roses",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1601
+}

@@ -1,1 +1,38 @@
-{"title":"Don't Let the Sun Go Down on Me","instanceSlug":1510,"tags":["don't-let","go-down","remake"],"parents":[],"genre":"adult-contemporary","debut":"1991-12","playlists":[],"ranks":[],"artists":[{"slug":"george-michael","title":"George Michael","roleSlug":true},{"slug":"elton-john","title":"Elton John","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2749}
+{
+  "title": "Don't Let the Sun Go Down on Me",
+  "instanceSlug": 1510,
+  "tags": [
+    "don't-let",
+    "go-down",
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "george-michael",
+      "title": "George Michael",
+      "roleSlug": true
+    },
+    {
+      "slug": "elton-john",
+      "title": "Elton John",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1716
+}

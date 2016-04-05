@@ -1,1 +1,21 @@
-{"title":"Jam Tonight","instanceSlug":2349,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1987-09","playlists":[],"ranks":[],"artists":{"freddie-jackson":true}}
+{
+  "title": "Jam Tonight",
+  "instanceSlug": 2349,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "freddie-jackson": true
+  },
+  "scores": [
+  ]
+}

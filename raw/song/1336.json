@@ -1,10 +1,12 @@
 {
   "title": "I Live By the Groove",
   "instanceSlug": 1336,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1989-11",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     11,
     2.5,
@@ -15,5 +17,13 @@
   ],
   "artists": {
     "paul-carrack": true
-  }
+  },
+  "scores": [
+    0.2,
+    0.694,
+    1,
+    0.983,
+    0.944,
+    0.883
+  ]
 }

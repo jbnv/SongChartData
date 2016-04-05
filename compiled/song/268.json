@@ -1,1 +1,61 @@
-{"title":"Bills Bills Bills","instanceSlug":268,"tags":["triple"],"parents":[],"genre":true,"debut":"1999-09","ranks":[15,8.6,4.9,3.9,3.5,4.2,4.9,6.3,8.4,11.2,14.7,18.9,23.8,29.4,35.7,42.7,50.4,58.8,67.9,77.7],"artists":[{"slug":"destiny-s-child","title":"Destiny's Child","roleSlug":true}],"debutRank":15,"peakRank":3.5,"duration":5,"score":11.9,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":821}
+{
+  "title": "Bills Bills Bills",
+  "instanceSlug": 268,
+  "tags": [
+    "triple"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-09",
+  "ranks": [
+    15,
+    8.6,
+    4.9,
+    3.9,
+    3.5,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "destiny-s-child",
+      "title": "Destiny's Child",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.282,
+    0.47,
+    0.546,
+    0.582,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5,
+  "score": 6.996,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 733
+}

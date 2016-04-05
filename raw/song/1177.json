@@ -1,5 +1,21 @@
-{"title":"Please Please Me","instanceSlug":1177,"tags":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[],"artists":{"beatles":true,
-"john-lennon":"member",
-"paul-mccartney":"member",
-"george-harrison":"member",
-"ringo-starr":"member"}}
+{
+  "title": "Please Please Me",
+  "instanceSlug": 1177,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+  ]
+}

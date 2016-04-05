@@ -1,1 +1,19 @@
-{"title":"Hippychick","instanceSlug":2533,"tags":[],"parents":[],"genre":"pop","debut":"1990-11","playlists":[],"ranks":[],"artists":{"soho":true}}
+{
+  "title": "Hippychick",
+  "instanceSlug": 2533,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "soho": true
+  },
+  "scores": [
+  ]
+}

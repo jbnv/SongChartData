@@ -1,14 +1,24 @@
 {
   "title": "Larger than Life",
   "instanceSlug": 541,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1999-10",
-  "playlists": [],
-  "ranks": [1,1.055],
+  "playlists": [
+  ],
+  "ranks": [
+    1,
+    1.055
+  ],
   "artists": {
     "backstreet-boys": true
   },
-  "note":"Project 12 weeks at #1."
+  "note": "Project 12 weeks at #1.",
+  "scores": [
+    1,
+    0.982
+  ]
 }

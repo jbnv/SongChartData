@@ -1,1 +1,46 @@
-{"title":"Straight to Your Heart","instanceSlug":1012,"tags":[],"parents":[],"genre":"pop","debut":"1991-10","playlists":[],"ranks":[20,15,17,19,23,29,37,47,59,73,89,107],"artists":[{"slug":"bad-english","title":"Bad English","roleSlug":true}],"debutRank":20,"peakRank":15,"duration":3,"score":0.52,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1568}
+{
+  "title": "Straight to Your Heart",
+  "instanceSlug": 1012,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    15,
+    17
+  ],
+  "artists": [
+    {
+      "slug": "bad-english",
+      "title": "Bad English",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.097,
+    0.055,
+    0.05,
+    0.04,
+    0.025,
+    0.005,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 2,
+  "score": 0.273,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1570
+}

@@ -1,10 +1,12 @@
 {
   "title": "(Keep Feeling) Fascination",
   "instanceSlug": 2494,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "electro-pop",
   "debut": "1983-07",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     4,
     1,
@@ -13,5 +15,10 @@
   "artists": {
     "human-league": true
   },
-  "note":"Project 8 weeks at #1."
+  "note": "Project 8 weeks at #1.",
+  "scores": [
+    0.537,
+    1,
+    0.977
+  ]
 }

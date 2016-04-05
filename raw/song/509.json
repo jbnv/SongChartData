@@ -4,10 +4,12 @@
   "tags": [
     "one"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1983-02",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     6.9,
     1,
@@ -16,5 +18,10 @@
   "artists": {
     "hall-oates": true
   },
-  "note":"Project 6 weeks at #1."
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.356,
+    1,
+    0.974
+  ]
 }

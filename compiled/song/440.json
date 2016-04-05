@@ -1,1 +1,64 @@
-{"title":"The Glamorous Life","instanceSlug":440,"tags":[],"parents":[],"genre":"dance","debut":"1984-08","playlists":[],"ranks":[13,7,3.8,2,1.9,2.5,3.1,4.3,6.1,8.5,11.5,15.1,19.3,24.1,29.5,35.5,42.1,49.3,57.1,65.5],"artists":[{"slug":"sheila-e","title":"Sheila E","roleSlug":true}],"debutRank":13,"peakRank":1.9,"duration":5,"score":16.25,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":520}
+{
+  "title": "The Glamorous Life",
+  "instanceSlug": 440,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1984-08",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    7,
+    3.8,
+    2,
+    1.9,
+    2.5
+  ],
+  "artists": [
+    {
+      "slug": "sheila-e",
+      "title": "Sheila E",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.351,
+    0.554,
+    0.768,
+    0.786,
+    0.694,
+    0.689,
+    0.679,
+    0.664,
+    0.644,
+    0.619,
+    0.589,
+    0.554,
+    0.514,
+    0.469,
+    0.419,
+    0.364,
+    0.304,
+    0.239,
+    0.169,
+    0.094,
+    0.014,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.75,
+  "score": 10.322000000000001,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 322
+}

@@ -1,1 +1,54 @@
-{"title":"Tell Me Why","instanceSlug":1948,"tags":[],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[16,7,7.4,8.2,9,10.6,13,16.2,20.2,25,30.6,37,44.2,52.2,61,70.6],"artists":[{"slug":"expose","title":"Expose","roleSlug":true}],"debutRank":16,"peakRank":7,"duration":4,"score":5.27,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":1319}
+{
+  "title": "Tell Me Why",
+  "instanceSlug": 1948,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    7,
+    7.4,
+    8.2
+  ],
+  "artists": [
+    {
+      "slug": "expose",
+      "title": "Expose",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.351,
+    0.332,
+    0.298,
+    0.293,
+    0.283,
+    0.268,
+    0.248,
+    0.223,
+    0.193,
+    0.158,
+    0.118,
+    0.073,
+    0.023,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 3.75,
+  "score": 2.9359999999999995,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 1317
+}

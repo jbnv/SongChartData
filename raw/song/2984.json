@@ -1,1 +1,33 @@
-{"title":"It's Gonna Be Me","instanceSlug":2984,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"2000-06","playlists":[],"ranks":[15,7,4.5,2.5,2.6,2.9],"artists":{"nsync":true}}
+{
+  "title": "It's Gonna Be Me",
+  "instanceSlug": 2984,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000-06",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    7,
+    4.5,
+    2.5,
+    2.6,
+    2.9
+  ],
+  "artists": {
+    "nsync": true
+  },
+  "scores": [
+    0.097,
+    0.351,
+    0.498,
+    0.694,
+    0.681,
+    0.645
+  ]
+}

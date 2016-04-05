@@ -13,9 +13,24 @@
   "playlists": [
     "summer"
   ],
-  "ranks": [19,10,7,6,5,6.1],
+  "ranks": [
+    19,
+    10,
+    7,
+    6,
+    5,
+    6.1
+  ],
   "artists": {
     "miami-sound-machine": true,
     "gloria-estefan": "lead"
-  }
+  },
+  "scores": [
+    0.018,
+    0.232,
+    0.351,
+    0.402,
+    0.463,
+    0.397
+  ]
 }

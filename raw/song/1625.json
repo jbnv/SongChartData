@@ -1,1 +1,21 @@
-{"title":"Running on Empty","instanceSlug":1625,"tags":["empty","run"],"parents":[],"genre":"rock","debut":"1978-03","playlists":[],"ranks":[],"artists":{"jackson-browne":true}}
+{
+  "title": "Running on Empty",
+  "instanceSlug": 1625,
+  "tags": [
+    "empty",
+    "run"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1978-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "jackson-browne": true
+  },
+  "scores": [
+  ]
+}

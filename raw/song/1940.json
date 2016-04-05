@@ -1,13 +1,30 @@
 {
   "title": "The Deeper the Love",
   "instanceSlug": 1940,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1990-02",
-  "playlists": ["ballad"],
-  "ranks": [15,6,4.2,2.8,3.2],
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    15,
+    6,
+    4.2,
+    2.8,
+    3.2
+  ],
   "artists": {
     "whitesnake": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.402,
+    0.521,
+    0.656,
+    0.612
+  ]
 }

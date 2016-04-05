@@ -1,1 +1,39 @@
-{"title":"Love's Been a Little Bit Hard on Me","instanceSlug":383,"tags":["been","bit","hard","little","love","me"],"parents":[],"genre":"pop","debut":"1982-06","playlists":[],"ranks":[16,9.8,6.4,4.6,3.5,3.2,3.65],"artists":{"juice-newton":true}}
+{
+  "title": "Love's Been a Little Bit Hard on Me",
+  "instanceSlug": 383,
+  "tags": [
+    "been",
+    "bit",
+    "hard",
+    "little",
+    "love",
+    "me"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-06",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9.8,
+    6.4,
+    4.6,
+    3.5,
+    3.2,
+    3.65
+  ],
+  "artists": {
+    "juice-newton": true
+  },
+  "scores": [
+    0.075,
+    0.239,
+    0.381,
+    0.491,
+    0.582,
+    0.612,
+    0.568
+  ]
+}

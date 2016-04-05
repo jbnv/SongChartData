@@ -1,1 +1,51 @@
-{"title":"I Don't Care Anymore","instanceSlug":2167,"tags":[],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[23.5,18.5,15,13.5,14.2,16.4,18.6,23,29.6,38.4,49.4,62.6],"artists":[{"slug":"phil-collins","title":"Phil Collins","roleSlug":true}],"debutRank":23.5,"peakRank":13.5,"duration":3,"score":1.4,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1537}
+{
+  "title": "I Don't Care Anymore",
+  "instanceSlug": 2167,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+    23.5,
+    18.5,
+    15,
+    13.5,
+    14.2,
+    16.4
+  ],
+  "artists": [
+    {
+      "slug": "phil-collins",
+      "title": "Phil Collins",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.027,
+    0.097,
+    0.132,
+    0.115,
+    0.067,
+    0.062,
+    0.052,
+    0.037,
+    0.017,
+    0
+  ],
+  "debutScore": 0.027,
+  "peakScore": 0.027,
+  "duration": 2.5,
+  "score": 0.6060000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1550
+}

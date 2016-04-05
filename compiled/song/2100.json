@@ -1,1 +1,60 @@
-{"title":"Better Off Alone","instanceSlug":2100,"tags":[],"parents":[],"genre":"dance","debut":"2000-05","playlists":[],"ranks":[13,4.5,3,3.05,3.4,3.75,4.45,5.5,6.9,8.65,10.75,13.2,16,19.15,22.65,26.5,30.7,35.25,40.15,45.4,51,56.95,63.25,69.9],"artists":[{"slug":"alice-deejay","title":"Alice Deejay","roleSlug":true}],"debutRank":13,"peakRank":3,"duration":6,"score":15.2,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":586}
+{
+  "title": "Better Off Alone",
+  "instanceSlug": 2100,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "2000-05",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    4.5,
+    3,
+    3.05,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "alice-deejay",
+      "title": "Alice Deejay",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.498,
+    0.633,
+    0.628,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5,
+  "score": 7.984000000000002,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 615
+}

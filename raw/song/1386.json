@@ -1,1 +1,36 @@
-{"title":"This Is Your Night","instanceSlug":1386,"tags":["night","this-is","your"],"parents":[],"genre":"dance","debut":"1996-10","playlists":[],"ranks":[12,2,2.05,2.12,2.29,2.52,2.89],"artists":{"amber":true}}
+{
+  "title": "This Is Your Night",
+  "instanceSlug": 1386,
+  "tags": [
+    "night",
+    "this-is",
+    "your"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1996-10",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    2,
+    2.05,
+    2.12,
+    2.29,
+    2.52,
+    2.89
+  ],
+  "artists": {
+    "amber": true
+  },
+  "scores": [
+    0.171,
+    0.768,
+    0.76,
+    0.749,
+    0.723,
+    0.691,
+    0.646
+  ]
+}

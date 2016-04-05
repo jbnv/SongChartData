@@ -1,1 +1,25 @@
-{"title":"She's So Cold","instanceSlug":4,"tags":[],"parents":[],"genre":"rock","debut":"1980-11","ranks":[17.9,10.7,9.3,13.2],"artists":{"rolling-stones":null}}
+{
+  "title": "She's So Cold",
+  "instanceSlug": 4,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-11",
+  "ranks": [
+    17.9,
+    10.7,
+    9.3,
+    13.2
+  ],
+  "artists": {
+    "rolling-stones": null
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.256,
+    0.139
+  ]
+}

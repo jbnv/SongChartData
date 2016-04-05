@@ -1,1 +1,28 @@
-{"title":"The Freshmen","instanceSlug":1783,"tags":[],"parents":[],"genre":"rock","debut":"1997-05","playlists":[],"ranks":[],"artists":[{"slug":"verve-pipe-the"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":3018}
+{
+  "title": "The Freshmen",
+  "instanceSlug": 1783,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1997-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "verve-pipe-the"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2727
+}

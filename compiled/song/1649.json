@@ -1,1 +1,30 @@
-{"title":"Do It To Me","instanceSlug":1649,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1992-06","playlists":[],"ranks":[],"artists":[{"slug":"lionel-richie","title":"Lionel Richie","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2472}
+{
+  "title": "Do It To Me",
+  "instanceSlug": 1649,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1992-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "lionel-richie",
+      "title": "Lionel Richie",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2767
+}

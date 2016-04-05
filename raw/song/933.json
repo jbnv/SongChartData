@@ -1,1 +1,28 @@
-{"title":"Sunset Grill","instanceSlug":933,"tags":[],"parents":[],"genre":"rock","debut":"1985-10","playlists":[],"ranks":[16.5,9.7,5.8,7.8],"artists":{"don-henley":true,"patty-smythe":"backup"}}
+{
+  "title": "Sunset Grill",
+  "instanceSlug": 933,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    9.7,
+    5.8,
+    7.8
+  ],
+  "artists": {
+    "don-henley": true,
+    "patty-smythe": "backup"
+  },
+  "scores": [
+    0.065,
+    0.242,
+    0.414,
+    0.315
+  ]
+}

@@ -1,1 +1,55 @@
-{"title":"Amazing","instanceSlug":2083,"tags":[],"parents":[],"genre":"rock","debut":"1994-01","playlists":[],"ranks":[24,19,16,14,15.7,17.4,20.8,25.9,32.7,41.2,51.4,63.3],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true},{"slug":"don-henley","title":"Don Henley","roleSlug":"backup"}],"debutRank":24,"peakRank":14,"duration":3,"score":1.03,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1549}
+{
+  "title": "Amazing",
+  "instanceSlug": 2083,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1994-01",
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    19,
+    16,
+    14,
+    15.7
+  ],
+  "artists": [
+    {
+      "slug": "aerosmith",
+      "title": "Aerosmith",
+      "roleSlug": true
+    },
+    {
+      "slug": "don-henley",
+      "title": "Don Henley",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.018,
+    0.075,
+    0.12,
+    0.082,
+    0.077,
+    0.067,
+    0.052,
+    0.032,
+    0.007,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 2.5,
+  "score": 0.53,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1553
+}

@@ -1,1 +1,30 @@
-{"title":"Walk on Water","instanceSlug":1298,"tags":[],"parents":[],"genre":"rock","debut":"1988-11","playlists":[],"ranks":[],"artists":[{"slug":"eddie-money","title":"Eddie Money","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2913}
+{
+  "title": "Walk on Water",
+  "instanceSlug": 1298,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "eddie-money",
+      "title": "Eddie Money",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2217
+}

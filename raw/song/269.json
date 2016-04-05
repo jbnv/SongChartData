@@ -1,1 +1,24 @@
-{"title":"Human","instanceSlug":269,"tags":[],"playlists":["ballad"],"genre":"pop","debut":"1986-10","ranks":[6,1,1.15],"artists":{"human-league":true}}
+{
+  "title": "Human",
+  "instanceSlug": 269,
+  "tags": [
+  ],
+  "playlists": [
+    "ballad"
+  ],
+  "genre": "pop",
+  "debut": "1986-10",
+  "ranks": [
+    6,
+    1,
+    1.15
+  ],
+  "artists": {
+    "human-league": true
+  },
+  "scores": [
+    0.402,
+    1,
+    0.953
+  ]
+}

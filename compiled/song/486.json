@@ -1,1 +1,67 @@
-{"title":"Party All the Time","instanceSlug":486,"tags":[],"parents":[],"genre":"dance","debut":"1985-12","playlists":[],"ranks":[17,10,5,2.9,2.7,2.65,2.8,3.2,3.6,4.4,5.6,7.2,9.2,11.6,14.4,17.6,21.2,25.2,29.6,34.4,39.6,45.2,51.2,57.6],"artists":[{"slug":"eddie-murphy","title":"Eddie Murphy","roleSlug":true}],"debutRank":17,"peakRank":2.65,"duration":6,"score":19.36,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":353}
+{
+  "title": "Party All the Time",
+  "instanceSlug": 486,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1985-12",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    5,
+    2.9,
+    2.7,
+    2.65,
+    2.8,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "eddie-murphy",
+      "title": "Eddie Murphy",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.463,
+    0.645,
+    0.668,
+    0.675,
+    0.656,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 6,
+  "score": 9.786000000000001,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 392
+}

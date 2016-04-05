@@ -1,1 +1,63 @@
-{"title":"One on One","instanceSlug":509,"tags":["one"],"parents":[],"genre":"pop","debut":"1983-02","playlists":[],"ranks":[6.9,1,1.08,1.16,1.32,1.56,1.88,2.28,2.76,3.32,3.96,4.68,5.48,6.36,7.32,8.36,9.48,10.68,11.96,13.32,14.76,16.28,17.88,19.56,21.32,23.16,25.08,27.08,29.16,31.32,33.56,35.88,38.28,40.76,43.32,45.96,48.68,51.48,54.36,57.32],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"note":"Project 6 weeks at #1.","debutRank":6.9,"peakRank":1,"duration":10,"score":33.84,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":25}
+{
+  "title": "One on One",
+  "instanceSlug": 509,
+  "tags": [
+    "one"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-02",
+  "playlists": [
+  ],
+  "ranks": [
+    6.9,
+    1,
+    1.08
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.356,
+    1,
+    0.974,
+    0.969,
+    0.959,
+    0.944,
+    0.924,
+    0.899,
+    0.869,
+    0.834,
+    0.794,
+    0.749,
+    0.699,
+    0.644,
+    0.584,
+    0.519,
+    0.449,
+    0.374,
+    0.294,
+    0.209,
+    0.119,
+    0.024,
+    0
+  ],
+  "debutScore": 0.356,
+  "peakScore": 0.356,
+  "duration": 5.75,
+  "score": 14.186,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 61
+}

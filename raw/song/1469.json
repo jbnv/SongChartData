@@ -1,5 +1,35 @@
-{"title":"Goodbye Hello","instanceSlug":1469,"tags":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[19,11,8,6,5,5.2,5.9],"artists":{"beatles":true,
-"john-lennon":"member",
-"paul-mccartney":"member",
-"george-harrison":"member",
-"ringo-starr":"member"}}
+{
+  "title": "Goodbye Hello",
+  "instanceSlug": 1469,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    11,
+    8,
+    6,
+    5,
+    5.2,
+    5.9
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.018,
+    0.2,
+    0.306,
+    0.402,
+    0.463,
+    0.45,
+    0.408
+  ]
+}

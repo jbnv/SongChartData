@@ -1,1 +1,58 @@
-{"title":"Don't Be Cruel","instanceSlug":1711,"tags":[],"parents":[],"genre":"pop","debut":"1988-09","playlists":[],"ranks":[21,16,14,12,10,10.5,11.5,12.9,15,17.1,21.3,27.6,36,46.5,59.1,73.8],"artists":[{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":true}],"debutRank":21,"peakRank":10,"duration":4,"score":3.9,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1405}
+{
+  "title": "Don't Be Cruel",
+  "instanceSlug": 1711,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-09",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    16,
+    14,
+    12,
+    10,
+    10.5,
+    11.5,
+    12.9,
+    15
+  ],
+  "artists": [
+    {
+      "slug": "bobby-brown",
+      "title": "Bobby Brown",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.12,
+    0.171,
+    0.232,
+    0.216,
+    0.185,
+    0.147,
+    0.097,
+    0.092,
+    0.082,
+    0.067,
+    0.047,
+    0.022,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 3.5,
+  "score": 1.553,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1457
+}

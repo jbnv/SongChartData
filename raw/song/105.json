@@ -1,7 +1,8 @@
 {
   "title": "Dead or Alive",
   "instanceSlug": 105,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": 1987,
   "ranks": [
@@ -14,5 +15,13 @@
   ],
   "artists": {
     "bon-jovi": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.537,
+    0.752,
+    0.864,
+    0.843,
+    0.804
+  ]
 }

@@ -1,1 +1,20 @@
-{"title":"Walking in Memphis","instanceSlug":2021,"tags":[],"parents":[],"genre":"pop","debut":"1991-06","playlists":["summer"],"ranks":[],"artists":{"marc-cohn":true}}
+{
+  "title": "Walking in Memphis",
+  "instanceSlug": 2021,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "marc-cohn": true
+  },
+  "scores": [
+  ]
+}

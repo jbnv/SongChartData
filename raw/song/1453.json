@@ -1,1 +1,37 @@
-{"title":"I Live For Your Love","instanceSlug":1453,"tags":["i-live","your-love"],"parents":[],"genre":"soul","debut":"1988-01","playlists":[],"ranks":[17,11,8.3,6.8,6.1,5.6,5.85,6.4],"artists":{"natalie-cole":true}}
+{
+  "title": "I Live For Your Love",
+  "instanceSlug": 1453,
+  "tags": [
+    "i-live",
+    "your-love"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1988-01",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11,
+    8.3,
+    6.8,
+    6.1,
+    5.6,
+    5.85,
+    6.4
+  ],
+  "artists": {
+    "natalie-cole": true
+  },
+  "scores": [
+    0.055,
+    0.2,
+    0.294,
+    0.361,
+    0.397,
+    0.425,
+    0.411,
+    0.381
+  ]
+}

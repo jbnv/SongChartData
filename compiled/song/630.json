@@ -1,1 +1,57 @@
-{"title":"The Way It Is","instanceSlug":630,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"adult-contemporary","debut":"1986-11","playlists":[],"ranks":[18.9,11.1,6.5,8.2,9.9,13.3,18.4,25.2,33.7,43.9,55.8,69.4],"artists":[{"slug":"bruce-hornsby-the-range","title":"Bruce Hornsby & the Range","roleSlug":true}],"debutRank":18.9,"peakRank":6.5,"duration":3,"score":3.89,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1407}
+{
+  "title": "The Way It Is",
+  "instanceSlug": 630,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+    18.9,
+    11.1,
+    6.5,
+    8.2
+  ],
+  "artists": [
+    {
+      "slug": "bruce-hornsby-the-range",
+      "title": "Bruce Hornsby & the Range",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.02,
+    0.197,
+    0.376,
+    0.298,
+    0.293,
+    0.283,
+    0.268,
+    0.248,
+    0.223,
+    0.193,
+    0.158,
+    0.118,
+    0.073,
+    0.023,
+    0
+  ],
+  "debutScore": 0.02,
+  "peakScore": 0.02,
+  "duration": 3.75,
+  "score": 2.771,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1338
+}

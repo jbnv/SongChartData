@@ -1,1 +1,31 @@
-{"title":"Semi-Charmed Life","instanceSlug":403,"tags":[],"parents":[],"genre":"alternative","debut":1997,"playlists":[],"ranks":[15.9,9.5,7.8,7.7,8.2,9.5],"artists":{"third-eye-blind":true}}
+{
+  "title": "Semi-Charmed Life",
+  "instanceSlug": 403,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "alternative",
+  "debut": 1997,
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.5,
+    7.8,
+    7.7,
+    8.2,
+    9.5
+  ],
+  "artists": {
+    "third-eye-blind": true
+  },
+  "scores": [
+    0.077,
+    0.249,
+    0.315,
+    0.319,
+    0.298,
+    0.249
+  ]
+}

@@ -1,1 +1,61 @@
-{"title":"Faithful","instanceSlug":1316,"tags":[],"playlists":[],"genre":"pop","debut":"1992-12","ranks":[14,4.2,1.4,1.51,1.78,2.05,2.59,3.4,4.48,5.83,7.45,9.34,11.5,13.93,16.63,19.6,22.84,26.35,30.13,34.18,38.5,43.09,47.95,53.08],"artists":[{"slug":"go-west","title":"Go West","roleSlug":true}],"debutRank":14,"peakRank":1.4,"duration":6,"score":21.34,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":255}
+{
+  "title": "Faithful",
+  "instanceSlug": 1316,
+  "tags": [
+  ],
+  "playlists": [
+  ],
+  "genre": "pop",
+  "debut": "1992-12",
+  "ranks": [
+    14,
+    4.2,
+    1.4,
+    1.51,
+    1.78
+  ],
+  "artists": [
+    {
+      "slug": "go-west",
+      "title": "Go West",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.521,
+    0.887,
+    0.862,
+    0.807,
+    0.802,
+    0.792,
+    0.777,
+    0.757,
+    0.732,
+    0.702,
+    0.667,
+    0.627,
+    0.582,
+    0.532,
+    0.477,
+    0.417,
+    0.352,
+    0.282,
+    0.207,
+    0.127,
+    0.042,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 12.071000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 199
+}

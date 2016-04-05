@@ -1,1 +1,49 @@
-{"title":"It's a Long Way There","instanceSlug":2034,"tags":[],"parents":[],"genre":"pop","debut":1976,"playlists":[],"ranks":[24,19,17,15,16,19,22,28,37,49,64,82],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":24,"peakRank":15,"duration":3,"score":0.8,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1556}
+{
+  "title": "It's a Long Way There",
+  "instanceSlug": 2034,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    19,
+    17,
+    15,
+    16,
+    19
+  ],
+  "artists": [
+    {
+      "slug": "little-river-band",
+      "title": "Little River Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.055,
+    0.097,
+    0.075,
+    0.018,
+    0.013,
+    0.003,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 2,
+  "score": 0.279,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1569
+}

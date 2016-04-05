@@ -1,1 +1,69 @@
-{"title":"Right Here Right Now","instanceSlug":965,"tags":["#1","#1-modern-rock"],"parents":[],"genre":"rock","debut":"1991-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[16,7,4,4.1,4,3,4.8,6.6,10.2,15.6,22.8,31.8,42.6,55.2,69.6,85.8],"artists":[{"slug":"jesus-jones","title":"Jesus Jones","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":4,"score":11.47,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":846}
+{
+  "title": "Right Here Right Now",
+  "instanceSlug": 965,
+  "tags": [
+    "#1",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    16,
+    7,
+    4,
+    4.1,
+    4,
+    3,
+    4.8
+  ],
+  "artists": [
+    {
+      "slug": "jesus-jones",
+      "title": "Jesus Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.351,
+    0.537,
+    0.529,
+    0.537,
+    0.633,
+    0.477,
+    0.472,
+    0.462,
+    0.447,
+    0.427,
+    0.402,
+    0.372,
+    0.337,
+    0.297,
+    0.252,
+    0.202,
+    0.147,
+    0.087,
+    0.022,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 7.064999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 725
+}

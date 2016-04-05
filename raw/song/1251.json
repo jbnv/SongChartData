@@ -1,1 +1,47 @@
-{"title":"Love Me Tomorrow","instanceSlug":1251,"tags":["love","love-me","me","tomorrow"],"parents":[],"genre":"soft-rock","debut":"1982-11","playlists":[],"ranks":[18,15,12,9.5,7.1,5.9,5.8,5.9,6,6.4,6.9,7.7],"artists":{"chicago":true}}
+{
+  "title": "Love Me Tomorrow",
+  "instanceSlug": 1251,
+  "tags": [
+    "love",
+    "love-me",
+    "me",
+    "tomorrow"
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": "1982-11",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    15,
+    12,
+    9.5,
+    7.1,
+    5.9,
+    5.8,
+    5.9,
+    6,
+    6.4,
+    6.9,
+    7.7
+  ],
+  "artists": {
+    "chicago": true
+  },
+  "scores": [
+    0.036,
+    0.097,
+    0.171,
+    0.249,
+    0.346,
+    0.408,
+    0.414,
+    0.408,
+    0.402,
+    0.381,
+    0.356,
+    0.319
+  ]
+}

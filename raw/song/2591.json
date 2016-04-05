@@ -1,1 +1,19 @@
-{"title":"Stand by Me","instanceSlug":2591,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1980-07","source":"urban-cowboy","playlists":[],"ranks":true,"artists":{"mickey-gilley":true}}
+{
+  "title": "Stand by Me",
+  "instanceSlug": 2591,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1980-07",
+  "source": "urban-cowboy",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "mickey-gilley": true
+  }
+}

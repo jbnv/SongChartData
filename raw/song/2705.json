@@ -1,1 +1,22 @@
-{"title":"Penny Lover","instanceSlug":2705,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1984-10","playlists":["ballad"],"ranks":[],"artists":{"lionel-richie":true}}
+{
+  "title": "Penny Lover",
+  "instanceSlug": 2705,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-10",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "lionel-richie": true
+  },
+  "scores": [
+  ]
+}

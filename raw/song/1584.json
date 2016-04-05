@@ -1,1 +1,30 @@
-{"title":"Jungle Love","instanceSlug":1584,"tags":[],"parents":[],"genre":"funk-dance","debut":"1985-01","source":"purple-rain","playlists":[],"ranks":[11,1.2,1,1.05,1.21],"artists":{"the-time":true}}
+{
+  "title": "Jungle Love",
+  "instanceSlug": 1584,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "funk-dance",
+  "debut": "1985-01",
+  "source": "purple-rain",
+  "playlists": [
+  ],
+  "ranks": [
+    11,
+    1.2,
+    1,
+    1.05,
+    1.21
+  ],
+  "artists": {
+    "the-time": true
+  },
+  "scores": [
+    0.2,
+    0.939,
+    1,
+    0.983,
+    0.936
+  ]
+}

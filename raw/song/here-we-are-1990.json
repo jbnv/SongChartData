@@ -1,1 +1,20 @@
-{"title":"Here We Are","instanceSlug":"here-we-are-1990","tags":["#1","#1-adult-contemporary"],"parents":[],"debut":"1990-01","playlists":[],"ranks":[],"artists":{"gloria-estefan":true}}
+{
+  "title": "Here We Are",
+  "instanceSlug": "here-we-are-1990",
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "debut": "1990-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "gloria-estefan": true
+  },
+  "scores": [
+  ]
+}

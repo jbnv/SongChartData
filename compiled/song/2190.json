@@ -1,1 +1,60 @@
-{"title":"What Is Love?","instanceSlug":2190,"tags":[],"parents":[],"genre":"pop","debut":"1984-06","playlists":[],"ranks":[9,1.2,1.38,1.56,1.92,2.46,3.18,4.08,5.16,6.42,7.86,9.48,11.28,13.26,15.42,17.76,20.28,22.98,25.86,28.92,32.16,35.58,39.18,42.96,46.92,51.06,55.38,59.88],"artists":[{"slug":"howard-jones","title":"Howard Jones","roleSlug":true}],"debutRank":9,"peakRank":1.2,"duration":7,"score":22.31,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":222}
+{
+  "title": "What Is Love?",
+  "instanceSlug": 2190,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-06",
+  "playlists": [
+  ],
+  "ranks": [
+    9,
+    1.2,
+    1.38
+  ],
+  "artists": [
+    {
+      "slug": "howard-jones",
+      "title": "Howard Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.267,
+    0.939,
+    0.892,
+    0.887,
+    0.877,
+    0.862,
+    0.842,
+    0.817,
+    0.787,
+    0.752,
+    0.712,
+    0.667,
+    0.617,
+    0.562,
+    0.502,
+    0.437,
+    0.367,
+    0.292,
+    0.212,
+    0.127,
+    0.037,
+    0
+  ],
+  "debutScore": 0.267,
+  "peakScore": 0.267,
+  "duration": 5.5,
+  "score": 12.453999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 171
+}

@@ -1,1 +1,62 @@
-{"title":"The Valley Road","instanceSlug":456,"tags":["#1","#1-adult-contemporary","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1988-05","playlists":[],"ranks":[17.9,6.2,4.4,4.3,4.5,4.7,5.1,5.7,6.5,7.5,8.7,10.1,11.7,13.5,15.5,17.7,20.1,22.7,25.5,28.5,31.7,35.1,38.7,42.5,46.5,50.7,55.1,59.7],"artists":[{"slug":"bruce-hornsby-the-range","title":"Bruce Hornsby & the Range","roleSlug":true}],"debutRank":17.9,"peakRank":4.3,"duration":7,"score":14.89,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":614}
+{
+  "title": "The Valley Road",
+  "instanceSlug": 456,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    6.2,
+    4.4,
+    4.3,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "bruce-hornsby-the-range",
+      "title": "Bruce Hornsby & the Range",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.391,
+    0.506,
+    0.513,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 4.75,
+  "score": 6.144999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 847
+}

@@ -4,10 +4,13 @@
   "tags": [
     "murder"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "country",
   "debut": 1992,
-  "playlists": ["places"],
+  "playlists": [
+    "places"
+  ],
   "ranks": [
     14.5,
     3.7,
@@ -18,5 +21,13 @@
   ],
   "artists": {
     "reba-mcentire": true
-  }
+  },
+  "scores": [
+    0.108,
+    0.563,
+    0.694,
+    0.681,
+    0.662,
+    0.617
+  ]
 }

@@ -1,1 +1,55 @@
-{"title":"With You","instanceSlug":956,"tags":[],"parents":[],"genre":"soul","debut":"1991-10","playlists":[],"ranks":[16.5,9.7,5.7,7.2,9.8,12.4,17.6,25.4,35.8,48.8,64.4,82.6],"artists":[{"slug":"tony-terry","title":"Tony Terry","roleSlug":true}],"debutRank":16.5,"peakRank":5.7,"duration":3,"score":4.54,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1365}
+{
+  "title": "With You",
+  "instanceSlug": 956,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    9.7,
+    5.7,
+    7.2,
+    9.8
+  ],
+  "artists": [
+    {
+      "slug": "tony-terry",
+      "title": "Tony Terry",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.065,
+    0.242,
+    0.419,
+    0.341,
+    0.239,
+    0.234,
+    0.224,
+    0.209,
+    0.189,
+    0.164,
+    0.134,
+    0.099,
+    0.059,
+    0.014,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 3.75,
+  "score": 2.632,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1352
+}

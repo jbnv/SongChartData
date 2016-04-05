@@ -1,1 +1,53 @@
-{"title":"Lovin' Every Minute of It","instanceSlug":935,"tags":[],"parents":[],"genre":"rock","debut":"1985-10","playlists":[],"ranks":[17,10.1,7.6,9.3,11,14.4,19.5,26.3,34.8,45,56.9,70.5],"artists":[{"slug":"loverboy","title":"Loverboy","roleSlug":true}],"debutRank":17,"peakRank":7.6,"duration":3,"score":3.56,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1421}
+{
+  "title": "Lovin' Every Minute of It",
+  "instanceSlug": 935,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    7.6,
+    9.3
+  ],
+  "artists": [
+    {
+      "slug": "loverboy",
+      "title": "Loverboy",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.229,
+    0.323,
+    0.256,
+    0.251,
+    0.241,
+    0.226,
+    0.206,
+    0.181,
+    0.151,
+    0.116,
+    0.076,
+    0.031,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.5,
+  "score": 2.342,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1386
+}

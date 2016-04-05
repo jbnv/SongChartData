@@ -1,1 +1,30 @@
-{"title":"Make Me Smile","instanceSlug":1990,"tags":[],"parents":[],"genre":"jazz-rock","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"chicago","title":"Chicago","roleSlug":true}],"genres":[{"slug":"jazz-rock","title":"Jazz Rock"}],"source":null,"rank":2445}
+{
+  "title": "Make Me Smile",
+  "instanceSlug": 1990,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "jazz-rock",
+  "debut": 1970,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "chicago",
+      "title": "Chicago",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "jazz-rock",
+      "title": "Jazz Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2371
+}

@@ -1,1 +1,33 @@
-{"title":"Slow Motion","instanceSlug":1110,"tags":[],"parents":[],"genre":"pop","debut":"1992-06","playlists":[],"ranks":[17,11.5,8,6.5,6,6.2,7],"artists":{"color-me-badd":true}}
+{
+  "title": "Slow Motion",
+  "instanceSlug": 1110,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-06",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.5,
+    8,
+    6.5,
+    6,
+    6.2,
+    7
+  ],
+  "artists": {
+    "color-me-badd": true
+  },
+  "scores": [
+    0.055,
+    0.185,
+    0.306,
+    0.376,
+    0.402,
+    0.391,
+    0.351
+  ]
+}

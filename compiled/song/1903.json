@@ -1,1 +1,59 @@
-{"title":"When You Love a Woman","instanceSlug":1903,"tags":[],"parents":[],"genre":"rock","debut":"1996-11","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[23,14,10.5,10.7,11.2,12.1,14.5,16.9,21.7,28.9,38.5,50.5],"artists":[{"slug":"journey","title":"Journey","roleSlug":true}],"debutRank":23,"peakRank":10.5,"duration":3,"score":3.23,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1441}
+{
+  "title": "When You Love a Woman",
+  "instanceSlug": 1903,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1996-11",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    23,
+    14,
+    10.5,
+    10.7,
+    11.2,
+    12.1,
+    14.5
+  ],
+  "artists": [
+    {
+      "slug": "journey",
+      "title": "Journey",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.216,
+    0.209,
+    0.194,
+    0.168,
+    0.108,
+    0.103,
+    0.093,
+    0.078,
+    0.058,
+    0.033,
+    0.003,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.108,
+  "duration": 3.25,
+  "score": 1.3829999999999998,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1477
+}

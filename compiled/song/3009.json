@@ -1,1 +1,66 @@
-{"title":"Summertime","instanceSlug":3009,"tags":["","summer"],"parents":[],"genre":"urban","debut":1991,"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[10,1.15,1.31,1.47,1.79,2.27,2.91,3.71,4.67,5.79,7.07,8.51,10.11,11.87,13.79,15.87,18.11,20.51,23.07,25.79,28.67,31.71,34.91,38.27,41.79,45.47,49.31,53.31],"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true}],"debutRank":10,"peakRank":1.15,"duration":7,"score":23.65,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":179}
+{
+  "title": "Summertime",
+  "instanceSlug": 3009,
+  "tags": [
+    "",
+    "summer"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1991,
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    10,
+    1.15,
+    1.31
+  ],
+  "artists": [
+    {
+      "slug": "will-smith",
+      "title": "Will Smith",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.953,
+    0.909,
+    0.904,
+    0.894,
+    0.879,
+    0.859,
+    0.834,
+    0.804,
+    0.769,
+    0.729,
+    0.684,
+    0.634,
+    0.579,
+    0.519,
+    0.454,
+    0.384,
+    0.309,
+    0.229,
+    0.144,
+    0.054,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 5.5,
+  "score": 12.756,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 149
+}

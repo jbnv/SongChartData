@@ -4,12 +4,19 @@
   "tags": [
     "tell-her"
   ],
-  "playlists": ["remake","summer"],
-  "parents": [],
+  "playlists": [
+    "remake",
+    "summer"
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1983-09",
-  "ranks": [],
+  "ranks": [
+  ],
   "artists": {
     "juice-newton": true
-  }
+  },
+  "scores": [
+  ]
 }

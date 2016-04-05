@@ -1,1 +1,69 @@
-{"title":"Too Many Walls","instanceSlug":122,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"pop","debut":"1991-08","ranks":[8,1.05,1.09,1.17,1.28,1.47,1.66,2.04,2.61,3.37,4.32,5.46,6.79,8.31,10.02,11.92,14.01,16.29,18.76,21.42,24.27,27.31,30.54,33.96,37.57,41.37,45.36,49.54,53.91,58.47,63.22,68.16],"artists":[{"slug":"cathy-dennis","title":"Cathy Dennis","roleSlug":true}],"note":"Project 6 weeks at #1.","debutRank":8,"peakRank":1.05,"duration":8,"score":30.26,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":46}
+{
+  "title": "Too Many Walls",
+  "instanceSlug": 122,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "ranks": [
+    8,
+    1.05,
+    1.09,
+    1.17,
+    1.28,
+    1.47
+  ],
+  "artists": [
+    {
+      "slug": "cathy-dennis",
+      "title": "Cathy Dennis",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.306,
+    0.983,
+    0.971,
+    0.947,
+    0.917,
+    0.871,
+    0.866,
+    0.856,
+    0.841,
+    0.821,
+    0.796,
+    0.766,
+    0.731,
+    0.691,
+    0.646,
+    0.596,
+    0.541,
+    0.481,
+    0.416,
+    0.346,
+    0.271,
+    0.191,
+    0.106,
+    0.016,
+    0
+  ],
+  "debutScore": 0.306,
+  "peakScore": 0.306,
+  "duration": 6.25,
+  "score": 14.973000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 24
+}

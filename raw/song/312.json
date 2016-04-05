@@ -1,1 +1,33 @@
-{"title":"Love Will Never Do (Without You)","instanceSlug":312,"tags":[],"parents":[],"genre":"pop","debut":"1990-12","playlists":[],"ranks":[11,4.8,1.67,1.5,1.55,1.8,2.2],"artists":{"janet-jackson":true}}
+{
+  "title": "Love Will Never Do (Without You)",
+  "instanceSlug": 312,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-12",
+  "playlists": [
+  ],
+  "ranks": [
+    11,
+    4.8,
+    1.67,
+    1.5,
+    1.55,
+    1.8,
+    2.2
+  ],
+  "artists": {
+    "janet-jackson": true
+  },
+  "scores": [
+    0.2,
+    0.477,
+    0.829,
+    0.864,
+    0.853,
+    0.804,
+    0.737
+  ]
+}

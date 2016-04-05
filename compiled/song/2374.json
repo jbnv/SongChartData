@@ -1,1 +1,37 @@
-{"title":"Luckenbach, Texas (Back to the Basics of Love)","instanceSlug":2374,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"waylon-jennings","title":"Waylon Jennings","roleSlug":true},{"slug":"willie-nelson","title":"Willie Nelson","roleSlug":"backup"}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":3000}
+{
+  "title": "Luckenbach, Texas (Back to the Basics of Love)",
+  "instanceSlug": 2374,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "waylon-jennings",
+      "title": "Waylon Jennings",
+      "roleSlug": true
+    },
+    {
+      "slug": "willie-nelson",
+      "title": "Willie Nelson",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 3001
+}

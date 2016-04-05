@@ -4,7 +4,8 @@
   "playlists": [
     "cold"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1989-07",
   "ranks": [
@@ -18,5 +19,14 @@
   ],
   "artists": {
     "paula-abdul": true
-  }
+  },
+  "scores": [
+    0.001,
+    0.171,
+    0.267,
+    0.341,
+    0.356,
+    0.332,
+    0.302
+  ]
 }

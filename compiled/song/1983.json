@@ -1,1 +1,69 @@
-{"title":"The Power of Love","instanceSlug":1983,"tags":[],"parents":[],"genre":"rock","debut":"1985-07","playlists":[],"ranks":[16,10,6,4,3.4,2.9,2.5,2.75,3.21,3.67,4.59,5.97,7.81,10.11,12.87,16.09,19.77,23.91,28.51,33.57,39.09,45.07,51.51,58.41],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":6,"score":20.07,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":320}
+{
+  "title": "The Power of Love",
+  "instanceSlug": 1983,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-07",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    6,
+    4,
+    3.4,
+    2.9,
+    2.5,
+    2.75,
+    3.21
+  ],
+  "artists": [
+    {
+      "slug": "huey-lewis-the-news",
+      "title": "Huey Lewis & the News",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.592,
+    0.645,
+    0.694,
+    0.662,
+    0.611,
+    0.606,
+    0.596,
+    0.581,
+    0.561,
+    0.536,
+    0.506,
+    0.471,
+    0.431,
+    0.386,
+    0.336,
+    0.281,
+    0.221,
+    0.156,
+    0.086,
+    0.011,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6.25,
+  "score": 10.215,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 337
+}

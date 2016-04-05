@@ -1,1 +1,40 @@
-{"title":"Shine","instanceSlug":1241,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1994-06","playlists":["summer"],"ranks":[16,9,4.5,3.3,2.7,2.3,2.4,2.63,2.97],"artists":{"collective-soul":true}}
+{
+  "title": "Shine",
+  "instanceSlug": 1241,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1994-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    16,
+    9,
+    4.5,
+    3.3,
+    2.7,
+    2.3,
+    2.4,
+    2.63,
+    2.97
+  ],
+  "artists": {
+    "collective-soul": true
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.498,
+    0.602,
+    0.668,
+    0.722,
+    0.708,
+    0.677,
+    0.637
+  ]
+}

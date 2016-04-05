@@ -1,1 +1,32 @@
-{"title":"The Rubberband Man","instanceSlug":2664,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1832}
+{
+  "title": "The Rubberband Man",
+  "instanceSlug": 2664,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "spinners",
+      "title": "Spinners",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 1832
+}

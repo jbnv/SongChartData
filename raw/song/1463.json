@@ -1,1 +1,21 @@
-{"title":"There's the Girl","instanceSlug":1463,"tags":["girl","there's"],"parents":[],"genre":"rock","debut":"1987-12","playlists":[],"ranks":[],"artists":{"heart":true}}
+{
+  "title": "There's the Girl",
+  "instanceSlug": 1463,
+  "tags": [
+    "girl",
+    "there's"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "heart": true
+  },
+  "scores": [
+  ]
+}

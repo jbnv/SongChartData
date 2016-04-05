@@ -1,1 +1,30 @@
-{"title":"Strong Enough","instanceSlug":2310,"tags":[],"parents":[],"genre":"pop","debut":"1995-02","playlists":[],"ranks":[],"artists":[{"slug":"sheryl-crow","title":"Sheryl Crow","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2920}
+{
+  "title": "Strong Enough",
+  "instanceSlug": 2310,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sheryl-crow",
+      "title": "Sheryl Crow",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2915
+}

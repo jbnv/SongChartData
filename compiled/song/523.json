@@ -1,1 +1,69 @@
-{"title":"I'm Alright","instanceSlug":523,"tags":["alright","i'm"],"parents":[],"genre":"rock","debut":"1980-09","playlists":[],"ranks":[4.9,1,1.14,1.32,1.5,1.86,2.4,3.12,4.02,5.1,6.36,7.8,9.42,11.22,13.2,15.36,17.7,20.22,22.92,25.8,28.86,32.1,35.52,39.12,42.9,46.86,51,55.32],"artists":[{"slug":"kenny-loggins","title":"Kenny Loggins","roleSlug":true},{"slug":"eddie-money","title":"Eddie Money","roleSlug":"backup"}],"debutRank":4.9,"peakRank":1,"duration":7,"score":26.19,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":105}
+{
+  "title": "I'm Alright",
+  "instanceSlug": 523,
+  "tags": [
+    "alright",
+    "i'm"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-09",
+  "playlists": [
+  ],
+  "ranks": [
+    4.9,
+    1,
+    1.14,
+    1.32
+  ],
+  "artists": [
+    {
+      "slug": "kenny-loggins",
+      "title": "Kenny Loggins",
+      "roleSlug": true
+    },
+    {
+      "slug": "eddie-money",
+      "title": "Eddie Money",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.47,
+    1,
+    0.956,
+    0.907,
+    0.902,
+    0.892,
+    0.877,
+    0.857,
+    0.832,
+    0.802,
+    0.767,
+    0.727,
+    0.682,
+    0.632,
+    0.577,
+    0.517,
+    0.452,
+    0.382,
+    0.307,
+    0.227,
+    0.142,
+    0.052,
+    0
+  ],
+  "debutScore": 0.47,
+  "peakScore": 0.47,
+  "duration": 5.75,
+  "score": 13.959,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 79
+}

@@ -1,1 +1,34 @@
-{"title":"You Can Do Magic","instanceSlug":683,"tags":["you-can"],"parents":[],"genre":"adult-contemporary","debut":"1982-09","playlists":[],"ranks":[13.9,8.3,6.6,5.5,4.95,5.2,5.9],"artists":{"america":true}}
+{
+  "title": "You Can Do Magic",
+  "instanceSlug": 683,
+  "tags": [
+    "you-can"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    8.3,
+    6.6,
+    5.5,
+    4.95,
+    5.2,
+    5.9
+  ],
+  "artists": {
+    "america": true
+  },
+  "scores": [
+    0.122,
+    0.294,
+    0.37,
+    0.431,
+    0.466,
+    0.45,
+    0.408
+  ]
+}

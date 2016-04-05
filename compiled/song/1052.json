@@ -1,1 +1,71 @@
-{"title":"Dancing in the Streets","instanceSlug":1052,"tags":["dance","remake","street","this-in-that"],"parents":[],"genre":"hard-rock","debut":"1982-07","playlists":[],"ranks":[17,14,11.5,10,9,8.5,8.7,9.6,11,12.4,15.2,19.4,25,32,40.4,50.2],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"member"}],"debutRank":17,"peakRank":8.5,"duration":4,"score":6.42,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":1240}
+{
+  "title": "Dancing in the Streets",
+  "instanceSlug": 1052,
+  "tags": [
+    "dance",
+    "remake",
+    "street",
+    "this-in-that"
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1982-07",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    14,
+    11.5,
+    10,
+    9,
+    8.5,
+    8.7,
+    9.6,
+    11
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    },
+    {
+      "slug": "david-lee-roth",
+      "title": "David Lee Roth",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.055,
+    0.12,
+    0.185,
+    0.232,
+    0.267,
+    0.286,
+    0.278,
+    0.246,
+    0.2,
+    0.195,
+    0.185,
+    0.17,
+    0.15,
+    0.125,
+    0.095,
+    0.06,
+    0.02,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.5,
+  "score": 2.869,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1330
+}

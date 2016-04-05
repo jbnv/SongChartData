@@ -1,1 +1,59 @@
-{"title":"Set Adrift on Memory Bliss","instanceSlug":1522,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":"1991-11","playlists":[{"slug":"sample"}],"ranks":[24,16,13,12,11,12,13,15,18,22,27,33,40,48,57,67],"artists":[{"slug":"pm-dawn","title":"PM Dawn","roleSlug":true}],"debutRank":24,"peakRank":11,"duration":4,"score":3.13,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":1450}
+{
+  "title": "Set Adrift on Memory Bliss",
+  "instanceSlug": 1522,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1991-11",
+  "playlists": [
+    {
+      "slug": "sample"
+    }
+  ],
+  "ranks": [
+    24,
+    16,
+    13,
+    12,
+    11,
+    12
+  ],
+  "artists": [
+    {
+      "slug": "pm-dawn",
+      "title": "PM Dawn",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.145,
+    0.171,
+    0.2,
+    0.171,
+    0.166,
+    0.156,
+    0.141,
+    0.121,
+    0.096,
+    0.066,
+    0.031,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 3.25,
+  "score": 1.5390000000000001,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1458
+}

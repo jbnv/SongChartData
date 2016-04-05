@@ -1,1 +1,57 @@
-{"title":"Zombie","instanceSlug":1037,"tags":[],"parents":[],"genre":"alternative","debut":1994,"playlists":[],"ranks":[17,14,11,10,9.7,10.3,10.9,12,18,24,36,54],"artists":[{"slug":"cranberries","title":"Cranberries","roleSlug":true}],"debutRank":17,"peakRank":9.7,"duration":3,"score":4.46,"genres":[{"slug":"alternative","title":"Alternative"}],"source":null,"rank":1368}
+{
+  "title": "Zombie",
+  "instanceSlug": 1037,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "alternative",
+  "debut": 1994,
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    14,
+    11,
+    10,
+    9.7,
+    10.3,
+    10.9,
+    12,
+    18
+  ],
+  "artists": [
+    {
+      "slug": "cranberries",
+      "title": "Cranberries",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.12,
+    0.2,
+    0.232,
+    0.242,
+    0.222,
+    0.203,
+    0.171,
+    0.036,
+    0.031,
+    0.021,
+    0.006,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.036,
+  "duration": 3.25,
+  "score": 1.539,
+  "genres": [
+    {
+      "slug": "alternative",
+      "title": "Alternative"
+    }
+  ],
+  "source": null,
+  "rank": 1459
+}

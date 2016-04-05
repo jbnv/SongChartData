@@ -1,1 +1,20 @@
-{"title":"Rosanna","instanceSlug":385,"tags":[],"parents":[],"genre":"pop","debut":"1982-05","playlists":["women"],"ranks":[],"artists":{"toto":true}}
+{
+  "title": "Rosanna",
+  "instanceSlug": 385,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-05",
+  "playlists": [
+    "women"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "toto": true
+  },
+  "scores": [
+  ]
+}

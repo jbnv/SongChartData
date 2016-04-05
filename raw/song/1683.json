@@ -1,1 +1,19 @@
-{"title":"Driving My Life Away","instanceSlug":1683,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1980-08","source":"roadie","playlists":[],"ranks":true,"artists":{"eddie-rabbitt":true}}
+{
+  "title": "Driving My Life Away",
+  "instanceSlug": 1683,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1980-08",
+  "source": "roadie",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "eddie-rabbitt": true
+  }
+}

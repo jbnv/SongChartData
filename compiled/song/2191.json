@@ -1,1 +1,60 @@
-{"title":"Life In One Day","instanceSlug":2191,"tags":[],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[12,2.2,1.89,2.23,2.57,3.25,4.27,5.63,7.33,9.37,11.75,14.47,17.53,20.93,24.67,28.75,33.17,37.93,43.03,48.47,54.25,60.37,66.83,73.63],"artists":[{"slug":"howard-jones","title":"Howard Jones","roleSlug":true}],"debutRank":12,"peakRank":1.89,"duration":6,"score":16.76,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":483}
+{
+  "title": "Life In One Day",
+  "instanceSlug": 2191,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    2.2,
+    1.89,
+    2.23
+  ],
+  "artists": [
+    {
+      "slug": "howard-jones",
+      "title": "Howard Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.737,
+    0.787,
+    0.732,
+    0.727,
+    0.717,
+    0.702,
+    0.682,
+    0.657,
+    0.627,
+    0.592,
+    0.552,
+    0.507,
+    0.457,
+    0.402,
+    0.342,
+    0.277,
+    0.207,
+    0.132,
+    0.052,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.25,
+  "score": 10.059,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 358
+}

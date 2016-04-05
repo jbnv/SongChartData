@@ -1,10 +1,15 @@
 {
   "title": "Just Another Dream",
   "instanceSlug": 1143,
-  "tags": [],
-  "genres": ["dance","pop"],
+  "tags": [
+  ],
+  "genres": [
+    "dance",
+    "pop"
+  ],
   "debut": "1990-12",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     12,
     2.5,
@@ -16,5 +21,13 @@
   "artists": {
     "cathy-dennis": true,
     "rick-astley": "backup"
-  }
+  },
+  "scores": [
+    0.171,
+    0.694,
+    0.864,
+    0.847,
+    0.827,
+    0.784
+  ]
 }

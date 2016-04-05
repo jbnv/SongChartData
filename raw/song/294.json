@@ -1,11 +1,14 @@
 {
   "title": "Friends and Lovers",
   "instanceSlug": 294,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "adult-contemporary",
   "debut": "1986-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     17,
     8,
@@ -22,5 +25,18 @@
   "artists": {
     "gloria-loring": true,
     "carl-anderson": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.306,
+    0.356,
+    0.376,
+    0.391,
+    0.381,
+    0.365,
+    0.337,
+    0.306,
+    0.271,
+    0.225
+  ]
 }

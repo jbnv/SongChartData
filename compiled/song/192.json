@@ -1,1 +1,24 @@
-{"title":"Who'll Stop the Rain","instanceSlug":192,"tags":[],"parents":[],"ranks":[],"artists":[{"slug":"creedence-clearwater-revival","title":"Creedence Clearwater Revival","roleSlug":true}],"genres":[],"playlists":[],"source":null,"rank":2314}
+{
+  "title": "Who'll Stop the Rain",
+  "instanceSlug": 192,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "creedence-clearwater-revival",
+      "title": "Creedence Clearwater Revival",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 2105
+}

@@ -1,12 +1,16 @@
 {
   "title": "Rainbow Connection, The",
   "instanceSlug": 2617,
-  "words": ["connect"],
-  "parents": [],
+  "words": [
+    "connect"
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1979-11",
   "source": "muppet-movie-1979",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": true,
   "artists": {
     "jim-henson": true

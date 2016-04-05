@@ -1,1 +1,33 @@
-{"title":"Elastic Heart","instanceSlug":3072,"tags":[],"parents":[],"genre":"pop","debut":"2015-07","playlists":[],"ranks":[16,12,8,6,4,4.3,4.9],"artists":{"sia":true}}
+{
+  "title": "Elastic Heart",
+  "instanceSlug": 3072,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-07",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    12,
+    8,
+    6,
+    4,
+    4.3,
+    4.9
+  ],
+  "artists": {
+    "sia": true
+  },
+  "scores": [
+    0.075,
+    0.171,
+    0.306,
+    0.402,
+    0.537,
+    0.513,
+    0.47
+  ]
+}

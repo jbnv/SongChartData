@@ -1,1 +1,72 @@
-{"title":"My Girl (Gone, Gone, Gone)","instanceSlug":1532,"tags":["girl","my"],"parents":[],"genre":"pop","debut":"1981-11","playlists":[],"ranks":[15,7,3.4,2.6,2.42,2.5,2.65,2.85,3.13,3.59,4.05,4.97,6.35,8.19,10.49,13.25,16.47,20.15,24.29,28.89,33.95,39.47,45.45,51.89],"artists":[{"slug":"chilliwack","title":"Chilliwack","roleSlug":true}],"debutRank":15,"peakRank":2.42,"duration":6,"score":23.24,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":193}
+{
+  "title": "My Girl (Gone, Gone, Gone)",
+  "instanceSlug": 1532,
+  "tags": [
+    "girl",
+    "my"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    7,
+    3.4,
+    2.6,
+    2.42,
+    2.5,
+    2.65,
+    2.85,
+    3.13,
+    3.59
+  ],
+  "artists": [
+    {
+      "slug": "chilliwack",
+      "title": "Chilliwack",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.351,
+    0.592,
+    0.681,
+    0.705,
+    0.694,
+    0.675,
+    0.65,
+    0.619,
+    0.573,
+    0.568,
+    0.558,
+    0.543,
+    0.523,
+    0.498,
+    0.468,
+    0.433,
+    0.393,
+    0.348,
+    0.298,
+    0.243,
+    0.183,
+    0.118,
+    0.048,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6.25,
+  "score": 10.859000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 276
+}

@@ -1,1 +1,58 @@
-{"title":"Nothing Compares to You","instanceSlug":389,"tags":["#1","#1-hot-100","#1-modern-rock"],"parents":[],"genre":"pop","debut":"1990-04","playlists":[],"ranks":[17,12,10,8,9.3,10.6,13.2,17.1,22.3,28.8,36.6,45.7,56.1,67.8,80.8,95.1],"artists":[{"slug":"sinead-o-connor","title":"Sinead O'Connor","roleSlug":true}],"debutRank":17,"peakRank":8,"duration":4,"score":4.29,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1376}
+{
+  "title": "Nothing Compares to You",
+  "instanceSlug": 389,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-04",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    12,
+    10,
+    8,
+    9.3
+  ],
+  "artists": [
+    {
+      "slug": "sinead-o-connor",
+      "title": "Sinead O'Connor",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.171,
+    0.232,
+    0.306,
+    0.256,
+    0.251,
+    0.241,
+    0.226,
+    0.206,
+    0.181,
+    0.151,
+    0.116,
+    0.076,
+    0.031,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.75,
+  "score": 2.499,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1368
+}

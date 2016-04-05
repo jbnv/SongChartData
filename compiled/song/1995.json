@@ -1,1 +1,30 @@
-{"title":"Just You 'N' Me","instanceSlug":1995,"tags":[],"parents":[],"genre":"jazz-rock","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"chicago","title":"Chicago","roleSlug":true}],"genres":[{"slug":"jazz-rock","title":"Jazz Rock"}],"source":null,"rank":2452}
+{
+  "title": "Just You 'N' Me",
+  "instanceSlug": 1995,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "jazz-rock",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "chicago",
+      "title": "Chicago",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "jazz-rock",
+      "title": "Jazz Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2380
+}

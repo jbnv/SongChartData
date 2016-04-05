@@ -1,1 +1,30 @@
-{"title":"How Am I Supposed To Live Without You","instanceSlug":2301,"tags":[],"parents":[],"genre":"pop","debut":"1983-09","playlists":[],"ranks":[25,20,17.5,16.1,15,16.4],"artists":{"laura-branigan":true}}
+{
+  "title": "How Am I Supposed To Live Without You",
+  "instanceSlug": 2301,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    20,
+    17.5,
+    16.1,
+    15,
+    16.4
+  ],
+  "artists": {
+    "laura-branigan": true
+  },
+  "scores": [
+    0.001,
+    0.045,
+    0.073,
+    0.097,
+    0.067
+  ]
+}

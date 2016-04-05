@@ -1,1 +1,37 @@
-{"title":"Love the World Away","instanceSlug":2578,"tags":[],"parents":[],"genre":"country","debut":"1980-07","source":{"title":"Urban Cowboy","instanceSlug":"urban-cowboy","tags":["john-travolta"],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"rank":1736}
+{
+  "title": "Love the World Away",
+  "instanceSlug": 2578,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1980-07",
+  "source": {
+    "title": "Urban Cowboy",
+    "instanceSlug": "urban-cowboy",
+    "tags": [
+      "john-travolta"
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    }
+  ],
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "rank": 1736
+}

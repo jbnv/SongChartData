@@ -1,1 +1,34 @@
-{"title":"Amish Paradise","instanceSlug":670,"tags":["paradise"],"parents":[],"genre":"parody","debut":1996,"playlists":[],"ranks":[15.9,9,5,3,4.2,5.9,8.2],"artists":{"weird-al-yankovic":true}}
+{
+  "title": "Amish Paradise",
+  "instanceSlug": 670,
+  "tags": [
+    "paradise"
+  ],
+  "parents": [
+  ],
+  "genre": "parody",
+  "debut": 1996,
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    4.2,
+    5.9,
+    8.2
+  ],
+  "artists": {
+    "weird-al-yankovic": true
+  },
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.521,
+    0.408,
+    0.298
+  ]
+}

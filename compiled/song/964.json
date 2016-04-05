@@ -1,1 +1,63 @@
-{"title":"Real Real Real","instanceSlug":964,"tags":[],"parents":[],"genre":"rock","debut":"1991-09","playlists":[],"ranks":[14,6,4.05,4.1,4.2,4.4,5,5.6,6.8,8.6,11,14,17.6,21.8,26.6,32,38,44.6,51.8,59.6],"artists":[{"slug":"jesus-jones","title":"Jesus Jones","roleSlug":true}],"debutRank":14,"peakRank":4.05,"duration":5,"score":13.54,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":699}
+{
+  "title": "Real Real Real",
+  "instanceSlug": 964,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-09",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    6,
+    4.05,
+    4.1,
+    4.2,
+    4.4,
+    5
+  ],
+  "artists": [
+    {
+      "slug": "jesus-jones",
+      "title": "Jesus Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.402,
+    0.533,
+    0.529,
+    0.521,
+    0.506,
+    0.463,
+    0.458,
+    0.448,
+    0.433,
+    0.413,
+    0.388,
+    0.358,
+    0.323,
+    0.283,
+    0.238,
+    0.188,
+    0.133,
+    0.073,
+    0.008,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.25,
+  "score": 6.8180000000000005,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 760
+}

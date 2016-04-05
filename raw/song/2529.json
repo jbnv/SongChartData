@@ -1,1 +1,19 @@
-{"title":"Geronimo","instanceSlug":2529,"tags":[],"parents":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[],"artists":{"sheppard":true}}
+{
+  "title": "Geronimo",
+  "instanceSlug": 2529,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "sheppard": true
+  },
+  "scores": [
+  ]
+}

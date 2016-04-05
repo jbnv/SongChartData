@@ -1,1 +1,32 @@
-{"title":"Sexual Healing","instanceSlug":2540,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1982-12","playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1695}
+{
+  "title": "Sexual Healing",
+  "instanceSlug": 2540,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1982-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "marvin-gaye",
+      "title": "Marvin Gaye",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1695
+}

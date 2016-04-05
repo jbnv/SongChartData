@@ -1,1 +1,55 @@
-{"title":"Opportunities (Let's Make Lots of Money)","instanceSlug":850,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","playlists":[],"ranks":[15.9,13.5,10.9,9.3,9.8,10.5,15,19.5,28.5,42,60,82.5],"artists":[{"slug":"pet-shop-boys","title":"Pet Shop Boys","roleSlug":true}],"debutRank":15.9,"peakRank":9.3,"duration":3,"score":3.7,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1418}
+{
+  "title": "Opportunities (Let's Make Lots of Money)",
+  "instanceSlug": 850,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-06",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    13.5,
+    10.9,
+    9.3,
+    9.8,
+    10.5,
+    15
+  ],
+  "artists": [
+    {
+      "slug": "pet-shop-boys",
+      "title": "Pet Shop Boys",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.132,
+    0.203,
+    0.256,
+    0.239,
+    0.216,
+    0.097,
+    0.092,
+    0.082,
+    0.067,
+    0.047,
+    0.022,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 3.25,
+  "score": 1.53,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1461
+}

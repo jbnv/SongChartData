@@ -1,1 +1,65 @@
-{"title":"Everything","instanceSlug":1321,"tags":[],"parents":[],"genre":"pop","debut":"1989-11","playlists":[],"ranks":[15,10.5,7.5,4.9,4.3,3.9,4.4,5.1,5.8,7.2,9.3,12.1,15.6,19.8,24.7,30.3,36.6,43.6,51.3,59.7],"artists":[{"slug":"jody-watley","title":"Jody Watley","roleSlug":true}],"debutRank":15,"peakRank":3.9,"duration":5,"score":13.22,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":721}
+{
+  "title": "Everything",
+  "instanceSlug": 1321,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    10.5,
+    7.5,
+    4.9,
+    4.3,
+    3.9,
+    4.4,
+    5.1
+  ],
+  "artists": [
+    {
+      "slug": "jody-watley",
+      "title": "Jody Watley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.216,
+    0.328,
+    0.47,
+    0.513,
+    0.546,
+    0.506,
+    0.456,
+    0.451,
+    0.441,
+    0.426,
+    0.406,
+    0.381,
+    0.351,
+    0.316,
+    0.276,
+    0.231,
+    0.181,
+    0.126,
+    0.066,
+    0.001,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 6.785,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 767
+}

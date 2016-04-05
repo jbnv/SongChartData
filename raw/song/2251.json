@@ -1,15 +1,29 @@
 {
   "title": "Rock and Roll Dreams Come Through",
   "instanceSlug": 2251,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1994-02",
   "playlists": [
     "ballad"
   ],
-  "ranks": [18.5,15,13,11,12.5],
+  "ranks": [
+    18.5,
+    15,
+    13,
+    11,
+    12.5
+  ],
   "artists": {
     "meatloaf": true,
-    "jim-stineman":"writer"
-  }
+    "jim-stineman": "writer"
+  },
+  "scores": [
+    0.027,
+    0.097,
+    0.145,
+    0.2,
+    0.158
+  ]
 }

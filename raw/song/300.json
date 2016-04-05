@@ -7,10 +7,12 @@
     "#1-modern-rock",
     "farming"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1989-09",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     8,
     1,
@@ -25,5 +27,16 @@
   "artists": {
     "tears-for-fears": true
   },
-  "note":"Project 8 weeks at #1"
+  "note": "Project 8 weeks at #1",
+  "scores": [
+    0.306,
+    1,
+    0.985,
+    0.965,
+    0.944,
+    0.92,
+    0.878,
+    0.845,
+    0.813
+  ]
 }

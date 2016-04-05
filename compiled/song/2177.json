@@ -1,1 +1,66 @@
-{"title":"Send Her My Love","instanceSlug":2177,"tags":[],"parents":[],"genre":"rock","debut":"1983-11","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[18,12,9,7.5,6.4,6.2,6.7,7.8,8.9,11.1,14.4,18.8,24.3,30.9,38.6,47.4,57.3,68.3,80.4,93.6],"artists":[{"slug":"journey","title":"Journey","roleSlug":true}],"debutRank":18,"peakRank":6.2,"duration":5,"score":8.58,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1071}
+{
+  "title": "Send Her My Love",
+  "instanceSlug": 2177,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-11",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    18,
+    12,
+    9,
+    7.5,
+    6.4,
+    6.2,
+    6.7,
+    7.8
+  ],
+  "artists": [
+    {
+      "slug": "journey",
+      "title": "Journey",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.171,
+    0.267,
+    0.328,
+    0.381,
+    0.391,
+    0.365,
+    0.315,
+    0.31,
+    0.3,
+    0.285,
+    0.265,
+    0.24,
+    0.21,
+    0.175,
+    0.135,
+    0.09,
+    0.04,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.75,
+  "score": 4.303999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1114
+}

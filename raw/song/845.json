@@ -1,1 +1,31 @@
-{"title":"Something About You","instanceSlug":845,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","playlists":[],"ranks":[15,8.7,5,4.6,6,7.7],"artists":{"level-42":true}}
+{
+  "title": "Something About You",
+  "instanceSlug": 845,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-06",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.7,
+    5,
+    4.6,
+    6,
+    7.7
+  ],
+  "artists": {
+    "level-42": true
+  },
+  "scores": [
+    0.097,
+    0.278,
+    0.463,
+    0.491,
+    0.402,
+    0.319
+  ]
+}

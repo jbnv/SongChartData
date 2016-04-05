@@ -1,1 +1,22 @@
-{"title":"California Girls","instanceSlug":1637,"tags":["california","girl","places"],"parents":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[],"artists":{"beach-boys":true}}
+{
+  "title": "California Girls",
+  "instanceSlug": 1637,
+  "tags": [
+    "california",
+    "girl",
+    "places"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "beach-boys": true
+  },
+  "scores": [
+  ]
+}

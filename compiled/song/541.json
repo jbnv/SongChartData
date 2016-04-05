@@ -1,1 +1,60 @@
-{"title":"Larger than Life","instanceSlug":541,"tags":[],"parents":[],"genre":"pop","debut":"1999-10","playlists":[],"ranks":[1,1.055,1.11,1.22,1.38,1.6,1.88,2.21,2.59,3.03,3.53,4.08,4.68,5.34,6.06,6.83,7.65,8.53,9.47,10.46,11.5,12.6,13.76,14.97,16.23,17.55,18.93,20.36,21.84,23.38,24.98,26.63,28.33,30.09,31.91,33.78,35.7,37.68,39.72,41.81,43.95,46.15,48.41,50.72],"artists":[{"slug":"backstreet-boys","title":"Backstreet Boys","roleSlug":true}],"note":"Project 12 weeks at #1.","debutRank":1,"peakRank":1,"duration":11,"score":39.09,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3}
+{
+  "title": "Larger than Life",
+  "instanceSlug": 541,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-10",
+  "playlists": [
+  ],
+  "ranks": [
+    1,
+    1.055
+  ],
+  "artists": [
+    {
+      "slug": "backstreet-boys",
+      "title": "Backstreet Boys",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 12 weeks at #1.",
+  "scores": [
+    1,
+    0.982,
+    0.977,
+    0.967,
+    0.952,
+    0.932,
+    0.907,
+    0.877,
+    0.842,
+    0.802,
+    0.757,
+    0.707,
+    0.652,
+    0.592,
+    0.527,
+    0.457,
+    0.382,
+    0.302,
+    0.217,
+    0.127,
+    0.032,
+    0
+  ],
+  "debutScore": 1,
+  "peakScore": 0.982,
+  "duration": 5.5,
+  "score": 13.99,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 76
+}

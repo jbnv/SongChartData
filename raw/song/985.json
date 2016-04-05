@@ -1,1 +1,30 @@
-{"title":"Who's Holding Donna Now","instanceSlug":985,"tags":[],"parents":[],"genre":"soul","debut":"1985-06","playlists":["women"],"ranks":[13.9,7.9,4.5,2.9,3.5],"artists":{"debarge":true}}
+{
+  "title": "Who's Holding Donna Now",
+  "instanceSlug": 985,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1985-06",
+  "playlists": [
+    "women"
+  ],
+  "ranks": [
+    13.9,
+    7.9,
+    4.5,
+    2.9,
+    3.5
+  ],
+  "artists": {
+    "debarge": true
+  },
+  "scores": [
+    0.122,
+    0.311,
+    0.498,
+    0.645,
+    0.582
+  ]
+}

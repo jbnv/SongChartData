@@ -1,1 +1,19 @@
-{"title":"Men in Black","instanceSlug":2930,"tags":[],"parents":[],"genre":"urban","debut":"1997-07","source":"men-in-black","playlists":["sample","summer"],"ranks":true,"artists":{"will-smith":true}}
+{
+  "title": "Men in Black",
+  "instanceSlug": 2930,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1997-07",
+  "source": "men-in-black",
+  "playlists": [
+    "sample",
+    "summer"
+  ],
+  "ranks": true,
+  "artists": {
+    "will-smith": true
+  }
+}

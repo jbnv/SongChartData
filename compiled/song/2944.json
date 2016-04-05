@@ -1,1 +1,67 @@
-{"title":"Candy Rain","instanceSlug":2944,"tags":[],"parents":[],"genre":"soul","debut":"1995-02","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,2.5,1.5,1.67,1.89,2.11,2.55,3.21,4.09,5.19,6.51,8.05,9.81,11.79,13.99,16.41,19.05,21.91,24.99,28.29,31.81,35.55,39.51,43.69,48.09,52.71,57.55,62.61],"artists":[{"slug":"soul-4-real","title":"Soul for Real","roleSlug":true}],"debutRank":12,"peakRank":1.5,"duration":7,"score":23.05,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":200}
+{
+  "title": "Candy Rain",
+  "instanceSlug": 2944,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1995-02",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12,
+    2.5,
+    1.5,
+    1.67,
+    1.89
+  ],
+  "artists": [
+    {
+      "slug": "soul-4-real",
+      "title": "Soul for Real",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.694,
+    0.864,
+    0.829,
+    0.787,
+    0.782,
+    0.772,
+    0.757,
+    0.737,
+    0.712,
+    0.682,
+    0.647,
+    0.607,
+    0.562,
+    0.512,
+    0.457,
+    0.397,
+    0.332,
+    0.262,
+    0.187,
+    0.107,
+    0.022,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 11.879,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 208
+}

@@ -1,1 +1,30 @@
-{"title":"Cotton Eye Joe","instanceSlug":2683,"tags":[],"parents":[],"genre":"techno-dance","debut":"1995-04","playlists":[],"ranks":[],"artists":[{"slug":"rednex","title":"Rednex","roleSlug":true}],"genres":[{"slug":"techno-dance","title":"Techno-Dance"}],"source":null,"rank":1853}
+{
+  "title": "Cotton Eye Joe",
+  "instanceSlug": 2683,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "techno-dance",
+  "debut": "1995-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rednex",
+      "title": "Rednex",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "techno-dance",
+      "title": "Techno-Dance"
+    }
+  ],
+  "source": null,
+  "rank": 1853
+}

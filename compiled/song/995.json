@@ -1,1 +1,45 @@
-{"title":"On the Edge of a Broken Heart","instanceSlug":995,"tags":[],"parents":[],"genre":"rock","debut":"1987-10","playlists":[],"ranks":[21,18,15,13.6,20,26.4,39.2,58.4],"artists":[{"slug":"bon-jovi","title":"Bon Jovi","roleSlug":true}],"debutRank":21,"peakRank":13.6,"duration":2,"score":0.8,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1557}
+{
+  "title": "On the Edge of a Broken Heart",
+  "instanceSlug": 995,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    18,
+    15,
+    13.6,
+    20
+  ],
+  "artists": [
+    {
+      "slug": "bon-jovi",
+      "title": "Bon Jovi",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.097,
+    0.129,
+    0.001,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.001,
+  "duration": 1.25,
+  "score": 0.263,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1571
+}

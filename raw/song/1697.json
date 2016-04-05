@@ -1,1 +1,19 @@
-{"title":"Love Me Tender","instanceSlug":1697,"tags":[],"parents":[],"genre":"rock","debut":"1950s","playlists":[],"ranks":[],"artists":{"elvis-presley":true}}
+{
+  "title": "Love Me Tender",
+  "instanceSlug": 1697,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1950s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elvis-presley": true
+  },
+  "scores": [
+  ]
+}

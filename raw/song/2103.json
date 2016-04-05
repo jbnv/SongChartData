@@ -1,1 +1,20 @@
-{"title":"Man to Man","instanceSlug":2103,"tags":["#1"],"parents":[],"genre":"country","debut":2003,"playlists":[],"ranks":[],"artists":{"garry-allan":true}}
+{
+  "title": "Man to Man",
+  "instanceSlug": 2103,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 2003,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "garry-allan": true
+  },
+  "scores": [
+  ]
+}

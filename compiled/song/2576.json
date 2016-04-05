@@ -1,1 +1,35 @@
-{"title":"Don't Fall in Love with a Dreamer","instanceSlug":2576,"tags":[],"parents":[],"genre":"country","debut":"1980-04","playlists":[],"ranks":[],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true},{"slug":"kim-carnes","title":"Kim Carnes","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1734}
+{
+  "title": "Don't Fall in Love with a Dreamer",
+  "instanceSlug": 2576,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1980-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    },
+    {
+      "slug": "kim-carnes",
+      "title": "Kim Carnes",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 1734
+}

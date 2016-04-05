@@ -1,1 +1,45 @@
-{"title":"Shake It Off","instanceSlug":1128,"tags":["#1","#1-hot-100","#1-rdwt40-hot-adult","shake-it"],"parents":[],"genre":"pop","debut":2014,"playlists":[],"ranks":[16,12,10,8,8.3,8.6,8.9,9.4,10,11,13],"artists":{"taylor-swift":true}}
+{
+  "title": "Shake It Off",
+  "instanceSlug": 1128,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-rdwt40-hot-adult",
+    "shake-it"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2014,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    12,
+    10,
+    8,
+    8.3,
+    8.6,
+    8.9,
+    9.4,
+    10,
+    11,
+    13
+  ],
+  "artists": {
+    "taylor-swift": true
+  },
+  "scores": [
+    0.075,
+    0.171,
+    0.232,
+    0.306,
+    0.294,
+    0.282,
+    0.271,
+    0.253,
+    0.232,
+    0.2,
+    0.145
+  ]
+}

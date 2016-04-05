@@ -1,1 +1,68 @@
-{"title":"The Way You Love Me","instanceSlug":1579,"tags":["#1"],"parents":[],"genre":"soul","debut":"1988-12","playlists":[],"ranks":[16,10,7,5.5,4.6,4,3.95,4.25,4.87,5.49,6.73,8.59,11.07,14.17,17.89,22.23,27.19,32.77,38.97,45.79,53.23,61.29,69.97,79.27],"artists":[{"slug":"karyn-white","title":"Karyn White","roleSlug":true}],"debutRank":16,"peakRank":3.95,"duration":6,"score":15.26,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":580}
+{
+  "title": "The Way You Love Me",
+  "instanceSlug": 1579,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1988-12",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.5,
+    4.6,
+    4,
+    3.95,
+    4.25,
+    4.87
+  ],
+  "artists": [
+    {
+      "slug": "karyn-white",
+      "title": "Karyn White",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.431,
+    0.491,
+    0.537,
+    0.542,
+    0.517,
+    0.472,
+    0.467,
+    0.457,
+    0.442,
+    0.422,
+    0.397,
+    0.367,
+    0.332,
+    0.292,
+    0.247,
+    0.197,
+    0.142,
+    0.082,
+    0.017,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.75,
+  "score": 7.5089999999999995,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 671
+}

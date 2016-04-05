@@ -1,1 +1,58 @@
-{"title":"Why","instanceSlug":1117,"tags":[],"parents":[],"genre":"pop","debut":"1992-07","playlists":[],"ranks":[21,14,10,8,7,7.5,9.2,10.9,14.3,19.4,26.2,34.7,44.9,56.8,70.4,85.7],"artists":[{"slug":"annie-lennox","title":"Annie Lennox","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":4,"score":5.78,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1287}
+{
+  "title": "Why",
+  "instanceSlug": 1117,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-07",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    10,
+    8,
+    7,
+    7.5,
+    9.2
+  ],
+  "artists": [
+    {
+      "slug": "annie-lennox",
+      "title": "Annie Lennox",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.232,
+    0.306,
+    0.351,
+    0.328,
+    0.26,
+    0.255,
+    0.245,
+    0.23,
+    0.21,
+    0.185,
+    0.155,
+    0.12,
+    0.08,
+    0.035,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 4,
+  "score": 3.112,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1291
+}

@@ -1,1 +1,50 @@
-{"title":"The Sign","instanceSlug":405,"tags":[],"parents":[],"genre":"pop","debut":"1994-02","playlists":[],"ranks":[17.9,10.7,11.2,11.7,12.7,14.2,16.2,18.7,21.7,25.2,29.2,33.7,38.7,44.2,50.2,56.7],"artists":[{"slug":"ace-of-base","title":"Ace of Base","roleSlug":true}],"debutRank":17.9,"peakRank":10.7,"duration":4,"score":2.96,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1468}
+{
+  "title": "The Sign",
+  "instanceSlug": 405,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-02",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    11.2
+  ],
+  "artists": [
+    {
+      "slug": "ace-of-base",
+      "title": "Ace of Base",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.194,
+    0.189,
+    0.179,
+    0.164,
+    0.144,
+    0.119,
+    0.089,
+    0.054,
+    0.014,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3,
+  "score": 1.393,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1474
+}

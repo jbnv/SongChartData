@@ -1,1 +1,66 @@
-{"title":"If I Ever Fall in Love","instanceSlug":1059,"tags":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"urban","title":"Urban / R&B"}],"debut":"1992-11","playlists":[],"ranks":[15,5,3,1.9,2.4,2.9,3.9,5.4,7.4,9.9,12.9,16.4,20.4,24.9,29.9,35.4,41.4,47.9,54.9,62.4],"artists":[{"slug":"shai","title":"Shai","roleSlug":true}],"debutRank":15,"peakRank":1.9,"duration":5,"score":15.31,"source":null,"rank":574}
+{
+  "title": "If I Ever Fall in Love",
+  "instanceSlug": 1059,
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "r&b"
+    },
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "debut": "1992-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    5,
+    3,
+    1.9,
+    2.4
+  ],
+  "artists": [
+    {
+      "slug": "shai",
+      "title": "Shai",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.463,
+    0.633,
+    0.786,
+    0.708,
+    0.703,
+    0.693,
+    0.678,
+    0.658,
+    0.633,
+    0.603,
+    0.568,
+    0.528,
+    0.483,
+    0.433,
+    0.378,
+    0.318,
+    0.253,
+    0.183,
+    0.108,
+    0.028,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 9.935,
+  "source": null,
+  "rank": 370
+}

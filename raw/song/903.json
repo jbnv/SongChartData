@@ -4,10 +4,12 @@
   "tags": [
     "summer-nights"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1981-10",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     13,
     3.2,
@@ -16,5 +18,11 @@
   ],
   "artists": {
     "diesel": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.612,
+    0.968,
+    0.907
+  ]
 }

@@ -1,1 +1,72 @@
-{"title":"Magic","instanceSlug":149,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"pop","debut":"1980-05","source":{"title":"Xanadu","instanceSlug":"xanadu","tags":[],"parents":[],"type":"movie"},"ranks":[9,1,1.07,1.14,1.28,1.49,1.77,2.12,2.54,3.03,3.59,4.22,4.92,5.69,6.53,7.44,8.42,9.47,10.59,11.78,13.04,14.37,15.77,17.24,18.78,20.39,22.07,23.82,25.64,27.53,29.49,31.52,33.62,35.79,38.03,40.34,42.72,45.17,47.69,50.28],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true}],"debutRank":9,"peakRank":1,"duration":10,"score":35.69,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"rank":13}
+{
+  "title": "Magic",
+  "instanceSlug": 149,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-05",
+  "source": {
+    "title": "Xanadu",
+    "instanceSlug": "xanadu",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "ranks": [
+    9,
+    1,
+    1.07
+  ],
+  "artists": [
+    {
+      "slug": "olivia-newton-john",
+      "title": "Olivia Newton-John",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.267,
+    1,
+    0.977,
+    0.972,
+    0.962,
+    0.947,
+    0.927,
+    0.902,
+    0.872,
+    0.837,
+    0.797,
+    0.752,
+    0.702,
+    0.647,
+    0.587,
+    0.522,
+    0.452,
+    0.377,
+    0.297,
+    0.212,
+    0.122,
+    0.027,
+    0
+  ],
+  "debutScore": 0.267,
+  "peakScore": 0.267,
+  "duration": 5.75,
+  "score": 14.157000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "rank": 62
+}

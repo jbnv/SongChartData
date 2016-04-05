@@ -1,1 +1,32 @@
-{"title":"Let's Get Serious","instanceSlug":2355,"tags":["#1","#1-r&b"],"parents":[],"genre":"dance-pop","debut":"1980-05","playlists":[],"ranks":[],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":2974}
+{
+  "title": "Let's Get Serious",
+  "instanceSlug": 2355,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1980-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jermaine-jackson",
+      "title": "Jermaine Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2975
+}

@@ -1,1 +1,22 @@
-{"title":"By the Time This Night is Over","instanceSlug":2335,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1993-07","playlists":[],"ranks":[],"artists":{"kenny-g":true,"peabo-bryson":true}}
+{
+  "title": "By the Time This Night is Over",
+  "instanceSlug": 2335,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1993-07",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "kenny-g": true,
+    "peabo-bryson": true
+  },
+  "scores": [
+  ]
+}

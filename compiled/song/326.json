@@ -1,1 +1,62 @@
-{"title":"Owner of a Lonely Heart","instanceSlug":326,"tags":["heart","lonely","own"],"parents":[],"genre":true,"debut":"1984-01","playlists":[],"ranks":[15.9,9,5,3,4.2,5.9,8.2,11.5,14.8,21.4,31.3,44.5,61,80.8,103.9,130.3],"artists":[{"slug":"yes","title":"Yes","roleSlug":true}],"debutRank":15.9,"peakRank":3,"duration":4,"score":8.88,"genres":[{"slug":true}],"source":null,"rank":1053}
+{
+  "title": "Owner of a Lonely Heart",
+  "instanceSlug": 326,
+  "tags": [
+    "heart",
+    "lonely",
+    "own"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1984-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    4.2,
+    5.9,
+    8.2,
+    11.5
+  ],
+  "artists": [
+    {
+      "slug": "yes",
+      "title": "Yes",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.521,
+    0.408,
+    0.298,
+    0.185,
+    0.18,
+    0.17,
+    0.155,
+    0.135,
+    0.11,
+    0.08,
+    0.045,
+    0.005,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 4.25,
+  "score": 3.7319999999999998,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 1198
+}

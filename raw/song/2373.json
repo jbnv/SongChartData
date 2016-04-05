@@ -1,1 +1,37 @@
-{"title":"Sara","instanceSlug":2373,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":["ballad"],"genre":"rock","debut":"1986-02","playlists":[],"ranks":[18,9,7,5,5.2,5.4,5.7],"artists":{"starship":true}}
+{
+  "title": "Sara",
+  "instanceSlug": 2373,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+    "ballad"
+  ],
+  "genre": "rock",
+  "debut": "1986-02",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    9,
+    7,
+    5,
+    5.2,
+    5.4,
+    5.7
+  ],
+  "artists": {
+    "starship": true
+  },
+  "scores": [
+    0.036,
+    0.267,
+    0.351,
+    0.463,
+    0.45,
+    0.437,
+    0.419
+  ]
+}

@@ -1,1 +1,62 @@
-{"title":"Girlfriend","instanceSlug":164,"tags":["#1","#1-r&b","first-hit"],"parents":[],"genre":"pop","debut":"1988-03","ranks":[19.9,11.8,8.1,7.4,7,7.6,9.1,10.6,13.6,18.1,24.1,31.6,40.6,51.1,63.1,76.6],"artists":[{"slug":"pebbles","title":"Pebbles","roleSlug":true}],"debutRank":19.9,"peakRank":7,"duration":4,"score":6.4,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1242}
+{
+  "title": "Girlfriend",
+  "instanceSlug": 164,
+  "tags": [
+    "#1",
+    "#1-r&b",
+    "first-hit"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-03",
+  "ranks": [
+    19.9,
+    11.8,
+    8.1,
+    7.4,
+    7,
+    7.6,
+    9.1
+  ],
+  "artists": [
+    {
+      "slug": "pebbles",
+      "title": "Pebbles",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.177,
+    0.302,
+    0.332,
+    0.351,
+    0.323,
+    0.263,
+    0.258,
+    0.248,
+    0.233,
+    0.213,
+    0.188,
+    0.158,
+    0.123,
+    0.083,
+    0.038,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 4.25,
+  "score": 3.2929999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1266
+}

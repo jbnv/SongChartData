@@ -1,1 +1,30 @@
-{"title":"Another Day","instanceSlug":2225,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2813}
+{
+  "title": "Another Day",
+  "instanceSlug": 2225,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "paul-mccartney",
+      "title": "Paul McCartney",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2780
+}

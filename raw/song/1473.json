@@ -1,1 +1,33 @@
-{"title":"Two People","instanceSlug":1473,"tags":["people","two"],"parents":[],"genre":"pop","debut":"1987-01","playlists":[],"ranks":[16,10,8,6,6.5,8.1],"artists":{"tina-turner":true}}
+{
+  "title": "Two People",
+  "instanceSlug": 1473,
+  "tags": [
+    "people",
+    "two"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    8,
+    6,
+    6.5,
+    8.1
+  ],
+  "artists": {
+    "tina-turner": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.306,
+    0.402,
+    0.376,
+    0.302
+  ]
+}

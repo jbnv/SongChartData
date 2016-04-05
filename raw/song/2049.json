@@ -1,1 +1,19 @@
-{"title":"#9 Dream","instanceSlug":2049,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":{"john-lennon":true}}
+{
+  "title": "#9 Dream",
+  "instanceSlug": 2049,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "john-lennon": true
+  },
+  "scores": [
+  ]
+}

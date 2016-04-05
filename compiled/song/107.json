@@ -1,1 +1,67 @@
-{"title":"U Can't Touch This","instanceSlug":107,"tags":["#1","#1-r&b"],"playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"sampler"}],"genre":"rap","debut":"1990-05","ranks":[17.9,10.4,6.1,4.7,4.5,5.2,5.9,7.3,9.4,12.2,15.7,19.9,24.8,30.4,36.7,43.7,51.4,59.8,68.9,78.7],"artists":[{"slug":"mc-hammer","title":"MC Hammer","roleSlug":true}],"debutRank":17.9,"peakRank":4.5,"duration":5,"score":10.02,"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":955}
+{
+  "title": "U Can't Touch This",
+  "instanceSlug": 107,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    },
+    {
+      "slug": "sampler"
+    }
+  ],
+  "genre": "rap",
+  "debut": "1990-05",
+  "ranks": [
+    17.9,
+    10.4,
+    6.1,
+    4.7,
+    4.5,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "mc-hammer",
+      "title": "MC Hammer",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.219,
+    0.397,
+    0.484,
+    0.498,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 4.75,
+  "score": 5.665999999999998,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 899
+}

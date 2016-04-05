@@ -6,15 +6,31 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "debut": "1988-04",
   "playlists": [
     "spanish",
     "ballad"
   ],
-  "ranks": [14,7,4.4,3.4,3.45,3.9],
+  "ranks": [
+    14,
+    7,
+    4.4,
+    3.4,
+    3.45,
+    3.9
+  ],
   "artists": {
     "miami-sound-machine": true,
     "gloria-estefan": "lead"
-  }
+  },
+  "scores": [
+    0.12,
+    0.351,
+    0.506,
+    0.592,
+    0.587,
+    0.546
+  ]
 }

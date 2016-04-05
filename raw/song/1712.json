@@ -1,1 +1,34 @@
-{"title":"Every Little Step","instanceSlug":1712,"tags":[],"parents":[],"genre":"pop","debut":"1989-04","playlists":["summer"],"ranks":[20,16,12.5,9.8,9.5,10,13.5],"artists":{"bobby-brown":true}}
+{
+  "title": "Every Little Step",
+  "instanceSlug": 1712,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-04",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    20,
+    16,
+    12.5,
+    9.8,
+    9.5,
+    10,
+    13.5
+  ],
+  "artists": {
+    "bobby-brown": true
+  },
+  "scores": [
+    0.001,
+    0.075,
+    0.158,
+    0.239,
+    0.249,
+    0.232,
+    0.132
+  ]
+}

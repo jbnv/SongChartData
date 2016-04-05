@@ -1,1 +1,22 @@
-{"title":"That's the Way It Is","instanceSlug":1439,"tags":["that's","that's-the-way","the-way"],"parents":[],"genre":"adult-contemporary","debut":"1999-12","playlists":[],"ranks":[],"artists":{"celine-dion":true}}
+{
+  "title": "That's the Way It Is",
+  "instanceSlug": 1439,
+  "tags": [
+    "that's",
+    "that's-the-way",
+    "the-way"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1999-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "celine-dion": true
+  },
+  "scores": [
+  ]
+}

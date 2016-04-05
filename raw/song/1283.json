@@ -1,11 +1,14 @@
 {
   "title": "I'm Still Standing",
   "instanceSlug": 1283,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1983-06",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     13,
     3.2,
@@ -15,5 +18,11 @@
   "artists": {
     "elton-john": true
   },
-  "note":"Project 4 weeks at #1."
+  "note": "Project 4 weeks at #1.",
+  "scores": [
+    0.145,
+    0.612,
+    0.983,
+    0.956
+  ]
 }

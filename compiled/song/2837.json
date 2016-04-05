@@ -1,1 +1,30 @@
-{"title":"Breaking Away","instanceSlug":2837,"tags":[],"parents":[],"genre":"pop","debut":"1981-09","playlists":[],"ranks":[],"artists":[{"slug":"balance","title":"Balance","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2024}
+{
+  "title": "Breaking Away",
+  "instanceSlug": 2837,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1981-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "balance",
+      "title": "Balance",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2024
+}

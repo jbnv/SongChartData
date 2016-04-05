@@ -1,10 +1,12 @@
 {
   "title": "Promises Promises",
   "instanceSlug": 659,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1983-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     10,
     2.3,
@@ -14,5 +16,12 @@
   ],
   "artists": {
     "naked-eyes": true
-  }
+  },
+  "scores": [
+    0.232,
+    0.722,
+    0.912,
+    0.864,
+    0.823
+  ]
 }

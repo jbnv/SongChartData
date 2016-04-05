@@ -1,1 +1,22 @@
-{"title":"All This Time","instanceSlug":1151,"tags":["all","this","time"],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[],"artists":{"sting":true}}
+{
+  "title": "All This Time",
+  "instanceSlug": 1151,
+  "tags": [
+    "all",
+    "this",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "sting": true
+  },
+  "scores": [
+  ]
+}

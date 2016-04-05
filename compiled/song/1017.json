@@ -1,1 +1,71 @@
-{"title":"Is This Love","instanceSlug":1017,"tags":["is","is-this","love","this"],"parents":[],"genre":"rock","debut":"1986-11","playlists":[],"ranks":[16,10,4,1.95,2.1,2.27,2.48,2.85,3.22,3.96,5.07,6.55,8.4,10.62,13.21,16.17,19.5,23.2,27.27,31.71,36.52,41.7,47.25,53.17],"artists":[{"slug":"survivor","title":"Survivor","roleSlug":true}],"debutRank":16,"peakRank":1.95,"duration":6,"score":21.48,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":252}
+{
+  "title": "Is This Love",
+  "instanceSlug": 1017,
+  "tags": [
+    "is",
+    "is-this",
+    "love",
+    "this"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    4,
+    1.95,
+    2.1,
+    2.27,
+    2.48,
+    2.85
+  ],
+  "artists": [
+    {
+      "slug": "survivor",
+      "title": "Survivor",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.537,
+    0.777,
+    0.752,
+    0.726,
+    0.697,
+    0.65,
+    0.645,
+    0.635,
+    0.62,
+    0.6,
+    0.575,
+    0.545,
+    0.51,
+    0.47,
+    0.425,
+    0.375,
+    0.32,
+    0.26,
+    0.195,
+    0.125,
+    0.05,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6,
+  "score": 10.796000000000003,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 283
+}

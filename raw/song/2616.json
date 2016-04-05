@@ -1,1 +1,19 @@
-{"title":"All Along the Watchtower","instanceSlug":2616,"tags":[],"parents":[],"genre":"rock","debut":1968,"playlists":[],"ranks":[],"artists":{"jimi-hendrix":true}}
+{
+  "title": "All Along the Watchtower",
+  "instanceSlug": 2616,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1968,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "jimi-hendrix": true
+  },
+  "scores": [
+  ]
+}

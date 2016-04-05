@@ -1,1 +1,62 @@
-{"title":"Every Step of the Way","instanceSlug":980,"tags":[],"parents":[],"genre":"pop","debut":"1985-09","playlists":[],"ranks":[17.5,14,10,7,5,5.2,5.9,6.6,8,10.1,12.9,16.4,20.6,25.5,31.1,37.4,44.4,52.1,60.5,69.6],"artists":[{"slug":"jon-waite","title":"Jon Waite","roleSlug":true}],"debutRank":17.5,"peakRank":5,"duration":5,"score":9.58,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":990}
+{
+  "title": "Every Step of the Way",
+  "instanceSlug": 980,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17.5,
+    14,
+    10,
+    7,
+    5,
+    5.2,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "jon-waite",
+      "title": "Jon Waite",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.045,
+    0.12,
+    0.232,
+    0.351,
+    0.463,
+    0.45,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.045,
+  "peakScore": 0.045,
+  "duration": 5,
+  "score": 5.1450000000000005,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 994
+}

@@ -4,14 +4,27 @@
   "tags": [
     "#1"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "country",
   "debut": "1983-06",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
-    15,2.2,1.9,1.95,2.23
+    15,
+    2.2,
+    1.9,
+    1.95,
+    2.23
   ],
   "artists": {
     "alabama": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.737,
+    0.786,
+    0.777,
+    0.732
+  ]
 }

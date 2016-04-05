@@ -1,1 +1,30 @@
-{"title":"Not Enough Time","instanceSlug":2514,"tags":[],"parents":[],"genre":"rock","debut":"1992-09","playlists":[],"ranks":[],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1666}
+{
+  "title": "Not Enough Time",
+  "instanceSlug": 2514,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1992-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "inxs",
+      "title": "INXS",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1666
+}

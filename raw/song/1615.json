@@ -1,1 +1,37 @@
-{"title":"Photograph","instanceSlug":1615,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"metal","debut":"1983-05","playlists":[],"ranks":[16,10,6,4,3.5,3,3.2,4],"artists":{"def-leppard":true}}
+{
+  "title": "Photograph",
+  "instanceSlug": 1615,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1983-05",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    6,
+    4,
+    3.5,
+    3,
+    3.2,
+    4
+  ],
+  "artists": {
+    "def-leppard": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.582,
+    0.633,
+    0.612,
+    0.537
+  ]
+}

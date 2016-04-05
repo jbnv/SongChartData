@@ -2,11 +2,35 @@
   "title": "Baby Don't Get Hooked On Me",
   "instanceSlug": "macdavis01",
   "tags": [
-    "#1","#1-adult-contemporary","#1-hot-100"
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
   ],
-  "genre": ["adult-contemporary","pop","country"],
+  "genre": [
+    "adult-contemporary",
+    "pop",
+    "country"
+  ],
   "debut": 1972,
-  "playlists": [],
-  "ranks": [14,5,2.5,2.45,2.52,2.73],
-  "artists": {"mac-davis":true}
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    5,
+    2.5,
+    2.45,
+    2.52,
+    2.73
+  ],
+  "artists": {
+    "mac-davis": true
+  },
+  "scores": [
+    0.12,
+    0.463,
+    0.694,
+    0.701,
+    0.691,
+    0.665
+  ]
 }

@@ -1,1 +1,67 @@
-{"title":"Love Rollercoaster","instanceSlug":1902,"tags":["#1","#1-hot-100","#1-r&b","remade"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[14,3.1,1.9,2.12,2.5,2.9,3.3,4.1,5.3,6.9,8.9,11.3,14.1,17.3,20.9,24.9,29.3,34.1,39.3,44.9,50.9,57.3,64.1,71.3],"artists":[{"slug":"ohio-players","title":"Ohio Players","roleSlug":true}],"debutRank":14,"peakRank":1.9,"duration":6,"score":18.54,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":401}
+{
+  "title": "Love Rollercoaster",
+  "instanceSlug": 1902,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b",
+    "remade"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    3.1,
+    1.9,
+    2.12,
+    2.5,
+    2.9
+  ],
+  "artists": [
+    {
+      "slug": "ohio-players",
+      "title": "Ohio Players",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.622,
+    0.786,
+    0.749,
+    0.694,
+    0.645,
+    0.64,
+    0.63,
+    0.615,
+    0.595,
+    0.57,
+    0.54,
+    0.505,
+    0.465,
+    0.42,
+    0.37,
+    0.315,
+    0.255,
+    0.19,
+    0.12,
+    0.045,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 9.890999999999998,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 375
+}

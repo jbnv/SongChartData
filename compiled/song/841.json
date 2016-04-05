@@ -1,1 +1,55 @@
-{"title":"No One Is To Blame","instanceSlug":841,"tags":["#1"],"parents":[],"genre":"pop","debut":"1986-05","playlists":[],"ranks":[17,10.1,7.2,8.1,9,10.8,13.5,17.1,21.6,27,33.3,40.5,48.6,57.6,67.5,78.3],"artists":[{"slug":"howard-jones","title":"Howard Jones","roleSlug":true}],"debutRank":17,"peakRank":7.2,"duration":4,"score":4.77,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1351}
+{
+  "title": "No One Is To Blame",
+  "instanceSlug": 841,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    7.2,
+    8.1
+  ],
+  "artists": [
+    {
+      "slug": "howard-jones",
+      "title": "Howard Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.229,
+    0.341,
+    0.302,
+    0.297,
+    0.287,
+    0.272,
+    0.252,
+    0.227,
+    0.197,
+    0.162,
+    0.122,
+    0.077,
+    0.027,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.75,
+  "score": 2.847,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1334
+}

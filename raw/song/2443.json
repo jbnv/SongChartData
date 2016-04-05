@@ -1,1 +1,21 @@
-{"title":"Right Down the Line","instanceSlug":2443,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1978-09","playlists":[],"ranks":[],"artists":{"gerry-rafferty":true}}
+{
+  "title": "Right Down the Line",
+  "instanceSlug": 2443,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "gerry-rafferty": true
+  },
+  "scores": [
+  ]
+}

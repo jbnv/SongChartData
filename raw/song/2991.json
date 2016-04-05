@@ -1,1 +1,22 @@
-{"title":"Can't Smile WIthout You","instanceSlug":2991,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1978-03","playlists":["ballad"],"ranks":[],"artists":{"barry-manilow":true}}
+{
+  "title": "Can't Smile WIthout You",
+  "instanceSlug": 2991,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-03",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "barry-manilow": true
+  },
+  "scores": [
+  ]
+}

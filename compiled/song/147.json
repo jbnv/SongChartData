@@ -1,1 +1,60 @@
-{"title":"I Wanna Dance with Somebody (Who Loves Me)","instanceSlug":147,"tags":["#1","dance","i","i-want","somebody","want"],"parents":[],"genre":"pop","debut":"1987-06","ranks":[19.9,11.7,6.8,8.8,10.8,14.8,20.8,28.8,38.8,50.8,64.8,80.8],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":19.9,"peakRank":6.8,"duration":3,"score":3.38,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1431}
+{
+  "title": "I Wanna Dance with Somebody (Who Loves Me)",
+  "instanceSlug": 147,
+  "tags": [
+    "#1",
+    "dance",
+    "i",
+    "i-want",
+    "somebody",
+    "want"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-06",
+  "ranks": [
+    19.9,
+    11.7,
+    6.8,
+    8.8
+  ],
+  "artists": [
+    {
+      "slug": "whitney-houston",
+      "title": "Whitney Houston",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.18,
+    0.361,
+    0.275,
+    0.27,
+    0.26,
+    0.245,
+    0.225,
+    0.2,
+    0.17,
+    0.135,
+    0.095,
+    0.05,
+    0,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 3.75,
+  "score": 2.469,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1373
+}

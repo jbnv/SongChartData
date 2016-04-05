@@ -1,1 +1,41 @@
-{"title":"It Takes Two","instanceSlug":1400,"tags":["duet","it","it-takes-two","remake","takes","two"],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[],"artists":[{"slug":"tina-turner","title":"Tina Turner","roleSlug":true},{"slug":"rod-stewart","title":"Rod Stewart","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2961}
+{
+  "title": "It Takes Two",
+  "instanceSlug": 1400,
+  "tags": [
+    "duet",
+    "it",
+    "it-takes-two",
+    "remake",
+    "takes",
+    "two"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1990,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tina-turner",
+      "title": "Tina Turner",
+      "roleSlug": true
+    },
+    {
+      "slug": "rod-stewart",
+      "title": "Rod Stewart",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3053
+}

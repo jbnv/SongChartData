@@ -1,1 +1,19 @@
-{"title":"Space Jam","instanceSlug":2429,"tags":[],"parents":[],"genre":"pop","debut":"1997-01","playlists":[],"ranks":[],"artists":{"quad-city-djs":true}}
+{
+  "title": "Space Jam",
+  "instanceSlug": 2429,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1997-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "quad-city-djs": true
+  },
+  "scores": [
+  ]
+}

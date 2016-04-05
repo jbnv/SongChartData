@@ -1,1 +1,22 @@
-{"title":"Eternal Flame","instanceSlug":2843,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"pop","debut":"1989-02","playlists":[],"ranks":[],"artists":{"bangles":true}}
+{
+  "title": "Eternal Flame",
+  "instanceSlug": 2843,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bangles": true
+  },
+  "scores": [
+  ]
+}

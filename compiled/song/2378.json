@@ -1,1 +1,30 @@
-{"title":"I Hate Myself for Loving You","instanceSlug":2378,"tags":[],"parents":[],"genre":"rock","debut":"1988-08","playlists":[],"ranks":[],"artists":[{"slug":"joan-jett","title":"Joan Jett","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":3004}
+{
+  "title": "I Hate Myself for Loving You",
+  "instanceSlug": 2378,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "joan-jett",
+      "title": "Joan Jett",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 3005
+}

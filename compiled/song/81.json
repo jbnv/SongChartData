@@ -1,1 +1,51 @@
-{"title":"We Got the Beat","instanceSlug":81,"tags":["beat","get"],"parents":[],"genre":"rock","debut":1982,"ranks":[19.9,12,18.3,28.1,43.3,66.5,102.1,137.7],"artists":[{"slug":"go-gos","title":"Go-Gos","roleSlug":true}],"debutRank":19.9,"peakRank":12,"duration":2,"score":0.62,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":1563}
+{
+  "title": "We Got the Beat",
+  "instanceSlug": 81,
+  "tags": [
+    "beat",
+    "get"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1982,
+  "ranks": [
+    19.9,
+    12,
+    18.3,
+    28.1,
+    43.3,
+    66.5,
+    102.1
+  ],
+  "artists": [
+    {
+      "slug": "go-gos",
+      "title": "Go-Gos",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.171,
+    0.031,
+    0.026,
+    0.016,
+    0.001,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 1.75,
+  "score": 0.248,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1572
+}

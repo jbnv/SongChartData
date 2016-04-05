@@ -1,10 +1,12 @@
 {
   "title": "Dead Giveaway",
   "instanceSlug": 392,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1983-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     9,
     1.3,
@@ -14,5 +16,11 @@
   "artists": {
     "shalamar": true
   },
-  "note":"Project 3 weeks at #1."
+  "note": "Project 3 weeks at #1.",
+  "scores": [
+    0.267,
+    0.912,
+    0.939,
+    0.902
+  ]
 }

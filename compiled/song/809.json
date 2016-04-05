@@ -1,1 +1,57 @@
-{"title":"Hardware Store","instanceSlug":809,"tags":[],"parents":[],"genre":"pop","playlists":[],"ranks":[15.9,9.2,5.3,4.6,5.2,5.8,7,8.8,11.2,14.2,17.8,22,26.8,32.2,38.2,44.8,52,59.8,68.2,77.2],"artists":[{"slug":"weird-al-yankovic","title":"Weird Al Yankovic","roleSlug":true}],"debutRank":15.9,"peakRank":4.6,"duration":5,"score":9.35,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1002}
+{
+  "title": "Hardware Store",
+  "instanceSlug": 809,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.2,
+    5.3,
+    4.6,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "weird-al-yankovic",
+      "title": "Weird Al Yankovic",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.26,
+    0.444,
+    0.491,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 4.5,
+  "score": 5.301999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 959
+}

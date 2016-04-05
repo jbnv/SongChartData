@@ -1,1 +1,59 @@
-{"title":"Sunset Grill","instanceSlug":933,"tags":[],"parents":[],"genre":"rock","debut":"1985-10","playlists":[],"ranks":[16.5,9.7,5.8,7.8,9.8,13.8,19.8,27.8,37.8,49.8,63.8,79.8],"artists":[{"slug":"don-henley","title":"Don Henley","roleSlug":true},{"slug":"patty-smythe","title":"Patty Smyth","roleSlug":"backup"}],"debutRank":16.5,"peakRank":5.8,"duration":3,"score":4.22,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1379}
+{
+  "title": "Sunset Grill",
+  "instanceSlug": 933,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    9.7,
+    5.8,
+    7.8
+  ],
+  "artists": [
+    {
+      "slug": "don-henley",
+      "title": "Don Henley",
+      "roleSlug": true
+    },
+    {
+      "slug": "patty-smythe",
+      "title": "Patty Smyth",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.065,
+    0.242,
+    0.414,
+    0.315,
+    0.31,
+    0.3,
+    0.285,
+    0.265,
+    0.24,
+    0.21,
+    0.175,
+    0.135,
+    0.09,
+    0.04,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 3.75,
+  "score": 3.0859999999999994,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1293
+}

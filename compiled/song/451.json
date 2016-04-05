@@ -1,1 +1,69 @@
-{"title":"Night & Day","instanceSlug":451,"tags":["","this-and-that"],"parents":[],"genre":"soul","debut":"1988-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,7.4,4.2,3.3,3.5,3.9,4.3,5.1,6.3,7.9,9.9,12.3,15.1,18.3,21.9,25.9,30.3,35.1,40.3,45.9,51.9,58.3,65.1,72.3],"artists":[{"slug":"al-b-sure","title":"Al B. Sure!","roleSlug":true}],"debutRank":13,"peakRank":3.3,"duration":6,"score":14.77,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":623}
+{
+  "title": "Night and Day",
+  "instanceSlug": 451,
+  "tags": [
+  ],
+  "genre": "soul",
+  "debut": "1988-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    13,
+    7.4,
+    4.2,
+    3.3,
+    2.9,
+    2.8,
+    2.75,
+    2.95
+  ],
+  "artists": [
+    {
+      "slug": "al-b-sure",
+      "title": "Al B. Sure!",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.332,
+    0.521,
+    0.602,
+    0.645,
+    0.656,
+    0.662,
+    0.639,
+    0.634,
+    0.624,
+    0.609,
+    0.589,
+    0.564,
+    0.534,
+    0.499,
+    0.459,
+    0.414,
+    0.364,
+    0.309,
+    0.249,
+    0.184,
+    0.114,
+    0.039,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 6,
+  "score": 10.386999999999999,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 315
+}

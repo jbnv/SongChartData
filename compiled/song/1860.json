@@ -1,1 +1,56 @@
-{"title":"Baby Come Back","instanceSlug":1860,"tags":[],"parents":[],"genre":"pop","debut":1978,"playlists":[],"ranks":[16,3.5,4.1,4.7,5.9,7.7,10.1,13.1,16.7,20.9,25.7,31.1,37.1,43.7,50.9,58.7],"artists":[{"slug":"player","title":"Player","roleSlug":true}],"debutRank":16,"peakRank":3.5,"duration":4,"score":8.5,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1076}
+{
+  "title": "Baby Come Back",
+  "instanceSlug": 1860,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1978,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    3.5,
+    4.1
+  ],
+  "artists": [
+    {
+      "slug": "player",
+      "title": "Player",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.582,
+    0.529,
+    0.524,
+    0.514,
+    0.499,
+    0.479,
+    0.454,
+    0.424,
+    0.389,
+    0.349,
+    0.304,
+    0.254,
+    0.199,
+    0.139,
+    0.074,
+    0.004,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.5,
+  "score": 5.792000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 880
+}

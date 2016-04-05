@@ -1,1 +1,43 @@
-{"title":"Get Over It","instanceSlug":1278,"tags":["get","it","over"],"parents":[],"genre":"rock","debut":"1994-11","playlists":[],"ranks":[17,12,8,6.9,6.3,5.8,5.95,6.2,6.7,8.1],"artists":{"eagles":true,"don-henley":"member"}}
+{
+  "title": "Get Over It",
+  "instanceSlug": 1278,
+  "tags": [
+    "get",
+    "it",
+    "over"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1994-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    12,
+    8,
+    6.9,
+    6.3,
+    5.8,
+    5.95,
+    6.2,
+    6.7,
+    8.1
+  ],
+  "artists": {
+    "eagles": true,
+    "don-henley": "member"
+  },
+  "scores": [
+    0.055,
+    0.171,
+    0.306,
+    0.356,
+    0.386,
+    0.414,
+    0.405,
+    0.391,
+    0.365,
+    0.302
+  ]
+}

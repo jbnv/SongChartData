@@ -1,1 +1,19 @@
-{"title":"Animal","instanceSlug":1461,"tags":[],"parents":[],"genre":"rock","debut":"1987-12","playlists":[],"ranks":[],"artists":{"def-leppard":true}}
+{
+  "title": "Animal",
+  "instanceSlug": 1461,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "def-leppard": true
+  },
+  "scores": [
+  ]
+}

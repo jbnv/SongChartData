@@ -1,1 +1,58 @@
-{"title":"Hip to Be Square","instanceSlug":628,"tags":[],"parents":[],"genre":"rock","debut":"1986-11","playlists":[],"ranks":[17,11.8,7,6.5,7.2,8.1,9,10.8,13.5,17.1,21.6,27,33.3,40.5,48.6,57.6],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":17,"peakRank":6.5,"duration":4,"score":6.8,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1203}
+{
+  "title": "Hip to Be Square",
+  "instanceSlug": 628,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.8,
+    7,
+    6.5,
+    7.2,
+    8.1
+  ],
+  "artists": [
+    {
+      "slug": "huey-lewis-the-news",
+      "title": "Huey Lewis & the News",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.177,
+    0.351,
+    0.376,
+    0.341,
+    0.302,
+    0.297,
+    0.287,
+    0.272,
+    0.252,
+    0.227,
+    0.197,
+    0.162,
+    0.122,
+    0.077,
+    0.027,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.25,
+  "score": 3.522,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1234
+}

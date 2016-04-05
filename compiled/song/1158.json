@@ -1,1 +1,34 @@
-{"title":"It Ain't Over 'Til It's Over","instanceSlug":1158,"tags":[],"parents":[],"genre":"pop","debut":"1991-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"lenny-kravitz","title":"Lenny Kravitz","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2426}
+{
+  "title": "It Ain't Over 'Til It's Over",
+  "instanceSlug": 1158,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-07",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "lenny-kravitz",
+      "title": "Lenny Kravitz",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2624
+}

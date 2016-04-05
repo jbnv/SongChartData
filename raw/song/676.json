@@ -1,1 +1,22 @@
-{"title":"Hold On","instanceSlug":676,"tags":["hold","hold-on","on"],"parents":[],"genre":"rock","debut":"1982-09","playlists":[],"ranks":[],"artists":{"santana":true}}
+{
+  "title": "Hold On",
+  "instanceSlug": 676,
+  "tags": [
+    "hold",
+    "hold-on",
+    "on"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "santana": true
+  },
+  "scores": [
+  ]
+}

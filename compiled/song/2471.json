@@ -1,1 +1,32 @@
-{"title":"Serpentine Fire","instanceSlug":2471,"tags":["#1","#1-r&b"],"parents":[],"genre":"funk","debut":"1977-12","playlists":[],"ranks":[],"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":1618}
+{
+  "title": "Serpentine Fire",
+  "instanceSlug": 2471,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "funk",
+  "debut": "1977-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "earth-wind-fire",
+      "title": "Earth Wind & Fire",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "funk",
+      "title": "Funk"
+    }
+  ],
+  "source": null,
+  "rank": 1618
+}

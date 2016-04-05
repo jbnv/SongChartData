@@ -1,1 +1,30 @@
-{"title":"Tighter","instanceSlug":2101,"tags":[],"parents":[],"genre":"soul","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"alive-and-kicking","title":"Alive and Kicking","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2611}
+{
+  "title": "Tighter",
+  "instanceSlug": 2101,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1970,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "alive-and-kicking",
+      "title": "Alive and Kicking",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2566
+}

@@ -1,1 +1,23 @@
-{"title":"Love Is a Wonderful Thing","instanceSlug":1164,"tags":["#1","#1-adult-contemporary","love-is"],"parents":[],"genre":"pop","debut":"1991-05","playlists":["summer"],"ranks":[],"artists":{"michael-bolton":true}}
+{
+  "title": "Love Is a Wonderful Thing",
+  "instanceSlug": 1164,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "love-is"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "michael-bolton": true
+  },
+  "scores": [
+  ]
+}

@@ -4,16 +4,26 @@
   "tags": [
     "i-love-you"
   ],
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1996-08",
   "ranks": [
     15,
     6.6,
     3.7,
-    2.4,2.7
+    2.4,
+    2.7
   ],
   "artists": {
     "donna-lewis": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.37,
+    0.563,
+    0.708,
+    0.668
+  ]
 }

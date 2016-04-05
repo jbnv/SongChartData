@@ -1,1 +1,32 @@
-{"title":"Everybody Wants You","instanceSlug":2681,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1982-12","playlists":[],"ranks":[],"artists":[{"slug":"billy-squier","title":"Billy Squier","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1851}
+{
+  "title": "Everybody Wants You",
+  "instanceSlug": 2681,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "billy-squier",
+      "title": "Billy Squier",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1851
+}

@@ -1,13 +1,21 @@
 {
   "title": "Love Theme from St. Elmo's Fire",
   "instanceSlug": 1376,
-  "tags": [],
-  "genres": ["adult-contemporary"],
+  "tags": [
+  ],
+  "genres": [
+    "adult-contemporary"
+  ],
   "debut": "1985-10",
-  "playlists": ["instrumental"],
-  "ranks": [],
-  "source":"st-elmo-s-fire",
+  "playlists": [
+    "instrumental"
+  ],
+  "ranks": [
+  ],
+  "source": "st-elmo-s-fire",
   "artists": {
     "david-foster": true
-  }
+  },
+  "scores": [
+  ]
 }

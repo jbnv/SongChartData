@@ -1,1 +1,63 @@
-{"title":"The Honeythief","instanceSlug":629,"tags":["honey","stealing","thief"],"parents":[],"genre":"pop","debut":"1987-03","playlists":[],"ranks":[15.9,9.2,5.3,4.8,5.2,5.79,6.38,7.56,9.33,11.69,14.64,18.18,22.31,27.03,32.34,38.24,44.73,51.81,59.48,67.74],"artists":[{"slug":"hipsway","title":"Hipsway","roleSlug":true}],"debutRank":15.9,"peakRank":4.8,"duration":5,"score":10.22,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":944}
+{
+  "title": "The Honeythief",
+  "instanceSlug": 629,
+  "tags": [
+    "honey",
+    "stealing",
+    "thief"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-03",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.2,
+    5.3,
+    4.8,
+    5.2,
+    5.79
+  ],
+  "artists": [
+    {
+      "slug": "hipsway",
+      "title": "Hipsway",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.26,
+    0.444,
+    0.477,
+    0.45,
+    0.414,
+    0.409,
+    0.399,
+    0.384,
+    0.364,
+    0.339,
+    0.309,
+    0.274,
+    0.234,
+    0.189,
+    0.139,
+    0.084,
+    0.024,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 4.75,
+  "score": 5.27,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 968
+}

@@ -1,1 +1,20 @@
-{"title":"Pumps and a Bump","instanceSlug":2223,"tags":["samples"],"parents":[],"genre":"pop","debut":"1994-05","playlists":[],"ranks":[],"artists":{"mc-hammer":true}}
+{
+  "title": "Pumps and a Bump",
+  "instanceSlug": 2223,
+  "tags": [
+    "samples"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "mc-hammer": true
+  },
+  "scores": [
+  ]
+}

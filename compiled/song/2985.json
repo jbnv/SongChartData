@@ -1,1 +1,61 @@
-{"title":"Pop","instanceSlug":2985,"tags":[],"parents":[],"genre":"pop","debut":"2001-06","playlists":[],"ranks":[13,2.8,1.7,1.99,2.28,2.86,3.73,4.89,6.34,8.08,10.11,12.43,15.04,17.94,21.13,24.61,28.38,32.44,36.79,41.43,46.36,51.58,57.09,62.89],"artists":[{"slug":"nsync","title":"*NSYNC","roleSlug":true}],"debutRank":13,"peakRank":1.7,"duration":6,"score":18.04,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":419}
+{
+  "title": "Pop",
+  "instanceSlug": 2985,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2001-06",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    2.8,
+    1.7,
+    1.99
+  ],
+  "artists": [
+    {
+      "slug": "nsync",
+      "title": "*NSYNC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.656,
+    0.823,
+    0.77,
+    0.765,
+    0.755,
+    0.74,
+    0.72,
+    0.695,
+    0.665,
+    0.63,
+    0.59,
+    0.545,
+    0.495,
+    0.44,
+    0.38,
+    0.315,
+    0.245,
+    0.17,
+    0.09,
+    0.005,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.5,
+  "score": 10.639,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 297
+}

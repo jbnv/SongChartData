@@ -1,1 +1,31 @@
-{"title":"Step By Step","instanceSlug":1344,"tags":["#1","#1-hot-100","step-by-step"],"parents":[],"genre":"pop","debut":"1990-06","playlists":[],"ranks":[],"artists":[{"slug":"new-kids-on-the-block"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2322}
+{
+  "title": "Step By Step",
+  "instanceSlug": 1344,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "step-by-step"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "new-kids-on-the-block"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1833
+}

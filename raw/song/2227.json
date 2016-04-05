@@ -1,1 +1,19 @@
-{"title":"Hi, Hi, Hi","instanceSlug":2227,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"wings":true}}
+{
+  "title": "Hi, Hi, Hi",
+  "instanceSlug": 2227,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "wings": true
+  },
+  "scores": [
+  ]
+}

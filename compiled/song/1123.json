@@ -1,1 +1,64 @@
-{"title":"Valerie","instanceSlug":1123,"tags":["rerelease","women"],"parents":[],"genre":"pop","debut":"1987-11","playlists":[],"ranks":[18,13,11,10,9,8,8.5,9.2,11,12.8,16.4,21.8,29,38,48.8,61.4],"artists":[{"slug":"steve-winwood","title":"Steve Winwood","roleSlug":true}],"debutRank":18,"peakRank":8,"duration":4,"score":6.46,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1236}
+{
+  "title": "Valerie",
+  "instanceSlug": 1123,
+  "tags": [
+    "rerelease",
+    "women"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    13,
+    11,
+    10,
+    9,
+    8,
+    8.5,
+    9.2,
+    11
+  ],
+  "artists": [
+    {
+      "slug": "steve-winwood",
+      "title": "Steve Winwood",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.145,
+    0.2,
+    0.232,
+    0.267,
+    0.306,
+    0.286,
+    0.26,
+    0.2,
+    0.195,
+    0.185,
+    0.17,
+    0.15,
+    0.125,
+    0.095,
+    0.06,
+    0.02,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.5,
+  "score": 2.932,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1319
+}

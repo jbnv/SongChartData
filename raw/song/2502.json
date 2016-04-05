@@ -1,1 +1,21 @@
-{"title":"Be With You","instanceSlug":2502,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"2000-05","playlists":[],"ranks":[],"artists":{"enrique-iglesias":true}}
+{
+  "title": "Be With You",
+  "instanceSlug": 2502,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "enrique-iglesias": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,33 @@
-{"title":"Mentirosa","instanceSlug":1398,"tags":[],"parents":[],"genre":"latin-rap","debut":1990,"playlists":[{"slug":"sample"}],"ranks":[],"artists":[{"slug":"mellow-man-ace","title":"Mellow Man Ace","roleSlug":true}],"genres":[{"slug":"latin-rap","title":"Latin Rap"}],"source":null,"rank":1836}
+{
+  "title": "Mentirosa",
+  "instanceSlug": 1398,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "latin-rap",
+  "debut": 1990,
+  "playlists": [
+    {
+      "slug": "sample"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "mellow-man-ace",
+      "title": "Mellow Man Ace",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "latin-rap",
+      "title": "Latin Rap"
+    }
+  ],
+  "source": null,
+  "rank": 1583
+}

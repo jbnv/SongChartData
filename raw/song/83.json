@@ -6,7 +6,7 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "source":"thriller",
+  "source": "thriller",
   "genre": "pop",
   "debut": "1983-04",
   "ranks": [
@@ -18,5 +18,11 @@
   "artists": {
     "michael-jackson": true,
     "eddie-van-halen": "backup"
-  }
+  },
+  "scores": [
+    0.139,
+    0.537,
+    0.942,
+    0.892
+  ]
 }

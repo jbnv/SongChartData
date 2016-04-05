@@ -1,1 +1,64 @@
-{"title":"Always","instanceSlug":303,"tags":[],"parents":[],"genre":"soul","debut":"1987-05","playlists":[],"ranks":[12,5,1.8,1.75,2,2.6,3.2,4.4,6.2,8.6,11.6,15.2,19.4,24.2,29.6,35.6,42.2,49.4,57.2,65.6],"artists":[{"slug":"atlantic-starr","title":"Atlantic Starr","roleSlug":true}],"debutRank":12,"peakRank":1.75,"duration":5,"score":17.35,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":451}
+{
+  "title": "Always",
+  "instanceSlug": 303,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-05",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    5,
+    1.8,
+    1.75,
+    2,
+    2.6
+  ],
+  "artists": [
+    {
+      "slug": "atlantic-starr",
+      "title": "Atlantic Starr",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.463,
+    0.804,
+    0.813,
+    0.768,
+    0.681,
+    0.676,
+    0.666,
+    0.651,
+    0.631,
+    0.606,
+    0.576,
+    0.541,
+    0.501,
+    0.456,
+    0.406,
+    0.351,
+    0.291,
+    0.226,
+    0.156,
+    0.081,
+    0.001,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 10.516,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 307
+}

@@ -1,1 +1,30 @@
-{"title":"Shout","instanceSlug":96,"tags":[],"parents":[],"genre":"pop","debut":"1985-07","ranks":[],"artists":[{"slug":"tears-for-fears","title":"Tears for Fears","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":3011}
+{
+  "title": "Shout",
+  "instanceSlug": 96,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-07",
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tears-for-fears",
+      "title": "Tears for Fears",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 3012
+}

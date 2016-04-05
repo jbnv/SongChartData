@@ -1,1 +1,37 @@
-{"title":"It's Five O'Clock Somewhere","instanceSlug":2343,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":2003,"playlists":[],"ranks":[],"artists":[{"slug":"alan-jackson","title":"Alan Jackson","roleSlug":true},{"slug":"jimmy-buffett","title":"Jimmy Buffett","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":2960}
+{
+  "title": "It's Five O'Clock Somewhere",
+  "instanceSlug": 2343,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 2003,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "alan-jackson",
+      "title": "Alan Jackson",
+      "roleSlug": true
+    },
+    {
+      "slug": "jimmy-buffett",
+      "title": "Jimmy Buffett",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 2959
+}

@@ -1,1 +1,75 @@
-{"title":"Let Me Be the One","instanceSlug":92,"tags":["let-me","let-me-be-the-one","one"],"parents":[],"genre":"pop","debut":"1987-08","ranks":[15.2,9.6,5.4,3.7,2.8,2.2,2,2.25,2.55,2.85,3.35,3.85,4.85,6.35,8.35,10.85,13.85,17.35,21.35,25.85,30.85,36.35,42.35,48.85,55.85,63.35,71.35,79.85],"artists":[{"slug":"expose","title":"Expose","roleSlug":true}],"debutRank":15.2,"peakRank":2,"duration":7,"score":24.74,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":145}
+{
+  "title": "Let Me Be the One",
+  "instanceSlug": 92,
+  "tags": [
+    "let-me",
+    "let-me-be-the-one",
+    "one"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-08",
+  "ranks": [
+    15.2,
+    9.6,
+    5.4,
+    3.7,
+    2.8,
+    2.2,
+    2,
+    2.25,
+    2.55,
+    2.85,
+    3.35
+  ],
+  "artists": [
+    {
+      "slug": "expose",
+      "title": "Expose",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.092,
+    0.246,
+    0.437,
+    0.563,
+    0.656,
+    0.737,
+    0.768,
+    0.729,
+    0.687,
+    0.65,
+    0.597,
+    0.592,
+    0.582,
+    0.567,
+    0.547,
+    0.522,
+    0.492,
+    0.457,
+    0.417,
+    0.372,
+    0.322,
+    0.267,
+    0.207,
+    0.142,
+    0.072,
+    0
+  ],
+  "debutScore": 0.092,
+  "peakScore": 0.092,
+  "duration": 6.5,
+  "score": 11.72,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 219
+}

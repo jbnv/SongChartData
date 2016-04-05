@@ -1,1 +1,61 @@
-{"title":"It's No Secret","instanceSlug":1925,"tags":[],"parents":[],"genre":"pop","debut":"1989-02","playlists":[],"ranks":[15.8,10,7.2,5.5,4.4,4.9,5.4,6.4,7.9,9.9,12.4,15.4,18.9,22.9,27.4,32.4,37.9,43.9,50.4,57.4],"artists":[{"slug":"kylie-minogue","title":"Kylie Minogue","roleSlug":true}],"debutRank":15.8,"peakRank":4.4,"duration":5,"score":11.09,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":876}
+{
+  "title": "It's No Secret",
+  "instanceSlug": 1925,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    15.8,
+    10,
+    7.2,
+    5.5,
+    4.4,
+    4.9
+  ],
+  "artists": [
+    {
+      "slug": "kylie-minogue",
+      "title": "Kylie Minogue",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.079,
+    0.232,
+    0.341,
+    0.431,
+    0.506,
+    0.47,
+    0.465,
+    0.455,
+    0.44,
+    0.42,
+    0.395,
+    0.365,
+    0.33,
+    0.29,
+    0.245,
+    0.195,
+    0.14,
+    0.08,
+    0.015,
+    0
+  ],
+  "debutScore": 0.079,
+  "peakScore": 0.079,
+  "duration": 5,
+  "score": 5.894,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 872
+}

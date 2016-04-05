@@ -1,1 +1,28 @@
-{"title":"Shake It Up","instanceSlug":1495,"tags":[],"genre":"rock","debut":"1981-12","playlists":[],"ranks":[],"artists":[{"slug":"cars","title":"The Cars","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2364}
+{
+  "title": "Shake It Up",
+  "instanceSlug": 1495,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1981-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "cars",
+      "title": "The Cars",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2165
+}

@@ -1,1 +1,33 @@
-{"title":"Now That We've Found Love","instanceSlug":959,"tags":[],"parents":[],"genre":"rap","debut":"1991-09","playlists":[],"ranks":[12,3.6,1.9,1.5,1.62,1.78,2],"artists":{"heavy-d-the-boys":true}}
+{
+  "title": "Now That We've Found Love",
+  "instanceSlug": 959,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1991-09",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3.6,
+    1.9,
+    1.5,
+    1.62,
+    1.78,
+    2
+  ],
+  "artists": {
+    "heavy-d-the-boys": true
+  },
+  "scores": [
+    0.171,
+    0.573,
+    0.786,
+    0.864,
+    0.839,
+    0.807,
+    0.768
+  ]
+}

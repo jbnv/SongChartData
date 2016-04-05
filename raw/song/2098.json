@@ -1,1 +1,29 @@
-{"title":"Love in the First Degree","instanceSlug":2098,"tags":[],"parents":[],"genre":"country","debut":"1982-02","playlists":[],"ranks":[18,11,5,5.4,5.97],"artists":{"alabama":true}}
+{
+  "title": "Love in the First Degree",
+  "instanceSlug": 2098,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1982-02",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    5,
+    5.4,
+    5.97
+  ],
+  "artists": {
+    "alabama": true
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.463,
+    0.437,
+    0.404
+  ]
+}

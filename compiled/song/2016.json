@@ -1,1 +1,65 @@
-{"title":"Breakaway","instanceSlug":2016,"tags":[],"parents":[],"genre":"pop","debut":2004,"playlists":[],"ranks":[12,4,2,2.05,2.12,2.29,2.7,3.11,3.93,5.16,6.8,8.85,11.31,14.18,17.46,21.15,25.25,29.76,34.68,40.01,45.75,51.9,58.46,65.43],"artists":[{"slug":"kelly-clarkson","title":"Kelly Clarkson","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":6,"score":20.97,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":273}
+{
+  "title": "Breakaway",
+  "instanceSlug": 2016,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2004,
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4,
+    2,
+    2.05,
+    2.12,
+    2.29,
+    2.7
+  ],
+  "artists": [
+    {
+      "slug": "kelly-clarkson",
+      "title": "Kelly Clarkson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.537,
+    0.768,
+    0.76,
+    0.749,
+    0.723,
+    0.668,
+    0.663,
+    0.653,
+    0.638,
+    0.618,
+    0.593,
+    0.563,
+    0.528,
+    0.488,
+    0.443,
+    0.393,
+    0.338,
+    0.278,
+    0.213,
+    0.143,
+    0.068,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 10.996,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 266
+}

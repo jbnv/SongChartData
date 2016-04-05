@@ -1,11 +1,14 @@
 {
   "title": "Strike It Up",
   "instanceSlug": 1146,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "dance",
   "debut": 1991,
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     14,
     5,
@@ -15,5 +18,12 @@
   ],
   "artists": {
     "black-box": true
-  }
+  },
+  "scores": [
+    0.12,
+    0.463,
+    0.694,
+    0.768,
+    0.701
+  ]
 }

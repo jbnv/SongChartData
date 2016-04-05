@@ -1,1 +1,29 @@
-{"title":"Jessie","instanceSlug":2185,"tags":[],"parents":[],"genre":"pop","debut":"1994-01","playlists":["ballad"],"ranks":[25,20,17,15,16.9],"artists":{"joshua-kadison":true}}
+{
+  "title": "Jessie",
+  "instanceSlug": 2185,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-01",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    25,
+    20,
+    17,
+    15,
+    16.9
+  ],
+  "artists": {
+    "joshua-kadison": true
+  },
+  "scores": [
+    0.001,
+    0.055,
+    0.097,
+    0.057
+  ]
+}

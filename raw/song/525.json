@@ -1,1 +1,31 @@
-{"title":"More Love","instanceSlug":525,"tags":[],"parents":[],"genre":true,"debut":"1980-05","playlists":[],"ranks":[15,6.4,4.3,3.7,3.8,4.25],"artists":{"kim-carnes":true}}
+{
+  "title": "More Love",
+  "instanceSlug": 525,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1980-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6.4,
+    4.3,
+    3.7,
+    3.8,
+    4.25
+  ],
+  "artists": {
+    "kim-carnes": true
+  },
+  "scores": [
+    0.097,
+    0.381,
+    0.513,
+    0.563,
+    0.554,
+    0.517
+  ]
+}

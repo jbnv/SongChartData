@@ -1,1 +1,22 @@
-{"title":"Satisfied","instanceSlug":3050,"tags":["#1","#1-r&r"],"parents":[],"genre":"pop","debut":"1989-05","playlists":["summer"],"ranks":[],"artists":{"richard-marx":true}}
+{
+  "title": "Satisfied",
+  "instanceSlug": 3050,
+  "tags": [
+    "#1",
+    "#1-r&r"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "richard-marx": true
+  },
+  "scores": [
+  ]
+}

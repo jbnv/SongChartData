@@ -1,1 +1,55 @@
-{"title":"Faith","instanceSlug":134,"tags":["faith"],"parents":[],"genre":"pop","debut":"1987-11","ranks":[21,16,12,10,10.5,11.8,13.1,15.7,19.6,24.8,31.3,39.1,48.2,58.6,70.3,83.3],"artists":[{"slug":"george-michael","title":"George Michael","roleSlug":true}],"debutRank":21,"peakRank":10,"duration":4,"score":3.32,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1435}
+{
+  "title": "Faith",
+  "instanceSlug": 134,
+  "tags": [
+    "faith"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-11",
+  "ranks": [
+    21,
+    16,
+    12,
+    10,
+    10.5,
+    11.8
+  ],
+  "artists": [
+    {
+      "slug": "george-michael",
+      "title": "George Michael",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.171,
+    0.232,
+    0.216,
+    0.177,
+    0.172,
+    0.162,
+    0.147,
+    0.127,
+    0.102,
+    0.072,
+    0.037,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 3.25,
+  "score": 1.69,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1444
+}

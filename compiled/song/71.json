@@ -1,1 +1,70 @@
-{"title":"Stranger in My House","instanceSlug":71,"tags":[],"playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"genre":"country","debut":"1983-04","ranks":[14.4,4.5,2.88,3.02,3.15,3.31,3.69,4.07,4.83,5.97,7.49,9.39,11.67,14.33,17.37,20.79,24.59,28.77,33.33,38.27,43.59,49.29,55.37,61.83],"artists":[{"slug":"ronnie-milsap","title":"Ronnie Milsap","roleSlug":true}],"debutRank":14.4,"peakRank":2.88,"duration":6,"score":18.02,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":421}
+{
+  "title": "Stranger in My House",
+  "instanceSlug": 71,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "feb13",
+      "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+    },
+    {
+      "slug": "cheating",
+      "title": "Songs about Cheating"
+    }
+  ],
+  "genre": "country",
+  "debut": "1983-04",
+  "ranks": [
+    14.4,
+    4.5,
+    2.88,
+    3.02,
+    3.15,
+    3.31,
+    3.69
+  ],
+  "artists": [
+    {
+      "slug": "ronnie-milsap",
+      "title": "Ronnie Milsap",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.11,
+    0.498,
+    0.647,
+    0.631,
+    0.617,
+    0.601,
+    0.564,
+    0.559,
+    0.549,
+    0.534,
+    0.514,
+    0.489,
+    0.459,
+    0.424,
+    0.384,
+    0.339,
+    0.289,
+    0.234,
+    0.174,
+    0.109,
+    0.039,
+    0
+  ],
+  "debutScore": 0.11,
+  "peakScore": 0.11,
+  "duration": 5.5,
+  "score": 8.764000000000001,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 500
+}

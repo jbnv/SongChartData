@@ -1,1 +1,65 @@
-{"title":"In Too Deep","instanceSlug":2554,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1987-05","playlists":[],"ranks":[16,10.1,7.5,4.9,4.2,4.45,5.1,5.75,7.05,9,11.6,14.85,18.75,23.3,28.5,34.35,40.85,48,55.8,64.25],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"debutRank":16,"peakRank":4.2,"duration":5,"score":11.77,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":836}
+{
+  "title": "In Too Deep",
+  "instanceSlug": 2554,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-05",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10.1,
+    7.5,
+    4.9,
+    4.2,
+    4.45,
+    5.1
+  ],
+  "artists": [
+    {
+      "slug": "genesis",
+      "title": "Genesis",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.229,
+    0.328,
+    0.47,
+    0.521,
+    0.502,
+    0.456,
+    0.451,
+    0.441,
+    0.426,
+    0.406,
+    0.381,
+    0.351,
+    0.316,
+    0.276,
+    0.231,
+    0.181,
+    0.126,
+    0.066,
+    0.001,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 6.234,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 836
+}

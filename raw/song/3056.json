@@ -1,1 +1,20 @@
-{"title":"Bad Blood","instanceSlug":3056,"tags":[],"parents":[],"genre":"pop","debut":"2015-06","playlists":[],"ranks":[],"artists":{"taylor-swift":true,"kendrick-lamar":"feature"}}
+{
+  "title": "Bad Blood",
+  "instanceSlug": 3056,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "taylor-swift": true,
+    "kendrick-lamar": "feature"
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,74 @@
-{"title":"Jerk Out","instanceSlug":198,"tags":["#1","#1-r&b"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"funk-dance","debut":"1990-08","ranks":[14.5,3.3,1.8,1.5,1.67,2.01,2.35,3.03,4.05,5.41,7.11,9.15,11.53,14.25,17.31,20.71,24.45,28.53,32.95,37.71,42.81,48.25,54.03,60.15],"artists":[{"slug":"time","title":"The Time","roleSlug":true},{"slug":"morris-day","title":"Morris Day","roleSlug":"lead"}],"debutRank":14.5,"peakRank":1.5,"duration":6,"score":21.75,"genres":[{"slug":"funk-dance","title":"Funk Dance"}],"source":null,"rank":241}
+{
+  "title": "Jerk Out",
+  "instanceSlug": 198,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "funk-dance",
+  "debut": "1990-08",
+  "ranks": [
+    14.5,
+    3.3,
+    1.8,
+    1.5,
+    1.67,
+    2.01
+  ],
+  "artists": [
+    {
+      "slug": "time",
+      "title": "The Time",
+      "roleSlug": true
+    },
+    {
+      "slug": "morris-day",
+      "title": "Morris Day",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": [
+    0.108,
+    0.602,
+    0.804,
+    0.864,
+    0.829,
+    0.767,
+    0.762,
+    0.752,
+    0.737,
+    0.717,
+    0.692,
+    0.662,
+    0.627,
+    0.587,
+    0.542,
+    0.492,
+    0.437,
+    0.377,
+    0.312,
+    0.242,
+    0.167,
+    0.087,
+    0.002,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 6,
+  "score": 12.168,
+  "genres": [
+    {
+      "slug": "funk-dance",
+      "title": "Funk Dance"
+    }
+  ],
+  "source": null,
+  "rank": 193
+}

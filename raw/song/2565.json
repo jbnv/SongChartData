@@ -1,1 +1,19 @@
-{"title":"Angie","instanceSlug":2565,"tags":[],"parents":[],"genre":"rock","debut":1973,"playlists":[],"ranks":[],"artists":{"rolling-stones":true}}
+{
+  "title": "Angie",
+  "instanceSlug": 2565,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "rolling-stones": true
+  },
+  "scores": [
+  ]
+}

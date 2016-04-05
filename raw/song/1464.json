@@ -5,10 +5,11 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "source":"bad",
+  "source": "bad",
   "genre": "pop",
   "debut": "1987-12",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     13,
     3.5,
@@ -19,5 +20,13 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.582,
+    0.786,
+    0.76,
+    0.729,
+    0.671
+  ]
 }

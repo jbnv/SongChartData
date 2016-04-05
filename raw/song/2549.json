@@ -1,1 +1,19 @@
-{"title":"Abacab","instanceSlug":2549,"tags":[],"parents":[],"genre":"pop-rock","debut":"1982-02","playlists":[],"ranks":[],"artists":{"genesis":true}}
+{
+  "title": "Abacab",
+  "instanceSlug": 2549,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop-rock",
+  "debut": "1982-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "genesis": true
+  },
+  "scores": [
+  ]
+}

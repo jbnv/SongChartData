@@ -1,1 +1,51 @@
-{"title":"Born in the USA","instanceSlug":1772,"tags":[],"parents":[],"genre":"rock","debut":"1984-12","playlists":[],"ranks":[24,18,15,12,14.6,17.2,22.4,30.2,40.6,53.6,69.2,87.4],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":24,"peakRank":12,"duration":3,"score":1.39,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1538}
+{
+  "title": "Born in the USA",
+  "instanceSlug": 1772,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-12",
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    18,
+    15,
+    12,
+    14.6
+  ],
+  "artists": [
+    {
+      "slug": "bruce-springsteen",
+      "title": "Bruce Springsteen",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.097,
+    0.171,
+    0.106,
+    0.101,
+    0.091,
+    0.076,
+    0.056,
+    0.031,
+    0.001,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 2.75,
+  "score": 0.766,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1532
+}

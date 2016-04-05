@@ -1,1 +1,54 @@
-{"title":"Round and Round","instanceSlug":1142,"tags":["round"],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[15,9,5,3.9,3.4,3,2.9,3,3,15,3.3,3.5,3.8,4.15,4.5,5,5.75],"artists":{"tevin-campbell":true}}
+{
+  "title": "Round and Round",
+  "instanceSlug": 1142,
+  "tags": [
+    "round"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    5,
+    3.9,
+    3.4,
+    3,
+    2.9,
+    3,
+    3,
+    15,
+    3.3,
+    3.5,
+    3.8,
+    4.15,
+    4.5,
+    5,
+    5.75
+  ],
+  "artists": {
+    "tevin-campbell": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.463,
+    0.546,
+    0.592,
+    0.633,
+    0.645,
+    0.633,
+    0.633,
+    0.097,
+    0.602,
+    0.582,
+    0.554,
+    0.525,
+    0.498,
+    0.463,
+    0.416
+  ]
+}

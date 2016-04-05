@@ -1,1 +1,21 @@
-{"title":"You're the One That I Want","instanceSlug":2791,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1978-04","source":"grease","playlists":[],"ranks":true,"artists":{"john-travolta":true,"olivia-newton-john":true,"grease":"backup"}}
+{
+  "title": "You're the One That I Want",
+  "instanceSlug": 2791,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-04",
+  "source": "grease",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "john-travolta": true,
+    "olivia-newton-john": true,
+    "grease": "backup"
+  }
+}

@@ -1,1 +1,58 @@
-{"title":"I Think We're Alone Now","instanceSlug":581,"tags":["alone","i","now","think","we're"],"parents":[],"genre":"pop","debut":"1987-10","playlists":[],"ranks":[21,15.6,13.3,11.9,12.2,13.7,15.2,18.2,22.7,28.7,36.2,45.2,55.7,67.7,81.2,96.2],"artists":[{"slug":"tiffany","title":"Tiffany","roleSlug":true}],"debutRank":21,"peakRank":11.9,"duration":4,"score":2.45,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1484}
+{
+  "title": "I Think We're Alone Now",
+  "instanceSlug": 581,
+  "tags": [
+    "alone",
+    "i",
+    "now",
+    "think",
+    "we're"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    15.6,
+    13.3,
+    11.9,
+    12.2,
+    13.7
+  ],
+  "artists": [
+    {
+      "slug": "tiffany",
+      "title": "Tiffany",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.084,
+    0.137,
+    0.174,
+    0.166,
+    0.127,
+    0.122,
+    0.112,
+    0.097,
+    0.077,
+    0.052,
+    0.022,
+    0
+  ],
+  "debutScore": 0.084,
+  "peakScore": 0.084,
+  "duration": 3,
+  "score": 1.1700000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1500
+}

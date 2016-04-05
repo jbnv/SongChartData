@@ -1,1 +1,19 @@
-{"title":"Garden Party","instanceSlug":1840,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":{"rick-nelson":true}}
+{
+  "title": "Garden Party",
+  "instanceSlug": 1840,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "rick-nelson": true
+  },
+  "scores": [
+  ]
+}

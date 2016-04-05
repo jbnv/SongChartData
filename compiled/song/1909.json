@@ -1,1 +1,62 @@
-{"title":"2 Become 1","instanceSlug":1909,"tags":[],"parents":[],"genre":"pop","debut":"1997-09","playlists":[],"ranks":[16,7,4,2.9,3.2,3.6,4,4.8,6,7.6,9.6,12,14.8,18,21.6,25.6,30,34.8,40,45.6,51.6,58,64.8,72],"artists":[{"slug":"spice-girls","title":"Spice Girls","roleSlug":true}],"debutRank":16,"peakRank":2.9,"duration":6,"score":15.28,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":577}
+{
+  "title": "2 Become 1",
+  "instanceSlug": 1909,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1997-09",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    7,
+    4,
+    2.9,
+    3.2,
+    3.6
+  ],
+  "artists": [
+    {
+      "slug": "spice-girls",
+      "title": "Spice Girls",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.351,
+    0.537,
+    0.645,
+    0.612,
+    0.573,
+    0.568,
+    0.558,
+    0.543,
+    0.523,
+    0.498,
+    0.468,
+    0.433,
+    0.393,
+    0.348,
+    0.298,
+    0.243,
+    0.183,
+    0.118,
+    0.048,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 8.015,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 609
+}

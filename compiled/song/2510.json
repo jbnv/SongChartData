@@ -1,1 +1,30 @@
-{"title":"Time After Time","instanceSlug":2510,"tags":[],"parents":[],"genre":"urban","debut":"1998-09","playlists":[],"ranks":[],"artists":[{"slug":"inoj","title":"Inoj","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1662}
+{
+  "title": "Time After Time",
+  "instanceSlug": 2510,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1998-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "inoj",
+      "title": "Inoj",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 1662
+}

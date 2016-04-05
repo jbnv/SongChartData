@@ -1,1 +1,65 @@
-{"title":"Good Intentions","instanceSlug":1363,"tags":["good"],"parents":[],"genre":"rock","debut":"1995-11","source":{"title":"Friends","instanceSlug":"friends","tags":[],"parents":[],"type":"tv"},"playlists":[],"ranks":[23,17,13.2,10.5,9.5,10.2,11.7,13.2,16.2,20.7,26.7,34.2,43.2,53.7,65.7,79.2],"artists":[{"slug":"toad-the-wet-sprocket","title":"Toad the Wet Sprocket","roleSlug":true}],"debutRank":23,"peakRank":9.5,"duration":4,"score":3.84,"genres":[{"slug":"rock","title":"Rock"}],"rank":1411}
+{
+  "title": "Good Intentions",
+  "instanceSlug": 1363,
+  "tags": [
+    "good"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1995-11",
+  "source": {
+    "title": "Friends",
+    "instanceSlug": "friends",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    23,
+    17,
+    13.2,
+    10.5,
+    9.5,
+    10.2,
+    11.7
+  ],
+  "artists": [
+    {
+      "slug": "toad-the-wet-sprocket",
+      "title": "Toad the Wet Sprocket",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.139,
+    0.216,
+    0.249,
+    0.225,
+    0.18,
+    0.175,
+    0.165,
+    0.15,
+    0.13,
+    0.105,
+    0.075,
+    0.04,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.5,
+  "score": 1.9040000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "rank": 1426
+}

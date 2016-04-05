@@ -6,7 +6,9 @@
   ],
   "genre": "pop",
   "debut": "1984-08",
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "ranks": [
     15,
     8.5,
@@ -16,5 +18,12 @@
   ],
   "artists": {
     "bananarama": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.286,
+    0.477,
+    0.622,
+    0.546
+  ]
 }

@@ -1,1 +1,20 @@
-{"title":"More & More","instanceSlug":3062,"tags":[],"parents":[],"genre":"dance","debut":"1993-06","playlists":["summer"],"ranks":[],"artists":{"captain-hollywood-project":true}}
+{
+  "title": "More & More",
+  "instanceSlug": 3062,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1993-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "captain-hollywood-project": true
+  },
+  "scores": [
+  ]
+}

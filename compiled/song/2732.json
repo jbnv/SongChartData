@@ -1,1 +1,37 @@
-{"title":"No More Tears (Enough is Enough)","instanceSlug":2732,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1979-11","playlists":[],"ranks":[],"artists":[{"slug":"barbra-streisand","title":"Barbra Streisand","roleSlug":true},{"slug":"donna-summer","title":"Donna Summer","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1908}
+{
+  "title": "No More Tears (Enough is Enough)",
+  "instanceSlug": 2732,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1979-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "barbra-streisand",
+      "title": "Barbra Streisand",
+      "roleSlug": true
+    },
+    {
+      "slug": "donna-summer",
+      "title": "Donna Summer",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1908
+}

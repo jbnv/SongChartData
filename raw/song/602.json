@@ -1,1 +1,20 @@
-{"title":"Change the World","instanceSlug":602,"tags":[],"parents":[],"genre":"soft-rock","debut":"1996-08","playlists":["summer"],"ranks":[],"artists":{"eric-clapton":true}}
+{
+  "title": "Change the World",
+  "instanceSlug": 602,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": "1996-08",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eric-clapton": true
+  },
+  "scores": [
+  ]
+}

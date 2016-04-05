@@ -1,1 +1,21 @@
-{"title":"War","instanceSlug":2961,"tags":["#1","#1-hot-100"],"parents":[],"genre":"urban","debut":1970,"playlists":[],"ranks":[],"artists":{"edwin-starr":true}}
+{
+  "title": "War",
+  "instanceSlug": 2961,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1970,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "edwin-starr": true
+  },
+  "scores": [
+  ]
+}

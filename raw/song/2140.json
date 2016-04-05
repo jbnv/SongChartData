@@ -1,1 +1,20 @@
-{"title":"Living For the City","instanceSlug":2140,"tags":["#1"],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":{"stevie-wonder":true}}
+{
+  "title": "Living For the City",
+  "instanceSlug": 2140,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+  ]
+}

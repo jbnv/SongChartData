@@ -1,1 +1,39 @@
-{"title":"Panama","instanceSlug":"panama","tags":[],"parents":[],"genre":"hard-rock","debut":"1984-07","playlists":[{"slug":"inanimate","title":"Songs about Inanimate Objects"}],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"lead"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":3094}
+{
+  "title": "Panama",
+  "instanceSlug": "panama",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1984-07",
+  "playlists": [
+    {
+      "slug": "inanimate",
+      "title": "Songs about Inanimate Objects"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    },
+    {
+      "slug": "david-lee-roth",
+      "title": "David Lee Roth",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "source": null,
+  "rank": 3096
+}

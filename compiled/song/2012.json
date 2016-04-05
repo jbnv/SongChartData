@@ -1,1 +1,63 @@
-{"title":"Forever Man","instanceSlug":2012,"tags":[],"parents":[],"genre":"rock","debut":"1985-04","playlists":[],"ranks":[13,5,2.9,2.2,2.4,2.73,3.06,3.72,4.71,6.03,7.68,9.66,11.97,14.61,17.58,20.88,24.51,28.47,32.76,37.38,42.33,47.61,53.22,59.16],"artists":[{"slug":"eric-clapton","title":"Eric Clapton","roleSlug":true}],"debutRank":13,"peakRank":2.2,"duration":6,"score":18.98,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":369}
+{
+  "title": "Forever Man",
+  "instanceSlug": 2012,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-04",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5,
+    2.9,
+    2.2,
+    2.4,
+    2.73
+  ],
+  "artists": [
+    {
+      "slug": "eric-clapton",
+      "title": "Eric Clapton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.463,
+    0.645,
+    0.737,
+    0.708,
+    0.665,
+    0.66,
+    0.65,
+    0.635,
+    0.615,
+    0.59,
+    0.56,
+    0.525,
+    0.485,
+    0.44,
+    0.39,
+    0.335,
+    0.275,
+    0.21,
+    0.14,
+    0.065,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.5,
+  "score": 9.938000000000002,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 369
+}

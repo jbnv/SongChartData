@@ -1,1 +1,30 @@
-{"title":"One Last Time","instanceSlug":3002,"tags":[],"parents":[],"genre":"pop","debut":"2015-05","playlists":[],"ranks":[],"artists":[{"slug":"ariana-grande","title":"Ariana Grande","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2210}
+{
+  "title": "One Last Time",
+  "instanceSlug": 3002,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "ariana-grande",
+      "title": "Ariana Grande",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2210
+}

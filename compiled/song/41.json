@@ -1,1 +1,68 @@
-{"title":"Gloria","instanceSlug":41,"tags":["women"],"parents":[],"genre":"dance-pop","debut":"1982-09","ranks":[15.9,9.3,7.2,5.5,4.9,4.7,4.52,4.76,5.1,5.44,6.12,7.14,8.5,10.2,12.24,14.62,17.34,20.4,23.8,27.54,31.62,36.04,40.8,45.9,51.34,57.12,63.24,69.7],"artists":[{"slug":"laura-branigan","title":"Laura Branigan","roleSlug":true}],"debutRank":15.9,"peakRank":4.52,"duration":7,"score":16.52,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"source":null,"rank":501}
+{
+  "title": "Gloria",
+  "instanceSlug": 41,
+  "tags": [
+    "women"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1982-09",
+  "ranks": [
+    15.9,
+    9.3,
+    7.2,
+    5.5,
+    4.9,
+    4.7,
+    4.52,
+    4.76,
+    5.1
+  ],
+  "artists": [
+    {
+      "slug": "laura-branigan",
+      "title": "Laura Branigan",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.256,
+    0.341,
+    0.431,
+    0.47,
+    0.484,
+    0.497,
+    0.479,
+    0.456,
+    0.451,
+    0.441,
+    0.426,
+    0.406,
+    0.381,
+    0.351,
+    0.316,
+    0.276,
+    0.231,
+    0.181,
+    0.126,
+    0.066,
+    0.001,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 5.75,
+  "score": 7.144,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 712
+}

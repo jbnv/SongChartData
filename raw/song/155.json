@@ -5,7 +5,9 @@
     "i-just",
     "i-just-want"
   ],
-  "playlists": ["ballad"],
+  "playlists": [
+    "ballad"
+  ],
   "genre": "pop",
   "debut": "1978-10",
   "ranks": [
@@ -16,5 +18,11 @@
   ],
   "artists": {
     "gino-vannelli": true
-  }
+  },
+  "scores": [
+    0.077,
+    0.563,
+    0.864,
+    0.821
+  ]
 }

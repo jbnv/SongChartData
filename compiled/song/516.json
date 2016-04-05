@@ -1,1 +1,54 @@
-{"title":"Secret Rendezvous","instanceSlug":516,"tags":[],"parents":[],"genre":"pop","debut":"1989-07","playlists":[],"ranks":[20,11.9,8.7,9.5,11.2,12.9,16.3,21.4,28.2,36.7,46.9,58.8],"artists":[{"slug":"karyn-white","title":"Karyn White","roleSlug":true}],"debutRank":20,"peakRank":8.7,"duration":3,"score":3.35,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1432}
+{
+  "title": "Secret Rendezvous",
+  "instanceSlug": 516,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-07",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    11.9,
+    8.7,
+    9.5,
+    11.2
+  ],
+  "artists": [
+    {
+      "slug": "karyn-white",
+      "title": "Karyn White",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.174,
+    0.278,
+    0.249,
+    0.194,
+    0.189,
+    0.179,
+    0.164,
+    0.144,
+    0.119,
+    0.089,
+    0.054,
+    0.014,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 3.5,
+  "score": 1.8479999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1430
+}

@@ -1,1 +1,22 @@
-{"title":"Here We Go, Let's Rock & Roll","instanceSlug":1157,"tags":["go","","rock-and-roll"],"parents":[],"genre":"dance","debut":1991,"playlists":[],"ranks":[],"artists":{"c-c-music-factory":true}}
+{
+  "title": "Here We Go, Let's Rock & Roll",
+  "instanceSlug": 1157,
+  "tags": [
+    "go",
+    "",
+    "rock-and-roll"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "c-c-music-factory": true
+  },
+  "scores": [
+  ]
+}

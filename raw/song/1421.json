@@ -1,10 +1,12 @@
 {
   "title": "Get On Your Feet",
   "instanceSlug": 1421,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "dance",
   "debut": "1989-11",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     18,
     8.5,
@@ -13,5 +15,11 @@
   ],
   "artists": {
     "gloria-estefan": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.286,
+    0.356,
+    0.346
+  ]
 }

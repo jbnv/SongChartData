@@ -6,11 +6,29 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "genres": ["soul","urban","r&b"],
+  "genres": [
+    "soul",
+    "urban",
+    "r&b"
+  ],
   "debut": 1973,
-  "playlists": [],
-  "ranks": [14,5.5,2.5,2,2.3],
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    5.5,
+    2.5,
+    2,
+    2.3
+  ],
   "artists": {
     "o-jays": true
-  }
+  },
+  "scores": [
+    0.12,
+    0.431,
+    0.694,
+    0.768,
+    0.722
+  ]
 }

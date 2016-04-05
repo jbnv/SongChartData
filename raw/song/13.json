@@ -1,1 +1,28 @@
-{"title":"Devil Woman","instanceSlug":13,"tags":["halloween"],"parents":[],"genre":"pop","debut":1976,"ranks":[16.5,10.2,7,4.3,5.2],"artists":{"cliff-richard":true}}
+{
+  "title": "Devil Woman",
+  "instanceSlug": 13,
+  "tags": [
+    "halloween"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1976,
+  "ranks": [
+    16.5,
+    10.2,
+    7,
+    4.3,
+    5.2
+  ],
+  "artists": {
+    "cliff-richard": true
+  },
+  "scores": [
+    0.065,
+    0.225,
+    0.351,
+    0.513,
+    0.45
+  ]
+}

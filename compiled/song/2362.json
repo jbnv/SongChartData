@@ -1,1 +1,32 @@
-{"title":"Give It To Me Baby","instanceSlug":2362,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1981-08","playlists":[],"ranks":[],"artists":[{"slug":"rick-james","title":"Rick James","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":2985}
+{
+  "title": "Give It To Me Baby",
+  "instanceSlug": 2362,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1981-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rick-james",
+      "title": "Rick James",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 2986
+}

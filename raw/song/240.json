@@ -1,1 +1,35 @@
-{"title":"Can't We Try","instanceSlug":240,"tags":[],"playlists":["ballad"],"genre":"pop","debut":"1987-08","ranks":[12,6.8,2.8,2.2,1.95,2.15,2.34,2.68],"artists":{"dan-hill":true,"vonda-sheppard":true}}
+{
+  "title": "Can't We Try",
+  "instanceSlug": 240,
+  "tags": [
+  ],
+  "playlists": [
+    "ballad"
+  ],
+  "genre": "pop",
+  "debut": "1987-08",
+  "ranks": [
+    12,
+    6.8,
+    2.8,
+    2.2,
+    1.95,
+    2.15,
+    2.34,
+    2.68
+  ],
+  "artists": {
+    "dan-hill": true,
+    "vonda-sheppard": true
+  },
+  "scores": [
+    0.171,
+    0.361,
+    0.656,
+    0.737,
+    0.777,
+    0.744,
+    0.716,
+    0.671
+  ]
+}

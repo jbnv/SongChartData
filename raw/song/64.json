@@ -1,1 +1,18 @@
-{"title":"YMCA","instanceSlug":64,"tags":["acronym"],"parents":[],"genre":"disco","debut":"1978-11","ranks":[],"artists":{"village-people":true}}
+{
+  "title": "YMCA",
+  "instanceSlug": 64,
+  "tags": [
+    "acronym"
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1978-11",
+  "ranks": [
+  ],
+  "artists": {
+    "village-people": true
+  },
+  "scores": [
+  ]
+}

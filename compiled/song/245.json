@@ -1,1 +1,80 @@
-{"title":"Smooth Criminal","instanceSlug":245,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"playlists":[{"slug":"crime"}],"genre":"dance-pop","debut":"1988-11","ranks":[8,1,1.084,1.15,1.229,1.4,1.55,1.71,1.91,2.11,2.51,3.11,3.91,4.91,6.11,7.51,9.11,10.91,12.91,15.11,17.51,20.11,22.91,25.91,29.11,32.51,36.11,39.91,43.91,48.11,52.51,57.11],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"note":"8 weeks at #1.","debutRank":8,"peakRank":1,"duration":8,"score":36.22,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":10}
+{
+  "title": "Smooth Criminal",
+  "instanceSlug": 245,
+  "tags": [
+  ],
+  "source": {
+    "title": "Bad",
+    "instanceSlug": "bad",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "playlists": [
+    {
+      "slug": "crime"
+    }
+  ],
+  "genre": "dance-pop",
+  "debut": "1988-11",
+  "ranks": [
+    8,
+    1,
+    1.084,
+    1.15,
+    1.229,
+    1.4,
+    1.55,
+    1.71,
+    1.91
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "note": "8 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.973,
+    0.953,
+    0.931,
+    0.887,
+    0.853,
+    0.821,
+    0.784,
+    0.779,
+    0.769,
+    0.754,
+    0.734,
+    0.709,
+    0.679,
+    0.644,
+    0.604,
+    0.559,
+    0.509,
+    0.454,
+    0.394,
+    0.329,
+    0.259,
+    0.184,
+    0.104,
+    0.019,
+    0
+  ],
+  "debutScore": 0.306,
+  "peakScore": 0.306,
+  "duration": 6.75,
+  "score": 15.991,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "rank": 6
+}

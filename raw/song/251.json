@@ -3,11 +3,26 @@
   "instanceSlug": 251,
   "tags": [
   ],
-  "playlists": ["summer"],
-  "genres": ["pop"],
+  "playlists": [
+    "summer"
+  ],
+  "genres": [
+    "pop"
+  ],
   "debut": "1992-08",
-  "ranks": [15.5,3.7,2.1,2.21],
+  "ranks": [
+    15.5,
+    3.7,
+    2.1,
+    2.21
+  ],
   "artists": {
     "george-michael": true
-  }
+  },
+  "scores": [
+    0.086,
+    0.563,
+    0.752,
+    0.735
+  ]
 }

@@ -1,1 +1,27 @@
-{"title":"I'm So Excited","instanceSlug":430,"tags":[],"parents":[],"genre":"dance","debut":"1984-09","playlists":[],"ranks":[13,3.6,1.7,1.9],"artists":{"pointer-sisters":true}}
+{
+  "title": "I'm So Excited",
+  "instanceSlug": 430,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1984-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    3.6,
+    1.7,
+    1.9
+  ],
+  "artists": {
+    "pointer-sisters": true
+  },
+  "scores": [
+    0.145,
+    0.573,
+    0.823,
+    0.786
+  ]
+}

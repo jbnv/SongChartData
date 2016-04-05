@@ -1,1 +1,30 @@
-{"title":"Impulsive","instanceSlug":1161,"tags":[],"parents":[],"genre":"pop","debut":1991,"playlists":[],"ranks":[],"artists":[{"slug":"wilson-phillips","title":"Wilson Phillips","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2400}
+{
+  "title": "Impulsive",
+  "instanceSlug": 1161,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "wilson-phillips",
+      "title": "Wilson Phillips",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2620
+}

@@ -1,16 +1,22 @@
 {
   "title": "Gypsy",
   "instanceSlug": 678,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1982-10",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "fleetwood-mac": true,
     "lindsay-buckingham": "member",
     "christine-mcvie": "member",
     "stevie-nicks": "lead"
-  }
+  },
+  "scores": [
+  ]
 }

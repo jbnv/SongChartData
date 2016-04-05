@@ -1,1 +1,72 @@
-{"title":"Let's Go","instanceSlug":88,"tags":["go","let's","let's-go"],"parents":[],"genre":"pop","debut":1987,"ranks":[13,4,1,1.07,1.18,1.31,1.48,1.76,2.04,2.6,3.44,4.56,5.96,7.64,9.6,11.84,14.36,17.16,20.24,23.6,27.24,31.16,35.36,39.84,44.6,49.64,54.96,60.56],"artists":[{"slug":"wang-chung","title":"Wang Chung","roleSlug":true}],"debutRank":13,"peakRank":1,"duration":7,"score":30.11,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":47}
+{
+  "title": "Let's Go",
+  "instanceSlug": 88,
+  "tags": [
+    "go",
+    "let's",
+    "let's-go"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1987,
+  "ranks": [
+    13,
+    4,
+    1,
+    1.07,
+    1.18,
+    1.31,
+    1.48,
+    1.76
+  ],
+  "artists": [
+    {
+      "slug": "wang-chung",
+      "title": "Wang Chung",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.537,
+    1,
+    0.977,
+    0.944,
+    0.909,
+    0.869,
+    0.811,
+    0.806,
+    0.796,
+    0.781,
+    0.761,
+    0.736,
+    0.706,
+    0.671,
+    0.631,
+    0.586,
+    0.536,
+    0.481,
+    0.421,
+    0.356,
+    0.286,
+    0.211,
+    0.131,
+    0.046,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 6.5,
+  "score": 15.133999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 22
+}

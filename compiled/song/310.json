@@ -1,1 +1,63 @@
-{"title":"It's Not Enough","instanceSlug":310,"tags":[],"parents":[],"genre":"pop","debut":"1989-09","playlists":[],"ranks":[14.5,5.7,2.5,2.62,2.79,3.24,3.69,4.59,5.94,7.74,9.99,12.69,15.84,19.44,23.49,27.99,32.94,38.34,44.19,50.49],"artists":[{"slug":"starship","title":"Jefferson Airplane / Jefferson Starship / Starship","roleSlug":true}],"debutRank":14.5,"peakRank":2.5,"duration":5,"score":16.27,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":516}
+{
+  "title": "It's Not Enough",
+  "instanceSlug": 310,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-09",
+  "playlists": [
+  ],
+  "ranks": [
+    14.5,
+    5.7,
+    2.5,
+    2.62,
+    2.79,
+    3.24
+  ],
+  "artists": [
+    {
+      "slug": "starship",
+      "title": "Jefferson Airplane / Jefferson Starship / Starship",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.108,
+    0.419,
+    0.694,
+    0.678,
+    0.657,
+    0.608,
+    0.603,
+    0.593,
+    0.578,
+    0.558,
+    0.533,
+    0.503,
+    0.468,
+    0.428,
+    0.383,
+    0.333,
+    0.278,
+    0.218,
+    0.153,
+    0.083,
+    0.008,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 5.5,
+  "score": 8.884,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 489
+}

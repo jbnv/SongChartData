@@ -1,1 +1,68 @@
-{"title":"The Promise of a New Day","instanceSlug":952,"tags":["","this-of-that"],"parents":[],"genre":"pop","debut":"1991-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12.2,3.3,2.5,2.7,2.95,3.4,3.85,4.75,6.1,7.9,10.15,12.85,16,19.6,23.65,28.15,33.1,38.5,44.35,50.65],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":12.2,"peakRank":2.5,"duration":5,"score":16.69,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":488}
+{
+  "title": "The Promise of a New Day",
+  "instanceSlug": 952,
+  "tags": [
+    "",
+    "this-of-that"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12.2,
+    3.3,
+    2.5,
+    2.7,
+    2.95,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.166,
+    0.602,
+    0.694,
+    0.668,
+    0.639,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.166,
+  "peakScore": 0.166,
+  "duration": 5.25,
+  "score": 8.849000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 492
+}

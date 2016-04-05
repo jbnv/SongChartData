@@ -1,1 +1,30 @@
-{"title":"Sir Duke","instanceSlug":806,"tags":["#1","a:duke-ellington","tribute"],"parents":[],"genre":"soul","debut":1977,"playlists":[],"ranks":[17,10.1,7.6,10.1],"artists":{"stevie-wonder":true}}
+{
+  "title": "Sir Duke",
+  "instanceSlug": 806,
+  "tags": [
+    "#1",
+    "a:duke-ellington",
+    "tribute"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    7.6,
+    10.1
+  ],
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+    0.055,
+    0.229,
+    0.323,
+    0.229
+  ]
+}

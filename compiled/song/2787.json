@@ -1,1 +1,48 @@
-{"title":"This One's For the Children","instanceSlug":2787,"tags":[],"parents":[],"genre":"pop","debut":"1989-12","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[25,19,15,18,21,27,36,48,63,81,102,126],"artists":[{"slug":"new-kids-on-the-block"}],"debutRank":25,"peakRank":15,"duration":3,"score":0.46,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1571}
+{
+  "title": "This One's For the Children",
+  "instanceSlug": 2787,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-12",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    25,
+    19,
+    15,
+    18
+  ],
+  "artists": [
+    {
+      "slug": "new-kids-on-the-block"
+    }
+  ],
+  "scores": [
+    0.018,
+    0.097,
+    0.036,
+    0.031,
+    0.021,
+    0.006,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 1.75,
+  "score": 0.209,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1573
+}

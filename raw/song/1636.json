@@ -1,1 +1,23 @@
-{"title":"California Girls","instanceSlug":1636,"tags":["california","girl","places","remake"],"parents":[],"genre":"rock","debut":"1985-02","playlists":[],"ranks":[],"artists":{"david-lee-roth":true}}
+{
+  "title": "California Girls",
+  "instanceSlug": 1636,
+  "tags": [
+    "california",
+    "girl",
+    "places",
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "david-lee-roth": true
+  },
+  "scores": [
+  ]
+}

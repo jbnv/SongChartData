@@ -1,1 +1,21 @@
-{"title":"Sussudio","instanceSlug":1639,"tags":["#1","odd-words"],"parents":[],"genre":"pop","debut":"1985-05","playlists":[],"ranks":[],"artists":{"phil-collins":true}}
+{
+  "title": "Sussudio",
+  "instanceSlug": 1639,
+  "tags": [
+    "#1",
+    "odd-words"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "phil-collins": true
+  },
+  "scores": [
+  ]
+}

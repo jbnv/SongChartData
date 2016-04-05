@@ -1,1 +1,59 @@
-{"title":"Make It Real","instanceSlug":796,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1988-05","playlists":[],"ranks":[21,15,12,10.5,9,9.8,11.2,12.6,15.4,19.6,25.2,32.2,40.6,50.4,61.6,74.2],"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"debutRank":21,"peakRank":9,"duration":4,"score":4.32,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1374}
+{
+  "title": "Make It Real",
+  "instanceSlug": 796,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1988-05",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    15,
+    12,
+    10.5,
+    9,
+    9.8,
+    11.2
+  ],
+  "artists": [
+    {
+      "slug": "jets",
+      "title": "The Jets",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.171,
+    0.216,
+    0.267,
+    0.239,
+    0.194,
+    0.189,
+    0.179,
+    0.164,
+    0.144,
+    0.119,
+    0.089,
+    0.054,
+    0.014,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3.75,
+  "score": 2.1359999999999997,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1406
+}

@@ -1,1 +1,20 @@
-{"title":"Hips Dont Lie","instanceSlug":"hips-dont-lie","tags":["#1","#1-hot-100"],"parents":[],"debut":"2006-05","playlists":[],"ranks":[],"artists":{"shakira":true}}
+{
+  "title": "Hips Dont Lie",
+  "instanceSlug": "hips-dont-lie",
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "debut": "2006-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "shakira": true
+  },
+  "scores": [
+  ]
+}

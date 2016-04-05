@@ -1,1 +1,30 @@
-{"title":"The Witch Queen of New Orleans","instanceSlug":2852,"tags":[],"parents":[],"genre":"urban","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"redbone","title":"Redbone","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":2041}
+{
+  "title": "The Witch Queen of New Orleans",
+  "instanceSlug": 2852,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "redbone",
+      "title": "Redbone",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 2041
+}

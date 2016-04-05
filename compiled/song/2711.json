@@ -1,1 +1,32 @@
-{"title":"Umbrella","instanceSlug":2711,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":2007,"playlists":[],"ranks":[],"artists":[{"slug":"rihanna","title":"Rihanna","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1885}
+{
+  "title": "Umbrella",
+  "instanceSlug": 2711,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2007,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rihanna",
+      "title": "Rihanna",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1885
+}

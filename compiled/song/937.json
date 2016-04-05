@@ -1,1 +1,53 @@
-{"title":"Money for Nothing","instanceSlug":937,"tags":[],"parents":[],"genre":"rock","debut":"1985-09","playlists":[{"slug":"for"}],"ranks":[18.9,11.3,10.5,13.9,17.3,24.1,34.3,47.9,64.9,85.3,109.1,136.3],"artists":[{"slug":"dire-straits","title":"Dire Straits","roleSlug":true}],"debutRank":18.9,"peakRank":10.5,"duration":3,"score":1.8,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1522}
+{
+  "title": "Money for Nothing",
+  "instanceSlug": 937,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-09",
+  "playlists": [
+    {
+      "slug": "for"
+    }
+  ],
+  "ranks": [
+    18.9,
+    11.3,
+    10.5,
+    13.9
+  ],
+  "artists": [
+    {
+      "slug": "dire-straits",
+      "title": "Dire Straits",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.02,
+    0.191,
+    0.216,
+    0.122,
+    0.117,
+    0.107,
+    0.092,
+    0.072,
+    0.047,
+    0.017,
+    0
+  ],
+  "debutScore": 0.02,
+  "peakScore": 0.02,
+  "duration": 2.75,
+  "score": 1.001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1513
+}

@@ -1,1 +1,30 @@
-{"title":"Baby I Lied","instanceSlug":2105,"tags":[],"parents":[],"genre":"country","debut":"1984-01","playlists":[],"ranks":[],"artists":[{"slug":"deborah-allen","title":"Deborah Allen","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":2619}
+{
+  "title": "Baby I Lied",
+  "instanceSlug": 2105,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1984-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "deborah-allen",
+      "title": "Deborah Allen",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 2573
+}

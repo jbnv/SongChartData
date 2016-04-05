@@ -1,1 +1,53 @@
-{"title":"Lawyers in Love","instanceSlug":745,"tags":[],"parents":[],"genre":"rock","debut":"1983-08","playlists":[],"ranks":[21,12.5,12.8,20.3,32.1,50.8,80.3,127],"artists":[{"slug":"jackson-browne","title":"Jackson Browne","roleSlug":true}],"debutRank":21,"peakRank":12.5,"duration":2,"score":0.92,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1554}
+{
+  "title": "Lawyers in Love",
+  "instanceSlug": 745,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-08",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    12.5,
+    12.8,
+    20.3,
+    32.1,
+    50.8,
+    80.3,
+    127
+  ],
+  "artists": [
+    {
+      "slug": "jackson-browne",
+      "title": "Jackson Browne",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.158,
+    0.15,
+    0.145,
+    0.135,
+    0.12,
+    0.1,
+    0.075,
+    0.045,
+    0.01,
+    0
+  ],
+  "debutScore": 0.158,
+  "peakScore": 0.15,
+  "duration": 2.5,
+  "score": 0.938,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1519
+}

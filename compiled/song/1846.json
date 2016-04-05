@@ -1,1 +1,68 @@
-{"title":"Used to Be My Girl","instanceSlug":1846,"tags":["#1","#1-r&b"],"genres":[{"slug":"soul","title":"Soul"},{"slug":"urban","title":"Urban / R&B"},{"slug":"r&b"}],"debut":"1978-06","playlists":[],"ranks":[19,10,5,3.5,3.6,3.9,4.2,4.8,5.7,6.9,8.4,10.2,12.3,14.7,17.4,20.4,23.7,27.3,31.2,35.4,39.9,44.7,49.8,55.2],"artists":[{"slug":"o-jays","title":"O'Jays","roleSlug":true}],"debutRank":19,"peakRank":3.5,"duration":6,"score":15.07,"source":null,"rank":600}
+{
+  "title": "Used to Be My Girl",
+  "instanceSlug": 1846,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    },
+    {
+      "slug": "r&b"
+    }
+  ],
+  "debut": "1978-06",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    10,
+    5,
+    3.5,
+    3.6,
+    3.9
+  ],
+  "artists": [
+    {
+      "slug": "o-jays",
+      "title": "O'Jays",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.232,
+    0.463,
+    0.582,
+    0.573,
+    0.546,
+    0.541,
+    0.531,
+    0.516,
+    0.496,
+    0.471,
+    0.441,
+    0.406,
+    0.366,
+    0.321,
+    0.271,
+    0.216,
+    0.156,
+    0.091,
+    0.021,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 5.25,
+  "score": 7.257999999999998,
+  "source": null,
+  "rank": 702
+}

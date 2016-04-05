@@ -1,1 +1,59 @@
-{"title":"Life is a Rock (But the Radio Rolled Me)","instanceSlug":2695,"tags":[],"parents":[],"genre":"novelty","debut":1974,"playlists":[],"ranks":[16,10,5,3.8,4.5,5.2,6.6,8.7,11.5,15,19.2,24.1,29.7,36,43,50.7],"artists":[{"slug":"reunion","title":"Reunion","roleSlug":true}],"debutRank":16,"peakRank":3.8,"duration":4,"score":9.67,"genres":[{"slug":"novelty","title":"Novelty"}],"source":null,"rank":985}
+{
+  "title": "Life is a Rock (But the Radio Rolled Me)",
+  "instanceSlug": 2695,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "novelty",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    5,
+    3.8,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "reunion",
+      "title": "Reunion",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.463,
+    0.554,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.75,
+  "score": 6.020999999999998,
+  "genres": [
+    {
+      "slug": "novelty",
+      "title": "Novelty"
+    }
+  ],
+  "source": null,
+  "rank": 856
+}

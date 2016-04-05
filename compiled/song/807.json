@@ -1,1 +1,58 @@
-{"title":"Jumping Jack Flash","instanceSlug":807,"tags":["flash","jack","jump","remade"],"parents":[],"genre":"rock","debut":1968,"playlists":[],"ranks":[17.9,10.6,7.3,8.3,9.3,11.3,14.3,18.3,23.3,29.3,36.3,44.3,53.3,63.3,74.3,86.3],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"debutRank":17.9,"peakRank":7.3,"duration":4,"score":4.43,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1372}
+{
+  "title": "Jumping Jack Flash",
+  "instanceSlug": 807,
+  "tags": [
+    "flash",
+    "jack",
+    "jump",
+    "remade"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1968,
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    8.3
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.294,
+    0.289,
+    0.279,
+    0.264,
+    0.244,
+    0.219,
+    0.189,
+    0.154,
+    0.114,
+    0.069,
+    0.019,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.75,
+  "score": 2.722,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1345
+}

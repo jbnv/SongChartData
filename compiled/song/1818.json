@@ -1,1 +1,70 @@
-{"title":"Shame","instanceSlug":1818,"tags":[],"parents":[],"genre":"urban","debut":"1995-01","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[17,10,6.5,4.9,4,3.5,3.72,4.2,5.2,6.2,8.2,11.2,15.2,20.2,26.2,33.2,41.2,50.2,60.2,71.2],"artists":[{"slug":"zhane","title":"Zhane","roleSlug":true}],"debutRank":17,"peakRank":3.5,"duration":5,"score":14.3,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":653}
+{
+  "title": "Shame",
+  "instanceSlug": 1818,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1995-01",
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "ranks": [
+    17,
+    10,
+    6.5,
+    4.9,
+    4,
+    3.5,
+    3.72,
+    4.2,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "zhane",
+      "title": "Zhane",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.376,
+    0.47,
+    0.537,
+    0.582,
+    0.562,
+    0.521,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.5,
+  "score": 7.364999999999999,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 687
+}

@@ -3,15 +3,31 @@
   "instanceSlug": 549,
   "tags": [
     "#1"
-
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1988-09",
   "source": "buster",
-  "playlists": ["remake"],
-  "ranks": [22,16,12,10,10.5,12.1],
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [
+    22,
+    16,
+    12,
+    10,
+    10.5,
+    12.1
+  ],
   "artists": {
     "phil-collins": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.171,
+    0.232,
+    0.216,
+    0.168
+  ]
 }

@@ -1,1 +1,65 @@
-{"title":"Alphabet Street","instanceSlug":453,"tags":["streets-and-roads"],"genre":"pop","debut":"1988-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,3.8,2.2,2.1,2.4,2.7,3.3,4.2,5.4,6.9,8.7,10.8,13.2,15.9,18.9,22.2,25.8,29.7,33.9,38.4,43.2,48.3,53.7,59.4],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":12,"peakRank":2.1,"duration":6,"score":18.71,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":390}
+{
+  "title": "Alphabet Street",
+  "instanceSlug": 453,
+  "tags": [
+    "streets-and-roads"
+  ],
+  "genre": "pop",
+  "debut": "1988-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12,
+    3.8,
+    2.2,
+    2.1,
+    2.4
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.554,
+    0.737,
+    0.752,
+    0.708,
+    0.703,
+    0.693,
+    0.678,
+    0.658,
+    0.633,
+    0.603,
+    0.568,
+    0.528,
+    0.483,
+    0.433,
+    0.378,
+    0.318,
+    0.253,
+    0.183,
+    0.108,
+    0.028,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.5,
+  "score": 10.170000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 345
+}

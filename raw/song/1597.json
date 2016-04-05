@@ -1,1 +1,20 @@
-{"title":"Mr. Vain","instanceSlug":1597,"tags":["mr."],"parents":[],"genre":"dance","debut":"1993-12","playlists":[],"ranks":[],"artists":{"culture-beat":true}}
+{
+  "title": "Mr. Vain",
+  "instanceSlug": 1597,
+  "tags": [
+    "mr."
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1993-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "culture-beat": true
+  },
+  "scores": [
+  ]
+}

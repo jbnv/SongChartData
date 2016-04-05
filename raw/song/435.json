@@ -1,10 +1,12 @@
 {
   "title": "Torture",
   "instanceSlug": 435,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1984-09",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     13,
     4.5,
@@ -15,5 +17,12 @@
   "artists": {
     "jacksons": true,
     "michael-jackson": "lead"
-  }
+  },
+  "scores": [
+    0.145,
+    0.498,
+    0.622,
+    0.645,
+    0.609
+  ]
 }

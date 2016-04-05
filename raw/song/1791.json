@@ -1,1 +1,31 @@
-{"title":"Don't Stand So Close to Me","instanceSlug":1791,"tags":[],"parents":[],"genre":"rock","debut":"1981-03","playlists":[],"ranks":[16,10,5,3.7,3.5,4],"artists":{"police":true}}
+{
+  "title": "Don't Stand So Close to Me",
+  "instanceSlug": 1791,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    5,
+    3.7,
+    3.5,
+    4
+  ],
+  "artists": {
+    "police": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.463,
+    0.563,
+    0.582,
+    0.537
+  ]
+}

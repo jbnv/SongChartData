@@ -1,1 +1,55 @@
-{"title":"Happy Anniversary","instanceSlug":2035,"tags":[],"parents":[],"genre":"pop","debut":"1978-01","playlists":[],"ranks":[20,15,12,10,10.9,12.1,13.3,15.7,19.3,24.1,30.1,37.3,45.7,55.3,66.1,78.1],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":20,"peakRank":10,"duration":4,"score":3.33,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1434}
+{
+  "title": "Happy Anniversary",
+  "instanceSlug": 2035,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-01",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    15,
+    12,
+    10,
+    10.9,
+    12.1
+  ],
+  "artists": [
+    {
+      "slug": "little-river-band",
+      "title": "Little River Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.097,
+    0.171,
+    0.232,
+    0.203,
+    0.168,
+    0.163,
+    0.153,
+    0.138,
+    0.118,
+    0.093,
+    0.063,
+    0.028,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 3.5,
+  "score": 1.628,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1448
+}

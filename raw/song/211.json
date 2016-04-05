@@ -1,1 +1,33 @@
-{"title":"If Wishes Came True","instanceSlug":211,"tags":[],"parents":[],"genre":"pop","debut":"1990-07","ranks":[18.9,11.2,7.3,6.5,5.8,6.2,6.5,7.2],"artists":{"sweet-sensation":true}}
+{
+  "title": "If Wishes Came True",
+  "instanceSlug": 211,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-07",
+  "ranks": [
+    18.9,
+    11.2,
+    7.3,
+    6.5,
+    5.8,
+    6.2,
+    6.5,
+    7.2
+  ],
+  "artists": {
+    "sweet-sensation": true
+  },
+  "scores": [
+    0.02,
+    0.194,
+    0.337,
+    0.376,
+    0.414,
+    0.391,
+    0.376,
+    0.341
+  ]
+}

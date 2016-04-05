@@ -1,0 +1,32 @@
+{
+  "title": "Weird Science",
+  "instanceSlug": "weird science",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": 1985,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    9,
+    7,
+    5.2,
+    5.5,
+    5.8,
+    6.7
+  ],
+  "artists": {
+    "oingo-boingo": true
+  },
+  "scores": [
+    0.036,
+    0.267,
+    0.351,
+    0.45,
+    0.431,
+    0.414,
+    0.365
+  ]
+}

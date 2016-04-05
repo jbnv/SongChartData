@@ -1,1 +1,64 @@
-{"title":"Heat of the Night","instanceSlug":15,"tags":["this-of-that"],"parents":[],"genre":"pop","debut":"1987-04","ranks":[19.9,10.3,4.2,3.3,2.9,3.2,3.5,4.1,5,6.2,7.7,9.5,11.6,14,16.7,19.7,23,26.6,30.5,34.7,39.2,44,49.1,54.5],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"debutRank":19.9,"peakRank":2.9,"duration":6,"score":16.54,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":500}
+{
+  "title": "Heat of the Night",
+  "instanceSlug": 15,
+  "tags": [
+    "this-of-that"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-04",
+  "ranks": [
+    19.9,
+    10.3,
+    4.2,
+    3.3,
+    2.9,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "bryan-adams",
+      "title": "Bryan Adams",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.222,
+    0.521,
+    0.602,
+    0.645,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 5.5,
+  "score": 8.385,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 561
+}

@@ -1,1 +1,29 @@
-{"title":"Lost in Emotion","instanceSlug":237,"tags":[],"parents":[],"genre":"dance","debut":"1987-08","ranks":[13.5,4.1,2.23,2.15,2.1,2.45],"artists":{"lisa-lisa-cult-jam":true}}
+{
+  "title": "Lost in Emotion",
+  "instanceSlug": 237,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1987-08",
+  "ranks": [
+    13.5,
+    4.1,
+    2.23,
+    2.15,
+    2.1,
+    2.45
+  ],
+  "artists": {
+    "lisa-lisa-cult-jam": true
+  },
+  "scores": [
+    0.132,
+    0.529,
+    0.732,
+    0.744,
+    0.752,
+    0.701
+  ]
+}

@@ -1,7 +1,9 @@
 {
   "title": "This Is the Right Time",
   "instanceSlug": 100,
-  "tags": ["this-is"],
+  "tags": [
+    "this-is"
+  ],
   "genre": "pop",
   "debut": "1990-09",
   "ranks": [
@@ -19,5 +21,17 @@
   "artists": {
     "lisa-stansfield": true
   },
-  "note":"Project 8 weeks at #1."
+  "note": "Project 8 weeks at #1.",
+  "scores": [
+    0.171,
+    0.768,
+    1,
+    0.977,
+    0.953,
+    0.925,
+    0.897,
+    0.869,
+    0.829,
+    0.787
+  ]
 }

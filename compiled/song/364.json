@@ -1,1 +1,76 @@
-{"title":"Man in the Mirror","instanceSlug":364,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"genre":"soul","debut":"1988-02","playlists":[{"slug":"choir"}],"ranks":[24,18,15,13,12,12.2,12.7,13.3,15.1,16.9,20.5,25.9,33.1,42.1,52.9,65.5],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"siedah-garrett","title":"Siedah Garrett","roleSlug":"backup"},{"slug":"winans","title":"Winans, The","roleSlug":"backup"}],"debutRank":24,"peakRank":12,"duration":4,"score":3.18,"genres":[{"slug":"soul","title":"Soul"}],"rank":1445}
+{
+  "title": "Man in the Mirror",
+  "instanceSlug": 364,
+  "tags": [
+  ],
+  "source": {
+    "title": "Bad",
+    "instanceSlug": "bad",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "genre": "soul",
+  "debut": "1988-02",
+  "playlists": [
+    {
+      "slug": "choir"
+    }
+  ],
+  "ranks": [
+    24,
+    18,
+    15,
+    13,
+    12,
+    12.2,
+    12.7,
+    13.3,
+    15.1
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    },
+    {
+      "slug": "siedah-garrett",
+      "title": "Siedah Garrett",
+      "roleSlug": "backup"
+    },
+    {
+      "slug": "winans",
+      "title": "Winans, The",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.036,
+    0.097,
+    0.145,
+    0.171,
+    0.166,
+    0.152,
+    0.137,
+    0.095,
+    0.09,
+    0.08,
+    0.065,
+    0.045,
+    0.02,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 3.5,
+  "score": 1.2990000000000002,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "rank": 1489
+}

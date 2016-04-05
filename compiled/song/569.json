@@ -1,1 +1,68 @@
-{"title":"Someday","instanceSlug":569,"tags":[],"parents":[],"genre":"rock","debut":"1999-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,3.7,1.8,1.9,2.05,2.35,2.65,3.25,4.15,5.35,6.85,8.65,10.75,13.15,15.85,18.85,22.15,25.75,29.65,33.85,38.35,43.15,48.25,53.65],"artists":[{"slug":"sugar-ray","title":"Sugar Ray","roleSlug":true}],"debutRank":12,"peakRank":1.8,"duration":6,"score":21.42,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":253}
+{
+  "title": "Someday",
+  "instanceSlug": 569,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1999-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12,
+    3.7,
+    1.8,
+    1.9,
+    2.05,
+    2.35
+  ],
+  "artists": [
+    {
+      "slug": "sugar-ray",
+      "title": "Sugar Ray",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.563,
+    0.804,
+    0.786,
+    0.76,
+    0.715,
+    0.71,
+    0.7,
+    0.685,
+    0.665,
+    0.64,
+    0.61,
+    0.575,
+    0.535,
+    0.49,
+    0.44,
+    0.385,
+    0.325,
+    0.26,
+    0.19,
+    0.115,
+    0.035,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 11.158999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 253
+}

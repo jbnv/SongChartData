@@ -1,1 +1,25 @@
-{"title":"The Other Guy","instanceSlug":2039,"tags":[],"parents":[],"genre":"pop","debut":"1982-12","playlists":[],"ranks":[10,2.1,2.35],"artists":{"little-river-band":true}}
+{
+  "title": "The Other Guy",
+  "instanceSlug": 2039,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-12",
+  "playlists": [
+  ],
+  "ranks": [
+    10,
+    2.1,
+    2.35
+  ],
+  "artists": {
+    "little-river-band": true
+  },
+  "scores": [
+    0.232,
+    0.752,
+    0.715
+  ]
+}

@@ -1,1 +1,30 @@
-{"title":"Can't Stop","instanceSlug":156,"tags":["can't-stop"],"parents":[],"genre":"soul","debut":"1990-09","ranks":[12,6.4,3.4,1.8,1.89,2.6],"artists":{"after-7":true}}
+{
+  "title": "Can't Stop",
+  "instanceSlug": 156,
+  "tags": [
+    "can't-stop"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-09",
+  "ranks": [
+    12,
+    6.4,
+    3.4,
+    1.8,
+    1.89,
+    2.6
+  ],
+  "artists": {
+    "after-7": true
+  },
+  "scores": [
+    0.171,
+    0.381,
+    0.592,
+    0.804,
+    0.787,
+    0.681
+  ]
+}

@@ -1,1 +1,30 @@
-{"title":"Undercover Angel","instanceSlug":2629,"tags":[],"parents":[],"genre":"adult-contemporary","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"alan-o-day","title":"Alan O'Day","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1793}
+{
+  "title": "Undercover Angel",
+  "instanceSlug": 2629,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "alan-o-day",
+      "title": "Alan O'Day",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1793
+}

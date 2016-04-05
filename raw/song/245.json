@@ -1,9 +1,12 @@
 {
   "title": "Smooth Criminal",
   "instanceSlug": 245,
-  "tags": [],
-  "source":"bad",
-  "playlists": ["crime"],
+  "tags": [
+  ],
+  "source": "bad",
+  "playlists": [
+    "crime"
+  ],
   "genre": "dance-pop",
   "debut": "1988-11",
   "ranks": [
@@ -20,5 +23,16 @@
   "artists": {
     "michael-jackson": true
   },
-  "note":"8 weeks at #1."
+  "note": "8 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.973,
+    0.953,
+    0.931,
+    0.887,
+    0.853,
+    0.821,
+    0.784
+  ]
 }

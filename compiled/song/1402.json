@@ -1,1 +1,34 @@
-{"title":"If You Needed Somebody","instanceSlug":1402,"tags":["if","need","somebody","you"],"parents":[],"genre":"rock","debut":1990,"playlists":[],"ranks":[],"artists":[{"slug":"bad-company","title":"Bad Company","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2838}
+{
+  "title": "If You Needed Somebody",
+  "instanceSlug": 1402,
+  "tags": [
+    "if",
+    "need",
+    "somebody",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1990,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bad-company",
+      "title": "Bad Company",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 3032
+}

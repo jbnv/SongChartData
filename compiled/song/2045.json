@@ -1,1 +1,36 @@
-{"title":"Going Back to Cali","instanceSlug":2045,"tags":[],"parents":[],"genre":"rap","debut":"1988-04","source":{"title":"Less Than Zero","instanceSlug":"less-than-zero","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"ll-cool-j","title":"LL Cool J","roleSlug":true}],"genres":[{"slug":"rap","title":"Rap"}],"rank":2537}
+{
+  "title": "Going Back to Cali",
+  "instanceSlug": 2045,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1988-04",
+  "source": {
+    "title": "Less Than Zero",
+    "instanceSlug": "less-than-zero",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": [
+    {
+      "slug": "ll-cool-j",
+      "title": "LL Cool J",
+      "roleSlug": true
+    }
+  ],
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "rank": 2468
+}

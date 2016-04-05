@@ -1,16 +1,22 @@
 {
   "title": "Sara",
   "instanceSlug": 2748,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1980-01",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "fleetwood-mac": true,
     "lindsay-buckingham": "member",
     "christine-mcvie": "member",
     "stevie-nicks": "lead"
-  }
+  },
+  "scores": [
+  ]
 }

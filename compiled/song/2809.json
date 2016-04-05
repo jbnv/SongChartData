@@ -1,1 +1,30 @@
-{"title":"Cruel to Be Kind","instanceSlug":2809,"tags":[],"parents":[],"genre":"pop","debut":"1979-09","playlists":[],"ranks":[],"artists":[{"slug":"nick-lowe","title":"Nick Lowe","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1993}
+{
+  "title": "Cruel to Be Kind",
+  "instanceSlug": 2809,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1979-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "nick-lowe",
+      "title": "Nick Lowe",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1993
+}

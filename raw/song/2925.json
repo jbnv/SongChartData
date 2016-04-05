@@ -1,8 +1,10 @@
 {
   "title": "Living Inside Myself",
   "instanceSlug": 2925,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1981-04",
   "playlists": [
@@ -16,5 +18,11 @@
   ],
   "artists": {
     "gino-vannelli": true
-  }
+  },
+  "scores": [
+    0.086,
+    0.668,
+    0.912,
+    0.876
+  ]
 }

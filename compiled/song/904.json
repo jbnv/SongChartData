@@ -1,1 +1,66 @@
-{"title":"Lady (You Bring Me Up)","instanceSlug":904,"tags":[],"parents":[],"genre":"soul","debut":"1981-10","playlists":[],"ranks":[14,5,2,1.2,1.3,1.525,1.75,2.2,2.87,3.77,4.9,6.25,7.82,9.62,11.65,13.9,16.37,19.07,22,25.15,28.52,32.12,35.95,40,44.27,48.77,53.5,58.45],"artists":[{"slug":"commodores","title":"Commodores","roleSlug":true}],"debutRank":14,"peakRank":1.2,"duration":7,"score":25.89,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":111}
+{
+  "title": "Lady (You Bring Me Up)",
+  "instanceSlug": 904,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1981-10",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    5,
+    2,
+    1.2,
+    1.3,
+    1.525
+  ],
+  "artists": [
+    {
+      "slug": "commodores",
+      "title": "Commodores",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.463,
+    0.768,
+    0.939,
+    0.912,
+    0.859,
+    0.854,
+    0.844,
+    0.829,
+    0.809,
+    0.784,
+    0.754,
+    0.719,
+    0.679,
+    0.634,
+    0.584,
+    0.529,
+    0.469,
+    0.404,
+    0.334,
+    0.259,
+    0.179,
+    0.094,
+    0.004,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 6.25,
+  "score": 13.822999999999999,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 89
+}

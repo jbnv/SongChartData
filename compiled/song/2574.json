@@ -1,1 +1,32 @@
-{"title":"Lucille","instanceSlug":2574,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1732}
+{
+  "title": "Lucille",
+  "instanceSlug": 2574,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 1732
+}

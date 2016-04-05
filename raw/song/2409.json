@@ -1,1 +1,25 @@
-{"title":"Island Girl","instanceSlug":2409,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[12,1,1.13],"artists":{"elton-john":true}}
+{
+  "title": "Island Girl",
+  "instanceSlug": 2409,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    1,
+    1.13
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+    0.171,
+    1,
+    0.959
+  ]
+}

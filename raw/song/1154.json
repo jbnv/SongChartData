@@ -1,1 +1,23 @@
-{"title":"Into the Great Wide Open","instanceSlug":1154,"tags":["great","into","open","wide"],"parents":[],"genre":"rock","debut":1991,"playlists":[],"ranks":[],"artists":{"tom-petty":true}}
+{
+  "title": "Into the Great Wide Open",
+  "instanceSlug": 1154,
+  "tags": [
+    "great",
+    "into",
+    "open",
+    "wide"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "tom-petty": true
+  },
+  "scores": [
+  ]
+}

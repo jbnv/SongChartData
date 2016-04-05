@@ -1,1 +1,20 @@
-{"title":"Candy","instanceSlug":2651,"tags":[],"parents":[],"genre":"pop","debut":"1991-02","playlists":[],"ranks":[],"artists":{"iggy-pop":true,"kate-pierson":"backup"}}
+{
+  "title": "Candy",
+  "instanceSlug": 2651,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "iggy-pop": true,
+    "kate-pierson": "backup"
+  },
+  "scores": [
+  ]
+}

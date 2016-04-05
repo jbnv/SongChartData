@@ -1,8 +1,9 @@
 {
   "title": "Jam",
   "instanceSlug": 256,
-  "tags": [],
-  "source":"dangerous",
+  "tags": [
+  ],
+  "source": "dangerous",
   "genre": "pop",
   "debut": "1992-08",
   "ranks": [
@@ -15,5 +16,12 @@
   "artists": {
     "michael-jackson": true,
     "heavy-d": "backup"
-  }
+  },
+  "scores": [
+    0.003,
+    0.188,
+    0.376,
+    0.47,
+    0.414
+  ]
 }

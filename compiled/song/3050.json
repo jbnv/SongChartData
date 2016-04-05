@@ -1,1 +1,36 @@
-{"title":"Satisfied","instanceSlug":3050,"tags":["#1","#1-r&r"],"parents":[],"genre":"pop","debut":"1989-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"richard-marx","title":"Richard Marx","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2263}
+{
+  "title": "Satisfied",
+  "instanceSlug": 3050,
+  "tags": [
+    "#1",
+    "#1-r&r"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "richard-marx",
+      "title": "Richard Marx",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2263
+}

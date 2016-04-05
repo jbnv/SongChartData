@@ -1,1 +1,70 @@
-{"title":"Neutron Dance","instanceSlug":1632,"tags":["dance"],"parents":[],"genre":"dance","debut":"1985-01","source":{"title":"Beverly Hills Cop","instanceSlug":"beverly-hills-cop","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[18,10,5.8,3.9,4.19,4.65,5.11,6.03,7.41,9.25,11.55,14.31,17.53,21.21,25.35,29.95,35.01,40.53,46.51,52.95],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":18,"peakRank":3.9,"duration":5,"score":12.09,"genres":[{"slug":"dance","title":"Dance"}],"rank":813}
+{
+  "title": "Neutron Dance",
+  "instanceSlug": 1632,
+  "tags": [
+    "dance"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1985-01",
+  "source": {
+    "title": "Beverly Hills Cop",
+    "instanceSlug": "beverly-hills-cop",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    5.8,
+    3.9,
+    4.19,
+    4.65
+  ],
+  "artists": [
+    {
+      "slug": "pointer-sisters",
+      "title": "Pointer Sisters",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.232,
+    0.414,
+    0.546,
+    0.522,
+    0.487,
+    0.482,
+    0.472,
+    0.457,
+    0.437,
+    0.412,
+    0.382,
+    0.347,
+    0.307,
+    0.262,
+    0.212,
+    0.157,
+    0.097,
+    0.032,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 6.293,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "rank": 830
+}

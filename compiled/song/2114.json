@@ -1,1 +1,64 @@
-{"title":"Ventura Highway","instanceSlug":2114,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[16,10,6,4,2,2.5,3,4,5.5,7.5,10,13,16.5,20.5,25,30,35.5,41.5,48,55],"artists":[{"slug":"america","title":"America","roleSlug":true}],"debutRank":16,"peakRank":2,"duration":5,"score":15.26,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":579}
+{
+  "title": "Ventura Highway",
+  "instanceSlug": 2114,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    6,
+    4,
+    2,
+    2.5
+  ],
+  "artists": [
+    {
+      "slug": "america",
+      "title": "America",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.768,
+    0.694,
+    0.689,
+    0.679,
+    0.664,
+    0.644,
+    0.619,
+    0.589,
+    0.554,
+    0.514,
+    0.469,
+    0.419,
+    0.364,
+    0.304,
+    0.239,
+    0.169,
+    0.094,
+    0.014,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.75,
+  "score": 9.732000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 406
+}

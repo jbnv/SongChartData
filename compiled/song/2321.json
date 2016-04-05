@@ -1,1 +1,30 @@
-{"title":"Boogie Shoes","instanceSlug":2321,"tags":[],"parents":[],"genre":"disco","debut":"1978-04","playlists":[],"ranks":[],"artists":[{"slug":"kc","title":"KC & the Sunshine Band","roleSlug":true}],"genres":[{"slug":"disco","title":"Disco"}],"source":null,"rank":2935}
+{
+  "title": "Boogie Shoes",
+  "instanceSlug": 2321,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1978-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kc",
+      "title": "KC & the Sunshine Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "disco",
+      "title": "Disco"
+    }
+  ],
+  "source": null,
+  "rank": 2933
+}

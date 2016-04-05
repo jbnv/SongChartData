@@ -1,1 +1,30 @@
-{"title":"Sometimes When We Touch","instanceSlug":1854,"tags":[],"parents":[],"genre":"pop","debut":1978,"playlists":[],"ranks":[],"artists":[{"slug":"dan-hill","title":"Dan Hill","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1958}
+{
+  "title": "Sometimes When We Touch",
+  "instanceSlug": 1854,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1978,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "dan-hill",
+      "title": "Dan Hill",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1665
+}

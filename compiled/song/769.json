@@ -1,1 +1,66 @@
-{"title":"Harlem Shuffle","instanceSlug":769,"tags":["dances","places"],"parents":[],"genre":"rock","debut":"1986-04","playlists":[],"ranks":[12,3.7,2.2,1.95,1.85,2.2,2.55,3.25,4.3,5.7,7.45,9.55,12,14.8,17.95,21.45,25.3,29.5,34.05,38.95,44.2,49.8,55.75,62.05],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"debutRank":12,"peakRank":1.85,"duration":6,"score":20.7,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":291}
+{
+  "title": "Harlem Shuffle",
+  "instanceSlug": 769,
+  "tags": [
+    "dances",
+    "places"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3.7,
+    2.2,
+    1.95,
+    1.85,
+    2.2
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.563,
+    0.737,
+    0.777,
+    0.794,
+    0.737,
+    0.732,
+    0.722,
+    0.707,
+    0.687,
+    0.662,
+    0.632,
+    0.597,
+    0.557,
+    0.512,
+    0.462,
+    0.407,
+    0.347,
+    0.282,
+    0.212,
+    0.137,
+    0.057,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 11.491000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 235
+}

@@ -1,1 +1,71 @@
-{"title":"Pray","instanceSlug":2221,"tags":[],"parents":[],"genre":"rap","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,6,3.9,2.8,2.1,2.25,2.47,2.85,3.23,3.99,5.13,6.65,8.55,10.83,13.49,16.53,19.95,23.75,27.93,32.49,37.43,42.75,48.45,54.53],"artists":[{"slug":"mc-hammer","title":"MC Hammer","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":6,"score":21.73,"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":242}
+{
+  "title": "Pray",
+  "instanceSlug": 2221,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1990-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    13,
+    6,
+    3.9,
+    2.8,
+    2.1,
+    2.25,
+    2.47,
+    2.85
+  ],
+  "artists": [
+    {
+      "slug": "mc-hammer",
+      "title": "MC Hammer",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.402,
+    0.546,
+    0.656,
+    0.752,
+    0.729,
+    0.698,
+    0.65,
+    0.645,
+    0.635,
+    0.62,
+    0.6,
+    0.575,
+    0.545,
+    0.51,
+    0.47,
+    0.425,
+    0.375,
+    0.32,
+    0.26,
+    0.195,
+    0.125,
+    0.05,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 6,
+  "score": 10.928000000000003,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 270
+}

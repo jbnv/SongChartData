@@ -1,12 +1,26 @@
 {
   "title": 1979,
   "instanceSlug": 607,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": 1996,
-  "playlists": ["years"],
-  "ranks": [13,1.9,1,1.15],
+  "playlists": [
+    "years"
+  ],
+  "ranks": [
+    13,
+    1.9,
+    1,
+    1.15
+  ],
   "artists": {
     "smashing-pumpkins": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.786,
+    1,
+    0.953
+  ]
 }

@@ -1,1 +1,66 @@
-{"title":"One Week","instanceSlug":2845,"tags":["#1","#1-hot-100","#1-modern-rock"],"parents":[],"genre":"alternative-pop","debut":"1998-10","playlists":[],"ranks":[14,8.5,5.2,3.7,3,3.25,3.5,4,4.75,5.75,7,8.5,10.25,12.25,14.5,17,19.75,22.75,26,29.5,33.25,37.25,41.5,46,50.75,55.75,61,66.5],"artists":[{"slug":"barenaked-ladies","title":"Barenaked Ladies","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":7,"score":17.63,"genres":[{"slug":"alternative-pop","title":"Alternative Pop"}],"source":null,"rank":431}
+{
+  "title": "One Week",
+  "instanceSlug": 2845,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "alternative-pop",
+  "debut": "1998-10",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8.5,
+    5.2,
+    3.7,
+    3,
+    3.25
+  ],
+  "artists": [
+    {
+      "slug": "barenaked-ladies",
+      "title": "Barenaked Ladies",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.286,
+    0.45,
+    0.563,
+    0.633,
+    0.607,
+    0.602,
+    0.592,
+    0.577,
+    0.557,
+    0.532,
+    0.502,
+    0.467,
+    0.427,
+    0.382,
+    0.332,
+    0.277,
+    0.217,
+    0.152,
+    0.082,
+    0.007,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 8.363999999999999,
+  "genres": [
+    {
+      "slug": "alternative-pop",
+      "title": "Alternative Pop"
+    }
+  ],
+  "source": null,
+  "rank": 564
+}

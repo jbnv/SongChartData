@@ -1,1 +1,32 @@
-{"title":"Still Know Nothing About Me","instanceSlug":708,"tags":["know","nothing"],"parents":[],"genre":"rock","debut":"1993-10","playlists":[],"ranks":[],"artists":[{"slug":"sting","title":"Sting","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2732}
+{
+  "title": "Still Know Nothing About Me",
+  "instanceSlug": 708,
+  "tags": [
+    "know",
+    "nothing"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1993-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sting",
+      "title": "Sting",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2732
+}

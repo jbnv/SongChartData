@@ -1,1 +1,72 @@
-{"title":"Catch Me I'm Falling","instanceSlug":785,"tags":[],"parents":[],"genre":"dance","debut":"1987-10","playlists":[],"ranks":[15.1,8.6,4.6,2.4,2.3,2.35,2.4,2.5,2.65,2.9,3.5,4.1,5.3,7.1,9.5,12.5,16.1,20.3,25.1,30.5,36.5,43.1,50.3,58.1],"artists":[{"slug":"pretty-poison","title":"Pretty Poison","roleSlug":true}],"debutRank":15.1,"peakRank":2.3,"duration":6,"score":24.37,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":154}
+{
+  "title": "Catch Me I'm Falling",
+  "instanceSlug": 785,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    15.1,
+    8.6,
+    4.6,
+    2.4,
+    2.3,
+    2.35,
+    2.4,
+    2.5,
+    2.65,
+    2.9,
+    3.5
+  ],
+  "artists": [
+    {
+      "slug": "pretty-poison",
+      "title": "Pretty Poison",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.095,
+    0.282,
+    0.491,
+    0.708,
+    0.722,
+    0.715,
+    0.708,
+    0.694,
+    0.675,
+    0.645,
+    0.582,
+    0.577,
+    0.567,
+    0.552,
+    0.532,
+    0.507,
+    0.477,
+    0.442,
+    0.402,
+    0.357,
+    0.307,
+    0.252,
+    0.192,
+    0.127,
+    0.057,
+    0
+  ],
+  "debutScore": 0.095,
+  "peakScore": 0.095,
+  "duration": 6.5,
+  "score": 11.665000000000001,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 224
+}

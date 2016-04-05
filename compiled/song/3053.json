@@ -1,1 +1,59 @@
-{"title":"Chains","instanceSlug":3053,"tags":[],"parents":[],"genre":"pop","debut":"2015-06","playlists":[],"ranks":[18,10,5,4,4.3,4.6,5.2,6.1,7.3,8.8,10.6,12.7,15.1,17.8,20.8,24.1,27.7,31.6,35.8,40.3,45.1,50.2,55.6,61.3],"artists":[{"slug":"nick-jonas","title":"Nick Jonas","roleSlug":true}],"debutRank":18,"peakRank":4,"duration":6,"score":12.71,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":767}
+{
+  "title": "Chains",
+  "instanceSlug": 3053,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-06",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    5,
+    4,
+    4.3
+  ],
+  "artists": [
+    {
+      "slug": "nick-jonas",
+      "title": "Nick Jonas",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.232,
+    0.463,
+    0.537,
+    0.513,
+    0.508,
+    0.498,
+    0.483,
+    0.463,
+    0.438,
+    0.408,
+    0.373,
+    0.333,
+    0.288,
+    0.238,
+    0.183,
+    0.123,
+    0.058,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.75,
+  "score": 6.175000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 842
+}

@@ -1,1 +1,29 @@
-{"title":"You'll Accompany Me","instanceSlug":2607,"tags":[],"parents":[],"genre":"rock","debut":"1980-09","playlists":["ballad","love"],"ranks":[15,5,1.5,1.61],"artists":{"bob-seger":true}}
+{
+  "title": "You'll Accompany Me",
+  "instanceSlug": 2607,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-09",
+  "playlists": [
+    "ballad",
+    "love"
+  ],
+  "ranks": [
+    15,
+    5,
+    1.5,
+    1.61
+  ],
+  "artists": {
+    "bob-seger": true
+  },
+  "scores": [
+    0.097,
+    0.463,
+    0.864,
+    0.841
+  ]
+}

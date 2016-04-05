@@ -1,1 +1,22 @@
-{"title":"Stuck on You","instanceSlug":2704,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1984-07","playlists":["ballad"],"ranks":[],"artists":{"lionel-richie":true}}
+{
+  "title": "Stuck on You",
+  "instanceSlug": 2704,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "lionel-richie": true
+  },
+  "scores": [
+  ]
+}

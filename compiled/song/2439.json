@@ -1,1 +1,30 @@
-{"title":"Body Language","instanceSlug":2439,"tags":[],"parents":[],"genre":"rock","debut":"1982-06","playlists":[],"ranks":[],"artists":[{"slug":"queen","title":"Queen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1582}
+{
+  "title": "Body Language",
+  "instanceSlug": 2439,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "queen",
+      "title": "Queen",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1582
+}

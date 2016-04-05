@@ -1,1 +1,61 @@
-{"title":"Raspberry Beret","instanceSlug":1641,"tags":["#2"],"parents":[],"genre":"pop","debut":"1985-06","playlists":[],"ranks":[18,13,10,8.2,6,6.5,7.9,9.3,12.1,16.3,21.9,28.9,37.3,47.1,58.3,70.9],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":18,"peakRank":6,"duration":4,"score":6.89,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1197}
+{
+  "title": "Raspberry Beret",
+  "instanceSlug": 1641,
+  "tags": [
+    "#2"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-06",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    13,
+    10,
+    8.2,
+    6,
+    6.5,
+    7.9
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.145,
+    0.232,
+    0.298,
+    0.402,
+    0.376,
+    0.311,
+    0.306,
+    0.296,
+    0.281,
+    0.261,
+    0.236,
+    0.206,
+    0.171,
+    0.131,
+    0.086,
+    0.036,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.5,
+  "score": 3.8099999999999996,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1190
+}

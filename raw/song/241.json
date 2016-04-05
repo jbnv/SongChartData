@@ -4,8 +4,13 @@
   "tags": [
     "a:smokey-robinson"
   ],
-  "words": ["smoky","sing"],
-  "playlists": ["tribute"],
+  "words": [
+    "smoky",
+    "sing"
+  ],
+  "playlists": [
+    "tribute"
+  ],
   "genre": "pop",
   "debut": "1987-08",
   "ranks": [
@@ -18,5 +23,13 @@
   ],
   "artists": {
     "abc": true
-  }
+  },
+  "scores": [
+    0.003,
+    0.177,
+    0.351,
+    0.332,
+    0.302,
+    0.253
+  ]
 }

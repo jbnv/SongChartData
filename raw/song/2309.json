@@ -1,1 +1,20 @@
-{"title":"Think of Laura","instanceSlug":2309,"tags":["#1","#1-adult-contemporary","women"],"parents":[],"genre":"adult-contemporary","debut":"1984-01","source":"general-hospital","playlists":[],"ranks":true,"artists":{"christopher-cross":true}}
+{
+  "title": "Think of Laura",
+  "instanceSlug": 2309,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "women"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1984-01",
+  "source": "general-hospital",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "christopher-cross": true
+  }
+}

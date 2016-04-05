@@ -1,1 +1,60 @@
-{"title":"Every Little Step","instanceSlug":1712,"tags":[],"parents":[],"genre":"pop","debut":"1989-04","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[20,16,12.5,9.8,9.5,10,13.5,17,24,34.5,48.5,66],"artists":[{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":true}],"debutRank":20,"peakRank":9.5,"duration":3,"score":3.43,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1428}
+{
+  "title": "Every Little Step",
+  "instanceSlug": 1712,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-04",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    20,
+    16,
+    12.5,
+    9.8,
+    9.5,
+    10,
+    13.5
+  ],
+  "artists": [
+    {
+      "slug": "bobby-brown",
+      "title": "Bobby Brown",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.075,
+    0.158,
+    0.239,
+    0.249,
+    0.232,
+    0.132,
+    0.127,
+    0.117,
+    0.102,
+    0.082,
+    0.057,
+    0.027,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 3.5,
+  "score": 1.5979999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1452
+}

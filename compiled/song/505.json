@@ -1,1 +1,76 @@
-{"title":"Batdance","instanceSlug":505,"tags":["#1"],"parents":[],"genre":"pop","debut":"1989-07","source":{"title":"Batman","instanceSlug":"batman","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[13,5.7,4.9,4.16,3.8,3.5,3.35,3.7,4.37,5.04,6.38,8.39,11.07,14.42,18.44,23.13,28.49,34.52,41.22,48.59,56.63,65.34,74.72,84.77],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":13,"peakRank":3.35,"duration":6,"score":17.52,"genres":[{"slug":"pop","title":"Pop"}],"rank":435}
+{
+  "title": "Batdance",
+  "instanceSlug": 505,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-07",
+  "source": {
+    "title": "Batman",
+    "instanceSlug": "batman",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5.7,
+    4.9,
+    4.16,
+    3.8,
+    3.5,
+    3.35,
+    3.7,
+    4.37
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.419,
+    0.47,
+    0.524,
+    0.554,
+    0.582,
+    0.597,
+    0.563,
+    0.508,
+    0.503,
+    0.493,
+    0.478,
+    0.458,
+    0.433,
+    0.403,
+    0.368,
+    0.328,
+    0.283,
+    0.233,
+    0.178,
+    0.118,
+    0.053,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.75,
+  "score": 8.691000000000004,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 511
+}

@@ -1,1 +1,20 @@
-{"title":"Kiss from a Rose","instanceSlug":58,"tags":["1990s","1995","flower","kiss","rose"],"parents":[],"ranks":[],"artists":{"seal":true}}
+{
+  "title": "Kiss from a Rose",
+  "instanceSlug": 58,
+  "tags": [
+    "1990s",
+    "1995",
+    "flower",
+    "kiss",
+    "rose"
+  ],
+  "parents": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "seal": true
+  },
+  "scores": [
+  ]
+}

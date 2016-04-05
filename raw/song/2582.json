@@ -1,1 +1,34 @@
-{"title":"California Love","instanceSlug":2582,"tags":[],"parents":[],"genre":"urban","debut":"1996-07","playlists":["summer"],"ranks":[15,9,6,4.5,3,3.7],"artists":{"2-pac":true,"dr-dre":"feature","roger":"feature"}}
+{
+  "title": "California Love",
+  "instanceSlug": 2582,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1996-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3,
+    3.7
+  ],
+  "artists": {
+    "2-pac": true,
+    "dr-dre": "feature",
+    "roger": "feature"
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.633,
+    0.563
+  ]
+}

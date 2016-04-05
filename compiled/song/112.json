@@ -1,1 +1,60 @@
-{"title":"We Built This City","instanceSlug":112,"tags":["build","city","this"],"parents":[],"genre":"pop","debut":"1985-08","ranks":[17.9,10.6,7.3,9.9,13.3,17.8,24,32.2,43.2,58.1,78,104.7],"artists":[{"slug":"starship","title":"Jefferson Airplane / Jefferson Starship / Starship","roleSlug":true}],"debutRank":17.9,"peakRank":7.3,"duration":3,"score":3.01,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1462}
+{
+  "title": "We Built This City",
+  "instanceSlug": 112,
+  "tags": [
+    "build",
+    "city",
+    "this"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    9.9,
+    13.3,
+    17.8,
+    24,
+    32.2,
+    43.2,
+    58.1,
+    78,
+    104.7
+  ],
+  "artists": [
+    {
+      "slug": "starship",
+      "title": "Jefferson Airplane / Jefferson Starship / Starship",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.235,
+    0.137,
+    0.04,
+    0.035,
+    0.025,
+    0.01,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 2.5,
+  "score": 1.0699999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1506
+}

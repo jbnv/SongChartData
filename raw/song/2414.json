@@ -1,1 +1,20 @@
-{"title":"Nikita","instanceSlug":2414,"tags":[],"parents":[],"genre":"pop","debut":"1986-02","playlists":[],"ranks":[],"artists":{"elton-john":true,"george-michael":"backup"}}
+{
+  "title": "Nikita",
+  "instanceSlug": 2414,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true,
+    "george-michael": "backup"
+  },
+  "scores": [
+  ]
+}

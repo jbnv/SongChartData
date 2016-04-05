@@ -1,1 +1,20 @@
-{"title":"The One You Love","instanceSlug":665,"tags":["the-one"],"parents":[],"genre":"pop","debut":"1982-09","playlists":[],"ranks":[],"artists":{"glenn-frye":true}}
+{
+  "title": "The One You Love",
+  "instanceSlug": 665,
+  "tags": [
+    "the-one"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "glenn-frye": true
+  },
+  "scores": [
+  ]
+}

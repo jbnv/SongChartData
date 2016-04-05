@@ -1,1 +1,82 @@
-{"title":"Paperback Writer","instanceSlug":1449,"tags":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[16.5,6,3.6,3.2,3.17,3.4,3.9,4.4,5.4,6.9,8.9,11.4,14.4,17.9,21.9,26.4,31.4,36.9,42.9,49.4,56.4,63.9,71.9,80.4],"artists":[{"slug":"beatles","title":"Beatles","roleSlug":true},{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":"lead"},{"slug":"john-lennon","title":"John Lennon","roleSlug":"member"},{"slug":"george-harrison","title":"George Harrison","roleSlug":"member"},{"slug":"ringo-starr","title":"Ringo Starr","roleSlug":"member"}],"debutRank":16.5,"peakRank":3.17,"duration":6,"score":15.95,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":540}
+{
+  "title": "Paperback Writer",
+  "instanceSlug": 1449,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    6,
+    3.6,
+    3.2,
+    3.17,
+    3.4,
+    3.9
+  ],
+  "artists": [
+    {
+      "slug": "beatles",
+      "title": "Beatles",
+      "roleSlug": true
+    },
+    {
+      "slug": "paul-mccartney",
+      "title": "Paul McCartney",
+      "roleSlug": "lead"
+    },
+    {
+      "slug": "john-lennon",
+      "title": "John Lennon",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "george-harrison",
+      "title": "George Harrison",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "ringo-starr",
+      "title": "Ringo Starr",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.065,
+    0.402,
+    0.573,
+    0.612,
+    0.615,
+    0.592,
+    0.546,
+    0.541,
+    0.531,
+    0.516,
+    0.496,
+    0.471,
+    0.441,
+    0.406,
+    0.366,
+    0.321,
+    0.271,
+    0.216,
+    0.156,
+    0.091,
+    0.021,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 5.5,
+  "score": 8.249,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 578
+}

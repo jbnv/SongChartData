@@ -1,1 +1,78 @@
-{"title":"Bad","instanceSlug":25,"tags":["#1-hot-100","#1-r&b"],"playlists":[{"slug":"organ"},{"slug":"weird-al"}],"genres":[{"slug":"soul","title":"Soul"},{"slug":"pop","title":"Pop"}],"debut":"1987-09","ranks":[15,3.5,1.25,1.35,1.45,1.65,1.95,2.35,2.85,3.45,4.15,4.95,5.85,6.85,7.95,9.15,10.45,11.85,13.35,14.95,16.65,18.45,20.35,22.35,24.45,26.65,28.95,31.35,33.85,36.45,39.15,41.95,44.85,47.85,50.95,54.15],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":15,"peakRank":1.25,"duration":9,"score":29.99,"rank":49}
+{
+  "title": "Bad",
+  "instanceSlug": 25,
+  "tags": [
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "playlists": [
+    {
+      "slug": "organ"
+    },
+    {
+      "slug": "weird-al"
+    }
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "debut": "1987-09",
+  "ranks": [
+    15,
+    3.5,
+    1.25,
+    1.35
+  ],
+  "source": {
+    "title": "Bad",
+    "instanceSlug": "bad",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.582,
+    0.925,
+    0.899,
+    0.894,
+    0.884,
+    0.869,
+    0.849,
+    0.824,
+    0.794,
+    0.759,
+    0.719,
+    0.674,
+    0.624,
+    0.569,
+    0.509,
+    0.444,
+    0.374,
+    0.299,
+    0.219,
+    0.134,
+    0.044,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 12.985000000000001,
+  "rank": 133
+}

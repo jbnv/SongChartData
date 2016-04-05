@@ -1,1 +1,61 @@
-{"title":"Slow Motion","instanceSlug":1110,"tags":[],"parents":[],"genre":"pop","debut":"1992-06","playlists":[],"ranks":[17,11.5,8,6.5,6,6.2,7,7.8,9.4,11.8,15,19,23.8,29.4,35.8,43,51,59.8,69.4,79.8],"artists":[{"slug":"color-me-badd","title":"Color Me Badd","roleSlug":true}],"debutRank":17,"peakRank":6,"duration":5,"score":8.8,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1060}
+{
+  "title": "Slow Motion",
+  "instanceSlug": 1110,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-06",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.5,
+    8,
+    6.5,
+    6,
+    6.2,
+    7
+  ],
+  "artists": [
+    {
+      "slug": "color-me-badd",
+      "title": "Color Me Badd",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.185,
+    0.306,
+    0.376,
+    0.402,
+    0.391,
+    0.351,
+    0.346,
+    0.336,
+    0.321,
+    0.301,
+    0.276,
+    0.246,
+    0.211,
+    0.171,
+    0.126,
+    0.076,
+    0.021,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.75,
+  "score": 4.497,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1075
+}

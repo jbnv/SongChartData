@@ -1,1 +1,52 @@
-{"title":"If She Knew What She Wants","instanceSlug":846,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","playlists":[],"ranks":[18.9,11.4,9.5,10.7,11.9,14.3,17.9,22.7,28.7,35.9,44.3,53.9],"artists":[{"slug":"bangles","title":"Bangles","roleSlug":true}],"debutRank":18.9,"peakRank":9.5,"duration":3,"score":2.98,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1465}
+{
+  "title": "If She Knew What She Wants",
+  "instanceSlug": 846,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-06",
+  "playlists": [
+  ],
+  "ranks": [
+    18.9,
+    11.4,
+    9.5,
+    10.7
+  ],
+  "artists": [
+    {
+      "slug": "bangles",
+      "title": "Bangles",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.02,
+    0.188,
+    0.249,
+    0.209,
+    0.204,
+    0.194,
+    0.179,
+    0.159,
+    0.134,
+    0.104,
+    0.069,
+    0.029,
+    0
+  ],
+  "debutScore": 0.02,
+  "peakScore": 0.02,
+  "duration": 3.25,
+  "score": 1.738,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1436
+}

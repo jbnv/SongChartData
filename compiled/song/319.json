@@ -1,1 +1,59 @@
-{"title":"Straight Up","instanceSlug":319,"tags":[],"parents":[],"genre":"pop","debut":"1989-01","playlists":[],"ranks":[17.6,8.6,6.6,5.9,6.1,6.8,7.5,8.9,11,13.8,17.3,21.5,26.4,32,38.3,45.3,53,61.4,70.5,80.3],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":17.6,"peakRank":5.9,"duration":5,"score":8.52,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1075}
+{
+  "title": "Straight Up",
+  "instanceSlug": 319,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-01",
+  "playlists": [
+  ],
+  "ranks": [
+    17.6,
+    8.6,
+    6.6,
+    5.9,
+    6.1,
+    6.8
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.044,
+    0.282,
+    0.37,
+    0.408,
+    0.397,
+    0.361,
+    0.356,
+    0.346,
+    0.331,
+    0.311,
+    0.286,
+    0.256,
+    0.221,
+    0.181,
+    0.136,
+    0.086,
+    0.031,
+    0
+  ],
+  "debutScore": 0.044,
+  "peakScore": 0.044,
+  "duration": 4.5,
+  "score": 4.4030000000000005,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1102
+}

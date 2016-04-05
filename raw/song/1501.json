@@ -1,1 +1,21 @@
-{"title":"Shake Your Bonbon","instanceSlug":1501,"tags":["shake","your"],"parents":[],"genre":"latin","debut":"1999-11","playlists":[],"ranks":[],"artists":{"ricky-martin":true}}
+{
+  "title": "Shake Your Bonbon",
+  "instanceSlug": 1501,
+  "tags": [
+    "shake",
+    "your"
+  ],
+  "parents": [
+  ],
+  "genre": "latin",
+  "debut": "1999-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "ricky-martin": true
+  },
+  "scores": [
+  ]
+}

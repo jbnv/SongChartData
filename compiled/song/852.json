@@ -1,1 +1,64 @@
-{"title":"Music","instanceSlug":852,"tags":["#1"],"parents":[],"genre":"pop","debut":"2000-09","playlists":[],"ranks":[15.9,9,5,3,2.52,2.9,3.28,4.04,5.18,6.7,8.6,10.88,13.54,16.58,20,23.8,27.98,32.54,37.48,42.8,48.5,54.58,61.04,67.88],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":15.9,"peakRank":2.52,"duration":6,"score":16.26,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":518}
+{
+  "title": "Music",
+  "instanceSlug": 852,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9,
+    5,
+    3,
+    2.52,
+    2.9
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.267,
+    0.463,
+    0.633,
+    0.691,
+    0.645,
+    0.64,
+    0.63,
+    0.615,
+    0.595,
+    0.57,
+    0.54,
+    0.505,
+    0.465,
+    0.42,
+    0.37,
+    0.315,
+    0.255,
+    0.19,
+    0.12,
+    0.045,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 5.5,
+  "score": 9.050999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 472
+}

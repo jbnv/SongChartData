@@ -1,1 +1,30 @@
-{"title":"My Girl","instanceSlug":793,"tags":[],"parents":[],"genre":"urban","debut":"1988-05","playlists":["remake"],"ranks":[17,10.1,8,6,6.7],"artists":{"suave":true}}
+{
+  "title": "My Girl",
+  "instanceSlug": 793,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1988-05",
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [
+    17,
+    10.1,
+    8,
+    6,
+    6.7
+  ],
+  "artists": {
+    "suave": true
+  },
+  "scores": [
+    0.055,
+    0.229,
+    0.306,
+    0.402,
+    0.365
+  ]
+}

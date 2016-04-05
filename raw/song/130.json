@@ -1,8 +1,10 @@
 {
   "title": "Two Occasions",
   "instanceSlug": 130,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "soul",
   "debut": "1988-05",
   "ranks": [
@@ -16,5 +18,13 @@
   "artists": {
     "deele": true,
     "babyface": "lead"
-  }
+  },
+  "scores": [
+    0.232,
+    0.656,
+    0.864,
+    0.887,
+    0.833,
+    0.752
+  ]
 }

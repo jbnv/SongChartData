@@ -1,1 +1,30 @@
-{"title":"Possession","instanceSlug":"possession-1990","tags":[],"parents":[],"debut":"1990-07","playlists":[],"ranks":[],"artists":[{"slug":"bad-english","title":"Bad English","roleSlug":true},{"slug":"jon-waite","title":"Jon Waite","roleSlug":"lead"}],"genres":[],"source":null,"rank":3098}
+{
+  "title": "Possession",
+  "instanceSlug": "possession-1990",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": "1990-07",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bad-english",
+      "title": "Bad English",
+      "roleSlug": true
+    },
+    {
+      "slug": "jon-waite",
+      "title": "Jon Waite",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 3100
+}

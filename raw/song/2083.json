@@ -1,1 +1,29 @@
-{"title":"Amazing","instanceSlug":2083,"tags":[],"parents":[],"genre":"rock","debut":"1994-01","playlists":[],"ranks":[24,19,16,14,15.7],"artists":{"aerosmith":true,"don-henley":"backup"}}
+{
+  "title": "Amazing",
+  "instanceSlug": 2083,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1994-01",
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    19,
+    16,
+    14,
+    15.7
+  ],
+  "artists": {
+    "aerosmith": true,
+    "don-henley": "backup"
+  },
+  "scores": [
+    0.018,
+    0.075,
+    0.12,
+    0.082
+  ]
+}

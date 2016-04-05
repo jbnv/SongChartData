@@ -1,1 +1,35 @@
-{"title":"The Long Run","instanceSlug":2467,"tags":[],"parents":[],"genre":"rock","debut":"1979-12","playlists":[],"ranks":[],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"don-henley","title":"Don Henley","roleSlug":"lead"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1613}
+{
+  "title": "The Long Run",
+  "instanceSlug": 2467,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1979-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "eagles",
+      "title": "Eagles",
+      "roleSlug": true
+    },
+    {
+      "slug": "don-henley",
+      "title": "Don Henley",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1613
+}

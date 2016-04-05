@@ -1,1 +1,33 @@
-{"title":"Motortown","instanceSlug":1455,"tags":[],"parents":[],"genre":"pop","debut":"1988-01","playlists":[],"ranks":[16,10,7,5.5,4.6,4,4.7],"artists":{"kane-gang":true}}
+{
+  "title": "Motortown",
+  "instanceSlug": 1455,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.5,
+    4.6,
+    4,
+    4.7
+  ],
+  "artists": {
+    "kane-gang": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.431,
+    0.491,
+    0.537,
+    0.484
+  ]
+}

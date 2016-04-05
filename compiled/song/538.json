@@ -1,1 +1,60 @@
-{"title":"I Could Not Ask for More","instanceSlug":538,"tags":[],"parents":[],"genre":"pop","debut":"1999-08","playlists":[],"ranks":[19,11.3,6.4,4.35,4.45,5.8,7.15,9.85,13.9,19.3,26.05,34.15,43.6,54.4,66.55,80.05],"artists":[{"slug":"edwin-mccain","title":"Edwin McCain","roleSlug":true}],"debutRank":19,"peakRank":4.35,"duration":4,"score":8.21,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1093}
+{
+  "title": "I Could Not Ask for More",
+  "instanceSlug": 538,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-08",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    11.3,
+    6.4,
+    4.35,
+    4.45,
+    5.8
+  ],
+  "artists": [
+    {
+      "slug": "edwin-mccain",
+      "title": "Edwin McCain",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.191,
+    0.381,
+    0.509,
+    0.502,
+    0.414,
+    0.409,
+    0.399,
+    0.384,
+    0.364,
+    0.339,
+    0.309,
+    0.274,
+    0.234,
+    0.189,
+    0.139,
+    0.084,
+    0.024,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 4.75,
+  "score": 5.162999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 987
+}

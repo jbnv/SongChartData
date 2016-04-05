@@ -1,1 +1,30 @@
-{"title":"Money Changes Everything","instanceSlug":1752,"tags":[],"parents":[],"genre":"pop","debut":"1985-01","playlists":[],"ranks":[],"artists":[{"slug":"cyndi-lauper","title":"Cyndi Lauper","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2890}
+{
+  "title": "Money Changes Everything",
+  "instanceSlug": 1752,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "cyndi-lauper",
+      "title": "Cyndi Lauper",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2537
+}

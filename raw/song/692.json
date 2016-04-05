@@ -1,1 +1,27 @@
-{"title":"One Thing Leads to Another","instanceSlug":692,"tags":[],"parents":[],"genre":"electro-pop","debut":"1983-09","playlists":[],"ranks":[12,4.5,1.2,1.45],"artists":{"the-fixx":true}}
+{
+  "title": "One Thing Leads to Another",
+  "instanceSlug": 692,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "electro-pop",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4.5,
+    1.2,
+    1.45
+  ],
+  "artists": {
+    "the-fixx": true
+  },
+  "scores": [
+    0.171,
+    0.498,
+    0.939,
+    0.876
+  ]
+}

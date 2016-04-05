@@ -1,1 +1,23 @@
-{"title":"Jukebox in My Mind","instanceSlug":1399,"tags":["jukebox","mind","my","this-in-that"],"parents":[],"genre":"country","debut":1990,"playlists":[],"ranks":[],"artists":{"alabama":true}}
+{
+  "title": "Jukebox in My Mind",
+  "instanceSlug": 1399,
+  "tags": [
+    "jukebox",
+    "mind",
+    "my",
+    "this-in-that"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1990,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "alabama": true
+  },
+  "scores": [
+  ]
+}

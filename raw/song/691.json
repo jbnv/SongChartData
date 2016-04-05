@@ -1,1 +1,35 @@
-{"title":"Blue Jean","instanceSlug":691,"tags":[],"parents":[],"genre":"pop","debut":"1984-10","playlists":[],"ranks":[19,13,10,8.5,7.6,7,7.2,7.99],"artists":{"david-bowie":true}}
+{
+  "title": "Blue Jean",
+  "instanceSlug": 691,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-10",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    13,
+    10,
+    8.5,
+    7.6,
+    7,
+    7.2,
+    7.99
+  ],
+  "artists": {
+    "david-bowie": true
+  },
+  "scores": [
+    0.018,
+    0.145,
+    0.232,
+    0.286,
+    0.323,
+    0.351,
+    0.341,
+    0.307
+  ]
+}

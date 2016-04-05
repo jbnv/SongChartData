@@ -1,1 +1,64 @@
-{"title":"New Sensation","instanceSlug":2513,"tags":[],"parents":[],"genre":"rock","debut":"1988-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[20,13,9,7.6,6.5,6.9,8.4,9.9,12.9,17.4,23.4,30.9,39.9,50.4,62.4,75.9],"artists":[{"slug":"inxs","title":"INXS","roleSlug":true}],"debutRank":20,"peakRank":6.5,"duration":4,"score":6.58,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1228}
+{
+  "title": "New Sensation",
+  "instanceSlug": 2513,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    20,
+    13,
+    9,
+    7.6,
+    6.5,
+    6.9,
+    8.4
+  ],
+  "artists": [
+    {
+      "slug": "inxs",
+      "title": "INXS",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.145,
+    0.267,
+    0.323,
+    0.376,
+    0.356,
+    0.29,
+    0.285,
+    0.275,
+    0.26,
+    0.24,
+    0.215,
+    0.185,
+    0.15,
+    0.11,
+    0.065,
+    0.015,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.5,
+  "score": 3.5580000000000003,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1228
+}

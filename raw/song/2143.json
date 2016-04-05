@@ -1,1 +1,20 @@
-{"title":"I Wish","instanceSlug":2143,"tags":["#1"],"parents":[],"genre":"urban","debut":1977,"playlists":[],"ranks":[],"artists":{"stevie-wonder":true}}
+{
+  "title": "I Wish",
+  "instanceSlug": 2143,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+  ]
+}

@@ -1,11 +1,26 @@
 {
   "title": "Fake",
   "instanceSlug": 223,
-  "tags": ["#1","#1-r&b"],
-  "genres":["soul","urban"],
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genres": [
+    "soul",
+    "urban"
+  ],
   "debut": "1987-09",
-  "ranks": [10.3,1.2,1.4],
+  "ranks": [
+    10.3,
+    1.2,
+    1.4
+  ],
   "artists": {
     "alexander-o-neal": true
-  }
+  },
+  "scores": [
+    0.222,
+    0.939,
+    0.887
+  ]
 }

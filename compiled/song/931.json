@@ -1,1 +1,58 @@
-{"title":"Be Near Me","instanceSlug":931,"tags":[],"parents":[],"genre":"pop","debut":"1985-10","playlists":[],"ranks":[17,9.7,5.6,4.5,5.2,5.9,7.3,9.4,12.2,15.7,19.9,24.8,30.4,36.7,43.7,51.4],"artists":[{"slug":"abc","title":"ABC","roleSlug":true}],"debutRank":17,"peakRank":4.5,"duration":4,"score":8.77,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1062}
+{
+  "title": "Be Near Me",
+  "instanceSlug": 931,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.7,
+    5.6,
+    4.5,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "abc",
+      "title": "ABC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.242,
+    0.425,
+    0.498,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.5,
+  "score": 5.249999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 970
+}

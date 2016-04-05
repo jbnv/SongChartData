@@ -1,1 +1,30 @@
-{"title":"Bang a Gong (Get it On)","instanceSlug":2823,"tags":[],"parents":[],"genre":"rock","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"t-rex","title":"T. Rex","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2009}
+{
+  "title": "Bang a Gong (Get it On)",
+  "instanceSlug": 2823,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "t-rex",
+      "title": "T. Rex",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2009
+}

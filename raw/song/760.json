@@ -1,1 +1,33 @@
-{"title":"Adult Education","instanceSlug":760,"tags":[],"parents":[],"genre":"rock","debut":"1984-03","playlists":[],"ranks":[17,10,8.1,6.5,6.2,6.4,7.1],"artists":{"hall-oates":true}}
+{
+  "title": "Adult Education",
+  "instanceSlug": 760,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-03",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    8.1,
+    6.5,
+    6.2,
+    6.4,
+    7.1
+  ],
+  "artists": {
+    "hall-oates": true
+  },
+  "scores": [
+    0.055,
+    0.232,
+    0.302,
+    0.376,
+    0.391,
+    0.381,
+    0.346
+  ]
+}

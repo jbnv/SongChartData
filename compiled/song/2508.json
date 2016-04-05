@@ -1,1 +1,74 @@
-{"title":"Bad Boys","instanceSlug":2508,"tags":["rerelease"],"parents":[],"genre":"reggae","debut":"1993-06","source":{"instanceSlug":"cops","title":"Cops","type":"tv"},"playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[15,7,4.5,4,4.18,4.55,4.92,5.66,6.77,8.25,10.1,12.32,14.91,17.87,21.2,24.9,28.97,33.41,38.22,43.4,48.95,54.87,61.16,67.82],"artists":[{"slug":"inner-circle","title":"Inner Circle","roleSlug":true}],"debutRank":15,"peakRank":4,"duration":6,"score":13.75,"genres":[{"slug":"reggae","title":"Reggae"}],"rank":690}
+{
+  "title": "Bad Boys",
+  "instanceSlug": 2508,
+  "tags": [
+    "rerelease"
+  ],
+  "parents": [
+  ],
+  "genre": "reggae",
+  "debut": "1993-06",
+  "source": {
+    "instanceSlug": "cops",
+    "title": "Cops",
+    "type": "tv"
+  },
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    },
+    {
+      "slug": "tv-theme",
+      "title": "TV Show Themes"
+    }
+  ],
+  "ranks": [
+    15,
+    7,
+    4.5,
+    4,
+    4.18,
+    4.55
+  ],
+  "artists": [
+    {
+      "slug": "inner-circle",
+      "title": "Inner Circle",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.351,
+    0.498,
+    0.537,
+    0.523,
+    0.494,
+    0.489,
+    0.479,
+    0.464,
+    0.444,
+    0.419,
+    0.389,
+    0.354,
+    0.314,
+    0.269,
+    0.219,
+    0.164,
+    0.104,
+    0.039,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5,
+  "score": 6.647,
+  "genres": [
+    {
+      "slug": "reggae",
+      "title": "Reggae"
+    }
+  ],
+  "rank": 784
+}

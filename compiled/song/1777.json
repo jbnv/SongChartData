@@ -1,1 +1,67 @@
-{"title":"You're the Inspiration","instanceSlug":1777,"tags":[],"parents":[],"genres":[{"slug":"rock","title":"Rock"},{"slug":"pop","title":"Pop"}],"debut":"1984-12","playlists":[],"source":{"title":"Chicago 17","instanceSlug":"chicago17","tags":["chicago"],"type":"album"},"ranks":[24,18,15,12,13,14.8,16.6,20.2,25.6,32.8,41.8,52.6],"artists":[{"slug":"chicago","title":"Chicago","roleSlug":true},{"slug":"david-foster","title":"David Foster","roleSlug":"producer"}],"debutRank":24,"peakRank":12,"duration":3,"score":1.85,"rank":1517}
+{
+  "title": "You're the Inspiration",
+  "instanceSlug": 1777,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "debut": "1984-12",
+  "playlists": [
+  ],
+  "source": {
+    "title": "Chicago 17",
+    "instanceSlug": "chicago17",
+    "tags": [
+      "chicago"
+    ],
+    "type": "album"
+  },
+  "ranks": [
+    24,
+    18,
+    15,
+    12,
+    13,
+    14.8
+  ],
+  "artists": [
+    {
+      "slug": "chicago",
+      "title": "Chicago",
+      "roleSlug": true
+    },
+    {
+      "slug": "david-foster",
+      "title": "David Foster",
+      "roleSlug": "producer"
+    }
+  ],
+  "scores": [
+    0.036,
+    0.097,
+    0.171,
+    0.145,
+    0.101,
+    0.096,
+    0.086,
+    0.071,
+    0.051,
+    0.026,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 2.75,
+  "score": 0.88,
+  "rank": 1523
+}

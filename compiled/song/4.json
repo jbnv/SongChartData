@@ -1,1 +1,50 @@
-{"title":"She's So Cold","instanceSlug":4,"tags":[],"parents":[],"genre":"rock","debut":"1980-11","ranks":[17.9,10.7,9.3,13.2,17.1,24.9,36.6,52.2],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":null}],"debutRank":17.9,"peakRank":9.3,"duration":2,"score":2.1,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":1507}
+{
+  "title": "She's So Cold",
+  "instanceSlug": 4,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-11",
+  "ranks": [
+    17.9,
+    10.7,
+    9.3,
+    13.2
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": null
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.256,
+    0.139,
+    0.134,
+    0.124,
+    0.109,
+    0.089,
+    0.064,
+    0.034,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 2.75,
+  "score": 1.1960000000000002,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1496
+}

@@ -1,1 +1,43 @@
-{"title":"Wait","instanceSlug":126,"tags":["wait"],"parents":[],"genre":true,"debut":"1988-05","ranks":[19.9,14.9,38.7,100.6],"artists":[{"slug":"white-lion","title":"White Lion","roleSlug":true}],"debutRank":19.9,"peakRank":14.9,"duration":1,"score":0.31,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":1574}
+{
+  "title": "Wait",
+  "instanceSlug": 126,
+  "tags": [
+    "wait"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1988-05",
+  "ranks": [
+    19.9,
+    14.9,
+    38.7,
+    100.6
+  ],
+  "artists": [
+    {
+      "slug": "white-lion",
+      "title": "White Lion",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.099,
+    0.003,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 1,
+  "score": 0.10500000000000001,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1579
+}

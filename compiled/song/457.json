@@ -1,1 +1,60 @@
-{"title":"We All Sleep Alone","instanceSlug":457,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1988-04","playlists":[],"ranks":[17,11.8,7.7,6.9,6.6,7.2,8,8.8,10.4,12.8,16,20,24.8,30.4,36.8,44,52,60.8,70.4,80.8],"artists":[{"slug":"cher","title":"Cher","roleSlug":true}],"debutRank":17,"peakRank":6.6,"duration":5,"score":7.95,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1113}
+{
+  "title": "We All Sleep Alone",
+  "instanceSlug": 457,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1988-04",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.8,
+    7.7,
+    6.9,
+    6.6,
+    7.2,
+    8
+  ],
+  "artists": [
+    {
+      "slug": "cher",
+      "title": "Cher",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.177,
+    0.319,
+    0.356,
+    0.37,
+    0.341,
+    0.306,
+    0.301,
+    0.291,
+    0.276,
+    0.256,
+    0.231,
+    0.201,
+    0.166,
+    0.126,
+    0.081,
+    0.031,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.5,
+  "score": 3.884,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1181
+}

@@ -1,1 +1,19 @@
-{"title":"Cool","instanceSlug":2765,"tags":[],"parents":[],"genre":"urban","debut":"1980s","playlists":[],"ranks":[],"artists":{"the-time":true}}
+{
+  "title": "Cool",
+  "instanceSlug": 2765,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "the-time": true
+  },
+  "scores": [
+  ]
+}

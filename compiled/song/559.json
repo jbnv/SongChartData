@@ -1,1 +1,59 @@
-{"title":"A Nightmare on My Street","instanceSlug":559,"tags":[],"parents":[],"genre":"pop","debut":"1988-08","playlists":[],"ranks":[17.7,10,6.4,5.5,5.9,6.9,7.9,9.9,12.9,16.9,21.9,27.9,34.9,42.9,51.9,61.9],"artists":[{"slug":"dj-jazzy-jeff-the-fresh-prince","title":"DJ Jazzy Jeff & the Fresh Prince","roleSlug":true}],"debutRank":17.7,"peakRank":5.5,"duration":4,"score":7.81,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1119}
+{
+  "title": "A Nightmare on My Street",
+  "instanceSlug": 559,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17.7,
+    10,
+    6.4,
+    5.5,
+    5.9,
+    6.9
+  ],
+  "artists": [
+    {
+      "slug": "dj-jazzy-jeff-the-fresh-prince",
+      "title": "DJ Jazzy Jeff & the Fresh Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.042,
+    0.232,
+    0.381,
+    0.431,
+    0.408,
+    0.356,
+    0.351,
+    0.341,
+    0.326,
+    0.306,
+    0.281,
+    0.251,
+    0.216,
+    0.176,
+    0.131,
+    0.081,
+    0.026,
+    0
+  ],
+  "debutScore": 0.042,
+  "peakScore": 0.042,
+  "duration": 4.5,
+  "score": 4.336000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1109
+}

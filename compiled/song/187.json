@@ -1,1 +1,60 @@
-{"title":"King of Wishful Thinking","instanceSlug":187,"tags":["king-of"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genres":[],"debut":"1990-07","ranks":[15.9,9.4,5.5,5.1,4.9,5.1,5.5,5.9,6.7,7.9,9.5,11.5,13.9,16.7,19.9,23.5,27.5,31.9,36.7,41.9,47.5,53.5,59.9,66.7],"artists":[{"slug":"go-west","title":"Go West","roleSlug":true}],"debutRank":15.9,"peakRank":4.9,"duration":6,"score":12.86,"source":null,"rank":754}
+{
+  "title": "King of Wishful Thinking",
+  "instanceSlug": 187,
+  "tags": [
+    "king-of"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genres": [
+  ],
+  "debut": "1990-07",
+  "ranks": [
+    15.9,
+    9.4,
+    5.5,
+    5.1,
+    4.9,
+    5.1,
+    5.5
+  ],
+  "artists": [
+    {
+      "slug": "go-west",
+      "title": "Go West",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.253,
+    0.431,
+    0.456,
+    0.47,
+    0.456,
+    0.431,
+    0.426,
+    0.416,
+    0.401,
+    0.381,
+    0.356,
+    0.326,
+    0.291,
+    0.251,
+    0.206,
+    0.156,
+    0.101,
+    0.041,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 5,
+  "score": 5.926000000000001,
+  "source": null,
+  "rank": 870
+}

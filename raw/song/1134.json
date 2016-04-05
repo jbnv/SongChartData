@@ -1,15 +1,19 @@
 {
   "title": "Who Is It",
   "instanceSlug": 1134,
-  "tags": [],
-  "source":"dangerous",
+  "tags": [
+  ],
+  "source": "dangerous",
   "genre": "pop",
   "debut": "1993-05",
   "playlists": [
     "summer"
   ],
-  "ranks": [],
+  "ranks": [
+  ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+  ]
 }

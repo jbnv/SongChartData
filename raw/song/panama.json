@@ -1,1 +1,21 @@
-{"title":"Panama","instanceSlug":"panama","tags":[],"parents":[],"genre":"hard-rock","debut":"1984-07","playlists":["inanimate"],"ranks":[],"artists":{"van-halen":true,"david-lee-roth":"lead"}}
+{
+  "title": "Panama",
+  "instanceSlug": "panama",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1984-07",
+  "playlists": [
+    "inanimate"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "van-halen": true,
+    "david-lee-roth": "lead"
+  },
+  "scores": [
+  ]
+}

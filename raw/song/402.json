@@ -1,1 +1,31 @@
-{"title":"I Don't Wanna Miss a Thing","instanceSlug":402,"tags":[],"parents":[],"genre":"rock","debut":"1998-05","source":"armageddon","playlists":["ballad"],"ranks":[17.9,10.7,9.3,10.2,13],"artists":{"aerosmith":true}}
+{
+  "title": "I Don't Wanna Miss a Thing",
+  "instanceSlug": 402,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1998-05",
+  "source": "armageddon",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    9.3,
+    10.2,
+    13
+  ],
+  "artists": {
+    "aerosmith": true
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.256,
+    0.225,
+    0.145
+  ]
+}

@@ -1,1 +1,60 @@
-{"title":"More Love","instanceSlug":525,"tags":[],"parents":[],"genre":true,"debut":"1980-05","playlists":[],"ranks":[15,6.4,4.3,3.7,3.8,4.25,4.7,5.6,6.95,8.75,11,13.7,16.85,20.45,24.5,29,33.95,39.35,45.2,51.5],"artists":[{"slug":"kim-carnes","title":"Kim Carnes","roleSlug":true}],"debutRank":15,"peakRank":3.7,"duration":5,"score":13.67,"genres":[{"slug":true}],"source":null,"rank":697}
+{
+  "title": "More Love",
+  "instanceSlug": 525,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1980-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6.4,
+    4.3,
+    3.7,
+    3.8,
+    4.25
+  ],
+  "artists": [
+    {
+      "slug": "kim-carnes",
+      "title": "Kim Carnes",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.381,
+    0.513,
+    0.563,
+    0.554,
+    0.517,
+    0.512,
+    0.502,
+    0.487,
+    0.467,
+    0.442,
+    0.412,
+    0.377,
+    0.337,
+    0.292,
+    0.242,
+    0.187,
+    0.127,
+    0.062,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5,
+  "score": 7.070999999999999,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 724
+}

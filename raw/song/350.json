@@ -1,1 +1,32 @@
-{"title":"I Can Love You Like That","instanceSlug":350,"tags":["i","i-can","like","love","love-you","that","you"],"parents":[],"genre":"soul","debut":"1995-05","playlists":[],"ranks":[12,1.5,1.62],"artists":{"all-4-one":true}}
+{
+  "title": "I Can Love You Like That",
+  "instanceSlug": 350,
+  "tags": [
+    "i",
+    "i-can",
+    "like",
+    "love",
+    "love-you",
+    "that",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1995-05",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    1.5,
+    1.62
+  ],
+  "artists": {
+    "all-4-one": true
+  },
+  "scores": [
+    0.171,
+    0.864,
+    0.839
+  ]
+}

@@ -1,1 +1,58 @@
-{"title":"Steal Away","instanceSlug":410,"tags":[],"parents":[],"genre":"soft-rock","debut":"1980-05","playlists":[],"ranks":[17,9.9,5.8,6.2,6.75,7.9,9.05,11.35,14.8,19.4,25.15,32.05,40.1,49.3,59.65,71.15],"artists":[{"slug":"robbie-dupree","title":"Robbie Dupree","roleSlug":true}],"debutRank":17,"peakRank":5.8,"duration":4,"score":7.02,"genres":[{"slug":"soft-rock","title":"Soft Rock"}],"source":null,"rank":1187}
+{
+  "title": "Steal Away",
+  "instanceSlug": 410,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": "1980-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    6.2,
+    6.75,
+    7.9
+  ],
+  "artists": [
+    {
+      "slug": "robbie-dupree",
+      "title": "Robbie Dupree",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.391,
+    0.363,
+    0.311,
+    0.306,
+    0.296,
+    0.281,
+    0.261,
+    0.236,
+    0.206,
+    0.171,
+    0.131,
+    0.086,
+    0.036,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.25,
+  "score": 3.779,
+  "genres": [
+    {
+      "slug": "soft-rock",
+      "title": "Soft Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1194
+}

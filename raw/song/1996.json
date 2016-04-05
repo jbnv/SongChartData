@@ -1,1 +1,19 @@
-{"title":"Old Days","instanceSlug":1996,"tags":[],"parents":[],"genre":"jazz-rock","debut":1975,"playlists":[],"ranks":[],"artists":{"chicago":true}}
+{
+  "title": "Old Days",
+  "instanceSlug": 1996,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "jazz-rock",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "chicago": true
+  },
+  "scores": [
+  ]
+}

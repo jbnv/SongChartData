@@ -1,11 +1,14 @@
 {
   "title": "Pump Up the Volume",
   "instanceSlug": 1016,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1988-02",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     14,
     3,
@@ -18,5 +21,15 @@
   ],
   "artists": {
     "marrs": true
-  }
+  },
+  "scores": [
+    0.12,
+    0.633,
+    0.768,
+    0.752,
+    0.737,
+    0.701,
+    0.653,
+    0.582
+  ]
 }

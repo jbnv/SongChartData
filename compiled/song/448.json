@@ -1,1 +1,56 @@
-{"title":"Beds are Burning","instanceSlug":448,"tags":[],"parents":[],"genre":"rock","debut":"1988-05","playlists":[{"slug":"summer is"}],"ranks":[15.9,9.5,7.8,9,10.2,12.6,16.2,21,27,34.2,42.6,52.2],"artists":[{"slug":"midnight-oil","title":"Midnight Oil","roleSlug":true}],"debutRank":15.9,"peakRank":7.8,"duration":3,"score":4.09,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1388}
+{
+  "title": "Beds are Burning",
+  "instanceSlug": 448,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1988-05",
+  "playlists": [
+    {
+      "slug": "summer is"
+    }
+  ],
+  "ranks": [
+    15.9,
+    9.5,
+    7.8,
+    9
+  ],
+  "artists": [
+    {
+      "slug": "midnight-oil",
+      "title": "Midnight Oil",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.249,
+    0.315,
+    0.267,
+    0.262,
+    0.252,
+    0.237,
+    0.217,
+    0.192,
+    0.162,
+    0.127,
+    0.087,
+    0.042,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 3.5,
+  "score": 2.486,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1369
+}

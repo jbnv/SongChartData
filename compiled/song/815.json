@@ -1,1 +1,59 @@
-{"title":"All-Time High","instanceSlug":815,"tags":[],"parents":[],"genre":"pop","debut":1983,"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[18.9,11.1,6.5,7.5,9.2,10.9,14.3,19.4,26.2,34.7,44.9,56.8],"artists":[{"slug":"rita-coolidge","title":"Rita Coolidge","roleSlug":true}],"debutRank":18.9,"peakRank":6.5,"duration":3,"score":4.53,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1366}
+{
+  "title": "All-Time High",
+  "instanceSlug": 815,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1983,
+  "playlists": [
+    {
+      "slug": "james-bond",
+      "title": "Songs from James Bond Movies"
+    }
+  ],
+  "ranks": [
+    18.9,
+    11.1,
+    6.5,
+    7.5,
+    9.2
+  ],
+  "artists": [
+    {
+      "slug": "rita-coolidge",
+      "title": "Rita Coolidge",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.02,
+    0.197,
+    0.376,
+    0.328,
+    0.26,
+    0.255,
+    0.245,
+    0.23,
+    0.21,
+    0.185,
+    0.155,
+    0.12,
+    0.08,
+    0.035,
+    0
+  ],
+  "debutScore": 0.02,
+  "peakScore": 0.02,
+  "duration": 3.75,
+  "score": 2.696,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1346
+}

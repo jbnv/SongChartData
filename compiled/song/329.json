@@ -1,1 +1,59 @@
-{"title":"China Girl","instanceSlug":329,"tags":[],"parents":[],"genre":"pop","debut":"1983-07","playlists":[],"ranks":[18,11.7,6.8,6.2,5.9,6.47,7.04,8.18,9.89,12.17,15.02,18.44,22.43,26.99,32.12,37.82,44.09,50.93,58.34,66.32],"artists":[{"slug":"david-bowie","title":"David Bowie","roleSlug":true}],"debutRank":18,"peakRank":5.9,"duration":5,"score":8.8,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1061}
+{
+  "title": "China Girl",
+  "instanceSlug": 329,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-07",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11.7,
+    6.8,
+    6.2,
+    5.9,
+    6.47
+  ],
+  "artists": [
+    {
+      "slug": "david-bowie",
+      "title": "David Bowie",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.18,
+    0.361,
+    0.391,
+    0.408,
+    0.377,
+    0.372,
+    0.362,
+    0.347,
+    0.327,
+    0.302,
+    0.272,
+    0.237,
+    0.197,
+    0.152,
+    0.102,
+    0.047,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.5,
+  "score": 4.470000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1085
+}

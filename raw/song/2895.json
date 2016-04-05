@@ -1,1 +1,23 @@
-{"title":"Gold Digger","instanceSlug":2895,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"rap","debut":2005,"playlists":[],"ranks":[],"artists":{"kanye-west":true,"jamie-foxx":"feature"}}
+{
+  "title": "Gold Digger",
+  "instanceSlug": 2895,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": 2005,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "kanye-west": true,
+    "jamie-foxx": "feature"
+  },
+  "scores": [
+  ]
+}

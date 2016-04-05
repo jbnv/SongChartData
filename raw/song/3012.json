@@ -7,11 +7,17 @@
   ],
   "genre": "pop",
   "debut": 2013,
-  "playlists": ["adultery","cheating"],
-  "ranks": [],
+  "playlists": [
+    "adultery",
+    "cheating"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "robin-thicke": true,
     "t-i": "feature",
     "pharrell-williams": "feature"
-  }
+  },
+  "scores": [
+  ]
 }

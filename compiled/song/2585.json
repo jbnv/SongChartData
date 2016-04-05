@@ -1,1 +1,32 @@
-{"title":"I Just Want to Be Your Everything","instanceSlug":2585,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"andy-gibb","title":"Andy Gibb","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1744}
+{
+  "title": "I Just Want to Be Your Everything",
+  "instanceSlug": 2585,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "andy-gibb",
+      "title": "Andy Gibb",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1744
+}

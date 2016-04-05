@@ -1,1 +1,31 @@
-{"title":"Endless Summer Nights","instanceSlug":2792,"tags":["summer-nights"],"parents":[],"genre":"pop","debut":1987,"playlists":[],"ranks":[],"artists":[{"slug":"richard-marx","title":"Richard Marx","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1974}
+{
+  "title": "Endless Summer Nights",
+  "instanceSlug": 2792,
+  "tags": [
+    "summer-nights"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1987,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "richard-marx",
+      "title": "Richard Marx",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1974
+}

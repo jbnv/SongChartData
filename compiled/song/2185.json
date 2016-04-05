@@ -1,1 +1,53 @@
-{"title":"Jessie","instanceSlug":2185,"tags":[],"parents":[],"genre":"pop","debut":"1994-01","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[25,20,17,15,16.9,18.8,22.6,28.3,35.9,45.4,56.8,70.1],"artists":[{"slug":"joshua-kadison","title":"Joshua Kadison","roleSlug":true}],"debutRank":25,"peakRank":15,"duration":3,"score":0.7,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1562}
+{
+  "title": "Jessie",
+  "instanceSlug": 2185,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-01",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    25,
+    20,
+    17,
+    15,
+    16.9
+  ],
+  "artists": [
+    {
+      "slug": "joshua-kadison",
+      "title": "Joshua Kadison",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.055,
+    0.097,
+    0.057,
+    0.052,
+    0.042,
+    0.027,
+    0.007,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 2.25,
+  "score": 0.338,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1564
+}

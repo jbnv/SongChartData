@@ -1,1 +1,73 @@
-{"title":"Facts of Love","instanceSlug":2151,"tags":[],"parents":[],"genre":"urban","debut":"1987-02","playlists":[],"ranks":[15,9,5,3,2.9,3,3.2,3.4,3.74,4.08,4.76,5.78,7.14,8.84,10.88,13.26,15.98,19.04,22.44,26.18,30.26,34.68,39.44,44.54,49.98,55.76,61.88,68.34],"artists":[{"slug":"jeff-lorber","title":"Jeff Lorber","roleSlug":true},{"slug":"karyn-white","title":"Karyn White","roleSlug":"feature"}],"debutRank":15,"peakRank":2.9,"duration":7,"score":20.96,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":274}
+{
+  "title": "Facts of Love",
+  "instanceSlug": 2151,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1987-02",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    5,
+    3,
+    2.9,
+    3,
+    3.2,
+    3.4,
+    3.74
+  ],
+  "artists": [
+    {
+      "slug": "jeff-lorber",
+      "title": "Jeff Lorber",
+      "roleSlug": true
+    },
+    {
+      "slug": "karyn-white",
+      "title": "Karyn White",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.463,
+    0.633,
+    0.645,
+    0.633,
+    0.612,
+    0.592,
+    0.56,
+    0.555,
+    0.545,
+    0.53,
+    0.51,
+    0.485,
+    0.455,
+    0.42,
+    0.38,
+    0.335,
+    0.285,
+    0.23,
+    0.17,
+    0.105,
+    0.035,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6,
+  "score": 9.542000000000003,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 424
+}

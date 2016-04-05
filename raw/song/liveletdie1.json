@@ -1,13 +1,20 @@
 {
   "title": "Live and Let Die",
   "instanceSlug": "liveletdie1",
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": 1973,
-  "playlists": ["james-bond"],
-  "ranks": [],
+  "playlists": [
+    "james-bond"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "wings": true
-  }
+  },
+  "scores": [
+  ]
 }

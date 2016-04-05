@@ -1,1 +1,39 @@
-{"title":"When I Was Your Man","instanceSlug":3041,"tags":["#1","#1-rdwt40-hot-adult","breakup","feb13","lost-love"],"parents":[],"genre":"pop","debut":"2010s","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"bruno-mars","title":"Bruno Mars","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2253}
+{
+  "title": "When I Was Your Man",
+  "instanceSlug": 3041,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult",
+    "breakup",
+    "feb13",
+    "lost-love"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bruno-mars",
+      "title": "Bruno Mars",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2253
+}

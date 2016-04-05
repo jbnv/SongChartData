@@ -1,1 +1,67 @@
-{"title":"I Can't Go For That","instanceSlug":1541,"tags":["#1","#1-hot-100","#1-r&b","i-can't"],"parents":[],"genre":"rock","debut":"1981-12","playlists":[],"ranks":[16,10,7.4,5.2,4.05,4.32,4.92,5.52,6.72,8.52,10.92,13.92,17.52,21.72,26.52,31.92,37.92,44.52,51.72,59.52],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"debutRank":16,"peakRank":4.05,"duration":5,"score":12.18,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":804}
+{
+  "title": "I Can't Go For That",
+  "instanceSlug": 1541,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b",
+    "i-can't"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-12",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7.4,
+    5.2,
+    4.05,
+    4.32,
+    4.92
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.332,
+    0.45,
+    0.533,
+    0.512,
+    0.468,
+    0.463,
+    0.453,
+    0.438,
+    0.418,
+    0.393,
+    0.363,
+    0.328,
+    0.288,
+    0.243,
+    0.193,
+    0.138,
+    0.078,
+    0.013,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 6.411,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 819
+}

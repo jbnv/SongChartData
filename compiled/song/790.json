@@ -1,1 +1,54 @@
-{"title":"Top of the World","instanceSlug":790,"tags":["this-of-that","top","world"],"parents":[],"genre":"pop","debut":1974,"playlists":[],"ranks":[17.9,10.6,7.3,9.9,12.5,17.7,25.5,35.9,48.9,64.5,82.7,103.5],"artists":[{"slug":"the-carpenters"}],"debutRank":17.9,"peakRank":7.3,"duration":3,"score":3.07,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1459}
+{
+  "title": "Top of the World",
+  "instanceSlug": 790,
+  "tags": [
+    "this-of-that",
+    "top",
+    "world"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    9.9
+  ],
+  "artists": [
+    {
+      "slug": "the-carpenters"
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.235,
+    0.23,
+    0.22,
+    0.205,
+    0.185,
+    0.16,
+    0.13,
+    0.095,
+    0.055,
+    0.01,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.5,
+  "score": 2.1130000000000004,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1412
+}

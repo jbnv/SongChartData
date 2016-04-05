@@ -1,1 +1,67 @@
-{"title":"Nothing's Gonna Change My Love for You","instanceSlug":1315,"tags":["for-you","my-love"],"parents":[],"genre":"adult-contemporary","debut":"1987-04","playlists":[],"ranks":[18,12,8.5,6.5,5.6,5,5.2,5.7,6.4,7.1,8.5,10.6,13.4,16.9,21.1,26,31.6,37.9,44.9,52.6],"artists":[{"slug":"glenn-medeiros","title":"Glenn Medeiros","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":12.15,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":807}
+{
+  "title": "Nothing's Gonna Change My Love for You",
+  "instanceSlug": 1315,
+  "tags": [
+    "for-you",
+    "my-love"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1987-04",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    12,
+    8.5,
+    6.5,
+    5.6,
+    5,
+    5.2,
+    5.7,
+    6.4
+  ],
+  "artists": [
+    {
+      "slug": "glenn-medeiros",
+      "title": "Glenn Medeiros",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.171,
+    0.286,
+    0.376,
+    0.425,
+    0.463,
+    0.45,
+    0.419,
+    0.381,
+    0.376,
+    0.366,
+    0.351,
+    0.331,
+    0.306,
+    0.276,
+    0.241,
+    0.201,
+    0.156,
+    0.106,
+    0.051,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5.25,
+  "score": 5.768,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 881
+}

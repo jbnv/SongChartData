@@ -1,1 +1,30 @@
-{"title":"Sanctify Yourself","instanceSlug":1643,"tags":[],"parents":[],"genre":"pop","debut":"1986-02","playlists":[],"ranks":[],"artists":[{"slug":"simple-minds","title":"Simple Minds","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2457}
+{
+  "title": "Sanctify Yourself",
+  "instanceSlug": 1643,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "simple-minds",
+      "title": "Simple Minds",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2697
+}

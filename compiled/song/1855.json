@@ -1,1 +1,30 @@
-{"title":"Dance Dance Dance","instanceSlug":1855,"tags":[],"parents":[],"genre":"disco","debut":1978,"playlists":[],"ranks":[],"artists":[{"slug":"chic","title":"Chic","roleSlug":true}],"genres":[{"slug":"disco","title":"Disco"}],"source":null,"rank":1960}
+{
+  "title": "Dance Dance Dance",
+  "instanceSlug": 1855,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": 1978,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "chic",
+      "title": "Chic",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "disco",
+      "title": "Disco"
+    }
+  ],
+  "source": null,
+  "rank": 1681
+}

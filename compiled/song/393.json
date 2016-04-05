@@ -1,1 +1,79 @@
-{"title":"I Will Always Love You","instanceSlug":393,"tags":["#1","#1-adult-contemporary","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":"1992-11","source":{"title":"Bodyguard","instanceSlug":"bodyguard","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[8.5,2.5,1.75,1.5,1.72,1.94,2.38,3.04,3.92,5.02,6.34,7.88,9.64,11.62,13.82,16.24,18.88,21.74,24.82,28.12,31.64,35.38,39.34,43.52,47.92,52.54,57.38,62.44],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":8.5,"peakRank":1.5,"duration":7,"score":23.83,"genres":[{"slug":"pop","title":"Pop"}],"rank":175}
+{
+  "title": "I Will Always Love You",
+  "instanceSlug": 393,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-11",
+  "source": {
+    "title": "Bodyguard",
+    "instanceSlug": "bodyguard",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    8.5,
+    2.5,
+    1.75,
+    1.5,
+    1.72
+  ],
+  "artists": [
+    {
+      "slug": "whitney-houston",
+      "title": "Whitney Houston",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.286,
+    0.694,
+    0.813,
+    0.864,
+    0.819,
+    0.814,
+    0.804,
+    0.789,
+    0.769,
+    0.744,
+    0.714,
+    0.679,
+    0.639,
+    0.594,
+    0.544,
+    0.489,
+    0.429,
+    0.364,
+    0.294,
+    0.219,
+    0.139,
+    0.054,
+    0
+  ],
+  "debutScore": 0.286,
+  "peakScore": 0.286,
+  "duration": 5.75,
+  "score": 12.554,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 164
+}

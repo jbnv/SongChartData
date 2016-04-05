@@ -1,1 +1,69 @@
-{"title":"Love Will Find a Way","instanceSlug":1126,"tags":["find","love","way","will"],"parents":[],"genre":"pop","debut":"1987-11","playlists":[],"ranks":[15.8,12,10,9,8,7.5,7.2,7.4,8,9.4,10.8,13.6,17.8,23.4,30.4,38.8,48.6,59.8,72.4,86.4],"artists":[{"slug":"yes","title":"Yes","roleSlug":true}],"debutRank":15.8,"peakRank":7.2,"duration":5,"score":9,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1032}
+{
+  "title": "Love Will Find a Way",
+  "instanceSlug": 1126,
+  "tags": [
+    "find",
+    "love",
+    "way",
+    "will"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15.8,
+    12,
+    10,
+    9,
+    8,
+    7.5,
+    7.2,
+    7.4,
+    8,
+    9.4
+  ],
+  "artists": [
+    {
+      "slug": "yes",
+      "title": "Yes",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.079,
+    0.171,
+    0.232,
+    0.267,
+    0.306,
+    0.328,
+    0.341,
+    0.332,
+    0.306,
+    0.253,
+    0.248,
+    0.238,
+    0.223,
+    0.203,
+    0.178,
+    0.148,
+    0.113,
+    0.073,
+    0.028,
+    0
+  ],
+  "debutScore": 0.079,
+  "peakScore": 0.079,
+  "duration": 5,
+  "score": 4.067,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1155
+}

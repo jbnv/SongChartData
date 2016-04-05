@@ -6,12 +6,27 @@
     "#1-adult-contemporary",
     "#1-mainstream-rock"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1988-05",
-  "playlists": [],
-  "ranks": [17.9,6.2,4.4,4.3,4.5],
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    6.2,
+    4.4,
+    4.3,
+    4.5
+  ],
   "artists": {
     "bruce-hornsby-the-range": true
-  }
+  },
+  "scores": [
+    0.038,
+    0.391,
+    0.506,
+    0.513,
+    0.498
+  ]
 }

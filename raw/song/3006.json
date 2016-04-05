@@ -1,1 +1,29 @@
-{"title":"Ghost Town","instanceSlug":3006,"tags":[],"parents":[],"genre":"pop","debut":"2015-06","playlists":[],"ranks":[14,4,1.5,1.67,1.89],"artists":{"adam-lambert":true}}
+{
+  "title": "Ghost Town",
+  "instanceSlug": 3006,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-06",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    4,
+    1.5,
+    1.67,
+    1.89
+  ],
+  "artists": {
+    "adam-lambert": true
+  },
+  "scores": [
+    0.12,
+    0.537,
+    0.864,
+    0.829,
+    0.787
+  ]
+}

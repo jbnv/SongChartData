@@ -1,8 +1,11 @@
 {
   "title": "Baby Baby",
   "instanceSlug": 56,
-  "tags": [],
-  "playlists": ["summer"],
+  "tags": [
+  ],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1991-08",
   "ranks": [
@@ -16,5 +19,14 @@
   ],
   "artists": {
     "amy-grant": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.633,
+    0.656,
+    0.653,
+    0.645,
+    0.619,
+    0.583
+  ]
 }

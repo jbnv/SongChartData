@@ -1,1 +1,21 @@
-{"title":"Hungry Eyes","instanceSlug":1459,"tags":["eyes","hungry"],"parents":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[],"artists":{"eric-carmen":true}}
+{
+  "title": "Hungry Eyes",
+  "instanceSlug": 1459,
+  "tags": [
+    "eyes",
+    "hungry"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eric-carmen": true
+  },
+  "scores": [
+  ]
+}

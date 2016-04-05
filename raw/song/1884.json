@@ -1,1 +1,27 @@
-{"title":"Spooky","instanceSlug":1884,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1979-09","playlists":[],"ranks":[16.5,5.2,5.4,6.2],"artists":{"atlanta-rhythm-section":true}}
+{
+  "title": "Spooky",
+  "instanceSlug": 1884,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1979-09",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    5.2,
+    5.4,
+    6.2
+  ],
+  "artists": {
+    "atlanta-rhythm-section": true
+  },
+  "scores": [
+    0.065,
+    0.45,
+    0.437,
+    0.391
+  ]
+}

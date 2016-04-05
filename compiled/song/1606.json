@@ -1,1 +1,66 @@
-{"title":"Love My Way","instanceSlug":1606,"tags":["love","my","way"],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[13.6,8.1,5.4,3.4,2.85,3.16,3.47,4.09,5.02,6.26,7.81,9.67,11.84,14.32,17.11,20.21,23.62,27.34,31.37,35.71,40.36,45.32,50.59,56.17],"artists":[{"slug":"psychedelic-furs","title":"Psychedelic Furs","roleSlug":true}],"debutRank":13.6,"peakRank":2.85,"duration":6,"score":16.79,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":480}
+{
+  "title": "Love My Way",
+  "instanceSlug": 1606,
+  "tags": [
+    "love",
+    "my",
+    "way"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+    13.6,
+    8.1,
+    5.4,
+    3.4,
+    2.85,
+    3.16
+  ],
+  "artists": [
+    {
+      "slug": "psychedelic-furs",
+      "title": "Psychedelic Furs",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.129,
+    0.302,
+    0.437,
+    0.592,
+    0.65,
+    0.616,
+    0.611,
+    0.601,
+    0.586,
+    0.566,
+    0.541,
+    0.511,
+    0.476,
+    0.436,
+    0.391,
+    0.341,
+    0.286,
+    0.226,
+    0.161,
+    0.091,
+    0.016,
+    0
+  ],
+  "debutScore": 0.129,
+  "peakScore": 0.129,
+  "duration": 5.5,
+  "score": 8.566,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 527
+}

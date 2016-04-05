@@ -1,1 +1,79 @@
-{"title":"I'll Be Good to You","instanceSlug":1322,"tags":["i'll-be","remake","to-you"],"parents":[],"genre":"soul","debut":"1989-12","playlists":[],"ranks":[10,3,1,1.09,1.21,1.35,1.49,1.77,2.19,2.75,3.45,4.29,5.27,6.39,7.65,9.05,10.59,12.27,14.09,16.05,18.15,20.39,22.77,25.29,27.95,30.75,33.69,36.77,39.99,43.35,46.85,50.49],"artists":[{"slug":"quincy-jones","title":"Quincy Jones","roleSlug":true},{"slug":"ray-charles","title":"Ray Charles","roleSlug":"feature"},{"slug":"chaka-khan","title":"Chaka Khan","roleSlug":"feature"}],"debutRank":10,"peakRank":1,"duration":8,"score":32.62,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":30}
+{
+  "title": "I'll Be Good to You",
+  "instanceSlug": 1322,
+  "tags": [
+    "i'll-be",
+    "remake",
+    "to-you"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1989-12",
+  "playlists": [
+  ],
+  "ranks": [
+    10,
+    3,
+    1,
+    1.09,
+    1.21,
+    1.35
+  ],
+  "artists": [
+    {
+      "slug": "quincy-jones",
+      "title": "Quincy Jones",
+      "roleSlug": true
+    },
+    {
+      "slug": "ray-charles",
+      "title": "Ray Charles",
+      "roleSlug": "feature"
+    },
+    {
+      "slug": "chaka-khan",
+      "title": "Chaka Khan",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.232,
+    0.633,
+    1,
+    0.971,
+    0.936,
+    0.899,
+    0.894,
+    0.884,
+    0.869,
+    0.849,
+    0.824,
+    0.794,
+    0.759,
+    0.719,
+    0.674,
+    0.624,
+    0.569,
+    0.509,
+    0.444,
+    0.374,
+    0.299,
+    0.219,
+    0.134,
+    0.044,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 6.25,
+  "score": 15.153,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 21
+}

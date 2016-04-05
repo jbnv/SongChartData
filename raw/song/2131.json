@@ -1,1 +1,17 @@
-{"title":"You Must Love Me","instanceSlug":2131,"tags":[],"parents":[],"genre":"pop","debut":"1996-12","source":"evita","playlists":[],"ranks":true,"artists":{"madonna":true}}
+{
+  "title": "You Must Love Me",
+  "instanceSlug": 2131,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-12",
+  "source": "evita",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "madonna": true
+  }
+}

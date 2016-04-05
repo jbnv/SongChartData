@@ -1,1 +1,21 @@
-{"title":"I Got You Babe","instanceSlug":2942,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":1965,"playlists":[],"ranks":[],"artists":{"sonny-cher":true}}
+{
+  "title": "I Got You Babe",
+  "instanceSlug": 2942,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1965,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "sonny-cher": true
+  },
+  "scores": [
+  ]
+}

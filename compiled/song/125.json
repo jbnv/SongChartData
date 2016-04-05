@@ -1,1 +1,54 @@
-{"title":"Looking for a New Love","instanceSlug":125,"tags":["look","love","new"],"parents":[],"genre":true,"debut":1987,"ranks":[19.9,11.8,7,11.5,19,31.4,51.7,85.3,140.5,195.7,306.1,471.7],"artists":[{"slug":"jody-watley","title":"Jody Watley","roleSlug":true}],"debutRank":19.9,"peakRank":7,"duration":3,"score":2.21,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":1499}
+{
+  "title": "Looking for a New Love",
+  "instanceSlug": 125,
+  "tags": [
+    "look",
+    "love",
+    "new"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1987,
+  "ranks": [
+    19.9,
+    11.8,
+    7,
+    11.5,
+    19,
+    31.4,
+    51.7,
+    85.3,
+    140.5
+  ],
+  "artists": [
+    {
+      "slug": "jody-watley",
+      "title": "Jody Watley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.177,
+    0.351,
+    0.185,
+    0.018,
+    0.013,
+    0.003,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 2,
+  "score": 0.75,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1536
+}

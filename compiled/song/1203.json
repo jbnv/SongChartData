@@ -1,1 +1,49 @@
-{"title":"What You Won't Do for Love","instanceSlug":1203,"tags":["do-for-love"],"playlists":[],"genre":"pop","debut":1993,"ranks":[25,22,18,16,15,15.5,19,22.5,29.5,40,54,71.5],"artists":[{"slug":"go-west","title":"Go West","roleSlug":true}],"debutRank":25,"peakRank":15,"duration":3,"score":0.94,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1553}
+{
+  "title": "What You Won't Do for Love",
+  "instanceSlug": 1203,
+  "tags": [
+    "do-for-love"
+  ],
+  "playlists": [
+  ],
+  "genre": "pop",
+  "debut": 1993,
+  "ranks": [
+    25,
+    22,
+    18,
+    16,
+    15,
+    15.5,
+    19
+  ],
+  "artists": [
+    {
+      "slug": "go-west",
+      "title": "Go West",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.075,
+    0.097,
+    0.086,
+    0.018,
+    0.013,
+    0.003,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.018,
+  "duration": 2,
+  "score": 0.328,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1565
+}

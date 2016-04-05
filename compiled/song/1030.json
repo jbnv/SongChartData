@@ -1,1 +1,64 @@
-{"title":"Find Your Way Back","instanceSlug":1030,"tags":[],"parents":[],"genre":"rock","debut":"1981-05","playlists":[],"ranks":[16,8,6,5.5,5.7,5.9,6.3,6.9,7.9,8.9,10.9,13.9,17.9,22.9,28.9,35.9,43.9,52.9,62.9,73.9],"artists":[{"slug":"starship","title":"Jefferson Airplane / Jefferson Starship / Starship","roleSlug":true}],"debutRank":16,"peakRank":5.5,"duration":5,"score":11.21,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":865}
+{
+  "title": "Find Your Way Back",
+  "instanceSlug": 1030,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-05",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    6,
+    5.5,
+    5.7,
+    5.9,
+    6.3,
+    6.9,
+    7.9
+  ],
+  "artists": [
+    {
+      "slug": "starship",
+      "title": "Jefferson Airplane / Jefferson Starship / Starship",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.306,
+    0.402,
+    0.431,
+    0.419,
+    0.408,
+    0.386,
+    0.356,
+    0.311,
+    0.306,
+    0.296,
+    0.281,
+    0.261,
+    0.236,
+    0.206,
+    0.171,
+    0.131,
+    0.086,
+    0.036,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5,
+  "score": 5.104,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1001
+}

@@ -1,1 +1,65 @@
-{"title":"Der Kommisar","instanceSlug":1622,"tags":[],"parents":[],"genre":"dance-pop","debut":"1983-03","playlists":[],"ranks":[14,8,5,3.5,2.5,2.75,3.2,3.65,4.55,5.9,7.7,9.95,12.65,15.8,19.4,23.45,27.95,32.9,38.3,44.15,50.45,57.2,64.4,72.05],"artists":[{"slug":"after-the-fire","title":"After the Fire","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":6,"score":17.14,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":461}
+{
+  "title": "Der Kommisar",
+  "instanceSlug": 1622,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1983-03",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8,
+    5,
+    3.5,
+    2.5,
+    2.75,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "after-the-fire",
+      "title": "After the Fire",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.306,
+    0.463,
+    0.582,
+    0.694,
+    0.662,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 9.219000000000001,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 454
+}

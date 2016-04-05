@@ -4,12 +4,21 @@
   "tags": [
     "cheating"
   ],
-  "parents": [],
-  "genres": ["pop","urban"],
+  "parents": [
+  ],
+  "genres": [
+    "pop",
+    "urban"
+  ],
   "debut": 1982,
-  "playlists": ["feb13"],
-  "ranks": [],
+  "playlists": [
+    "feb13"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "ray-parker-jr": true
-  }
+  },
+  "scores": [
+  ]
 }

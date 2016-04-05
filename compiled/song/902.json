@@ -1,1 +1,62 @@
-{"title":"Treasure","instanceSlug":902,"tags":[],"parents":[],"genre":"dance-pop","debut":2013,"playlists":[],"ranks":[12,3.4,1.6,1.8,2.05,2.3,2.8,3.55,4.55,5.8,7.3,9.05,11.05,13.3,15.8,18.55,21.55,24.8,28.3,32.05,36.05,40.3,44.8,49.55,54.55,59.8,65.3,71.05],"artists":[{"slug":"bruno-mars","title":"Bruno Mars","roleSlug":true}],"debutRank":12,"peakRank":1.6,"duration":7,"score":21.25,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":262}
+{
+  "title": "Treasure",
+  "instanceSlug": 902,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2013,
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3.4,
+    1.6,
+    1.8,
+    2.05
+  ],
+  "artists": [
+    {
+      "slug": "bruno-mars",
+      "title": "Bruno Mars",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.592,
+    0.843,
+    0.804,
+    0.76,
+    0.755,
+    0.745,
+    0.73,
+    0.71,
+    0.685,
+    0.655,
+    0.62,
+    0.58,
+    0.535,
+    0.485,
+    0.43,
+    0.37,
+    0.305,
+    0.235,
+    0.16,
+    0.08,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.5,
+  "score": 11.249999999999998,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 244
+}

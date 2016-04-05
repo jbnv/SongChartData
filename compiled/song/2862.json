@@ -1,1 +1,32 @@
-{"title":"Holding Back the Years","instanceSlug":2862,"tags":["#1","#1-hot-100"],"parents":[],"genre":"adult-contemporary","debut":"1986-05","playlists":[],"ranks":[],"artists":[{"slug":"simply-red","title":"Simply Red","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2052}
+{
+  "title": "Holding Back the Years",
+  "instanceSlug": 2862,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1986-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "simply-red",
+      "title": "Simply Red",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2052
+}

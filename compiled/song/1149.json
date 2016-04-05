@@ -1,1 +1,30 @@
-{"title":"Rico Suave","instanceSlug":1149,"tags":[],"parents":[],"genre":"latin-rap","debut":"1991-03","playlists":[],"ranks":[],"artists":[{"slug":"gerardo","title":"Gerardo","roleSlug":true}],"genres":[{"slug":"latin-rap","title":"Latin Rap"}],"source":null,"rank":2464}
+{
+  "title": "Rico Suave",
+  "instanceSlug": 1149,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "latin-rap",
+  "debut": "1991-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "gerardo",
+      "title": "Gerardo",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "latin-rap",
+      "title": "Latin Rap"
+    }
+  ],
+  "source": null,
+  "rank": 2665
+}

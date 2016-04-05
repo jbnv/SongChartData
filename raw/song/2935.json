@@ -1,12 +1,29 @@
 {
   "title": "A Girl Like You",
   "instanceSlug": 2935,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1990-03",
-  "playlists": [],
-  "ranks": [16,4,2.7,2.83,2.97,3.5],
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    4,
+    2.7,
+    2.83,
+    2.97,
+    3.5
+  ],
   "artists": {
     "smithereens": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.537,
+    0.668,
+    0.653,
+    0.637,
+    0.582
+  ]
 }

@@ -1,1 +1,19 @@
-{"title":"I'm on Fire","instanceSlug":2678,"tags":[],"parents":[],"genre":"rock","debut":"1985-03","playlists":[],"ranks":[],"artists":{"bruce-springsteen":true}}
+{
+  "title": "I'm on Fire",
+  "instanceSlug": 2678,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bruce-springsteen": true
+  },
+  "scores": [
+  ]
+}

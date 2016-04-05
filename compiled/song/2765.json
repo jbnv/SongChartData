@@ -1,1 +1,28 @@
-{"title":"Cool","instanceSlug":2765,"tags":[],"parents":[],"genre":"urban","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"the-time"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":1944}
+{
+  "title": "Cool",
+  "instanceSlug": 2765,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "the-time"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 1944
+}

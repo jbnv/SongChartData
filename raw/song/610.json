@@ -1,11 +1,13 @@
 {
   "title": "Human Nature",
   "instanceSlug": 610,
-  "tags": [],
-  "source":"thriller",
+  "tags": [
+  ],
+  "source": "thriller",
   "genre": "soul",
   "debut": "1983-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     13.5,
     7.6,
@@ -15,5 +17,12 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.132,
+    0.323,
+    0.521,
+    0.694,
+    0.633
+  ]
 }

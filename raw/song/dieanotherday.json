@@ -1,1 +1,19 @@
-{"title":"Die Another Day","instanceSlug":"dieanotherday","tags":[],"parents":[],"debut":2002,"playlists":["james-bond"],"ranks":[],"artists":{"madonna":true}}
+{
+  "title": "Die Another Day",
+  "instanceSlug": "dieanotherday",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": 2002,
+  "playlists": [
+    "james-bond"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+  ]
+}

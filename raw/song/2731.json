@@ -1,1 +1,21 @@
-{"title":"Hot Stuff","instanceSlug":2731,"tags":["#1","#1-hot-100"],"parents":[],"genre":"disco","debut":"1979-05","playlists":[],"ranks":[],"artists":{"donna-summer":true}}
+{
+  "title": "Hot Stuff",
+  "instanceSlug": 2731,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1979-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "donna-summer": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,76 @@
-{"title":"Law & Order","instanceSlug":1407,"tags":["police"],"genre":"pop","debut":1990,"source":{"title":"Law & Order","instanceSlug":"law-order","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[16,10,6,4,4.1,4.5,4.9,5.7,6.9,8.5,10.5,12.9,15.7,18.9,22.5,26.5,30.9,35.7,40.9,46.5,52.5,58.9,65.7,72.9],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":6,"score":12.83,"genres":[{"slug":"pop","title":"Pop"}],"rank":756}
+{
+  "title": "Law & Order",
+  "instanceSlug": 1407,
+  "tags": [
+    "police"
+  ],
+  "genre": "pop",
+  "debut": 1990,
+  "source": {
+    "title": "Law & Order",
+    "instanceSlug": "law-order",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+    {
+      "slug": "instrumental",
+      "title": "Instrumentals"
+    },
+    {
+      "slug": "tv-theme",
+      "title": "TV Show Themes"
+    }
+  ],
+  "ranks": [
+    16,
+    10,
+    6,
+    4,
+    4.1,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "mike-post",
+      "title": "Mike Post",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.529,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5,
+  "score": 6.471999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 808
+}

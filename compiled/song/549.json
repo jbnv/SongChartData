@@ -1,1 +1,67 @@
-{"title":"Groovy Kind of Love","instanceSlug":549,"tags":["#1"],"parents":[],"genre":"pop","debut":"1988-09","source":{"title":"Buster","instanceSlug":"buster","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[22,16,12,10,10.5,12.1,13.7,16.9,21.7,28.1,36.1,45.7,56.9,69.7,84.1,100.1],"artists":[{"slug":"phil-collins","title":"Phil Collins","roleSlug":true}],"debutRank":22,"peakRank":10,"duration":4,"score":3.15,"genres":[{"slug":"pop","title":"Pop"}],"rank":1447}
+{
+  "title": "Groovy Kind of Love",
+  "instanceSlug": 549,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-09",
+  "source": {
+    "title": "Buster",
+    "instanceSlug": "buster",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "ranks": [
+    22,
+    16,
+    12,
+    10,
+    10.5,
+    12.1
+  ],
+  "artists": [
+    {
+      "slug": "phil-collins",
+      "title": "Phil Collins",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.171,
+    0.232,
+    0.216,
+    0.168,
+    0.163,
+    0.153,
+    0.138,
+    0.118,
+    0.093,
+    0.063,
+    0.028,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 3.25,
+  "score": 1.6179999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 1451
+}

@@ -1,1 +1,30 @@
-{"title":"Jump","instanceSlug":1068,"tags":[],"parents":[],"genre":"hip-hop","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"kriss-kross","title":"Kriss Kross","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":2781}
+{
+  "title": "Jump",
+  "instanceSlug": 1068,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hip-hop",
+  "debut": 1992,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kriss-kross",
+      "title": "Kriss Kross",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hip-hop",
+      "title": "Hip Hop"
+    }
+  ],
+  "source": null,
+  "rank": 2907
+}

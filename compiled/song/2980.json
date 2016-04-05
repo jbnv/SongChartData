@@ -1,1 +1,40 @@
-{"title":"Earned It","instanceSlug":2980,"tags":[],"parents":[],"genre":"pop","debut":"2015-04","source":{"title":"Fifty Shades of Grey","instanceSlug":"fifty-shades-of-grey","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":true,"artists":[{"slug":"weeknd","title":"Weeknd, The","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":2183}
+{
+  "title": "Earned It",
+  "instanceSlug": 2980,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-04",
+  "source": {
+    "title": "Fifty Shades of Grey",
+    "instanceSlug": "fifty-shades-of-grey",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": true,
+  "artists": [
+    {
+      "slug": "weeknd",
+      "title": "Weeknd, The",
+      "roleSlug": true
+    }
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 2183
+}

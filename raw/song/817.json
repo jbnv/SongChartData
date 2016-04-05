@@ -1,1 +1,38 @@
-{"title":"Escape (The Pina Colada Song)","instanceSlug":817,"tags":["escape"],"parents":[],"genre":"pop","debut":1980,"playlists":[],"ranks":[17,10.1,7.6,10.1,13.6,18.2,24.4,32.7,43.7,58.6,78.4,105],"artists":{"rupert-holmes":true}}
+{
+  "title": "Escape (The Pina Colada Song)",
+  "instanceSlug": 817,
+  "tags": [
+    "escape"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1980,
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    7.6,
+    10.1,
+    13.6,
+    18.2,
+    24.4,
+    32.7,
+    43.7,
+    58.6,
+    78.4,
+    105
+  ],
+  "artists": {
+    "rupert-holmes": true
+  },
+  "scores": [
+    0.055,
+    0.229,
+    0.323,
+    0.229,
+    0.129,
+    0.032
+  ]
+}

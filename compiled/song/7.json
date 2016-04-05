@@ -1,1 +1,45 @@
-{"title":"Hazy Shade of Winter","instanceSlug":7,"tags":["#2","#2-hot-100"],"parents":[],"genre":"rock","source":{"title":"Less Than Zero","instanceSlug":"less-than-zero","tags":[],"parents":[],"type":"movie"},"debut":"1987-12","ranks":[],"artists":[{"slug":"bangles","title":"Bangles","roleSlug":true},{"slug":"paul-simon","title":"Paul Simon","roleSlug":"writer"}],"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"rank":2722}
+{
+  "title": "Hazy Shade of Winter",
+  "instanceSlug": 7,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "source": {
+    "title": "Less Than Zero",
+    "instanceSlug": "less-than-zero",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "debut": "1987-12",
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bangles",
+      "title": "Bangles",
+      "roleSlug": true
+    },
+    {
+      "slug": "paul-simon",
+      "title": "Paul Simon",
+      "roleSlug": "writer"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "rank": 2722
+}

@@ -1,12 +1,31 @@
 {
   "title": "Another Lover",
   "instanceSlug": 1313,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1988-10",
-  "playlists": [],
-  "ranks": [17,9,7,5.5,4.2,4,4.4],
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9,
+    7,
+    5.5,
+    4.2,
+    4,
+    4.4
+  ],
   "artists": {
     "giant-steps": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.267,
+    0.351,
+    0.431,
+    0.521,
+    0.537,
+    0.506
+  ]
 }

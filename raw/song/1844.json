@@ -1,1 +1,21 @@
-{"title":"Wonderful Tonight","instanceSlug":1844,"tags":[],"parents":[],"genre":"blues","debut":"1978-06","playlists":[],"ranks":[],"artists":{"eric-clapton":true,"yvonne-elleman":"backup","marcy-levy":"backup"}}
+{
+  "title": "Wonderful Tonight",
+  "instanceSlug": 1844,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "blues",
+  "debut": "1978-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eric-clapton": true,
+    "yvonne-elleman": "backup",
+    "marcy-levy": "backup"
+  },
+  "scores": [
+  ]
+}

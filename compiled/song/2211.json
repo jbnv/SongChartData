@@ -1,1 +1,60 @@
-{"title":"Don't Answer Me","instanceSlug":2211,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1984-04","playlists":[],"ranks":[21,14,11,10.5,8.9,8,8.7,10.2,11.7,14.7,19.2,25.2,32.7,41.7,52.2,64.2],"artists":[{"slug":"alan-parsons-project","title":"Alan Parsons Project","roleSlug":true}],"debutRank":21,"peakRank":8,"duration":4,"score":5.76,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1291}
+{
+  "title": "Don't Answer Me",
+  "instanceSlug": 2211,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1984-04",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    11,
+    10.5,
+    8.9,
+    8,
+    8.7,
+    10.2
+  ],
+  "artists": [
+    {
+      "slug": "alan-parsons-project",
+      "title": "Alan Parsons Project",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.2,
+    0.216,
+    0.271,
+    0.306,
+    0.278,
+    0.225,
+    0.22,
+    0.21,
+    0.195,
+    0.175,
+    0.15,
+    0.12,
+    0.085,
+    0.045,
+    0,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 4.25,
+  "score": 2.816,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1336
+}

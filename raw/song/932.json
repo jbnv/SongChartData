@@ -1,1 +1,27 @@
-{"title":"One Night Love Affair","instanceSlug":932,"tags":[],"parents":[],"genre":"rock","debut":"1985-10","playlists":[],"ranks":[17.9,10.7,8.2,9.2],"artists":{"bryan-adams":true}}
+{
+  "title": "One Night Love Affair",
+  "instanceSlug": 932,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    8.2,
+    9.2
+  ],
+  "artists": {
+    "bryan-adams": true
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.298,
+    0.26
+  ]
+}

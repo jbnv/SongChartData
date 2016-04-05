@@ -1,1 +1,37 @@
-{"title":"Mama Can't Buy You Love","instanceSlug":1664,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1979-07","playlists":[],"ranks":[],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true},{"slug":"spinners","title":"Spinners","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2534}
+{
+  "title": "Mama Can't Buy You Love",
+  "instanceSlug": 1664,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1979-07",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "elton-john",
+      "title": "Elton John",
+      "roleSlug": true
+    },
+    {
+      "slug": "spinners",
+      "title": "Spinners",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2983
+}

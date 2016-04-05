@@ -1,1 +1,31 @@
-{"title":"Round & Round","instanceSlug":437,"tags":[],"parents":[],"genre":"metal","debut":"1984-07","playlists":[],"ranks":[15,8.5,4.8,3.1,4.3,6],"artists":{"ratt":true}}
+{
+  "title": "Round & Round",
+  "instanceSlug": 437,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1984-07",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.5,
+    4.8,
+    3.1,
+    4.3,
+    6
+  ],
+  "artists": {
+    "ratt": true
+  },
+  "scores": [
+    0.097,
+    0.286,
+    0.477,
+    0.622,
+    0.513,
+    0.402
+  ]
+}

@@ -1,1 +1,27 @@
-{"title":"Funky Cold Medina","instanceSlug":8,"tags":["cool","drink"],"parents":[],"genre":"rap","debut":"1989-04","ranks":[],"artists":[],"genres":[{"slug":"rap","title":"Rap"}],"playlists":[],"source":null,"rank":2833}
+{
+  "title": "Funky Cold Medina",
+  "instanceSlug": 8,
+  "tags": [
+    "cool",
+    "drink"
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1989-04",
+  "ranks": [
+  ],
+  "artists": [
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 2833
+}

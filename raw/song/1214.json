@@ -6,10 +6,11 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "source":"off-the-wall",
+  "source": "off-the-wall",
   "genre": "soul",
   "debut": "1979-12",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16,
     10,
@@ -25,5 +26,18 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.463,
+    0.582,
+    0.694,
+    0.681,
+    0.656,
+    0.633,
+    0.612,
+    0.582,
+    0.546
+  ]
 }

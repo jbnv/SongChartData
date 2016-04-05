@@ -1,1 +1,68 @@
-{"title":"Automatic","instanceSlug":2645,"tags":[],"genre":"pop","debut":"1984-02","playlists":[],"ranks":[8,1,1.09,1.195,1.315,1.44,1.65,1.87,2.09,2.53,3.19,4.07,5.17,6.49,8.03,9.79,11.77,13.97,16.39,19.03,21.89,24.97,28.27,31.79,35.53,39.49,43.67,48.07,52.69,57.53,62.59,67.87],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"note":"Project 6 weeks at #1.","debutRank":8,"peakRank":1,"duration":8,"score":32.94,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":27}
+{
+  "title": "Automatic",
+  "instanceSlug": 2645,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1984-02",
+  "playlists": [
+  ],
+  "ranks": [
+    8,
+    1,
+    1.09,
+    1.195,
+    1.315,
+    1.44,
+    1.65,
+    1.87
+  ],
+  "artists": [
+    {
+      "slug": "pointer-sisters",
+      "title": "Pointer Sisters",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.971,
+    0.94,
+    0.908,
+    0.878,
+    0.833,
+    0.791,
+    0.786,
+    0.776,
+    0.761,
+    0.741,
+    0.716,
+    0.686,
+    0.651,
+    0.611,
+    0.566,
+    0.516,
+    0.461,
+    0.401,
+    0.336,
+    0.266,
+    0.191,
+    0.111,
+    0.026,
+    0
+  ],
+  "debutScore": 0.306,
+  "peakScore": 0.306,
+  "duration": 6.5,
+  "score": 15.229000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 19
+}

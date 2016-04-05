@@ -1,1 +1,22 @@
-{"title":"New Orleans Ladies","instanceSlug":1494,"tags":["ladies","lady","places"],"parents":[],"genre":"pop","debut":1982,"playlists":[],"ranks":[],"artists":{"leroux":true}}
+{
+  "title": "New Orleans Ladies",
+  "instanceSlug": 1494,
+  "tags": [
+    "ladies",
+    "lady",
+    "places"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1982,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "leroux": true
+  },
+  "scores": [
+  ]
+}

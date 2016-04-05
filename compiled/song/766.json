@@ -1,1 +1,60 @@
-{"title":"Victory","instanceSlug":766,"tags":[],"parents":[],"genre":"funk","debut":"1986-12","playlists":[],"ranks":[15.6,8.6,5.5,4.9,4.8,5.4,6,7.2,9,11.4,14.4,18,22.2,27,32.4,38.4,45,52.2,60,68.4],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":15.6,"peakRank":4.8,"duration":5,"score":10.6,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":914}
+{
+  "title": "Victory",
+  "instanceSlug": 766,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "funk",
+  "debut": "1986-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15.6,
+    8.6,
+    5.5,
+    4.9,
+    4.8,
+    5.4
+  ],
+  "artists": [
+    {
+      "slug": "koolnthegang",
+      "title": "Kool & the Gang",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.084,
+    0.282,
+    0.431,
+    0.47,
+    0.477,
+    0.437,
+    0.432,
+    0.422,
+    0.407,
+    0.387,
+    0.362,
+    0.332,
+    0.297,
+    0.257,
+    0.212,
+    0.162,
+    0.107,
+    0.047,
+    0
+  ],
+  "debutScore": 0.084,
+  "peakScore": 0.084,
+  "duration": 4.75,
+  "score": 5.604999999999999,
+  "genres": [
+    {
+      "slug": "funk",
+      "title": "Funk"
+    }
+  ],
+  "source": null,
+  "rank": 906
+}

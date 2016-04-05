@@ -5,7 +5,9 @@
     "detroit",
     "philadelphia"
   ],
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "genre": "hip-hop",
   "debut": "1991-07",
   "ranks": [
@@ -18,5 +20,12 @@
   "artists": {
     "boyz-ii-men": true,
     "michael-bivins": "backup"
-  }
+  },
+  "scores": [
+    0.065,
+    0.249,
+    0.437,
+    0.506,
+    0.431
+  ]
 }

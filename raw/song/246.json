@@ -1,8 +1,11 @@
 {
   "title": "Giving Him Something He Can Feel",
   "instanceSlug": 246,
-  "tags": [],
-  "playlists": ["summer"],
+  "tags": [
+  ],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1992-07",
   "ranks": [
@@ -16,5 +19,14 @@
   ],
   "artists": {
     "en-vogue": true
-  }
+  },
+  "scores": [
+    0.232,
+    0.668,
+    0.959,
+    0.925,
+    0.89,
+    0.849,
+    0.788
+  ]
 }

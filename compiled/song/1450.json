@@ -1,1 +1,30 @@
-{"title":"For Once In My Life","instanceSlug":1450,"tags":[],"parents":[],"genre":"soul","debut":1968,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2328}
+{
+  "title": "For Once In My Life",
+  "instanceSlug": 1450,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1968,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2609
+}

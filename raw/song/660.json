@@ -1,1 +1,39 @@
-{"title":"Always Something There to Remind Me","instanceSlug":660,"tags":[],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[17,9.9,5.8,5.2,4.9,4.5,4.3,4.4,4.8,5.5],"artists":{"naked-eyes":true}}
+{
+  "title": "Always Something There to Remind Me",
+  "instanceSlug": 660,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    5.2,
+    4.9,
+    4.5,
+    4.3,
+    4.4,
+    4.8,
+    5.5
+  ],
+  "artists": {
+    "naked-eyes": true
+  },
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.45,
+    0.47,
+    0.498,
+    0.513,
+    0.506,
+    0.477,
+    0.431
+  ]
+}

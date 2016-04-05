@@ -1,1 +1,21 @@
-{"title":"Close My Eyes Forever","instanceSlug":2759,"tags":[],"parents":[],"genre":"hard-rock","debut":"1989-05","playlists":["summer"],"ranks":[],"artists":{"lita-ford":true,"ozzy-osbourne":"feature"}}
+{
+  "title": "Close My Eyes Forever",
+  "instanceSlug": 2759,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1989-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "lita-ford": true,
+    "ozzy-osbourne": "feature"
+  },
+  "scores": [
+  ]
+}

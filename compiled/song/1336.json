@@ -1,1 +1,64 @@
-{"title":"I Live By the Groove","instanceSlug":1336,"tags":[],"genre":"pop","debut":"1989-11","playlists":[],"ranks":[11,2.5,1,1.05,1.18,1.42,1.66,2.14,2.86,3.82,5.02,6.46,8.14,10.06,12.22,14.62,17.26,20.14,23.26,26.62,30.22,34.06,38.14,42.46,47.02,51.82,56.86,62.14],"artists":[{"slug":"paul-carrack","title":"Paul Carrack","roleSlug":true}],"debutRank":11,"peakRank":1,"duration":7,"score":27.54,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":78}
+{
+  "title": "I Live By the Groove",
+  "instanceSlug": 1336,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1989-11",
+  "playlists": [
+  ],
+  "ranks": [
+    11,
+    2.5,
+    1,
+    1.05,
+    1.18,
+    1.42
+  ],
+  "artists": [
+    {
+      "slug": "paul-carrack",
+      "title": "Paul Carrack",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.2,
+    0.694,
+    1,
+    0.983,
+    0.944,
+    0.883,
+    0.878,
+    0.868,
+    0.853,
+    0.833,
+    0.808,
+    0.778,
+    0.743,
+    0.703,
+    0.658,
+    0.608,
+    0.553,
+    0.493,
+    0.428,
+    0.358,
+    0.283,
+    0.203,
+    0.118,
+    0.028,
+    0
+  ],
+  "debutScore": 0.2,
+  "peakScore": 0.2,
+  "duration": 6.25,
+  "score": 14.898000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 25
+}

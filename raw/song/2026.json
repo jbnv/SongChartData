@@ -1,1 +1,19 @@
-{"title":"Viva La Vida","instanceSlug":2026,"tags":[],"parents":[],"genre":"pop","debut":2008,"playlists":[],"ranks":[],"artists":{"coldplay":true}}
+{
+  "title": "Viva La Vida",
+  "instanceSlug": 2026,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2008,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "coldplay": true
+  },
+  "scores": [
+  ]
+}

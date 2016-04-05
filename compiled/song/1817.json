@@ -1,1 +1,66 @@
-{"title":"When We Dance","instanceSlug":1817,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1995-01","playlists":[],"ranks":[16,9,5.4,4.2,3.5,3,3.2,3.6,4,4.8,6,7.6,9.6,12,14.8,18,21.6,25.6,30,34.8,40,45.6,51.6,58],"artists":[{"slug":"sting","title":"Sting","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":6,"score":18.01,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":423}
+{
+  "title": "When We Dance",
+  "instanceSlug": 1817,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1995-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    5.4,
+    4.2,
+    3.5,
+    3,
+    3.2,
+    3.6
+  ],
+  "artists": [
+    {
+      "slug": "sting",
+      "title": "Sting",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.267,
+    0.437,
+    0.521,
+    0.582,
+    0.633,
+    0.612,
+    0.573,
+    0.568,
+    0.558,
+    0.543,
+    0.523,
+    0.498,
+    0.468,
+    0.433,
+    0.393,
+    0.348,
+    0.298,
+    0.243,
+    0.183,
+    0.118,
+    0.048,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.75,
+  "score": 8.922,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 485
+}

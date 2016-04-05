@@ -1,1 +1,65 @@
-{"title":"Dirty Laundry","instanceSlug":1248,"tags":["#1","#1-mainstream-rock"],"genre":"pop","debut":"1982-11","playlists":[],"ranks":[14,3.7,2.3,2.4,2.6,2.9,3.25,3.6,4.3,5.35,6.75,8.5,10.6,13.05,15.85,19,22.5,26.35,30.55,35.1,40,45.25,50.85,56.8],"artists":[{"slug":"don-henley","title":"Don Henley","roleSlug":true}],"debutRank":14,"peakRank":2.3,"duration":6,"score":20.04,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":323}
+{
+  "title": "Dirty Laundry",
+  "instanceSlug": 1248,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "genre": "pop",
+  "debut": "1982-11",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    3.7,
+    2.3,
+    2.4,
+    2.6,
+    2.9,
+    3.25
+  ],
+  "artists": [
+    {
+      "slug": "don-henley",
+      "title": "Don Henley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.563,
+    0.722,
+    0.708,
+    0.681,
+    0.645,
+    0.607,
+    0.602,
+    0.592,
+    0.577,
+    0.557,
+    0.532,
+    0.502,
+    0.467,
+    0.427,
+    0.382,
+    0.332,
+    0.277,
+    0.217,
+    0.152,
+    0.082,
+    0.007,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 9.751,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 400
+}

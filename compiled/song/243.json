@@ -1,1 +1,73 @@
-{"title":"La Bamba","instanceSlug":243,"tags":["#1","#1-hot-100"],"parents":[],"genre":"latin-rock","debut":"1987-08","source":{"title":"La Bamba","instanceSlug":"la-bamba","tags":[],"parents":[],"type":"movie"},"ranks":[15.5,6.3,3.15,3.25,3.39,3.62,4.2,4.78,5.94,7.68,10,12.9,16.38,20.44,25.08,30.3,36.1,42.48,49.44,56.98],"artists":[{"slug":"los-lobos","title":"Los Lobos","roleSlug":true}],"debutRank":15.5,"peakRank":3.15,"duration":5,"score":15.11,"genres":[{"slug":"latin-rock","title":"Latin Rock"}],"playlists":[],"rank":595}
+{
+  "title": "La Bamba",
+  "instanceSlug": 243,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "latin-rock",
+  "debut": "1987-08",
+  "source": {
+    "title": "La Bamba",
+    "instanceSlug": "la-bamba",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "ranks": [
+    15.5,
+    6.3,
+    3.15,
+    3.25,
+    3.39,
+    3.62,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "los-lobos",
+      "title": "Los Lobos",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.386,
+    0.617,
+    0.607,
+    0.593,
+    0.571,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 5.25,
+  "score": 7.879,
+  "genres": [
+    {
+      "slug": "latin-rock",
+      "title": "Latin Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "rank": 625
+}

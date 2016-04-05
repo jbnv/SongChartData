@@ -1,1 +1,32 @@
-{"title":"Dance with My Father","instanceSlug":2914,"tags":["dance-with","my-father"],"parents":[],"genre":"soul","debut":2003,"playlists":[],"ranks":[],"artists":[{"slug":"luther-vandross","title":"Luther Vandross","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2110}
+{
+  "title": "Dance with My Father",
+  "instanceSlug": 2914,
+  "tags": [
+    "dance-with",
+    "my-father"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 2003,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "luther-vandross",
+      "title": "Luther Vandross",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2110
+}

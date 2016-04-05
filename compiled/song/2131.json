@@ -1,1 +1,36 @@
-{"title":"You Must Love Me","instanceSlug":2131,"tags":[],"parents":[],"genre":"pop","debut":"1996-12","source":{"title":"Evita","instanceSlug":"evita","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":2661}
+{
+  "title": "You Must Love Me",
+  "instanceSlug": 2131,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-12",
+  "source": {
+    "title": "Evita",
+    "instanceSlug": "evita",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 2622
+}

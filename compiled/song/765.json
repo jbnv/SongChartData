@@ -1,1 +1,63 @@
-{"title":"Celebration","instanceSlug":765,"tags":["#1","#1-hot-100","#1-r&b"],"genre":"dance","debut":"1980-12","playlists":[],"ranks":[13,2.55,1.11,1.22,1.33,1.55,1.88,2.32,2.87,3.53,4.3,5.18,6.17,7.27,8.48,9.8,11.23,12.77,14.42,16.18,18.05,20.03,22.12,24.32,26.63,29.05,31.58,34.22,36.97,39.83,42.8,45.88,49.07,52.37,55.78,59.3],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":13,"peakRank":1.11,"duration":9,"score":30.05,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":48}
+{
+  "title": "Celebration",
+  "instanceSlug": 765,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "genre": "dance",
+  "debut": "1980-12",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    2.55,
+    1.11,
+    1.22
+  ],
+  "artists": [
+    {
+      "slug": "koolnthegang",
+      "title": "Kool & the Gang",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.687,
+    0.965,
+    0.933,
+    0.928,
+    0.918,
+    0.903,
+    0.883,
+    0.858,
+    0.828,
+    0.793,
+    0.753,
+    0.708,
+    0.658,
+    0.603,
+    0.543,
+    0.478,
+    0.408,
+    0.333,
+    0.253,
+    0.168,
+    0.078,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.75,
+  "score": 13.823999999999996,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 88
+}

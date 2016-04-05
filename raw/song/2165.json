@@ -1,1 +1,19 @@
-{"title":"In the Air Tonight","instanceSlug":2165,"tags":[],"parents":[],"genre":"rock","debut":"1981-07","playlists":[],"ranks":[],"artists":{"phil-collins":true}}
+{
+  "title": "In the Air Tonight",
+  "instanceSlug": 2165,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-07",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "phil-collins": true
+  },
+  "scores": [
+  ]
+}

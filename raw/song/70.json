@@ -1,8 +1,12 @@
 {
   "title": "I Know There's Something Going On",
   "instanceSlug": 70,
-  "tags": [],
-  "playlists": ["feb13","cheating"],
+  "tags": [
+  ],
+  "playlists": [
+    "feb13",
+    "cheating"
+  ],
   "genre": "pop",
   "debut": "1983-02",
   "ranks": [
@@ -15,5 +19,13 @@
   ],
   "artists": {
     "frida": true
-  }
+  },
+  "scores": [
+    0.122,
+    0.311,
+    0.498,
+    0.612,
+    0.582,
+    0.521
+  ]
 }

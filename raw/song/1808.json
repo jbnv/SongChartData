@@ -1,1 +1,19 @@
-{"title":"Lady","instanceSlug":1808,"tags":[],"parents":[],"genre":"rock","debut":1975,"playlists":[],"ranks":[],"artists":{"styx":true}}
+{
+  "title": "Lady",
+  "instanceSlug": 1808,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "styx": true
+  },
+  "scores": [
+  ]
+}

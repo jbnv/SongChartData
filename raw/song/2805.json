@@ -1,1 +1,21 @@
-{"title":"Heaven","instanceSlug":2805,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"latin-rock","debut":2004,"playlists":[],"ranks":[],"artists":{"los-lonely-boys":true}}
+{
+  "title": "Heaven",
+  "instanceSlug": 2805,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "latin-rock",
+  "debut": 2004,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "los-lonely-boys": true
+  },
+  "scores": [
+  ]
+}

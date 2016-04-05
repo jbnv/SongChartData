@@ -1,1 +1,64 @@
-{"title":"Woman in Love","instanceSlug":990,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1980-09","playlists":[],"ranks":[13.9,7.3,3.8,1.9,1.6,2.3,3,4.4,6.5,9.3,12.8,17,21.9,27.5,33.8,40.8,48.5,56.9,66,75.8],"artists":[{"slug":"barbra-streisand","title":"Barbra Streisand","roleSlug":true}],"debutRank":13.9,"peakRank":1.6,"duration":5,"score":16.04,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":533}
+{
+  "title": "Woman in Love",
+  "instanceSlug": 990,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1980-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    7.3,
+    3.8,
+    1.9,
+    1.6,
+    2.3
+  ],
+  "artists": [
+    {
+      "slug": "barbra-streisand",
+      "title": "Barbra Streisand",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.337,
+    0.554,
+    0.786,
+    0.843,
+    0.722,
+    0.717,
+    0.707,
+    0.692,
+    0.672,
+    0.647,
+    0.617,
+    0.582,
+    0.542,
+    0.497,
+    0.447,
+    0.392,
+    0.332,
+    0.267,
+    0.197,
+    0.122,
+    0.042,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 5.75,
+  "score": 10.835999999999999,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 279
+}

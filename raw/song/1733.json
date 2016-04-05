@@ -1,1 +1,31 @@
-{"title":"Sign 'O' The Times","instanceSlug":1733,"tags":[],"parents":[],"genre":"pop","debut":"1987-03","playlists":[],"ranks":[16,9,5.4,4,4.2,4.8],"artists":{"prince":true}}
+{
+  "title": "Sign 'O' The Times",
+  "instanceSlug": 1733,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    5.4,
+    4,
+    4.2,
+    4.8
+  ],
+  "artists": {
+    "prince": true
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.437,
+    0.537,
+    0.521,
+    0.477
+  ]
+}

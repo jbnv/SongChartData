@@ -1,1 +1,30 @@
-{"title":"Rocket Man","instanceSlug":2399,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3030}
+{
+  "title": "Rocket Man",
+  "instanceSlug": 2399,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "elton-john",
+      "title": "Elton John",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3030
+}

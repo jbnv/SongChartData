@@ -9,7 +9,8 @@
   "source": "innocent-man",
   "genre": "pop",
   "debut": "1983-08",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     17,
     9.7,
@@ -19,5 +20,12 @@
   ],
   "artists": {
     "billy-joel": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.242,
+    0.425,
+    0.498,
+    0.391
+  ]
 }

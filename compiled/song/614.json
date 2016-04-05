@@ -1,1 +1,67 @@
-{"title":"Even the Nights Are Better","instanceSlug":614,"tags":["better","even","night"],"parents":[],"genre":"adult-contemporary","debut":"1982-07","playlists":[],"ranks":[17,9.8,5.7,5.3,4.85,5,5.25,6,6.75,8.25,10.5,13.5,17.25,21.75,27,33,39.75,47.25,55.5,64.5],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"debutRank":17,"peakRank":4.85,"duration":5,"score":12.02,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":816}
+{
+  "title": "Even the Nights Are Better",
+  "instanceSlug": 614,
+  "tags": [
+    "better",
+    "even",
+    "night"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1982-07",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.8,
+    5.7,
+    5.3,
+    4.85,
+    5,
+    5.25,
+    6
+  ],
+  "artists": [
+    {
+      "slug": "air-supply",
+      "title": "Air Supply",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.239,
+    0.419,
+    0.444,
+    0.473,
+    0.463,
+    0.447,
+    0.402,
+    0.397,
+    0.387,
+    0.372,
+    0.352,
+    0.327,
+    0.297,
+    0.262,
+    0.222,
+    0.177,
+    0.127,
+    0.072,
+    0.012,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 5.946,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 865
+}

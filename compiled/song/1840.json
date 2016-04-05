@@ -1,1 +1,30 @@
-{"title":"Garden Party","instanceSlug":1840,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"rick-nelson","title":"Rick Nelson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1879}
+{
+  "title": "Garden Party",
+  "instanceSlug": 1840,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rick-nelson",
+      "title": "Rick Nelson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3000
+}

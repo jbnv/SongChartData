@@ -1,1 +1,66 @@
-{"title":"Sweet Dreams","instanceSlug":377,"tags":["dream","sweet","sweet-dreams"],"parents":[],"genre":"pop","debut":"1996-09","playlists":[],"ranks":[13,7.4,4.2,3.3,3.5,3.9,4.52,5.14,6.38,8.24,10.72,13.82,17.54,21.88,26.84,32.42,38.62,45.44,52.88,60.94],"artists":[{"slug":"la-bouche","title":"La Bouche","roleSlug":true}],"debutRank":13,"peakRank":3.3,"duration":5,"score":14.22,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":656}
+{
+  "title": "Sweet Dreams",
+  "instanceSlug": 377,
+  "tags": [
+    "dream",
+    "sweet",
+    "sweet-dreams"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    7.4,
+    4.2,
+    3.3,
+    3.5,
+    3.9,
+    4.52
+  ],
+  "artists": [
+    {
+      "slug": "la-bouche",
+      "title": "La Bouche",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.332,
+    0.521,
+    0.602,
+    0.582,
+    0.546,
+    0.497,
+    0.492,
+    0.482,
+    0.467,
+    0.447,
+    0.422,
+    0.392,
+    0.357,
+    0.317,
+    0.272,
+    0.222,
+    0.167,
+    0.107,
+    0.042,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.25,
+  "score": 7.4110000000000005,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 681
+}

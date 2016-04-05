@@ -5,9 +5,14 @@
     "#1",
     "#1-r&b"
   ],
-  "genres":["dance", "funk"],
+  "genres": [
+    "dance",
+    "funk"
+  ],
   "debut": "1986-07",
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "ranks": [
     12,
     3,
@@ -17,5 +22,12 @@
   ],
   "artists": {
     "timex-social-club": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.633,
+    1,
+    0.974,
+    0.915
+  ]
 }

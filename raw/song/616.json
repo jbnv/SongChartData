@@ -1,1 +1,29 @@
-{"title":"Personally","instanceSlug":616,"tags":[],"parents":[],"genre":true,"debut":"1982-06","playlists":[],"ranks":[17,9.9,5.8,6.2,8.5],"artists":{"carla-bonoff":true}}
+{
+  "title": "Personally",
+  "instanceSlug": 616,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1982-06",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    6.2,
+    8.5
+  ],
+  "artists": {
+    "carla-bonoff": true
+  },
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.391,
+    0.286
+  ]
+}

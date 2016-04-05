@@ -1,1 +1,75 @@
-{"title":"For the Love of Money","instanceSlug":2632,"tags":[],"parents":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"urban","title":"Urban / R&B"},{"slug":"r&b"}],"debut":1974,"playlists":[{"slug":"commentary"}],"ranks":[16,6,4,2,2.05,2.21,2.5,2.79,3.37,4.24,5.4,6.85,8.59,10.62,12.94,15.55,18.45,21.64,25.12,28.89,32.95,37.3,41.94,46.87,52.09,57.6,63.4,69.49],"artists":[{"slug":"o-jays","title":"O'Jays","roleSlug":true}],"debutRank":16,"peakRank":2,"duration":7,"score":21.9,"source":null,"rank":235}
+{
+  "title": "For the Love of Money",
+  "instanceSlug": 2632,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    },
+    {
+      "slug": "r&b"
+    }
+  ],
+  "debut": 1974,
+  "playlists": [
+    {
+      "slug": "commentary"
+    }
+  ],
+  "ranks": [
+    16,
+    6,
+    4,
+    2,
+    2.05,
+    2.21,
+    2.5
+  ],
+  "artists": [
+    {
+      "slug": "o-jays",
+      "title": "O'Jays",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.402,
+    0.537,
+    0.768,
+    0.76,
+    0.735,
+    0.694,
+    0.689,
+    0.679,
+    0.664,
+    0.644,
+    0.619,
+    0.589,
+    0.554,
+    0.514,
+    0.469,
+    0.419,
+    0.364,
+    0.304,
+    0.239,
+    0.169,
+    0.094,
+    0.014,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6,
+  "score": 10.995,
+  "source": null,
+  "rank": 267
+}

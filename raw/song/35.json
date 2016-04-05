@@ -1,1 +1,15 @@
-{"title":"Jeremy","instanceSlug":35,"tags":[],"parents":[],"ranks":[],"artists":{"pearl-jam":true}}
+{
+  "title": "Jeremy",
+  "instanceSlug": 35,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "pearl-jam": true
+  },
+  "scores": [
+  ]
+}

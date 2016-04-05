@@ -1,1 +1,66 @@
-{"title":"Heart Attack","instanceSlug":681,"tags":[],"parents":[],"genre":"pop","debut":"1982-10","playlists":[],"ranks":[18,11,7,5,4,3,3.25,3.7,4.15,5.05,6.4,8.2,10.45,13.15,16.3,19.9,23.95,28.45,33.4,38.8,44.65,50.95,57.7,64.9],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true}],"debutRank":18,"peakRank":3,"duration":6,"score":16.48,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":503}
+{
+  "title": "Heart Attack",
+  "instanceSlug": 681,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-10",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    7,
+    5,
+    4,
+    3,
+    3.25,
+    3.7
+  ],
+  "artists": [
+    {
+      "slug": "olivia-newton-john",
+      "title": "Olivia Newton-John",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.2,
+    0.351,
+    0.463,
+    0.537,
+    0.633,
+    0.607,
+    0.563,
+    0.558,
+    0.548,
+    0.533,
+    0.513,
+    0.488,
+    0.458,
+    0.423,
+    0.383,
+    0.338,
+    0.288,
+    0.233,
+    0.173,
+    0.108,
+    0.038,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5.75,
+  "score": 8.472000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 547
+}

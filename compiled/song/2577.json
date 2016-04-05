@@ -1,1 +1,33 @@
-{"title":"Lady","instanceSlug":2577,"tags":["#1","#1-adult-contemporary","#1-country"],"parents":[],"genre":"country","debut":"1980-10","playlists":[],"ranks":[],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1735}
+{
+  "title": "Lady",
+  "instanceSlug": 2577,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1980-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 1735
+}

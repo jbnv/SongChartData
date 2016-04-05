@@ -1,1 +1,69 @@
-{"title":"When the Going Gets Tough, the Tough Get Going","instanceSlug":322,"tags":["go","tough"],"parents":[],"genre":"pop","debut":"1986-01","source":{"title":"Jewel of the Nile","instanceSlug":"jewel-of-the-nile","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[15,8.6,4.9,3.8,5.02,6.24,8.68,12.34,17.22,23.32,30.64,39.18,48.94,59.92,72.12,85.54],"artists":[{"slug":"billy-ocean","title":"Billy Ocean","roleSlug":true}],"debutRank":15,"peakRank":3.8,"duration":4,"score":8.25,"genres":[{"slug":"pop","title":"Pop"}],"rank":1089}
+{
+  "title": "When the Going Gets Tough, the Tough Get Going",
+  "instanceSlug": 322,
+  "tags": [
+    "go",
+    "tough"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-01",
+  "source": {
+    "title": "Jewel of the Nile",
+    "instanceSlug": "jewel-of-the-nile",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.6,
+    4.9,
+    3.8,
+    5.02
+  ],
+  "artists": [
+    {
+      "slug": "billy-ocean",
+      "title": "Billy Ocean",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.282,
+    0.47,
+    0.554,
+    0.462,
+    0.457,
+    0.447,
+    0.432,
+    0.412,
+    0.387,
+    0.357,
+    0.322,
+    0.282,
+    0.237,
+    0.187,
+    0.132,
+    0.072,
+    0.007,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 4.75,
+  "score": 5.596,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 908
+}

@@ -1,1 +1,58 @@
-{"title":"You're Driving Me Out of My Mind","instanceSlug":2040,"tags":[],"parents":[],"genre":"pop","debut":"1983-09","playlists":[],"ranks":[14,8,5,5.2,5.7,6.2,7.2,8.7,10.7,13.2,16.2,19.7,23.7,28.2,33.2,38.7,44.7,51.2,58.2,65.7],"artists":[{"slug":"little-river-band","title":"Little River Band","roleSlug":true}],"debutRank":14,"peakRank":5,"duration":5,"score":9.6,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":989}
+{
+  "title": "You're Driving Me Out of My Mind",
+  "instanceSlug": 2040,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8,
+    5,
+    5.2,
+    5.7
+  ],
+  "artists": [
+    {
+      "slug": "little-river-band",
+      "title": "Little River Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.306,
+    0.463,
+    0.45,
+    0.419,
+    0.414,
+    0.404,
+    0.389,
+    0.369,
+    0.344,
+    0.314,
+    0.279,
+    0.239,
+    0.194,
+    0.144,
+    0.089,
+    0.029,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 4.5,
+  "score": 4.966,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1021
+}

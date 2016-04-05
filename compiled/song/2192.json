@@ -1,1 +1,62 @@
-{"title":"Everlasting Love","instanceSlug":2192,"tags":["#1"],"parents":[],"genre":"pop","debut":"1989-04","playlists":[],"ranks":[16,11,8,6.5,6,6.5,7.4,8.3,10.1,12.8,16.4,20.9,26.3,32.6,39.8,47.9,56.9,66.8,77.6,89.3],"artists":[{"slug":"howard-jones","title":"Howard Jones","roleSlug":true}],"debutRank":16,"peakRank":6,"duration":5,"score":8.44,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1081}
+{
+  "title": "Everlasting Love",
+  "instanceSlug": 2192,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-04",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    11,
+    8,
+    6.5,
+    6,
+    6.5,
+    7.4
+  ],
+  "artists": [
+    {
+      "slug": "howard-jones",
+      "title": "Howard Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.2,
+    0.306,
+    0.376,
+    0.402,
+    0.376,
+    0.332,
+    0.327,
+    0.317,
+    0.302,
+    0.282,
+    0.257,
+    0.227,
+    0.192,
+    0.152,
+    0.107,
+    0.057,
+    0.002,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.75,
+  "score": 4.289000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1118
+}

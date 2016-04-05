@@ -1,1 +1,30 @@
-{"title":"Jesse","instanceSlug":2871,"tags":[],"parents":[],"genre":"pop","debut":"1980-09","playlists":[],"ranks":[],"artists":[{"slug":"carly-simon","title":"Carly Simon","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2062}
+{
+  "title": "Jesse",
+  "instanceSlug": 2871,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "carly-simon",
+      "title": "Carly Simon",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2062
+}

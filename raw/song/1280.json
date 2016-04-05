@@ -1,1 +1,23 @@
-{"title":"Hotel California","instanceSlug":1280,"tags":["#1","#1-hot-100","places"],"parents":[],"genre":"soft-rock","debut":1977,"playlists":[],"ranks":[],"artists":{"eagles":true,"don-henley":"member"}}
+{
+  "title": "Hotel California",
+  "instanceSlug": 1280,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "places"
+  ],
+  "parents": [
+  ],
+  "genre": "soft-rock",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eagles": true,
+    "don-henley": "member"
+  },
+  "scores": [
+  ]
+}

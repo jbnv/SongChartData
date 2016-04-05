@@ -1,1 +1,30 @@
-{"title":"Here We Go Again!","instanceSlug":2652,"tags":[],"parents":[],"genre":"pop","debut":"1993-01","playlists":[],"ranks":[],"artists":[{"slug":"portrait","title":"Portrait","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1819}
+{
+  "title": "Here We Go Again!",
+  "instanceSlug": 2652,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "portrait",
+      "title": "Portrait",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1819
+}

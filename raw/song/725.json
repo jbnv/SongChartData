@@ -1,1 +1,28 @@
-{"title":"Sweat","instanceSlug":725,"tags":["sweat"],"parents":[],"genre":"reggae","debut":"1993-09","playlists":[],"ranks":[14.3,2.9,1,1.12],"artists":{"inner-circle":true}}
+{
+  "title": "Sweat",
+  "instanceSlug": 725,
+  "tags": [
+    "sweat"
+  ],
+  "parents": [
+  ],
+  "genre": "reggae",
+  "debut": "1993-09",
+  "playlists": [
+  ],
+  "ranks": [
+    14.3,
+    2.9,
+    1,
+    1.12
+  ],
+  "artists": {
+    "inner-circle": true
+  },
+  "scores": [
+    0.113,
+    0.645,
+    1,
+    0.962
+  ]
+}

@@ -1,1 +1,35 @@
-{"title":"In Too Deep","instanceSlug":2554,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1987-05","playlists":[],"ranks":[16,10.1,7.5,4.9,4.2,4.45,5.1],"artists":{"genesis":true}}
+{
+  "title": "In Too Deep",
+  "instanceSlug": 2554,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-05",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10.1,
+    7.5,
+    4.9,
+    4.2,
+    4.45,
+    5.1
+  ],
+  "artists": {
+    "genesis": true
+  },
+  "scores": [
+    0.075,
+    0.229,
+    0.328,
+    0.47,
+    0.521,
+    0.502,
+    0.456
+  ]
+}

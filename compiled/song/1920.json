@@ -1,1 +1,68 @@
-{"title":"Get Together","instanceSlug":1920,"tags":[],"parents":[],"genre":"pop","debut":"1996-02","playlists":[],"ranks":[14.5,8,4.6,2.9,2.5,2.69,2.94,3.25,3.86,4.47,5.69,7.52,9.96,13.01,16.67,20.94,25.82,31.31,37.41,44.12,51.44,59.37,67.91,77.06],"artists":[{"slug":"big-mountain","title":"Big Mountain","roleSlug":true}],"debutRank":14.5,"peakRank":2.5,"duration":6,"score":19.21,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":360}
+{
+  "title": "Get Together",
+  "instanceSlug": 1920,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-02",
+  "playlists": [
+  ],
+  "ranks": [
+    14.5,
+    8,
+    4.6,
+    2.9,
+    2.5,
+    2.69,
+    2.94,
+    3.25,
+    3.86
+  ],
+  "artists": [
+    {
+      "slug": "big-mountain",
+      "title": "Big Mountain",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.108,
+    0.306,
+    0.491,
+    0.645,
+    0.694,
+    0.67,
+    0.64,
+    0.607,
+    0.549,
+    0.544,
+    0.534,
+    0.519,
+    0.499,
+    0.474,
+    0.444,
+    0.409,
+    0.369,
+    0.324,
+    0.274,
+    0.219,
+    0.159,
+    0.094,
+    0.024,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 6,
+  "score": 9.595999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 420
+}

@@ -1,1 +1,30 @@
-{"title":"Smells Like Nirvana","instanceSlug":1272,"tags":[],"parents":[],"genre":"parody","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"weird-al-yankovic","title":"Weird Al Yankovic","roleSlug":true}],"genres":[{"slug":"parody","title":"Parody"}],"source":null,"rank":1644}
+{
+  "title": "Smells Like Nirvana",
+  "instanceSlug": 1272,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "parody",
+  "debut": 1992,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "weird-al-yankovic",
+      "title": "Weird Al Yankovic",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "parody",
+      "title": "Parody"
+    }
+  ],
+  "source": null,
+  "rank": 2310
+}

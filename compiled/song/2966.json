@@ -1,1 +1,65 @@
-{"title":"No No Song","instanceSlug":2966,"tags":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[18,10.5,6.9,5.4,5,5.2,5.7,6.2,7.2,8.7,10.7,13.2,16.2,19.7,23.7,28.2,33.2,38.7,44.7,51.2],"artists":[{"slug":"ringo-starr","title":"Ringo Starr","roleSlug":true},{"slug":"nilsson","title":"Nilsson","roleSlug":"backup"}],"debutRank":18,"peakRank":5,"duration":5,"score":11.46,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":848}
+{
+  "title": "No No Song",
+  "instanceSlug": 2966,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10.5,
+    6.9,
+    5.4,
+    5,
+    5.2,
+    5.7
+  ],
+  "artists": [
+    {
+      "slug": "ringo-starr",
+      "title": "Ringo Starr",
+      "roleSlug": true
+    },
+    {
+      "slug": "nilsson",
+      "title": "Nilsson",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.036,
+    0.216,
+    0.356,
+    0.437,
+    0.463,
+    0.45,
+    0.419,
+    0.414,
+    0.404,
+    0.389,
+    0.369,
+    0.344,
+    0.314,
+    0.279,
+    0.239,
+    0.194,
+    0.144,
+    0.089,
+    0.029,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 5.585,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 910
+}

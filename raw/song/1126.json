@@ -1,1 +1,43 @@
-{"title":"Love Will Find a Way","instanceSlug":1126,"tags":["find","love","way","will"],"parents":[],"genre":"pop","debut":"1987-11","playlists":[],"ranks":[15.8,12,10,9,8,7.5,7.2,7.4,8,9.4],"artists":{"yes":true}}
+{
+  "title": "Love Will Find a Way",
+  "instanceSlug": 1126,
+  "tags": [
+    "find",
+    "love",
+    "way",
+    "will"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15.8,
+    12,
+    10,
+    9,
+    8,
+    7.5,
+    7.2,
+    7.4,
+    8,
+    9.4
+  ],
+  "artists": {
+    "yes": true
+  },
+  "scores": [
+    0.079,
+    0.171,
+    0.232,
+    0.267,
+    0.306,
+    0.328,
+    0.341,
+    0.332,
+    0.306,
+    0.253
+  ]
+}

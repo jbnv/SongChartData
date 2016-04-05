@@ -1,1 +1,57 @@
-{"title":"De Do Do Do, De Da Da Da","instanceSlug":1002,"tags":[],"parents":[],"genre":"rock","debut":"1980-12","playlists":[],"ranks":[17,9.8,5.7,5.3,7.3,9.3,13.3,19.3,27.3,37.3,49.3,63.3],"artists":[{"slug":"police","title":"Police, The","roleSlug":true}],"debutRank":17,"peakRank":5.3,"duration":3,"score":5.71,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1294}
+{
+  "title": "De Do Do Do, De Da Da Da",
+  "instanceSlug": 1002,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-12",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.8,
+    5.7,
+    5.3,
+    7.3
+  ],
+  "artists": [
+    {
+      "slug": "police",
+      "title": "Police, The",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.239,
+    0.419,
+    0.444,
+    0.337,
+    0.332,
+    0.322,
+    0.307,
+    0.287,
+    0.262,
+    0.232,
+    0.197,
+    0.157,
+    0.112,
+    0.062,
+    0.007,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.25,
+  "score": 3.7710000000000004,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1195
+}

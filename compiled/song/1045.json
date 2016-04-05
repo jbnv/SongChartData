@@ -1,1 +1,68 @@
-{"title":"Time After Time","instanceSlug":1045,"tags":["#1"],"parents":[],"genre":"pop","debut":"1984-05","playlists":[],"ranks":[12,4.5,2.6,2.2,2.1,2.3,2.6,3.3,4,5.4,7.5,10.3,13.8,18,22.9,28.5,34.8,41.8,49.5,57.9],"artists":[{"slug":"cyndi-lauper","title":"Cyndi Lauper","roleSlug":true}],"debutRank":12,"peakRank":2.1,"duration":5,"score":19.61,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":343}
+{
+  "title": "Time After Time",
+  "instanceSlug": 1045,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-05",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4.5,
+    2.6,
+    2.2,
+    2.1,
+    2.3,
+    2.6,
+    3.3
+  ],
+  "artists": [
+    {
+      "slug": "cyndi-lauper",
+      "title": "Cyndi Lauper",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.498,
+    0.681,
+    0.737,
+    0.752,
+    0.722,
+    0.681,
+    0.602,
+    0.597,
+    0.587,
+    0.572,
+    0.552,
+    0.527,
+    0.497,
+    0.462,
+    0.422,
+    0.377,
+    0.327,
+    0.272,
+    0.212,
+    0.147,
+    0.077,
+    0.002,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 6,
+  "score": 10.474000000000004,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 310
+}

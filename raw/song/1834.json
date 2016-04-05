@@ -1,9 +1,13 @@
 {
   "title": "Can't Stay Away from You",
   "instanceSlug": 1834,
-  "tags": ["#1","#1-adult-contemporary"],
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
   "genre": "adult-contemporary",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     18,
     13.9,
@@ -14,9 +18,19 @@
     5.9,
     6.7
   ],
-  "debut":"1988-01",
+  "debut": "1988-01",
   "artists": {
     "miami-sound-machine": true,
-    "gloria-estefan":"lead"
-  }
+    "gloria-estefan": "lead"
+  },
+  "scores": [
+    0.036,
+    0.122,
+    0.298,
+    0.391,
+    0.47,
+    0.444,
+    0.408,
+    0.365
+  ]
 }

@@ -1,1 +1,21 @@
-{"title":"Let 'Em In","instanceSlug":2235,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":1976,"playlists":[],"ranks":[],"artists":{"wings":true}}
+{
+  "title": "Let 'Em In",
+  "instanceSlug": 2235,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1976,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "wings": true
+  },
+  "scores": [
+  ]
+}

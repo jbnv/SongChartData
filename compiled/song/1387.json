@@ -1,1 +1,32 @@
-{"title":"No Diggity","instanceSlug":1387,"tags":["dig","no"],"parents":[],"genre":"new-jack-swing","debut":"1996-11","playlists":[],"ranks":[],"artists":[{"slug":"blackstreet","title":"Blackstreet","roleSlug":true}],"genres":[{"slug":"new-jack-swing","title":"New Jack Swing"}],"source":null,"rank":2564}
+{
+  "title": "No Diggity",
+  "instanceSlug": 1387,
+  "tags": [
+    "dig",
+    "no"
+  ],
+  "parents": [
+  ],
+  "genre": "new-jack-swing",
+  "debut": "1996-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "blackstreet",
+      "title": "Blackstreet",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "new-jack-swing",
+      "title": "New Jack Swing"
+    }
+  ],
+  "source": null,
+  "rank": 1636
+}

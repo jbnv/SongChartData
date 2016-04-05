@@ -1,1 +1,31 @@
-{"title":"I Wanna Get Next to You","instanceSlug":1975,"tags":["i-something-you"],"parents":[],"genre":"soul","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"rose-royce","title":"Rose Royce","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2417}
+{
+  "title": "I Wanna Get Next to You",
+  "instanceSlug": 1975,
+  "tags": [
+    "i-something-you"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rose-royce",
+      "title": "Rose Royce",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2345
+}

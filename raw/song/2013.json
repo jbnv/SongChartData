@@ -1,1 +1,19 @@
-{"title":"My Father's Eyes","instanceSlug":2013,"tags":[],"parents":[],"genre":"pop","debut":"1998-03","playlists":[],"ranks":[],"artists":{"eric-clapton":true}}
+{
+  "title": "My Father's Eyes",
+  "instanceSlug": 2013,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1998-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eric-clapton": true
+  },
+  "scores": [
+  ]
+}

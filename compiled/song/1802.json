@@ -1,1 +1,30 @@
-{"title":"The Tide is High","instanceSlug":1802,"tags":[],"parents":[],"genre":"pop","debut":"1981-03","playlists":[],"ranks":[],"artists":[{"slug":"blondie","title":"Blondie","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1678}
+{
+  "title": "The Tide is High",
+  "instanceSlug": 1802,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1981-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "blondie",
+      "title": "Blondie",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2816
+}

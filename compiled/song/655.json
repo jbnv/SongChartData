@@ -1,1 +1,51 @@
-{"title":"Southern Cross","instanceSlug":655,"tags":["cross","south"],"parents":[],"genre":true,"debut":"1982-10","playlists":[],"ranks":[17.9,10.7,10.7,14.3,17.9,25.1,35.9,50.3],"artists":[{"slug":"crosby-stills-nash","title":"Crosby, Stills & Nash","roleSlug":true}],"debutRank":17.9,"peakRank":10.7,"duration":2,"score":1.83,"genres":[{"slug":true}],"source":null,"rank":1519}
+{
+  "title": "Southern Cross",
+  "instanceSlug": 655,
+  "tags": [
+    "cross",
+    "south"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1982-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    10.7,
+    14.3
+  ],
+  "artists": [
+    {
+      "slug": "crosby-stills-nash",
+      "title": "Crosby, Stills & Nash",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.209,
+    0.113,
+    0.108,
+    0.098,
+    0.083,
+    0.063,
+    0.038,
+    0.008,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 2.75,
+  "score": 0.9669999999999999,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 1516
+}

@@ -1,11 +1,17 @@
 {
   "title": "You're the Inspiration",
   "instanceSlug": 1777,
-  "tags": [],
-  "parents": [],
-  "genres":[ "rock","pop"],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "rock",
+    "pop"
+  ],
   "debut": "1984-12",
-  "playlists": [],
+  "playlists": [
+  ],
   "source": "chicago17",
   "ranks": [
     24,
@@ -18,5 +24,12 @@
   "artists": {
     "chicago": true,
     "david-foster": "producer"
-  }
+  },
+  "scores": [
+    0.036,
+    0.097,
+    0.171,
+    0.145,
+    0.101
+  ]
 }

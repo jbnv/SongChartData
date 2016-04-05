@@ -1,1 +1,34 @@
-{"title":"Every Little Thing She Does Is Magic","instanceSlug":908,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1981-10","playlists":[],"ranks":[21,13,10,9,8,8.7,9.9],"artists":{"police":true}}
+{
+  "title": "Every Little Thing She Does Is Magic",
+  "instanceSlug": 908,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-10",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    13,
+    10,
+    9,
+    8,
+    8.7,
+    9.9
+  ],
+  "artists": {
+    "police": true
+  },
+  "scores": [
+    0.145,
+    0.232,
+    0.267,
+    0.306,
+    0.278,
+    0.235
+  ]
+}

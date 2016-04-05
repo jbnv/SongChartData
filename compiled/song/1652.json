@@ -1,1 +1,55 @@
-{"title":"Money Don't Matter Tonight","instanceSlug":1652,"tags":[],"parents":[],"genre":"pop","debut":"1992-04","playlists":[],"ranks":[21,15,12,9.8,9,11.5,14,19,26.5,36.5,49,64],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":21,"peakRank":9,"duration":3,"score":3.3,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1438}
+{
+  "title": "Money Don't Matter Tonight",
+  "instanceSlug": 1652,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-04",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    15,
+    12,
+    9.8,
+    9,
+    11.5
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.171,
+    0.239,
+    0.267,
+    0.185,
+    0.18,
+    0.17,
+    0.155,
+    0.135,
+    0.11,
+    0.08,
+    0.045,
+    0.005,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3.5,
+  "score": 1.839,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1431
+}

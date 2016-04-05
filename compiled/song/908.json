@@ -1,1 +1,60 @@
-{"title":"Every Little Thing She Does Is Magic","instanceSlug":908,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1981-10","playlists":[],"ranks":[21,13,10,9,8,8.7,9.9,11.1,13.5,17.1,21.9,27.9,35.1,43.5,53.1,63.9],"artists":[{"slug":"police","title":"Police, The","roleSlug":true}],"debutRank":21,"peakRank":8,"duration":4,"score":5.55,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1302}
+{
+  "title": "Every Little Thing She Does Is Magic",
+  "instanceSlug": 908,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-10",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    13,
+    10,
+    9,
+    8,
+    8.7,
+    9.9
+  ],
+  "artists": [
+    {
+      "slug": "police",
+      "title": "Police, The",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.232,
+    0.267,
+    0.306,
+    0.278,
+    0.235,
+    0.23,
+    0.22,
+    0.205,
+    0.185,
+    0.16,
+    0.13,
+    0.095,
+    0.055,
+    0.01,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 4,
+  "score": 2.753,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1340
+}

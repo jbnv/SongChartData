@@ -5,12 +5,29 @@
     "#1",
     "#1-hot-100"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "dance-pop",
   "debut": "1991-11",
-  "playlists": ["sample"],
-  "ranks": [24,16,13,12,11,12],
+  "playlists": [
+    "sample"
+  ],
+  "ranks": [
+    24,
+    16,
+    13,
+    12,
+    11,
+    12
+  ],
   "artists": {
     "pm-dawn": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.145,
+    0.171,
+    0.2,
+    0.171
+  ]
 }

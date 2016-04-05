@@ -1,1 +1,20 @@
-{"title":"Style","instanceSlug":2522,"tags":[],"parents":[],"genre":"pop","debut":"2015-04","playlists":["summer"],"ranks":[],"artists":{"taylor-swift":true}}
+{
+  "title": "Style",
+  "instanceSlug": 2522,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-04",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "taylor-swift": true
+  },
+  "scores": [
+  ]
+}

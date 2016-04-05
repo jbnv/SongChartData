@@ -1,1 +1,30 @@
-{"title":"Breaking Us in Two","instanceSlug":1960,"tags":[],"parents":[],"genre":"pop","debut":"1983-02","playlists":[],"ranks":[],"artists":[{"slug":"joe-jackson","title":"Joe Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2391}
+{
+  "title": "Breaking Us in Two",
+  "instanceSlug": 1960,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "joe-jackson",
+      "title": "Joe Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1580
+}

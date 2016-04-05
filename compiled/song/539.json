@@ -1,1 +1,61 @@
-{"title":"Last Kiss","instanceSlug":539,"tags":["remake"],"parents":[],"genre":true,"debut":"1999-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17,11.5,6.6,6.4,7.1,7.8,9.2,11.3,14.1,17.6,21.8,26.7,32.3,38.6,45.6,53.3],"artists":[{"slug":"pearl-jam","title":"Pearl Jam","roleSlug":true}],"debutRank":17,"peakRank":6.4,"duration":4,"score":6.81,"genres":[{"slug":true}],"source":null,"rank":1202}
+{
+  "title": "Last Kiss",
+  "instanceSlug": 539,
+  "tags": [
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    17,
+    11.5,
+    6.6,
+    6.4,
+    7.1
+  ],
+  "artists": [
+    {
+      "slug": "pearl-jam",
+      "title": "Pearl Jam",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.185,
+    0.37,
+    0.381,
+    0.346,
+    0.341,
+    0.331,
+    0.316,
+    0.296,
+    0.271,
+    0.241,
+    0.206,
+    0.166,
+    0.121,
+    0.071,
+    0.016,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.25,
+  "score": 3.7129999999999996,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 1202
+}

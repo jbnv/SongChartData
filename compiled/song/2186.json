@@ -1,1 +1,67 @@
-{"title":"Beautiful In My Eyes","instanceSlug":2186,"tags":[],"genre":"pop","debut":"1994-05","playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"ballad","title":"Ballads"}],"ranks":[14,4,1.5,1.61,1.72,1.94,2.27,2.71,3.26,3.92,4.69,5.57,6.56,7.66,8.87,10.19,11.62,13.16,14.81,16.57,18.44,20.42,22.51,24.71,27.02,29.44,31.97,34.61,37.36,40.22,43.19,46.27,49.46,52.76,56.17,59.69],"artists":[{"slug":"joshua-kadison","title":"Joshua Kadison","roleSlug":true}],"debutRank":14,"peakRank":1.5,"duration":9,"score":27.39,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":81}
+{
+  "title": "Beautiful In My Eyes",
+  "instanceSlug": 2186,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1994-05",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    },
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    14,
+    4,
+    1.5,
+    1.61
+  ],
+  "artists": [
+    {
+      "slug": "joshua-kadison",
+      "title": "Joshua Kadison",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.537,
+    0.864,
+    0.841,
+    0.836,
+    0.826,
+    0.811,
+    0.791,
+    0.766,
+    0.736,
+    0.701,
+    0.661,
+    0.616,
+    0.566,
+    0.511,
+    0.451,
+    0.386,
+    0.316,
+    0.241,
+    0.161,
+    0.076,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 11.814,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 213
+}

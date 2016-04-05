@@ -1,1 +1,61 @@
-{"title":"Doing It All for My Baby","instanceSlug":1120,"tags":["do-it"],"genre":"rock","debut":1987,"playlists":[],"ranks":[18,11,5.5,3.5,3.7,4.1,4.5,5.3,6.5,8.1,10.1,12.5,15.3,18.5,22.1,26.1,30.5,35.3,40.5,46.1,52.1,58.5,65.3,72.5],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":18,"peakRank":3.5,"duration":6,"score":13.42,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":708}
+{
+  "title": "Doing It All for My Baby",
+  "instanceSlug": 1120,
+  "tags": [
+    "do-it"
+  ],
+  "genre": "rock",
+  "debut": 1987,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    5.5,
+    3.5,
+    3.7,
+    4.1
+  ],
+  "artists": [
+    {
+      "slug": "huey-lewis-the-news",
+      "title": "Huey Lewis & the News",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.2,
+    0.431,
+    0.582,
+    0.563,
+    0.529,
+    0.524,
+    0.514,
+    0.499,
+    0.479,
+    0.454,
+    0.424,
+    0.389,
+    0.349,
+    0.304,
+    0.254,
+    0.199,
+    0.139,
+    0.074,
+    0.004,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5.25,
+  "score": 6.947,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 746
+}

@@ -1,1 +1,57 @@
-{"title":"Every Rose Has Its Thorn","instanceSlug":1303,"tags":[],"genre":"rock","debut":"1988-11","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[19,14,11,9.5,10.2,11.7,13.2,16.2,20.7,26.7,34.2,43.2,53.7,65.7,79.2,94.2],"artists":[{"slug":"poison","title":"Poison","roleSlug":true}],"debutRank":19,"peakRank":9.5,"duration":4,"score":3.62,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1419}
+{
+  "title": "Every Rose Has Its Thorn",
+  "instanceSlug": 1303,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1988-11",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    19,
+    14,
+    11,
+    9.5,
+    10.2,
+    11.7
+  ],
+  "artists": [
+    {
+      "slug": "poison",
+      "title": "Poison",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.12,
+    0.2,
+    0.249,
+    0.225,
+    0.18,
+    0.175,
+    0.165,
+    0.15,
+    0.13,
+    0.105,
+    0.075,
+    0.04,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 3.5,
+  "score": 1.832,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1433
+}

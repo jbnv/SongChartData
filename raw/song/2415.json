@@ -5,7 +5,8 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1988-07",
   "playlists": [
@@ -21,5 +22,13 @@
   ],
   "artists": {
     "elton-john": true
-  }
+  },
+  "scores": [
+    0.11,
+    0.694,
+    0.737,
+    0.768,
+    0.729,
+    0.659
+  ]
 }

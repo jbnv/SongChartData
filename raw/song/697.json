@@ -1,1 +1,20 @@
-{"title":"Cruel Summer","instanceSlug":697,"tags":[],"parents":[],"genre":"pop","debut":"1998-08","playlists":["remake"],"ranks":[],"artists":{"ace-of-base":true}}
+{
+  "title": "Cruel Summer",
+  "instanceSlug": 697,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1998-08",
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "ace-of-base": true
+  },
+  "scores": [
+  ]
+}

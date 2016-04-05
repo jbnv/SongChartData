@@ -1,1 +1,22 @@
-{"title":"He's the Greatest Dancer","instanceSlug":1548,"tags":["dancer","greatest","he's"],"parents":[],"genre":"disco","debut":1979,"playlists":[],"ranks":[],"artists":{"sister-sledge":true}}
+{
+  "title": "He's the Greatest Dancer",
+  "instanceSlug": 1548,
+  "tags": [
+    "dancer",
+    "greatest",
+    "he's"
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": 1979,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "sister-sledge": true
+  },
+  "scores": [
+  ]
+}

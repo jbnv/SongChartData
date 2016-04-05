@@ -1,1 +1,37 @@
-{"title":"Manic Monday","instanceSlug":2842,"tags":["#2","#2-hot-100"],"parents":[],"genre":"pop","debut":"1986-03","playlists":[],"ranks":[],"artists":[{"slug":"bangles","title":"Bangles","roleSlug":true},{"slug":"prince","title":"Prince","roleSlug":"writer"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2030}
+{
+  "title": "Manic Monday",
+  "instanceSlug": 2842,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bangles",
+      "title": "Bangles",
+      "roleSlug": true
+    },
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": "writer"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2030
+}

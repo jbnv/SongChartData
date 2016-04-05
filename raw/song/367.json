@@ -1,1 +1,37 @@
-{"title":"Baby Come To Me","instanceSlug":367,"tags":["#1","#1-adult-contemporary","#1-hot-100","come-to"],"parents":[],"genre":"pop","debut":"1982-12","playlists":["ballad"],"ranks":[15,6.4,4.2,5.8,8.1,11.2],"artists":{"patti-austin":true,"james-ingram":true}}
+{
+  "title": "Baby Come To Me",
+  "instanceSlug": 367,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "come-to"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-12",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    15,
+    6.4,
+    4.2,
+    5.8,
+    8.1,
+    11.2
+  ],
+  "artists": {
+    "patti-austin": true,
+    "james-ingram": true
+  },
+  "scores": [
+    0.097,
+    0.381,
+    0.521,
+    0.414,
+    0.302,
+    0.194
+  ]
+}

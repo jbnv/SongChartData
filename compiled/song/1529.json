@@ -1,1 +1,66 @@
-{"title":"I Wouldn't Have Missed It for the World","instanceSlug":1529,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1981-12","playlists":[],"ranks":[16,10,5,3.3,2.7,2.8,3.4,4,5.2,7,9.4,12.4,16,20.2,25,30.4,36.4,43,50.2,58],"artists":[{"slug":"ronnie-milsap","title":"Ronnie Milsap","roleSlug":true}],"debutRank":16,"peakRank":2.7,"duration":5,"score":15.36,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":569}
+{
+  "title": "I Wouldn't Have Missed It for the World",
+  "instanceSlug": 1529,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1981-12",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    5,
+    3.3,
+    2.7,
+    2.8,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "ronnie-milsap",
+      "title": "Ronnie Milsap",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.463,
+    0.602,
+    0.668,
+    0.656,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 8.776000000000002,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 498
+}

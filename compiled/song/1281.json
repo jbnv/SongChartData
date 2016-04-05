@@ -1,1 +1,30 @@
-{"title":"Basket Case","instanceSlug":1281,"tags":[],"parents":[],"genre":"grunge","debut":"1994-09","playlists":[],"ranks":[],"artists":[{"slug":"green-day","title":"Green Day","roleSlug":true}],"genres":[{"slug":"grunge","title":"Grunge"}],"source":null,"rank":1605}
+{
+  "title": "Basket Case",
+  "instanceSlug": 1281,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "grunge",
+  "debut": "1994-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "green-day",
+      "title": "Green Day",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "grunge",
+      "title": "Grunge"
+    }
+  ],
+  "source": null,
+  "rank": 2294
+}

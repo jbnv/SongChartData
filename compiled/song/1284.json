@@ -1,1 +1,74 @@
-{"title":"You Want This","instanceSlug":1284,"tags":["this","want","you"],"parents":[],"genre":"pop","debut":"1994-11","playlists":[],"ranks":[13.2,4.97,2.5,2.17,1.8,1.98,2.3,2.62,3.26,4.22,5.5,7.1,9.02,11.26,13.82,16.7,19.9,23.42,27.26,31.42,35.9,40.7,45.82,51.26],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true},{"slug":"mc-lyte","title":"MC Lyte","roleSlug":"backup"}],"debutRank":13.2,"peakRank":1.8,"duration":6,"score":22.72,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":207}
+{
+  "title": "You Want This",
+  "instanceSlug": 1284,
+  "tags": [
+    "this",
+    "want",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-11",
+  "playlists": [
+  ],
+  "ranks": [
+    13.2,
+    4.97,
+    2.5,
+    2.17,
+    1.8,
+    1.98,
+    2.3
+  ],
+  "artists": [
+    {
+      "slug": "janet-jackson",
+      "title": "Janet Jackson",
+      "roleSlug": true
+    },
+    {
+      "slug": "mc-lyte",
+      "title": "MC Lyte",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.139,
+    0.465,
+    0.694,
+    0.741,
+    0.804,
+    0.772,
+    0.722,
+    0.717,
+    0.707,
+    0.692,
+    0.672,
+    0.647,
+    0.617,
+    0.582,
+    0.542,
+    0.497,
+    0.447,
+    0.392,
+    0.332,
+    0.267,
+    0.197,
+    0.122,
+    0.042,
+    0
+  ],
+  "debutScore": 0.139,
+  "peakScore": 0.139,
+  "duration": 6,
+  "score": 11.808999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 214
+}

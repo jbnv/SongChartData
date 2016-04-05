@@ -1,1 +1,32 @@
-{"title":"Heaven","instanceSlug":2805,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"latin-rock","debut":2004,"playlists":[],"ranks":[],"artists":[{"slug":"los-lonely-boys","title":"Los Lonely Boys","roleSlug":true}],"genres":[{"slug":"latin-rock","title":"Latin Rock"}],"source":null,"rank":1989}
+{
+  "title": "Heaven",
+  "instanceSlug": 2805,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "latin-rock",
+  "debut": 2004,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "los-lonely-boys",
+      "title": "Los Lonely Boys",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "latin-rock",
+      "title": "Latin Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1989
+}

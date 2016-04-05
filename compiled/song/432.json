@@ -1,1 +1,67 @@
-{"title":"Go Insane","instanceSlug":432,"tags":[],"genre":"pop","debut":"1984-09","playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"}],"ranks":[17,4.7,2.4,2.49,2.65,2.85,3.15,3.45,4.05,4.95,6.15,7.65,9.45,11.55,13.95,16.65,19.65,22.95,26.55,30.45,34.65,39.15,43.95,49.05,54.45,60.15,66.15,72.45],"artists":[{"slug":"lindsay-buckingham","title":"Lindsey Buckingham","roleSlug":true}],"debutRank":17,"peakRank":2.4,"duration":7,"score":20.46,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":302}
+{
+  "title": "Go Insane",
+  "instanceSlug": 432,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1984-09",
+  "playlists": [
+    {
+      "slug": "feb13",
+      "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+    }
+  ],
+  "ranks": [
+    17,
+    4.7,
+    2.4,
+    2.49,
+    2.65,
+    2.85,
+    3.15
+  ],
+  "artists": [
+    {
+      "slug": "lindsay-buckingham",
+      "title": "Lindsey Buckingham",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.484,
+    0.708,
+    0.695,
+    0.675,
+    0.65,
+    0.617,
+    0.612,
+    0.602,
+    0.587,
+    0.567,
+    0.542,
+    0.512,
+    0.477,
+    0.437,
+    0.392,
+    0.342,
+    0.287,
+    0.227,
+    0.162,
+    0.092,
+    0.017,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.75,
+  "score": 9.739,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 403
+}

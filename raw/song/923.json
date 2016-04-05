@@ -6,11 +6,13 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "adult-contemporary",
   "debut": "1981-09",
   "source": "arthur",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     17.1,
     4.2,
@@ -21,5 +23,13 @@
   ],
   "artists": {
     "christopher-cross": true
-  }
+  },
+  "scores": [
+    0.053,
+    0.521,
+    0.645,
+    0.662,
+    0.628,
+    0.582
+  ]
 }

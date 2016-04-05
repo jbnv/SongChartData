@@ -1,1 +1,64 @@
-{"title":"Come On Eileen","instanceSlug":1623,"tags":["come","women"],"parents":[],"genre":"pop","debut":"1983-03","playlists":[],"ranks":[18,11,7,5.8,5,5.4,6.2,7,8.6,11,14.2,18.2,23,28.6,35,42.2,50.2,59,68.6,79],"artists":[{"slug":"dexy-s-midnight-runners","title":"Dexy's Midnight Runners","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":9.84,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":973}
+{
+  "title": "Come On Eileen",
+  "instanceSlug": 1623,
+  "tags": [
+    "come",
+    "women"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-03",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    7,
+    5.8,
+    5,
+    5.4,
+    6.2
+  ],
+  "artists": [
+    {
+      "slug": "dexy-s-midnight-runners",
+      "title": "Dexy's Midnight Runners",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.2,
+    0.351,
+    0.414,
+    0.463,
+    0.437,
+    0.391,
+    0.386,
+    0.376,
+    0.361,
+    0.341,
+    0.316,
+    0.286,
+    0.251,
+    0.211,
+    0.166,
+    0.116,
+    0.061,
+    0.001,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 5.164000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 986
+}

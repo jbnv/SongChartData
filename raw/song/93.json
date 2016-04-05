@@ -1,1 +1,19 @@
-{"title":"Urgent","instanceSlug":93,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1981-07","ranks":[],"artists":{"foreigner":true}}
+{
+  "title": "Urgent",
+  "instanceSlug": 93,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-07",
+  "ranks": [
+  ],
+  "artists": {
+    "foreigner": true
+  },
+  "scores": [
+  ]
+}

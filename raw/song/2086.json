@@ -1,1 +1,19 @@
-{"title":"Because I Got High","instanceSlug":2086,"tags":["marijuana","novelty"],"parents":[],"genre":"urban","debut":"2001-09","source":"jay-and-silent-bob-strike-back","playlists":[],"ranks":true,"artists":{"afroman":true}}
+{
+  "title": "Because I Got High",
+  "instanceSlug": 2086,
+  "tags": [
+    "marijuana",
+    "novelty"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "2001-09",
+  "source": "jay-and-silent-bob-strike-back",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "afroman": true
+  }
+}

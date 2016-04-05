@@ -1,1 +1,59 @@
-{"title":"Don't Be Cruel","instanceSlug":3004,"tags":[],"parents":[],"genre":"rock","debut":1988,"playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[21,15,12,9,9.5,10.7,11.9,14.3,17.9,22.7,28.7,35.9,44.3,53.9,64.7,76.7],"artists":[{"slug":"cheap-trick","title":"Cheap Trick","roleSlug":true}],"debutRank":21,"peakRank":9,"duration":4,"score":3.97,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1398}
+{
+  "title": "Don't Be Cruel",
+  "instanceSlug": 3004,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1988,
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "ranks": [
+    21,
+    15,
+    12,
+    9,
+    9.5,
+    10.7
+  ],
+  "artists": [
+    {
+      "slug": "cheap-trick",
+      "title": "Cheap Trick",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.171,
+    0.267,
+    0.249,
+    0.209,
+    0.204,
+    0.194,
+    0.179,
+    0.159,
+    0.134,
+    0.104,
+    0.069,
+    0.029,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3.5,
+  "score": 2.065,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1421
+}

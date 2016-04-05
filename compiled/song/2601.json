@@ -1,1 +1,30 @@
-{"title":"Still the Same","instanceSlug":2601,"tags":[],"parents":[],"genre":"pop","debut":"1978-06","playlists":[],"ranks":[],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1763}
+{
+  "title": "Still the Same",
+  "instanceSlug": 2601,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bob-seger",
+      "title": "Bob Seger",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1763
+}

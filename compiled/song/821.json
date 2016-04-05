@@ -1,1 +1,67 @@
-{"title":"Take It Away","instanceSlug":821,"tags":[],"parents":[],"genre":"pop","debut":"1982-08","playlists":[],"ranks":[15,8.7,4.7,3.9,3.3,3.4,3.6,4,4.5,5,6,7.5,9.5,12,15,18.5,22.5,27,32,37.5,43.5,50,57,64.5],"artists":[{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":true}],"debutRank":15,"peakRank":3.3,"duration":6,"score":17.85,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":425}
+{
+  "title": "Take It Away",
+  "instanceSlug": 821,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-08",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.7,
+    4.7,
+    3.9,
+    3.3,
+    3.4,
+    3.6,
+    4,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "paul-mccartney",
+      "title": "Paul McCartney",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.278,
+    0.484,
+    0.546,
+    0.602,
+    0.592,
+    0.573,
+    0.537,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 8.405999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 556
+}

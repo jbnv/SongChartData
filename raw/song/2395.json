@@ -1,13 +1,18 @@
 {
   "title": "Keeping the Faith",
   "instanceSlug": 2395,
-  "tags": [],
+  "tags": [
+  ],
   "source": "innocent-man",
   "genre": "pop",
   "debut": "1985-02",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "billy-joel": true
-  }
+  },
+  "scores": [
+  ]
 }

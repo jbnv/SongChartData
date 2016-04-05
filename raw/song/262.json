@@ -1,1 +1,19 @@
-{"title":"Elvira","instanceSlug":262,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1981-06","ranks":[],"artists":{"oak-ridge-boys":true}}
+{
+  "title": "Elvira",
+  "instanceSlug": 262,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1981-06",
+  "ranks": [
+  ],
+  "artists": {
+    "oak-ridge-boys": true
+  },
+  "scores": [
+  ]
+}

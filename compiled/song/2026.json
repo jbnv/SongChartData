@@ -1,1 +1,30 @@
-{"title":"Viva La Vida","instanceSlug":2026,"tags":[],"parents":[],"genre":"pop","debut":2008,"playlists":[],"ranks":[],"artists":[{"slug":"coldplay","title":"Coldplay","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2503}
+{
+  "title": "Viva La Vida",
+  "instanceSlug": 2026,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2008,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "coldplay",
+      "title": "Coldplay",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2439
+}

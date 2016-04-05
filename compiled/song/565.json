@@ -1,1 +1,55 @@
-{"title":"Black Balloon","instanceSlug":565,"tags":["balloon","black"],"parents":[],"genre":true,"debut":"1999-08","playlists":[],"ranks":[17,11.7,6.8,8.8,10.8,14.8,20.8,28.8,38.8,50.8,64.8,80.8],"artists":[{"slug":"goo-goo-dolls","title":"Goo Goo Dolls","roleSlug":true}],"debutRank":17,"peakRank":6.8,"duration":3,"score":3.54,"genres":[{"slug":true}],"source":null,"rank":1424}
+{
+  "title": "Black Balloon",
+  "instanceSlug": 565,
+  "tags": [
+    "balloon",
+    "black"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.7,
+    6.8,
+    8.8
+  ],
+  "artists": [
+    {
+      "slug": "goo-goo-dolls",
+      "title": "Goo Goo Dolls",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.18,
+    0.361,
+    0.275,
+    0.27,
+    0.26,
+    0.245,
+    0.225,
+    0.2,
+    0.17,
+    0.135,
+    0.095,
+    0.05,
+    0,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.75,
+  "score": 2.5210000000000004,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 1365
+}

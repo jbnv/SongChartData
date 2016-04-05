@@ -1,1 +1,66 @@
-{"title":"It's Not Right, But It's Okay","instanceSlug":395,"tags":[],"parents":[],"genre":"pop","debut":"1999-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,3.3,1.2,1.42,1.64,2.08,2.74,3.62,4.72,6.04,7.58,9.34,11.32,13.52,15.94,18.58,21.44,24.52,27.82,31.34,35.08,39.04,43.22,47.62,52.24,57.08,62.14,67.42],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":13,"peakRank":1.2,"duration":7,"score":21.85,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":237}
+{
+  "title": "It's Not Right, But It's Okay",
+  "instanceSlug": 395,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    13,
+    3.3,
+    1.2,
+    1.42
+  ],
+  "artists": [
+    {
+      "slug": "whitney-houston",
+      "title": "Whitney Houston",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.602,
+    0.939,
+    0.883,
+    0.878,
+    0.868,
+    0.853,
+    0.833,
+    0.808,
+    0.778,
+    0.743,
+    0.703,
+    0.658,
+    0.608,
+    0.553,
+    0.493,
+    0.428,
+    0.358,
+    0.283,
+    0.203,
+    0.118,
+    0.028,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.75,
+  "score": 12.763000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 147
+}

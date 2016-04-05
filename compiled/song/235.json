@@ -1,1 +1,68 @@
-{"title":"One Heartbeat","instanceSlug":235,"words":["heart","beat"],"genres":[{"slug":"soul","title":"Soul"},{"slug":"pop","title":"Pop"},{"slug":"adult-contemporary","title":"Adult Contemporary"}],"debut":"1987-09","ranks":[18,11.8,6.6,5.9,6.1,6.3,6.7,7.1,7.9,9.1,10.7,12.7,15.1,17.9,21.1,24.7,28.7,33.1,37.9,43.1,48.7,54.7,61.1,67.9],"artists":[{"slug":"smokey-robinson","title":"Smokey Robinson","roleSlug":true}],"debutRank":18,"peakRank":5.9,"duration":6,"score":10.68,"playlists":[],"source":null,"rank":908}
+{
+  "title": "One Heartbeat",
+  "instanceSlug": 235,
+  "words": [
+    "heart",
+    "beat"
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    },
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "debut": "1987-09",
+  "ranks": [
+    18,
+    11.8,
+    6.6,
+    5.9,
+    6.1,
+    6.3,
+    6.7
+  ],
+  "artists": [
+    {
+      "slug": "smokey-robinson",
+      "title": "Smokey Robinson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.177,
+    0.37,
+    0.408,
+    0.397,
+    0.386,
+    0.365,
+    0.36,
+    0.35,
+    0.335,
+    0.315,
+    0.29,
+    0.26,
+    0.225,
+    0.185,
+    0.14,
+    0.09,
+    0.035,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.75,
+  "score": 4.723999999999999,
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1046
+}

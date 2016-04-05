@@ -1,1 +1,33 @@
-{"title":"Rosanna","instanceSlug":385,"tags":[],"parents":[],"genre":"pop","debut":"1982-05","playlists":[{"slug":"women"}],"ranks":[],"artists":[{"slug":"toto","title":"Toto","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2375}
+{
+  "title": "Rosanna",
+  "instanceSlug": 385,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-05",
+  "playlists": [
+    {
+      "slug": "women"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "toto",
+      "title": "Toto",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2375
+}

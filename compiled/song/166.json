@@ -1,1 +1,68 @@
-{"title":"Blame It On the Rain","instanceSlug":166,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1989-11","ranks":[17,8,5,4.5,4,4.2,4.45,4.9,6,7.1,9.3,12.6,17,22.5,29.1,36.8,45.6,55.5,66.5,78.6],"artists":[{"slug":"milli-vanilli","title":"Milli Vanilli","roleSlug":true}],"debutRank":17,"peakRank":4,"duration":5,"score":13.72,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":693}
+{
+  "title": "Blame It On the Rain",
+  "instanceSlug": 166,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-11",
+  "ranks": [
+    17,
+    8,
+    5,
+    4.5,
+    4,
+    4.2,
+    4.45,
+    4.9,
+    6
+  ],
+  "artists": [
+    {
+      "slug": "milli-vanilli",
+      "title": "Milli Vanilli",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.306,
+    0.463,
+    0.498,
+    0.537,
+    0.521,
+    0.502,
+    0.47,
+    0.402,
+    0.397,
+    0.387,
+    0.372,
+    0.352,
+    0.327,
+    0.297,
+    0.262,
+    0.222,
+    0.177,
+    0.127,
+    0.072,
+    0.012,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.5,
+  "score": 6.757999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 769
+}

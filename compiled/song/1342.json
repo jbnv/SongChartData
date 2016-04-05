@@ -1,1 +1,33 @@
-{"title":"Two to Make It Right","instanceSlug":1342,"tags":["make","right","two"],"parents":[],"genre":"dance","debut":1990,"playlists":[],"ranks":[],"artists":[{"slug":"seduction","title":"Seduction","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":2341}
+{
+  "title": "Two to Make It Right",
+  "instanceSlug": 1342,
+  "tags": [
+    "make",
+    "right",
+    "two"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": 1990,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "seduction",
+      "title": "Seduction",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 1860
+}

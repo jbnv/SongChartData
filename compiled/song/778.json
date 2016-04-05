@@ -1,1 +1,30 @@
-{"title":"Sunglasses at Night","instanceSlug":778,"tags":[],"parents":[],"genre":"rock","debut":1985,"playlists":[],"ranks":[],"artists":[{"slug":"corey-hart","title":"Corey Hart","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2809}
+{
+  "title": "Sunglasses at Night",
+  "instanceSlug": 778,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1985,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "corey-hart",
+      "title": "Corey Hart",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2809
+}

@@ -1,1 +1,38 @@
-{"title":"Papa Don't Preach","instanceSlug":641,"tags":["don't","father","preach"],"parents":[],"genre":"pop","debut":"1986-07","playlists":[],"ranks":[18,11.8,7.7,7.5,7.2,7.4,7.6,9],"artists":{"madonna":true}}
+{
+  "title": "Papa Don't Preach",
+  "instanceSlug": 641,
+  "tags": [
+    "don't",
+    "father",
+    "preach"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-07",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11.8,
+    7.7,
+    7.5,
+    7.2,
+    7.4,
+    7.6,
+    9
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.036,
+    0.177,
+    0.319,
+    0.328,
+    0.341,
+    0.332,
+    0.323,
+    0.267
+  ]
+}

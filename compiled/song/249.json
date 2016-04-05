@@ -1,1 +1,74 @@
-{"title":"All I Want","instanceSlug":249,"tags":[],"genre":"pop","debut":"1992-08","ranks":[4.9,1,1.028,1.067,1.15,1.25,1.37,1.58,1.84,2.1,2.62,3.4,4.44,5.74,7.3,9.12,11.2,13.54,16.14,19,22.12,25.5,29.14,33.04,37.2,41.62,46.3,51.24],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"artists":[{"slug":"toad-the-wet-sprocket","title":"Toad the Wet Sprocket","roleSlug":true}],"note":"Project 8 weeks at #1.","debutRank":4.9,"peakRank":1,"duration":7,"score":35.46,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":15}
+{
+  "title": "All I Want",
+  "instanceSlug": 249,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1992-08",
+  "ranks": [
+    4.9,
+    1,
+    1.028,
+    1.067,
+    1.15,
+    1.25,
+    1.37,
+    1.58,
+    1.84
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "artists": [
+    {
+      "slug": "toad-the-wet-sprocket",
+      "title": "Toad the Wet Sprocket",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 8 weeks at #1.",
+  "scores": [
+    0.47,
+    1,
+    0.99,
+    0.978,
+    0.953,
+    0.925,
+    0.895,
+    0.847,
+    0.796,
+    0.791,
+    0.781,
+    0.766,
+    0.746,
+    0.721,
+    0.691,
+    0.656,
+    0.616,
+    0.571,
+    0.521,
+    0.466,
+    0.406,
+    0.341,
+    0.271,
+    0.196,
+    0.116,
+    0.031,
+    0
+  ],
+  "debutScore": 0.47,
+  "peakScore": 0.47,
+  "duration": 6.75,
+  "score": 16.541,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 5
+}

@@ -1,1 +1,29 @@
-{"title":"Nobody Said It Was Easy","instanceSlug":770,"tags":[],"parents":[],"genre":"pop","debut":"1982-03","playlists":[],"ranks":[15.9,9.1,5.2,3.8,5.2],"artists":{"leroux":true}}
+{
+  "title": "Nobody Said It Was Easy",
+  "instanceSlug": 770,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-03",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.1,
+    5.2,
+    3.8,
+    5.2
+  ],
+  "artists": {
+    "leroux": true
+  },
+  "scores": [
+    0.077,
+    0.263,
+    0.45,
+    0.554,
+    0.45
+  ]
+}

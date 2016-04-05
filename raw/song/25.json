@@ -5,8 +5,14 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "playlists": ["organ","weird-al"],
-  "genres": ["soul","pop"],
+  "playlists": [
+    "organ",
+    "weird-al"
+  ],
+  "genres": [
+    "soul",
+    "pop"
+  ],
   "debut": "1987-09",
   "ranks": [
     15,
@@ -17,5 +23,11 @@
   "source": "bad",
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.582,
+    0.925,
+    0.899
+  ]
 }

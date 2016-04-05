@@ -1,1 +1,31 @@
-{"title":"Forever Man","instanceSlug":2012,"tags":[],"parents":[],"genre":"rock","debut":"1985-04","playlists":[],"ranks":[13,5,2.9,2.2,2.4,2.73],"artists":{"eric-clapton":true}}
+{
+  "title": "Forever Man",
+  "instanceSlug": 2012,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-04",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5,
+    2.9,
+    2.2,
+    2.4,
+    2.73
+  ],
+  "artists": {
+    "eric-clapton": true
+  },
+  "scores": [
+    0.145,
+    0.463,
+    0.645,
+    0.737,
+    0.708,
+    0.665
+  ]
+}

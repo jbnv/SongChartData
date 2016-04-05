@@ -1,1 +1,31 @@
-{"title":"Weird Science","instanceSlug":"weird science","tags":[],"parents":[],"debut":1985,"playlists":[],"ranks":[18,9,7,5.2,5.5,5.8,6.7,7.6,9.4,12.1,15.7,20.2,25.6,31.9,39.1,47.2,56.2,66.1,76.9,88.6],"artists":[{"slug":"oingo-boingo","title":"Oingo Boingo","roleSlug":true}],"debutRank":18,"peakRank":5.2,"duration":5,"score":9.44,"genres":[],"source":null,"rank":998}
+{
+  "title": "Weird Science",
+  "instanceSlug": "weird science",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": 1985,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    9,
+    7,
+    5.2,
+    5.5,
+    5.8,
+    6.7
+  ],
+  "artists": [
+    {
+      "slug": "oingo-boingo",
+      "title": "Oingo Boingo",
+      "roleSlug": true
+    }
+  ],
+  "genres": [
+  ],
+  "source": null,
+  "rank": 3119
+}

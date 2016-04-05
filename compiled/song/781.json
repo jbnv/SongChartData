@@ -1,1 +1,55 @@
-{"title":"Pamela","instanceSlug":781,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1988-04","playlists":[],"ranks":[17,10.1,9.3,8.8,10,11.2,13.6,17.2,22,28,35.2,43.6,53.2,64,76,89.2],"artists":[{"slug":"toto","title":"Toto","roleSlug":true}],"debutRank":17,"peakRank":8.8,"duration":4,"score":4.28,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1377}
+{
+  "title": "Pamela",
+  "instanceSlug": 781,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1988-04",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    9.3,
+    8.8,
+    10
+  ],
+  "artists": [
+    {
+      "slug": "toto",
+      "title": "Toto",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.229,
+    0.256,
+    0.275,
+    0.232,
+    0.227,
+    0.217,
+    0.202,
+    0.182,
+    0.157,
+    0.127,
+    0.092,
+    0.052,
+    0.007,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.75,
+  "score": 2.31,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1392
+}

@@ -1,1 +1,19 @@
-{"title":"Space Oddity","instanceSlug":2289,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"david-bowie":true}}
+{
+  "title": "Space Oddity",
+  "instanceSlug": 2289,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "david-bowie": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,35 @@
-{"title":"One Hundred Ways","instanceSlug":2188,"tags":[],"parents":[],"genre":"soul","debut":"1982-02","playlists":[],"ranks":[],"artists":[{"slug":"quincy-jones","title":"Quincy Jones","roleSlug":true},{"slug":"james-ingram","title":"James Ingram","roleSlug":"feature"}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2760}
+{
+  "title": "One Hundred Ways",
+  "instanceSlug": 2188,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1982-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "quincy-jones",
+      "title": "Quincy Jones",
+      "roleSlug": true
+    },
+    {
+      "slug": "james-ingram",
+      "title": "James Ingram",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2724
+}

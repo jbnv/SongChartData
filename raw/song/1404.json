@@ -1,1 +1,23 @@
-{"title":"Dirty Deeds","instanceSlug":1404,"tags":["deed","dirty","dirty-deeds","remake"],"parents":[],"genre":"metal","debut":"1990-03","playlists":[],"ranks":[],"artists":{"joan-jett":true}}
+{
+  "title": "Dirty Deeds",
+  "instanceSlug": 1404,
+  "tags": [
+    "deed",
+    "dirty",
+    "dirty-deeds",
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1990-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "joan-jett": true
+  },
+  "scores": [
+  ]
+}

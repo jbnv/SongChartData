@@ -1,1 +1,68 @@
-{"title":"If This Is It","instanceSlug":98,"tags":["if","this"],"parents":[],"genre":"rock","debut":"1984-08","ranks":[13.9,6.9,3.4,1.6,1,1.27,1.54,2.08,2.89,3.97,5.32,6.94,8.83,10.99,13.42,16.12,19.09,22.33,25.84,29.62,33.67,37.99,42.58,47.44,52.57,57.97,63.64,69.58],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":13.9,"peakRank":1,"duration":7,"score":24.39,"genres":[{"slug":"rock","title":"Rock"}],"playlists":[],"source":null,"rank":153}
+{
+  "title": "If This Is It",
+  "instanceSlug": 98,
+  "tags": [
+    "if",
+    "this"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-08",
+  "ranks": [
+    13.9,
+    6.9,
+    3.4,
+    1.6,
+    1,
+    1.27
+  ],
+  "artists": [
+    {
+      "slug": "huey-lewis-the-news",
+      "title": "Huey Lewis & the News",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.356,
+    0.592,
+    0.843,
+    1,
+    0.92,
+    0.915,
+    0.905,
+    0.89,
+    0.87,
+    0.845,
+    0.815,
+    0.78,
+    0.74,
+    0.695,
+    0.645,
+    0.59,
+    0.53,
+    0.465,
+    0.395,
+    0.32,
+    0.24,
+    0.155,
+    0.065,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 6.25,
+  "score": 14.692999999999996,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 34
+}

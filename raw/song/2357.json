@@ -1,13 +1,31 @@
 {
   "title": "Wanna Be Startin' Something",
   "instanceSlug": 2357,
-  "tags": [],
-  "source":"thriller",
+  "tags": [
+  ],
+  "source": "thriller",
   "genre": "dance-pop",
   "debut": "1983-06",
-  "playlists": ["start"],
-  "ranks": [20,14,10,8,6,6.5],
+  "playlists": [
+    "start"
+  ],
+  "ranks": [
+    20,
+    14,
+    10,
+    8,
+    6,
+    6.5
+  ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.232,
+    0.306,
+    0.402,
+    0.376
+  ]
 }

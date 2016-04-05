@@ -1,1 +1,19 @@
-{"title":"Dance Dance Dance","instanceSlug":1855,"tags":[],"parents":[],"genre":"disco","debut":1978,"playlists":[],"ranks":[],"artists":{"chic":true}}
+{
+  "title": "Dance Dance Dance",
+  "instanceSlug": 1855,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": 1978,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "chic": true
+  },
+  "scores": [
+  ]
+}

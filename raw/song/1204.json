@@ -1,1 +1,21 @@
-{"title":"No One Else on Earth","instanceSlug":1204,"tags":["earth","nobody"],"parents":[],"genre":"country","debut":1992,"playlists":[],"ranks":[],"artists":{"wynonna":true}}
+{
+  "title": "No One Else on Earth",
+  "instanceSlug": 1204,
+  "tags": [
+    "earth",
+    "nobody"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1992,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "wynonna": true
+  },
+  "scores": [
+  ]
+}

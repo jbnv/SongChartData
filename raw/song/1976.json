@@ -1,1 +1,20 @@
-{"title":"Dressed for Success","instanceSlug":1976,"tags":[],"parents":[],"genre":"pop","debut":"1989-07","playlists":["summer"],"ranks":[],"artists":{"roxette":true}}
+{
+  "title": "Dressed for Success",
+  "instanceSlug": 1976,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "roxette": true
+  },
+  "scores": [
+  ]
+}

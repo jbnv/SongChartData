@@ -1,1 +1,69 @@
-{"title":"Speed Demon","instanceSlug":1568,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"genre":"pop","debut":1988,"playlists":[{"slug":"driving"}],"ranks":[17,9,5,3.8,3.7,4.2,4.7,5.7,7.2,9.2,11.7,14.7,18.2,22.2,26.7,31.7,37.2,43.2,49.7,56.7],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":17,"peakRank":3.7,"duration":5,"score":12.75,"genres":[{"slug":"pop","title":"Pop"}],"rank":764}
+{
+  "title": "Speed Demon",
+  "instanceSlug": 1568,
+  "tags": [
+  ],
+  "source": {
+    "title": "Bad",
+    "instanceSlug": "bad",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "genre": "pop",
+  "debut": 1988,
+  "playlists": [
+    {
+      "slug": "driving"
+    }
+  ],
+  "ranks": [
+    17,
+    9,
+    5,
+    3.8,
+    3.7,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.267,
+    0.463,
+    0.554,
+    0.563,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5,
+  "score": 6.921000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 749
+}

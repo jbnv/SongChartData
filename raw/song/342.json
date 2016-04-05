@@ -6,7 +6,9 @@
   ],
   "genre": "latin-dance",
   "debut": "1987-06",
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "ranks": [
     14,
     4,
@@ -16,6 +18,13 @@
   ],
   "artists": {
     "miami-sound-machine": true,
-    "gloria-estefan":"lead"
-  }
+    "gloria-estefan": "lead"
+  },
+  "scores": [
+    0.12,
+    0.537,
+    0.939,
+    0.925,
+    0.885
+  ]
 }

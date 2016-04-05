@@ -1,1 +1,59 @@
-{"title":"Jump (for My Love)","instanceSlug":108,"tags":[],"genre":"dance","debut":"1984-05","ranks":[13,3.9,2.1,2.35,2.95,3.55,4.75,6.55,8.95,11.95,15.55,19.75,24.55,29.95,35.95,42.55,49.75,57.55,65.95,74.95],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":5,"score":14.29,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":654}
+{
+  "title": "Jump (for My Love)",
+  "instanceSlug": 108,
+  "tags": [
+  ],
+  "genre": "dance",
+  "debut": "1984-05",
+  "ranks": [
+    13,
+    3.9,
+    2.1,
+    2.35,
+    2.95
+  ],
+  "artists": [
+    {
+      "slug": "pointer-sisters",
+      "title": "Pointer Sisters",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.546,
+    0.752,
+    0.715,
+    0.639,
+    0.634,
+    0.624,
+    0.609,
+    0.589,
+    0.564,
+    0.534,
+    0.499,
+    0.459,
+    0.414,
+    0.364,
+    0.309,
+    0.249,
+    0.184,
+    0.114,
+    0.039,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.25,
+  "score": 8.982,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 477
+}

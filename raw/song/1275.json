@@ -1,1 +1,21 @@
-{"title":"I Swear","instanceSlug":1275,"tags":["i","swear"],"parents":[],"genre":"country","debut":1994,"playlists":[],"ranks":[],"artists":{"john-michael-montgomery":true}}
+{
+  "title": "I Swear",
+  "instanceSlug": 1275,
+  "tags": [
+    "i",
+    "swear"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1994,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "john-michael-montgomery": true
+  },
+  "scores": [
+  ]
+}

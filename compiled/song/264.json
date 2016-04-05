@@ -1,1 +1,73 @@
-{"title":"'65 Love Affair","instanceSlug":264,"tags":[],"playlists":[{"slug":"nostalgia"},{"slug":"years","title":"Songs about Particular Years"}],"genre":"pop","debut":"1982-03","ranks":[5,1,1.09,1.18,1.27,1.4,1.54,1.68,1.96,2.38,2.94,3.64,4.48,5.46,6.58,7.84,9.24,10.78,12.46,14.28,16.24,18.34,20.58,22.96,25.48,28.14,30.94,33.88,36.96,40.18,43.54,47.04,50.68,54.46,58.38,62.44],"artists":[{"slug":"paul-davis","title":"Paul Davis","roleSlug":true}],"debutRank":5,"peakRank":1,"duration":9,"score":36.08,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":11}
+{
+  "title": "'65 Love Affair",
+  "instanceSlug": 264,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "nostalgia"
+    },
+    {
+      "slug": "years",
+      "title": "Songs about Particular Years"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1982-03",
+  "ranks": [
+    5,
+    1,
+    1.09,
+    1.18,
+    1.27,
+    1.4,
+    1.54
+  ],
+  "artists": [
+    {
+      "slug": "paul-davis",
+      "title": "Paul Davis",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.463,
+    1,
+    0.971,
+    0.944,
+    0.92,
+    0.887,
+    0.856,
+    0.851,
+    0.841,
+    0.826,
+    0.806,
+    0.781,
+    0.751,
+    0.716,
+    0.676,
+    0.631,
+    0.581,
+    0.526,
+    0.466,
+    0.401,
+    0.331,
+    0.256,
+    0.176,
+    0.091,
+    0.001,
+    0
+  ],
+  "debutScore": 0.463,
+  "peakScore": 0.463,
+  "duration": 6.5,
+  "score": 15.748999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 11
+}

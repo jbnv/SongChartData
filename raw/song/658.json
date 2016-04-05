@@ -1,1 +1,29 @@
-{"title":"Together","instanceSlug":658,"tags":[],"parents":[],"genre":true,"debut":1981,"playlists":[],"ranks":[15,8.3,4.6,2.5,3.4],"artists":{"tierra":true}}
+{
+  "title": "Together",
+  "instanceSlug": 658,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1981,
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.3,
+    4.6,
+    2.5,
+    3.4
+  ],
+  "artists": {
+    "tierra": true
+  },
+  "scores": [
+    0.097,
+    0.294,
+    0.491,
+    0.694,
+    0.592
+  ]
+}

@@ -1,1 +1,75 @@
-{"title":"Ride Like the Wind","instanceSlug":2306,"tags":[],"parents":[],"genre":"pop","debut":"1980-03","playlists":[],"ranks":[15,10,6,4.2,3.3,2.7,2.5,2.45,2.67,3.4,4.13,5.59,7.78,10.7,14.35,18.73,23.84,29.68,36.25,43.55,51.58,60.34,69.83,80.05],"artists":[{"slug":"christopher-cross","title":"Christopher Cross","roleSlug":true},{"slug":"michael-mcdonald","title":"Michael McDonald","roleSlug":"backup"}],"debutRank":15,"peakRank":2.45,"duration":6,"score":20.4,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":304}
+{
+  "title": "Ride Like the Wind",
+  "instanceSlug": 2306,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-03",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    10,
+    6,
+    4.2,
+    3.3,
+    2.7,
+    2.5,
+    2.45,
+    2.67,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "christopher-cross",
+      "title": "Christopher Cross",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-mcdonald",
+      "title": "Michael McDonald",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.232,
+    0.402,
+    0.521,
+    0.602,
+    0.668,
+    0.694,
+    0.701,
+    0.672,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6.25,
+  "score": 10.669000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 295
+}

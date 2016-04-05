@@ -1,1 +1,21 @@
-{"title":"Welcome to the Jungle","instanceSlug":1583,"tags":["jungle","welcome"],"parents":[],"genre":"metal","debut":"1988-12","playlists":[],"ranks":[],"artists":{"guns-n-roses":true}}
+{
+  "title": "Welcome to the Jungle",
+  "instanceSlug": 1583,
+  "tags": [
+    "jungle",
+    "welcome"
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1988-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "guns-n-roses": true
+  },
+  "scores": [
+  ]
+}

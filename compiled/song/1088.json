@@ -1,1 +1,70 @@
-{"title":"The Sweetest Thing","instanceSlug":1088,"tags":[],"parents":[],"genre":"rock","debut":1998,"playlists":[],"ranks":[16,10,7,5.2,3.9,3.7,3.6,3.8,4.2,4.8,6,7.2,9.6,13.2,18,24,31.2,39.6,49.2,60],"artists":[{"slug":"u2","title":"U2","roleSlug":true}],"debutRank":16,"peakRank":3.6,"duration":5,"score":16.54,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":499}
+{
+  "title": "The Sweetest Thing",
+  "instanceSlug": 1088,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1998,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.2,
+    3.9,
+    3.7,
+    3.6,
+    3.8,
+    4.2,
+    4.8,
+    6
+  ],
+  "artists": [
+    {
+      "slug": "u2",
+      "title": "U2",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.45,
+    0.546,
+    0.563,
+    0.573,
+    0.554,
+    0.521,
+    0.477,
+    0.402,
+    0.397,
+    0.387,
+    0.372,
+    0.352,
+    0.327,
+    0.297,
+    0.262,
+    0.222,
+    0.177,
+    0.127,
+    0.072,
+    0.012,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6,
+  "score": 7.747999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 639
+}

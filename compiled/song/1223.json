@@ -1,1 +1,33 @@
-{"title":"Mama's Pearl","instanceSlug":1223,"tags":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"jacksons","title":"Jackson 5 / Jacksons","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"lead"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2083}
+{
+  "title": "Mama's Pearl",
+  "instanceSlug": 1223,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jacksons",
+      "title": "Jackson 5 / Jacksons",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": "lead"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2443
+}

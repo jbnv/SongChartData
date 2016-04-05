@@ -1,1 +1,73 @@
-{"title":"Deeper & Deeper","instanceSlug":1206,"tags":["deeper"],"parents":[],"genre":"pop","debut":"1992-12","playlists":[],"ranks":[15,7,3,2,2,2.4,2.8,3.2,3.7,4.3,4.9,5.6,6.3,7.7,9.8,12.6,16.1,20.3,25.2,30.8,37.1,44.1,51.8,60.2],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":6,"score":23.24,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":194}
+{
+  "title": "Deeper & Deeper",
+  "instanceSlug": 1206,
+  "tags": [
+    "deeper"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    7,
+    3,
+    2,
+    2,
+    2.4,
+    2.8,
+    3.2,
+    3.7,
+    4.3,
+    4.9,
+    5.6
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.351,
+    0.633,
+    0.768,
+    0.768,
+    0.708,
+    0.656,
+    0.612,
+    0.563,
+    0.513,
+    0.47,
+    0.425,
+    0.42,
+    0.41,
+    0.395,
+    0.375,
+    0.35,
+    0.32,
+    0.285,
+    0.245,
+    0.2,
+    0.15,
+    0.095,
+    0.035,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6.25,
+  "score": 9.844,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 383
+}

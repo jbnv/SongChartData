@@ -1,10 +1,13 @@
 {
   "title": "Heart to Heart",
   "instanceSlug": 703,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1982-12",
-  "playlists": ["ballad"],
+  "playlists": [
+    "ballad"
+  ],
   "ranks": [
     15,
     3.5,
@@ -17,5 +20,14 @@
   "artists": {
     "kenny-loggins": true,
     "michael-mcdonald": "backup"
-  }
+  },
+  "scores": [
+    0.097,
+    0.582,
+    1,
+    0.956,
+    0.917,
+    0.88,
+    0.845
+  ]
 }

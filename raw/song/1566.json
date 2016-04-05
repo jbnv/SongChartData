@@ -1,13 +1,30 @@
 {
   "title": "Streetwalker",
   "instanceSlug": 1566,
-  "tags": [],
-  "source":"bad",
+  "tags": [
+  ],
+  "source": "bad",
   "genre": "pop",
   "debut": 1988,
-  "playlists": [],
-  "ranks": [16,9,5,3,3.2,3.5],
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    5,
+    3,
+    3.2,
+    3.5
+  ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.463,
+    0.633,
+    0.612,
+    0.582
+  ]
 }

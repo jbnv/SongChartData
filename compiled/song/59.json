@@ -1,1 +1,56 @@
-{"title":"Nasty","instanceSlug":59,"tags":[],"parents":[],"genre":"pop","debut":"1986-06","ranks":[21,12,10,8.7,8,8.9,9.8,11.6,14.3,17.9,22.4,27.8,34.1,41.3,49.4,58.4],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":21,"peakRank":8,"duration":4,"score":5.51,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1305}
+{
+  "title": "Nasty",
+  "instanceSlug": 59,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-06",
+  "ranks": [
+    21,
+    12,
+    10,
+    8.7,
+    8,
+    8.9
+  ],
+  "artists": [
+    {
+      "slug": "janet-jackson",
+      "title": "Janet Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.232,
+    0.278,
+    0.306,
+    0.271,
+    0.266,
+    0.256,
+    0.241,
+    0.221,
+    0.196,
+    0.166,
+    0.131,
+    0.091,
+    0.046,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 3.75,
+  "score": 2.8720000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1328
+}

@@ -1,1 +1,64 @@
-{"title":"Fortress Around Your Heart","instanceSlug":941,"tags":["around","fortress","heart","your"],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[15.5,10.5,7,5.2,5.9,7.5,9,12,15,18,21,24,30,39,51,66],"artists":[{"slug":"sting","title":"Sting","roleSlug":true}],"debutRank":15.5,"peakRank":5.2,"duration":4,"score":7.24,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1166}
+{
+  "title": "Fortress Around Your Heart",
+  "instanceSlug": 941,
+  "tags": [
+    "around",
+    "fortress",
+    "heart",
+    "your"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    10.5,
+    7,
+    5.2,
+    5.9,
+    7.5,
+    9,
+    12,
+    15,
+    18,
+    21
+  ],
+  "artists": [
+    {
+      "slug": "sting",
+      "title": "Sting",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.216,
+    0.351,
+    0.45,
+    0.408,
+    0.328,
+    0.267,
+    0.171,
+    0.097,
+    0.036,
+    0.031,
+    0.021,
+    0.006,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.036,
+  "duration": 3.5,
+  "score": 2.4679999999999995,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1374
+}

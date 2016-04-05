@@ -1,1 +1,19 @@
-{"title":"Too Much","instanceSlug":2214,"tags":[],"parents":[],"genre":"pop","debut":"1996-06","playlists":[],"ranks":[],"artists":{"dave-matthews-band":true}}
+{
+  "title": "Too Much",
+  "instanceSlug": 2214,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1996-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "dave-matthews-band": true
+  },
+  "scores": [
+  ]
+}

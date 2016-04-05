@@ -1,1 +1,33 @@
-{"title":"Say It Isn't So","instanceSlug":759,"tags":[],"parents":[],"genre":"rock","debut":"1983-11","playlists":[],"ranks":[15,4.7,3.1,2.5,2.43,2.69,3.14],"artists":{"hall-oates":true}}
+{
+  "title": "Say It Isn't So",
+  "instanceSlug": 759,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    4.7,
+    3.1,
+    2.5,
+    2.43,
+    2.69,
+    3.14
+  ],
+  "artists": {
+    "hall-oates": true
+  },
+  "scores": [
+    0.097,
+    0.484,
+    0.622,
+    0.694,
+    0.704,
+    0.67,
+    0.618
+  ]
+}

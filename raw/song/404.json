@@ -1,1 +1,23 @@
-{"title":"Fly","instanceSlug":404,"tags":["#1","#1-airplay","#1-modern-rock"],"parents":[],"genre":"rock","debut":"1997-08","playlists":[],"ranks":[],"artists":{"sugar-ray":true,"super":"feature"}}
+{
+  "title": "Fly",
+  "instanceSlug": 404,
+  "tags": [
+    "#1",
+    "#1-airplay",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1997-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "sugar-ray": true,
+    "super": "feature"
+  },
+  "scores": [
+  ]
+}

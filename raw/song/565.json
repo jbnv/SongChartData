@@ -1,1 +1,29 @@
-{"title":"Black Balloon","instanceSlug":565,"tags":["balloon","black"],"parents":[],"genre":true,"debut":"1999-08","playlists":[],"ranks":[17,11.7,6.8,8.8],"artists":{"goo-goo-dolls":true}}
+{
+  "title": "Black Balloon",
+  "instanceSlug": 565,
+  "tags": [
+    "balloon",
+    "black"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.7,
+    6.8,
+    8.8
+  ],
+  "artists": {
+    "goo-goo-dolls": true
+  },
+  "scores": [
+    0.055,
+    0.18,
+    0.361,
+    0.275
+  ]
+}

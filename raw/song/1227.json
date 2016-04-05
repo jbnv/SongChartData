@@ -1,1 +1,19 @@
-{"title":"Ben","instanceSlug":1227,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":{"michael-jackson":true}}
+{
+  "title": "Ben",
+  "instanceSlug": 1227,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "michael-jackson": true
+  },
+  "scores": [
+  ]
+}

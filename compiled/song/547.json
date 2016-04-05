@@ -1,1 +1,75 @@
-{"title":"Another Part of Me","instanceSlug":547,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"genre":"dance-pop","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,3,1.1,1.17,1.28,1.44,1.6,1.92,2.4,3.04,3.84,4.8,5.92,7.2,8.64,10.24,12,13.92,16,18.24,20.64,23.2,25.92,28.8,31.84,35.04,38.4,41.92,45.6,49.44,53.44,57.6],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":1.1,"duration":8,"score":30.5,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":44}
+{
+  "title": "Another Part of Me",
+  "instanceSlug": 547,
+  "tags": [
+  ],
+  "source": {
+    "title": "Bad",
+    "instanceSlug": "bad",
+    "tags": [
+      "michael-jackson"
+    ],
+    "type": "album"
+  },
+  "genre": "dance-pop",
+  "debut": "1988-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    12,
+    3,
+    1.1,
+    1.17,
+    1.28,
+    1.44
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.633,
+    0.968,
+    0.947,
+    0.917,
+    0.878,
+    0.873,
+    0.863,
+    0.848,
+    0.828,
+    0.803,
+    0.773,
+    0.738,
+    0.698,
+    0.653,
+    0.603,
+    0.548,
+    0.488,
+    0.423,
+    0.353,
+    0.278,
+    0.198,
+    0.113,
+    0.023,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 6.25,
+  "score": 14.618,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "rank": 38
+}

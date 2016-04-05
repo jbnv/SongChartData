@@ -1,1 +1,35 @@
-{"title":"Be Still My Beating Heart","instanceSlug":1831,"tags":[],"parents":[],"genre":"pop","debut":"1988-02","playlists":[],"ranks":[16,8,6.2,4.5,4.7,4.9,5.4,6.1],"artists":{"sting":true}}
+{
+  "title": "Be Still My Beating Heart",
+  "instanceSlug": 1831,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-02",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    6.2,
+    4.5,
+    4.7,
+    4.9,
+    5.4,
+    6.1
+  ],
+  "artists": {
+    "sting": true
+  },
+  "scores": [
+    0.075,
+    0.306,
+    0.391,
+    0.498,
+    0.484,
+    0.47,
+    0.437,
+    0.397
+  ]
+}

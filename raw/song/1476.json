@@ -1,10 +1,12 @@
 {
   "title": "Falling in Love",
   "instanceSlug": 1476,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1986-12",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     15.5,
     4.9,
@@ -16,6 +18,15 @@
   ],
   "artists": {
     "miami-sound-machine": true,
-    "gloria-estefan":"lead"
-  }
+    "gloria-estefan": "lead"
+  },
+  "scores": [
+    0.086,
+    0.47,
+    0.622,
+    0.694,
+    0.681,
+    0.656,
+    0.617
+  ]
 }

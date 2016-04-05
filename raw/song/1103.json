@@ -1,1 +1,19 @@
-{"title":"Teenage Dream","instanceSlug":1103,"tags":[],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[],"artists":{"katy-perry":true}}
+{
+  "title": "Teenage Dream",
+  "instanceSlug": 1103,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "katy-perry": true
+  },
+  "scores": [
+  ]
+}

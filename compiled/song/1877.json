@@ -1,1 +1,30 @@
-{"title":"Tell Her No","instanceSlug":1877,"tags":[],"parents":[],"genre":"pop","debut":1965,"playlists":[],"ranks":[],"artists":[{"slug":"zombies","title":"Zombies","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2122}
+{
+  "title": "Tell Her No",
+  "instanceSlug": 1877,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1965,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "zombies",
+      "title": "Zombies",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1822
+}

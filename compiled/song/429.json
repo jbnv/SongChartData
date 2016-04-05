@@ -1,1 +1,66 @@
-{"title":"What's Love Got to Do With It","instanceSlug":429,"tags":["#1"],"parents":[],"genre":"pop","debut":"1984-07","playlists":[],"ranks":[15,4.4,2.3,1.7,1.65,1.93,2.21,2.77,3.61,4.73,6.13,7.81,9.77,12.01,14.53,17.33,20.41,23.77,27.41,31.33,35.53,40.01,44.77,49.81,55.13,60.73,66.61,72.77],"artists":[{"slug":"tina-turner","title":"Tina Turner","roleSlug":true}],"debutRank":15,"peakRank":1.65,"duration":7,"score":22.48,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":216}
+{
+  "title": "What's Love Got to Do With It",
+  "instanceSlug": 429,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    4.4,
+    2.3,
+    1.7,
+    1.65,
+    1.93
+  ],
+  "artists": [
+    {
+      "slug": "tina-turner",
+      "title": "Tina Turner",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.506,
+    0.722,
+    0.823,
+    0.833,
+    0.78,
+    0.775,
+    0.765,
+    0.75,
+    0.73,
+    0.705,
+    0.675,
+    0.64,
+    0.6,
+    0.555,
+    0.505,
+    0.45,
+    0.39,
+    0.325,
+    0.255,
+    0.18,
+    0.1,
+    0.015,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6,
+  "score": 12.176000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 190
+}

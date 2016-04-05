@@ -1,1 +1,71 @@
-{"title":"State of Shock","instanceSlug":1226,"tags":[],"genre":"pop","debut":"1984-07","playlists":[],"ranks":[15,9,4.9,3.6,3.5,3.86,4.4,4.94,6.02,7.64,9.8,12.5,15.74,19.52,23.84,28.7,34.1,40.04,46.52,53.54],"artists":[{"slug":"jacksons","title":"Jackson 5 / Jacksons","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"lead"},{"slug":"mick-jagger","title":"Mick Jagger","roleSlug":"backup"}],"debutRank":15,"peakRank":3.5,"duration":5,"score":14.18,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":659}
+{
+  "title": "State of Shock",
+  "instanceSlug": 1226,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    4.9,
+    3.6,
+    3.5,
+    3.86,
+    4.4
+  ],
+  "artists": [
+    {
+      "slug": "jacksons",
+      "title": "Jackson 5 / Jacksons",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": "lead"
+    },
+    {
+      "slug": "mick-jagger",
+      "title": "Mick Jagger",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.47,
+    0.573,
+    0.582,
+    0.549,
+    0.506,
+    0.501,
+    0.491,
+    0.476,
+    0.456,
+    0.431,
+    0.401,
+    0.366,
+    0.326,
+    0.281,
+    0.231,
+    0.176,
+    0.116,
+    0.051,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 7.346999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 689
+}

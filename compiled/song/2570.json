@@ -1,1 +1,64 @@
-{"title":"Undercover of the Night","instanceSlug":2570,"tags":[],"parents":[],"genre":"rock","debut":"1983-12","playlists":[],"ranks":[13,8,3.5,2.5,2.24,2.49,2.74,3.24,3.99,4.99,6.24,7.74,9.49,11.49,13.74,16.24,18.99,21.99,25.24,28.74,32.49,36.49,40.74,45.24,49.99,54.99,60.24,65.74],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"debutRank":13,"peakRank":2.24,"duration":7,"score":20.37,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":307}
+{
+  "title": "Undercover of the Night",
+  "instanceSlug": 2570,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-12",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    8,
+    3.5,
+    2.5,
+    2.24,
+    2.49
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.306,
+    0.582,
+    0.694,
+    0.731,
+    0.695,
+    0.69,
+    0.68,
+    0.665,
+    0.645,
+    0.62,
+    0.59,
+    0.555,
+    0.515,
+    0.47,
+    0.42,
+    0.365,
+    0.305,
+    0.24,
+    0.17,
+    0.095,
+    0.015,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.75,
+  "score": 10.193000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 340
+}

@@ -1,1 +1,62 @@
-{"title":"Happy","instanceSlug":532,"tags":[],"parents":[],"genre":"soul","debut":"1987-07","playlists":[],"ranks":[17,9.5,6.6,5.2,4.8,5.2,5.9,6.6,8,10.1,12.9,16.4,20.6,25.5,31.1,37.4,44.4,52.1,60.5,69.6],"artists":[{"slug":"surface","title":"Surface","roleSlug":true}],"debutRank":17,"peakRank":4.8,"duration":5,"score":10.75,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":902}
+{
+  "title": "Happy",
+  "instanceSlug": 532,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-07",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.5,
+    6.6,
+    5.2,
+    4.8,
+    5.2,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "surface",
+      "title": "Surface",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.249,
+    0.37,
+    0.45,
+    0.477,
+    0.45,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5,
+  "score": 5.534999999999999,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 919
+}

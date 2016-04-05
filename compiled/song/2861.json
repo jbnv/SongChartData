@@ -1,1 +1,30 @@
-{"title":"All the Things She Said","instanceSlug":2861,"tags":[],"parents":[],"genre":"pop","debut":"1986-05","playlists":[],"ranks":[],"artists":[{"slug":"simple-minds","title":"Simple Minds","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2051}
+{
+  "title": "All the Things She Said",
+  "instanceSlug": 2861,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "simple-minds",
+      "title": "Simple Minds",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2051
+}

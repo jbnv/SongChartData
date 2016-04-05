@@ -1,1 +1,83 @@
-{"title":"Put a Little Love in Your Heart","instanceSlug":1581,"tags":["heart","little","","love","put","your"],"parents":[],"genre":"pop","debut":"1988-12","source":{"title":"Scrooged","instanceSlug":"scrooged","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[12,4,1.7,1.84,1.98,2.32,2.66,3.34,4.36,5.72,7.42,9.46,11.84,14.56,17.62,21.02,24.76,28.84,33.26,38.02,43.12,48.56,54.34,60.46],"artists":[{"slug":"annie-lennox","title":"Annie Lennox","roleSlug":true},{"slug":"al-green","title":"Al Green","roleSlug":true}],"debutRank":12,"peakRank":1.7,"duration":6,"score":20.79,"genres":[{"slug":"pop","title":"Pop"}],"rank":284}
+{
+  "title": "Put a Little Love in Your Heart",
+  "instanceSlug": 1581,
+  "tags": [
+    "heart",
+    "little",
+    "",
+    "love",
+    "put",
+    "your"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-12",
+  "source": {
+    "title": "Scrooged",
+    "instanceSlug": "scrooged",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4,
+    1.7,
+    1.84,
+    1.98,
+    2.32
+  ],
+  "artists": [
+    {
+      "slug": "annie-lennox",
+      "title": "Annie Lennox",
+      "roleSlug": true
+    },
+    {
+      "slug": "al-green",
+      "title": "Al Green",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.537,
+    0.823,
+    0.796,
+    0.772,
+    0.719,
+    0.714,
+    0.704,
+    0.689,
+    0.669,
+    0.644,
+    0.614,
+    0.579,
+    0.539,
+    0.494,
+    0.444,
+    0.389,
+    0.329,
+    0.264,
+    0.194,
+    0.119,
+    0.039,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 11.241999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 245
+}

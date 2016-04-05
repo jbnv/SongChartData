@@ -1,1 +1,69 @@
-{"title":"Mandolin Rain","instanceSlug":578,"tags":["#1","#1-adult-contemporary","musical-instrument"],"parents":[],"genre":"adult-contemporary","debut":"1987-02","playlists":[],"ranks":[13.9,5,3.7,1.9,1.5,1.7,2.1,2.5,3.3,4.5,6.1,8.1,10.5,13.3,16.5,20.1,24.1,28.5,33.3,38.5,44.1,50.1,56.5,63.3],"artists":[{"slug":"bruce-hornsby-the-range","title":"Bruce Hornsby & the Range","roleSlug":true}],"debutRank":13.9,"peakRank":1.5,"duration":6,"score":21.87,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":236}
+{
+  "title": "Mandolin Rain",
+  "instanceSlug": 578,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "musical-instrument"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1987-02",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    5,
+    3.7,
+    1.9,
+    1.5,
+    1.7,
+    2.1
+  ],
+  "artists": [
+    {
+      "slug": "bruce-hornsby-the-range",
+      "title": "Bruce Hornsby & the Range",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.463,
+    0.563,
+    0.786,
+    0.864,
+    0.823,
+    0.752,
+    0.747,
+    0.737,
+    0.722,
+    0.702,
+    0.677,
+    0.647,
+    0.612,
+    0.572,
+    0.527,
+    0.477,
+    0.422,
+    0.362,
+    0.297,
+    0.227,
+    0.152,
+    0.072,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 6,
+  "score": 12.325,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 180
+}

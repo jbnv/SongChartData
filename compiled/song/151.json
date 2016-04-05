@@ -1,1 +1,61 @@
-{"title":"Little Red Corvette","instanceSlug":151,"tags":["#1","car","little","red"],"parents":[],"genre":"pop","debut":"1983-04","ranks":[15.5,9.2,5.3,4.6,6.3,8,11.4,16.5,23.3,31.8,42,53.9],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":15.5,"peakRank":4.6,"duration":3,"score":6.69,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1211}
+{
+  "title": "Little Red Corvette",
+  "instanceSlug": 151,
+  "tags": [
+    "#1",
+    "car",
+    "little",
+    "red"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-04",
+  "ranks": [
+    15.5,
+    9.2,
+    5.3,
+    4.6,
+    6.3
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.26,
+    0.444,
+    0.491,
+    0.386,
+    0.381,
+    0.371,
+    0.356,
+    0.336,
+    0.311,
+    0.281,
+    0.246,
+    0.206,
+    0.161,
+    0.111,
+    0.056,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 4.25,
+  "score": 4.483,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1079
+}

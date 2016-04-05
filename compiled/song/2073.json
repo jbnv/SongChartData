@@ -1,1 +1,30 @@
-{"title":"Let's Make a Night to Remember","instanceSlug":2073,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1996-10","playlists":[],"ranks":[],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2569}
+{
+  "title": "Let's Make a Night to Remember",
+  "instanceSlug": 2073,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1996-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bryan-adams",
+      "title": "Bryan Adams",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2521
+}

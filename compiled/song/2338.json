@@ -1,1 +1,55 @@
-{"title":"The Breakup Song (They Don't Write 'Em)","instanceSlug":2338,"tags":[],"parents":[],"genre":"rock","debut":"1981-07","playlists":[],"ranks":[25,11.5,10.5,10,10.2,10.9,11.6,13,15.1,17.9,21.4,25.6,30.5,36.1,42.4,49.4,57.1,65.5,74.6,84.4],"artists":[{"slug":"greg-kihn-band","title":"Greg Kihn Band","roleSlug":true}],"debutRank":25,"peakRank":10,"duration":5,"score":4.58,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1364}
+{
+  "title": "The Breakup Song (They Don't Write 'Em)",
+  "instanceSlug": 2338,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-07",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    11.5,
+    10.5,
+    10,
+    10.2,
+    10.9
+  ],
+  "artists": [
+    {
+      "slug": "greg-kihn-band",
+      "title": "Greg Kihn Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.185,
+    0.216,
+    0.232,
+    0.225,
+    0.203,
+    0.198,
+    0.188,
+    0.173,
+    0.153,
+    0.128,
+    0.098,
+    0.063,
+    0.023,
+    0
+  ],
+  "debutScore": 0.185,
+  "peakScore": 0.185,
+  "duration": 3.5,
+  "score": 2.085,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1417
+}

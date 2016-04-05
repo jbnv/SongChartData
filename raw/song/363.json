@@ -5,21 +5,35 @@
     "#1",
     "#1-r&b"
   ],
-  "source":"dangerous",
+  "source": "dangerous",
   "genre": "new-jack-swing",
   "debut": "1992-02",
-  "playlists": [],
-  "ranks": [8,
-  1,
-  1.025,
-  1.065,
-  1.12,
-  1.21,
-  1.37,
-  1.6,
-  1.98],
+  "playlists": [
+  ],
+  "ranks": [
+    8,
+    1,
+    1.025,
+    1.065,
+    1.12,
+    1.21,
+    1.37,
+    1.6,
+    1.98
+  ],
   "artists": {
     "michael-jackson": true
   },
-  "note":"Project 8 weeks at #1."
+  "note": "Project 8 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.991,
+    0.979,
+    0.962,
+    0.936,
+    0.895,
+    0.843,
+    0.772
+  ]
 }

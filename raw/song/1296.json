@@ -1,1 +1,21 @@
-{"title":"Forever Young","instanceSlug":1296,"tags":["forever","young"],"parents":[],"genre":"pop","debut":"1980s","playlists":[],"ranks":[],"artists":{"alphaville":true}}
+{
+  "title": "Forever Young",
+  "instanceSlug": 1296,
+  "tags": [
+    "forever",
+    "young"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "alphaville": true
+  },
+  "scores": [
+  ]
+}

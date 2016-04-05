@@ -1,1 +1,65 @@
-{"title":"Superwoman","instanceSlug":506,"tags":["#1","super","woman"],"parents":[],"genre":"soul","debut":"1989-03","playlists":[],"ranks":[16.5,10.2,7,5.9,4.9,5.3,5.87,6.44,7.58,9.29,11.57,14.42,17.84,21.83,26.39,31.52,37.22,43.49,50.33,57.74],"artists":[{"slug":"karyn-white","title":"Karyn White","roleSlug":true}],"debutRank":16.5,"peakRank":4.9,"duration":5,"score":11.01,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":884}
+{
+  "title": "Superwoman",
+  "instanceSlug": 506,
+  "tags": [
+    "#1",
+    "super",
+    "woman"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1989-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    10.2,
+    7,
+    5.9,
+    4.9,
+    5.3,
+    5.87
+  ],
+  "artists": [
+    {
+      "slug": "karyn-white",
+      "title": "Karyn White",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.065,
+    0.225,
+    0.351,
+    0.408,
+    0.47,
+    0.444,
+    0.41,
+    0.405,
+    0.395,
+    0.38,
+    0.36,
+    0.335,
+    0.305,
+    0.27,
+    0.23,
+    0.185,
+    0.135,
+    0.08,
+    0.02,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 5,
+  "score": 5.472999999999998,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 929
+}

@@ -1,1 +1,41 @@
-{"title":"Unpretty","instanceSlug":567,"tags":["#1","#1-hot-100","pretty","un"],"parents":[],"genre":"urban","debut":"1999-08","playlists":[],"ranks":[17,11.3,6.4,5.1,4.25,4.03,4.15,4.41,4.98],"artists":{"tlc":true}}
+{
+  "title": "Unpretty",
+  "instanceSlug": 567,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "pretty",
+    "un"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1999-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11.3,
+    6.4,
+    5.1,
+    4.25,
+    4.03,
+    4.15,
+    4.41,
+    4.98
+  ],
+  "artists": {
+    "tlc": true
+  },
+  "scores": [
+    0.055,
+    0.191,
+    0.381,
+    0.456,
+    0.517,
+    0.535,
+    0.525,
+    0.505,
+    0.464
+  ]
+}

@@ -1,1 +1,36 @@
-{"title":"Werewolves of London","instanceSlug":1879,"tags":["","cities","halloween"],"parents":[],"genre":"pop","debut":"1978-05","playlists":[{"slug":"animals"}],"ranks":[],"artists":[{"slug":"warren-zevon","title":"Warren Zevon","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2138}
+{
+  "title": "Werewolves of London",
+  "instanceSlug": 1879,
+  "tags": [
+    "",
+    "cities",
+    "halloween"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-05",
+  "playlists": [
+    {
+      "slug": "animals"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "warren-zevon",
+      "title": "Warren Zevon",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1840
+}

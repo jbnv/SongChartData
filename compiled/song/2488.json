@@ -1,1 +1,67 @@
-{"title":"I'm Your Baby Tonight","instanceSlug":2488,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":"1990-11","playlists":[],"ranks":[14,7,4,2.9,2.2,2.43,2.66,3.12,3.81,4.73,5.88,7.26,8.87,10.71,12.78,15.08,17.61,20.37,23.36,26.58,30.03,33.71,37.62,41.76,46.13,50.73,55.56,60.62],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":14,"peakRank":2.2,"duration":7,"score":20.84,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":277}
+{
+  "title": "I'm Your Baby Tonight",
+  "instanceSlug": 2488,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-11",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    7,
+    4,
+    2.9,
+    2.2,
+    2.43
+  ],
+  "artists": [
+    {
+      "slug": "whitney-houston",
+      "title": "Whitney Houston",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.351,
+    0.537,
+    0.645,
+    0.737,
+    0.704,
+    0.699,
+    0.689,
+    0.674,
+    0.654,
+    0.629,
+    0.599,
+    0.564,
+    0.524,
+    0.479,
+    0.429,
+    0.374,
+    0.314,
+    0.249,
+    0.179,
+    0.104,
+    0.024,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 10.278,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 332
+}

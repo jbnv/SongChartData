@@ -1,1 +1,26 @@
-{"title":"If It Isn't Love","instanceSlug":593,"tags":[],"parents":[],"genre":"soul","debut":"1988-08","playlists":["summer"],"ranks":[8,1,1.14],"artists":{"new-edition":true}}
+{
+  "title": "If It Isn't Love",
+  "instanceSlug": 593,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1988-08",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    8,
+    1,
+    1.14
+  ],
+  "artists": {
+    "new-edition": true
+  },
+  "scores": [
+    0.306,
+    1,
+    0.956
+  ]
+}

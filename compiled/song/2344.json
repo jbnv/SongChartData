@@ -1,1 +1,66 @@
-{"title":"The Pleasure Principle","instanceSlug":2344,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[19,11,7,5,5.2,5.5,5.9,6.3,7.1,8.3,9.9,11.9,14.3,17.1,20.3,23.9,27.9,32.3,37.1,42.3,47.9,53.9,60.3,67.1],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":19,"peakRank":5,"duration":6,"score":11.79,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":835}
+{
+  "title": "The Pleasure Principle",
+  "instanceSlug": 2344,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1987-07",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    19,
+    11,
+    7,
+    5,
+    5.2,
+    5.5,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "janet-jackson",
+      "title": "Janet Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.2,
+    0.351,
+    0.463,
+    0.45,
+    0.431,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 5,
+  "score": 5.396999999999999,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 946
+}

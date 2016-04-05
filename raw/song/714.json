@@ -1,12 +1,21 @@
 {
   "title": "Baby I'm Yours",
   "instanceSlug": 714,
-  "tags": [  ],
-  "genres": ["soul","r&b","urban"],
+  "tags": [
+  ],
+  "genres": [
+    "soul",
+    "r&b",
+    "urban"
+  ],
   "debut": "1993-07",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "shai": true
-  }
+  },
+  "scores": [
+  ]
 }

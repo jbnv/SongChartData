@@ -1,1 +1,19 @@
-{"title":"On The Radio","instanceSlug":2733,"tags":[],"parents":[],"genre":"disco","debut":"1980-02","playlists":[],"ranks":[],"artists":{"donna-summer":true}}
+{
+  "title": "On The Radio",
+  "instanceSlug": 2733,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1980-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "donna-summer": true
+  },
+  "scores": [
+  ]
+}

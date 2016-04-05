@@ -15,5 +15,11 @@
   ],
   "artists": {
     "phil-collins": true
-  }
+  },
+  "scores": [
+    0.086,
+    0.45,
+    0.737,
+    0.708
+  ]
 }

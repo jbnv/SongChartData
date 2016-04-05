@@ -1,1 +1,35 @@
-{"title":"Standing On Top of the World","instanceSlug":1518,"tags":["on-top","standing","this-of-that","top","world"],"parents":[],"genre":"rock","debut":"1991-12","playlists":[],"ranks":[],"artists":[{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2767}
+{
+  "title": "Standing On Top of the World",
+  "instanceSlug": 1518,
+  "tags": [
+    "on-top",
+    "standing",
+    "this-of-that",
+    "top",
+    "world"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sammy-hagar",
+      "title": "Sammy Hagar",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2849
+}

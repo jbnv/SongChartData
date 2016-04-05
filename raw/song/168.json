@@ -1,12 +1,30 @@
 {
   "title": "November Rain",
   "instanceSlug": 168,
-  "tags": [],
-  "playlists": ["months"],
+  "tags": [
+  ],
+  "playlists": [
+    "months"
+  ],
   "genre": true,
   "debut": "1992-08",
-  "ranks": [13.9,6.6,5.5,4.4,4.7,5.5],
+  "ranks": [
+    13.9,
+    6.6,
+    5.5,
+    4.4,
+    4.7,
+    5.5
+  ],
   "artists": {
     "guns-n-roses": true
-  }
+  },
+  "scores": [
+    0.122,
+    0.37,
+    0.431,
+    0.506,
+    0.484,
+    0.431
+  ]
 }

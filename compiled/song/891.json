@@ -1,1 +1,58 @@
-{"title":"Always The Last to Know","instanceSlug":891,"tags":[],"parents":[],"genre":"pop","debut":"1992-10","playlists":[],"ranks":[17.7,10.6,6.2,5.9,6.5,7.5,8.5,10.5,13.5,17.5,22.5,28.5,35.5,43.5,52.5,62.5],"artists":[{"slug":"del-amitri","title":"Del Amitri","roleSlug":true}],"debutRank":17.7,"peakRank":5.9,"duration":4,"score":7.32,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1160}
+{
+  "title": "Always The Last to Know",
+  "instanceSlug": 891,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.7,
+    10.6,
+    6.2,
+    5.9,
+    6.5,
+    7.5
+  ],
+  "artists": [
+    {
+      "slug": "del-amitri",
+      "title": "Del Amitri",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.042,
+    0.213,
+    0.391,
+    0.408,
+    0.376,
+    0.328,
+    0.323,
+    0.313,
+    0.298,
+    0.278,
+    0.253,
+    0.223,
+    0.188,
+    0.148,
+    0.103,
+    0.053,
+    0
+  ],
+  "debutScore": 0.042,
+  "peakScore": 0.042,
+  "duration": 4.25,
+  "score": 3.938000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1169
+}

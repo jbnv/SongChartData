@@ -1,1 +1,81 @@
-{"title":"Somebody's Watching Me","instanceSlug":2583,"tags":[],"parents":[],"genre":"pop","debut":"1984-02","playlists":[{"slug":"halloween","title":"Halloween"},{"slug":"stalking"},{"slug":"paranoia"}],"ranks":[14,8,5,3.5,2,2.15,2.42,2.69,3.23,4.04,5.12,6.47,8.09,9.98,12.14,14.57,17.27,20.24,23.48,26.99,30.77,34.82,39.14,43.73,48.59,53.72,59.12,64.79],"artists":[{"slug":"rockwell","title":"Rockwell","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"backup"}],"debutRank":14,"peakRank":2,"duration":7,"score":21.6,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":248}
+{
+  "title": "Somebody's Watching Me",
+  "instanceSlug": 2583,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-02",
+  "playlists": [
+    {
+      "slug": "halloween",
+      "title": "Halloween"
+    },
+    {
+      "slug": "stalking"
+    },
+    {
+      "slug": "paranoia"
+    }
+  ],
+  "ranks": [
+    14,
+    8,
+    5,
+    3.5,
+    2,
+    2.15,
+    2.42
+  ],
+  "artists": [
+    {
+      "slug": "rockwell",
+      "title": "Rockwell",
+      "roleSlug": true
+    },
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.12,
+    0.306,
+    0.463,
+    0.582,
+    0.768,
+    0.744,
+    0.705,
+    0.7,
+    0.69,
+    0.675,
+    0.655,
+    0.63,
+    0.6,
+    0.565,
+    0.525,
+    0.48,
+    0.43,
+    0.375,
+    0.315,
+    0.25,
+    0.18,
+    0.105,
+    0.025,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 6,
+  "score": 10.888,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 274
+}

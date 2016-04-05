@@ -1,1 +1,33 @@
-{"title":"Stumblin' In","instanceSlug":2430,"tags":[],"parents":[],"genre":"pop","debut":"1979-03","playlists":[],"ranks":[],"artists":[{"slug":"suzy-quatro","title":"Suzy Quatro","roleSlug":true},{"slug":"chris-normal"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3107}
+{
+  "title": "Stumblin' In",
+  "instanceSlug": 2430,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1979-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "suzy-quatro",
+      "title": "Suzy Quatro",
+      "roleSlug": true
+    },
+    {
+      "slug": "chris-normal"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 3104
+}

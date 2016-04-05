@@ -1,1 +1,63 @@
-{"title":"The Closer You Get","instanceSlug":822,"tags":["#1"],"parents":[],"genre":"country","debut":"1983-06","playlists":[],"ranks":[15,2.2,1.9,1.95,2.23,2.51,3.07,3.91,5.03,6.43,8.11,10.07,12.31,14.83,17.63,20.71,24.07,27.71,31.63,35.83,40.31,45.07,50.11,55.43],"artists":[{"slug":"alabama","title":"Alabama","roleSlug":true}],"debutRank":15,"peakRank":1.9,"duration":6,"score":20.03,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":324}
+{
+  "title": "The Closer You Get",
+  "instanceSlug": 822,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1983-06",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    2.2,
+    1.9,
+    1.95,
+    2.23
+  ],
+  "artists": [
+    {
+      "slug": "alabama",
+      "title": "Alabama",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.737,
+    0.786,
+    0.777,
+    0.732,
+    0.727,
+    0.717,
+    0.702,
+    0.682,
+    0.657,
+    0.627,
+    0.592,
+    0.552,
+    0.507,
+    0.457,
+    0.402,
+    0.342,
+    0.277,
+    0.207,
+    0.132,
+    0.052,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 10.761,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 287
+}

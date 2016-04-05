@@ -1,1 +1,65 @@
-{"title":"Set Fire to the Rain","instanceSlug":3034,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[20,14,10,8,6,6.7,7.4,8.8,10.9,13.7,17.2,21.4,26.3,31.9,38.2,45.2,52.9,61.3,70.4,80.2],"artists":[{"slug":"adele","title":"Adele","roleSlug":true}],"debutRank":20,"peakRank":6,"duration":5,"score":7.26,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1165}
+{
+  "title": "Set Fire to the Rain",
+  "instanceSlug": 3034,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    20,
+    14,
+    10,
+    8,
+    6,
+    6.7
+  ],
+  "artists": [
+    {
+      "slug": "adele",
+      "title": "Adele",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.12,
+    0.232,
+    0.306,
+    0.402,
+    0.365,
+    0.36,
+    0.35,
+    0.335,
+    0.315,
+    0.29,
+    0.26,
+    0.225,
+    0.185,
+    0.14,
+    0.09,
+    0.035,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.5,
+  "score": 4.011,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1160
+}

@@ -1,1 +1,50 @@
-{"title":"Like a Prayer","instanceSlug":2125,"tags":["#1"],"parents":[],"genre":"pop","debut":"1989-04","playlists":[],"ranks":[25,10,11.2,12.4,14.8,18.4,23.2,29.2,36.4,44.8,54.4,65.2],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":25,"peakRank":10,"duration":3,"score":2.16,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1505}
+{
+  "title": "Like a Prayer",
+  "instanceSlug": 2125,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-04",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    10,
+    11.2
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.194,
+    0.189,
+    0.179,
+    0.164,
+    0.144,
+    0.119,
+    0.089,
+    0.054,
+    0.014,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.194,
+  "duration": 2.75,
+  "score": 1.3780000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1478
+}

@@ -1,1 +1,36 @@
-{"title":"Making Love Out of Nothing At All","instanceSlug":743,"tags":["make-love","nothing-at-all"],"parents":[],"genre":"pop","debut":"1983-08","playlists":["ballad"],"ranks":[15,8.7,4.7,4.4,4.2,4.43,5.1],"artists":{"air-supply":true}}
+{
+  "title": "Making Love Out of Nothing At All",
+  "instanceSlug": 743,
+  "tags": [
+    "make-love",
+    "nothing-at-all"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-08",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    15,
+    8.7,
+    4.7,
+    4.4,
+    4.2,
+    4.43,
+    5.1
+  ],
+  "artists": {
+    "air-supply": true
+  },
+  "scores": [
+    0.097,
+    0.278,
+    0.484,
+    0.506,
+    0.521,
+    0.503,
+    0.456
+  ]
+}

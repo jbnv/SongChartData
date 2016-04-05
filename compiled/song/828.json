@@ -1,1 +1,58 @@
-{"title":"Ladies' Night","instanceSlug":828,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1979-11","playlists":[],"ranks":[17,9.9,5.8,6.2,8.5,10.8,15.4,22.3,31.5,43,56.8,72.9],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":17,"peakRank":5.8,"duration":3,"score":5.04,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1332}
+{
+  "title": "Ladies' Night",
+  "instanceSlug": 828,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1979-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    6.2,
+    8.5
+  ],
+  "artists": [
+    {
+      "slug": "koolnthegang",
+      "title": "Kool & the Gang",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.391,
+    0.286,
+    0.281,
+    0.271,
+    0.256,
+    0.236,
+    0.211,
+    0.181,
+    0.146,
+    0.106,
+    0.061,
+    0.011,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4,
+  "score": 3.1409999999999996,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1284
+}

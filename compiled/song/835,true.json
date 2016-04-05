@@ -1,1 +1,42 @@
-{"title":"West End Girls","instanceSlug":[835,true],"tags":[],"parents":[],"genre":"pop","debut":1986,"playlists":[{"slug":true}],"ranks":[17.9,10.6,7.3,9.9,12.5,17.7,25.5,35.9,48.9,64.5,82.7,103.5],"artists":[{"slug":"pet-shop-boys","title":"Pet Shop Boys","roleSlug":true},{"slug":"true"}],"debutRank":17.9,"peakRank":7.3,"duration":3,"score":3.07,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1458}
+{
+  "title": "West End Girls",
+  "instanceSlug": [
+    835,
+    true
+  ],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1986,
+  "playlists": [
+    {
+      "slug": true
+    }
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    9.9
+  ],
+  "artists": [
+    {
+      "slug": "pet-shop-boys",
+      "title": "Pet Shop Boys",
+      "roleSlug": true
+    },
+    {
+      "slug": "true"
+    }
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2874
+}

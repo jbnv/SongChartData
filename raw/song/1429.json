@@ -1,1 +1,20 @@
-{"title":"Election Day","instanceSlug":1429,"tags":["day"],"parents":[],"genre":"pop","debut":"1985-11","playlists":[],"ranks":[],"artists":{"arcadia":true}}
+{
+  "title": "Election Day",
+  "instanceSlug": 1429,
+  "tags": [
+    "day"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "arcadia": true
+  },
+  "scores": [
+  ]
+}

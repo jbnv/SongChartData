@@ -1,1 +1,27 @@
-{"title":"Life In One Day","instanceSlug":2191,"tags":[],"parents":[],"genre":"pop","debut":"1985-08","playlists":[],"ranks":[12,2.2,1.89,2.23],"artists":{"howard-jones":true}}
+{
+  "title": "Life In One Day",
+  "instanceSlug": 2191,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-08",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    2.2,
+    1.89,
+    2.23
+  ],
+  "artists": {
+    "howard-jones": true
+  },
+  "scores": [
+    0.171,
+    0.737,
+    0.787,
+    0.732
+  ]
+}

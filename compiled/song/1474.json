@@ -1,1 +1,71 @@
-{"title":"This Is the Time","instanceSlug":1474,"tags":["#1","#1-adult-contemporary","the-time","this-is"],"parents":[],"genre":"pop","debut":"1987-01","playlists":[],"ranks":[15,9,5.5,3.5,2.9,2.5,2.75,3.2,3.65,4.55,5.9,7.7,9.95,12.65,15.8,19.4,23.45,27.95,32.9,38.3,44.15,50.45,57.2,64.4],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":6,"score":18.79,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":383}
+{
+  "title": "This Is the Time",
+  "instanceSlug": 1474,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "the-time",
+    "this-is"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    5.5,
+    3.5,
+    2.9,
+    2.5,
+    2.75,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.431,
+    0.582,
+    0.645,
+    0.694,
+    0.662,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6,
+  "score": 9.77,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 396
+}

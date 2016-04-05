@@ -1,1 +1,63 @@
-{"title":"Rain","instanceSlug":47,"tags":[],"parents":[],"genre":"pop","debut":"1993-08","ranks":[18.9,11,5.9,4.9,3.9,4.1,4.57,5.04,5.98,7.39,9.27,11.62,14.44,17.73,21.49,25.72,30.42,35.59,41.23,47.34,53.92,60.97,68.49,76.48],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":18.9,"peakRank":3.9,"duration":6,"score":13.38,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":711}
+{
+  "title": "Rain",
+  "instanceSlug": 47,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-08",
+  "ranks": [
+    18.9,
+    11,
+    5.9,
+    4.9,
+    3.9,
+    4.1,
+    4.57
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.02,
+    0.2,
+    0.408,
+    0.47,
+    0.546,
+    0.529,
+    0.493,
+    0.488,
+    0.478,
+    0.463,
+    0.443,
+    0.418,
+    0.388,
+    0.353,
+    0.313,
+    0.268,
+    0.218,
+    0.163,
+    0.103,
+    0.038,
+    0
+  ],
+  "debutScore": 0.02,
+  "peakScore": 0.02,
+  "duration": 5.25,
+  "score": 6.799999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 764
+}

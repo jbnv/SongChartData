@@ -1,1 +1,37 @@
-{"title":"Why Can't This Be Love","instanceSlug":2921,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"hard-rock","debut":"1986-04","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":"member"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":2118}
+{
+  "title": "Why Can't This Be Love",
+  "instanceSlug": 2921,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    },
+    {
+      "slug": "sammy-hagar",
+      "title": "Sammy Hagar",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2118
+}

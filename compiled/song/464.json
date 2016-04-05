@@ -1,1 +1,62 @@
-{"title":"Jojo","instanceSlug":464,"tags":[],"parents":[],"genre":"pop","debut":"1980-05","playlists":[],"ranks":[17,10,6,3.5,4.5,5.5,6.5,8,11,14,18,22,26,34,46,62],"artists":[{"slug":"boz-scaggs","title":"Boz Scaggs","roleSlug":true}],"debutRank":17,"peakRank":3.5,"duration":4,"score":9.73,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":981}
+{
+  "title": "Jojo",
+  "instanceSlug": 464,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    6,
+    3.5,
+    4.5,
+    5.5,
+    6.5,
+    8,
+    11,
+    14,
+    18,
+    22
+  ],
+  "artists": [
+    {
+      "slug": "boz-scaggs",
+      "title": "Boz Scaggs",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.402,
+    0.582,
+    0.498,
+    0.431,
+    0.376,
+    0.306,
+    0.2,
+    0.12,
+    0.036,
+    0.031,
+    0.021,
+    0.006,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.036,
+  "duration": 3.75,
+  "score": 3.296,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1264
+}

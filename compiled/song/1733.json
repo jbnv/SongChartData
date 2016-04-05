@@ -1,1 +1,61 @@
-{"title":"Sign 'O' The Times","instanceSlug":1733,"tags":[],"parents":[],"genre":"pop","debut":"1987-03","playlists":[],"ranks":[16,9,5.4,4,4.2,4.8,5.4,6.6,8.4,10.8,13.8,17.4,21.6,26.4,31.8,37.8,44.4,51.6,59.4,67.8],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":5,"score":11.39,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":853}
+{
+  "title": "Sign 'O' The Times",
+  "instanceSlug": 1733,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    5.4,
+    4,
+    4.2,
+    4.8
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.267,
+    0.437,
+    0.537,
+    0.521,
+    0.477,
+    0.472,
+    0.462,
+    0.447,
+    0.427,
+    0.402,
+    0.372,
+    0.337,
+    0.297,
+    0.252,
+    0.202,
+    0.147,
+    0.087,
+    0.022,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5,
+  "score": 6.239999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 834
+}

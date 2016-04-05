@@ -1,1 +1,36 @@
-{"title":"Just Take My Heart","instanceSlug":1111,"tags":["my-heart","take-my-heart"],"parents":[],"genre":"rock","debut":"1992-05","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"mr-big","title":"Mr. Big","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2596}
+{
+  "title": "Just Take My Heart",
+  "instanceSlug": 1111,
+  "tags": [
+    "my-heart",
+    "take-my-heart"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1992-05",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "mr-big",
+      "title": "Mr. Big",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2781
+}

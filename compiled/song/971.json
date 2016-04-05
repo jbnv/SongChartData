@@ -1,1 +1,60 @@
-{"title":"Good Vibrations","instanceSlug":971,"tags":[],"parents":[],"genre":"dance","debut":"1991-09","playlists":[],"ranks":[13.9,7.9,4.5,3.1,3.9,4.7,6.3,8.7,11.9,15.9,20.7,26.3,32.7,39.9,47.9,56.7],"artists":[{"slug":"marky-mark-the-funky-bunch","title":"Marky Mark & the Funky Bunch","roleSlug":true}],"debutRank":13.9,"peakRank":3.1,"duration":4,"score":10.51,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":922}
+{
+  "title": "Good Vibrations",
+  "instanceSlug": 971,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1991-09",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    7.9,
+    4.5,
+    3.1,
+    3.9
+  ],
+  "artists": [
+    {
+      "slug": "marky-mark-the-funky-bunch",
+      "title": "Marky Mark & the Funky Bunch",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.122,
+    0.311,
+    0.498,
+    0.622,
+    0.546,
+    0.541,
+    0.531,
+    0.516,
+    0.496,
+    0.471,
+    0.441,
+    0.406,
+    0.366,
+    0.321,
+    0.271,
+    0.216,
+    0.156,
+    0.091,
+    0.021,
+    0
+  ],
+  "debutScore": 0.122,
+  "peakScore": 0.122,
+  "duration": 5,
+  "score": 6.942999999999999,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 747
+}

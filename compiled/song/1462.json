@@ -1,1 +1,57 @@
-{"title":"I Could Never Take the Place of Your Man","instanceSlug":1462,"tags":[],"parents":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[18,12,9,7.5,8.2,9.9,11.6,15,20.1,26.9,35.4,45.6,57.5,71.1,86.4,103.4],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":18,"peakRank":7.5,"duration":4,"score":4.86,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1345}
+{
+  "title": "I Could Never Take the Place of Your Man",
+  "instanceSlug": 1462,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-12",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    12,
+    9,
+    7.5,
+    8.2,
+    9.9
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.171,
+    0.267,
+    0.328,
+    0.298,
+    0.235,
+    0.23,
+    0.22,
+    0.205,
+    0.185,
+    0.16,
+    0.13,
+    0.095,
+    0.055,
+    0.01,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4,
+  "score": 2.625,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1354
+}

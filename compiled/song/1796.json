@@ -1,1 +1,71 @@
-{"title":"9 to 5","instanceSlug":1796,"tags":[],"genres":[{"slug":"pop","title":"Pop"},{"slug":"country","title":"Country"}],"debut":"1981-03","playlists":[],"ranks":[17,6,3.5,3.25,3.5,3.85,4.2,4.9,5.95,7.35,9.1,11.2,13.65,16.45,19.6,23.1,26.95,31.15,35.7,40.6,45.85,51.45,57.4,63.7],"source":{"title":"9 to 5","instanceSlug":"9-to-5","tags":[],"parents":[],"type":"movie"},"artists":[{"slug":"dolly-parton","title":"Dolly Parton","roleSlug":true}],"debutRank":17,"peakRank":3.25,"duration":6,"score":15.53,"rank":563}
+{
+  "title": "9 to 5",
+  "instanceSlug": 1796,
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    },
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "debut": "1981-03",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    6,
+    3.5,
+    3.25,
+    3.5,
+    3.85
+  ],
+  "source": {
+    "title": "9 to 5",
+    "instanceSlug": "9-to-5",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "artists": [
+    {
+      "slug": "dolly-parton",
+      "title": "Dolly Parton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.402,
+    0.582,
+    0.607,
+    0.582,
+    0.55,
+    0.545,
+    0.535,
+    0.52,
+    0.5,
+    0.475,
+    0.445,
+    0.41,
+    0.37,
+    0.325,
+    0.275,
+    0.22,
+    0.16,
+    0.095,
+    0.025,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 7.678000000000001,
+  "rank": 650
+}

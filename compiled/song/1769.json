@@ -1,1 +1,30 @@
-{"title":"Jamie","instanceSlug":1769,"tags":[],"parents":[],"genre":"urban","debut":"1985-01","playlists":[],"ranks":[],"artists":[{"slug":"ray-parker-jr","title":"Ray Parker Jr.","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":2947}
+{
+  "title": "Jamie",
+  "instanceSlug": 1769,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1985-01",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "ray-parker-jr",
+      "title": "Ray Parker Jr.",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 2655
+}

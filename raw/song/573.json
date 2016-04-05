@@ -1,1 +1,29 @@
-{"title":"Eat It","instanceSlug":573,"tags":[],"parents":[],"genre":"parody","debut":1984,"playlists":[],"ranks":[18,11.3,6.4,4.2,5.8],"artists":{"weird-al-yankovic":true}}
+{
+  "title": "Eat It",
+  "instanceSlug": 573,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "parody",
+  "debut": 1984,
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11.3,
+    6.4,
+    4.2,
+    5.8
+  ],
+  "artists": {
+    "weird-al-yankovic": true
+  },
+  "scores": [
+    0.036,
+    0.191,
+    0.381,
+    0.521,
+    0.414
+  ]
+}

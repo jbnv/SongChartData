@@ -1,1 +1,64 @@
-{"title":"Will You Marry Me","instanceSlug":1653,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1992-05","playlists":[],"ranks":[17,11,8,6,5.2,4.9,5.3,5.9,6.5,7.7,9.5,11.9,14.9,18.5,22.7,27.5,32.9,38.9,45.5,52.7],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":17,"peakRank":4.9,"duration":5,"score":11.96,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":817}
+{
+  "title": "Will You Marry Me",
+  "instanceSlug": 1653,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1992-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11,
+    8,
+    6,
+    5.2,
+    4.9,
+    5.3,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.2,
+    0.306,
+    0.402,
+    0.45,
+    0.47,
+    0.444,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 5.810999999999999,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 878
+}

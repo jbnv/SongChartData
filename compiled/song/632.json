@@ -1,1 +1,63 @@
-{"title":"You Spin Me Round (Like a Record)","instanceSlug":632,"tags":[],"parents":[],"genre":"dance-pop","debut":"1985-07","playlists":[],"ranks":[12,3,1.8,1.4,1.65,1.9,2.4,3.15,4.15,5.4,6.9,8.65,10.65,12.9,15.4,18.15,21.15,24.4,27.9,31.65,35.65,39.9,44.4,49.15,54.15,59.4,64.9,70.65],"artists":[{"slug":"dead-or-alive","title":"Dead or Alive","roleSlug":true}],"debutRank":12,"peakRank":1.4,"duration":7,"score":22.57,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":212}
+{
+  "title": "You Spin Me Round (Like a Record)",
+  "instanceSlug": 632,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1985-07",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3,
+    1.8,
+    1.4,
+    1.65
+  ],
+  "artists": [
+    {
+      "slug": "dead-or-alive",
+      "title": "Dead or Alive",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.633,
+    0.804,
+    0.887,
+    0.833,
+    0.828,
+    0.818,
+    0.803,
+    0.783,
+    0.758,
+    0.728,
+    0.693,
+    0.653,
+    0.608,
+    0.558,
+    0.503,
+    0.443,
+    0.378,
+    0.308,
+    0.233,
+    0.153,
+    0.068,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 12.644000000000002,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 157
+}

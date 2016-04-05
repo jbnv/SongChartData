@@ -1,1 +1,20 @@
-{"title":"Don't You (Forget About Me)","instanceSlug":1642,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1985-04","source":"breakfast-club","playlists":[],"ranks":true,"artists":{"simple-minds":true}}
+{
+  "title": "Don't You (Forget About Me)",
+  "instanceSlug": 1642,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-04",
+  "source": "breakfast-club",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "simple-minds": true
+  }
+}

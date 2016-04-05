@@ -1,1 +1,20 @@
-{"title":"Lyin' Eyes","instanceSlug":191,"tags":["#2","#2-hot-100","lie"],"parents":[],"genre":"rock","debut":1975,"ranks":[],"artists":{"eagles":true}}
+{
+  "title": "Lyin' Eyes",
+  "instanceSlug": 191,
+  "tags": [
+    "#2",
+    "#2-hot-100",
+    "lie"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1975,
+  "ranks": [
+  ],
+  "artists": {
+    "eagles": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,31 @@
-{"title":"Sledgehammer","instanceSlug":154,"tags":[],"parents":[],"genre":true,"debut":1986,"ranks":[13,4.2,3.2,3.3,3.4,3.7,4.25],"artists":{"peter-gabriel":true}}
+{
+  "title": "Sledgehammer",
+  "instanceSlug": 154,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1986,
+  "ranks": [
+    13,
+    4.2,
+    3.2,
+    3.3,
+    3.4,
+    3.7,
+    4.25
+  ],
+  "artists": {
+    "peter-gabriel": true
+  },
+  "scores": [
+    0.145,
+    0.521,
+    0.612,
+    0.602,
+    0.592,
+    0.563,
+    0.517
+  ]
+}

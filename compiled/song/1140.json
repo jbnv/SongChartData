@@ -1,1 +1,68 @@
-{"title":"I'll Give All My Love to You","instanceSlug":1140,"tags":["#1","#1-r&b","my-love","to-you"],"parents":[],"genre":"soul","debut":"1991-01","playlists":[],"ranks":[18,11.5,8.1,6.5,5.5,5,5.2,5.9,6.6,8,10.1,12.9,16.4,20.6,25.5,31.1,37.4,44.4,52.1,60.5],"artists":[{"slug":"keith-sweat","title":"Keith Sweat","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":11.33,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":855}
+{
+  "title": "I'll Give All My Love to You",
+  "instanceSlug": 1140,
+  "tags": [
+    "#1",
+    "#1-r&b",
+    "my-love",
+    "to-you"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1991-01",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11.5,
+    8.1,
+    6.5,
+    5.5,
+    5,
+    5.2,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "keith-sweat",
+      "title": "Keith Sweat",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.185,
+    0.302,
+    0.376,
+    0.431,
+    0.463,
+    0.45,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5.25,
+  "score": 5.726999999999999,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 888
+}

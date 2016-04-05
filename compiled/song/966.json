@@ -1,1 +1,60 @@
-{"title":"Cream","instanceSlug":966,"tags":["#1"],"genre":"pop","debut":"1991-10","playlists":[],"ranks":[18,6,4.5,4.2,3.9,4.2,4.5,5.1,6,7.2,8.7,10.5,12.6,15,17.7,20.7,24,27.6,31.5,35.7,40.2,45,50.1,55.5],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":18,"peakRank":3.9,"duration":6,"score":15.05,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":603}
+{
+  "title": "Cream",
+  "instanceSlug": 966,
+  "tags": [
+    "#1"
+  ],
+  "genre": "pop",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    6,
+    4.5,
+    4.2,
+    3.9,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "prince",
+      "title": "Prince",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.402,
+    0.498,
+    0.521,
+    0.546,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 5,
+  "score": 7.022,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 730
+}

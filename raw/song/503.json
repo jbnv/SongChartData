@@ -1,13 +1,22 @@
 {
   "title": "When I Looked At Him",
   "instanceSlug": 503,
-  "tags": [],
-  "parents": [],
-  "genres": ["pop"],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "pop"
+  ],
   "debut": "1989-09",
-  "playlists": ["ballad"],
-  "ranks": [],
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "expose": true
-  }
+  },
+  "scores": [
+  ]
 }

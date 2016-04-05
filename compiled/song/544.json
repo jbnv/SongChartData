@@ -1,1 +1,31 @@
-{"title":"Wild Wild West","instanceSlug":544,"tags":["west","wild"],"parents":[],"genre":true,"debut":"1988-09","playlists":[],"ranks":[],"artists":[{"slug":"escape-club","title":"Escape Club","roleSlug":true}],"genres":[{"slug":true}],"source":null,"rank":2552}
+{
+  "title": "Wild Wild West",
+  "instanceSlug": 544,
+  "tags": [
+    "west",
+    "wild"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1988-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "escape-club",
+      "title": "Escape Club",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "source": null,
+  "rank": 2552
+}

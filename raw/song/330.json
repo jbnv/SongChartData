@@ -1,14 +1,30 @@
 {
   "title": "Good",
   "instanceSlug": 330,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1995-08",
   "playlists": [
     "summer"
   ],
-  "ranks": [15,5,3.2,3.3,3.4,3.7],
+  "ranks": [
+    15,
+    5,
+    3.2,
+    3.3,
+    3.4,
+    3.7
+  ],
   "artists": {
     "better-than-ezra": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.463,
+    0.612,
+    0.602,
+    0.592,
+    0.563
+  ]
 }

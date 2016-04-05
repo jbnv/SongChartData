@@ -1,1 +1,31 @@
-{"title":"Love Thy Will Be Done","instanceSlug":967,"tags":[],"parents":[],"genre":"pop","debut":"1991-09","playlists":[],"ranks":[16.3,9.3,6,5.8,5.9,6.5],"artists":{"martika":true}}
+{
+  "title": "Love Thy Will Be Done",
+  "instanceSlug": 967,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-09",
+  "playlists": [
+  ],
+  "ranks": [
+    16.3,
+    9.3,
+    6,
+    5.8,
+    5.9,
+    6.5
+  ],
+  "artists": {
+    "martika": true
+  },
+  "scores": [
+    0.069,
+    0.256,
+    0.402,
+    0.414,
+    0.408,
+    0.376
+  ]
+}

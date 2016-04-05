@@ -1,12 +1,27 @@
 {
   "title": "A Little in Love",
   "instanceSlug": 1795,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1981-02",
-  "playlists": [],
-  "ranks": [19,7.5,3.6,3,3.14],
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    7.5,
+    3.6,
+    3,
+    3.14
+  ],
   "artists": {
     "cliff-richard": true
-  }
+  },
+  "scores": [
+    0.018,
+    0.328,
+    0.573,
+    0.633,
+    0.618
+  ]
 }

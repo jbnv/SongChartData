@@ -1,1 +1,65 @@
-{"title":"If It Isn't Love","instanceSlug":593,"tags":[],"parents":[],"genre":"soul","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[8,1,1.14,1.28,1.56,1.98,2.54,3.24,4.08,5.06,6.18,7.44,8.84,10.38,12.06,13.88,15.84,17.94,20.18,22.56,25.08,27.74,30.54,33.48,36.56,39.78,43.14,46.64,50.28,54.06,57.98,62.04],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"debutRank":8,"peakRank":1,"duration":8,"score":26.16,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":106}
+{
+  "title": "If It Isn't Love",
+  "instanceSlug": 593,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1988-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    8,
+    1,
+    1.14
+  ],
+  "artists": [
+    {
+      "slug": "new-edition",
+      "title": "New Edition",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.306,
+    1,
+    0.956,
+    0.951,
+    0.941,
+    0.926,
+    0.906,
+    0.881,
+    0.851,
+    0.816,
+    0.776,
+    0.731,
+    0.681,
+    0.626,
+    0.566,
+    0.501,
+    0.431,
+    0.356,
+    0.276,
+    0.191,
+    0.101,
+    0.006,
+    0
+  ],
+  "debutScore": 0.306,
+  "peakScore": 0.306,
+  "duration": 5.75,
+  "score": 13.776000000000002,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 94
+}

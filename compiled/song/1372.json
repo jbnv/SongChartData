@@ -1,1 +1,63 @@
-{"title":"Spies Like Us","instanceSlug":1372,"words":["spy"],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[14,8.2,5.4,3.9,3,3.2,3.7,4.2,5.2,6.7,8.7,11.2,14.2,17.7,21.7,26.2,31.2,36.7,42.7,49.2,56.2,63.7,71.7,80.2],"artists":[{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":6,"score":15.55,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":561}
+{
+  "title": "Spies Like Us",
+  "instanceSlug": 1372,
+  "words": [
+    "spy"
+  ],
+  "genre": "pop",
+  "debut": "1986-01",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8.2,
+    5.4,
+    3.9,
+    3,
+    3.2,
+    3.7
+  ],
+  "artists": [
+    {
+      "slug": "paul-mccartney",
+      "title": "Paul McCartney",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.298,
+    0.437,
+    0.546,
+    0.633,
+    0.612,
+    0.563,
+    0.558,
+    0.548,
+    0.533,
+    0.513,
+    0.488,
+    0.458,
+    0.423,
+    0.383,
+    0.338,
+    0.288,
+    0.233,
+    0.173,
+    0.108,
+    0.038,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 8.291,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 571
+}

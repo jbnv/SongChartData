@@ -1,1 +1,19 @@
-{"title":"Circle of Life","instanceSlug":1282,"tags":[],"parents":[],"genre":"pop","debut":"1994-10","playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Circle of Life",
+  "instanceSlug": 1282,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1994-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

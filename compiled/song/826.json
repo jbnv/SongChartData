@@ -1,1 +1,68 @@
-{"title":"September","instanceSlug":826,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1979-01","playlists":[{"slug":"months","title":"Months"}],"ranks":[12,1.5,1.1,1.39,1.68,2.26,3.13,4.29,5.74,7.48,9.51,11.83,14.44,17.34,20.53,24.01,27.78,31.84,36.19,40.83,45.76,50.98,56.49,62.29],"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true}],"debutRank":12,"peakRank":1.1,"duration":6,"score":20.75,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":287}
+{
+  "title": "September",
+  "instanceSlug": 826,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1979-01",
+  "playlists": [
+    {
+      "slug": "months",
+      "title": "Months"
+    }
+  ],
+  "ranks": [
+    12,
+    1.5,
+    1.1,
+    1.39
+  ],
+  "artists": [
+    {
+      "slug": "earth-wind-fire",
+      "title": "Earth Wind & Fire",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.864,
+    0.968,
+    0.89,
+    0.885,
+    0.875,
+    0.86,
+    0.84,
+    0.815,
+    0.785,
+    0.75,
+    0.71,
+    0.665,
+    0.615,
+    0.56,
+    0.5,
+    0.435,
+    0.365,
+    0.29,
+    0.21,
+    0.125,
+    0.035,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 13.213000000000001,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 129
+}

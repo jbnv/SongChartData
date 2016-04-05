@@ -1,1 +1,33 @@
-{"title":"Everything Falls Apart","instanceSlug":2623,"tags":[],"parents":[],"genre":"rock","debut":"1996-03","playlists":[],"ranks":[12,4,1.2,1.3,1.6,1.95,2.25],"artists":{"dog-s-eye-view":true}}
+{
+  "title": "Everything Falls Apart",
+  "instanceSlug": 2623,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1996-03",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4,
+    1.2,
+    1.3,
+    1.6,
+    1.95,
+    2.25
+  ],
+  "artists": {
+    "dog-s-eye-view": true
+  },
+  "scores": [
+    0.171,
+    0.537,
+    0.939,
+    0.912,
+    0.843,
+    0.777,
+    0.729
+  ]
+}

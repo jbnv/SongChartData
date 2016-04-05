@@ -1,1 +1,65 @@
-{"title":"I Just Wanna Stop","instanceSlug":155,"tags":["i-just","i-just-want"],"playlists":[{"slug":"ballad","title":"Ballads"}],"genre":"pop","debut":"1978-10","ranks":[15.9,3.7,1.5,1.71,1.92,2.34,2.97,3.81,4.86,6.12,7.59,9.27,11.16,13.26,15.57,18.09,20.82,23.76,26.91,30.27,33.84,37.62,41.61,45.81,50.22,54.84,59.67,64.71],"artists":[{"slug":"gino-vannelli","title":"Gino Vannelli","roleSlug":true}],"debutRank":15.9,"peakRank":1.5,"duration":7,"score":20.77,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":285}
+{
+  "title": "I Just Wanna Stop",
+  "instanceSlug": 155,
+  "tags": [
+    "i-just",
+    "i-just-want"
+  ],
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1978-10",
+  "ranks": [
+    15.9,
+    3.7,
+    1.5,
+    1.71
+  ],
+  "artists": [
+    {
+      "slug": "gino-vannelli",
+      "title": "Gino Vannelli",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.563,
+    0.864,
+    0.821,
+    0.816,
+    0.806,
+    0.791,
+    0.771,
+    0.746,
+    0.716,
+    0.681,
+    0.641,
+    0.596,
+    0.546,
+    0.491,
+    0.431,
+    0.366,
+    0.296,
+    0.221,
+    0.141,
+    0.056,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 5.5,
+  "score": 11.436999999999998,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 236
+}

@@ -1,1 +1,66 @@
-{"title":"Every Little Kiss","instanceSlug":216,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"adult-contemporary","debut":"1987-06","ranks":[15,3.1,1.9,1.5,1.7,2.04,2.38,3.06,4.08,5.44,7.14,9.18,11.56,14.28,17.34,20.74,24.48,28.56,32.98,37.74,42.84,48.28,54.06,60.18],"artists":[{"slug":"bruce-hornsby-the-range","title":"Bruce Hornsby & the Range","roleSlug":true}],"debutRank":15,"peakRank":1.5,"duration":6,"score":21.64,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":244}
+{
+  "title": "Every Little Kiss",
+  "instanceSlug": 216,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1987-06",
+  "ranks": [
+    15,
+    3.1,
+    1.9,
+    1.5,
+    1.7,
+    2.04
+  ],
+  "artists": [
+    {
+      "slug": "bruce-hornsby-the-range",
+      "title": "Bruce Hornsby & the Range",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.622,
+    0.786,
+    0.864,
+    0.823,
+    0.762,
+    0.757,
+    0.747,
+    0.732,
+    0.712,
+    0.687,
+    0.657,
+    0.622,
+    0.582,
+    0.537,
+    0.487,
+    0.432,
+    0.372,
+    0.307,
+    0.237,
+    0.162,
+    0.082,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 12.066000000000003,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 200
+}

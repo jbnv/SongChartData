@@ -1,1 +1,19 @@
-{"title":"You're Amazing","instanceSlug":1257,"tags":[],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[],"artists":{"robert-palmer":true}}
+{
+  "title": "You're Amazing",
+  "instanceSlug": 1257,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1990,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "robert-palmer": true
+  },
+  "scores": [
+  ]
+}

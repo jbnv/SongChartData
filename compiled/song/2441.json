@@ -1,1 +1,30 @@
-{"title":"Come On Feel the Noise","instanceSlug":2441,"tags":[],"parents":[],"genre":"hard-rock","debut":"1983-11","playlists":[],"ranks":[],"artists":[{"slug":"quiet-riot","title":"Quiet Riot","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":1585}
+{
+  "title": "Come On Feel the Noise",
+  "instanceSlug": 2441,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1983-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "quiet-riot",
+      "title": "Quiet Riot",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1585
+}

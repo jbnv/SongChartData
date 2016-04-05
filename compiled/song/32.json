@@ -1,1 +1,62 @@
-{"title":"Evenflow","instanceSlug":32,"genre":"grunge","tags":[],"debut":"1990s","ranks":[15,6,4.4,3,2.8,2.95,3.35,3.75,4.55,5.75,7.35,9.35,11.75,14.55,17.75,21.35,25.35,29.75,34.55,39.75,45.35,51.35,57.75,64.55],"artists":[{"slug":"pearl-jam","title":"Pearl Jam","roleSlug":true}],"debutRank":15,"peakRank":2.8,"duration":6,"score":17.77,"genres":[{"slug":"grunge","title":"Grunge"}],"playlists":[],"source":null,"rank":427}
+{
+  "title": "Evenflow",
+  "instanceSlug": 32,
+  "genre": "grunge",
+  "tags": [
+  ],
+  "debut": "1990s",
+  "ranks": [
+    15,
+    6,
+    4.4,
+    3,
+    2.8,
+    2.95,
+    3.35
+  ],
+  "artists": [
+    {
+      "slug": "pearl-jam",
+      "title": "Pearl Jam",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.402,
+    0.506,
+    0.633,
+    0.656,
+    0.639,
+    0.597,
+    0.592,
+    0.582,
+    0.567,
+    0.547,
+    0.522,
+    0.492,
+    0.457,
+    0.417,
+    0.372,
+    0.322,
+    0.267,
+    0.207,
+    0.142,
+    0.072,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 9.087999999999997,
+  "genres": [
+    {
+      "slug": "grunge",
+      "title": "Grunge"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 468
+}

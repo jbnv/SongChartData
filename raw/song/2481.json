@@ -1,1 +1,19 @@
-{"title":"Emma","instanceSlug":2481,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":{"hot-chocolate":true}}
+{
+  "title": "Emma",
+  "instanceSlug": 2481,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "hot-chocolate": true
+  },
+  "scores": [
+  ]
+}

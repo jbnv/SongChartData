@@ -1,13 +1,31 @@
 {
   "title": "Too Many Walls",
   "instanceSlug": 122,
-  "tags": [],
-  "playlists":["summer"],
+  "tags": [
+  ],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1991-08",
-  "ranks": [8,1.05,1.09,1.17,1.28,1.47],
+  "ranks": [
+    8,
+    1.05,
+    1.09,
+    1.17,
+    1.28,
+    1.47
+  ],
   "artists": {
     "cathy-dennis": true
   },
-  "note":"Project 6 weeks at #1."
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.306,
+    0.983,
+    0.971,
+    0.947,
+    0.917,
+    0.871
+  ]
 }

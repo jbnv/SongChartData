@@ -1,1 +1,72 @@
-{"title":"Set the Night to Music","instanceSlug":958,"tags":["music","night"],"parents":[],"genre":"pop","debut":"1991-10","playlists":[],"ranks":[14.1,4.8,3.5,3.35,3.19,3.36,3.72,4.25,4.78,5.84,7.43,9.55,12.2,15.38,19.09,23.33,28.1,33.4,39.23,45.59,52.48,59.9,67.85,76.33],"artists":[{"slug":"roberta-flack","title":"Roberta Flack","roleSlug":true},{"slug":"maxie-priest","title":"Maxi Priest","roleSlug":"feature"}],"debutRank":14.1,"peakRank":3.19,"duration":6,"score":17.42,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":447}
+{
+  "title": "Set the Night to Music",
+  "instanceSlug": 958,
+  "tags": [
+    "music",
+    "night"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    14.1,
+    4.8,
+    3.5,
+    3.35,
+    3.19,
+    3.36,
+    3.72,
+    4.25
+  ],
+  "artists": [
+    {
+      "slug": "roberta-flack",
+      "title": "Roberta Flack",
+      "roleSlug": true
+    },
+    {
+      "slug": "maxie-priest",
+      "title": "Maxi Priest",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.117,
+    0.477,
+    0.582,
+    0.597,
+    0.613,
+    0.596,
+    0.562,
+    0.517,
+    0.512,
+    0.502,
+    0.487,
+    0.467,
+    0.442,
+    0.412,
+    0.377,
+    0.337,
+    0.292,
+    0.242,
+    0.187,
+    0.127,
+    0.062,
+    0
+  ],
+  "debutScore": 0.117,
+  "peakScore": 0.117,
+  "duration": 5.5,
+  "score": 8.507,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 540
+}

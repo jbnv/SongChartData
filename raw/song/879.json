@@ -1,1 +1,32 @@
-{"title":"I Will Remember You","instanceSlug":879,"tags":["i","i-will","remember","will","you"],"parents":[],"genre":"pop","debut":"1992-05","playlists":[],"ranks":[17.9,10.7,9,12],"artists":{"amy-grant":true}}
+{
+  "title": "I Will Remember You",
+  "instanceSlug": 879,
+  "tags": [
+    "i",
+    "i-will",
+    "remember",
+    "will",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    9,
+    12
+  ],
+  "artists": {
+    "amy-grant": true
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.267,
+    0.171
+  ]
+}

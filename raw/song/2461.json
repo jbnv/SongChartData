@@ -1,1 +1,20 @@
-{"title":"Already Gone","instanceSlug":2461,"tags":[],"parents":[],"genre":"rock","debut":1974,"playlists":[],"ranks":[],"artists":{"eagles":true,"glenn-frey":"lead"}}
+{
+  "title": "Already Gone",
+  "instanceSlug": 2461,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eagles": true,
+    "glenn-frey": "lead"
+  },
+  "scores": [
+  ]
+}

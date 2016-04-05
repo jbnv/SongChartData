@@ -1,1 +1,28 @@
-{"title":"On the Edge of a Broken Heart","instanceSlug":995,"tags":[],"parents":[],"genre":"rock","debut":"1987-10","playlists":[],"ranks":[21,18,15,13.6,20],"artists":{"bon-jovi":true}}
+{
+  "title": "On the Edge of a Broken Heart",
+  "instanceSlug": 995,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    18,
+    15,
+    13.6,
+    20
+  ],
+  "artists": {
+    "bon-jovi": true
+  },
+  "scores": [
+    0.036,
+    0.097,
+    0.129,
+    0.001
+  ]
+}

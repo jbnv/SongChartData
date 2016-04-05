@@ -1,12 +1,29 @@
 {
   "title": "The Voice",
   "instanceSlug": 907,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1981-10",
-  "playlists": [],
-  "ranks": [13,3.3,1,1.15,1.4,1.7],
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    3.3,
+    1,
+    1.15,
+    1.4,
+    1.7
+  ],
   "artists": {
     "moody-blues": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.602,
+    1,
+    0.953,
+    0.887,
+    0.823
+  ]
 }

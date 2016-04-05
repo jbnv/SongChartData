@@ -1,1 +1,63 @@
-{"title":"Go Home","instanceSlug":2144,"tags":["#1"],"parents":[],"genre":"soul","debut":"1986-01","playlists":[],"ranks":[15,8,5.2,3.9,3,3.4,3.8,4.6,5.8,7.4,9.4,11.8,14.6,17.8,21.4,25.4,29.8,34.6,39.8,45.4,51.4,57.8,64.6,71.8],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":6,"score":14.99,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":605}
+{
+  "title": "Go Home",
+  "instanceSlug": 2144,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1986-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8,
+    5.2,
+    3.9,
+    3,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.306,
+    0.45,
+    0.546,
+    0.633,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 8.112000000000002,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 597
+}

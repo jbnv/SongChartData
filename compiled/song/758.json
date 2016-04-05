@@ -1,1 +1,61 @@
-{"title":"Self-Control","instanceSlug":758,"tags":["control","self"],"parents":[],"genre":"pop","debut":"1984-05","playlists":[],"ranks":[17.9,10.4,8.4,6.1,5.9,6.7,7.5,9.1,11.5,14.7,18.7,23.5,29.1,35.5,42.7,50.7],"artists":[{"slug":"laura-branigan","title":"Laura Branigan","roleSlug":true}],"debutRank":17.9,"peakRank":5.9,"duration":4,"score":7.88,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1117}
+{
+  "title": "Self-Control",
+  "instanceSlug": 758,
+  "tags": [
+    "control",
+    "self"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-05",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.4,
+    8.4,
+    6.1,
+    5.9,
+    6.7
+  ],
+  "artists": [
+    {
+      "slug": "laura-branigan",
+      "title": "Laura Branigan",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.219,
+    0.29,
+    0.397,
+    0.408,
+    0.365,
+    0.36,
+    0.35,
+    0.335,
+    0.315,
+    0.29,
+    0.26,
+    0.225,
+    0.185,
+    0.14,
+    0.09,
+    0.035,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 4.5,
+  "score": 4.302,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1115
+}

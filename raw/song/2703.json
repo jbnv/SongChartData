@@ -1,1 +1,24 @@
-{"title":"Hello","instanceSlug":2703,"tags":["#1","#1-adult-contemporary","#1-r&b","#1-top-100"],"parents":[],"genre":"pop","debut":"1984-03","playlists":["ballad"],"ranks":[],"artists":{"lionel-richie":true}}
+{
+  "title": "Hello",
+  "instanceSlug": 2703,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-r&b",
+    "#1-top-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-03",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "lionel-richie": true
+  },
+  "scores": [
+  ]
+}

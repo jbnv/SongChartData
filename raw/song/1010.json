@@ -1,1 +1,40 @@
-{"title":"It Keeps You Running","instanceSlug":1010,"tags":[],"parents":[],"genre":"pop","debut":"1970s","source":"forrest-gump","playlists":[],"ranks":[18,15,11,6,2,1,1,1.3,1.6,2.1],"artists":{"doobie-brothers":true}}
+{
+  "title": "It Keeps You Running",
+  "instanceSlug": 1010,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1970s",
+  "source": "forrest-gump",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    15,
+    11,
+    6,
+    2,
+    1,
+    1,
+    1.3,
+    1.6,
+    2.1
+  ],
+  "artists": {
+    "doobie-brothers": true
+  },
+  "scores": [
+    0.036,
+    0.097,
+    0.2,
+    0.402,
+    0.768,
+    1,
+    1,
+    0.912,
+    0.843,
+    0.752
+  ]
+}

@@ -1,1 +1,30 @@
-{"title":"Spotlight","instanceSlug":1833,"tags":[],"parents":[],"genre":"pop","debut":"1988-02","playlists":[],"ranks":[],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1860}
+{
+  "title": "Spotlight",
+  "instanceSlug": 1833,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2969
+}

@@ -1,1 +1,26 @@
-{"title":"This Time I Know It's For Real","instanceSlug":2736,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-06","playlists":["summer"],"ranks":[12,2,2.4],"artists":{"donna-summer":true}}
+{
+  "title": "This Time I Know It's For Real",
+  "instanceSlug": 2736,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1989-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    12,
+    2,
+    2.4
+  ],
+  "artists": {
+    "donna-summer": true
+  },
+  "scores": [
+    0.171,
+    0.768,
+    0.708
+  ]
+}

@@ -1,1 +1,19 @@
-{"title":"State of the World","instanceSlug":2346,"tags":[],"parents":[],"genre":"pop","debut":"1991-03","playlists":[],"ranks":[],"artists":{"janet-jackson":true}}
+{
+  "title": "State of the World",
+  "instanceSlug": 2346,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "janet-jackson": true
+  },
+  "scores": [
+  ]
+}

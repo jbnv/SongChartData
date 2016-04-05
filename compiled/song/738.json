@@ -1,1 +1,63 @@
-{"title":"True","instanceSlug":738,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1983-09","playlists":[],"ranks":[15.7,8.5,4.8,3.1,3.4,4.3,5.2,7,9.7,13.3,17.8,23.2,29.5,36.7,44.8,53.8],"artists":[{"slug":"spandau-ballet","title":"Spandau Ballet","roleSlug":true}],"debutRank":15.7,"peakRank":3.1,"duration":4,"score":11.39,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":852}
+{
+  "title": "True",
+  "instanceSlug": 738,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15.7,
+    8.5,
+    4.8,
+    3.1,
+    3.4,
+    4.3
+  ],
+  "artists": [
+    {
+      "slug": "spandau-ballet",
+      "title": "Spandau Ballet",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.082,
+    0.286,
+    0.477,
+    0.622,
+    0.592,
+    0.513,
+    0.508,
+    0.498,
+    0.483,
+    0.463,
+    0.438,
+    0.408,
+    0.373,
+    0.333,
+    0.288,
+    0.238,
+    0.183,
+    0.123,
+    0.058,
+    0
+  ],
+  "debutScore": 0.082,
+  "peakScore": 0.082,
+  "duration": 5,
+  "score": 6.966,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 739
+}

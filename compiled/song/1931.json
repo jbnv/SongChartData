@@ -1,1 +1,59 @@
-{"title":"Angel of Harlem","instanceSlug":1931,"tags":[],"parents":[],"genre":"rock","debut":"1989-02","playlists":[],"ranks":[19.5,13,11.5,9.95,8.95,8,9.7,11.4,14.8,19.9,26.7,35.2,45.4,57.3,70.9,86.2],"artists":[{"slug":"u2","title":"U2","roleSlug":true}],"debutRank":19.5,"peakRank":8,"duration":4,"score":5.06,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1330}
+{
+  "title": "Angel of Harlem",
+  "instanceSlug": 1931,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    19.5,
+    13,
+    11.5,
+    9.95,
+    8.95,
+    8,
+    9.7
+  ],
+  "artists": [
+    {
+      "slug": "u2",
+      "title": "U2",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.009,
+    0.145,
+    0.185,
+    0.234,
+    0.269,
+    0.306,
+    0.242,
+    0.237,
+    0.227,
+    0.212,
+    0.192,
+    0.167,
+    0.137,
+    0.102,
+    0.062,
+    0.017,
+    0
+  ],
+  "debutScore": 0.009,
+  "peakScore": 0.009,
+  "duration": 4.25,
+  "score": 2.7429999999999994,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1342
+}

@@ -1,16 +1,31 @@
 {
   "title": "A Hard Day's Night",
   "instanceSlug": 1178,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": 1964,
-  "playlists": [],
-  "ranks": [17,9,5.5,3,3.4],
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9,
+    5.5,
+    3,
+    3.4
+  ],
   "artists": {
     "beatles": true,
-    "john-lennon":"member",
-    "paul-mccartney":"member",
-    "george-harrison":"member",
-    "ringo-starr":"member"
-  }
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.055,
+    0.267,
+    0.431,
+    0.633,
+    0.592
+  ]
 }

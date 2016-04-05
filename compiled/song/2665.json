@@ -1,1 +1,61 @@
-{"title":"Working My Way Back to You","instanceSlug":2665,"tags":[],"parents":[],"genre":"urban","debut":"1980-02","playlists":[],"ranks":[13,5,1.4,1.67,1.94,2.48,3.29,4.37,5.72,7.34,9.23,11.39,13.82,16.52,19.49,22.73,26.24,30.02,34.07,38.39,42.98,47.84,52.97,58.37],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"debutRank":13,"peakRank":1.4,"duration":6,"score":18.95,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":373}
+{
+  "title": "Working My Way Back to You",
+  "instanceSlug": 2665,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1980-02",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5,
+    1.4,
+    1.67
+  ],
+  "artists": [
+    {
+      "slug": "spinners",
+      "title": "Spinners",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.463,
+    0.887,
+    0.829,
+    0.824,
+    0.814,
+    0.799,
+    0.779,
+    0.754,
+    0.724,
+    0.689,
+    0.649,
+    0.604,
+    0.554,
+    0.499,
+    0.439,
+    0.374,
+    0.304,
+    0.229,
+    0.149,
+    0.064,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 5.5,
+  "score": 11.572000000000001,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 229
+}

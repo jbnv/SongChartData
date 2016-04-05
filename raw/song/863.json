@@ -1,11 +1,14 @@
 {
   "title": "Seven Wonders",
   "instanceSlug": 863,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1987-07",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     17.9,
     10.6,
@@ -18,5 +21,12 @@
     "lindsay-buckingham": "member",
     "christine-mcvie": "member",
     "stevie-nicks": "member"
-  }
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.391,
+    0.37,
+    0.311
+  ]
 }

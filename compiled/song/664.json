@@ -1,1 +1,53 @@
-{"title":"Jump to It","instanceSlug":664,"tags":[],"parents":[],"genre":"soul","debut":"1982-09","playlists":[],"ranks":[17,10,6,9.9,13.8,21.6,33.3,48.9,68.4,91.8,119.1,150.3],"artists":[{"slug":"aretha-franklin","title":"Aretha Franklin","roleSlug":true}],"debutRank":17,"peakRank":6,"duration":3,"score":3.16,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1446}
+{
+  "title": "Jump to It",
+  "instanceSlug": 664,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    6,
+    9.9
+  ],
+  "artists": [
+    {
+      "slug": "aretha-franklin",
+      "title": "Aretha Franklin",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.402,
+    0.235,
+    0.23,
+    0.22,
+    0.205,
+    0.185,
+    0.16,
+    0.13,
+    0.095,
+    0.055,
+    0.01,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.5,
+  "score": 2.2140000000000004,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1400
+}

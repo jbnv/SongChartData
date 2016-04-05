@@ -1,1 +1,65 @@
-{"title":"Rock and a Hard Place","instanceSlug":2571,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1989-12","playlists":[],"ranks":[15,9,6,4.5,3.9,3.5,4.7,5.9,8.3,11.9,16.7,22.7,29.9,38.3,47.9,58.7],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"debutRank":15,"peakRank":3.5,"duration":4,"score":11.45,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":849}
+{
+  "title": "Rock and a Hard Place",
+  "instanceSlug": 2571,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3.9,
+    3.5,
+    4.7
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.546,
+    0.582,
+    0.484,
+    0.479,
+    0.469,
+    0.454,
+    0.434,
+    0.409,
+    0.379,
+    0.344,
+    0.304,
+    0.259,
+    0.209,
+    0.154,
+    0.094,
+    0.029,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 6.893000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 750
+}

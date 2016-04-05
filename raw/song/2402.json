@@ -1,1 +1,19 @@
-{"title":"Daniel","instanceSlug":2402,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Daniel",
+  "instanceSlug": 2402,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

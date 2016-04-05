@@ -1,1 +1,30 @@
-{"title":"Emma","instanceSlug":2481,"tags":[],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"hot-chocolate","title":"Hot Chocolate","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1629}
+{
+  "title": "Emma",
+  "instanceSlug": 2481,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "hot-chocolate",
+      "title": "Hot Chocolate",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1629
+}

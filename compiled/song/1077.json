@@ -1,1 +1,30 @@
-{"title":"Ain't Too Proud to Beg","instanceSlug":1077,"tags":[],"parents":[],"genre":"hip-hop","debut":"1992-04","playlists":[],"ranks":[],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":2745}
+{
+  "title": "Ain't Too Proud to Beg",
+  "instanceSlug": 1077,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hip-hop",
+  "debut": "1992-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tlc",
+      "title": "TLC",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hip-hop",
+      "title": "Hip Hop"
+    }
+  ],
+  "source": null,
+  "rank": 2889
+}

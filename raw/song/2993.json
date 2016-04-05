@@ -1,1 +1,20 @@
-{"title":"I Made It Through the Rain","instanceSlug":2993,"tags":[],"parents":[],"genre":"pop","debut":"1980-12","playlists":["ballad"],"ranks":[],"artists":{"barry-manilow":true}}
+{
+  "title": "I Made It Through the Rain",
+  "instanceSlug": 2993,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-12",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "barry-manilow": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,73 @@
-{"title":"Rock Steady","instanceSlug":230,"tags":["#1","#1-r&b"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"soul","title":"Soul"}],"debut":"1987-07","ranks":[15.6,6.4,4.2,3.9,3.8,3.97,4.25,4.69,5.7,6.71,8.73,11.76,15.8,20.85,26.91,33.98,42.06,51.15,61.25,72.36],"artists":[{"slug":"whispers","title":"Whispers","roleSlug":true}],"debutRank":15.6,"peakRank":3.8,"duration":5,"score":14.86,"source":null,"rank":616}
+{
+  "title": "Rock Steady",
+  "instanceSlug": 230,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    },
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "debut": "1987-07",
+  "ranks": [
+    15.6,
+    6.4,
+    4.2,
+    3.9,
+    3.8,
+    3.97,
+    4.25,
+    4.69,
+    5.7
+  ],
+  "artists": [
+    {
+      "slug": "whispers",
+      "title": "Whispers",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.084,
+    0.381,
+    0.521,
+    0.546,
+    0.554,
+    0.54,
+    0.517,
+    0.484,
+    0.419,
+    0.414,
+    0.404,
+    0.389,
+    0.369,
+    0.344,
+    0.314,
+    0.279,
+    0.239,
+    0.194,
+    0.144,
+    0.089,
+    0.029,
+    0
+  ],
+  "debutScore": 0.084,
+  "peakScore": 0.084,
+  "duration": 5.5,
+  "score": 7.2540000000000004,
+  "source": null,
+  "rank": 703
+}

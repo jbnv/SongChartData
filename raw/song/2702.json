@@ -1,1 +1,31 @@
-{"title":"Running With the Night","instanceSlug":2702,"tags":[],"parents":[],"genre":"pop","debut":"1983-12","playlists":[],"ranks":[14,8.5,5.5,3.5,3,3.41],"artists":{"lionel-richie":true}}
+{
+  "title": "Running With the Night",
+  "instanceSlug": 2702,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-12",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8.5,
+    5.5,
+    3.5,
+    3,
+    3.41
+  ],
+  "artists": {
+    "lionel-richie": true
+  },
+  "scores": [
+    0.12,
+    0.286,
+    0.431,
+    0.582,
+    0.633,
+    0.591
+  ]
+}

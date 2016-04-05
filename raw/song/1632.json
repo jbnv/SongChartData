@@ -1,1 +1,33 @@
-{"title":"Neutron Dance","instanceSlug":1632,"tags":["dance"],"parents":[],"genre":"dance","debut":"1985-01","source":"beverly-hills-cop","playlists":[],"ranks":[18,10,5.8,3.9,4.19,4.65],"artists":{"pointer-sisters":true}}
+{
+  "title": "Neutron Dance",
+  "instanceSlug": 1632,
+  "tags": [
+    "dance"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1985-01",
+  "source": "beverly-hills-cop",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    5.8,
+    3.9,
+    4.19,
+    4.65
+  ],
+  "artists": {
+    "pointer-sisters": true
+  },
+  "scores": [
+    0.036,
+    0.232,
+    0.414,
+    0.546,
+    0.522,
+    0.487
+  ]
+}

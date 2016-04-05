@@ -1,9 +1,14 @@
 {
   "title": "Funkytown",
   "instanceSlug": 146,
-  "tags": [],
-  "playlists": ["remake","summer"],
-  "parents": [],
+  "tags": [
+  ],
+  "playlists": [
+    "remake",
+    "summer"
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1987-07",
   "ranks": [
@@ -16,5 +21,13 @@
   ],
   "artists": {
     "pseudo-echo": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.633,
+    0.804,
+    0.912,
+    0.86,
+    0.786
+  ]
 }

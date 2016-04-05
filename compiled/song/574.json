@@ -1,1 +1,67 @@
-{"title":"White & Nerdy","instanceSlug":574,"tags":[],"parents":[],"genre":"parody","debut":"2000s","playlists":[],"ranks":[9.2,1.9,1,1.13,1.27,1.45,1.89,2.33,3.21,4.53,6.29,8.49,11.13,14.21,17.73,21.69,26.09,30.93,36.21,41.93,48.09,54.69,61.73,69.21],"artists":[{"slug":"weird-al-yankovic","title":"Weird Al Yankovic","roleSlug":true}],"debutRank":9.2,"peakRank":1,"duration":6,"score":25.33,"genres":[{"slug":"parody","title":"Parody"}],"source":null,"rank":127}
+{
+  "title": "White & Nerdy",
+  "instanceSlug": 574,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "parody",
+  "debut": "2000s",
+  "playlists": [
+  ],
+  "ranks": [
+    9.2,
+    1.9,
+    1,
+    1.13,
+    1.27,
+    1.45,
+    1.89
+  ],
+  "artists": [
+    {
+      "slug": "weird-al-yankovic",
+      "title": "Weird Al Yankovic",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.26,
+    0.786,
+    1,
+    0.959,
+    0.92,
+    0.876,
+    0.787,
+    0.782,
+    0.772,
+    0.757,
+    0.737,
+    0.712,
+    0.682,
+    0.647,
+    0.607,
+    0.562,
+    0.512,
+    0.457,
+    0.397,
+    0.332,
+    0.262,
+    0.187,
+    0.107,
+    0.022,
+    0
+  ],
+  "debutScore": 0.26,
+  "peakScore": 0.26,
+  "duration": 6.25,
+  "score": 14.122,
+  "genres": [
+    {
+      "slug": "parody",
+      "title": "Parody"
+    }
+  ],
+  "source": null,
+  "rank": 65
+}

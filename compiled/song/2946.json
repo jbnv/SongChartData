@@ -1,1 +1,30 @@
-{"title":"Tattoo","instanceSlug":2946,"tags":[],"parents":[],"genre":"pop","debut":2007,"playlists":[],"ranks":[],"artists":[{"slug":"jordin-sparks","title":"Jordin Sparks","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2145}
+{
+  "title": "Tattoo",
+  "instanceSlug": 2946,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2007,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jordin-sparks",
+      "title": "Jordin Sparks",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2145
+}

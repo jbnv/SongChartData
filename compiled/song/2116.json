@@ -1,1 +1,31 @@
-{"title":"Lonely People","instanceSlug":2116,"tags":["#1"],"parents":[],"genre":"adult-contemporary","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"america","title":"America","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2639}
+{
+  "title": "Lonely People",
+  "instanceSlug": 2116,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "america",
+      "title": "America",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2593
+}

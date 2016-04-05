@@ -1,10 +1,12 @@
 {
   "title": "Gett Off",
   "instanceSlug": 1734,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1991-10",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     15,
     5.5,
@@ -13,5 +15,11 @@
   ],
   "artists": {
     "prince": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.431,
+    0.582,
+    0.498
+  ]
 }

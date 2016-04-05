@@ -1,1 +1,63 @@
-{"title":"Emotion in Motion","instanceSlug":1040,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1986-10","playlists":[],"ranks":[11.5,5,3.1,2.4,2.72,3.04,3.68,4.64,5.92,7.52,9.44,11.68,14.24,17.12,20.32,23.84,27.68,31.84,36.32,41.12,46.24,51.68,57.44,63.52],"artists":[{"slug":"rik-ocasik","title":"Ric Ocasek","roleSlug":true}],"debutRank":11.5,"peakRank":2.4,"duration":6,"score":17,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":468}
+{
+  "title": "Emotion in Motion",
+  "instanceSlug": 1040,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-10",
+  "playlists": [
+  ],
+  "ranks": [
+    11.5,
+    5,
+    3.1,
+    2.4,
+    2.72
+  ],
+  "artists": [
+    {
+      "slug": "rik-ocasik",
+      "title": "Ric Ocasek",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.185,
+    0.463,
+    0.622,
+    0.708,
+    0.666,
+    0.661,
+    0.651,
+    0.636,
+    0.616,
+    0.591,
+    0.561,
+    0.526,
+    0.486,
+    0.441,
+    0.391,
+    0.336,
+    0.276,
+    0.211,
+    0.141,
+    0.066,
+    0
+  ],
+  "debutScore": 0.185,
+  "peakScore": 0.185,
+  "duration": 5.25,
+  "score": 9.234000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 452
+}

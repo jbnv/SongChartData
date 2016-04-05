@@ -1,1 +1,75 @@
-{"title":"All My Life","instanceSlug":1939,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1990-03","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[15,9,6,4.5,3.6,3,3.4,3.8,4.6,5.8,7.4,9.4,11.8,14.6,17.8,21.4,25.4,29.8,34.6,39.8,45.4,51.4,57.8,64.6],"artists":[{"slug":"linda-rondstadt","title":"Linda Ronstadt","roleSlug":true},{"slug":"aaron-neville","title":"Aaron Neville","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":6,"score":16.31,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":515}
+{
+  "title": "All My Life",
+  "instanceSlug": 1939,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-03",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3.6,
+    3,
+    3.4
+  ],
+  "artists": [
+    {
+      "slug": "linda-rondstadt",
+      "title": "Linda Ronstadt",
+      "roleSlug": true
+    },
+    {
+      "slug": "aaron-neville",
+      "title": "Aaron Neville",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.573,
+    0.633,
+    0.592,
+    0.587,
+    0.577,
+    0.562,
+    0.542,
+    0.517,
+    0.487,
+    0.452,
+    0.412,
+    0.367,
+    0.317,
+    0.262,
+    0.202,
+    0.137,
+    0.067,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 8.55,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 533
+}

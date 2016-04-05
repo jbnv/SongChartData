@@ -1,1 +1,30 @@
-{"title":"Man on the Corner","instanceSlug":2550,"tags":[],"parents":[],"genre":"rock","debut":"1982-05","playlists":[],"ranks":[],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1706}
+{
+  "title": "Man on the Corner",
+  "instanceSlug": 2550,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "genesis",
+      "title": "Genesis",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1706
+}

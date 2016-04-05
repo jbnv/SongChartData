@@ -1,1 +1,20 @@
-{"title":"Someone to Call My Lover","instanceSlug":1784,"tags":[],"parents":[],"genre":"dance","debut":"2001-07","playlists":["sample"],"ranks":[],"artists":{"janet-jackson":true}}
+{
+  "title": "Someone to Call My Lover",
+  "instanceSlug": 1784,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "2001-07",
+  "playlists": [
+    "sample"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "janet-jackson": true
+  },
+  "scores": [
+  ]
+}

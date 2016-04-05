@@ -1,1 +1,24 @@
-{"title":"Bring It All to Me","instanceSlug":1437,"tags":["all","bring","it","me"],"parents":[],"genre":"urban","debut":"1999-12","playlists":[],"ranks":[],"artists":{"blaque":true,"nsync":"feature"}}
+{
+  "title": "Bring It All to Me",
+  "instanceSlug": 1437,
+  "tags": [
+    "all",
+    "bring",
+    "it",
+    "me"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1999-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "blaque": true,
+    "nsync": "feature"
+  },
+  "scores": [
+  ]
+}

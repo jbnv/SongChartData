@@ -1,1 +1,30 @@
-{"title":"Tom's Diner","instanceSlug":1138,"tags":[],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[],"artists":[{"slug":"dna","title":"DNA","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2500}
+{
+  "title": "Tom's Diner",
+  "instanceSlug": 1138,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1990,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "dna",
+      "title": "DNA",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2690
+}

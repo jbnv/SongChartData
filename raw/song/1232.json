@@ -1,13 +1,29 @@
 {
   "title": "Got To Be There",
   "instanceSlug": 1232,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": 1971,
-  "playlists": [],
-  "ranks": [15,6,2,2.1,2.5],
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6,
+    2,
+    2.1,
+    2.5
+  ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.097,
+    0.402,
+    0.768,
+    0.752,
+    0.694
+  ]
 }

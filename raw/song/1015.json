@@ -1,1 +1,32 @@
-{"title":"Don't Wanna Be a Fool","instanceSlug":1015,"tags":["don't-want"],"parents":[],"genre":"soul","debut":"1991-10","playlists":[],"ranks":[16.5,11,7.2,5.5,5.7,6.9],"artists":{"luther-vandross":true}}
+{
+  "title": "Don't Wanna Be a Fool",
+  "instanceSlug": 1015,
+  "tags": [
+    "don't-want"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    11,
+    7.2,
+    5.5,
+    5.7,
+    6.9
+  ],
+  "artists": {
+    "luther-vandross": true
+  },
+  "scores": [
+    0.065,
+    0.2,
+    0.341,
+    0.431,
+    0.419,
+    0.356
+  ]
+}

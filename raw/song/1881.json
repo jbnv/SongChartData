@@ -1,1 +1,29 @@
-{"title":"So In to You","instanceSlug":1881,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1977-03","playlists":[],"ranks":[16,8,4.2,3,3.5],"artists":{"atlanta-rhythm-section":true}}
+{
+  "title": "So In to You",
+  "instanceSlug": 1881,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1977-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    4.2,
+    3,
+    3.5
+  ],
+  "artists": {
+    "atlanta-rhythm-section": true
+  },
+  "scores": [
+    0.075,
+    0.306,
+    0.521,
+    0.633,
+    0.582
+  ]
+}

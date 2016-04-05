@@ -1,14 +1,25 @@
 {
   "title": "(Everything I Do) I Do It For You",
   "instanceSlug": 2071,
-  "tags": ["#1"],
-  "parents": [],
-  "genres": ["adult-contemporary","pop"],
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "adult-contemporary",
+    "pop"
+  ],
   "debut": "1991-07",
   "source": "robin-hood-1991",
-  "playlists": ["love"],
-  "ranks": [],
+  "playlists": [
+    "love"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "bryan-adams": true
-  }
+  },
+  "scores": [
+  ]
 }

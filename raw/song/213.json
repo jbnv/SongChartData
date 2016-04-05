@@ -1,9 +1,12 @@
 {
   "title": "Don't Look Down",
   "instanceSlug": 213,
-  "tags": [],
-  "parents": [],
-  "genre": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": [
+  ],
   "debut": "1987-09",
   "ranks": [
     12,
@@ -14,5 +17,12 @@
   ],
   "artists": {
     "go-west": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.633,
+    0.843,
+    0.823,
+    0.752
+  ]
 }

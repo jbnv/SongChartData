@@ -1,11 +1,13 @@
 {
   "title": "Leave Me Alone",
   "instanceSlug": 508,
-  "tags": [],
-  "source":"bad",
+  "tags": [
+  ],
+  "source": "bad",
   "genre": "pop",
   "debut": "1989-02",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     9,
     2.6,
@@ -16,5 +18,13 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.267,
+    0.681,
+    0.887,
+    0.864,
+    0.823,
+    0.752
+  ]
 }

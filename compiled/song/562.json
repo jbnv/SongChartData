@@ -1,1 +1,61 @@
-{"title":"Strong Man","instanceSlug":562,"tags":["","strength"],"parents":[],"genre":"pop","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[20.5,10.7,7.7,8.1,8.9,10.4,11.9,14.9,19.4,25.4,32.9,41.9,52.4,64.4,77.9,92.9],"artists":[{"slug":"rick-astley","title":"Rick Astley","roleSlug":true}],"debutRank":20.5,"peakRank":7.7,"duration":4,"score":4.83,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1346}
+{
+  "title": "Strong Man",
+  "instanceSlug": 562,
+  "tags": [
+    "",
+    "strength"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-08",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    20.5,
+    10.7,
+    7.7,
+    8.1,
+    8.9,
+    10.4
+  ],
+  "artists": [
+    {
+      "slug": "rick-astley",
+      "title": "Rick Astley",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.209,
+    0.319,
+    0.302,
+    0.271,
+    0.219,
+    0.214,
+    0.204,
+    0.189,
+    0.169,
+    0.144,
+    0.114,
+    0.079,
+    0.039,
+    0
+  ],
+  "debutScore": 0.209,
+  "peakScore": 0.209,
+  "duration": 3.5,
+  "score": 2.4720000000000004,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1372
+}

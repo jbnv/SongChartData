@@ -1,1 +1,62 @@
-{"title":"The World I Know","instanceSlug":2305,"tags":["#1","#1-mainstream-rock"],"parents":[],"genres":[{"slug":"adult-alternative","title":"Adult Alternative"},{"slug":"rock","title":"Rock"}],"debut":"1996-01","playlists":[],"ranks":[18,13,10,8,8.5,9.7,10.9,13.3,16.9,21.7,27.7,34.9,43.3,52.9,63.7,75.7],"artists":[{"slug":"collective-soul","title":"Collective Soul","roleSlug":true}],"debutRank":18,"peakRank":8,"duration":4,"score":4.95,"source":null,"rank":1340}
+{
+  "title": "The World I Know",
+  "instanceSlug": 2305,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "adult-alternative",
+      "title": "Adult Alternative"
+    },
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "debut": "1996-01",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    13,
+    10,
+    8,
+    8.5,
+    9.7
+  ],
+  "artists": [
+    {
+      "slug": "collective-soul",
+      "title": "Collective Soul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.145,
+    0.232,
+    0.306,
+    0.286,
+    0.242,
+    0.237,
+    0.227,
+    0.212,
+    0.192,
+    0.167,
+    0.137,
+    0.102,
+    0.062,
+    0.017,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4,
+  "score": 2.5999999999999996,
+  "source": null,
+  "rank": 1359
+}

@@ -1,1 +1,81 @@
-{"title":"I'm in Love With You","instanceSlug":1468,"tags":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[17,9,5,3.9,3.5,3.7,4.5,5.3,6.9,9.3,12.5,16.5,21.3,26.9,33.3,40.5,48.5,57.3,66.9,77.3],"artists":[{"slug":"beatles","title":"Beatles","roleSlug":true},{"slug":"john-lennon","title":"John Lennon","roleSlug":"member"},{"slug":"paul-mccartney","title":"Paul McCartney","roleSlug":"member"},{"slug":"george-harrison","title":"George Harrison","roleSlug":"member"},{"slug":"ringo-starr","title":"Ringo Starr","roleSlug":"member"}],"debutRank":17,"peakRank":3.5,"duration":5,"score":12.78,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":760}
+{
+  "title": "I'm in Love With You",
+  "instanceSlug": 1468,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1960s",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9,
+    5,
+    3.9,
+    3.5,
+    3.7,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "beatles",
+      "title": "Beatles",
+      "roleSlug": true
+    },
+    {
+      "slug": "john-lennon",
+      "title": "John Lennon",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "paul-mccartney",
+      "title": "Paul McCartney",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "george-harrison",
+      "title": "George Harrison",
+      "roleSlug": "member"
+    },
+    {
+      "slug": "ringo-starr",
+      "title": "Ringo Starr",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": [
+    0.055,
+    0.267,
+    0.463,
+    0.546,
+    0.582,
+    0.563,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 7.172999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 708
+}

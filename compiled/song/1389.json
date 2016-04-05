@@ -1,1 +1,36 @@
-{"title":"Happy","instanceSlug":1389,"tags":[],"genre":"rock","debut":"1971","playlists":[],"ranks":[],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true},{"slug":"keith-richards"},{"slug":"mick-jagger","title":"Mick Jagger","roleSlug":"member"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2382}
+{
+  "title": "Happy",
+  "instanceSlug": 1389,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1971",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    },
+    {
+      "slug": "keith-richards"
+    },
+    {
+      "slug": "mick-jagger",
+      "title": "Mick Jagger",
+      "roleSlug": "member"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1631
+}

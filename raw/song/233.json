@@ -1,8 +1,11 @@
 {
   "title": "Don't Mean Nothing",
   "instanceSlug": 233,
-  "tags": [],
-  "playlists": ["summer"],
+  "tags": [
+  ],
+  "playlists": [
+    "summer"
+  ],
   "genre": "pop",
   "debut": "1987-07",
   "ranks": [
@@ -17,5 +20,15 @@
   ],
   "artists": {
     "richard-marx": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.185,
+    0.306,
+    0.376,
+    0.365,
+    0.346,
+    0.315,
+    0.26
+  ]
 }

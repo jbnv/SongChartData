@@ -1,1 +1,22 @@
-{"title":"I'll Be Your Shelter","instanceSlug":1328,"tags":["i'll","i'll-be"],"parents":[],"genre":"pop","debut":"1990-06","playlists":["summer"],"ranks":[],"artists":{"taylor-dayne":true}}
+{
+  "title": "I'll Be Your Shelter",
+  "instanceSlug": 1328,
+  "tags": [
+    "i'll",
+    "i'll-be"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "taylor-dayne": true
+  },
+  "scores": [
+  ]
+}

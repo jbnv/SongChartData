@@ -8,7 +8,9 @@
   "genre": "rap",
   "debut": "1999-08",
   "source": "wild-wild-west",
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "ranks": [
     13.9,
     4.7,
@@ -20,5 +22,12 @@
     "will-smith": true,
     "dru-hill": "feature",
     "kool-moe-dee": "backup"
-  }
+  },
+  "scores": [
+    0.122,
+    0.484,
+    0.602,
+    0.645,
+    0.607
+  ]
 }

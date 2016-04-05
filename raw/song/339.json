@@ -1,1 +1,40 @@
-{"title":"Shy Guy","instanceSlug":339,"tags":[],"parents":[],"genre":"pop","debut":"1995-06","playlists":["summer"],"ranks":[17.5,11.5,8.5,7.5,6.5,6.3,6.6,6.9,7.2,8],"artists":{"diane-king":true}}
+{
+  "title": "Shy Guy",
+  "instanceSlug": 339,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-06",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    17.5,
+    11.5,
+    8.5,
+    7.5,
+    6.5,
+    6.3,
+    6.6,
+    6.9,
+    7.2,
+    8
+  ],
+  "artists": {
+    "diane-king": true
+  },
+  "scores": [
+    0.045,
+    0.185,
+    0.286,
+    0.328,
+    0.376,
+    0.386,
+    0.37,
+    0.356,
+    0.341,
+    0.306
+  ]
+}

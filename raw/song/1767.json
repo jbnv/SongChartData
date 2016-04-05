@@ -1,1 +1,17 @@
-{"title":"Understanding","instanceSlug":1767,"tags":[],"parents":[],"genre":"pop","debut":"1984-12","source":"teachers","playlists":[],"ranks":true,"artists":{"bob-seger":true}}
+{
+  "title": "Understanding",
+  "instanceSlug": 1767,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-12",
+  "source": "teachers",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "bob-seger": true
+  }
+}

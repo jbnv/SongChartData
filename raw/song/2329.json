@@ -1,1 +1,19 @@
-{"title":"Gotham City","instanceSlug":2329,"tags":[],"parents":[],"genre":"soul","debut":"1997-08","playlists":[],"ranks":[],"artists":{"r-kelly":true}}
+{
+  "title": "Gotham City",
+  "instanceSlug": 2329,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1997-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "r-kelly": true
+  },
+  "scores": [
+  ]
+}

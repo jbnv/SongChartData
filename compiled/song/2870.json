@@ -1,1 +1,62 @@
-{"title":"You Belong to Me","instanceSlug":2870,"tags":[],"genre":"pop","debut":"1978-05","playlists":[],"ranks":[15,6,3.1,1.8,1.92,2.21,2.5,3.08,3.95,5.11,6.56,8.3,10.33,12.65,15.26,18.16,21.35,24.83,28.6,32.66,37.01,41.65,46.58,51.8],"artists":[{"slug":"carly-simon","title":"Carly Simon","roleSlug":true}],"debutRank":15,"peakRank":1.8,"duration":6,"score":20.8,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":282}
+{
+  "title": "You Belong to Me",
+  "instanceSlug": 2870,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1978-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    6,
+    3.1,
+    1.8,
+    1.92,
+    2.21
+  ],
+  "artists": [
+    {
+      "slug": "carly-simon",
+      "title": "Carly Simon",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.402,
+    0.622,
+    0.804,
+    0.782,
+    0.735,
+    0.73,
+    0.72,
+    0.705,
+    0.685,
+    0.66,
+    0.63,
+    0.595,
+    0.555,
+    0.51,
+    0.46,
+    0.405,
+    0.345,
+    0.28,
+    0.21,
+    0.135,
+    0.055,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.75,
+  "score": 11.122,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 256
+}

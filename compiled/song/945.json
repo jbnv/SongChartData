@@ -1,1 +1,50 @@
-{"title":"Take On Me","instanceSlug":945,"tags":[],"parents":[],"genre":"pop","debut":"1985-09","playlists":[],"ranks":[17.9,10.7,10.2,14.5,18.8,27.4,40.3,57.5],"artists":[{"slug":"a-ha","title":"A-Ha","roleSlug":true}],"debutRank":17.9,"peakRank":10.2,"duration":2,"score":1.81,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1521}
+{
+  "title": "Take On Me",
+  "instanceSlug": 945,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    10.2,
+    14.5
+  ],
+  "artists": [
+    {
+      "slug": "a-ha",
+      "title": "A-Ha",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.209,
+    0.225,
+    0.108,
+    0.103,
+    0.093,
+    0.078,
+    0.058,
+    0.033,
+    0.003,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 2.75,
+  "score": 0.948,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1517
+}

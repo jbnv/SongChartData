@@ -1,1 +1,21 @@
-{"title":"It's Still Rock & Roll to Me","instanceSlug":2391,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rockabilly","debut":"1980-06","playlists":[],"ranks":[],"artists":{"billy-joel":true}}
+{
+  "title": "It's Still Rock & Roll to Me",
+  "instanceSlug": 2391,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rockabilly",
+  "debut": "1980-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "billy-joel": true
+  },
+  "scores": [
+  ]
+}

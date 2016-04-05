@@ -1,1 +1,63 @@
-{"title":"Is It Love","instanceSlug":344,"tags":["is-it"],"parents":[],"genre":"rock","debut":"1986-04","playlists":[],"ranks":[12,3,1,1.21,1.42,1.84,2.47,3.31,4.36,5.62,7.09,8.77,10.66,12.76,15.07,17.59,20.32,23.26,26.41,29.77,33.34,37.12,41.11,45.31,49.72,54.34,59.17,64.21],"artists":[{"slug":"mister-mister","title":"Mr. Mister","roleSlug":true}],"debutRank":12,"peakRank":1,"duration":7,"score":23.34,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":185}
+{
+  "title": "Is It Love",
+  "instanceSlug": 344,
+  "tags": [
+    "is-it"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3,
+    1,
+    1.21
+  ],
+  "artists": [
+    {
+      "slug": "mister-mister",
+      "title": "Mr. Mister",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.633,
+    1,
+    0.936,
+    0.931,
+    0.921,
+    0.906,
+    0.886,
+    0.861,
+    0.831,
+    0.796,
+    0.756,
+    0.711,
+    0.661,
+    0.606,
+    0.546,
+    0.481,
+    0.411,
+    0.336,
+    0.256,
+    0.171,
+    0.081,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 13.887999999999998,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 84
+}

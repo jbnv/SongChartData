@@ -1,1 +1,19 @@
-{"title":"Mmm Bop","instanceSlug":1786,"tags":[],"parents":[],"genre":"pop","debut":1997,"playlists":[],"ranks":[],"artists":{"hanson":true}}
+{
+  "title": "Mmm Bop",
+  "instanceSlug": 1786,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1997,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "hanson": true
+  },
+  "scores": [
+  ]
+}

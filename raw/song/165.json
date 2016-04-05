@@ -8,17 +8,28 @@
     "#1-hot-100",
     "i-love"
   ],
-  "parents": [],
-  "genres": ["country","pop"],
+  "parents": [
+  ],
+  "genres": [
+    "country",
+    "pop"
+  ],
   "debut": "1980-12",
   "ranks": [
     15.5,
     5.5,
     2.9,
-    3.0,
+    3,
     3.3
   ],
   "artists": {
     "eddie-rabbitt": true
-  }
+  },
+  "scores": [
+    0.086,
+    0.431,
+    0.645,
+    0.633,
+    0.602
+  ]
 }

@@ -1,1 +1,62 @@
-{"title":"Walk This Way","instanceSlug":116,"tags":["this","walk","way"],"parents":[],"genre":"rap","debut":"1986-08","ranks":[19,14,10,8,7.5,7.7,9,10.3,12.9,16.8,22,28.5,36.3,45.4,55.8,67.5],"artists":[{"slug":"run-dmc","title":"Run-DMC","roleSlug":true}],"debutRank":19,"peakRank":7.5,"duration":4,"score":6.07,"genres":[{"slug":"rap","title":"Rap"}],"playlists":[],"source":null,"rank":1268}
+{
+  "title": "Walk This Way",
+  "instanceSlug": 116,
+  "tags": [
+    "this",
+    "walk",
+    "way"
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1986-08",
+  "ranks": [
+    19,
+    14,
+    10,
+    8,
+    7.5,
+    7.7,
+    9
+  ],
+  "artists": [
+    {
+      "slug": "run-dmc",
+      "title": "Run-DMC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.12,
+    0.232,
+    0.306,
+    0.328,
+    0.319,
+    0.267,
+    0.262,
+    0.252,
+    0.237,
+    0.217,
+    0.192,
+    0.162,
+    0.127,
+    0.087,
+    0.042,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 4.25,
+  "score": 3.1680000000000006,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1282
+}

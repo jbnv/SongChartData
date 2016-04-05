@@ -1,1 +1,46 @@
-{"title":"(Everything I Do) I Do It For You","instanceSlug":2071,"tags":["#1"],"parents":[],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"},{"slug":"pop","title":"Pop"}],"debut":"1991-07","source":{"title":"Robin Hood: Prince of Thieves","instanceSlug":"robin-hood-1991","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"love","title":"Love Songs"}],"ranks":[],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"rank":2566}
+{
+  "title": "(Everything I Do) I Do It For You",
+  "instanceSlug": 2071,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "debut": "1991-07",
+  "source": {
+    "title": "Robin Hood: Prince of Thieves",
+    "instanceSlug": "robin-hood-1991",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "love",
+      "title": "Love Songs"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bryan-adams",
+      "title": "Bryan Adams",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "rank": 2519
+}

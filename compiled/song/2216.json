@@ -1,1 +1,59 @@
-{"title":"Where Are You Going","instanceSlug":2216,"tags":[],"parents":[],"genre":"pop","debut":2002,"playlists":[],"ranks":[21,15,11,9,7,7.5,8.27,9.04,10.58,12.89,15.97,19.82,24.44,29.83,35.99,42.92,50.62,59.09,68.33,78.34],"artists":[{"slug":"dave-matthews-band","title":"Dave Matthews Band","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":5,"score":6.75,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1207}
+{
+  "title": "Where Are You Going",
+  "instanceSlug": 2216,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2002,
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    15,
+    11,
+    9,
+    7,
+    7.5,
+    8.27
+  ],
+  "artists": [
+    {
+      "slug": "dave-matthews-band",
+      "title": "Dave Matthews Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.2,
+    0.267,
+    0.351,
+    0.328,
+    0.295,
+    0.29,
+    0.28,
+    0.265,
+    0.245,
+    0.22,
+    0.19,
+    0.155,
+    0.115,
+    0.07,
+    0.02,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 4.25,
+  "score": 3.3880000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1249
+}

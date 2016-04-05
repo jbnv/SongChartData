@@ -1,1 +1,29 @@
-{"title":"Kiss from a Rose","instanceSlug":58,"tags":["1990s","1995","flower","kiss","rose"],"parents":[],"ranks":[],"artists":[{"slug":"seal","title":"Seal","roleSlug":true}],"genres":[],"playlists":[],"source":null,"rank":2591}
+{
+  "title": "Kiss from a Rose",
+  "instanceSlug": 58,
+  "tags": [
+    "1990s",
+    "1995",
+    "flower",
+    "kiss",
+    "rose"
+  ],
+  "parents": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "seal",
+      "title": "Seal",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 2591
+}

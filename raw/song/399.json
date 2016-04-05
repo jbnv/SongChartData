@@ -1,1 +1,42 @@
-{"title":"Smooth","instanceSlug":399,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1999-09","playlists":[],"ranks":[15.9,5.2,3.78,3.14,3.07,3.16,3.28,3.52,3.91,4.45],"artists":{"santana":true,"rob-thomas":true}}
+{
+  "title": "Smooth",
+  "instanceSlug": 399,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    5.2,
+    3.78,
+    3.14,
+    3.07,
+    3.16,
+    3.28,
+    3.52,
+    3.91,
+    4.45
+  ],
+  "artists": {
+    "santana": true,
+    "rob-thomas": true
+  },
+  "scores": [
+    0.077,
+    0.45,
+    0.556,
+    0.618,
+    0.626,
+    0.616,
+    0.604,
+    0.58,
+    0.545,
+    0.502
+  ]
+}

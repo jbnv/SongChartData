@@ -1,1 +1,19 @@
-{"title":"Born to Run","instanceSlug":2674,"tags":[],"parents":[],"genre":"rock","debut":1975,"playlists":[],"ranks":[],"artists":{"bruce-springsteen":true}}
+{
+  "title": "Born to Run",
+  "instanceSlug": 2674,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bruce-springsteen": true
+  },
+  "scores": [
+  ]
+}

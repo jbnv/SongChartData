@@ -1,1 +1,34 @@
-{"title":"Everybody Wants To Rule the World","instanceSlug":1646,"tags":[],"parents":[],"genre":"pop","debut":2013,"playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[],"artists":[{"slug":"lorde","title":"Lorde","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2466}
+{
+  "title": "Everybody Wants To Rule the World",
+  "instanceSlug": 1646,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2013,
+  "playlists": [
+    {
+      "slug": "remake",
+      "title": "Remakes"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "lorde",
+      "title": "Lorde",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2720
+}

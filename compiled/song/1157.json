@@ -1,1 +1,33 @@
-{"title":"Here We Go, Let's Rock & Roll","instanceSlug":1157,"tags":["go","","rock-and-roll"],"parents":[],"genre":"dance","debut":1991,"playlists":[],"ranks":[],"artists":[{"slug":"c-c-music-factory","title":"C+C Music Factory","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":2428}
+{
+  "title": "Here We Go, Let's Rock & Roll",
+  "instanceSlug": 1157,
+  "tags": [
+    "go",
+    "",
+    "rock-and-roll"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": 1991,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "c-c-music-factory",
+      "title": "C+C Music Factory",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 2626
+}

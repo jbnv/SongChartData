@@ -1,1 +1,70 @@
-{"title":"I'll Be There for You","instanceSlug":2688,"tags":[],"genre":"pop","debut":"1995-10","source":{"title":"Friends","instanceSlug":"friends","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[20,14,11,9.5,9,9.2,9.5,11,12.5,15.5,20,26,33.5,42.5,53,65],"artists":[{"slug":"rembrandts","title":"Rembrandts","roleSlug":true}],"debutRank":20,"peakRank":9,"duration":4,"score":5.39,"genres":[{"slug":"pop","title":"Pop"}],"rank":1312}
+{
+  "title": "I'll Be There for You",
+  "instanceSlug": 2688,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1995-10",
+  "source": {
+    "title": "Friends",
+    "instanceSlug": "friends",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+    {
+      "slug": "tv-theme",
+      "title": "TV Show Themes"
+    }
+  ],
+  "ranks": [
+    20,
+    14,
+    11,
+    9.5,
+    9,
+    9.2,
+    9.5,
+    11
+  ],
+  "artists": [
+    {
+      "slug": "rembrandts",
+      "title": "Rembrandts",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.249,
+    0.267,
+    0.26,
+    0.249,
+    0.2,
+    0.195,
+    0.185,
+    0.17,
+    0.15,
+    0.125,
+    0.095,
+    0.06,
+    0.02,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.25,
+  "score": 2.5460000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 1364
+}

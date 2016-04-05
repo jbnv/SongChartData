@@ -1,1 +1,77 @@
-{"title":"Love Song","instanceSlug":1329,"tags":[],"parents":[],"genre":"rock","debut":"1989-11","playlists":[{"slug":"love","title":"Love Songs"},{"slug":"ballad","title":"Ballads"}],"ranks":[16,9,6,3.5,2.5,2.75,3,3.3,3.7,4.4,5.1,6.5,8.6,11.4,14.9,19.1,24,29.6,35.9,42.9,50.6,59,68.1,77.9],"artists":[{"slug":"tesla","title":"Tesla","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":6,"score":19.24,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":359}
+{
+  "title": "Love Song",
+  "instanceSlug": 1329,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-11",
+  "playlists": [
+    {
+      "slug": "love",
+      "title": "Love Songs"
+    },
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    16,
+    9,
+    6,
+    3.5,
+    2.5,
+    2.75,
+    3,
+    3.3,
+    3.7,
+    4.4
+  ],
+  "artists": [
+    {
+      "slug": "tesla",
+      "title": "Tesla",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.267,
+    0.402,
+    0.582,
+    0.694,
+    0.662,
+    0.633,
+    0.602,
+    0.563,
+    0.506,
+    0.501,
+    0.491,
+    0.476,
+    0.456,
+    0.431,
+    0.401,
+    0.366,
+    0.326,
+    0.281,
+    0.231,
+    0.176,
+    0.116,
+    0.051,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 6,
+  "score": 9.289000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 443
+}

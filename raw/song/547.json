@@ -1,8 +1,9 @@
 {
   "title": "Another Part of Me",
   "instanceSlug": 547,
-  "tags": [],
-  "source":"bad",
+  "tags": [
+  ],
+  "source": "bad",
   "genre": "dance-pop",
   "debut": "1988-08",
   "playlists": [
@@ -18,5 +19,13 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.633,
+    0.968,
+    0.947,
+    0.917,
+    0.878
+  ]
 }

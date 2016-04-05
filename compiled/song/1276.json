@@ -1,1 +1,30 @@
-{"title":"Interstate Love Song","instanceSlug":1276,"tags":[],"parents":[],"genre":"alternative-rock","debut":"1994-10","playlists":[],"ranks":[],"artists":[{"slug":"stone-temple-pilots","title":"Stone Temple Pilots","roleSlug":true}],"genres":[{"slug":"alternative-rock","title":"Alternative Rock"}],"source":null,"rank":1638}
+{
+  "title": "Interstate Love Song",
+  "instanceSlug": 1276,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "alternative-rock",
+  "debut": "1994-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "stone-temple-pilots",
+      "title": "Stone Temple Pilots",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "alternative-rock",
+      "title": "Alternative Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2302
+}

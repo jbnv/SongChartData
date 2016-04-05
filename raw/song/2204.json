@@ -1,1 +1,22 @@
-{"title":"I Can Help","instanceSlug":2204,"tags":["#1","#1-country","i-can"],"parents":[],"genre":"pop","debut":1974,"playlists":[],"ranks":[],"artists":{"billy-swan":true}}
+{
+  "title": "I Can Help",
+  "instanceSlug": 2204,
+  "tags": [
+    "#1",
+    "#1-country",
+    "i-can"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "billy-swan": true
+  },
+  "scores": [
+  ]
+}

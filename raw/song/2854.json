@@ -1,15 +1,29 @@
 {
   "title": "Respect Yourself",
   "instanceSlug": 2854,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1987-03",
   "playlists": [
     "remake"
   ],
-  "ranks": [14,5.5,3.5,2.4,2.7],
+  "ranks": [
+    14,
+    5.5,
+    3.5,
+    2.4,
+    2.7
+  ],
   "artists": {
     "bruce-willis": true,
     "pointer-sisters": "backup"
-  }
+  },
+  "scores": [
+    0.12,
+    0.431,
+    0.582,
+    0.708,
+    0.668
+  ]
 }

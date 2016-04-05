@@ -1,1 +1,32 @@
-{"title":"Gettin' Jiggy Wit It","instanceSlug":2931,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rap","debut":"1998-03","playlists":[],"ranks":[],"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true}],"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":2129}
+{
+  "title": "Gettin' Jiggy Wit It",
+  "instanceSlug": 2931,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1998-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "will-smith",
+      "title": "Will Smith",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 2129
+}

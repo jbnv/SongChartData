@@ -1,10 +1,11 @@
 {
   "title": "PYT",
   "instanceSlug": 63,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "soul",
   "debut": "1983-11",
-  "source":"thriller",
+  "source": "thriller",
   "ranks": [
     11,
     2.1,
@@ -13,5 +14,11 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.2,
+    0.752,
+    0.968,
+    0.915
+  ]
 }

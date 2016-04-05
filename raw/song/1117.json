@@ -1,1 +1,32 @@
-{"title":"Why","instanceSlug":1117,"tags":[],"parents":[],"genre":"pop","debut":"1992-07","playlists":[],"ranks":[21,14,10,8,7,7.5,9.2],"artists":{"annie-lennox":true}}
+{
+  "title": "Why",
+  "instanceSlug": 1117,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-07",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    10,
+    8,
+    7,
+    7.5,
+    9.2
+  ],
+  "artists": {
+    "annie-lennox": true
+  },
+  "scores": [
+    0.12,
+    0.232,
+    0.306,
+    0.351,
+    0.328,
+    0.26
+  ]
+}

@@ -3,8 +3,11 @@
   "instanceSlug": 198,
   "tags": [
     "#1",
-    "#1-r&b"  ],
-  "playlists": ["summer"],
+    "#1-r&b"
+  ],
+  "playlists": [
+    "summer"
+  ],
   "genre": "funk-dance",
   "debut": "1990-08",
   "ranks": [
@@ -18,5 +21,13 @@
   "artists": {
     "time": true,
     "morris-day": "lead"
-  }
+  },
+  "scores": [
+    0.108,
+    0.602,
+    0.804,
+    0.864,
+    0.829,
+    0.767
+  ]
 }

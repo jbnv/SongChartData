@@ -1,1 +1,30 @@
-{"title":"Dance the Night Away","instanceSlug":2917,"tags":[],"parents":[],"genre":"hard-rock","debut":"1979-06","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":2113}
+{
+  "title": "Dance the Night Away",
+  "instanceSlug": 2917,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1979-06",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2113
+}

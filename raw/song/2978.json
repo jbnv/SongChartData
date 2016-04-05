@@ -1,1 +1,20 @@
-{"title":"Rich Girl","instanceSlug":2978,"tags":[],"parents":[],"genre":"pop","debut":2005,"playlists":[],"ranks":[],"artists":{"gwen-stefani":true,"eve":"feature"}}
+{
+  "title": "Rich Girl",
+  "instanceSlug": 2978,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2005,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "gwen-stefani": true,
+    "eve": "feature"
+  },
+  "scores": [
+  ]
+}

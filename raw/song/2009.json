@@ -1,1 +1,19 @@
-{"title":"Tulsa Time","instanceSlug":2009,"tags":[],"parents":[],"genre":"blues","debut":"1980-08","playlists":[],"ranks":[],"artists":{"eric-clapton":true}}
+{
+  "title": "Tulsa Time",
+  "instanceSlug": 2009,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "blues",
+  "debut": "1980-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eric-clapton": true
+  },
+  "scores": [
+  ]
+}

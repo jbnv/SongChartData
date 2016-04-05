@@ -1,1 +1,31 @@
-{"title":"Drive","instanceSlug":2506,"tags":["#1","#1-modern-rock"],"parents":[],"genre":"rock","debut":"2001-06","playlists":[],"ranks":[14,6,2.5,1.5,1.79],"artists":{"incubus":true}}
+{
+  "title": "Drive",
+  "instanceSlug": 2506,
+  "tags": [
+    "#1",
+    "#1-modern-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "2001-06",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    6,
+    2.5,
+    1.5,
+    1.79
+  ],
+  "artists": {
+    "incubus": true
+  },
+  "scores": [
+    0.12,
+    0.402,
+    0.694,
+    0.864,
+    0.805
+  ]
+}

@@ -1,13 +1,18 @@
 {
-  "title":"Liberian Girl",
-  "instanceSlug":"libgirl",
-  "tags": [],
+  "title": "Liberian Girl",
+  "instanceSlug": "libgirl",
+  "tags": [
+  ],
   "genre": "pop",
   "debut": 1983,
   "source": "thriller",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+  ]
 }

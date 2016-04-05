@@ -1,1 +1,77 @@
-{"title":"Beautiful Stranger","instanceSlug":334,"tags":[],"parents":[],"genre":"pop","debut":"1999-07","source":{"title":"Austin Powers: The Spy Who Shagged Me","instanceSlug":"austin-powers-2","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[10,2.7,1.41,1.1,1.21,1.6,1.99,2.77,3.94,5.5,7.45,9.79,12.52,15.64,19.15,23.05,27.34,32.02,37.09,42.55,48.4,54.64,61.27,68.29],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":10,"peakRank":1.1,"duration":6,"score":23.3,"genres":[{"slug":"pop","title":"Pop"}],"rank":188}
+{
+  "title": "Beautiful Stranger",
+  "instanceSlug": 334,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-07",
+  "source": {
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "instanceSlug": "austin-powers-2",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    10,
+    2.7,
+    1.41,
+    1.1,
+    1.21,
+    1.6
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.668,
+    0.885,
+    0.968,
+    0.936,
+    0.843,
+    0.838,
+    0.828,
+    0.813,
+    0.793,
+    0.768,
+    0.738,
+    0.703,
+    0.663,
+    0.618,
+    0.568,
+    0.513,
+    0.453,
+    0.388,
+    0.318,
+    0.243,
+    0.163,
+    0.078,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 6,
+  "score": 14.017999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 75
+}

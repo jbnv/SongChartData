@@ -7,12 +7,16 @@
     "",
     "rock&roll"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genres": [
-    "rock","blues","blues-rock"
+    "rock",
+    "blues",
+    "blues-rock"
   ],
   "debut": "1983-03",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16,
     9,
@@ -23,5 +27,13 @@
   ],
   "artists": {
     "eric-clapton": true
-  }
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.592,
+    0.573,
+    0.546,
+    0.506
+  ]
 }

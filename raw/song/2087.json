@@ -1,1 +1,32 @@
-{"title":"Ready or Not","instanceSlug":2087,"tags":[],"parents":[],"genre":"soul","debut":"1990-05","playlists":["summer"],"ranks":[13,5.2,2.1,2.21,2.42,3],"artists":{"after-7":true}}
+{
+  "title": "Ready or Not",
+  "instanceSlug": 2087,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    13,
+    5.2,
+    2.1,
+    2.21,
+    2.42,
+    3
+  ],
+  "artists": {
+    "after-7": true
+  },
+  "scores": [
+    0.145,
+    0.45,
+    0.752,
+    0.735,
+    0.705,
+    0.633
+  ]
+}

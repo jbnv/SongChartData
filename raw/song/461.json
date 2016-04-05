@@ -1,1 +1,35 @@
-{"title":"Everything Your Heart Desires","instanceSlug":461,"tags":[],"parents":[],"genre":"pop","debut":"1988-04","playlists":[],"ranks":[15.7,9.8,6.8,5.3,4.5,4.1,4.25,4.75],"artists":{"hall-oates":true}}
+{
+  "title": "Everything Your Heart Desires",
+  "instanceSlug": 461,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-04",
+  "playlists": [
+  ],
+  "ranks": [
+    15.7,
+    9.8,
+    6.8,
+    5.3,
+    4.5,
+    4.1,
+    4.25,
+    4.75
+  ],
+  "artists": {
+    "hall-oates": true
+  },
+  "scores": [
+    0.082,
+    0.239,
+    0.361,
+    0.444,
+    0.498,
+    0.529,
+    0.517,
+    0.48
+  ]
+}

@@ -1,1 +1,32 @@
-{"title":"Here and Now","instanceSlug":2913,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1990-02","playlists":[],"ranks":[],"artists":[{"slug":"luther-vandross","title":"Luther Vandross","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2109}
+{
+  "title": "Here and Now",
+  "instanceSlug": 2913,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "luther-vandross",
+      "title": "Luther Vandross",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2109
+}

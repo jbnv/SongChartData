@@ -1,1 +1,29 @@
-{"title":"Crush","instanceSlug":844,"tags":[],"parents":[],"genre":"pop","debut":1997,"playlists":[],"ranks":[13.9,3.4,1,1.17,1.5],"artists":{"jennifer-page":true}}
+{
+  "title": "Crush",
+  "instanceSlug": 844,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1997,
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    3.4,
+    1,
+    1.17,
+    1.5
+  ],
+  "artists": {
+    "jennifer-page": true
+  },
+  "scores": [
+    0.122,
+    0.592,
+    1,
+    0.947,
+    0.864
+  ]
+}

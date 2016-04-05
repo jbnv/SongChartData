@@ -1,1 +1,30 @@
-{"title":"Like a Virgin","instanceSlug":2123,"tags":[],"parents":[],"genre":"pop","debut":"1984-12","playlists":[],"ranks":[],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2649}
+{
+  "title": "Like a Virgin",
+  "instanceSlug": 2123,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "madonna",
+      "title": "Madonna",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2602
+}

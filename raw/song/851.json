@@ -1,1 +1,31 @@
-{"title":"Live to Tell","instanceSlug":851,"tags":["#1"],"parents":[],"genre":"pop","debut":"1986-05","source":"at-close-range","playlists":[],"ranks":[15.9,9.2,5.3,4.6,6.3],"artists":{"madonna":true}}
+{
+  "title": "Live to Tell",
+  "instanceSlug": 851,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-05",
+  "source": "at-close-range",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.2,
+    5.3,
+    4.6,
+    6.3
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.077,
+    0.26,
+    0.444,
+    0.491,
+    0.386
+  ]
+}

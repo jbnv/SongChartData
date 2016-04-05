@@ -1,1 +1,61 @@
-{"title":"Something to Talk About","instanceSlug":970,"tags":[],"parents":[],"genre":"blues-rock","debut":"1991-09","playlists":[],"ranks":[15.5,10.5,6.9,5.9,5.5,5.75,6.8,7.85,9.95,13.1,17.3,22.55,28.85,36.2,44.6,54.05],"artists":[{"slug":"bonnie-raitt","title":"Bonnie Raitt","roleSlug":true}],"debutRank":15.5,"peakRank":5.5,"duration":4,"score":9.05,"genres":[{"slug":"blues-rock","title":"Blues-Rock"}],"source":null,"rank":1025}
+{
+  "title": "Something to Talk About",
+  "instanceSlug": 970,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "blues-rock",
+  "debut": "1991-09",
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    10.5,
+    6.9,
+    5.9,
+    5.5,
+    5.75,
+    6.8
+  ],
+  "artists": [
+    {
+      "slug": "bonnie-raitt",
+      "title": "Bonnie Raitt",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.216,
+    0.356,
+    0.408,
+    0.431,
+    0.416,
+    0.361,
+    0.356,
+    0.346,
+    0.331,
+    0.311,
+    0.286,
+    0.256,
+    0.221,
+    0.181,
+    0.136,
+    0.086,
+    0.031,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 4.75,
+  "score": 4.815,
+  "genres": [
+    {
+      "slug": "blues-rock",
+      "title": "Blues-Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1040
+}

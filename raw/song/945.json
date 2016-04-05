@@ -1,1 +1,27 @@
-{"title":"Take On Me","instanceSlug":945,"tags":[],"parents":[],"genre":"pop","debut":"1985-09","playlists":[],"ranks":[17.9,10.7,10.2,14.5],"artists":{"a-ha":true}}
+{
+  "title": "Take On Me",
+  "instanceSlug": 945,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.7,
+    10.2,
+    14.5
+  ],
+  "artists": {
+    "a-ha": true
+  },
+  "scores": [
+    0.038,
+    0.209,
+    0.225,
+    0.108
+  ]
+}

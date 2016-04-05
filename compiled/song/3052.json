@@ -1,1 +1,64 @@
-{"title":"Go Big or Go Home","instanceSlug":3052,"tags":[],"parents":[],"genre":"pop","debut":"2015-07","playlists":[],"ranks":[16,5,2.6,2.5,2.7,2.92,4,5.08,7.24,10.48,14.8,20.2,26.68,34.24,42.88,52.6],"artists":[{"slug":"american-authors","title":"American Authors","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":4,"score":14.65,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":631}
+{
+  "title": "Go Big or Go Home",
+  "instanceSlug": 3052,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-07",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    5,
+    2.6,
+    2.5,
+    2.7,
+    2.92,
+    4
+  ],
+  "artists": [
+    {
+      "slug": "american-authors",
+      "title": "American Authors",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.463,
+    0.681,
+    0.694,
+    0.668,
+    0.642,
+    0.537,
+    0.532,
+    0.522,
+    0.507,
+    0.487,
+    0.462,
+    0.432,
+    0.397,
+    0.357,
+    0.312,
+    0.262,
+    0.207,
+    0.147,
+    0.082,
+    0.012,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 8.478000000000003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 546
+}

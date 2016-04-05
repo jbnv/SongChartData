@@ -1,1 +1,36 @@
-{"title":"Live and Learn","instanceSlug":1067,"tags":["learn","live","this-and-that"],"parents":[],"genre":"pop","debut":"1992-04","playlists":[],"ranks":[16,8,5,4,3.3,2.9,3.26],"artists":{"joe-public":true}}
+{
+  "title": "Live and Learn",
+  "instanceSlug": 1067,
+  "tags": [
+    "learn",
+    "live",
+    "this-and-that"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1992-04",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    5,
+    4,
+    3.3,
+    2.9,
+    3.26
+  ],
+  "artists": {
+    "joe-public": true
+  },
+  "scores": [
+    0.075,
+    0.306,
+    0.463,
+    0.537,
+    0.602,
+    0.645,
+    0.606
+  ]
+}

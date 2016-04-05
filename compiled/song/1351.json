@@ -1,1 +1,80 @@
-{"title":"C'mon and Get My Love","instanceSlug":1351,"tags":["c'mon","get","get-love","love","my","my-love"],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[15,5,3,1.9,1.4,1.3,1.45,1.7,1.95,2.45,3.2,4.2,5.45,6.95,8.7,10.7,12.95,15.45,18.2,21.2,24.45,27.95,31.7,35.7,39.95,44.45,49.2,54.2],"artists":[{"slug":"d-mob","title":"D-Mob","roleSlug":true},{"slug":"cathy-dennis","title":"Cathy Dennis","roleSlug":"feature"}],"debutRank":15,"peakRank":1.3,"duration":7,"score":28.91,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":62}
+{
+  "title": "C'mon and Get My Love",
+  "instanceSlug": 1351,
+  "tags": [
+    "c'mon",
+    "get",
+    "get-love",
+    "love",
+    "my",
+    "my-love"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    5,
+    3,
+    1.9,
+    1.4,
+    1.3,
+    1.45,
+    1.7
+  ],
+  "artists": [
+    {
+      "slug": "d-mob",
+      "title": "D-Mob",
+      "roleSlug": true
+    },
+    {
+      "slug": "cathy-dennis",
+      "title": "Cathy Dennis",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.463,
+    0.633,
+    0.786,
+    0.887,
+    0.912,
+    0.876,
+    0.823,
+    0.818,
+    0.808,
+    0.793,
+    0.773,
+    0.748,
+    0.718,
+    0.683,
+    0.643,
+    0.598,
+    0.548,
+    0.493,
+    0.433,
+    0.368,
+    0.298,
+    0.223,
+    0.143,
+    0.058,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 6.5,
+  "score": 14.623000000000003,
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    }
+  ],
+  "source": null,
+  "rank": 37
+}

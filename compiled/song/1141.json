@@ -1,1 +1,30 @@
-{"title":"Wicked Game","instanceSlug":1141,"tags":[],"parents":[],"genre":"rock","debut":"1991-02","playlists":[],"ranks":[],"artists":[{"slug":"chris-isaak","title":"Chris Isaak","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2487}
+{
+  "title": "Wicked Game",
+  "instanceSlug": 1141,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "chris-isaak",
+      "title": "Chris Isaak",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2674
+}

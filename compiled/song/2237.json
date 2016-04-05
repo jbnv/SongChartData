@@ -1,1 +1,32 @@
-{"title":"With a Little Luck","instanceSlug":2237,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1978-04","playlists":[],"ranks":[],"artists":[{"slug":"wings","title":"Wings","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2829}
+{
+  "title": "With a Little Luck",
+  "instanceSlug": 2237,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "wings",
+      "title": "Wings",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2800
+}

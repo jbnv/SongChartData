@@ -1,1 +1,16 @@
-{"title":"Brandy","instanceSlug":68,"tags":["women"],"parents":[],"ranks":[],"artists":{"looking-glass":true}}
+{
+  "title": "Brandy",
+  "instanceSlug": 68,
+  "tags": [
+    "women"
+  ],
+  "parents": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "looking-glass": true
+  },
+  "scores": [
+  ]
+}

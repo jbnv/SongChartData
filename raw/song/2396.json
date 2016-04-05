@@ -1,1 +1,17 @@
-{"title":"Modern Woman","instanceSlug":2396,"tags":[],"parents":[],"genre":"pop","debut":"1986-07","source":"ruthless-people","playlists":[],"ranks":true,"artists":{"billy-joel":true}}
+{
+  "title": "Modern Woman",
+  "instanceSlug": 2396,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-07",
+  "source": "ruthless-people",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "billy-joel": true
+  }
+}

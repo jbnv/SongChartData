@@ -1,1 +1,31 @@
-{"title":"Don't Stop Believing","instanceSlug":1540,"tags":["don't-stop"],"parents":[],"genre":"rock","debut":"1981-11","playlists":[],"ranks":[],"artists":[{"slug":"journey","title":"Journey","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2869}
+{
+  "title": "Don't Stop Believing",
+  "instanceSlug": 1540,
+  "tags": [
+    "don't-stop"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "journey",
+      "title": "Journey",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2433
+}

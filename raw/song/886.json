@@ -1,1 +1,30 @@
-{"title":"Come Undone","instanceSlug":886,"tags":[],"parents":[],"genre":"rock","debut":"1993-05","playlists":["summer"],"ranks":[15,6.4,2.25,1.75,1.98],"artists":{"duran-duran":true}}
+{
+  "title": "Come Undone",
+  "instanceSlug": 886,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1993-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    15,
+    6.4,
+    2.25,
+    1.75,
+    1.98
+  ],
+  "artists": {
+    "duran-duran": true
+  },
+  "scores": [
+    0.097,
+    0.381,
+    0.729,
+    0.813,
+    0.772
+  ]
+}

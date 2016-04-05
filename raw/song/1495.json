@@ -1,12 +1,17 @@
 {
   "title": "Shake It Up",
   "instanceSlug": 1495,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": "1981-12",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "cars": true
-  }
+  },
+  "scores": [
+  ]
 }

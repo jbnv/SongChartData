@@ -5,10 +5,13 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "soul",
   "debut": "1979-01",
-  "playlists": ["months"],
+  "playlists": [
+    "months"
+  ],
   "ranks": [
     12,
     1.5,
@@ -17,5 +20,11 @@
   ],
   "artists": {
     "earth-wind-fire": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.864,
+    0.968,
+    0.89
+  ]
 }

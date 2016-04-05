@@ -3,7 +3,10 @@
   "instanceSlug": 71,
   "tags": [
   ],
-  "playlists": ["feb13","cheating"],
+  "playlists": [
+    "feb13",
+    "cheating"
+  ],
   "genre": "country",
   "debut": "1983-04",
   "ranks": [
@@ -17,5 +20,14 @@
   ],
   "artists": {
     "ronnie-milsap": true
-  }
+  },
+  "scores": [
+    0.11,
+    0.498,
+    0.647,
+    0.631,
+    0.617,
+    0.601,
+    0.564
+  ]
 }

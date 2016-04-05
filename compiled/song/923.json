@@ -1,1 +1,73 @@
-{"title":"Arthur's Theme (Best That You Can Do)","instanceSlug":923,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"adult-contemporary","debut":"1981-09","source":{"instanceSlug":"arthur","title":"Arthur","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[17.1,4.2,2.9,2.75,3.05,3.5,3.95,4.85,6.2,8,10.25,12.95,16.1,19.7,23.75,28.25,33.2,38.6,44.45,50.75],"artists":[{"slug":"christopher-cross","title":"Christopher Cross","roleSlug":true}],"debutRank":17.1,"peakRank":2.75,"duration":5,"score":15.78,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":547}
+{
+  "title": "Arthur's Theme (Best That You Can Do)",
+  "instanceSlug": 923,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1981-09",
+  "source": {
+    "instanceSlug": "arthur",
+    "title": "Arthur",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    17.1,
+    4.2,
+    2.9,
+    2.75,
+    3.05,
+    3.5
+  ],
+  "artists": [
+    {
+      "slug": "christopher-cross",
+      "title": "Christopher Cross",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.053,
+    0.521,
+    0.645,
+    0.662,
+    0.628,
+    0.582,
+    0.577,
+    0.567,
+    0.552,
+    0.532,
+    0.507,
+    0.477,
+    0.442,
+    0.402,
+    0.357,
+    0.307,
+    0.252,
+    0.192,
+    0.127,
+    0.057,
+    0
+  ],
+  "debutScore": 0.053,
+  "peakScore": 0.053,
+  "duration": 5.25,
+  "score": 8.439000000000004,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "rank": 554
+}

@@ -1,1 +1,32 @@
-{"title":"Torn","instanceSlug":2505,"tags":["#1","#1-airplay"],"parents":[],"genre":"pop","debut":"1998-03","playlists":[],"ranks":[],"artists":[{"slug":"natalie-imbruglia","title":"Natalie Imbruglia","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1656}
+{
+  "title": "Torn",
+  "instanceSlug": 2505,
+  "tags": [
+    "#1",
+    "#1-airplay"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1998-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "natalie-imbruglia",
+      "title": "Natalie Imbruglia",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1656
+}

@@ -1,2 +1,36 @@
-{"title":"Roam","instanceSlug":174,"tags":[],"parents":[],"genre":"pop","debut":"1990-02","ranks":[13.9,3.4,1,1.09,1.18,1.29,1.41,1.56,1.79],"artists":{"b-52s":true,
-"kate-pierson":"lead"}}
+{
+  "title": "Roam",
+  "instanceSlug": 174,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-02",
+  "ranks": [
+    13.9,
+    3.4,
+    1,
+    1.09,
+    1.18,
+    1.29,
+    1.41,
+    1.56,
+    1.79
+  ],
+  "artists": {
+    "b-52s": true,
+    "kate-pierson": "lead"
+  },
+  "scores": [
+    0.122,
+    0.592,
+    1,
+    0.971,
+    0.944,
+    0.915,
+    0.885,
+    0.851,
+    0.805
+  ]
+}

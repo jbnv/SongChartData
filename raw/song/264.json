@@ -1,8 +1,12 @@
 {
   "title": "'65 Love Affair",
   "instanceSlug": 264,
-  "tags": [],
-  "playlists": ["nostalgia","years"],
+  "tags": [
+  ],
+  "playlists": [
+    "nostalgia",
+    "years"
+  ],
   "genre": "pop",
   "debut": "1982-03",
   "ranks": [
@@ -11,10 +15,19 @@
     1.09,
     1.18,
     1.27,
-    1.40,
+    1.4,
     1.54
   ],
   "artists": {
     "paul-davis": true
-  }
+  },
+  "scores": [
+    0.463,
+    1,
+    0.971,
+    0.944,
+    0.92,
+    0.887,
+    0.856
+  ]
 }

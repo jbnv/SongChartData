@@ -1,1 +1,33 @@
-{"title":"Dreaming of You","instanceSlug":1370,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1995-11","playlists":[],"ranks":[15,8,5,3.9,3.2,3.4,3.76],"artists":{"selena":true}}
+{
+  "title": "Dreaming of You",
+  "instanceSlug": 1370,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1995-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8,
+    5,
+    3.9,
+    3.2,
+    3.4,
+    3.76
+  ],
+  "artists": {
+    "selena": true
+  },
+  "scores": [
+    0.097,
+    0.306,
+    0.463,
+    0.546,
+    0.612,
+    0.592,
+    0.558
+  ]
+}

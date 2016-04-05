@@ -1,1 +1,50 @@
-{"title":"Tell Me Something","instanceSlug":185,"tags":[],"parents":[],"genre":"pop","debut":"1990-09","ranks":[24.9,14.6,8.6,12.4,16.2,23.8,35.2,50.4],"artists":[{"slug":"indecent-obsession","title":"Indecent Obsession","roleSlug":true}],"debutRank":24.9,"peakRank":8.6,"duration":2,"score":1.86,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":1515}
+{
+  "title": "Tell Me Something",
+  "instanceSlug": 185,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-09",
+  "ranks": [
+    24.9,
+    14.6,
+    8.6,
+    12.4
+  ],
+  "artists": [
+    {
+      "slug": "indecent-obsession",
+      "title": "Indecent Obsession",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.106,
+    0.282,
+    0.16,
+    0.155,
+    0.145,
+    0.13,
+    0.11,
+    0.085,
+    0.055,
+    0.02,
+    0
+  ],
+  "debutScore": 0.106,
+  "peakScore": 0.106,
+  "duration": 2.75,
+  "score": 1.248,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1492
+}

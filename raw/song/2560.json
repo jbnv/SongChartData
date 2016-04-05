@@ -1,1 +1,19 @@
-{"title":"Ruby Tuesday","instanceSlug":2560,"tags":[],"parents":[],"genre":"rock","debut":1967,"playlists":[],"ranks":[],"artists":{"rolling-stones":true}}
+{
+  "title": "Ruby Tuesday",
+  "instanceSlug": 2560,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1967,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "rolling-stones": true
+  },
+  "scores": [
+  ]
+}

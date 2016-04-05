@@ -1,1 +1,61 @@
-{"title":"Do You Really Want to Hurt Me","instanceSlug":362,"tags":["do-you","hurt","","me","really","want","you","you-me"],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"ranks":[21,13.8,10.7,9.6,10.4,13.2,16,21.6,30,41.2,55.2,72],"artists":[{"slug":"culture-club","title":"Culture Club","roleSlug":true}],"debutRank":21,"peakRank":9.6,"duration":3,"score":3.05,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1460}
+{
+  "title": "Do You Really Want to Hurt Me",
+  "instanceSlug": 362,
+  "tags": [
+    "do-you",
+    "hurt",
+    "",
+    "me",
+    "really",
+    "want",
+    "you",
+    "you-me"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    13.8,
+    10.7,
+    9.6,
+    10.4,
+    13.2
+  ],
+  "artists": [
+    {
+      "slug": "culture-club",
+      "title": "Culture Club",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.125,
+    0.209,
+    0.246,
+    0.219,
+    0.139,
+    0.134,
+    0.124,
+    0.109,
+    0.089,
+    0.064,
+    0.034,
+    0
+  ],
+  "debutScore": 0.125,
+  "peakScore": 0.125,
+  "duration": 3,
+  "score": 1.4920000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1465
+}

@@ -1,1 +1,17 @@
-{"title":"Copacabana","instanceSlug":2992,"tags":[],"parents":[],"genre":"disco","debut":"1978-07","source":"foul-play","playlists":[],"ranks":true,"artists":{"barry-manilow":true}}
+{
+  "title": "Copacabana",
+  "instanceSlug": 2992,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1978-07",
+  "source": "foul-play",
+  "playlists": [
+  ],
+  "ranks": true,
+  "artists": {
+    "barry-manilow": true
+  }
+}

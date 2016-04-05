@@ -1,1 +1,64 @@
-{"title":"Ex's and Oh's","instanceSlug":3070,"tags":[],"parents":[],"genre":"pop","debut":"2015-08","playlists":[],"ranks":[17,9.5,7.3,5.1,4.9,4.95,5.25,5.85,6.45,7.65,9.45,11.85,14.85,18.45,22.65,27.45,32.85,38.85,45.45,52.65],"artists":[{"slug":"elle-king","title":"Elle King","roleSlug":true}],"debutRank":17,"peakRank":4.9,"duration":5,"score":12.45,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":782}
+{
+  "title": "Ex's and Oh's",
+  "instanceSlug": 3070,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.5,
+    7.3,
+    5.1,
+    4.9,
+    4.95,
+    5.25,
+    5.85
+  ],
+  "artists": [
+    {
+      "slug": "elle-king",
+      "title": "Elle King",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.249,
+    0.337,
+    0.456,
+    0.47,
+    0.466,
+    0.447,
+    0.411,
+    0.406,
+    0.396,
+    0.381,
+    0.361,
+    0.336,
+    0.306,
+    0.271,
+    0.231,
+    0.186,
+    0.136,
+    0.081,
+    0.021,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 6.003,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 860
+}

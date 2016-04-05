@@ -1,1 +1,32 @@
-{"title":"Layla","instanceSlug":872,"tags":[],"parents":[],"genre":"blues","debut":"1992-10","playlists":["women"],"ranks":[17,9.6,5.4,3.7,3.5,3.9],"artists":{"eric-clapton":true}}
+{
+  "title": "Layla",
+  "instanceSlug": 872,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "blues",
+  "debut": "1992-10",
+  "playlists": [
+    "women"
+  ],
+  "ranks": [
+    17,
+    9.6,
+    5.4,
+    3.7,
+    3.5,
+    3.9
+  ],
+  "artists": {
+    "eric-clapton": true
+  },
+  "scores": [
+    0.055,
+    0.246,
+    0.437,
+    0.563,
+    0.582,
+    0.546
+  ]
+}

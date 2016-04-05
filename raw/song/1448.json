@@ -1,1 +1,41 @@
-{"title":"Key Largo","instanceSlug":1448,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1982-03","playlists":[],"ranks":[18,11,8,6,5.4,4.9,4.85,4.97,5.3,5.9,6.8],"artists":{"bernie-higgins":true}}
+{
+  "title": "Key Largo",
+  "instanceSlug": 1448,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1982-03",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    8,
+    6,
+    5.4,
+    4.9,
+    4.85,
+    4.97,
+    5.3,
+    5.9,
+    6.8
+  ],
+  "artists": {
+    "bernie-higgins": true
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.306,
+    0.402,
+    0.437,
+    0.47,
+    0.473,
+    0.465,
+    0.444,
+    0.408,
+    0.361
+  ]
+}

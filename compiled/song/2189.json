@@ -1,1 +1,64 @@
-{"title":"New Song","instanceSlug":2189,"tags":[],"parents":[],"genre":"pop","debut":"1984-03","playlists":[],"ranks":[15,9,6,4.5,3,3.2,3.7,4.2,5.2,6.7,8.7,11.2,14.2,17.7,21.7,26.2,31.2,36.7,42.7,49.2,56.2,63.7,71.7,80.2],"artists":[{"slug":"howard-jones","title":"Howard Jones","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":6,"score":15.14,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":592}
+{
+  "title": "New Song",
+  "instanceSlug": 2189,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-03",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3,
+    3.2,
+    3.7
+  ],
+  "artists": [
+    {
+      "slug": "howard-jones",
+      "title": "Howard Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.633,
+    0.612,
+    0.563,
+    0.558,
+    0.548,
+    0.533,
+    0.513,
+    0.488,
+    0.458,
+    0.423,
+    0.383,
+    0.338,
+    0.288,
+    0.233,
+    0.173,
+    0.108,
+    0.038,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 8.154,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 590
+}

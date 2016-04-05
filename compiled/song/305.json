@@ -1,1 +1,68 @@
-{"title":"Walk the Dinosaur","instanceSlug":305,"tags":[],"parents":[],"genre":"pop","debut":1989,"playlists":[{"slug":"organ"}],"ranks":[8,1,1.1105,1.24,1.46,1.68,2.12,2.78,3.66,4.76,6.08,7.62,9.38,11.36,13.56,15.98,18.62,21.48,24.56,27.86,31.38,35.12,39.08,43.26,47.66,52.28,57.12,62.18],"artists":[{"slug":"was-not-was","title":"Was (Not Was)","roleSlug":true}],"note":"Project 4 weeks at #1.","debutRank":8,"peakRank":1,"duration":7,"score":26.26,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":104}
+{
+  "title": "Walk the Dinosaur",
+  "instanceSlug": 305,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1989,
+  "playlists": [
+    {
+      "slug": "organ"
+    }
+  ],
+  "ranks": [
+    8,
+    1,
+    1.1105,
+    1.24,
+    1.46
+  ],
+  "artists": [
+    {
+      "slug": "was-not-was",
+      "title": "Was (Not Was)",
+      "roleSlug": true
+    }
+  ],
+  "note": "Project 4 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.965,
+    0.928,
+    0.873,
+    0.868,
+    0.858,
+    0.843,
+    0.823,
+    0.798,
+    0.768,
+    0.733,
+    0.693,
+    0.648,
+    0.598,
+    0.543,
+    0.483,
+    0.418,
+    0.348,
+    0.273,
+    0.193,
+    0.108,
+    0.018,
+    0
+  ],
+  "debutScore": 0.306,
+  "peakScore": 0.306,
+  "duration": 6,
+  "score": 14.086000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 70
+}

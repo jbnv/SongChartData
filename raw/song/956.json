@@ -1,11 +1,14 @@
 {
   "title": "With You",
   "instanceSlug": 956,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "soul",
   "debut": "1991-10",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16.5,
     9.7,
@@ -15,5 +18,12 @@
   ],
   "artists": {
     "tony-terry": true
-  }
+  },
+  "scores": [
+    0.065,
+    0.242,
+    0.419,
+    0.341,
+    0.239
+  ]
 }

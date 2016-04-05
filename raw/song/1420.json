@@ -1,1 +1,39 @@
-{"title":"With Every Beat of My Heart","instanceSlug":1420,"tags":["beat","every","heart","my","this-of-that","with"],"parents":[],"genre":"pop","debut":"1989-11","playlists":[],"ranks":[17,13,9.5,6.5,5.9,5.8,6.3],"artists":{"taylor-dayne":true}}
+{
+  "title": "With Every Beat of My Heart",
+  "instanceSlug": 1420,
+  "tags": [
+    "beat",
+    "every",
+    "heart",
+    "my",
+    "this-of-that",
+    "with"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    13,
+    9.5,
+    6.5,
+    5.9,
+    5.8,
+    6.3
+  ],
+  "artists": {
+    "taylor-dayne": true
+  },
+  "scores": [
+    0.055,
+    0.145,
+    0.249,
+    0.376,
+    0.408,
+    0.414,
+    0.386
+  ]
+}

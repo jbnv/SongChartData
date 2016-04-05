@@ -1,1 +1,61 @@
-{"title":"Adult Education","instanceSlug":760,"tags":[],"parents":[],"genre":"rock","debut":"1984-03","playlists":[],"ranks":[17,10,8.1,6.5,6.2,6.4,7.1,7.8,9.2,11.3,14.1,17.6,21.8,26.7,32.3,38.6,45.6,53.3,61.7,70.8],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"debutRank":17,"peakRank":6.2,"duration":5,"score":9.05,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1023}
+{
+  "title": "Adult Education",
+  "instanceSlug": 760,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-03",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    8.1,
+    6.5,
+    6.2,
+    6.4,
+    7.1
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.302,
+    0.376,
+    0.391,
+    0.381,
+    0.346,
+    0.341,
+    0.331,
+    0.316,
+    0.296,
+    0.271,
+    0.241,
+    0.206,
+    0.166,
+    0.121,
+    0.071,
+    0.016,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.75,
+  "score": 4.459,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1088
+}

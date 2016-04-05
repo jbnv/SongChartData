@@ -1,1 +1,56 @@
-{"title":"Everyday I Write the Book","instanceSlug":1564,"tags":[],"parents":[],"genre":"art-rock","debut":"1983-11","playlists":[],"ranks":[21,14,9,8,8.5,10.2,11.9,15.3,20.4,27.2,35.7,45.9,57.8,71.4,86.7,103.7],"artists":[{"slug":"elvis-costello","title":"Elvis Costello","roleSlug":true}],"debutRank":21,"peakRank":8,"duration":4,"score":4.42,"genres":[{"slug":"art-rock","title":"Art Rock"}],"source":null,"rank":1373}
+{
+  "title": "Everyday I Write the Book",
+  "instanceSlug": 1564,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "art-rock",
+  "debut": "1983-11",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    9,
+    8,
+    8.5,
+    10.2
+  ],
+  "artists": [
+    {
+      "slug": "elvis-costello",
+      "title": "Elvis Costello",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.267,
+    0.306,
+    0.286,
+    0.225,
+    0.22,
+    0.21,
+    0.195,
+    0.175,
+    0.15,
+    0.12,
+    0.085,
+    0.045,
+    0,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 3.75,
+  "score": 2.404,
+  "genres": [
+    {
+      "slug": "art-rock",
+      "title": "Art Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1379
+}

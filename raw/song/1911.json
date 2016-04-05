@@ -1,1 +1,25 @@
-{"title":"I'm Still in Love With You","instanceSlug":1911,"tags":[],"parents":[],"genre":"soul","debut":"1996-11","playlists":[],"ranks":[13,1.5,1.72],"artists":{"new-edition":true}}
+{
+  "title": "I'm Still in Love With You",
+  "instanceSlug": 1911,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1996-11",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    1.5,
+    1.72
+  ],
+  "artists": {
+    "new-edition": true
+  },
+  "scores": [
+    0.145,
+    0.864,
+    0.819
+  ]
+}

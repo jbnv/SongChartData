@@ -1,1 +1,19 @@
-{"title":"Your Song","instanceSlug":2398,"tags":[],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Your Song",
+  "instanceSlug": 2398,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

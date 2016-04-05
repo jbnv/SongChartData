@@ -1,1 +1,35 @@
-{"title":"Hey Leonardo (She Likes Me for Me)","instanceSlug":550,"tags":[],"parents":[],"genre":true,"debut":"1999-08","playlists":[],"ranks":[17.9,10.4,6.1,6,6.2,6.5,6.9,7.7],"artists":{"blessid-union-of-souls":true}}
+{
+  "title": "Hey Leonardo (She Likes Me for Me)",
+  "instanceSlug": 550,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1999-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.4,
+    6.1,
+    6,
+    6.2,
+    6.5,
+    6.9,
+    7.7
+  ],
+  "artists": {
+    "blessid-union-of-souls": true
+  },
+  "scores": [
+    0.038,
+    0.219,
+    0.397,
+    0.402,
+    0.391,
+    0.376,
+    0.356,
+    0.319
+  ]
+}

@@ -1,1 +1,37 @@
-{"title":"Why Must We Wait Until Tonight","instanceSlug":1175,"tags":["","must","tonight","until","wait","we","why"],"parents":[],"genre":"pop","debut":"1993-11","playlists":[],"ranks":[],"artists":[{"slug":"tina-turner","title":"Tina Turner","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2350}
+{
+  "title": "Why Must We Wait Until Tonight",
+  "instanceSlug": 1175,
+  "tags": [
+    "",
+    "must",
+    "tonight",
+    "until",
+    "wait",
+    "we",
+    "why"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tina-turner",
+      "title": "Tina Turner",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2579
+}

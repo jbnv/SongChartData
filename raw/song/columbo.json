@@ -1,1 +1,19 @@
-{"title":"Theme to Columbo","instanceSlug":"columbo","tags":[],"parents":[],"debut":1971,"playlists":["instrumental"],"ranks":[],"artists":{"henry-mancini":true}}
+{
+  "title": "Theme to Columbo",
+  "instanceSlug": "columbo",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": 1971,
+  "playlists": [
+    "instrumental"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "henry-mancini": true
+  },
+  "scores": [
+  ]
+}

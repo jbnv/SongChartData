@@ -1,1 +1,28 @@
-{"title":"Bitter Sweet Symphony","instanceSlug":1782,"tags":[],"parents":[],"genre":"pop","debut":"1998-04","playlists":[],"ranks":[],"artists":[{"slug":"verve-the"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3012}
+{
+  "title": "Bitter Sweet Symphony",
+  "instanceSlug": 1782,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1998-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "verve-the"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2726
+}

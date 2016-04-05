@@ -1,1 +1,32 @@
-{"title":"State of Attraction","instanceSlug":1332,"tags":["attract","state"],"parents":[],"genre":"pop","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2484}
+{
+  "title": "State of Attraction",
+  "instanceSlug": 1332,
+  "tags": [
+    "attract",
+    "state"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1957
+}

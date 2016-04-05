@@ -1,1 +1,38 @@
-{"title":"Someone Like You","instanceSlug":3035,"tags":["#1","#1-rdwt40-hot-adult","like-you","someone-like"],"parents":[],"genre":"pop","debut":"2010s","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"adele","title":"Adele","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2246}
+{
+  "title": "Someone Like You",
+  "instanceSlug": 3035,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult",
+    "like-you",
+    "someone-like"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2010s",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "adele",
+      "title": "Adele",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2246
+}

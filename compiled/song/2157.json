@@ -1,1 +1,59 @@
-{"title":"Pinball Wizard","instanceSlug":2157,"tags":[],"parents":[],"genre":"rock","debut":1969,"playlists":[],"ranks":[16,8,6,4,4.5,5,6,7.5,9.5,12,15,18.5,22.5,27,32,37.5,43.5,50,57,64.5],"artists":[{"slug":"who","title":"Who, The","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":5,"score":10.69,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":907}
+{
+  "title": "Pinball Wizard",
+  "instanceSlug": 2157,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1969,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    6,
+    4,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "who",
+      "title": "Who, The",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.306,
+    0.402,
+    0.537,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.75,
+  "score": 6.016999999999999,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 857
+}

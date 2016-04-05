@@ -1,1 +1,21 @@
-{"title":"Black & White","instanceSlug":477,"tags":["black","white"],"parents":[],"genre":true,"debut":1972,"playlists":[],"ranks":[],"artists":{"three-dog-night":true}}
+{
+  "title": "Black & White",
+  "instanceSlug": 477,
+  "tags": [
+    "black",
+    "white"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "three-dog-night": true
+  },
+  "scores": [
+  ]
+}

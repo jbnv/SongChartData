@@ -1,1 +1,59 @@
-{"title":"Waterfalls","instanceSlug":50,"tags":["#1","#1-hot-100","fall","water"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"soul","debut":"1995-06","ranks":[23,20,17,15,13,14.5,16,19,23.5,29.5,37,46,56.5,68.5,82,97],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":23,"peakRank":13,"duration":4,"score":1.51,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1531}
+{
+  "title": "Waterfalls",
+  "instanceSlug": 50,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "fall",
+    "water"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "soul",
+  "debut": "1995-06",
+  "ranks": [
+    23,
+    20,
+    17,
+    15,
+    13,
+    14.5
+  ],
+  "artists": [
+    {
+      "slug": "tlc",
+      "title": "TLC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.055,
+    0.097,
+    0.145,
+    0.108,
+    0.103,
+    0.093,
+    0.078,
+    0.058,
+    0.033,
+    0.003,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 3,
+  "score": 0.774,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1529
+}

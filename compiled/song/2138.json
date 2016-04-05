@@ -1,1 +1,41 @@
-{"title":"You Are the Sunshine of My Life","instanceSlug":2138,"tags":["#1"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true},{"slug":"jim-gilstrap","title":"Jim Gilstrap","roleSlug":"backup"},{"slug":"gloria-barley","title":"Gloria Barley","roleSlug":"backup"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":2672}
+{
+  "title": "You Are the Sunshine of My Life",
+  "instanceSlug": 2138,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    },
+    {
+      "slug": "jim-gilstrap",
+      "title": "Jim Gilstrap",
+      "roleSlug": "backup"
+    },
+    {
+      "slug": "gloria-barley",
+      "title": "Gloria Barley",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 2634
+}

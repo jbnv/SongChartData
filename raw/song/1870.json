@@ -1,14 +1,30 @@
 {
   "title": "Isn't It Time",
   "instanceSlug": 1870,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1977-11",
-  "playlists": [],
-  "ranks": [18,10,7.5,5,5.5],
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    10,
+    7.5,
+    5,
+    5.5
+  ],
   "artists": {
     "babys": true,
-    "jon-waite":"lead"
-  }
+    "jon-waite": "lead"
+  },
+  "scores": [
+    0.036,
+    0.232,
+    0.328,
+    0.463,
+    0.431
+  ]
 }

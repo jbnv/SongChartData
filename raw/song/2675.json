@@ -1,1 +1,19 @@
-{"title":"Hungry Heart","instanceSlug":2675,"tags":[],"parents":[],"genre":"rock","debut":"1980-11","playlists":[],"ranks":[],"artists":{"bruce-springsteen":true}}
+{
+  "title": "Hungry Heart",
+  "instanceSlug": 2675,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1980-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "bruce-springsteen": true
+  },
+  "scores": [
+  ]
+}

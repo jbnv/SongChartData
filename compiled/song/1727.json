@@ -1,1 +1,56 @@
-{"title":"Hot Child in the City","instanceSlug":1727,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1978-08","playlists":[],"ranks":[21,17,14,12,10,12,14,18,24,32,42,54],"artists":[{"slug":"nick-gilder","title":"Nick Gilder","roleSlug":true}],"debutRank":21,"peakRank":10,"duration":3,"score":2.73,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1476}
+{
+  "title": "Hot Child in the City",
+  "instanceSlug": 1727,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-08",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    17,
+    14,
+    12,
+    10,
+    12
+  ],
+  "artists": [
+    {
+      "slug": "nick-gilder",
+      "title": "Nick Gilder",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.12,
+    0.171,
+    0.232,
+    0.171,
+    0.166,
+    0.156,
+    0.141,
+    0.121,
+    0.096,
+    0.066,
+    0.031,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 3.25,
+  "score": 1.526,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1462
+}

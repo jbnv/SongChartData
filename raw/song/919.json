@@ -1,1 +1,27 @@
-{"title":"I've Done Everything For You","instanceSlug":919,"tags":[],"parents":[],"genre":"rock","debut":"1981-09","playlists":[],"ranks":[17,10.1,9.3,12],"artists":{"rick-springfield":true}}
+{
+  "title": "I've Done Everything For You",
+  "instanceSlug": 919,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10.1,
+    9.3,
+    12
+  ],
+  "artists": {
+    "rick-springfield": true
+  },
+  "scores": [
+    0.055,
+    0.229,
+    0.256,
+    0.171
+  ]
+}

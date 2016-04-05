@@ -1,1 +1,54 @@
-{"title":"Too Hot","instanceSlug":2,"tags":[],"genre":"soul","debut":"1980-02","ranks":[24.9,14.5,8.4,8.5,9.1,10.2,11.3,13.5,16.8,21.2,26.7,33.3,41,49.8,59.7,70.7],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":24.9,"peakRank":8.4,"duration":4,"score":4.68,"genres":[{"slug":"soul","title":"Soul"}],"playlists":[],"source":null,"rank":1357}
+{
+  "title": "Too Hot",
+  "instanceSlug": 2,
+  "tags": [
+  ],
+  "genre": "soul",
+  "debut": "1980-02",
+  "ranks": [
+    24.9,
+    14.5,
+    8.4,
+    8.5,
+    9.1,
+    10.2
+  ],
+  "artists": [
+    {
+      "slug": "koolnthegang",
+      "title": "Kool & the Gang",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.108,
+    0.29,
+    0.286,
+    0.263,
+    0.225,
+    0.22,
+    0.21,
+    0.195,
+    0.175,
+    0.15,
+    0.12,
+    0.085,
+    0.045,
+    0,
+    0
+  ],
+  "debutScore": 0.108,
+  "peakScore": 0.108,
+  "duration": 3.75,
+  "score": 2.372,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1382
+}

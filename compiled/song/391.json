@@ -1,1 +1,67 @@
-{"title":"Weak","instanceSlug":391,"tags":[],"parents":[],"genre":"new-jack-swing","debut":"1993-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,8.6,4.9,2.7,2.3,3.2,4.1,5.9,8.6,12.2,16.7,22.1,28.4,35.6,43.7,52.7],"artists":[{"slug":"swv","title":"SWV","roleSlug":true}],"debutRank":15,"peakRank":2.3,"duration":4,"score":12.91,"genres":[{"slug":"new-jack-swing","title":"New Jack Swing"}],"source":null,"rank":752}
+{
+  "title": "Weak",
+  "instanceSlug": 391,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "new-jack-swing",
+  "debut": "1993-07",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    15,
+    8.6,
+    4.9,
+    2.7,
+    2.3,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "swv",
+      "title": "SWV",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.282,
+    0.47,
+    0.668,
+    0.722,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 8.631,
+  "genres": [
+    {
+      "slug": "new-jack-swing",
+      "title": "New Jack Swing"
+    }
+  ],
+  "source": null,
+  "rank": 516
+}

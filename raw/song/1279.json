@@ -1,1 +1,26 @@
-{"title":"Best of My Love","instanceSlug":1279,"tags":["#1","#1-adult-contemporary","#1-hot-100","my-love"],"parents":[],"genre":"rock","debut":1975,"playlists":["ballad","love"],"ranks":[],"artists":{"eagles":true,"don-henley":"lead"}}
+{
+  "title": "Best of My Love",
+  "instanceSlug": 1279,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "my-love"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1975,
+  "playlists": [
+    "ballad",
+    "love"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "eagles": true,
+    "don-henley": "lead"
+  },
+  "scores": [
+  ]
+}

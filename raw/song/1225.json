@@ -1,10 +1,12 @@
 {
   "title": "Shake Your Body (Down To The Ground)",
   "instanceSlug": 1225,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "dance",
   "debut": "1979-04",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     12.5,
     2.4,
@@ -15,5 +17,12 @@
   "artists": {
     "jacksons": true,
     "michael-jackson": "lead"
-  }
+  },
+  "scores": [
+    0.158,
+    0.708,
+    0.939,
+    0.887,
+    0.829
+  ]
 }

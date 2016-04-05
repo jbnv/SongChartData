@@ -1,2 +1,18 @@
-{"title":"Mama's Pearl","instanceSlug":1223,"tags":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"jacksons":true,
-"michael-jackson": "lead"}}
+{
+  "title": "Mama's Pearl",
+  "instanceSlug": 1223,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "jacksons": true,
+    "michael-jackson": "lead"
+  },
+  "scores": [
+  ]
+}

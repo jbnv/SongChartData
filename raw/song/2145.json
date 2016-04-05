@@ -1,1 +1,25 @@
-{"title":"Overjoyed","instanceSlug":2145,"tags":["#1"],"parents":[],"genre":"adult-contemporary","debut":"1986-04","playlists":[],"ranks":[25,15,18],"artists":{"stevie-wonder":true}}
+{
+  "title": "Overjoyed",
+  "instanceSlug": 2145,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    15,
+    18
+  ],
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+    0.097,
+    0.036
+  ]
+}

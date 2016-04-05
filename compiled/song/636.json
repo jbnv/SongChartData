@@ -1,1 +1,63 @@
-{"title":"Love Will Conquer All","instanceSlug":636,"tags":["#1","#1-adult-contemporary","love-will"],"parents":[],"genre":"pop","debut":"1986-11","playlists":[],"ranks":[17.9,10.6,6.2,5.5,4.9,5.46,6.02,7.14,8.82,11.06,13.86,17.22,21.14,25.62,30.66,36.26,42.42,49.14,56.42,64.26],"artists":[{"slug":"lionel-richie","title":"Lionel Richie","roleSlug":true}],"debutRank":17.9,"peakRank":4.9,"duration":5,"score":10.12,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":949}
+{
+  "title": "Love Will Conquer All",
+  "instanceSlug": 636,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "love-will"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    6.2,
+    5.5,
+    4.9,
+    5.46
+  ],
+  "artists": [
+    {
+      "slug": "lionel-richie",
+      "title": "Lionel Richie",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.391,
+    0.431,
+    0.47,
+    0.434,
+    0.429,
+    0.419,
+    0.404,
+    0.384,
+    0.359,
+    0.329,
+    0.294,
+    0.254,
+    0.209,
+    0.159,
+    0.104,
+    0.044,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 4.75,
+  "score": 5.3649999999999975,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 948
+}

@@ -1,1 +1,72 @@
-{"title":"Nothing's Gonna Stop Us Now","instanceSlug":494,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"parents":[],"genre":"rock","debut":"1987-03","source":{"title":"Mannequin","instanceSlug":"mannequin","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[18,11.5,6.6,5.8,6.9,8,10.2,13.5,17.9,23.4,30,37.7,46.5,56.4,67.4,79.5],"artists":[{"slug":"starship","title":"Jefferson Airplane / Jefferson Starship / Starship","roleSlug":true}],"debutRank":18,"peakRank":5.8,"duration":4,"score":6.2,"genres":[{"slug":"rock","title":"Rock"}],"rank":1257}
+{
+  "title": "Nothing's Gonna Stop Us Now",
+  "instanceSlug": 494,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-03",
+  "source": {
+    "title": "Mannequin",
+    "instanceSlug": "mannequin",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    }
+  ],
+  "ranks": [
+    18,
+    11.5,
+    6.6,
+    5.8,
+    6.9
+  ],
+  "artists": [
+    {
+      "slug": "starship",
+      "title": "Jefferson Airplane / Jefferson Starship / Starship",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.185,
+    0.37,
+    0.414,
+    0.356,
+    0.351,
+    0.341,
+    0.326,
+    0.306,
+    0.281,
+    0.251,
+    0.216,
+    0.176,
+    0.131,
+    0.081,
+    0.026,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.25,
+  "score": 3.847,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "rank": 1185
+}

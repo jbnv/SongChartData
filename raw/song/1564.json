@@ -1,1 +1,30 @@
-{"title":"Everyday I Write the Book","instanceSlug":1564,"tags":[],"parents":[],"genre":"art-rock","debut":"1983-11","playlists":[],"ranks":[21,14,9,8,8.5,10.2],"artists":{"elvis-costello":true}}
+{
+  "title": "Everyday I Write the Book",
+  "instanceSlug": 1564,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "art-rock",
+  "debut": "1983-11",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    14,
+    9,
+    8,
+    8.5,
+    10.2
+  ],
+  "artists": {
+    "elvis-costello": true
+  },
+  "scores": [
+    0.12,
+    0.267,
+    0.306,
+    0.286,
+    0.225
+  ]
+}

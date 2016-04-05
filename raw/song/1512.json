@@ -1,1 +1,21 @@
-{"title":"Broken Arrow","instanceSlug":1512,"tags":["arrow","broken"],"parents":[],"genre":"pop","debut":"1991-12","playlists":[],"ranks":[],"artists":{"rod-stewart":true}}
+{
+  "title": "Broken Arrow",
+  "instanceSlug": 1512,
+  "tags": [
+    "arrow",
+    "broken"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "rod-stewart": true
+  },
+  "scores": [
+  ]
+}

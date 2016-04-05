@@ -1,1 +1,68 @@
-{"title":"Roni","instanceSlug":311,"tags":[],"parents":[],"genre":"soul","debut":"1989-02","playlists":[],"ranks":[12.8,4,1.1,1.25,1.4,1.6,1.85,2.2,2.55,3.25,4.3,5.7,7.45,9.55,12,14.8,17.95,21.45,25.3,29.5,34.05,38.95,44.2,49.8,55.75,62.05,68.7,75.7],"artists":[{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":true}],"debutRank":12.8,"peakRank":1.1,"duration":7,"score":26.89,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":93}
+{
+  "title": "Roni",
+  "instanceSlug": 311,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    12.8,
+    4,
+    1.1,
+    1.25,
+    1.4,
+    1.6,
+    1.85,
+    2.2
+  ],
+  "artists": [
+    {
+      "slug": "bobby-brown",
+      "title": "Bobby Brown",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.15,
+    0.537,
+    0.968,
+    0.925,
+    0.887,
+    0.843,
+    0.794,
+    0.737,
+    0.732,
+    0.722,
+    0.707,
+    0.687,
+    0.662,
+    0.632,
+    0.597,
+    0.557,
+    0.512,
+    0.462,
+    0.407,
+    0.347,
+    0.282,
+    0.212,
+    0.137,
+    0.057,
+    0
+  ],
+  "debutScore": 0.15,
+  "peakScore": 0.15,
+  "duration": 6.25,
+  "score": 13.553000000000003,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 110
+}

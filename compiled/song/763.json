@@ -1,1 +1,63 @@
-{"title":"Family Man","instanceSlug":763,"tags":[],"parents":[],"genre":"rock","debut":"1983-05","playlists":[],"ranks":[13.7,1.7,1.4,1.57,1.91,2.25,2.93,3.95,5.31,7.01,9.05,11.43,14.15,17.21,20.61,24.35,28.43,32.85,37.61,42.71,48.15,53.93,60.05,66.51],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"debutRank":13.7,"peakRank":1.4,"duration":6,"score":20.41,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":303}
+{
+  "title": "Family Man",
+  "instanceSlug": 763,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-05",
+  "playlists": [
+  ],
+  "ranks": [
+    13.7,
+    1.7,
+    1.4,
+    1.57,
+    1.91
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.127,
+    0.823,
+    0.887,
+    0.849,
+    0.784,
+    0.779,
+    0.769,
+    0.754,
+    0.734,
+    0.709,
+    0.679,
+    0.644,
+    0.604,
+    0.559,
+    0.509,
+    0.454,
+    0.394,
+    0.329,
+    0.259,
+    0.184,
+    0.104,
+    0.019,
+    0
+  ],
+  "debutScore": 0.127,
+  "peakScore": 0.127,
+  "duration": 5.75,
+  "score": 11.953,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 205
+}

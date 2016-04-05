@@ -1,1 +1,37 @@
-{"title":"The Power of Love","instanceSlug":1983,"tags":[],"parents":[],"genre":"rock","debut":"1985-07","playlists":[],"ranks":[16,10,6,4,3.4,2.9,2.5,2.75,3.21],"artists":{"huey-lewis-the-news":true}}
+{
+  "title": "The Power of Love",
+  "instanceSlug": 1983,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-07",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    6,
+    4,
+    3.4,
+    2.9,
+    2.5,
+    2.75,
+    3.21
+  ],
+  "artists": {
+    "huey-lewis-the-news": true
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.402,
+    0.537,
+    0.592,
+    0.645,
+    0.694,
+    0.662,
+    0.611
+  ]
+}

@@ -1,1 +1,30 @@
-{"title":"High on You","instanceSlug":2203,"tags":[],"parents":[],"genre":"rock","debut":"1985-02","playlists":[],"ranks":[],"artists":[{"slug":"survivor","title":"Survivor","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2782}
+{
+  "title": "High on You",
+  "instanceSlug": 2203,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "survivor",
+      "title": "Survivor",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2750
+}

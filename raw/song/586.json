@@ -2,11 +2,15 @@
   "title": "More than Words",
   "instanceSlug": 586,
   "tags": [
-    "more-than","#1","#1-hot-100"
+    "more-than",
+    "#1",
+    "#1-hot-100"
   ],
   "genre": "soft-rock",
   "debut": "1991-06",
-  "playlists": ["summer"],
+  "playlists": [
+    "summer"
+  ],
   "ranks": [
     17,
     5.3,
@@ -16,5 +20,12 @@
   ],
   "artists": {
     "extreme": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.444,
+    0.622,
+    0.607,
+    0.573
+  ]
 }

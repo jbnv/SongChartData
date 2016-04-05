@@ -1,1 +1,25 @@
-{"title":"I Know","instanceSlug":406,"tags":[],"parents":[],"genre":"pop","debut":"1995-05","playlists":[],"ranks":[14,2.25,2.37],"artists":{"dionne-farris":true}}
+{
+  "title": "I Know",
+  "instanceSlug": 406,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1995-05",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    2.25,
+    2.37
+  ],
+  "artists": {
+    "dionne-farris": true
+  },
+  "scores": [
+    0.12,
+    0.729,
+    0.712
+  ]
+}

@@ -1,1 +1,30 @@
-{"title":"Give It Up","instanceSlug":2323,"tags":[],"parents":[],"genre":"pop","debut":"1984-02","playlists":[],"ranks":[],"artists":[{"slug":"kc","title":"KC & the Sunshine Band","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2937}
+{
+  "title": "Give It Up",
+  "instanceSlug": 2323,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kc",
+      "title": "KC & the Sunshine Band",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2936
+}

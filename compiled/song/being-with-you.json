@@ -1,1 +1,69 @@
-{"title":"Being With You","instanceSlug":"being-with-you","tags":["#1","#1-r&b"],"genres":[{"slug":"soul","title":"Soul"},{"slug":"pop","title":"Pop"},{"slug":"adult-contemporary","title":"Adult Contemporary"}],"debut":"1981-04","playlists":[],"ranks":[19,12,7,6,5,5.4,5.9,6.4,7.4,8.9,10.9,13.4,16.4,19.9,23.9,28.4,33.4,38.9,44.9,51.4],"artists":[{"slug":"smokey-robinson","title":"Smokey Robinson","roleSlug":true}],"debutRank":19,"peakRank":5,"duration":5,"score":10.95,"source":null,"rank":887}
+{
+  "title": "Being With You",
+  "instanceSlug": "being-with-you",
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    },
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "debut": "1981-04",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    12,
+    7,
+    6,
+    5,
+    5.4,
+    5.9
+  ],
+  "artists": [
+    {
+      "slug": "smokey-robinson",
+      "title": "Smokey Robinson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.171,
+    0.351,
+    0.402,
+    0.463,
+    0.437,
+    0.408,
+    0.403,
+    0.393,
+    0.378,
+    0.358,
+    0.333,
+    0.303,
+    0.268,
+    0.228,
+    0.183,
+    0.133,
+    0.078,
+    0.018,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 5,
+  "score": 5.326,
+  "source": null,
+  "rank": 954
+}

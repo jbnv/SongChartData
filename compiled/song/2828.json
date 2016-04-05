@@ -1,1 +1,30 @@
-{"title":"Jamie's Cryin'","instanceSlug":2828,"tags":[],"parents":[],"genre":"metal","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true}],"genres":[{"slug":"metal","title":"Metal"}],"source":null,"rank":2014}
+{
+  "title": "Jamie's Cryin'",
+  "instanceSlug": 2828,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "van-halen",
+      "title": "Van Halen",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "metal",
+      "title": "Metal"
+    }
+  ],
+  "source": null,
+  "rank": 2014
+}

@@ -1,1 +1,30 @@
-{"title":"Bernadette","instanceSlug":2903,"tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2098}
+{
+  "title": "Bernadette",
+  "instanceSlug": 2903,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1967,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "four-tops",
+      "title": "Four Tops",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2098
+}

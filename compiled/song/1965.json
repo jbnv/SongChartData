@@ -1,1 +1,32 @@
-{"title":"Stay With Me","instanceSlug":1965,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":2014,"playlists":[],"ranks":[],"artists":[{"slug":"sam-smith","title":"Sam Smith","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2398}
+{
+  "title": "Stay With Me",
+  "instanceSlug": 1965,
+  "tags": [
+    "#1",
+    "#1-rdwt40-hot-adult"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2014,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "sam-smith",
+      "title": "Sam Smith",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2321
+}

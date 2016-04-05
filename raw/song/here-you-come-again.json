@@ -1,14 +1,22 @@
 {
   "title": "Here You Come Again",
   "instanceSlug": "here-you-come-again",
-  "tags": [],
-  "debut":"1977-11",
-  "playlists": [],
-  "ranks": [],
-  "genres":["country","pop"],
+  "tags": [
+  ],
+  "debut": "1977-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "genres": [
+    "country",
+    "pop"
+  ],
   "artists": {
     "dolly-parton": true,
     "barry-mann": "writer",
     "cynthia-weil": "writer"
-  }
+  },
+  "scores": [
+  ]
 }

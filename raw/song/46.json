@@ -1,1 +1,32 @@
-{"title":"Vogue","instanceSlug":46,"tags":["#1"],"parents":[],"genre":"pop","debut":1990,"ranks":[18.5,11.7,6.8,5.2,4.5,4.2,4.68],"artists":{"madonna":true}}
+{
+  "title": "Vogue",
+  "instanceSlug": 46,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1990,
+  "ranks": [
+    18.5,
+    11.7,
+    6.8,
+    5.2,
+    4.5,
+    4.2,
+    4.68
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.027,
+    0.18,
+    0.361,
+    0.45,
+    0.498,
+    0.521,
+    0.485
+  ]
+}

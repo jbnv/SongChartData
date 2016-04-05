@@ -1,1 +1,32 @@
-{"title":"Leave a Light On for Me","instanceSlug":1415,"tags":["leave","light"],"parents":[],"genre":"pop","debut":"1989-10","playlists":[],"ranks":[],"artists":[{"slug":"belinda-carlisle","title":"Belinda Carlisle","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1786}
+{
+  "title": "Leave a Light On for Me",
+  "instanceSlug": 1415,
+  "tags": [
+    "leave",
+    "light"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "belinda-carlisle",
+      "title": "Belinda Carlisle",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2890
+}

@@ -1,1 +1,20 @@
-{"title":"Rock On","instanceSlug":3047,"tags":[],"parents":[],"genre":"pop-rock","debut":"1989-04","playlists":["summer"],"ranks":[],"artists":{"michael-damian":true}}
+{
+  "title": "Rock On",
+  "instanceSlug": 3047,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop-rock",
+  "debut": "1989-04",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "michael-damian": true
+  },
+  "scores": [
+  ]
+}

@@ -1,10 +1,13 @@
 {
   "title": "Go Insane",
   "instanceSlug": 432,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1984-09",
-  "playlists": ["feb13"],
+  "playlists": [
+    "feb13"
+  ],
   "ranks": [
     17,
     4.7,
@@ -16,5 +19,14 @@
   ],
   "artists": {
     "lindsay-buckingham": true
-  }
+  },
+  "scores": [
+    0.055,
+    0.484,
+    0.708,
+    0.695,
+    0.675,
+    0.65,
+    0.617
+  ]
 }

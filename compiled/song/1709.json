@@ -1,1 +1,59 @@
-{"title":"Pink Houses","instanceSlug":1709,"tags":[],"parents":[],"genre":"rock","debut":"1984-01","playlists":[],"ranks":[20,14,11,10.3,8.7,8,9.2,10.4,12.8,16.4,21.2,27.2,34.4,42.8,52.4,63.2],"artists":[{"slug":"john-mellancamp","title":"John Mellencamp","roleSlug":true}],"debutRank":20,"peakRank":8,"duration":4,"score":5.48,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1307}
+{
+  "title": "Pink Houses",
+  "instanceSlug": 1709,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-01",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    11,
+    10.3,
+    8.7,
+    8,
+    9.2
+  ],
+  "artists": [
+    {
+      "slug": "john-mellancamp",
+      "title": "John Mellencamp",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.222,
+    0.278,
+    0.306,
+    0.26,
+    0.255,
+    0.245,
+    0.23,
+    0.21,
+    0.185,
+    0.155,
+    0.12,
+    0.08,
+    0.035,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.25,
+  "score": 2.902,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1324
+}

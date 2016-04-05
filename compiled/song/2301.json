@@ -1,1 +1,51 @@
-{"title":"How Am I Supposed To Live Without You","instanceSlug":2301,"tags":[],"parents":[],"genre":"pop","debut":"1983-09","playlists":[],"ranks":[25,20,17.5,16.1,15,16.4,17.8,20.6,24.8,30.4,37.4,45.8,55.6,66.8,79.4,93.4],"artists":[{"slug":"laura-branigan","title":"Laura Branigan","roleSlug":true}],"debutRank":25,"peakRank":15,"duration":4,"score":0.98,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1552}
+{
+  "title": "How Am I Supposed To Live Without You",
+  "instanceSlug": 2301,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    20,
+    17.5,
+    16.1,
+    15,
+    16.4
+  ],
+  "artists": [
+    {
+      "slug": "laura-branigan",
+      "title": "Laura Branigan",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.045,
+    0.073,
+    0.097,
+    0.067,
+    0.062,
+    0.052,
+    0.037,
+    0.017,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 2.5,
+  "score": 0.451,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1558
+}

@@ -1,1 +1,66 @@
-{"title":"Sleeping Bag","instanceSlug":1428,"tags":["sleep"],"parents":[],"genre":"rock","debut":"1985-11","playlists":[],"ranks":[15.5,10.5,6.5,5.8,5.4,5.2,5.6,6.1,6.9,7.7,9.3,11.7,14.9,18.9,23.7,29.3,35.7,42.9,50.9,59.7],"artists":[{"slug":"zz-top","title":"ZZ Top","roleSlug":true}],"debutRank":15.5,"peakRank":5.2,"duration":5,"score":12.11,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":812}
+{
+  "title": "Sleeping Bag",
+  "instanceSlug": 1428,
+  "tags": [
+    "sleep"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1985-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    10.5,
+    6.5,
+    5.8,
+    5.4,
+    5.2,
+    5.6,
+    6.1,
+    6.9
+  ],
+  "artists": [
+    {
+      "slug": "zz-top",
+      "title": "ZZ Top",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.086,
+    0.216,
+    0.376,
+    0.414,
+    0.437,
+    0.45,
+    0.425,
+    0.397,
+    0.356,
+    0.351,
+    0.341,
+    0.326,
+    0.306,
+    0.281,
+    0.251,
+    0.216,
+    0.176,
+    0.131,
+    0.081,
+    0.026,
+    0
+  ],
+  "debutScore": 0.086,
+  "peakScore": 0.086,
+  "duration": 5.25,
+  "score": 5.643000000000001,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 900
+}

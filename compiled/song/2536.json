@@ -1,1 +1,35 @@
-{"title":"Ain't Nothing Like the Real Thing","instanceSlug":2536,"tags":[],"parents":[],"genre":"soul","debut":1968,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true},{"slug":"tammi-terrell","title":"Tammi Terrell","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":1690}
+{
+  "title": "Ain't Nothing Like the Real Thing",
+  "instanceSlug": 2536,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": 1968,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "marvin-gaye",
+      "title": "Marvin Gaye",
+      "roleSlug": true
+    },
+    {
+      "slug": "tammi-terrell",
+      "title": "Tammi Terrell",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1690
+}

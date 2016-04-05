@@ -1,1 +1,61 @@
-{"title":"Whip It","instanceSlug":1262,"tags":[],"genre":"pop","debut":1980,"playlists":[],"ranks":[14,4.5,2.7,2.81,3,3.3,3.6,4.2,5.1,6.3,7.8,9.6,11.7,14.1,16.8,19.8,23.1,26.7,30.6,34.8,39.3,44.1,49.2,54.6],"artists":[{"slug":"devo","title":"Devo","roleSlug":true}],"debutRank":14,"peakRank":2.7,"duration":6,"score":18.12,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":413}
+{
+  "title": "Whip It",
+  "instanceSlug": 1262,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1980,
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    4.5,
+    2.7,
+    2.81,
+    3,
+    3.3
+  ],
+  "artists": [
+    {
+      "slug": "devo",
+      "title": "Devo",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.498,
+    0.668,
+    0.655,
+    0.633,
+    0.602,
+    0.597,
+    0.587,
+    0.572,
+    0.552,
+    0.527,
+    0.497,
+    0.462,
+    0.422,
+    0.377,
+    0.327,
+    0.272,
+    0.212,
+    0.147,
+    0.077,
+    0.002,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.5,
+  "score": 8.806000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 497
+}

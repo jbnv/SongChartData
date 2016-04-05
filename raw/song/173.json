@@ -1,1 +1,17 @@
-{"title":"Holiday","instanceSlug":173,"tags":[],"parents":[],"genre":"pop","debut":"1983-12","ranks":[],"artists":{"madonna":true}}
+{
+  "title": "Holiday",
+  "instanceSlug": 173,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-12",
+  "ranks": [
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+  ]
+}

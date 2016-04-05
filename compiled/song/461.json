@@ -1,1 +1,65 @@
-{"title":"Everything Your Heart Desires","instanceSlug":461,"tags":[],"parents":[],"genre":"pop","debut":"1988-04","playlists":[],"ranks":[15.7,9.8,6.8,5.3,4.5,4.1,4.25,4.75,5.25,6.25,7.75,9.75,12.25,15.25,18.75,22.75,27.25,32.25,37.75,43.75,50.25,57.25,64.75,72.75],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"debutRank":15.7,"peakRank":4.1,"duration":6,"score":14.48,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":642}
+{
+  "title": "Everything Your Heart Desires",
+  "instanceSlug": 461,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-04",
+  "playlists": [
+  ],
+  "ranks": [
+    15.7,
+    9.8,
+    6.8,
+    5.3,
+    4.5,
+    4.1,
+    4.25,
+    4.75
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.082,
+    0.239,
+    0.361,
+    0.444,
+    0.498,
+    0.529,
+    0.517,
+    0.48,
+    0.475,
+    0.465,
+    0.45,
+    0.43,
+    0.405,
+    0.375,
+    0.34,
+    0.3,
+    0.255,
+    0.205,
+    0.15,
+    0.09,
+    0.025,
+    0
+  ],
+  "debutScore": 0.082,
+  "peakScore": 0.082,
+  "duration": 5.5,
+  "score": 7.115,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 718
+}

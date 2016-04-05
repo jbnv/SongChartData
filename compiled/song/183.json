@@ -1,1 +1,64 @@
-{"title":"Cradle of Love","instanceSlug":183,"tags":["#1","#1-mainstream-rock","#2-hot-100"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"rock","debut":"1990-06","ranks":[20,14,11,9.2,8,8.5,9.35,10.2,11.9,14.45,17.85,22.1,27.2,33.15,39.95,47.6,56.1,65.45,75.65,86.7],"artists":[{"slug":"billy-idol","title":"Billy Idol","roleSlug":true}],"debutRank":20,"peakRank":8,"duration":5,"score":5.94,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1277}
+{
+  "title": "Cradle of Love",
+  "instanceSlug": 183,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock",
+    "#2-hot-100"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "rock",
+  "debut": "1990-06",
+  "ranks": [
+    20,
+    14,
+    11,
+    9.2,
+    8,
+    8.5,
+    9.35
+  ],
+  "artists": [
+    {
+      "slug": "billy-idol",
+      "title": "Billy Idol",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.26,
+    0.306,
+    0.286,
+    0.254,
+    0.249,
+    0.239,
+    0.224,
+    0.204,
+    0.179,
+    0.149,
+    0.114,
+    0.074,
+    0.029,
+    0
+  ],
+  "debutScore": 0.001,
+  "peakScore": 0.001,
+  "duration": 4.25,
+  "score": 2.888,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1326
+}

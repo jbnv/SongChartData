@@ -5,7 +5,8 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1987-09",
   "ranks": [
@@ -22,5 +23,14 @@
     "lindsay-buckingham": "member",
     "christine-mcvie": "lead",
     "stevie-nicks": "member"
-  }
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.506,
+    0.573,
+    0.622,
+    0.587
+  ]
 }

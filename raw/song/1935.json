@@ -1,1 +1,21 @@
-{"title":"All Around the World","instanceSlug":1935,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1990-02","playlists":[],"ranks":[],"artists":{"lisa-stansfield":true}}
+{
+  "title": "All Around the World",
+  "instanceSlug": 1935,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "lisa-stansfield": true
+  },
+  "scores": [
+  ]
+}

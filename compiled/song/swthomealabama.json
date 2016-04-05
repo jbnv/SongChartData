@@ -1,1 +1,25 @@
-{"title":"Sweet Home Alabama","instanceSlug":"swthomealabama","tags":[],"parents":[],"debut":"1970s","playlists":[],"ranks":[],"artists":[{"slug":"lynyrd-skynyrd","title":"Lynyrd Skynyrd","roleSlug":true}],"genres":[],"source":null,"rank":3110}
+{
+  "title": "Sweet Home Alabama",
+  "instanceSlug": "swthomealabama",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": "1970s",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "lynyrd-skynyrd",
+      "title": "Lynyrd Skynyrd",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 3114
+}

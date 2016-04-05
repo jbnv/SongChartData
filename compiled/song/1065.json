@@ -1,1 +1,65 @@
-{"title":"Atomic Dog","instanceSlug":1065,"tags":["dog"],"parents":[],"genre":"funk","debut":"1983-04","playlists":[],"ranks":[16.3,10.3,7.3,5.8,4.7,4.3,4.64,5.2,5.76,6.88,8.56,10.8,13.6,16.96,20.88,25.36,30.4,36,42.16,48.88,56.16,64,72.4,81.36],"artists":[{"slug":"george-clinton","title":"George Clinton","roleSlug":true}],"debutRank":16.3,"peakRank":4.3,"duration":6,"score":13.29,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":717}
+{
+  "title": "Atomic Dog",
+  "instanceSlug": 1065,
+  "tags": [
+    "dog"
+  ],
+  "parents": [
+  ],
+  "genre": "funk",
+  "debut": "1983-04",
+  "playlists": [
+  ],
+  "ranks": [
+    16.3,
+    10.3,
+    7.3,
+    5.8,
+    4.7,
+    4.3,
+    4.64,
+    5.2
+  ],
+  "artists": [
+    {
+      "slug": "george-clinton",
+      "title": "George Clinton",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.069,
+    0.222,
+    0.337,
+    0.414,
+    0.484,
+    0.513,
+    0.488,
+    0.45,
+    0.445,
+    0.435,
+    0.42,
+    0.4,
+    0.375,
+    0.345,
+    0.31,
+    0.27,
+    0.225,
+    0.175,
+    0.12,
+    0.06,
+    0
+  ],
+  "debutScore": 0.069,
+  "peakScore": 0.069,
+  "duration": 5.25,
+  "score": 6.5569999999999995,
+  "genres": [
+    {
+      "slug": "funk",
+      "title": "Funk"
+    }
+  ],
+  "source": null,
+  "rank": 796
+}

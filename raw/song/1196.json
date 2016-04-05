@@ -5,10 +5,12 @@
     "desert",
     "rose"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": 2000,
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     10,
     1,
@@ -18,5 +20,11 @@
   "artists": {
     "sting": true
   },
-  "note":"Project 6 weeks at #1."
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.232,
+    1,
+    1,
+    0.972
+  ]
 }

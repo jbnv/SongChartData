@@ -1,1 +1,68 @@
-{"title":"Dare to Fall in Love","instanceSlug":2288,"tags":[],"parents":[],"genre":"pop","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[16,9.6,5.9,4.4,3.4,3,3.5,4,5,6.5,8.5,11,14,17.5,21.5,26,31,36.5,42.5,49,56,63.5,71.5,80],"artists":[{"slug":"brent-bourgeois","title":"Brent Bourgeois","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":6,"score":15.23,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":585}
+{
+  "title": "Dare to Fall in Love",
+  "instanceSlug": 2288,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    16,
+    9.6,
+    5.9,
+    4.4,
+    3.4,
+    3,
+    3.5
+  ],
+  "artists": [
+    {
+      "slug": "brent-bourgeois",
+      "title": "Brent Bourgeois",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.246,
+    0.408,
+    0.506,
+    0.592,
+    0.633,
+    0.582,
+    0.577,
+    0.567,
+    0.552,
+    0.532,
+    0.507,
+    0.477,
+    0.442,
+    0.402,
+    0.357,
+    0.307,
+    0.252,
+    0.192,
+    0.127,
+    0.057,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 8.390000000000002,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 559
+}

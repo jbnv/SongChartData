@@ -1,11 +1,14 @@
 {
   "title": "Family Man",
   "instanceSlug": 763,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1983-05",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     13.7,
     1.7,
@@ -15,5 +18,12 @@
   ],
   "artists": {
     "hall-oates": true
-  }
+  },
+  "scores": [
+    0.127,
+    0.823,
+    0.887,
+    0.849,
+    0.784
+  ]
 }

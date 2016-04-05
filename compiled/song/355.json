@@ -1,1 +1,72 @@
-{"title":"Islands in the Stream","instanceSlug":355,"tags":["#1","#1-country","#1-hot-100"],"parents":[],"genre":"country","debut":"1983-09","playlists":[],"ranks":[16,9.5,6,4.5,3.6,3,3.39,3.78,4.56,5.73,7.29,9.24,11.58,14.31,17.43,20.94,24.84,29.13,33.81,38.88,44.34,50.19,56.43,63.06],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true},{"slug":"dolly-parton","title":"Dolly Parton","roleSlug":"feature"}],"debutRank":16,"peakRank":3,"duration":6,"score":16.31,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":514}
+{
+  "title": "Islands in the Stream",
+  "instanceSlug": 355,
+  "tags": [
+    "#1",
+    "#1-country",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9.5,
+    6,
+    4.5,
+    3.6,
+    3,
+    3.39
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    },
+    {
+      "slug": "dolly-parton",
+      "title": "Dolly Parton",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.075,
+    0.249,
+    0.402,
+    0.498,
+    0.573,
+    0.633,
+    0.593,
+    0.588,
+    0.578,
+    0.563,
+    0.543,
+    0.518,
+    0.488,
+    0.453,
+    0.413,
+    0.368,
+    0.318,
+    0.263,
+    0.203,
+    0.138,
+    0.068,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 8.525,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 538
+}

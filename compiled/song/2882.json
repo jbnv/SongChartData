@@ -1,1 +1,32 @@
-{"title":"Help Me","instanceSlug":2882,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"joni-mitchell","title":"Joni Mitchell","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":2074}
+{
+  "title": "Help Me",
+  "instanceSlug": 2882,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": 1974,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "joni-mitchell",
+      "title": "Joni Mitchell",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 2074
+}

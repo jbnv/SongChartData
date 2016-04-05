@@ -1,1 +1,45 @@
-{"title":"Overjoyed","instanceSlug":2145,"tags":["#1"],"parents":[],"genre":"adult-contemporary","debut":"1986-04","playlists":[],"ranks":[25,15,18,21,27,36,48,63],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":25,"peakRank":15,"duration":2,"score":0.4,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1572}
+{
+  "title": "Overjoyed",
+  "instanceSlug": 2145,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "ranks": [
+    25,
+    15,
+    18
+  ],
+  "artists": [
+    {
+      "slug": "stevie-wonder",
+      "title": "Stevie Wonder",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.036,
+    0.031,
+    0.021,
+    0.006,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.036,
+  "duration": 1.5,
+  "score": 0.191,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1574
+}

@@ -1,1 +1,61 @@
-{"title":"It's My Life","instanceSlug":1029,"tags":[],"genre":"hard-rock","debut":2000,"playlists":[],"ranks":[16,5.5,3.3,2.6,2.3,2.7,3.1,3.9,5.1,6.7,8.7,11.1,13.9,17.1,20.7,24.7,29.1,33.9,39.1,44.7,50.7,57.1,63.9,71.1],"artists":[{"slug":"bon-jovi","title":"Bon Jovi","roleSlug":true}],"debutRank":16,"peakRank":2.3,"duration":6,"score":17.48,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":440}
+{
+  "title": "It's My Life",
+  "instanceSlug": 1029,
+  "tags": [
+  ],
+  "genre": "hard-rock",
+  "debut": 2000,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    5.5,
+    3.3,
+    2.6,
+    2.3,
+    2.7
+  ],
+  "artists": [
+    {
+      "slug": "bon-jovi",
+      "title": "Bon Jovi",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.431,
+    0.602,
+    0.681,
+    0.722,
+    0.668,
+    0.663,
+    0.653,
+    0.638,
+    0.618,
+    0.593,
+    0.563,
+    0.528,
+    0.488,
+    0.443,
+    0.393,
+    0.338,
+    0.278,
+    0.213,
+    0.143,
+    0.068,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 9.799,
+  "genres": [
+    {
+      "slug": "hard-rock",
+      "title": "Hard Rock"
+    }
+  ],
+  "source": null,
+  "rank": 388
+}

@@ -1,1 +1,65 @@
-{"title":"The Girl I Used to Know","instanceSlug":179,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"pop","debut":"1990-08","ranks":[16,7,4,3.2,2.9,3.2,3.5,4.1,5,6.2,7.7,9.5,11.6,14,16.7,19.7,23,26.6,30.5,34.7,39.2,44,49.1,54.5],"artists":[{"slug":"brother-beyond","title":"Brother Beyond","roleSlug":true}],"debutRank":16,"peakRank":2.9,"duration":6,"score":17.23,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":455}
+{
+  "title": "The Girl I Used to Know",
+  "instanceSlug": 179,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "pop",
+  "debut": "1990-08",
+  "ranks": [
+    16,
+    7,
+    4,
+    3.2,
+    2.9,
+    3.2
+  ],
+  "artists": [
+    {
+      "slug": "brother-beyond",
+      "title": "Brother Beyond",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.351,
+    0.537,
+    0.612,
+    0.645,
+    0.612,
+    0.607,
+    0.597,
+    0.582,
+    0.562,
+    0.537,
+    0.507,
+    0.472,
+    0.432,
+    0.387,
+    0.337,
+    0.282,
+    0.222,
+    0.157,
+    0.087,
+    0.012,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.5,
+  "score": 8.612,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 518
+}

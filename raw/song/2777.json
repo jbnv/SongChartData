@@ -1,1 +1,30 @@
-{"title":"99","instanceSlug":2777,"tags":[],"parents":[],"genre":"pop","debut":"1980-02","playlists":["ballad"],"ranks":[13,2,1.4,1.5,1.72],"artists":{"toto":true}}
+{
+  "title": "99",
+  "instanceSlug": 2777,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-02",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    13,
+    2,
+    1.4,
+    1.5,
+    1.72
+  ],
+  "artists": {
+    "toto": true
+  },
+  "scores": [
+    0.145,
+    0.768,
+    0.887,
+    0.864,
+    0.819
+  ]
+}

@@ -1,1 +1,20 @@
-{"title":"Everlasting Love","instanceSlug":"everlasting-love-ge","tags":[],"parents":[],"genre":"dance-pop","debut":"1995-02","playlists":["remake"],"ranks":[],"artists":{"gloria-estefan":true}}
+{
+  "title": "Everlasting Love",
+  "instanceSlug": "everlasting-love-ge",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1995-02",
+  "playlists": [
+    "remake"
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "gloria-estefan": true
+  },
+  "scores": [
+  ]
+}

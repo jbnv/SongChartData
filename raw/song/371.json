@@ -1,1 +1,21 @@
-{"title":"Down Under","instanceSlug":371,"tags":["australia","places"],"parents":[],"genre":"pop","debut":1983,"playlists":[],"ranks":[],"artists":{"men-at-work":true}}
+{
+  "title": "Down Under",
+  "instanceSlug": 371,
+  "tags": [
+    "australia",
+    "places"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1983,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "men-at-work": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,74 @@
-{"title":"Hill Street Blues Theme","instanceSlug":914,"tags":[],"genre":"pop","debut":"1981-10","source":{"title":"Hill Street Blues","instanceSlug":"hill-street-blues","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[18,10,7.5,5.8,5,5.7,6.4,7.8,9.9,12.7,16.2,20.4,25.3,30.9,37.2,44.2,51.9,60.3,69.4,79.2],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":5,"score":9.15,"genres":[{"slug":"pop","title":"Pop"}],"rank":1013}
+{
+  "title": "Hill Street Blues Theme",
+  "instanceSlug": 914,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1981-10",
+  "source": {
+    "title": "Hill Street Blues",
+    "instanceSlug": "hill-street-blues",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "tv"
+  },
+  "playlists": [
+    {
+      "slug": "instrumental",
+      "title": "Instrumentals"
+    },
+    {
+      "slug": "tv-theme",
+      "title": "TV Show Themes"
+    }
+  ],
+  "ranks": [
+    18,
+    10,
+    7.5,
+    5.8,
+    5,
+    5.7
+  ],
+  "artists": [
+    {
+      "slug": "mike-post",
+      "title": "Mike Post",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.232,
+    0.328,
+    0.414,
+    0.463,
+    0.419,
+    0.414,
+    0.404,
+    0.389,
+    0.369,
+    0.344,
+    0.314,
+    0.279,
+    0.239,
+    0.194,
+    0.144,
+    0.089,
+    0.029,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.75,
+  "score": 5.1,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 1002
+}

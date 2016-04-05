@@ -1,1 +1,30 @@
-{"title":"Ben","instanceSlug":1227,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2071}
+{
+  "title": "Ben",
+  "instanceSlug": 1227,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "michael-jackson",
+      "title": "Michael Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2436
+}

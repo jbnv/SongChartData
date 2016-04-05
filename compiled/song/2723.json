@@ -1,1 +1,66 @@
-{"title":"Rapper's Delight","instanceSlug":2723,"tags":[],"parents":[],"genre":"rap","debut":"1980-01","playlists":[{"slug":"sample"}],"ranks":[15,9,6,4.7,3.9,3.5,4.2,4.9,6.3,8.4,11.2,14.7,18.9,23.8,29.4,35.7,42.7,50.4,58.8,67.9],"artists":[{"slug":"sugarhill-gang","title":"Sugarhill Gang","roleSlug":true}],"debutRank":15,"peakRank":3.5,"duration":5,"score":13.11,"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":732}
+{
+  "title": "Rapper's Delight",
+  "instanceSlug": 2723,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1980-01",
+  "playlists": [
+    {
+      "slug": "sample"
+    }
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.7,
+    3.9,
+    3.5,
+    4.2
+  ],
+  "artists": [
+    {
+      "slug": "sugarhill-gang",
+      "title": "Sugarhill Gang",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.484,
+    0.546,
+    0.582,
+    0.521,
+    0.516,
+    0.506,
+    0.491,
+    0.471,
+    0.446,
+    0.416,
+    0.381,
+    0.341,
+    0.296,
+    0.246,
+    0.191,
+    0.131,
+    0.066,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 7.397,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 683
+}

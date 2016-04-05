@@ -1,1 +1,68 @@
-{"title":"The Future's So Bright, I Gotta Wear Shades","instanceSlug":1021,"searchTerms":["future","bright","shades","sunglasses"],"tags":[],"genre":"rock","debut":"1986-12","playlists":[{"slug":"harmonica","title":"Songs with Harmonica Solos"}],"ranks":[11,2.5,1.9,2.21,2.52,3.14,4.07,5.31,6.86,8.72,10.89,13.37,16.16,19.26,22.67,26.39,30.42,34.76,39.41,44.37,49.64,55.22,61.11,67.31],"artists":[{"slug":"timbuk-3","title":"Timbuk 3","roleSlug":true}],"debutRank":11,"peakRank":1.9,"duration":6,"score":17.3,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":453}
+{
+  "title": "The Future's So Bright, I Gotta Wear Shades",
+  "instanceSlug": 1021,
+  "searchTerms": [
+    "future",
+    "bright",
+    "shades",
+    "sunglasses"
+  ],
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1986-12",
+  "playlists": [
+    {
+      "slug": "harmonica",
+      "title": "Songs with Harmonica Solos"
+    }
+  ],
+  "ranks": [
+    11,
+    2.5,
+    1.9,
+    2.21
+  ],
+  "artists": [
+    {
+      "slug": "timbuk-3",
+      "title": "Timbuk 3",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.2,
+    0.694,
+    0.786,
+    0.735,
+    0.73,
+    0.72,
+    0.705,
+    0.685,
+    0.66,
+    0.63,
+    0.595,
+    0.555,
+    0.51,
+    0.46,
+    0.405,
+    0.345,
+    0.28,
+    0.21,
+    0.135,
+    0.055,
+    0
+  ],
+  "debutScore": 0.2,
+  "peakScore": 0.2,
+  "duration": 5.25,
+  "score": 10.095,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 352
+}

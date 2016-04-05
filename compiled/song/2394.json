@@ -1,1 +1,70 @@
-{"title":"Leave a Tender Moment Alone","instanceSlug":2394,"tags":["#1","#1-adult-contemporary"],"source":{"title":"An Innocent Man","instanceSlug":"innocent-man","tags":["billy-joel"],"type":"album"},"genre":"pop","debut":"1984-08","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"harmonica","title":"Songs with Harmonica Solos"}],"ranks":[21,13,9,7,7.7,8.4,9.8,11.9,14.7,18.2,22.4,27.3,32.9,39.2,46.2,53.9],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":4,"score":5.77,"genres":[{"slug":"pop","title":"Pop"}],"rank":1288}
+{
+  "title": "Leave a Tender Moment Alone",
+  "instanceSlug": 2394,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "source": {
+    "title": "An Innocent Man",
+    "instanceSlug": "innocent-man",
+    "tags": [
+      "billy-joel"
+    ],
+    "type": "album"
+  },
+  "genre": "pop",
+  "debut": "1984-08",
+  "playlists": [
+    {
+      "slug": "ballad",
+      "title": "Ballads"
+    },
+    {
+      "slug": "harmonica",
+      "title": "Songs with Harmonica Solos"
+    }
+  ],
+  "ranks": [
+    21,
+    13,
+    9,
+    7,
+    7.7
+  ],
+  "artists": [
+    {
+      "slug": "billy-joel",
+      "title": "Billy Joel",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.145,
+    0.267,
+    0.351,
+    0.319,
+    0.314,
+    0.304,
+    0.289,
+    0.269,
+    0.244,
+    0.214,
+    0.179,
+    0.139,
+    0.094,
+    0.044,
+    0
+  ],
+  "debutScore": 0.145,
+  "peakScore": 0.145,
+  "duration": 3.75,
+  "score": 3.1719999999999997,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 1280
+}

@@ -1,1 +1,21 @@
-{"title":"Uncle Albert / Admiral Halsey","instanceSlug":2226,"tags":["#1"],"parents":[],"genre":"pop","debut":1971,"playlists":[],"ranks":[],"artists":{"paul-mccartney":true,"linda-mccartney":true}}
+{
+  "title": "Uncle Albert / Admiral Halsey",
+  "instanceSlug": 2226,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "paul-mccartney": true,
+    "linda-mccartney": true
+  },
+  "scores": [
+  ]
+}

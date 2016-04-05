@@ -1,1 +1,65 @@
-{"title":"Things Can Only Get Better","instanceSlug":320,"tags":[],"parents":[],"genre":"pop","debut":"1985-05","playlists":[],"ranks":[15,10,6.5,5.1,4.4,3.9,4.25,4.86,5.47,6.69,8.52,10.96,14.01,17.67,21.94,26.82,32.31,38.41,45.12,52.44],"artists":[{"slug":"howard-jones","title":"Howard Jones","roleSlug":true}],"debutRank":15,"peakRank":3.9,"duration":5,"score":13.97,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":674}
+{
+  "title": "Things Can Only Get Better",
+  "instanceSlug": 320,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    10,
+    6.5,
+    5.1,
+    4.4,
+    3.9,
+    4.25,
+    4.86
+  ],
+  "artists": [
+    {
+      "slug": "howard-jones",
+      "title": "Howard Jones",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.232,
+    0.376,
+    0.456,
+    0.506,
+    0.546,
+    0.517,
+    0.472,
+    0.467,
+    0.457,
+    0.442,
+    0.422,
+    0.397,
+    0.367,
+    0.332,
+    0.292,
+    0.247,
+    0.197,
+    0.142,
+    0.082,
+    0.017,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.5,
+  "score": 7.063000000000001,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 726
+}

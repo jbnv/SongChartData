@@ -1,7 +1,8 @@
 {
   "title": "Cool Night",
   "instanceSlug": 6,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": "1981-12",
   "ranks": [
@@ -12,5 +13,11 @@
   ],
   "artists": {
     "paul-davis": null
-  }
+  },
+  "scores": [
+    0.097,
+    0.582,
+    0.864,
+    0.841
+  ]
 }

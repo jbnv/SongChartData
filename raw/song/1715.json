@@ -1,1 +1,31 @@
-{"title":"Just Like You","instanceSlug":1715,"tags":[],"parents":[],"genre":"pop","debut":"1991-08","playlists":[],"ranks":[16,12,8,6,5.5,6.2],"artists":{"robbie-nevil":true}}
+{
+  "title": "Just Like You",
+  "instanceSlug": 1715,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    12,
+    8,
+    6,
+    5.5,
+    6.2
+  ],
+  "artists": {
+    "robbie-nevil": true
+  },
+  "scores": [
+    0.075,
+    0.171,
+    0.306,
+    0.402,
+    0.431,
+    0.391
+  ]
+}

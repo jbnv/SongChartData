@@ -1,1 +1,35 @@
-{"title":"Don't Fight It","instanceSlug":2030,"tags":[],"parents":[],"genre":"rock","debut":"1982-10","playlists":[],"ranks":[],"artists":[{"slug":"kenny-loggins","title":"Kenny Loggins","roleSlug":true},{"slug":"steve-perry","title":"Steve Perry","roleSlug":"feature"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2520}
+{
+  "title": "Don't Fight It",
+  "instanceSlug": 2030,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1982-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "kenny-loggins",
+      "title": "Kenny Loggins",
+      "roleSlug": true
+    },
+    {
+      "slug": "steve-perry",
+      "title": "Steve Perry",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2448
+}

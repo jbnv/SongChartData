@@ -1,1 +1,65 @@
-{"title":"Can't Stop","instanceSlug":156,"tags":["can't-stop"],"parents":[],"genre":"soul","debut":"1990-09","ranks":[12,6.4,3.4,1.8,1.89,2.6,3.31,4.73,6.86,9.7,13.25,17.51,22.48,28.16,34.55,41.65,49.46,57.98,67.21,77.15],"artists":[{"slug":"after-7","title":"After 7","roleSlug":true}],"debutRank":12,"peakRank":1.8,"duration":5,"score":15.86,"genres":[{"slug":"soul","title":"Soul"}],"playlists":[],"source":null,"rank":545}
+{
+  "title": "Can't Stop",
+  "instanceSlug": 156,
+  "tags": [
+    "can't-stop"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-09",
+  "ranks": [
+    12,
+    6.4,
+    3.4,
+    1.8,
+    1.89,
+    2.6
+  ],
+  "artists": [
+    {
+      "slug": "after-7",
+      "title": "After 7",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.171,
+    0.381,
+    0.592,
+    0.804,
+    0.787,
+    0.681,
+    0.676,
+    0.666,
+    0.651,
+    0.631,
+    0.606,
+    0.576,
+    0.541,
+    0.501,
+    0.456,
+    0.406,
+    0.351,
+    0.291,
+    0.226,
+    0.156,
+    0.081,
+    0.001,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 5.75,
+  "score": 10.232000000000001,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 336
+}

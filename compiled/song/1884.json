@@ -1,1 +1,56 @@
-{"title":"Spooky","instanceSlug":1884,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1979-09","playlists":[],"ranks":[16.5,5.2,5.4,6.2,7,8.6,11,14.2,18.2,23,28.6,35,42.2,50.2,59,68.6],"artists":[{"slug":"atlanta-rhythm-section","title":"Atlanta Rhythm Section","roleSlug":true}],"debutRank":16.5,"peakRank":5.2,"duration":4,"score":6.99,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1188}
+{
+  "title": "Spooky",
+  "instanceSlug": 1884,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1979-09",
+  "playlists": [
+  ],
+  "ranks": [
+    16.5,
+    5.2,
+    5.4,
+    6.2
+  ],
+  "artists": [
+    {
+      "slug": "atlanta-rhythm-section",
+      "title": "Atlanta Rhythm Section",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.065,
+    0.45,
+    0.437,
+    0.391,
+    0.386,
+    0.376,
+    0.361,
+    0.341,
+    0.316,
+    0.286,
+    0.251,
+    0.211,
+    0.166,
+    0.116,
+    0.061,
+    0.001,
+    0
+  ],
+  "debutScore": 0.065,
+  "peakScore": 0.065,
+  "duration": 4.25,
+  "score": 4.215,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 1127
+}

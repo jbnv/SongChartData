@@ -1,1 +1,61 @@
-{"title":"Heartlight","instanceSlug":674,"tags":["heart","light"],"parents":[],"genre":"pop","debut":"1982-09","playlists":[],"ranks":[17,9.6,5.4,3.7,5.1,7.1,9.1,13.1,19.1,27.1,37.1,49.1,63.1,79.1,97.1,117.1],"artists":[{"slug":"neil-diamond","title":"Neil Diamond","roleSlug":true}],"debutRank":17,"peakRank":3.7,"duration":4,"score":7.59,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1140}
+{
+  "title": "Heartlight",
+  "instanceSlug": 674,
+  "tags": [
+    "heart",
+    "light"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.6,
+    5.4,
+    3.7,
+    5.1,
+    7.1
+  ],
+  "artists": [
+    {
+      "slug": "neil-diamond",
+      "title": "Neil Diamond",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.246,
+    0.437,
+    0.563,
+    0.456,
+    0.346,
+    0.341,
+    0.331,
+    0.316,
+    0.296,
+    0.271,
+    0.241,
+    0.206,
+    0.166,
+    0.121,
+    0.071,
+    0.016,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 4.5,
+  "score": 4.478999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1080
+}

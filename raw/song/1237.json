@@ -1,16 +1,34 @@
 {
   "title": "The Long and Winding Road",
   "instanceSlug": 1237,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "pop",
   "debut": 1970,
-  "playlists": [],
-  "ranks": [22,15,12,10,9,8,8.6],
+  "playlists": [
+  ],
+  "ranks": [
+    22,
+    15,
+    12,
+    10,
+    9,
+    8,
+    8.6
+  ],
   "artists": {
     "beatles": true,
     "paul-mccartney": "lead",
     "john-lennon": "member",
     "george-harrison": "member",
     "ringo-starr": "member"
-  }
+  },
+  "scores": [
+    0.097,
+    0.171,
+    0.232,
+    0.267,
+    0.306,
+    0.282
+  ]
 }

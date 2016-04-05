@@ -1,1 +1,19 @@
-{"title":"Honky Cat","instanceSlug":2400,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Honky Cat",
+  "instanceSlug": 2400,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,35 @@
-{"title":"Rock and a Hard Place","instanceSlug":2571,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"rock","debut":"1989-12","playlists":[],"ranks":[15,9,6,4.5,3.9,3.5,4.7],"artists":{"rolling-stones":true}}
+{
+  "title": "Rock and a Hard Place",
+  "instanceSlug": 2571,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-12",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3.9,
+    3.5,
+    4.7
+  ],
+  "artists": {
+    "rolling-stones": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.546,
+    0.582,
+    0.484
+  ]
+}

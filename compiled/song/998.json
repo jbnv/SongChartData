@@ -1,1 +1,71 @@
-{"title":"Xanadu","instanceSlug":998,"tags":[],"parents":[],"genre":"orchestral-rock","debut":"1980-09","source":{"title":"Xanadu","instanceSlug":"xanadu","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[15.9,9.2,5.3,4.6,6.1,7.6,10.6,15.1,21.1,28.6,37.6,48.1,60.1,73.6,88.6,105.1],"artists":[{"slug":"olivia-newton-john","title":"Olivia Newton-John","roleSlug":true},{"slug":"electric-light-orchestra","title":"Electric Light Orchestra","roleSlug":true}],"debutRank":15.9,"peakRank":4.6,"duration":4,"score":6.91,"genres":[{"slug":"orchestral-rock","title":"Orchestral Rock"}],"rank":1194}
+{
+  "title": "Xanadu",
+  "instanceSlug": 998,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "orchestral-rock",
+  "debut": "1980-09",
+  "source": {
+    "title": "Xanadu",
+    "instanceSlug": "xanadu",
+    "tags": [
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    9.2,
+    5.3,
+    4.6,
+    6.1
+  ],
+  "artists": [
+    {
+      "slug": "olivia-newton-john",
+      "title": "Olivia Newton-John",
+      "roleSlug": true
+    },
+    {
+      "slug": "electric-light-orchestra",
+      "title": "Electric Light Orchestra",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.26,
+    0.444,
+    0.491,
+    0.397,
+    0.392,
+    0.382,
+    0.367,
+    0.347,
+    0.322,
+    0.292,
+    0.257,
+    0.217,
+    0.172,
+    0.122,
+    0.067,
+    0.007,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 4.5,
+  "score": 4.612999999999999,
+  "genres": [
+    {
+      "slug": "orchestral-rock",
+      "title": "Orchestral Rock"
+    }
+  ],
+  "rank": 1059
+}

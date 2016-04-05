@@ -6,12 +6,29 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": 1970,
-  "playlists": [],
-  "ranks": [18,11,6,4,4.2,4.5],
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    6,
+    4,
+    4.2,
+    4.5
+  ],
   "artists": {
     "jacksons": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.402,
+    0.537,
+    0.521,
+    0.498
+  ]
 }

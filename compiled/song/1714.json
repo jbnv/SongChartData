@@ -1,1 +1,63 @@
-{"title":"Daytime Friends","instanceSlug":1714,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":1977,"playlists":[],"ranks":[19,12,8,6,4,4.7,5.4,6.8,8.9,11.7,15.2,19.4,24.3,29.9,36.2,43.2,50.9,59.3,68.4,78.2],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"debutRank":19,"peakRank":4,"duration":5,"score":9.83,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":975}
+{
+  "title": "Daytime Friends",
+  "instanceSlug": 1714,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    12,
+    8,
+    6,
+    4,
+    4.7
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.171,
+    0.306,
+    0.402,
+    0.537,
+    0.484,
+    0.479,
+    0.469,
+    0.454,
+    0.434,
+    0.409,
+    0.379,
+    0.344,
+    0.304,
+    0.259,
+    0.209,
+    0.154,
+    0.094,
+    0.029,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 5,
+  "score": 5.9350000000000005,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 868
+}

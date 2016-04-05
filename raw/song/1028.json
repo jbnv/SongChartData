@@ -1,1 +1,49 @@
-{"title":"You Give Love a Bad Name","instanceSlug":1028,"tags":["bad","give","love","name","you","you-give"],"parents":[],"genre":"hard-rock","debut":"1986-10","playlists":[],"ranks":[18,13,11,9,7.5,6.5,5.5,5.9,6.3,6.7,7.4,8.9],"artists":{"bon-jovi":true}}
+{
+  "title": "You Give Love a Bad Name",
+  "instanceSlug": 1028,
+  "tags": [
+    "bad",
+    "give",
+    "love",
+    "name",
+    "you",
+    "you-give"
+  ],
+  "parents": [
+  ],
+  "genre": "hard-rock",
+  "debut": "1986-10",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    13,
+    11,
+    9,
+    7.5,
+    6.5,
+    5.5,
+    5.9,
+    6.3,
+    6.7,
+    7.4,
+    8.9
+  ],
+  "artists": {
+    "bon-jovi": true
+  },
+  "scores": [
+    0.036,
+    0.145,
+    0.2,
+    0.267,
+    0.328,
+    0.376,
+    0.431,
+    0.408,
+    0.386,
+    0.365,
+    0.332,
+    0.271
+  ]
+}

@@ -1,1 +1,30 @@
-{"title":"It's a Laugh","instanceSlug":2266,"tags":[],"parents":[],"genre":"pop","debut":"1978-10","playlists":[],"ranks":[],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2864}
+{
+  "title": "It's a Laugh",
+  "instanceSlug": 2266,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-10",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "hall-oates",
+      "title": "Hall & Oates",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2844
+}

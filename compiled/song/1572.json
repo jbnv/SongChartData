@@ -1,1 +1,33 @@
-{"title":"All This Time","instanceSlug":1572,"tags":["all","this","time"],"parents":[],"genre":"pop","debut":"1988-12","playlists":[],"ranks":[],"artists":[{"slug":"tiffany","title":"Tiffany","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1858}
+{
+  "title": "All This Time",
+  "instanceSlug": 1572,
+  "tags": [
+    "all",
+    "this",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tiffany",
+      "title": "Tiffany",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2955
+}

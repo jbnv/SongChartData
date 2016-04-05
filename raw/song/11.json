@@ -6,7 +6,7 @@
     "off",
     "wall"
   ],
-  "source":"off-the-wall",
+  "source": "off-the-wall",
   "genre": "pop",
   "debut": "1980-03",
   "ranks": [
@@ -20,5 +20,14 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.402,
+    0.633,
+    0.864,
+    1,
+    0.912,
+    0.823
+  ]
 }

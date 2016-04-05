@@ -1,1 +1,65 @@
-{"title":"Baby Baby Baby","instanceSlug":55,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"urban","debut":"1992-07","ranks":[10,2.2,2.25,2.4,2.65,2.92,3.19,3.73,4.54,5.62,6.97,8.59,10.48,12.64,15.07,17.77,20.74,23.98,27.49,31.27,35.32,39.64,44.23,49.09,54.22,59.62,65.29,71.23],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":10,"peakRank":2.2,"duration":7,"score":20.89,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":275}
+{
+  "title": "Baby Baby Baby",
+  "instanceSlug": 55,
+  "tags": [
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "urban",
+  "debut": "1992-07",
+  "ranks": [
+    10,
+    2.2,
+    2.25,
+    2.4,
+    2.65,
+    2.92
+  ],
+  "artists": [
+    {
+      "slug": "tlc",
+      "title": "TLC",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.232,
+    0.737,
+    0.729,
+    0.708,
+    0.675,
+    0.642,
+    0.637,
+    0.627,
+    0.612,
+    0.592,
+    0.567,
+    0.537,
+    0.502,
+    0.462,
+    0.417,
+    0.367,
+    0.312,
+    0.252,
+    0.187,
+    0.117,
+    0.042,
+    0
+  ],
+  "debutScore": 0.232,
+  "peakScore": 0.232,
+  "duration": 5.5,
+  "score": 9.953,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 367
+}

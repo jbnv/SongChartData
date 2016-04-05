@@ -1,8 +1,11 @@
 {
   "title": "Everybody Everybody",
   "instanceSlug": 178,
-  "tags": [],
-  "parents": ["summer"],
+  "tags": [
+  ],
+  "parents": [
+    "summer"
+  ],
   "genre": "dance",
   "debut": "1990-08",
   "ranks": [
@@ -17,5 +20,14 @@
   "artists": {
     "black-box": true
   },
-  "note":"Project 6 weeks at #1."
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.232,
+    0.968,
+    0.956,
+    0.925,
+    0.89,
+    0.856,
+    0.807
+  ]
 }

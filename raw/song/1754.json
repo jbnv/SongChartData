@@ -1,12 +1,17 @@
 {
   "title": "The Goonies 'R' Good Enough",
   "instanceSlug": 1754,
-  "tags": [],
-  "parents": [],
-  "genres": ["pop"],
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "pop"
+  ],
   "debut": "1985-06",
   "source": "goonies",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     10,
     1.9,
@@ -17,5 +22,13 @@
   ],
   "artists": {
     "cyndi-lauper": true
-  }
+  },
+  "scores": [
+    0.232,
+    0.786,
+    1,
+    0.983,
+    0.947,
+    0.902
+  ]
 }

@@ -5,13 +5,18 @@
     "#2",
     "#2-hot-100"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop",
   "debut": "1986-03",
-  "playlists": [],
-  "ranks": [],
+  "playlists": [
+  ],
+  "ranks": [
+  ],
   "artists": {
     "bangles": true,
-    "prince":"writer"
-  }
+    "prince": "writer"
+  },
+  "scores": [
+  ]
 }

@@ -1,1 +1,32 @@
-{"title":"Brown Sugar","instanceSlug":2562,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rock","debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"rolling-stones","title":"Rolling Stones","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1719}
+{
+  "title": "Brown Sugar",
+  "instanceSlug": 2562,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1971,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "rolling-stones",
+      "title": "Rolling Stones",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1719
+}

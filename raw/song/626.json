@@ -1,1 +1,33 @@
-{"title":"Only the Lonely","instanceSlug":626,"tags":[],"parents":[],"genre":true,"debut":"1982-06","playlists":[],"ranks":[17.5,9.9,5.6,3.6,5.1,7.1,9.8],"artists":{"motels":true}}
+{
+  "title": "Only the Lonely",
+  "instanceSlug": 626,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1982-06",
+  "playlists": [
+  ],
+  "ranks": [
+    17.5,
+    9.9,
+    5.6,
+    3.6,
+    5.1,
+    7.1,
+    9.8
+  ],
+  "artists": {
+    "motels": true
+  },
+  "scores": [
+    0.045,
+    0.235,
+    0.425,
+    0.573,
+    0.456,
+    0.346,
+    0.239
+  ]
+}

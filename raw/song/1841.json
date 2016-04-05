@@ -5,11 +5,34 @@
     "#1",
     "#1-r&b"
   ],
-  "genres": ["soul","urban","r&b"],
+  "genres": [
+    "soul",
+    "urban",
+    "r&b"
+  ],
   "debut": 1972,
-  "playlists": ["betrayal"],
-  "ranks": [18,10,5.45,3.75,3.45,3.82,4.5],
+  "playlists": [
+    "betrayal"
+  ],
+  "ranks": [
+    18,
+    10,
+    5.45,
+    3.75,
+    3.45,
+    3.82,
+    4.5
+  ],
   "artists": {
     "o-jays": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.232,
+    0.434,
+    0.559,
+    0.587,
+    0.553,
+    0.498
+  ]
 }

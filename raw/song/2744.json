@@ -1,15 +1,34 @@
 {
   "title": "Rhiannon (Will You Ever Win)",
   "instanceSlug": 2744,
-  "tags": [],
+  "tags": [
+  ],
   "genre": "rock",
   "debut": 1976,
-  "playlists": [],
-  "ranks": [20,15,10,9,8,8.5,9.2],
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    15,
+    10,
+    9,
+    8,
+    8.5,
+    9.2
+  ],
   "artists": {
     "fleetwood-mac": true,
     "stevie-nicks": "lead",
     "lindsay-buckingham": "member",
     "christine-mcvie": "member"
-  }
+  },
+  "scores": [
+    0.001,
+    0.097,
+    0.232,
+    0.267,
+    0.306,
+    0.286,
+    0.26
+  ]
 }

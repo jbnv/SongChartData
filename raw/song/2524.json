@@ -1,1 +1,33 @@
-{"title":"Uptown Funk","instanceSlug":2524,"tags":["#1"],"parents":[],"genre":"dance-pop","debut":2015,"playlists":[],"ranks":[15.5,5,3,2.2,2.3,2.59],"artists":{"mark-ronson":true,"bruno-mars":"feature"}}
+{
+  "title": "Uptown Funk",
+  "instanceSlug": 2524,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    5,
+    3,
+    2.2,
+    2.3,
+    2.59
+  ],
+  "artists": {
+    "mark-ronson": true,
+    "bruno-mars": "feature"
+  },
+  "scores": [
+    0.086,
+    0.463,
+    0.633,
+    0.737,
+    0.722,
+    0.682
+  ]
+}

@@ -1,1 +1,35 @@
-{"title":"Regulate","instanceSlug":3073,"tags":[],"parents":[],"genre":"rap","debut":"1994-05","playlists":[],"ranks":[],"artists":[{"slug":"warren-g","title":"Warren G","roleSlug":true},{"slug":"nate-dogg","title":"Nate Dogg","roleSlug":true}],"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":2288}
+{
+  "title": "Regulate",
+  "instanceSlug": 3073,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1994-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "warren-g",
+      "title": "Warren G",
+      "roleSlug": true
+    },
+    {
+      "slug": "nate-dogg",
+      "title": "Nate Dogg",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 2288
+}

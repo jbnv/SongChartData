@@ -1,1 +1,30 @@
-{"title":"Born to Run","instanceSlug":2674,"tags":[],"parents":[],"genre":"rock","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":1843}
+{
+  "title": "Born to Run",
+  "instanceSlug": 2674,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1975,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bruce-springsteen",
+      "title": "Bruce Springsteen",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 1843
+}

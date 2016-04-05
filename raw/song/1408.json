@@ -1,16 +1,24 @@
 {
   "title": "NYPD Blue Theme",
   "instanceSlug": 1408,
-  "tags": ["new-york",
+  "tags": [
+    "new-york",
     "police"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "pop-instrumental",
   "debut": 1994,
   "source": "nypd-blue",
-  "playlists": ["instrumental","tv-theme"],
-  "ranks": [],
+  "playlists": [
+    "instrumental",
+    "tv-theme"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "mike-post": true
-  }
+  },
+  "scores": [
+  ]
 }

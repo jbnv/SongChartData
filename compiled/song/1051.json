@@ -1,1 +1,67 @@
-{"title":"Out of Work","instanceSlug":1051,"tags":["out","work"],"parents":[],"genre":"pop","debut":"1982-07","playlists":[],"ranks":[16,13,10.5,9.5,9.6,9.7,10,10.5,11.2,12,13.3,15.6,17.9,22.5,29.4,38.6,50.1,63.9,80,98.4],"artists":[{"slug":"gary-u-s-bonds","title":"Gary U.S. Bonds","roleSlug":true}],"debutRank":16,"peakRank":9.5,"duration":5,"score":6.75,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1206}
+{
+  "title": "Out of Work",
+  "instanceSlug": 1051,
+  "tags": [
+    "out",
+    "work"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1982-07",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    13,
+    10.5,
+    9.5,
+    9.6,
+    9.7,
+    10,
+    10.5,
+    11.2,
+    12,
+    13.3,
+    15.6
+  ],
+  "artists": [
+    {
+      "slug": "gary-u-s-bonds",
+      "title": "Gary U.S. Bonds",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.145,
+    0.216,
+    0.249,
+    0.246,
+    0.242,
+    0.232,
+    0.216,
+    0.194,
+    0.171,
+    0.137,
+    0.084,
+    0.079,
+    0.069,
+    0.054,
+    0.034,
+    0.009,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.5,
+  "score": 2.452,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1375
+}

@@ -1,1 +1,66 @@
-{"title":"Through the Years","instanceSlug":2580,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"adult-contemporary","debut":"1982-02","playlists":[],"ranks":[14,7,4,3,2,2.47,2.94,3.88,5.29,7.17,9.52,12.34,15.63,19.39,23.62,28.32,33.49,39.13,45.24,51.82],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"debutRank":14,"peakRank":2,"duration":5,"score":16.78,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":481}
+{
+  "title": "Through the Years",
+  "instanceSlug": 2580,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1982-02",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    7,
+    4,
+    3,
+    2,
+    2.47
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.351,
+    0.537,
+    0.633,
+    0.768,
+    0.698,
+    0.693,
+    0.683,
+    0.668,
+    0.648,
+    0.623,
+    0.593,
+    0.558,
+    0.518,
+    0.473,
+    0.423,
+    0.368,
+    0.308,
+    0.243,
+    0.173,
+    0.098,
+    0.018,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 10.195000000000002,
+  "genres": [
+    {
+      "slug": "adult-contemporary",
+      "title": "Adult Contemporary"
+    }
+  ],
+  "source": null,
+  "rank": 339
+}

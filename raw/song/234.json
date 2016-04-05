@@ -1,1 +1,35 @@
-{"title":"Touch of Gray","instanceSlug":234,"tags":["gray","touch"],"parents":[],"genre":true,"debut":"1987-08","ranks":[19.5,11.8,8.2,6.9,6.3,6.6,7.2,8.9],"artists":{"grateful-dead":true}}
+{
+  "title": "Touch of Gray",
+  "instanceSlug": 234,
+  "tags": [
+    "gray",
+    "touch"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": "1987-08",
+  "ranks": [
+    19.5,
+    11.8,
+    8.2,
+    6.9,
+    6.3,
+    6.6,
+    7.2,
+    8.9
+  ],
+  "artists": {
+    "grateful-dead": true
+  },
+  "scores": [
+    0.009,
+    0.177,
+    0.298,
+    0.356,
+    0.386,
+    0.37,
+    0.341,
+    0.271
+  ]
+}

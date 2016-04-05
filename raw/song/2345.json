@@ -1,1 +1,19 @@
-{"title":"Alright","instanceSlug":2345,"tags":[],"parents":[],"genre":"dance-pop","debut":"1990-04","playlists":[],"ranks":[],"artists":{"janet-jackson":true}}
+{
+  "title": "Alright",
+  "instanceSlug": 2345,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1990-04",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "janet-jackson": true
+  },
+  "scores": [
+  ]
+}

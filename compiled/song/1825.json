@@ -1,1 +1,56 @@
-{"title":"You Don't Know How It Feels","instanceSlug":1825,"tags":[],"parents":[],"genre":"pop","playlists":[],"ranks":[24,19,15,13,11,10.5,11.2,12.9,17,21.1,29.3,41.6,58,78.5,103.1,131.8],"artists":[{"slug":"tom-petty","title":"Tom Petty","roleSlug":true}],"debutRank":24,"peakRank":10.5,"duration":4,"score":3.23,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1442}
+{
+  "title": "You Don't Know How It Feels",
+  "instanceSlug": 1825,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    19,
+    15,
+    13,
+    11,
+    10.5,
+    11.2,
+    12.9,
+    17
+  ],
+  "artists": [
+    {
+      "slug": "tom-petty",
+      "title": "Tom Petty",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.018,
+    0.097,
+    0.145,
+    0.2,
+    0.216,
+    0.194,
+    0.147,
+    0.055,
+    0.05,
+    0.04,
+    0.025,
+    0.005,
+    0
+  ],
+  "debutScore": 0.018,
+  "peakScore": 0.018,
+  "duration": 3.25,
+  "score": 1.192,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1497
+}

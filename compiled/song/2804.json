@@ -1,1 +1,67 @@
-{"title":"Sittin' in the Lap of Luxury","instanceSlug":2804,"tags":[],"parents":[],"genre":"pop","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17,10,5,3.5,3.6,3.9,4.5,5.1,6.3,8.1,10.5,13.5,17.1,21.3,26.1,31.5,37.5,44.1,51.3,59.1],"artists":[{"slug":"louie-louie","title":"Louie Louie","roleSlug":true}],"debutRank":17,"peakRank":3.5,"duration":5,"score":13.5,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":703}
+{
+  "title": "Sittin' in the Lap of Luxury",
+  "instanceSlug": 2804,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-06",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    17,
+    10,
+    5,
+    3.5,
+    3.6,
+    3.9,
+    4.5
+  ],
+  "artists": [
+    {
+      "slug": "louie-louie",
+      "title": "Louie Louie",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.055,
+    0.232,
+    0.463,
+    0.582,
+    0.573,
+    0.546,
+    0.498,
+    0.493,
+    0.483,
+    0.468,
+    0.448,
+    0.423,
+    0.393,
+    0.358,
+    0.318,
+    0.273,
+    0.223,
+    0.168,
+    0.108,
+    0.043,
+    0
+  ],
+  "debutScore": 0.055,
+  "peakScore": 0.055,
+  "duration": 5.25,
+  "score": 7.147999999999999,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 710
+}

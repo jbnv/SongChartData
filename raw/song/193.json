@@ -1,1 +1,19 @@
-{"title":"I Don't Have the Heart","instanceSlug":193,"tags":["#1","#1-hot-100"],"parents":[],"genre":"soul","debut":"1990-09","ranks":[],"artists":{"james-ingram":true}}
+{
+  "title": "I Don't Have the Heart",
+  "instanceSlug": 193,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1990-09",
+  "ranks": [
+  ],
+  "artists": {
+    "james-ingram": true
+  },
+  "scores": [
+  ]
+}

@@ -1,1 +1,53 @@
-{"title":"There Must Be an Angel","instanceSlug":984,"tags":[],"parents":[],"genre":"pop","debut":"1985-07","playlists":[],"ranks":[17.9,10.6,6.8,9.8,12.8,18.8,27.8,39.8,54.8,72.8,93.8,117.8],"artists":[{"slug":"eurythmics","title":"Eurythmics","roleSlug":true}],"debutRank":17.9,"peakRank":6.8,"duration":3,"score":3.07,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1453}
+{
+  "title": "There Must Be an Angel",
+  "instanceSlug": 984,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-07",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    6.8,
+    9.8
+  ],
+  "artists": [
+    {
+      "slug": "eurythmics",
+      "title": "Eurythmics",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.361,
+    0.239,
+    0.234,
+    0.224,
+    0.209,
+    0.189,
+    0.164,
+    0.134,
+    0.099,
+    0.059,
+    0.014,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.5,
+  "score": 2.177,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1403
+}

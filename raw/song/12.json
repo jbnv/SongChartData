@@ -1,9 +1,13 @@
 {
   "title": "Thriller",
   "instanceSlug": 12,
-  "tags": ["album-title"],
-  "source":"thriller",
-  "playlists": ["halloween"],
+  "tags": [
+    "album-title"
+  ],
+  "source": "thriller",
+  "playlists": [
+    "halloween"
+  ],
   "genre": "dance",
   "debut": "1984-02",
   "ranks": [
@@ -15,5 +19,12 @@
   ],
   "artists": {
     "michael-jackson": true
-  }
+  },
+  "scores": [
+    0.171,
+    0.37,
+    0.563,
+    0.768,
+    0.697
+  ]
 }

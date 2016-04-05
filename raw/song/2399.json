@@ -1,1 +1,19 @@
-{"title":"Rocket Man","instanceSlug":2399,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":{"elton-john":true}}
+{
+  "title": "Rocket Man",
+  "instanceSlug": 2399,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+  ]
+}

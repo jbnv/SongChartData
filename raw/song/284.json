@@ -1,11 +1,30 @@
 {
   "title": "Heartbeat",
   "instanceSlug": 284,
-  "tags": ["heart"],
-  "playlists": ["summer"],
+  "tags": [
+    "heart"
+  ],
+  "playlists": [
+    "summer"
+  ],
   "debut": "1986-08",
-  "ranks": [18,11,9,8,7.5,8.4],
+  "ranks": [
+    18,
+    11,
+    9,
+    8,
+    7.5,
+    8.4
+  ],
   "artists": {
     "don-johnson": true
-  }
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.267,
+    0.306,
+    0.328,
+    0.29
+  ]
 }

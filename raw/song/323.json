@@ -4,8 +4,12 @@
   "tags": [
     "your-love"
   ],
-  "playlists": ["remake","summer"],
-  "parents": [],
+  "playlists": [
+    "remake",
+    "summer"
+  ],
+  "parents": [
+  ],
   "genre": "dance",
   "debut": "1995-06",
   "ranks": [
@@ -15,5 +19,10 @@
   ],
   "artists": {
     "real-mccoy": true
-  }
+  },
+  "scores": [
+    0.232,
+    1,
+    0.972
+  ]
 }

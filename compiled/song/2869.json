@@ -1,1 +1,40 @@
-{"title":"Nobody Does It Better","instanceSlug":2869,"tags":["#1","#1-adult-contemporary","#2-hot-100"],"genre":"pop","debut":1977,"source":{"title":"The Spy Who Loved Me","instanceSlug":"spy-who-loved-me","tags":["james-bond"],"parents":[],"type":"movie"},"playlists":[],"ranks":[],"artists":[{"slug":"carly-simon","title":"Carly Simon","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":2059}
+{
+  "title": "Nobody Does It Better",
+  "instanceSlug": 2869,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#2-hot-100"
+  ],
+  "genre": "pop",
+  "debut": 1977,
+  "source": {
+    "title": "The Spy Who Loved Me",
+    "instanceSlug": "spy-who-loved-me",
+    "tags": [
+      "james-bond"
+    ],
+    "parents": [
+    ],
+    "type": "movie"
+  },
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "carly-simon",
+      "title": "Carly Simon",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "rank": 2059
+}

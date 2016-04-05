@@ -1,1 +1,52 @@
-{"title":"O.P.P.","instanceSlug":946,"tags":[],"parents":[],"genre":"rap","debut":"1991-10","playlists":[],"ranks":[17.9,10.6,7.4,10.8,14.2,21,31.2,44.8,61.8,82.2,106,133.2],"artists":[{"slug":"naughty-by-nature","title":"Naughty by Nature","roleSlug":true}],"debutRank":17.9,"peakRank":7.4,"duration":3,"score":2.72,"genres":[{"slug":"rap","title":"Rap"}],"source":null,"rank":1477}
+{
+  "title": "O.P.P.",
+  "instanceSlug": 946,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rap",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.4,
+    10.8
+  ],
+  "artists": [
+    {
+      "slug": "naughty-by-nature",
+      "title": "Naughty by Nature",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.038,
+    0.213,
+    0.332,
+    0.206,
+    0.201,
+    0.191,
+    0.176,
+    0.156,
+    0.131,
+    0.101,
+    0.066,
+    0.026,
+    0
+  ],
+  "debutScore": 0.038,
+  "peakScore": 0.038,
+  "duration": 3.25,
+  "score": 1.837,
+  "genres": [
+    {
+      "slug": "rap",
+      "title": "Rap"
+    }
+  ],
+  "source": null,
+  "rank": 1432
+}

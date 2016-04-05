@@ -1,1 +1,45 @@
-{"title":"Wishing Well","instanceSlug":128,"tags":["well","wish"],"parents":[],"genre":true,"debut":1988,"ranks":[19.9,12,32.4,88.3,241,393.7,699.1,1157.2],"artists":[{"slug":"terrence-trent-d-arby","title":"Terrence Trent D'Arby","roleSlug":true}],"debutRank":19.9,"peakRank":12,"duration":2,"score":0.52,"genres":[{"slug":true}],"playlists":[],"source":null,"rank":1567}
+{
+  "title": "Wishing Well",
+  "instanceSlug": 128,
+  "tags": [
+    "well",
+    "wish"
+  ],
+  "parents": [
+  ],
+  "genre": true,
+  "debut": 1988,
+  "ranks": [
+    19.9,
+    12,
+    32.4,
+    88.3,
+    241
+  ],
+  "artists": [
+    {
+      "slug": "terrence-trent-d-arby",
+      "title": "Terrence Trent D'Arby",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.003,
+    0.171,
+    0.003,
+    0
+  ],
+  "debutScore": 0.003,
+  "peakScore": 0.003,
+  "duration": 1,
+  "score": 0.17700000000000002,
+  "genres": [
+    {
+      "slug": true
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 1575
+}

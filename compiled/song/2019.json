@@ -1,1 +1,65 @@
-{"title":"Lean On Me","instanceSlug":2019,"tags":[],"parents":[],"genre":"hip-hop","debut":"1987-03","playlists":[],"ranks":[14,5,2.9,2.1,2.3,2.59,3,3.41,4.23,5.46,7.1,9.15,11.61,14.48,17.76,21.45,25.55,30.06,34.98,40.31,46.05,52.2,58.76,65.73],"artists":[{"slug":"club-nouveau","title":"Club Nouveau","roleSlug":true}],"debutRank":14,"peakRank":2.1,"duration":6,"score":19.52,"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":346}
+{
+  "title": "Lean On Me",
+  "instanceSlug": 2019,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "hip-hop",
+  "debut": "1987-03",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    5,
+    2.9,
+    2.1,
+    2.3,
+    2.59,
+    3
+  ],
+  "artists": [
+    {
+      "slug": "club-nouveau",
+      "title": "Club Nouveau",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.12,
+    0.463,
+    0.645,
+    0.752,
+    0.722,
+    0.682,
+    0.633,
+    0.628,
+    0.618,
+    0.603,
+    0.583,
+    0.558,
+    0.528,
+    0.493,
+    0.453,
+    0.408,
+    0.358,
+    0.303,
+    0.243,
+    0.178,
+    0.108,
+    0.033,
+    0
+  ],
+  "debutScore": 0.12,
+  "peakScore": 0.12,
+  "duration": 5.75,
+  "score": 10.112000000000002,
+  "genres": [
+    {
+      "slug": "hip-hop",
+      "title": "Hip Hop"
+    }
+  ],
+  "source": null,
+  "rank": 350
+}

@@ -1,1 +1,21 @@
-{"title":"I Will Survive","instanceSlug":2543,"tags":["#1","#1-hot-100"],"parents":[],"genre":"disco","debut":"1979-02","playlists":[],"ranks":[],"artists":{"gloria-gaynor":true}}
+{
+  "title": "I Will Survive",
+  "instanceSlug": 2543,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": "1979-02",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "gloria-gaynor": true
+  },
+  "scores": [
+  ]
+}

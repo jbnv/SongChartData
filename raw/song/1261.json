@@ -1,1 +1,27 @@
-{"title":"You Make My Dreams","instanceSlug":1261,"tags":[],"parents":[],"genre":"rock","debut":"1981-06","playlists":[],"ranks":[10.5,2.5,1,1.115],"artists":{"hall-oates":true}}
+{
+  "title": "You Make My Dreams",
+  "instanceSlug": 1261,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-06",
+  "playlists": [
+  ],
+  "ranks": [
+    10.5,
+    2.5,
+    1,
+    1.115
+  ],
+  "artists": {
+    "hall-oates": true
+  },
+  "scores": [
+    0.216,
+    0.694,
+    1,
+    0.963
+  ]
+}

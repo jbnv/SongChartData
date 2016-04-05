@@ -1,1 +1,30 @@
-{"title":"That Don't Impress Me Much","instanceSlug":101,"tags":[],"parents":[],"genre":"pop","debut":"1999-05","ranks":[],"artists":[{"slug":"shania-twain","title":"Shania Twain","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":3020}
+{
+  "title": "That Don't Impress Me Much",
+  "instanceSlug": 101,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1999-05",
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "shania-twain",
+      "title": "Shania Twain",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "playlists": [
+  ],
+  "source": null,
+  "rank": 3045
+}

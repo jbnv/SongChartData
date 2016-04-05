@@ -1,11 +1,13 @@
 {
   "title": "Take Me With U",
   "instanceSlug": 1731,
-  "tags": [],
+  "tags": [
+  ],
   "source": "purple-rain",
   "genre": "pop",
   "debut": "1985-03",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     16,
     4.2,
@@ -16,5 +18,12 @@
   "artists": {
     "prince": true,
     "apollonia": "backup"
-  }
+  },
+  "scores": [
+    0.075,
+    0.521,
+    0.737,
+    0.716,
+    0.682
+  ]
 }

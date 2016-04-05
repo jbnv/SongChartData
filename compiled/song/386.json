@@ -1,1 +1,33 @@
-{"title":"Roxanne","instanceSlug":386,"tags":[],"parents":[],"genre":"rock","debut":"1979-04","playlists":[{"slug":"women"}],"ranks":[],"artists":[{"slug":"police","title":"Police, The","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2376}
+{
+  "title": "Roxanne",
+  "instanceSlug": 386,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1979-04",
+  "playlists": [
+    {
+      "slug": "women"
+    }
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "police",
+      "title": "Police, The",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2376
+}

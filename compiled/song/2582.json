@@ -1,1 +1,76 @@
-{"title":"California Love","instanceSlug":2582,"tags":[],"parents":[],"genre":"urban","debut":"1996-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,9,6,4.5,3,3.7,4.4,5.8,7.9,10.7,14.2,18.4,23.3,28.9,35.2,42.2,49.9,58.3,67.4,77.2],"artists":[{"slug":"2-pac","title":"2 Pac","roleSlug":true},{"slug":"dr-dre","title":"Dr. Dre","roleSlug":"feature"},{"slug":"roger","title":"Roger (Roger Troutman)","roleSlug":"feature"}],"debutRank":15,"peakRank":3,"duration":5,"score":12.15,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":808}
+{
+  "title": "California Love",
+  "instanceSlug": 2582,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1996-07",
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.5,
+    3,
+    3.7
+  ],
+  "artists": [
+    {
+      "slug": "2-pac",
+      "title": "2 Pac",
+      "roleSlug": true
+    },
+    {
+      "slug": "dr-dre",
+      "title": "Dr. Dre",
+      "roleSlug": "feature"
+    },
+    {
+      "slug": "roger",
+      "title": "Roger (Roger Troutman)",
+      "roleSlug": "feature"
+    }
+  ],
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.498,
+    0.633,
+    0.563,
+    0.558,
+    0.548,
+    0.533,
+    0.513,
+    0.488,
+    0.458,
+    0.423,
+    0.383,
+    0.338,
+    0.288,
+    0.233,
+    0.173,
+    0.108,
+    0.038,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 5.25,
+  "score": 7.542,
+  "genres": [
+    {
+      "slug": "urban",
+      "title": "Urban / R&B"
+    }
+  ],
+  "source": null,
+  "rank": 668
+}

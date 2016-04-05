@@ -1,1 +1,33 @@
-{"title":"Giving You the Benefit","instanceSlug":186,"tags":["#1","#1-r&b"],"parents":[],"genre":"pop","debut":"1990-09","ranks":[10,2.8,1.9,1.7,1.65,1.81,2.2],"artists":{"pebbles":true}}
+{
+  "title": "Giving You the Benefit",
+  "instanceSlug": 186,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-09",
+  "ranks": [
+    10,
+    2.8,
+    1.9,
+    1.7,
+    1.65,
+    1.81,
+    2.2
+  ],
+  "artists": {
+    "pebbles": true
+  },
+  "scores": [
+    0.232,
+    0.656,
+    0.786,
+    0.823,
+    0.833,
+    0.802,
+    0.737
+  ]
+}

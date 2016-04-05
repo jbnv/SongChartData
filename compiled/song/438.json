@@ -1,1 +1,66 @@
-{"title":"Dynamite","instanceSlug":438,"tags":[],"parents":[],"genre":"dance-pop","debut":"1984-08","playlists":[],"ranks":[16,9.5,6.1,4.5,3.5,3,3.28,3.74,4.2,5.12,6.5,8.34,10.64,13.4,16.62,20.3,24.44,29.04,34.1,39.62,45.6,52.04,58.94,66.3],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":6,"score":16.97,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":471}
+{
+  "title": "Dynamite",
+  "instanceSlug": 438,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1984-08",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9.5,
+    6.1,
+    4.5,
+    3.5,
+    3,
+    3.28,
+    3.74
+  ],
+  "artists": [
+    {
+      "slug": "jermaine-jackson",
+      "title": "Jermaine Jackson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.249,
+    0.397,
+    0.498,
+    0.582,
+    0.633,
+    0.604,
+    0.56,
+    0.555,
+    0.545,
+    0.53,
+    0.51,
+    0.485,
+    0.455,
+    0.42,
+    0.38,
+    0.335,
+    0.285,
+    0.23,
+    0.17,
+    0.105,
+    0.035,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.75,
+  "score": 8.638000000000002,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 515
+}

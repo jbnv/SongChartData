@@ -1,1 +1,55 @@
-{"title":"She Believes in Me","instanceSlug":1546,"tags":["#1","#1-adult-contemporary","#1-country"],"parents":[],"genre":"country","debut":"1979-05","playlists":[],"ranks":[21,15,12,9,12.2,15.4,21.8,31.4,44.2,60.2,79.4,101.8],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"debutRank":21,"peakRank":9,"duration":3,"score":2.37,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1491}
+{
+  "title": "She Believes in Me",
+  "instanceSlug": 1546,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1979-05",
+  "playlists": [
+  ],
+  "ranks": [
+    21,
+    15,
+    12,
+    9,
+    12.2
+  ],
+  "artists": [
+    {
+      "slug": "kenny-rogers",
+      "title": "Kenny Rogers",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.097,
+    0.171,
+    0.267,
+    0.166,
+    0.161,
+    0.151,
+    0.136,
+    0.116,
+    0.091,
+    0.061,
+    0.026,
+    0
+  ],
+  "debutScore": 0.097,
+  "peakScore": 0.097,
+  "duration": 3,
+  "score": 1.443,
+  "genres": [
+    {
+      "slug": "country",
+      "title": "Country"
+    }
+  ],
+  "source": null,
+  "rank": 1472
+}

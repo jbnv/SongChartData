@@ -1,1 +1,56 @@
-{"title":"Heartbeat","instanceSlug":284,"tags":["heart"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"debut":"1986-08","ranks":[18,11,9,8,7.5,8.4,9.3,11.1,13.8,17.4,21.9,27.3,33.6,40.8,48.9,57.9],"artists":[{"slug":"don-johnson","title":"Don Johnson","roleSlug":true}],"debutRank":18,"peakRank":7.5,"duration":4,"score":6.17,"genres":[],"source":null,"rank":1262}
+{
+  "title": "Heartbeat",
+  "instanceSlug": 284,
+  "tags": [
+    "heart"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "debut": "1986-08",
+  "ranks": [
+    18,
+    11,
+    9,
+    8,
+    7.5,
+    8.4
+  ],
+  "artists": [
+    {
+      "slug": "don-johnson",
+      "title": "Don Johnson",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.2,
+    0.267,
+    0.306,
+    0.328,
+    0.29,
+    0.285,
+    0.275,
+    0.26,
+    0.24,
+    0.215,
+    0.185,
+    0.15,
+    0.11,
+    0.065,
+    0.015,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 4.25,
+  "score": 3.227,
+  "genres": [
+  ],
+  "source": null,
+  "rank": 1273
+}

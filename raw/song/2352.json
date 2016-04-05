@@ -1,1 +1,21 @@
-{"title":"Doesn't Really Matter","instanceSlug":2352,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"2000-07","playlists":[],"ranks":[],"artists":{"janet-jackson":true}}
+{
+  "title": "Doesn't Really Matter",
+  "instanceSlug": 2352,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000-07",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "janet-jackson": true
+  },
+  "scores": [
+  ]
+}

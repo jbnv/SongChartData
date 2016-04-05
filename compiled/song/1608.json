@@ -1,1 +1,33 @@
-{"title":"My Love","instanceSlug":1608,"tags":["#1","#1-adult-contemporary","my-love"],"parents":[],"genre":"soul","debut":"1983-05","playlists":[],"ranks":[],"artists":[{"slug":"lionel-richie","title":"Lionel Richie","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2275}
+{
+  "title": "My Love",
+  "instanceSlug": 1608,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "my-love"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1983-05",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "lionel-richie",
+      "title": "Lionel Richie",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 2273
+}

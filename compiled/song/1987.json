@@ -1,1 +1,52 @@
-{"title":"Perfect World","instanceSlug":1987,"tags":[],"parents":[],"genre":"pop","debut":"1988-08","playlists":[],"ranks":[24,18,15,12,13.3,14.9,16.5,19.7,24.5,30.9,38.9,48.5,59.7,72.5,86.9,102.9],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"debutRank":24,"peakRank":12,"duration":4,"score":1.84,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1518}
+{
+  "title": "Perfect World",
+  "instanceSlug": 1987,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-08",
+  "playlists": [
+  ],
+  "ranks": [
+    24,
+    18,
+    15,
+    12,
+    13.3,
+    14.9
+  ],
+  "artists": [
+    {
+      "slug": "huey-lewis-the-news",
+      "title": "Huey Lewis & the News",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.036,
+    0.097,
+    0.171,
+    0.137,
+    0.099,
+    0.094,
+    0.084,
+    0.069,
+    0.049,
+    0.024,
+    0
+  ],
+  "debutScore": 0.036,
+  "peakScore": 0.036,
+  "duration": 2.75,
+  "score": 0.86,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 1524
+}

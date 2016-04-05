@@ -1,13 +1,20 @@
 {
   "title": "The Real Love",
   "instanceSlug": 2610,
-  "tags": [],
-  "parents": [],
+  "tags": [
+  ],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": "1991-09",
-  "playlists": ["ballad"],
-  "ranks": [],
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+  ],
   "artists": {
     "bob-seger": true
-  }
+  },
+  "scores": [
+  ]
 }

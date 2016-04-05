@@ -1,1 +1,31 @@
-{"title":"Election Day","instanceSlug":1429,"tags":["day"],"parents":[],"genre":"pop","debut":"1985-11","playlists":[],"ranks":[],"artists":[{"slug":"arcadia","title":"Arcadia","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1994}
+{
+  "title": "Election Day",
+  "instanceSlug": 1429,
+  "tags": [
+    "day"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-11",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "arcadia",
+      "title": "Arcadia",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2728
+}

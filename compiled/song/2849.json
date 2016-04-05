@@ -1,1 +1,31 @@
-{"title":"Are You Jimmy Ray?","instanceSlug":2849,"tags":["self-referential"],"parents":[],"genre":"pop","debut":"1998-03","playlists":[],"ranks":[],"artists":[{"slug":"jimmy-ray","title":"Jimmy Ray","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2037}
+{
+  "title": "Are You Jimmy Ray?",
+  "instanceSlug": 2849,
+  "tags": [
+    "self-referential"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1998-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "jimmy-ray",
+      "title": "Jimmy Ray",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2037
+}

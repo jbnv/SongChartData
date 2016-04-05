@@ -1,1 +1,30 @@
-{"title":"Tell Me","instanceSlug":1509,"tags":[],"parents":[],"genre":"soul","debut":"1991-12","playlists":[],"ranks":[],"artists":[{"slug":"tevin-campbell","title":"Tevin Campbell","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":2713}
+{
+  "title": "Tell Me",
+  "instanceSlug": 1509,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "tevin-campbell",
+      "title": "Tevin Campbell",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "soul",
+      "title": "Soul"
+    }
+  ],
+  "source": null,
+  "rank": 1898
+}

@@ -1,1 +1,35 @@
-{"title":"That's What Love Can Do","instanceSlug":2295,"tags":[],"parents":[],"genre":"dance-pop","debut":"1993-03","playlists":[],"ranks":[15,10,6,3.4,2.4,2,2.15,2.74],"artists":{"boy-krazy":true}}
+{
+  "title": "That's What Love Can Do",
+  "instanceSlug": 2295,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1993-03",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    10,
+    6,
+    3.4,
+    2.4,
+    2,
+    2.15,
+    2.74
+  ],
+  "artists": {
+    "boy-krazy": true
+  },
+  "scores": [
+    0.097,
+    0.232,
+    0.402,
+    0.592,
+    0.708,
+    0.768,
+    0.744,
+    0.664
+  ]
+}

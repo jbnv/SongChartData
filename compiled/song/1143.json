@@ -1,1 +1,71 @@
-{"title":"Just Another Dream","instanceSlug":1143,"tags":[],"genres":[{"slug":"dance","title":"Dance"},{"slug":"pop","title":"Pop"}],"debut":"1990-12","playlists":[],"ranks":[12,2.5,1.5,1.58,1.68,1.91,2.14,2.6,3.29,4.21,5.36,6.74,8.35,10.19,12.26,14.56,17.09,19.85,22.84,26.06,29.51,33.19,37.1,41.24,45.61,50.21,55.04,60.1],"artists":[{"slug":"cathy-dennis","title":"Cathy Dennis","roleSlug":true},{"slug":"rick-astley","title":"Rick Astley","roleSlug":"backup"}],"debutRank":12,"peakRank":1.5,"duration":7,"score":25.18,"source":null,"rank":131}
+{
+  "title": "Just Another Dream",
+  "instanceSlug": 1143,
+  "tags": [
+  ],
+  "genres": [
+    {
+      "slug": "dance",
+      "title": "Dance"
+    },
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "debut": "1990-12",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    2.5,
+    1.5,
+    1.58,
+    1.68,
+    1.91
+  ],
+  "artists": [
+    {
+      "slug": "cathy-dennis",
+      "title": "Cathy Dennis",
+      "roleSlug": true
+    },
+    {
+      "slug": "rick-astley",
+      "title": "Rick Astley",
+      "roleSlug": "backup"
+    }
+  ],
+  "scores": [
+    0.171,
+    0.694,
+    0.864,
+    0.847,
+    0.827,
+    0.784,
+    0.779,
+    0.769,
+    0.754,
+    0.734,
+    0.709,
+    0.679,
+    0.644,
+    0.604,
+    0.559,
+    0.509,
+    0.454,
+    0.394,
+    0.329,
+    0.259,
+    0.184,
+    0.104,
+    0.019,
+    0
+  ],
+  "debutScore": 0.171,
+  "peakScore": 0.171,
+  "duration": 6,
+  "score": 12.67,
+  "source": null,
+  "rank": 155
+}

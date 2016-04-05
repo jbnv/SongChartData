@@ -1,1 +1,28 @@
-{"title":"La Isla Bonita","instanceSlug":975,"tags":["#1"],"parents":[],"genre":"latin-pop","debut":"1987-04","playlists":[],"ranks":[17.9,10.6,7.3,9.9],"artists":{"madonna":true}}
+{
+  "title": "La Isla Bonita",
+  "instanceSlug": 975,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "latin-pop",
+  "debut": "1987-04",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    9.9
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.235
+  ]
+}

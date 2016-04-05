@@ -1,1 +1,64 @@
-{"title":"Forever Your Girl","instanceSlug":426,"tags":["#1","#1-hot-100"],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"dance-pop","debut":"1989-04","ranks":[16,11.5,5.2,4.7,4.9,5.45,6,7.1,8.75,10.95,13.7,17,20.85,25.25,30.2,35.7,41.75,48.35,55.5,63.2],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":16,"peakRank":4.7,"duration":5,"score":10.54,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":919}
+{
+  "title": "Forever Your Girl",
+  "instanceSlug": 426,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "playlists": [
+    {
+      "slug": "summer",
+      "title": "Songs of Summer"
+    }
+  ],
+  "genre": "dance-pop",
+  "debut": "1989-04",
+  "ranks": [
+    16,
+    11.5,
+    5.2,
+    4.7,
+    4.9,
+    5.45
+  ],
+  "artists": [
+    {
+      "slug": "paula-abdul",
+      "title": "Paula Abdul",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.185,
+    0.45,
+    0.484,
+    0.47,
+    0.434,
+    0.429,
+    0.419,
+    0.404,
+    0.384,
+    0.359,
+    0.329,
+    0.294,
+    0.254,
+    0.209,
+    0.159,
+    0.104,
+    0.044,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 4.75,
+  "score": 5.485999999999998,
+  "genres": [
+    {
+      "slug": "dance-pop",
+      "title": "Dance-Pop"
+    }
+  ],
+  "source": null,
+  "rank": 925
+}

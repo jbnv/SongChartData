@@ -1,1 +1,71 @@
-{"title":"Waiting For A Girl Like You","instanceSlug":910,"tags":["#1","#1-mainstream-rock","#2-hot-100","girl-like-you"],"parents":[],"genre":"rock","debut":"1981-11","playlists":[],"ranks":[15.9,6.8,2.7,2.5,2.25,2.35,2.58,3,3.42,4.26,5.52,7.2,9.3,11.82,14.76,18.12,21.9,26.1,30.72,35.76,41.22,47.1,53.4,60.12],"artists":[{"slug":"foreigner","title":"Foreigner","roleSlug":true}],"debutRank":15.9,"peakRank":2.25,"duration":6,"score":21.05,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":270}
+{
+  "title": "Waiting For A Girl Like You",
+  "instanceSlug": 910,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock",
+    "#2-hot-100",
+    "girl-like-you"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+    15.9,
+    6.8,
+    2.7,
+    2.5,
+    2.25,
+    2.35,
+    2.58,
+    3
+  ],
+  "artists": [
+    {
+      "slug": "foreigner",
+      "title": "Foreigner",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.077,
+    0.361,
+    0.668,
+    0.694,
+    0.729,
+    0.715,
+    0.684,
+    0.633,
+    0.628,
+    0.618,
+    0.603,
+    0.583,
+    0.558,
+    0.528,
+    0.493,
+    0.453,
+    0.408,
+    0.358,
+    0.303,
+    0.243,
+    0.178,
+    0.108,
+    0.033,
+    0
+  ],
+  "debutScore": 0.077,
+  "peakScore": 0.077,
+  "duration": 6,
+  "score": 10.656000000000002,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 296
+}

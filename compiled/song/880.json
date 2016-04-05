@@ -1,1 +1,30 @@
-{"title":"Do I Have to Say the Words","instanceSlug":880,"tags":[],"parents":[],"genre":"rock","debut":"1992-09","playlists":[],"ranks":[],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2923}
+{
+  "title": "Do I Have to Say the Words",
+  "instanceSlug": 880,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1992-09",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "bryan-adams",
+      "title": "Bryan Adams",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 2924
+}

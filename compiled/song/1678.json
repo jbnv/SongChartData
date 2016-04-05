@@ -1,1 +1,30 @@
-{"title":"Le Freak","instanceSlug":1678,"tags":[],"parents":[],"genre":"disco","debut":1979,"playlists":[],"ranks":[],"artists":[{"slug":"chic","title":"Chic","roleSlug":true}],"genres":[{"slug":"disco","title":"Disco"}],"source":null,"rank":2588}
+{
+  "title": "Le Freak",
+  "instanceSlug": 1678,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "disco",
+  "debut": 1979,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "chic",
+      "title": "Chic",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "disco",
+      "title": "Disco"
+    }
+  ],
+  "source": null,
+  "rank": 1805
+}

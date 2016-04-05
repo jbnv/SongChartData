@@ -1,11 +1,13 @@
 {
   "title": "I Would Die 4 U",
   "instanceSlug": 1730,
-  "tags": [],
+  "tags": [
+  ],
   "source": "purple-rain",
   "genre": "pop",
   "debut": "1985-01",
-  "playlists": [],
+  "playlists": [
+  ],
   "ranks": [
     19,
     15,
@@ -15,5 +17,12 @@
   ],
   "artists": {
     "prince": true
-  }
+  },
+  "scores": [
+    0.018,
+    0.097,
+    0.2,
+    0.306,
+    0.26
+  ]
 }

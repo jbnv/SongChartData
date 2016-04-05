@@ -1,1 +1,21 @@
-{"title":"Blank Space","instanceSlug":2521,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[],"artists":{"taylor-swift":true}}
+{
+  "title": "Blank Space",
+  "instanceSlug": 2521,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2015,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "taylor-swift": true
+  },
+  "scores": [
+  ]
+}

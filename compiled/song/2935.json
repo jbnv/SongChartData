@@ -1,1 +1,60 @@
-{"title":"A Girl Like You","instanceSlug":2935,"tags":[],"genre":"rock","debut":"1990-03","playlists":[],"ranks":[16,4,2.7,2.83,2.97,3.5,4.03,5.09,6.68,8.8,11.45,14.63,18.34,22.58,27.35,32.65,38.48,44.84,51.73,59.15],"artists":[{"slug":"smithereens","title":"Smithereens","roleSlug":true}],"debutRank":16,"peakRank":2.7,"duration":5,"score":15.34,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":572}
+{
+  "title": "A Girl Like You",
+  "instanceSlug": 2935,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1990-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    4,
+    2.7,
+    2.83,
+    2.97,
+    3.5
+  ],
+  "artists": [
+    {
+      "slug": "smithereens",
+      "title": "Smithereens",
+      "roleSlug": true
+    }
+  ],
+  "scores": [
+    0.075,
+    0.537,
+    0.668,
+    0.653,
+    0.637,
+    0.582,
+    0.577,
+    0.567,
+    0.552,
+    0.532,
+    0.507,
+    0.477,
+    0.442,
+    0.402,
+    0.357,
+    0.307,
+    0.252,
+    0.192,
+    0.127,
+    0.057,
+    0
+  ],
+  "debutScore": 0.075,
+  "peakScore": 0.075,
+  "duration": 5.25,
+  "score": 8.500000000000004,
+  "genres": [
+    {
+      "slug": "rock",
+      "title": "Rock"
+    }
+  ],
+  "source": null,
+  "rank": 542
+}

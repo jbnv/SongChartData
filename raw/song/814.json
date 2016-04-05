@@ -4,12 +4,31 @@
   "tags": [
     "bend"
   ],
-  "parents": [],
+  "parents": [
+  ],
   "genre": "rock",
   "debut": 2000,
-  "playlists": [],
-  "ranks": [13,6,3.6,1.9,1.4,1.7,1.95],
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    6,
+    3.6,
+    1.9,
+    1.4,
+    1.7,
+    1.95
+  ],
   "artists": {
     "rob-thomas": true
-  }
+  },
+  "scores": [
+    0.145,
+    0.402,
+    0.573,
+    0.786,
+    0.887,
+    0.823,
+    0.777
+  ]
 }

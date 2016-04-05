@@ -1,1 +1,21 @@
-{"title":"Blinded by the Light","instanceSlug":2997,"tags":["#1","#1-hot-100"],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"artists":{"manfredd-mann":true}}
+{
+  "title": "Blinded by the Light",
+  "instanceSlug": 2997,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1977,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "manfredd-mann": true
+  },
+  "scores": [
+  ]
+}

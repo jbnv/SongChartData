@@ -1,1 +1,31 @@
-{"title":"Never Gonna Give You Up","instanceSlug":1018,"tags":[],"parents":[],"genre":"pop","debut":"1988-01","playlists":[],"ranks":[15,5,3,2,2.25,2.65],"artists":{"rick-astley":true}}
+{
+  "title": "Never Gonna Give You Up",
+  "instanceSlug": 1018,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    5,
+    3,
+    2,
+    2.25,
+    2.65
+  ],
+  "artists": {
+    "rick-astley": true
+  },
+  "scores": [
+    0.097,
+    0.463,
+    0.633,
+    0.768,
+    0.729,
+    0.675
+  ]
+}

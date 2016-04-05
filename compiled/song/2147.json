@@ -1,1 +1,31 @@
-{"title":"The Finer Things","instanceSlug":2147,"tags":["#1"],"parents":[],"genre":"pop","debut":"1987-03","playlists":[],"ranks":[],"artists":[{"slug":"steve-winwood","title":"Steve Winwood","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2684}
+{
+  "title": "The Finer Things",
+  "instanceSlug": 2147,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-03",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": [
+    {
+      "slug": "steve-winwood",
+      "title": "Steve Winwood",
+      "roleSlug": true
+    }
+  ],
+  "scores": null,
+  "genres": [
+    {
+      "slug": "pop",
+      "title": "Pop"
+    }
+  ],
+  "source": null,
+  "rank": 2648
+}

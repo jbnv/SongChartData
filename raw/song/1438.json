@@ -1,1 +1,27 @@
-{"title":"Rhythm Divine","instanceSlug":1438,"tags":[],"parents":[],"genre":"latin","debut":"2000-01","playlists":[],"ranks":[12,4,2,2.21],"artists":{"enrique-iglesias":true}}
+{
+  "title": "Rhythm Divine",
+  "instanceSlug": 1438,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "latin",
+  "debut": "2000-01",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4,
+    2,
+    2.21
+  ],
+  "artists": {
+    "enrique-iglesias": true
+  },
+  "scores": [
+    0.171,
+    0.537,
+    0.768,
+    0.735
+  ]
+}
