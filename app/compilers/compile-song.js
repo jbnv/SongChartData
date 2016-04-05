@@ -138,7 +138,7 @@ module.exports = function(yargs,entities) {
   scoring.rankEntities(entities,playlists,"playlist");
 
   util.log("Ranking by source.");
-  scoring.rankEntities(entities,playlists,"source");
+  scoring.rankEntities(entities,sources,"source");
 
   util.log("Ranking by decade.");
   scoring.rankEntities(entities,decades,"decade");
