@@ -33,6 +33,7 @@ module.exports = function(app) {
     outbound.years = outbound.years.map(function(year) {
       return _forYear(new Era(year));
     });
+    scoring.aggregateCollection.call(outbound.years);
     res.send(outbound);
   });
 
@@ -62,29 +63,38 @@ module.exports = function(app) {
   });
 
   app.get("/eras",function(req,res) {
+
     var outbound = {
       decades: {},
       years: {},
       months: {}
     };
 
+    var keys = [];
+
     var decades = meta.getCompiledObject("song","by-decade")();
-    Object.keys(decades).forEach(function(key) {
+    keys = Object.keys(decades);
+    keys.forEach(function(key) {
       var scoreEntity = {songs:decades[key]};
       scoreEntity.songCount = decades[key].length;
       scoring.scoreCollection.call(scoreEntity);
       delete scoreEntity.songs;
       outbound.decades[key] = scoreEntity;
     });
+    decadeArray = keys.map(function(key) { return outbound.decades[key]; })
+    scoring.aggregateCollection.call(decadeArray);
 
     var years = meta.getCompiledObject("song","by-year")();
-    Object.keys(years).forEach(function(key) {
+    keys = Object.keys(years);
+    keys.forEach(function(key) {
       var scoreEntity = {songs:years[key]};
       scoreEntity.songCount = years[key].length;
       scoring.scoreCollection.call(scoreEntity);
       delete scoreEntity.songs;
       outbound.years[key] = scoreEntity;
     })
+    yearArray = keys.map(function(key) { return outbound.years[key]; })
+    scoring.aggregateCollection.call(yearArray);
 
     var months = meta.getCompiledObject("song","by-month")();
     Object.keys(months).forEach(function(key) {
