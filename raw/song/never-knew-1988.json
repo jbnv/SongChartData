@@ -1,1 +1,13 @@
-{"title":"Never Knew Love Like This","instanceSlug":"never-knew-1988","tags":[],"parents":[],"debut":1988,"playlists":[],"ranks":[],"artists":{"alexander-o-neal":true,"sherrell":true}}
+{
+  "title": "Never Knew Love Like This",
+  "instanceSlug": "never-knew-1988",
+  "tags": [],
+  "genres": ["soul","urban"],
+  "debut": "1988-03",
+  "playlists": [],
+  "ranks": [18,9,6,4,3,3.2,3.8],
+  "artists": {
+    "alexander-o-neal": true,
+    "cherrell": "feature"
+  }
+}
