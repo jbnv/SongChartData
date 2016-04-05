@@ -1,5 +1,6 @@
 var chalk       = require("chalk"),
     fs          = require("fs"),
+    numeral     = require("numeral"),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
@@ -24,14 +25,16 @@ module.exports = function(yargs,entities) {
     entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
     scoring.scoreCollection.call(entity);
 
+    numeral.zeroFormat("");
+
     util.log(
       chalk.blue(entity.instanceSlug),
       entity.title,
-      chalk.gray(entity.songs.length),
-      chalk.gray(entity.artists.length),
-      chalk.gray(entity.score || 0),
-      chalk.gray(entity.songAdjustedAverage || 0),
-      chalk.gray(entity.artistAdjustedAverage || 0)
+      chalk.gray(numeral(entity.songs.length).format("0")),
+      chalk.gray(numeral(entity.artists.length).format("0")),
+      chalk.gray(numeral(entity.score || 0).format("0.00")),
+      chalk.gray(numeral(entity.songAdjustedAverage || 0).format("0.00")),
+      chalk.gray(numeral(entity.artistAdjustedAverage || 0).format("0.00"))
     );
 
   });
