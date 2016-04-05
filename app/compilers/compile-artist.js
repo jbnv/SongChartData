@@ -1,6 +1,7 @@
 var chalk       = require("chalk"),
     fs          = require("fs"),
     path        = require("path"),
+    numeral     = require("numeral"),
     q           = require("q"),
     util        = require("gulp-util"),
 
@@ -64,12 +65,14 @@ module.exports = function(yargs,entities) {
       entity.type.slug = typeSlug;
     }
 
+    numeral.zeroFormat("");
+
     util.log(
       chalk.blue(entity.instanceSlug),
       entity.title,
-      chalk.gray(entity.songs.length),
-      chalk.gray(entity.score || 0),
-      chalk.gray(entity.songAdjustedAverage || 0)
+      chalk.gray(numeral(entity.songs.length).format("0")),
+      chalk.gray(numeral(entity.score || 0).format("0.00")),
+      chalk.gray(numeral(entity.songAdjustedAverage || 0).format("0.00"))
     );
 
   });
