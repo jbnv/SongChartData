@@ -1,9 +1,9 @@
 {
-  "title": "Magic",
-  "instanceSlug": 150,
-  "tags": ["#1","#1-mainstream-rock"],
+  "title": "Let's Go",
+  "instanceSlug": "cars-lets-go",
+  "tags": [],
   "genres":["rock"],
-  "debut":"1984-06",
+  "debut":"1979-08",
   "artists": {
     "cars": true,
     "ric-ocasek":"member",

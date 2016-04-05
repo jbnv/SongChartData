@@ -3,21 +3,14 @@
   "instanceSlug": 441,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1984-08",
   "playlists": [
   ],
-  "ranks": [
-    19,
-    11.6,
-    6.7,
-    6.4,
-    7.1
-  ],
   "artists": {
-    "cars": true
+    "cars": true,
+    "ric-ocasek":"member",
+    "benjamin-orr":"lead"
   },
   "scores": [
     0.018,

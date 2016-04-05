@@ -7,15 +7,6 @@
   "debut": 1976,
   "playlists": [
   ],
-  "ranks": [
-    20,
-    15,
-    10,
-    9,
-    8,
-    8.5,
-    9.2
-  ],
   "artists": {
     "fleetwood-mac": true,
     "stevie-nicks": "lead",
@@ -23,8 +14,7 @@
     "christine-mcvie": "member"
   },
   "scores": [
-    0.001,
-    0.097,
+    0.1,
     0.232,
     0.267,
     0.306,

@@ -5,21 +5,9 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [
-  ],
-  "genre": "adult-contemporary",
+  "genres": ["pop","adult-contemporary"],
   "debut": "1988-01",
   "playlists": [
-  ],
-  "ranks": [
-    14,
-    4.1,
-    1.11,
-    1.184,
-    1.27,
-    1.41,
-    1.72,
-    2.05
   ],
   "artists": {
     "fleetwood-mac": true,
@@ -28,13 +16,9 @@
     "lindsay-buckingham": "member"
   },
   "scores": [
-    0.12,
     0.529,
-    0.965,
+    0.95,
     0.943,
-    0.92,
-    0.885,
-    0.819,
-    0.76
+    0.92
   ]
 }

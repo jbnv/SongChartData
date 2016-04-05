@@ -1,9 +1,9 @@
 {
-  "title": "Magic",
-  "instanceSlug": 150,
-  "tags": ["#1","#1-mainstream-rock"],
+  "title": "Let the Good Times Roll",
+  "instanceSlug": "cars01",
+  "tags": [],
   "genres":["rock"],
-  "debut":"1984-06",
+  "debut":"1979",
   "artists": {
     "cars": true,
     "ric-ocasek":"member",

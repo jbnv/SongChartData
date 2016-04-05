@@ -3,17 +3,19 @@
   "instanceSlug": 1763,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1985-01",
   "playlists": [
-  ],
-  "ranks": [
+    "tribute"
   ],
   "artists": {
     "u2": true
   },
   "scores": [
-  ]
+    0.1,
+    0.2,
+    0.25,
+    0.24
+  ],
+  "tribute":"Martin Luther King Jr."
 }

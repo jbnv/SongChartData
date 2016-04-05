@@ -1,9 +1,8 @@
 {
-  "title": "Magic",
-  "instanceSlug": 150,
-  "tags": ["#1","#1-mainstream-rock"],
+  "title": "Best Friend's Girl",
+  "instanceSlug": "best-friends-girl",
+  "tags": [],
   "genres":["rock"],
-  "debut":"1984-06",
   "artists": {
     "cars": true,
     "ric-ocasek":"member",

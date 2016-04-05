@@ -9,13 +9,6 @@
   "debut": "1987-07",
   "playlists": [
   ],
-  "ranks": [
-    17.9,
-    10.6,
-    6.2,
-    6.6,
-    7.9
-  ],
   "artists": {
     "fleetwood-mac": true,
     "lindsay-buckingham": "member",
@@ -23,10 +16,11 @@
     "stevie-nicks": "member"
   },
   "scores": [
-    0.038,
     0.213,
     0.391,
-    0.37,
-    0.311
+    0.45,
+    0.48,
+    0.44,
+    0.37
   ]
 }

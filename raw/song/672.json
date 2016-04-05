@@ -3,16 +3,14 @@
   "instanceSlug": 672,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
-  "debut": "1970s",
+  "debut": "1978-08",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "cars": true
+    "cars": true,
+    "ric-ocasek":"lead",
+    "benjamin-orr":"member"
   },
   "scores": [
   ]

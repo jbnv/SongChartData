@@ -9,14 +9,6 @@
   "debut": 1977,
   "playlists": [
   ],
-  "ranks": [
-    18,
-    11,
-    9,
-    7,
-    7.1,
-    7.8
-  ],
   "artists": {
     "fleetwood-mac": true,
     "lindsay-buckingham": "lead",
@@ -24,7 +16,6 @@
     "stevie-nicks": "member"
   },
   "scores": [
-    0.036,
     0.2,
     0.267,
     0.351,

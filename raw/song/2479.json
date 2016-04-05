@@ -3,14 +3,17 @@
   "instanceSlug": 2479,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "adult-contemporary",
   "debut": "1989-12",
   "source": "batman",
   "playlists": [
   ],
-  "ranks": true,
+  "scores": [
+    0.035,
+    0.15,
+    0.18,
+    0.14
+  ],
   "artists": {
     "prince": true,
     "sheena-easton": true
