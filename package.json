@@ -18,6 +18,7 @@
     "gulp-rename": "*",
     "gulp-replace": "*",
     "gulp-util": "*",
+    "hashids": "^1.0.2",
     "http": "0.0.0",
     "jsonpretty": "0.0.1",
     "numeral": "^1.5.3",
