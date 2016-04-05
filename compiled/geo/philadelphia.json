@@ -1,11 +1,1 @@
-{
-  "title": "Philadelphia",
-  "instanceSlug": "philadelphia",
-  "tags": [
-  ],
-  "parents": [
-    "pennsylvania"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Philadelphia","instanceSlug":"philadelphia","tags":[],"parents":["pennsylvania"],"artists":[]}

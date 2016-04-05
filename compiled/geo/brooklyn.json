@@ -1,11 +1,1 @@
-{
-  "title": "Brooklyn",
-  "instanceSlug": "brooklyn",
-  "tags": [
-  ],
-  "parents": [
-    "nyc"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Brooklyn","instanceSlug":"brooklyn","tags":[],"parents":["nyc"],"artists":[]}

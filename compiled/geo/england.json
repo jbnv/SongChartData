@@ -1,11 +1,1 @@
-{
-  "title": "England",
-  "instanceSlug": "england",
-  "tags": [
-  ],
-  "parents": [
-    "uk"
-  ],
-  "artists": [
-  ]
-}
+{"title":"England","instanceSlug":"england","tags":[],"parents":["uk"],"artists":[]}

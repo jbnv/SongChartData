@@ -1,11 +1,1 @@
-{
-  "title": "Boston",
-  "instanceSlug": "boston",
-  "tags": [
-  ],
-  "parents": [
-    "us"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Boston","instanceSlug":"boston","tags":[],"parents":["us"],"artists":[]}

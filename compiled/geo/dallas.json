@@ -1,11 +1,1 @@
-{
-  "title": "Dallas",
-  "instanceSlug": "dallas",
-  "tags": [
-  ],
-  "parents": [
-    "texas"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Dallas","instanceSlug":"dallas","tags":[],"parents":["texas"],"artists":[]}

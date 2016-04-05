@@ -1,11 +1,1 @@
-{
-  "title": "Toronto",
-  "instanceSlug": "toronto",
-  "tags": [
-  ],
-  "parents": [
-    "ontario"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Toronto","instanceSlug":"toronto","tags":[],"parents":["ontario"],"artists":[]}

@@ -1,11 +1,1 @@
-{
-  "title": "Manchester",
-  "instanceSlug": "manchester",
-  "tags": [
-  ],
-  "parents": [
-    "england"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Manchester","instanceSlug":"manchester","tags":[],"parents":["england"],"artists":[]}

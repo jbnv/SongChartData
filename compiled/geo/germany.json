@@ -1,11 +1,1 @@
-{
-  "title": "Germany",
-  "instanceSlug": "germany",
-  "tags": [
-  ],
-  "parents": [
-    "europe"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Germany","instanceSlug":"germany","tags":[],"parents":["europe"],"artists":[]}

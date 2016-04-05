@@ -1,11 +1,1 @@
-{
-  "title": "Montreal",
-  "instanceSlug": "montreal",
-  "tags": [
-  ],
-  "parents": [
-    "quebec"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Montreal","instanceSlug":"montreal","tags":[],"parents":["quebec"],"artists":[]}

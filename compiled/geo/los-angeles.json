@@ -1,11 +1,1 @@
-{
-  "title": "Los Angeles",
-  "instanceSlug": "los-angeles",
-  "tags": [
-  ],
-  "parents": [
-    "california"
-  ],
-  "artists": [
-  ]
-}
+{"title":"Los Angeles","instanceSlug":"los-angeles","tags":[],"parents":["california"],"artists":[]}
