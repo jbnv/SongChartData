@@ -1,1 +1,354 @@
-{"title":"Songs from James Bond Movies","instanceSlug":"james-bond","tags":[],"parents":[],"songs":[{"title":"For Your Eyes Only","instanceSlug":921,"tags":[],"parents":[],"genre":"pop","debut":"1981-09","source":{"title":"For Your Eyes Only","instanceSlug":"for-your-eyes-only","tags":["james-bond"],"parents":[],"type":"movie"},"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[15,8.9,5.4,4.9,5.2,5.6,6.5,7.54,9.97,14.78,24.28,43.78,86,182.75,417.73,1021.94],"artists":[{"slug":"sheena-easton","title":"Sheena Easton","roleSlug":true}],"debutRank":15,"peakRank":4.9,"duration":4,"score":9.57,"genres":[{"slug":"pop","title":"Pop"}],"rank":1},{"title":"All-Time High","instanceSlug":815,"tags":[],"parents":[],"genre":"pop","debut":1983,"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[18.9,11.1,6.5,7.5,9.2,11.29,16.4,27.55,52.54,112.08,264.51,684.19],"artists":[{"slug":"rita-coolidge","title":"Rita Coolidge","roleSlug":true}],"debutRank":18.9,"peakRank":6.5,"duration":3,"score":4.33,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2},{"title":"A View to a Kill","instanceSlug":2451,"tags":[],"parents":[],"genre":"rock","debut":"1985-06","source":{"title":"A View to a Kill","instanceSlug":"a-view-to-a-kill","tags":["james-bond"],"parents":[],"type":"movie"},"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[],"artists":[{"slug":"duran-duran","title":"Duran Duran","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"rank":3},{"title":"Die Another Day","instanceSlug":"dieanotherday","tags":[],"parents":[],"debut":2002,"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"genres":[],"source":null,"rank":4},{"title":"Live and Let Die","instanceSlug":"liveletdie1","tags":[],"parents":[],"genre":"rock","debut":1973,"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[],"artists":[{"slug":"wings","title":"Wings","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":5},{"title":"Skyfall","instanceSlug":"skyfall","words":["sky","fall"],"genre":"pop","debut":"2010s","source":{"title":"Skyfall","instanceSlug":"skyfall","tags":["james-bond"],"parents":[],"type":"movie"},"playlists":[{"slug":"james-bond","title":"Songs from James Bond Movies"}],"ranks":[],"artists":[{"slug":"adele","title":"Adele","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":6}],"score":13.9,"songAdjustedAverage":5.67}
+{
+  "title": "Songs from James Bond Movies",
+  "instanceSlug": "james-bond",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "For Your Eyes Only",
+      "instanceSlug": 921,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1981-09",
+      "source": {
+        "title": "For Your Eyes Only",
+        "instanceSlug": "for-your-eyes-only",
+        "tags": [
+          "james-bond"
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "james-bond",
+          "title": "Songs from James Bond Movies"
+        }
+      ],
+      "ranks": {
+        "artist:sheena-easton": 5,
+        "genre:pop": 473,
+        "playlist:james-bond": 1,
+        "source:james-bond": 1,
+        "decade:1980s": 539,
+        "year:1981": 30
+      },
+      "artists": [
+        {
+          "slug": "sheena-easton",
+          "title": "Sheena Easton",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.271,
+        0.437,
+        0.47,
+        0.45,
+        0.425,
+        0.376,
+        0.371,
+        0.361,
+        0.346,
+        0.326,
+        0.301,
+        0.271,
+        0.236,
+        0.196,
+        0.151,
+        0.101,
+        0.046,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.47,
+      "duration": 5,
+      "score": 5.231999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1981-09",
+        "title": "September 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 9
+      },
+      "rank": 1
+    },
+    {
+      "title": "All-Time High",
+      "instanceSlug": 815,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1983,
+      "playlists": [
+        {
+          "slug": "james-bond",
+          "title": "Songs from James Bond Movies"
+        }
+      ],
+      "ranks": {
+        "artist:rita-coolidge": 2,
+        "genre:pop": 641,
+        "playlist:james-bond": 2,
+        "source:james-bond": 2,
+        "decade:1980s": 774,
+        "year:1983": 92
+      },
+      "artists": [
+        {
+          "slug": "rita-coolidge",
+          "title": "Rita Coolidge",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.02,
+        0.197,
+        0.376,
+        0.328,
+        0.26,
+        0.255,
+        0.245,
+        0.23,
+        0.21,
+        0.185,
+        0.155,
+        0.12,
+        0.08,
+        0.035,
+        0
+      ],
+      "debutScore": 0.02,
+      "peakScore": 0.376,
+      "duration": 4,
+      "score": 2.696,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1983,
+        "title": 1983,
+        "decade": 1980,
+        "year": 1983
+      },
+      "rank": 2
+    },
+    {
+      "title": "A View to a Kill",
+      "instanceSlug": 2451,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-06",
+      "source": {
+        "title": "A View to a Kill",
+        "instanceSlug": "a-view-to-a-kill",
+        "tags": [
+          "james-bond"
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "james-bond",
+          "title": "Songs from James Bond Movies"
+        }
+      ],
+      "ranks": {
+        "artist:duran-duran": 11,
+        "genre:rock": 298,
+        "playlist:james-bond": 3,
+        "source:james-bond": 3,
+        "decade:1980s": 1176,
+        "year:1985": 87
+      },
+      "artists": [
+        {
+          "slug": "duran-duran",
+          "title": "Duran Duran",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "debutEra": {
+        "slug": "1985-06",
+        "title": "June 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 6
+      },
+      "rank": 3
+    },
+    {
+      "title": "Die Another Day",
+      "instanceSlug": "dieanotherday",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": 2002,
+      "playlists": [
+        {
+          "slug": "james-bond",
+          "title": "Songs from James Bond Movies"
+        }
+      ],
+      "ranks": {
+        "artist:madonna": 39,
+        "playlist:james-bond": 4,
+        "source:james-bond": 4,
+        "decade:2000s": 117,
+        "year:2002": 11
+      },
+      "artists": [
+        {
+          "slug": "madonna",
+          "title": "Madonna",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2002,
+        "title": 2002,
+        "decade": 2000,
+        "year": 2002
+      },
+      "rank": 4
+    },
+    {
+      "title": "Live and Let Die",
+      "instanceSlug": "liveletdie1",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1973,
+      "playlists": [
+        {
+          "slug": "james-bond",
+          "title": "Songs from James Bond Movies"
+        }
+      ],
+      "ranks": {
+        "artist:wings": 12,
+        "genre:rock": 611,
+        "playlist:james-bond": 5,
+        "source:james-bond": 5,
+        "decade:1970s": 471,
+        "year:1973": 32
+      },
+      "artists": [
+        {
+          "slug": "wings",
+          "title": "Wings",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 5
+    },
+    {
+      "title": "Skyfall",
+      "instanceSlug": "skyfall",
+      "words": [
+        "sky",
+        "fall"
+      ],
+      "genre": "pop",
+      "debut": "2010s",
+      "source": {
+        "title": "Skyfall",
+        "instanceSlug": "skyfall",
+        "tags": [
+          "james-bond"
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "james-bond",
+          "title": "Songs from James Bond Movies"
+        }
+      ],
+      "ranks": {
+        "artist:adele": 4,
+        "genre:pop": 1332,
+        "playlist:james-bond": 6,
+        "source:james-bond": 6,
+        "decade:2010s": 93
+      },
+      "artists": [
+        {
+          "slug": "adele",
+          "title": "Adele",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "2010s",
+        "title": "2010s",
+        "decade": 2010
+      },
+      "rank": 6
+    }
+  ],
+  "score": 7.927999999999999,
+  "songCount": 6,
+  "songAdjustedAverage": 3.236592446797506
+}

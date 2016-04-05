@@ -1,1 +1,617 @@
-{"title":"Instrumentals","instanceSlug":"instrumental","tags":[],"parents":[],"songs":[{"title":"Magnum PI Theme","instanceSlug":2655,"tags":[],"genre":"rock","debut":"1982-04","source":{"title":"Magnum PI","instanceSlug":"magnum-pi","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[14,7,4,2,2.18,2.52,2.91,3.82,5.61,9.11,16.21,31.39,65.65,147.56,354.69,907.87],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"debutRank":14,"peakRank":2,"duration":4,"score":15.5,"genres":[{"slug":"rock","title":"Rock"}],"rank":1},{"title":"Law & Order","instanceSlug":1407,"tags":["police"],"genre":"pop","debut":1990,"source":{"title":"Law & Order","instanceSlug":"law-order","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[16,10,6,4,4.1,4.5,4.94,5.9,7.63,10.61,15.78,25.02,42.11,74.97,140.81,278.18],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":4,"score":11.31,"genres":[{"slug":"pop","title":"Pop"}],"rank":2},{"title":"Theme from SWAT","instanceSlug":2696,"tags":[],"parents":[],"genre":"disco","debut":1976,"source":{"title":"SWAT","instanceSlug":"swat","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"}],"ranks":[15,8,4,3.4,3.85,4.36,5.51,7.7,11.78,19.58,35.12,67.66],"artists":[{"slug":"rhythm-heritage","title":"Rhythm Heritage","roleSlug":true}],"debutRank":15,"peakRank":3.4,"duration":3,"score":10.59,"genres":[{"slug":"disco","title":"Disco"}],"rank":3},{"title":"Hill Street Blues Theme","instanceSlug":914,"tags":[],"genre":"pop","debut":"1981-10","source":{"title":"Hill Street Blues","instanceSlug":"hill-street-blues","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[18,10,7.5,5.8,5,5.7,6.5,8.32,11.81,18.42,31.32,57.63],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":3,"score":8.31,"genres":[{"slug":"pop","title":"Pop"}],"rank":4},{"title":"Love Theme from St. Elmo's Fire","instanceSlug":1376,"tags":[],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"debut":"1985-10","playlists":[{"slug":"instrumental","title":"Instrumentals"}],"ranks":[],"source":{"title":"St. Elmo's Fire","instanceSlug":"st-elmo-s-fire","tags":[],"parents":[],"type":"movie"},"artists":[{"slug":"david-foster","title":"David Foster","roleSlug":true}],"rank":5},{"title":"NYPD Blue Theme","instanceSlug":1408,"tags":["new-york","police"],"parents":[],"genre":"pop-instrumental","debut":1994,"source":{"title":"NYPD Blue","instanceSlug":"nypd-blue","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":[],"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"genres":[{"slug":"pop-instrumental"}],"rank":6},{"title":"The Rockford Files","instanceSlug":2654,"tags":[],"parents":[],"genre":"pop","debut":1975,"source":{"title":"Rockford Files","instanceSlug":"rockford-files","tags":[],"parents":[],"type":"tv"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"tv-theme","title":"TV Show Themes"}],"ranks":true,"artists":[{"slug":"mike-post","title":"Mike Post","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":7},{"title":"Chariots of Fire","instanceSlug":2915,"tags":[],"genre":"pop","debut":"1982-03","source":{"title":"Chariots of Fire","instanceSlug":"chariots-of-fire","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"instrumental","title":"Instrumentals"},{"slug":"movie-theme","title":"Movie Themes"}],"ranks":[],"artists":[{"slug":"vangelis","title":"Vangelis","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"rank":8}],"score":45.71,"songAdjustedAverage":16.16}
+{
+  "title": "Instrumentals",
+  "instanceSlug": "instrumental",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "Magnum PI Theme",
+      "instanceSlug": 2655,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1982-04",
+      "source": {
+        "title": "Magnum PI",
+        "instanceSlug": "magnum-pi",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "tv"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        },
+        {
+          "slug": "tv-theme",
+          "title": "TV Show Themes"
+        }
+      ],
+      "ranks": {
+        "artist:mike-post": 1,
+        "genre:rock": 45,
+        "playlist:instrumental": 1,
+        "playlist:tv-theme": 1,
+        "source:instrumental": 1,
+        "source:tv-theme": 1,
+        "decade:1980s": 156,
+        "year:1982": 12
+      },
+      "artists": [
+        {
+          "slug": "mike-post",
+          "title": "Mike Post",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.537,
+        0.768,
+        0.74,
+        0.712,
+        0.682,
+        0.648,
+        0.643,
+        0.633,
+        0.618,
+        0.598,
+        0.573,
+        0.543,
+        0.508,
+        0.468,
+        0.423,
+        0.373,
+        0.318,
+        0.258,
+        0.193,
+        0.123,
+        0.048,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 10.527,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "debutEra": {
+        "slug": "1982-04",
+        "title": "April 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 4
+      },
+      "rank": 1
+    },
+    {
+      "title": "Theme from SWAT",
+      "instanceSlug": 2696,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "disco",
+      "debut": 1976,
+      "source": {
+        "title": "SWAT",
+        "instanceSlug": "swat",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "tv"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        }
+      ],
+      "ranks": {
+        "artist:rhythm-heritage": 1,
+        "genre:disco": 5,
+        "playlist:instrumental": 2,
+        "source:instrumental": 2,
+        "decade:1970s": 45,
+        "year:1976": 4
+      },
+      "artists": [
+        {
+          "slug": "rhythm-heritage",
+          "title": "Rhythm Heritage",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.306,
+        0.537,
+        0.592,
+        0.55,
+        0.545,
+        0.535,
+        0.52,
+        0.5,
+        0.475,
+        0.445,
+        0.41,
+        0.37,
+        0.325,
+        0.275,
+        0.22,
+        0.16,
+        0.095,
+        0.025,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.592,
+      "duration": 5,
+      "score": 6.982000000000001,
+      "genres": [
+        {
+          "slug": "disco",
+          "title": "Disco"
+        }
+      ],
+      "debutEra": {
+        "slug": 1976,
+        "title": 1976,
+        "decade": 1970,
+        "year": 1976
+      },
+      "rank": 2
+    },
+    {
+      "title": "Law & Order",
+      "instanceSlug": 1407,
+      "tags": [
+        "police"
+      ],
+      "genre": "pop",
+      "debut": 1990,
+      "source": {
+        "title": "Law & Order",
+        "instanceSlug": "law-order",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "tv"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        },
+        {
+          "slug": "tv-theme",
+          "title": "TV Show Themes"
+        }
+      ],
+      "ranks": {
+        "artist:mike-post": 2,
+        "genre:pop": 401,
+        "playlist:instrumental": 3,
+        "playlist:tv-theme": 4,
+        "source:instrumental": 3,
+        "source:tv-theme": 4,
+        "decade:1990s": 271,
+        "year:1990": 46
+      },
+      "artists": [
+        {
+          "slug": "mike-post",
+          "title": "Mike Post",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.402,
+        0.537,
+        0.529,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.537,
+      "duration": 5,
+      "score": 6.471999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": 1990,
+        "title": 1990,
+        "decade": 1990,
+        "year": 1990
+      },
+      "rank": 3
+    },
+    {
+      "title": "Hill Street Blues Theme",
+      "instanceSlug": 914,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1981-10",
+      "source": {
+        "title": "Hill Street Blues",
+        "instanceSlug": "hill-street-blues",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "tv"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        },
+        {
+          "slug": "tv-theme",
+          "title": "TV Show Themes"
+        }
+      ],
+      "ranks": {
+        "artist:mike-post": 3,
+        "genre:pop": 487,
+        "playlist:instrumental": 4,
+        "playlist:tv-theme": 5,
+        "source:instrumental": 4,
+        "source:tv-theme": 5,
+        "decade:1980s": 557,
+        "year:1981": 32
+      },
+      "artists": [
+        {
+          "slug": "mike-post",
+          "title": "Mike Post",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.328,
+        0.414,
+        0.463,
+        0.419,
+        0.414,
+        0.404,
+        0.389,
+        0.369,
+        0.344,
+        0.314,
+        0.279,
+        0.239,
+        0.194,
+        0.144,
+        0.089,
+        0.029,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.1,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1981-10",
+        "title": "October 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 10
+      },
+      "rank": 4
+    },
+    {
+      "title": "Love Theme from St. Elmo's Fire",
+      "instanceSlug": 1376,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "debut": "1985-10",
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        }
+      ],
+      "ranks": {
+        "artist:david-foster": 4,
+        "genre:adult-contemporary": 117,
+        "playlist:instrumental": 5,
+        "source:instrumental": 5,
+        "decade:1980s": 1037,
+        "year:1985": 149
+      },
+      "source": {
+        "title": "St. Elmo's Fire",
+        "instanceSlug": "st-elmo-s-fire",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "artists": [
+        {
+          "slug": "david-foster",
+          "title": "David Foster",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "debutEra": {
+        "slug": "1985-10",
+        "title": "October 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 10
+      },
+      "rank": 5
+    },
+    {
+      "title": "NYPD Blue Theme",
+      "instanceSlug": 1408,
+      "tags": [
+        "new-york",
+        "police"
+      ],
+      "parents": [
+      ],
+      "genre": "pop-instrumental",
+      "debut": 1994,
+      "source": {
+        "title": "NYPD Blue",
+        "instanceSlug": "nypd-blue",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "tv"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        },
+        {
+          "slug": "tv-theme",
+          "title": "TV Show Themes"
+        }
+      ],
+      "ranks": {
+        "artist:mike-post": 4,
+        "genre:pop-instrumental": 1,
+        "playlist:instrumental": 6,
+        "playlist:tv-theme": 7,
+        "source:instrumental": 6,
+        "source:tv-theme": 7,
+        "decade:1990s": 712,
+        "year:1994": 50
+      },
+      "artists": [
+        {
+          "slug": "mike-post",
+          "title": "Mike Post",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop-instrumental"
+        }
+      ],
+      "debutEra": {
+        "slug": 1994,
+        "title": 1994,
+        "decade": 1990,
+        "year": 1994
+      },
+      "rank": 6
+    },
+    {
+      "title": "The Rockford Files",
+      "instanceSlug": 2654,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1975,
+      "source": {
+        "title": "Rockford Files",
+        "instanceSlug": "rockford-files",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "tv"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        },
+        {
+          "slug": "tv-theme",
+          "title": "TV Show Themes"
+        }
+      ],
+      "ranks": {
+        "artist:mike-post": 5,
+        "genre:pop": 791,
+        "playlist:instrumental": 7,
+        "playlist:tv-theme": 8,
+        "source:instrumental": 7,
+        "source:tv-theme": 8,
+        "decade:1970s": 326,
+        "year:1975": 31
+      },
+      "artists": [
+        {
+          "slug": "mike-post",
+          "title": "Mike Post",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 7
+    },
+    {
+      "title": "Chariots of Fire",
+      "instanceSlug": 2915,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1982-03",
+      "source": {
+        "title": "Chariots of Fire",
+        "instanceSlug": "chariots-of-fire",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        },
+        {
+          "slug": "movie-theme",
+          "title": "Movie Themes"
+        }
+      ],
+      "ranks": {
+        "artist:vangelis": 1,
+        "genre:pop": 894,
+        "playlist:instrumental": 8,
+        "playlist:movie-theme": 1,
+        "source:instrumental": 8,
+        "source:movie-theme": 1,
+        "decade:1980s": 1437,
+        "year:1982": 88
+      },
+      "artists": [
+        {
+          "slug": "vangelis",
+          "title": "Vangelis",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1982-03",
+        "title": "March 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 3
+      },
+      "rank": 8
+    },
+    {
+      "title": "Theme to Columbo",
+      "instanceSlug": "columbo",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": 1971,
+      "playlists": [
+        {
+          "slug": "instrumental",
+          "title": "Instrumentals"
+        }
+      ],
+      "ranks": {
+        "artist:henry-mancini": 1,
+        "playlist:instrumental": 9,
+        "source:instrumental": 9,
+        "decade:1970s": 464,
+        "year:1971": 20
+      },
+      "artists": [
+        {
+          "slug": "henry-mancini",
+          "title": "Henry Mancini",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1971,
+        "title": 1971,
+        "decade": 1970,
+        "year": 1971
+      },
+      "rank": 9
+    }
+  ],
+  "score": 29.080999999999996,
+  "songCount": 9,
+  "songAdjustedAverage": 9.693666666666665
+}

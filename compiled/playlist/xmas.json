@@ -1,1 +1,113 @@
-{"title":"Christmas","instanceSlug":"xmas","tags":[],"parents":[],"songs":[{"title":"Please Come Home for Christmas","instanceSlug":2466,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1978-12","playlists":[{"slug":"xmas","title":"Christmas"}],"ranks":[],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"don-henley","title":"Don Henley","roleSlug":"lead"}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1},{"title":"Do They Know It's Christmas","instanceSlug":2841,"tags":[],"parents":[],"genre":"pop","debut":"1984-12","playlists":[{"slug":"xmas","title":"Christmas"}],"ranks":[],"artists":[{"slug":"band-aid","title":"Band Aid","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2}],"score":0,"songAdjustedAverage":0}
+{
+  "title": "Christmas",
+  "instanceSlug": "xmas",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "Please Come Home for Christmas",
+      "instanceSlug": 2466,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1978-12",
+      "playlists": [
+        {
+          "slug": "xmas",
+          "title": "Christmas"
+        }
+      ],
+      "ranks": {
+        "artist:don-henley": 13,
+        "artist:eagles": 14,
+        "genre:adult-contemporary": 75,
+        "playlist:xmas": 1,
+        "source:xmas": 1,
+        "decade:1970s": 277,
+        "year:1978": 57
+      },
+      "artists": [
+        {
+          "slug": "eagles",
+          "title": "Eagles",
+          "roleSlug": true
+        },
+        {
+          "slug": "don-henley",
+          "title": "Don Henley",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1978-12",
+        "title": "December 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 12
+      },
+      "rank": 1
+    },
+    {
+      "title": "Do They Know It's Christmas",
+      "instanceSlug": 2841,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1984-12",
+      "playlists": [
+        {
+          "slug": "xmas",
+          "title": "Christmas"
+        }
+      ],
+      "ranks": {
+        "artist:band-aid": 1,
+        "genre:pop": 862,
+        "playlist:xmas": 2,
+        "source:xmas": 2,
+        "decade:1980s": 1403,
+        "year:1984": 118
+      },
+      "artists": [
+        {
+          "slug": "band-aid",
+          "title": "Band Aid",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-12",
+        "title": "December 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 12
+      },
+      "rank": 2
+    }
+  ],
+  "score": 0,
+  "songCount": 2,
+  "songAdjustedAverage": 0
+}

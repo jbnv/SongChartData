@@ -1,1 +1,6211 @@
-{"title":"This In That","instanceSlug":"in","tags":[],"parents":[],"filter":{"title":"[a-zA-Z]+ in [a-zA-Z]+"},"songs":[{"title":"Blowing Kisses in the Wind","instanceSlug":259,"tags":["kiss","this-in-that","wind"],"parents":[],"genre":"adult-contemporary","debut":"1991-11","ranks":[14,6,2.5,1.75,1.5,1.62,1.8,2,2.44,3.26,4.71,7.32,12.21,21.7,40.99,81.97],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":14,"peakRank":1.5,"duration":4,"score":22.81,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"playlists":[],"source":null,"rank":1},{"title":"Living in America","instanceSlug":1747,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[9,1.9,1,1.18,1.37,1.58,1.82,2.38,3.48,5.61,9.9,19.01,39.41,87.74,208.79,528.83],"artists":[{"slug":"james-brown","title":"James Brown","roleSlug":true}],"debutRank":9,"peakRank":1,"duration":4,"score":22.55,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2},{"title":"I'm Not in Love","instanceSlug":1148,"tags":["i'm","in-love","love","not"],"parents":[],"genre":"pop","debut":"1990-12","playlists":[],"ranks":[14,4.5,1.7,1,1.05,1.25,1.49,2.05,3.23,5.69,11.11,23.8,55.54,140.18,380.48,1105.21],"artists":[{"slug":"will-to-power","title":"Will to Power","roleSlug":true}],"debutRank":14,"peakRank":1,"duration":4,"score":21.62,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3},{"title":"Genie in a Bottle","instanceSlug":267,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"}],"genre":"pop","debut":"1999-08","ranks":[15,4.8,3.4,2.9,2.85,2.86,3.1,3.36,3.92,4.91,6.56,9.31,14,22.23,37.15,65.21],"artists":[{"slug":"christina-aguillera","title":"Christina Aguilera","roleSlug":true}],"debutRank":15,"peakRank":2.85,"duration":4,"score":18.28,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":4},{"title":"Falling in Love","instanceSlug":1476,"tags":[],"parents":[],"genre":"pop","debut":"1986-12","playlists":[],"ranks":[15.5,9.5,4.9,3.1,2.5,2.6,2.8,3.15,3.54,4.43,6.09,9.14,14.85,25.98,48.71,97.43],"artists":[{"slug":"miami-sound-machine","title":"Miami Sound Machine","roleSlug":true}],"debutRank":15.5,"peakRank":2.5,"duration":4,"score":17.77,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":5},{"title":"Living in Danger","instanceSlug":1244,"tags":[],"parents":[],"genre":"pop","debut":"1994-11","playlists":[],"ranks":[15.8,9.7,5.2,3.9,3.5,3.4,3.5,3.7,4.1,4.6,5.16,6.42,8.77,13.05,21,36.37,67.41,133.18,279.35,620.02],"artists":[{"slug":"ace-of-base","title":"Ace of Base","roleSlug":true}],"debutRank":15.8,"peakRank":3.4,"duration":5,"score":17.74,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":6},{"title":"Living in a Box","instanceSlug":317,"tags":["box","live","living","living-in"],"parents":[],"genre":"pop","debut":"1987-08","playlists":[],"ranks":[15.9,4,1.4,1.5,1.72,1.97,2.55,3.67,5.83,10.1,18.99,38.49,83.65,194.07,478.71,1251.03],"artists":[{"slug":"living-in-a-box","title":"Living in a Box","roleSlug":true}],"debutRank":15.9,"peakRank":1.4,"duration":4,"score":17.63,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":7},{"title":"Put a Little Love in Your Heart","instanceSlug":1581,"tags":["heart","little","","love","put","your"],"parents":[],"genre":"pop","debut":"1988-12","source":{"title":"Scrooged","instanceSlug":"scrooged","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[12,4,1.7,1.84,1.98,2.32,2.72,3.65,5.53,9.33,17.35,35.22,77.56,184.1,468.63,1273.34],"artists":[{"slug":"annie-lennox","title":"Annie Lennox","roleSlug":true},{"slug":"al-green","title":"Al Green","roleSlug":true}],"debutRank":12,"peakRank":1.7,"duration":4,"score":17.37,"genres":[{"slug":"pop","title":"Pop"}],"rank":8},{"title":"The Most Beautiful Girl in the World","instanceSlug":1735,"tags":[],"parents":[],"genre":"pop","debut":"1994-03","playlists":[],"ranks":[13,4,1.33,1.49,1.67,2.07,2.82,4.17,6.69,11.51,21.2,41.61,86.66,190.92,443.57,1083.91],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":13,"peakRank":1.33,"duration":4,"score":17.32,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":9},{"title":"Lost in Emotion","instanceSlug":237,"tags":[],"parents":[],"genre":"dance","debut":"1987-08","ranks":[13.5,4.1,2.23,2.15,2.1,2.45,2.86,3.81,5.72,9.53,17.47,34.94,75.69,176.62,441.54,1177.45],"artists":[{"slug":"lisa-lisa-cult-jam","title":"Lisa Lisa & Cult Jam","roleSlug":true}],"debutRank":13.5,"peakRank":2.1,"duration":4,"score":16.53,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":10},{"title":"A Little in Love","instanceSlug":1795,"tags":[],"genre":"pop","debut":"1981-02","playlists":[],"ranks":[19,7.5,3.6,3,3.14,3.29,3.59,4.1,4.86,6,7.67,10.18,13.98,19.85,29.12,44.07,68.74,110.45,182.61,310.43],"artists":[{"slug":"cliff-richard","title":"Cliff Richard","roleSlug":true}],"debutRank":19,"peakRank":3,"duration":5,"score":16.28,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":11},{"title":"Rolling in the Deep","instanceSlug":1787,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"pop","debut":"2010s","playlists":[],"ranks":[15,7,3,1.4,1.64,1.92,2.58,3.91,6.59,12.23,24.81,54.58],"artists":[{"slug":"adele","title":"Adele","roleSlug":true}],"debutRank":15,"peakRank":1.4,"duration":3,"score":16.06,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":12},{"title":"Stranger in My House","instanceSlug":71,"tags":[],"playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"genre":"country","debut":"1983-04","ranks":[14.4,4.5,2.88,3.02,3.15,3.31,3.69,4.11,5.06,6.8,9.92,15.62,26.38,47.58,91.27,185.57],"artists":[{"slug":"ronnie-milsap","title":"Ronnie Milsap","roleSlug":true}],"debutRank":14.4,"peakRank":2.88,"duration":4,"score":16.02,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":13},{"title":"What Are We Doing in Love","instanceSlug":2579,"tags":["#1","#1-country"],"parents":[],"genre":"adult-contemporary","debut":"1981-05","playlists":[],"ranks":[13,6,3,1,1.31,1.72,2.78,5.37,12.02,30.65,87.65,277.86],"artists":[{"slug":"dottie-west","title":"Dottie West","roleSlug":true}],"debutRank":13,"peakRank":1,"duration":3,"score":15.54,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":14},{"title":"The Night the Lights Went Out in Georgia","instanceSlug":1185,"tags":["murder"],"parents":[],"genre":"country","debut":1992,"playlists":[{"slug":"places","title":"Places"}],"ranks":[14.5,3.7,2.5,2.6,2.75,3.15,3.61,4.66,6.69,10.58,18.28,34.23,69.09,149.48,345.16,847.22],"artists":[{"slug":"reba-mcentire","title":"Reba McEntire","roleSlug":true}],"debutRank":14.5,"peakRank":2.5,"duration":4,"score":15,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":15},{"title":"Islands in the Stream","instanceSlug":355,"tags":["#1","#1-country","#1-hot-100"],"parents":[],"genre":"country","debut":"1983-09","playlists":[],"ranks":[16,9.5,6,4.5,3.6,3,3.39,3.83,4.83,6.71,10.2,16.83,29.95,57.21,116.7,253.24],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true},{"slug":"dolly-parton","title":"Dolly Parton","roleSlug":"feature"}],"debutRank":16,"peakRank":3,"duration":4,"score":14.11,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":16},{"title":"Emotion in Motion","instanceSlug":1040,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"pop","debut":"1986-10","playlists":[],"ranks":[11.5,5,3.1,2.4,2.72,3.08,3.9,5.47,8.38,13.97,25.15,48.62,100.47,221.04,515.76,1272.22],"artists":[{"slug":"rik-ocasik","title":"Ric Ocasek","roleSlug":true}],"debutRank":11.5,"peakRank":2.4,"duration":4,"score":13.99,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":17},{"title":"Thieves in the Temple","instanceSlug":209,"tags":[],"playlists":[{"slug":"summer","title":"Songs of Summer"},{"slug":"stealing"}],"genre":"pop","debut":"1990-08","source":{"title":"Graffitti Bridge","instanceSlug":"graffitti-bridge","tags":["prince"],"parents":[],"type":"movie"},"ranks":[17,6.6,4.4,3.3,3.45,3.75,4.08,4.78,6.03,8.13,11.67,17.75,28.56,48.43,86.33,161.41],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":17,"peakRank":3.3,"duration":4,"score":13.85,"genres":[{"slug":"pop","title":"Pop"}],"rank":18},{"title":"I'm Still in Love With You","instanceSlug":1911,"tags":[],"parents":[],"genre":"soul","debut":"1996-11","playlists":[],"ranks":[13,1.5,1.72,1.97,2.55,3.67,5.83,10.1,18.99,38.49,83.65,194.07],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"debutRank":13,"peakRank":1.5,"duration":3,"score":13.55,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":19},{"title":"Woman in Love","instanceSlug":990,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1980-09","playlists":[],"ranks":[13.9,7.3,3.8,1.9,1.6,2.3,3.31,6.2,14.34,39.42,125.66,455.52],"artists":[{"slug":"barbra-streisand","title":"Barbra Streisand","roleSlug":true}],"debutRank":13.9,"peakRank":1.6,"duration":3,"score":13.42,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":20},{"title":"Dare to Fall in Love","instanceSlug":2288,"tags":[],"parents":[],"genre":"pop","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[16,9.6,5.9,4.4,3.4,3,3.5,4.08,5.44,8.17,13.61,24.95,49.91,108.13,252.31,630.77],"artists":[{"slug":"brent-bourgeois","title":"Brent Bourgeois","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":4,"score":13.32,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":21},{"title":"Don't Wanna Fall in Love","instanceSlug":1338,"tags":["don't","don't-wanna","fall","fall-in-love","love","wanna"],"parents":[],"genre":"pop","debut":"1990-03","playlists":[],"ranks":[16,10,7,5.1,4.2,3.5,3.7,4.5,5.47,7.84,12.92,24.1,50.16,115.23,289.64,790.64],"artists":[{"slug":"jane-child","title":"Jane Child","roleSlug":true}],"debutRank":16,"peakRank":3.5,"duration":4,"score":12.53,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":22},{"title":"If I Ever Fall in Love","instanceSlug":1059,"tags":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"urban","title":"Urban / R&B"}],"debut":"1992-11","playlists":[],"ranks":[15,5,3,1.9,2.4,3.03,4.63,8.28,17,39.36,101.51,288.49],"artists":[{"slug":"shai","title":"Shai","roleSlug":true}],"debutRank":15,"peakRank":1.9,"duration":3,"score":12.48,"source":null,"rank":23},{"title":"If I Ever Lose My Faith in You","instanceSlug":313,"tags":["faith","i","lose","my","you"],"parents":[],"genre":"pop","debut":1993,"playlists":[],"ranks":[15.9,8.6,4.6,2.4,2.4,3.5,5,7,10,14.29,26.53,60.64],"artists":[{"slug":"sting","title":"Sting","roleSlug":true}],"debutRank":15.9,"peakRank":2.4,"duration":3,"score":12.03,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":24},{"title":"Standing Outside a Broken Phone Booth with Money in My Hand","instanceSlug":598,"tags":[],"parents":[],"genre":"pop","debut":"1996-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,8.3,4.6,3.3,2.5,3.4,4.7,6.7,9.55,17.68,40.25,108.76],"artists":[{"slug":"primitive-radio-gods","title":"Primitive Radio Gods","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":3,"score":11.74,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":25},{"title":"Did It in a Minute","instanceSlug":1485,"tags":["did-it","minute"],"parents":[],"genre":"pop","debut":"1982-04","playlists":[],"ranks":[16,10,7.2,5.3,4.4,4,4.61,5.31,6.93,10.11,16.27,28.68,54.91,113.54,252.05,597.98],"artists":[{"slug":"hall-oates","title":"Hall & Oates","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":4,"score":11.18,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":26},{"title":"Something in My Heart","instanceSlug":1943,"tags":[],"parents":[],"genre":"pop","debut":"1991-03","playlists":[],"ranks":[15,9,7,5,5.1,5.4,5.9,6.6,7.38,9.13,12.39,18.26,29.1,49.81,91.19,177.74],"artists":[{"slug":"michel-le","title":"Michel'le","roleSlug":true}],"debutRank":15,"peakRank":5,"duration":4,"score":10.93,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":27},{"title":"Piano in the Dark","instanceSlug":460,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1988-04","playlists":[{"slug":"in","title":"This In That"}],"ranks":[13.9,7.7,4.3,2.4,3.1,4,6.34,11.89,25.76,63.32,174.12,529.62],"artists":[{"slug":"brenda-russell","title":"Brenda Russell","roleSlug":true}],"debutRank":13.9,"peakRank":2.4,"duration":3,"score":10.15,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":28},{"title":"Piano in the Dark","instanceSlug":460,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1988-04","playlists":[{"slug":"in","title":"This In That"}],"ranks":[13.9,7.7,4.3,2.4,3.1,4,6.34,11.89,25.76,63.32,174.12,529.62],"artists":[{"slug":"brenda-russell","title":"Brenda Russell","roleSlug":true}],"debutRank":13.9,"peakRank":2.4,"duration":3,"score":10.15,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":29},{"title":"Dance Floor Anthem (Don't Wanna Be in Love)","instanceSlug":1339,"tags":["don't-wanna","in-love"],"genre":"rock","debut":2007,"playlists":[],"ranks":[21,11,7.2,5.5,5.6,5.9,6.22,6.88,7.99,9.7,12.3,16.25,22.35,31.92,47.31,72.66],"artists":[{"slug":"good-charlotte","title":"Good Charlotte","roleSlug":true}],"debutRank":21,"peakRank":5.5,"duration":4,"score":10.02,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":30},{"title":"Late in the Evening","instanceSlug":996,"tags":[],"parents":[],"genre":"rock","debut":"1980-09","source":{"title":"One-Trick Pony","instanceSlug":"one-trick-pony","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[15,8.5,4.8,3.5,4.3,5.28,7.7,12.98,24.84,53.23,126.23,328.2],"artists":[{"slug":"paul-simon","title":"Paul Simon","roleSlug":true}],"debutRank":15,"peakRank":3.5,"duration":3,"score":8.6,"genres":[{"slug":"rock","title":"Rock"}],"rank":31},{"title":"Paper in Fire","instanceSlug":596,"tags":["#1","#1-mainstream-rock","this-in-that"],"parents":[],"genre":"rock","debut":"1987-09","playlists":[],"ranks":[17.9,10.6,7.4,6.2,6.03,6.46,7.21,8.05,9.92,13.37,19.58,30.94,52.5,95.16,183.55,375.33],"artists":[{"slug":"john-mellancamp","title":"John Mellencamp","roleSlug":true}],"debutRank":17.9,"peakRank":6.03,"duration":4,"score":8.34,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":32},{"title":"ROCK in the USA","instanceSlug":1776,"tags":[],"parents":[],"genre":"rock","debut":"1986-03","playlists":[],"ranks":[18,11,7,5,5.4,6.1,6.89,8.68,12.05,18.3,30.16,53.62],"artists":[{"slug":"john-mellancamp","title":"John Mellencamp","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":3,"score":8.17,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":33},{"title":"Love in the First Degree","instanceSlug":2098,"tags":[],"parents":[],"genre":"country","debut":"1982-02","playlists":[],"ranks":[18,11,5,5.4,5.97,6.6,7.99,10.52,14.97,22.87,37.35,64.95],"artists":[{"slug":"alabama","title":"Alabama","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":3,"score":7.6,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":34},{"title":"Hand in My Pocket","instanceSlug":1361,"tags":[],"genre":"pop","debut":"1995-11","playlists":[],"ranks":[21,14,9,7.2,7,7.1,7.7,8.35,9.76,12.24,16.37,23.29,35.1,55.87,93.63,164.85],"artists":[{"slug":"alanis-morrisette","title":"Alanis Morrisette","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":4,"score":7.54,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":35},{"title":"Eye in the Sky","instanceSlug":627,"tags":["this-in-that"],"parents":[],"genre":"pop","debut":"1982-08","playlists":[],"ranks":[20,11.8,8.9,7.6,6.9,7.6,8.37,10.07,13.13,18.46,27.83,44.77,76.56,138.7,265.34,534.52],"artists":[{"slug":"alan-parsons-project","title":"Alan Parsons Project","roleSlug":true}],"debutRank":20,"peakRank":6.9,"duration":4,"score":6.44,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":36},{"title":"Dancing in the Streets","instanceSlug":1052,"tags":["dance","remake","street","this-in-that"],"parents":[],"genre":"hard-rock","debut":"1982-07","playlists":[],"ranks":[17,14,11.5,10,9,8.5,8.7,9.6,11,12.6,16.28,23.4,37.05,64.07,120.14,242.78],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"member"}],"debutRank":17,"peakRank":8.5,"duration":4,"score":6.3,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":37},{"title":"Heaven in Your Eyes","instanceSlug":416,"tags":[],"parents":[],"genre":"rock","debut":"1986-09","source":{"title":"Top Gun","instanceSlug":"top-gun","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[18,12,9,7.3,6.5,6,9,13.5,27,67.5,202.5,708.75],"artists":[{"slug":"loverboy","title":"Loverboy","roleSlug":true}],"debutRank":18,"peakRank":6,"duration":3,"score":5.98,"genres":[{"slug":"rock","title":"Rock"}],"rank":38},{"title":"Dancing in the Streets","instanceSlug":936,"tags":[],"parents":[],"genre":"rock","debut":"1985-09","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[21,14,9,8,7,7.8,8.69,10.68,14.34,20.89,32.83,55.35],"artists":[{"slug":"mick-jagger","title":"Mick Jagger","roleSlug":true},{"slug":"david-bowie","title":"David Bowie","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":3,"score":5.89,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":39},{"title":"Tears in Heaven","instanceSlug":1702,"tags":[],"parents":[],"genre":"blues","debut":"1992-03","playlists":[],"ranks":[20,5,5.6,6.27,7.78,10.58,15.65,25.05,43.08,79.27,155.36,323.16],"artists":[{"slug":"eric-clapton","title":"Eric Clapton","roleSlug":true}],"debutRank":20,"peakRank":5,"duration":3,"score":5.68,"genres":[{"slug":"blues","title":"Blues"}],"source":null,"rank":40},{"title":"Hot Girls in Love","instanceSlug":737,"tags":["girl","hot","love"],"parents":[],"genre":"rock","debut":"1983-07","playlists":[],"ranks":[18,12,9.4,7.3,6.8,8.2,9.89,13.96,22.58,41.18,83.57,186.8],"artists":[{"slug":"loverboy","title":"Loverboy","roleSlug":true}],"debutRank":18,"peakRank":6.8,"duration":3,"score":5.45,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":41},{"title":"Love Light in Flight","instanceSlug":1761,"tags":[],"parents":[],"genre":"soul","debut":"1985-01","source":{"title":"The Woman in Red","instanceSlug":"woman-in-red","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[17,14,11,8,7,8.2,9.61,12.9,19.53,32.93,61.15,124.05],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":17,"peakRank":7,"duration":3,"score":5.21,"genres":[{"slug":"soul","title":"Soul"}],"rank":42},{"title":"Something in Common","instanceSlug":1596,"tags":["common","duet","something"],"parents":[],"genre":"pop","debut":"1993-12","playlists":[],"ranks":[20,14,10,9.2,8.8,8.9,10,11.24,14.01,19.21,28.71,46.45,80.89,150.87,300.05,633.81],"artists":[{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":true},{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":20,"peakRank":8.8,"duration":4,"score":5.17,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":43},{"title":"Early in the Morning","instanceSlug":613,"tags":["early","morning","this-in-that"],"parents":[],"genre":true,"debut":"1982-06","playlists":[],"ranks":[18,11.5,6.6,5.8,7.9,10.76,18.55,38.7,94.76,266.3,844.82,2986.01],"artists":[{"slug":"gap-band","title":"Gap Band","roleSlug":true}],"debutRank":18,"peakRank":5.8,"duration":3,"score":4.66,"genres":[{"slug":true}],"source":null,"rank":44},{"title":"Words Get in the Way","instanceSlug":328,"tags":[],"parents":[],"genre":true,"debut":"1986-09","playlists":[],"ranks":[18,11.7,6.8,7.5,10.2,13.9,18.94,32.68,68.25,167.29,470.7,1495.16],"artists":[{"slug":"miami-sound-machine","title":"Miami Sound Machine","roleSlug":true}],"debutRank":18,"peakRank":6.8,"duration":3,"score":3.82,"genres":[{"slug":true}],"source":null,"rank":45},{"title":"Hot Child in the City","instanceSlug":1727,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1978-08","playlists":[],"ranks":[21,17,14,12,10,12,14.4,20.16,32.26,58.06,116.12,255.47],"artists":[{"slug":"nick-gilder","title":"Nick Gilder","roleSlug":true}],"debutRank":21,"peakRank":10,"duration":3,"score":2.59,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":46},{"title":"She Believes in Me","instanceSlug":1546,"tags":["#1","#1-adult-contemporary","#1-country"],"parents":[],"genre":"country","debut":"1979-05","playlists":[],"ranks":[21,15,12,9,12.2,16.54,28.3,58.48],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true}],"debutRank":21,"peakRank":9,"duration":2,"score":2.3,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":47},{"title":"Candle in the Wind (1987)","instanceSlug":1125,"tags":["candle","this-in-that","wind"],"parents":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[22,18,16,14,13,14.4,16,17.78,21.73,28.97,41.85,65.1],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true}],"debutRank":22,"peakRank":13,"duration":3,"score":1.82,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":48},{"title":"Born in the USA","instanceSlug":1772,"tags":[],"parents":[],"genre":"rock","debut":"1984-12","playlists":[],"ranks":[24,18,15,12,14.6,17.76,25.46,42.01,78.42,163.37,375.76,945.66],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"debutRank":24,"peakRank":12,"duration":3,"score":1.36,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":49},{"title":"Back in Black","instanceSlug":23,"tags":[],"parents":[],"genre":"hard-rock","debut":"1981-02","ranks":[24,18,16,14,14.3,15.6,19,23.14,33.23,54.95,102.86,214.96],"artists":[{"slug":"ac-dc","title":"AC/DC","roleSlug":true}],"debutRank":24,"peakRank":14,"duration":3,"score":1.35,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"playlists":[],"source":null,"rank":50},{"title":"Another Day in Paradise","instanceSlug":397,"tags":[],"parents":[],"genre":"pop","debut":"1989-12","playlists":[],"ranks":[24,18,12,15,18.75,28.13,49.22,98.44],"artists":[{"slug":"phil-collins","title":"Phil Collins","roleSlug":true},{"slug":"david-crosby","title":"David Crosby","roleSlug":"backup"}],"debutRank":24,"peakRank":12,"duration":2,"score":0.99,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":51},{"title":"Lawyers in Love","instanceSlug":745,"tags":[],"parents":[],"genre":"rock","debut":"1983-08","playlists":[],"ranks":[21,12.5,12.8,20.3,32.1,50.8,80.3,127],"artists":[{"slug":"jackson-browne","title":"Jackson Browne","roleSlug":true}],"debutRank":21,"peakRank":12.5,"duration":2,"score":0.92,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":52},{"title":"Lucy in the Sky with Diamonds","instanceSlug":2405,"tags":["#1","#1-hot-100","remake"],"parents":[],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":53},{"title":"Dancing in the Sheets","instanceSlug":"sheets","tags":[],"playlists":[],"ranks":[],"artists":[{"slug":"shalamar","title":"Shalamar","roleSlug":true}],"debut":"1984-04","source":{"title":"Footloose","instanceSlug":"footloose","tags":[],"parents":[],"type":"movie"},"genres":[],"rank":54},{"title":"A Word in Spanish","instanceSlug":2416,"tags":[],"parents":[],"genre":"pop","debut":"1988-11","playlists":[],"ranks":[],"artists":[{"slug":"elton-john","title":"Elton John","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":55},{"title":"Woman in Chains","instanceSlug":2421,"tags":[],"parents":[],"genre":"pop","debut":"1990-02","playlists":[],"ranks":[],"artists":[{"slug":"tears-for-fears","title":"Tears for Fears","roleSlug":true},{"slug":"oleta-adams","title":"Oleta Adams","roleSlug":"backup"},{"slug":"phil-collins","title":"Phil Collins","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":56},{"title":"One Moment in Time","instanceSlug":1312,"tags":["#1","#1-adult-contemporary","one","this-in-that","time"],"parents":[],"genre":"adult-contemporary","debut":"1988-10","playlists":[],"ranks":[],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":57},{"title":"Tangled Up in Blue","instanceSlug":2457,"tags":[],"parents":[],"genre":"folk-rock","debut":1975,"playlists":[{"slug":"colors"}],"ranks":[],"artists":[{"slug":"bob-dylan","title":"Bob Dylan","roleSlug":true}],"genres":[{"slug":"folk-rock","title":"Folk Rock"}],"source":null,"rank":58},{"title":"New Kid in Town","instanceSlug":2464,"tags":["#1","#1-hot-100"],"parents":[],"genre":"soft-rock","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"glenn-frey"}],"genres":[{"slug":"soft-rock","title":"Soft Rock"}],"source":null,"rank":59},{"title":"Life in the Fast Lane","instanceSlug":2465,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"don-henley","title":"Don Henley","roleSlug":"lead"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":60},{"title":"Angel in Your Arms","instanceSlug":2480,"tags":[],"parents":[],"genre":"pop","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"hot","title":"Hot","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":61},{"title":"Hot in the City","instanceSlug":2498,"tags":[],"parents":[],"genre":"pop","debut":"1982-08","playlists":[],"ranks":[],"artists":[{"slug":"billy-idol","title":"Billy Idol","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":62},{"title":"Don't Fall in Love with a Dreamer","instanceSlug":2576,"tags":[],"parents":[],"genre":"country","debut":"1980-04","playlists":[],"ranks":[],"artists":[{"slug":"kenny-rogers","title":"Kenny Rogers","roleSlug":true},{"slug":"kim-carnes","title":"Kim Carnes","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":63},{"title":"Not Enough Love in the World","instanceSlug":2614,"tags":[],"parents":[],"genre":"pop","debut":"1985-07","playlists":[],"ranks":[],"artists":[{"slug":"don-henley","title":"Don Henley","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":64},{"title":"Spirits in the Material World","instanceSlug":2648,"tags":[],"parents":[],"genre":"rock","debut":"1982-02","playlists":[],"ranks":[],"artists":[{"slug":"police","title":"Police, The","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":65},{"title":"Could It Be I'm Falling in Love","instanceSlug":2661,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":66},{"title":"Dancing in the Dark","instanceSlug":2677,"tags":["#1","#1-mainstream-rock","#2-hot-100"],"parents":[],"genre":"rock","debut":"1984-06","playlists":[],"ranks":[],"artists":[{"slug":"bruce-springsteen","title":"Bruce Springsteen","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":67},{"title":"The Night the Lights Went Out in Georgia","instanceSlug":1186,"tags":["georgia","light","","murder","night","out","remade"],"parents":[],"genre":"pop","debut":"1970s","playlists":[],"ranks":[],"artists":[{"slug":"vicki-lawrence","title":"Vicki Lawrence","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":68},{"title":"The Woman in Me","instanceSlug":2735,"tags":[],"parents":[],"genre":"pop","debut":"1983-02","playlists":[],"ranks":[],"artists":[{"slug":"donna-summer","title":"Donna Summer","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":69},{"title":"No Good in Goodbye","instanceSlug":2762,"tags":[],"parents":[],"genre":"pop","debut":2015,"playlists":[],"ranks":[],"artists":[{"slug":"script","title":"Script, The","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":70},{"title":"Rest in Peace","instanceSlug":1116,"tags":[],"parents":[],"genre":"rock","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"extreme","title":"Extreme","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":71},{"title":"Lost in Love","instanceSlug":2782,"tags":[],"parents":[],"genre":"soul","debut":"1985-05","playlists":[],"ranks":[],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":72},{"title":"(Every Time I Turn Around) Back in Love Again","instanceSlug":2808,"tags":[],"parents":[],"genre":"urban","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"ltd","title":"LTD","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":73},{"title":"Think I'm in Love","instanceSlug":2878,"tags":["#1","#1-mainstream-rock","i'm-in-love","in-love"],"parents":[],"genre":"rock","debut":"1982-08","playlists":[],"ranks":[],"artists":[{"slug":"eddie-money","title":"Eddie Money","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":74},{"title":"Life in a Northern Town","instanceSlug":1746,"tags":[],"parents":[],"genre":"pop","debut":"1986-01","playlists":[],"ranks":[],"artists":[{"slug":"dream-academy","title":"Dream Academy","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":75},{"title":"Standing in the Shadows of Love","instanceSlug":2902,"tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":76},{"title":"Just Another Day in Paradise","instanceSlug":2927,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"2000-12","playlists":[],"ranks":[],"artists":[{"slug":"phil-vassar","title":"Phil Vassar","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":77},{"title":"Place in this World","instanceSlug":2929,"tags":[],"parents":[],"genre":"pop","debut":"1991-06","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"michael-w-smith","title":"Michael W. Smith","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":78},{"title":"Men in Black","instanceSlug":2930,"tags":[],"parents":[],"genre":"urban","debut":"1997-07","source":{"title":"Men in Black","instanceSlug":"men-in-black","tags":["will-smith"],"type":"movie"},"playlists":[{"slug":"sample"},{"slug":"summer","title":"Songs of Summer"}],"ranks":true,"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":79},{"title":"Stuck in the Middle With You","instanceSlug":2969,"tags":[],"parents":[],"genre":"rock","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"stealers-wheel","title":"Stealers Wheel","roleSlug":true},{"slug":"gerry-rafferty","title":"Gerry Rafferty","roleSlug":"member"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":80},{"title":"Spirit in the Night","instanceSlug":2998,"tags":[],"parents":[],"genre":"rock","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"manfredd-mann","title":"Manfred Mann","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":81},{"title":"To Live and Die in LA","instanceSlug":1374,"tags":["die","live","live-and-die","los-angeles"],"parents":[],"genre":"pop","debut":"1985-11","playlists":[],"ranks":[],"artists":[{"slug":"wang-chung","title":"Wang Chung","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":82},{"title":"Living in a Fantasy","instanceSlug":1793,"tags":[],"parents":[],"genre":"pop","debut":"1981-03","playlists":[],"ranks":[],"artists":[{"slug":"leo-sayre","title":"Leo Sayre","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":83},{"title":"If I Could Fall in Love","instanceSlug":348,"tags":[],"parents":[],"genre":"pop","debut":"1995-08","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"selena","title":"Selena","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":84},{"title":"Jukebox in My Mind","instanceSlug":1399,"tags":["jukebox","mind","my","this-in-that"],"parents":[],"genre":"country","debut":1990,"playlists":[],"ranks":[],"artists":[{"slug":"alabama","title":"Alabama","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":85},{"title":"Man in the Mirror","instanceSlug":364,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"genre":"soul","debut":"1988-02","playlists":[],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"siedah-garrett","title":"Siedah Garrett","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"rank":86},{"title":"Dust in the Wind","instanceSlug":1849,"tags":[],"parents":[],"genre":"rock","debut":1978,"playlists":[],"ranks":[],"artists":[{"slug":"kansas","title":"Kansas","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":87},{"title":"Lost in Your Eyes","instanceSlug":424,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1989-02","playlists":[],"ranks":[],"artists":[{"slug":"debbie-gibson","title":"Debbie Gibson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":88},{"title":"Love in an Elevator","instanceSlug":476,"tags":[],"parents":[],"genre":"rock","debut":"1989-10","playlists":[],"ranks":[],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":89},{"title":"Peace in Our Time","instanceSlug":1949,"tags":[],"parents":[],"genre":"pop","debut":"1990-01","playlists":[],"ranks":[],"artists":[{"slug":"eddie-money","title":"Eddie Money","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":90},{"title":"I'm in Love With You","instanceSlug":1468,"tags":["i'm","love","with","you"],"parents":[],"genre":"pop","debut":"1960s","playlists":[],"ranks":[],"artists":[{"slug":"beatles","title":"Beatles","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":91},{"title":"Breaking Us in Two","instanceSlug":1960,"tags":[],"parents":[],"genre":"pop","debut":"1983-02","playlists":[],"ranks":[],"artists":[{"slug":"joe-jackson","title":"Joe Jackson","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":92},{"title":"Touch Me in the Morning","instanceSlug":1967,"tags":[],"parents":[],"genre":"soul","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"diana-ross","title":"Diana Ross","roleSlug":true}],"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":93},{"title":"Do You Believe in Love","instanceSlug":1980,"tags":[],"parents":[],"genre":"rock","debut":"1982-03","playlists":[],"ranks":[],"artists":[{"slug":"huey-lewis-the-news","title":"Huey Lewis & the News","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":94},{"title":"Saturday in the Park","instanceSlug":1993,"tags":[],"parents":[],"genre":"jazz-rock","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"chicago","title":"Chicago","roleSlug":true}],"genres":[{"slug":"jazz-rock","title":"Jazz Rock"}],"source":null,"rank":95},{"title":"Walking in Memphis","instanceSlug":2021,"tags":[],"parents":[],"genre":"pop","debut":"1991-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"marc-cohn","title":"Marc Cohn","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":96},{"title":"Back in the Day","instanceSlug":2092,"tags":[],"parents":[],"genre":"hip-hop","debut":"1994-07","playlists":[],"ranks":[],"artists":[{"slug":"ahmad","title":"Ahmad","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":97},{"title":"Lost in Love","instanceSlug":2093,"tags":[],"parents":[],"genre":"pop","debut":"1980-03","playlists":[],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":98},{"title":"Every Woman in the World","instanceSlug":2094,"tags":[],"parents":[],"genre":"pop","debut":"1980-12","playlists":[{"slug":"ballad","title":"Ballads"}],"ranks":[],"artists":[{"slug":"air-supply","title":"Air Supply","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":99},{"title":"Back in the High Life","instanceSlug":2148,"tags":[],"parents":[],"genre":"pop","debut":"1987-07","playlists":[],"ranks":[],"artists":[{"slug":"steve-winwood","title":"Steve Winwood","roleSlug":true},{"slug":"james-taylor","title":"James Taylor","roleSlug":"backup"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":100},{"title":"Circle in the Sand","instanceSlug":795,"tags":["circle","sand","this-in-that"],"parents":[],"genre":"pop","debut":"1988-04","playlists":[],"ranks":[],"artists":[{"slug":"belinda-carlisle","title":"Belinda Carlisle","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":101},{"title":"Stop in the Name of Love","instanceSlug":158,"tags":["1960s","love","name","stop"],"parents":[],"ranks":[],"artists":[{"slug":"supremes","title":"Supremes","roleSlug":true}],"genres":[],"playlists":[],"source":null,"rank":102},{"title":"The Best Things in Life Are Free","instanceSlug":1078,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1992-06","source":{"title":"Mo' Money","instanceSlug":"mo-money","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":true,"artists":[{"slug":"luther-vandross","title":"Luther Vandross","roleSlug":true},{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true},{"slug":"bell-biv-devoe","title":"Bell Biv DeVoe","roleSlug":"backup"}],"genres":[{"slug":"soul","title":"Soul"}],"rank":103},{"title":"Spy in the House of Love","instanceSlug":1292,"tags":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"pop","title":"Pop"}],"debut":"1988-11","playlists":[],"ranks":[],"artists":[{"slug":"was-not-was","title":"Was (Not Was)","roleSlug":true}],"source":null,"rank":104},{"title":"Early in the Morning","instanceSlug":1294,"tags":["early","morning","remake","this-in-that"],"parents":[],"genre":"pop","debut":"1988-11","playlists":[],"ranks":[],"artists":[{"slug":"robert-palmer","title":"Robert Palmer","roleSlug":true}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":105},{"title":"Seasons in the Sun","instanceSlug":2340,"tags":["#1","#1-adult-contemporary","death"],"parents":[],"genre":"adult-contemporary","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"terry-jacks","title":"Terry Jacks","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":106},{"title":"Lucy in the Sky with Diamonds","instanceSlug":2406,"tags":[],"parents":[],"genre":"rock","debut":"1960s","playlists":[],"ranks":[],"artists":[{"slug":"beatles","title":"Beatles","roleSlug":true}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":107}],"score":558.15,"songAdjustedAverage":53.96}
+{
+  "title": "This In That",
+  "instanceSlug": "in",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "filter": {
+    "title": "[a-zA-Z]+ in [a-zA-Z]+"
+  },
+  "songs": [
+    {
+      "title": "I'm Not in Love",
+      "instanceSlug": 1148,
+      "tags": [
+        "in-love"
+      ],
+      "genre": "pop",
+      "debut": "1990-12",
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        }
+      ],
+      "ranks": {
+        "artist:will-to-power": 1,
+        "genre:pop": 11,
+        "playlist:remake": 1,
+        "source:remake": 1,
+        "decade:1990s": 9,
+        "year:1990": 4
+      },
+      "artists": [
+        {
+          "slug": "will-to-power",
+          "title": "Will to Power",
+          "roleSlug": true
+        }
+      ],
+      "note": "Project 6 weeks at #1.",
+      "scores": [
+        0.12,
+        0.498,
+        1,
+        0.983,
+        0.953,
+        0.917,
+        0.878,
+        0.827,
+        0.822,
+        0.812,
+        0.797,
+        0.777,
+        0.752,
+        0.722,
+        0.687,
+        0.647,
+        0.602,
+        0.552,
+        0.497,
+        0.437,
+        0.372,
+        0.302,
+        0.227,
+        0.147,
+        0.062,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 1,
+      "duration": 7,
+      "score": 15.389999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-12",
+        "title": "December 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 12
+      },
+      "rank": 1
+    },
+    {
+      "title": "Living in America",
+      "instanceSlug": 1747,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:james-brown": 1,
+        "genre:pop": 28,
+        "decade:1980s": 32,
+        "year:1986": 3
+      },
+      "artists": [
+        {
+          "slug": "james-brown",
+          "title": "James Brown",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.267,
+        0.786,
+        1,
+        0.944,
+        0.895,
+        0.847,
+        0.842,
+        0.832,
+        0.817,
+        0.797,
+        0.772,
+        0.742,
+        0.707,
+        0.667,
+        0.622,
+        0.572,
+        0.517,
+        0.457,
+        0.392,
+        0.322,
+        0.247,
+        0.167,
+        0.082,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.293,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-01",
+        "title": "January 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 1
+      },
+      "rank": 2
+    },
+    {
+      "title": "What Are We Doing in Love",
+      "instanceSlug": 2579,
+      "tags": [
+        "#1",
+        "#1-country"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1981-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:dottie-west": 1,
+        "genre:adult-contemporary": 2,
+        "decade:1980s": 55,
+        "year:1981": 4
+      },
+      "artists": [
+        {
+          "slug": "dottie-west",
+          "title": "Dottie West",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.402,
+        0.633,
+        1,
+        0.909,
+        0.904,
+        0.894,
+        0.879,
+        0.859,
+        0.834,
+        0.804,
+        0.769,
+        0.729,
+        0.684,
+        0.634,
+        0.579,
+        0.519,
+        0.454,
+        0.384,
+        0.309,
+        0.229,
+        0.144,
+        0.054,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 13.751,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-05",
+        "title": "May 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 5
+      },
+      "rank": 3
+    },
+    {
+      "title": "Blowing Kisses in the Wind",
+      "instanceSlug": 259,
+      "tags": [
+        "kiss",
+        "this-in-that",
+        "wind"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1991-11",
+      "ranks": {
+        "artist:paula-abdul": 3,
+        "genre:adult-contemporary": 3,
+        "decade:1990s": 40,
+        "year:1991": 9
+      },
+      "artists": [
+        {
+          "slug": "paula-abdul",
+          "title": "Paula Abdul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.694,
+        0.813,
+        0.864,
+        0.839,
+        0.804,
+        0.799,
+        0.789,
+        0.774,
+        0.754,
+        0.729,
+        0.699,
+        0.664,
+        0.624,
+        0.579,
+        0.529,
+        0.474,
+        0.414,
+        0.349,
+        0.279,
+        0.204,
+        0.124,
+        0.039,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.864,
+      "duration": 7,
+      "score": 13.359,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-11",
+        "title": "November 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 11
+      },
+      "rank": 4
+    },
+    {
+      "title": "The Most Beautiful Girl in the World",
+      "instanceSlug": 1735,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1994-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:prince": 2,
+        "genre:pop": 96,
+        "decade:1990s": 63,
+        "year:1994": 4
+      },
+      "artists": [
+        {
+          "slug": "prince",
+          "title": "Prince",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.537,
+        0.904,
+        0.867,
+        0.862,
+        0.852,
+        0.837,
+        0.817,
+        0.792,
+        0.762,
+        0.727,
+        0.687,
+        0.642,
+        0.592,
+        0.537,
+        0.477,
+        0.412,
+        0.342,
+        0.267,
+        0.187,
+        0.102,
+        0.012,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.904,
+      "duration": 6,
+      "score": 12.359000000000002,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-03",
+        "title": "March 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 3
+      },
+      "rank": 5
+    },
+    {
+      "title": "Living in a Box",
+      "instanceSlug": 317,
+      "tags": [
+        "box",
+        "live",
+        "living",
+        "living-in"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:living-in-a-box": 1,
+        "genre:pop": 97,
+        "decade:1980s": 103,
+        "year:1987": 16
+      },
+      "artists": [
+        {
+          "slug": "living-in-a-box",
+          "title": "Living in a Box",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.537,
+        0.887,
+        0.864,
+        0.819,
+        0.814,
+        0.804,
+        0.789,
+        0.769,
+        0.744,
+        0.714,
+        0.679,
+        0.639,
+        0.594,
+        0.544,
+        0.489,
+        0.429,
+        0.364,
+        0.294,
+        0.219,
+        0.139,
+        0.054,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.887,
+      "duration": 6,
+      "score": 12.262,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 6
+    },
+    {
+      "title": "Rolling in the Deep",
+      "instanceSlug": 1787,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2010s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:adele": 1,
+        "genre:pop": 102,
+        "decade:2010s": 3
+      },
+      "artists": [
+        {
+          "slug": "adele",
+          "title": "Adele",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.351,
+        0.633,
+        0.887,
+        0.835,
+        0.83,
+        0.82,
+        0.805,
+        0.785,
+        0.76,
+        0.73,
+        0.695,
+        0.655,
+        0.61,
+        0.56,
+        0.505,
+        0.445,
+        0.38,
+        0.31,
+        0.235,
+        0.155,
+        0.07,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.887,
+      "duration": 6,
+      "score": 12.153,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2010s",
+        "title": "2010s",
+        "decade": 2010
+      },
+      "rank": 7
+    },
+    {
+      "title": "Put a Little Love in Your Heart",
+      "instanceSlug": 1581,
+      "tags": [
+        "heart",
+        "little",
+        "",
+        "love",
+        "put",
+        "your"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1988-12",
+      "source": {
+        "title": "Scrooged",
+        "instanceSlug": "scrooged",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:annie-lennox": 1,
+        "artist:al-green": 1,
+        "genre:pop": 123,
+        "decade:1980s": 130,
+        "year:1988": 9
+      },
+      "artists": [
+        {
+          "slug": "annie-lennox",
+          "title": "Annie Lennox",
+          "roleSlug": true
+        },
+        {
+          "slug": "al-green",
+          "title": "Al Green",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.537,
+        0.823,
+        0.796,
+        0.772,
+        0.719,
+        0.714,
+        0.704,
+        0.689,
+        0.669,
+        0.644,
+        0.614,
+        0.579,
+        0.539,
+        0.494,
+        0.444,
+        0.389,
+        0.329,
+        0.264,
+        0.194,
+        0.119,
+        0.039,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.823,
+      "duration": 6,
+      "score": 11.241999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1988-12",
+        "title": "December 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 12
+      },
+      "rank": 8
+    },
+    {
+      "title": "I'm Still in Love With You",
+      "instanceSlug": 1911,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1996-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:new-edition": 2,
+        "genre:soul": 28,
+        "decade:1990s": 101,
+        "year:1996": 6
+      },
+      "artists": [
+        {
+          "slug": "new-edition",
+          "title": "New Edition",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.864,
+        0.819,
+        0.814,
+        0.804,
+        0.789,
+        0.769,
+        0.744,
+        0.714,
+        0.679,
+        0.639,
+        0.594,
+        0.544,
+        0.489,
+        0.429,
+        0.364,
+        0.294,
+        0.219,
+        0.139,
+        0.054,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 10.906000000000002,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-11",
+        "title": "November 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 11
+      },
+      "rank": 9
+    },
+    {
+      "title": "Woman in Love",
+      "instanceSlug": 990,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1980-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:barbra-streisand": 1,
+        "genre:adult-contemporary": 8,
+        "decade:1980s": 146,
+        "year:1980": 12
+      },
+      "artists": [
+        {
+          "slug": "barbra-streisand",
+          "title": "Barbra Streisand",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.122,
+        0.337,
+        0.554,
+        0.786,
+        0.843,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.843,
+      "duration": 6,
+      "score": 10.835999999999999,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-09",
+        "title": "September 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 9
+      },
+      "rank": 10
+    },
+    {
+      "title": "Lost in Emotion",
+      "instanceSlug": 237,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-08",
+      "ranks": {
+        "artist:lisa-lisa-cult-jam": 1,
+        "genre:dance": 24,
+        "decade:1980s": 150,
+        "year:1987": 29
+      },
+      "artists": [
+        {
+          "slug": "lisa-lisa-cult-jam",
+          "title": "Lisa Lisa & Cult Jam",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.132,
+        0.529,
+        0.732,
+        0.744,
+        0.752,
+        0.701,
+        0.696,
+        0.686,
+        0.671,
+        0.651,
+        0.626,
+        0.596,
+        0.561,
+        0.521,
+        0.476,
+        0.426,
+        0.371,
+        0.311,
+        0.246,
+        0.176,
+        0.101,
+        0.021,
+        0
+      ],
+      "debutScore": 0.132,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 10.726000000000004,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 11
+    },
+    {
+      "title": "Piano in the Dark",
+      "instanceSlug": 460,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1988-04",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "piano",
+          "title": "Songs with Piano Solos"
+        }
+      ],
+      "ranks": {
+        "artist:brenda-russell": 1,
+        "artist:joe-esposito": 1,
+        "genre:adult-contemporary": 10,
+        "playlist:ballad": 20,
+        "playlist:piano": 1,
+        "source:ballad": 20,
+        "source:piano": 1,
+        "decade:1980s": 189,
+        "year:1988": 17
+      },
+      "artists": [
+        {
+          "slug": "brenda-russell",
+          "title": "Brenda Russell",
+          "roleSlug": true
+        },
+        {
+          "slug": "joe-esposito"
+        }
+      ],
+      "scores": [
+        0.122,
+        0.708,
+        0.737,
+        0.72,
+        0.698,
+        0.693,
+        0.683,
+        0.668,
+        0.648,
+        0.623,
+        0.593,
+        0.558,
+        0.518,
+        0.473,
+        0.423,
+        0.368,
+        0.308,
+        0.243,
+        0.173,
+        0.098,
+        0.018,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.737,
+      "duration": 6,
+      "score": 10.073000000000002,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-04",
+        "title": "April 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 4
+      },
+      "rank": 12
+    },
+    {
+      "title": "If I Ever Fall in Love",
+      "instanceSlug": 1059,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "r&b"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debut": "1992-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:shai": 1,
+        "genre:soul": 42,
+        "genre:r&b": 4,
+        "genre:urban": 13,
+        "decade:1990s": 133,
+        "year:1992": 19
+      },
+      "artists": [
+        {
+          "slug": "shai",
+          "title": "Shai",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.463,
+        0.633,
+        0.786,
+        0.708,
+        0.703,
+        0.693,
+        0.678,
+        0.658,
+        0.633,
+        0.603,
+        0.568,
+        0.528,
+        0.483,
+        0.433,
+        0.378,
+        0.318,
+        0.253,
+        0.183,
+        0.108,
+        0.028,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.786,
+      "duration": 6,
+      "score": 9.935,
+      "source": null,
+      "debutEra": {
+        "slug": "1992-11",
+        "title": "November 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 11
+      },
+      "rank": 13
+    },
+    {
+      "title": "Falling in Love",
+      "instanceSlug": 1476,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1986-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:miami-sound-machine": 2,
+        "artist:gloria-estefan": 3,
+        "genre:pop": 203,
+        "decade:1980s": 215,
+        "year:1986": 21
+      },
+      "artists": [
+        {
+          "slug": "miami-sound-machine",
+          "title": "Miami Sound Machine",
+          "roleSlug": true
+        },
+        {
+          "slug": "gloria-estefan",
+          "title": "Gloria Estefan",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.086,
+        0.47,
+        0.622,
+        0.694,
+        0.681,
+        0.656,
+        0.617,
+        0.612,
+        0.602,
+        0.587,
+        0.567,
+        0.542,
+        0.512,
+        0.477,
+        0.437,
+        0.392,
+        0.342,
+        0.287,
+        0.227,
+        0.162,
+        0.092,
+        0.017,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.681000000000001,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-12",
+        "title": "December 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 12
+      },
+      "rank": 14
+    },
+    {
+      "title": "Genie in a Bottle",
+      "instanceSlug": 267,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "genre": "pop",
+      "debut": "1999-08",
+      "ranks": {
+        "artist:christina-aguillera": 2,
+        "genre:pop": 204,
+        "playlist:summer": 68,
+        "source:summer": 68,
+        "decade:1990s": 147,
+        "year:1999": 17
+      },
+      "artists": [
+        {
+          "slug": "christina-aguillera",
+          "title": "Christina Aguilera",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.477,
+        0.592,
+        0.645,
+        0.65,
+        0.649,
+        0.622,
+        0.617,
+        0.607,
+        0.592,
+        0.572,
+        0.547,
+        0.517,
+        0.482,
+        0.442,
+        0.397,
+        0.347,
+        0.292,
+        0.232,
+        0.167,
+        0.097,
+        0.022,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.65,
+      "duration": 6,
+      "score": 9.661999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-08",
+        "title": "August 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 8
+      },
+      "rank": 15
+    },
+    {
+      "title": "Emotion in Motion",
+      "instanceSlug": 1040,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rik-ocasik": 1,
+        "genre:pop": 219,
+        "decade:1980s": 234,
+        "year:1986": 23
+      },
+      "artists": [
+        {
+          "slug": "rik-ocasik",
+          "title": "Ric Ocasek",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.185,
+        0.463,
+        0.622,
+        0.708,
+        0.666,
+        0.661,
+        0.651,
+        0.636,
+        0.616,
+        0.591,
+        0.561,
+        0.526,
+        0.486,
+        0.441,
+        0.391,
+        0.336,
+        0.276,
+        0.211,
+        0.141,
+        0.066,
+        0
+      ],
+      "debutScore": 0.185,
+      "peakScore": 0.708,
+      "duration": 6,
+      "score": 9.234000000000002,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-10",
+        "title": "October 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 10
+      },
+      "rank": 16
+    },
+    {
+      "title": "The Night the Lights Went Out in Georgia",
+      "instanceSlug": 1185,
+      "tags": [
+        "murder"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1992,
+      "playlists": [
+        {
+          "slug": "places",
+          "title": "Places"
+        }
+      ],
+      "ranks": {
+        "artist:reba-mcentire": 1,
+        "genre:country": 8,
+        "playlist:places": 3,
+        "source:places": 3,
+        "decade:1990s": 165,
+        "year:1992": 27
+      },
+      "artists": [
+        {
+          "slug": "reba-mcentire",
+          "title": "Reba McEntire",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.108,
+        0.563,
+        0.694,
+        0.681,
+        0.662,
+        0.617,
+        0.612,
+        0.602,
+        0.587,
+        0.567,
+        0.542,
+        0.512,
+        0.477,
+        0.437,
+        0.392,
+        0.342,
+        0.287,
+        0.227,
+        0.162,
+        0.092,
+        0.017,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.180000000000003,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 17
+    },
+    {
+      "title": "Stranger in My House",
+      "instanceSlug": 71,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "genre": "country",
+      "debut": "1983-04",
+      "ranks": {
+        "artist:ronnie-milsap": 2,
+        "genre:country": 10,
+        "playlist:feb13": 8,
+        "playlist:cheating": 2,
+        "source:feb13": 8,
+        "source:cheating": 2,
+        "decade:1980s": 261,
+        "year:1983": 37
+      },
+      "artists": [
+        {
+          "slug": "ronnie-milsap",
+          "title": "Ronnie Milsap",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.11,
+        0.498,
+        0.647,
+        0.631,
+        0.617,
+        0.601,
+        0.564,
+        0.559,
+        0.549,
+        0.534,
+        0.514,
+        0.489,
+        0.459,
+        0.424,
+        0.384,
+        0.339,
+        0.289,
+        0.234,
+        0.174,
+        0.109,
+        0.039,
+        0
+      ],
+      "debutScore": 0.11,
+      "peakScore": 0.647,
+      "duration": 6,
+      "score": 8.764000000000001,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-04",
+        "title": "April 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 4
+      },
+      "rank": 18
+    },
+    {
+      "title": "Living in Danger",
+      "instanceSlug": 1244,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1994-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ace-of-base": 1,
+        "genre:pop": 246,
+        "decade:1990s": 178,
+        "year:1994": 15
+      },
+      "artists": [
+        {
+          "slug": "ace-of-base",
+          "title": "Ace of Base",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.079,
+        0.242,
+        0.45,
+        0.546,
+        0.582,
+        0.592,
+        0.582,
+        0.563,
+        0.529,
+        0.491,
+        0.486,
+        0.476,
+        0.461,
+        0.441,
+        0.416,
+        0.386,
+        0.351,
+        0.311,
+        0.266,
+        0.216,
+        0.161,
+        0.101,
+        0.036,
+        0
+      ],
+      "debutScore": 0.079,
+      "peakScore": 0.592,
+      "duration": 6,
+      "score": 8.764,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-11",
+        "title": "November 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 11
+      },
+      "rank": 19
+    },
+    {
+      "title": "Islands in the Stream",
+      "instanceSlug": 355,
+      "tags": [
+        "#1",
+        "#1-country",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1983-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kenny-rogers": 3,
+        "artist:dolly-parton": 2,
+        "genre:country": 11,
+        "decade:1980s": 283,
+        "year:1983": 41
+      },
+      "artists": [
+        {
+          "slug": "kenny-rogers",
+          "title": "Kenny Rogers",
+          "roleSlug": true
+        },
+        {
+          "slug": "dolly-parton",
+          "title": "Dolly Parton",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.075,
+        0.249,
+        0.402,
+        0.498,
+        0.573,
+        0.633,
+        0.593,
+        0.588,
+        0.578,
+        0.563,
+        0.543,
+        0.518,
+        0.488,
+        0.453,
+        0.413,
+        0.368,
+        0.318,
+        0.263,
+        0.203,
+        0.138,
+        0.068,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.525,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-09",
+        "title": "September 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 9
+      },
+      "rank": 20
+    },
+    {
+      "title": "Dare to Fall in Love",
+      "instanceSlug": 2288,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:brent-bourgeois": 1,
+        "genre:pop": 278,
+        "playlist:summer": 84,
+        "source:summer": 84,
+        "decade:1990s": 201,
+        "year:1990": 35
+      },
+      "artists": [
+        {
+          "slug": "brent-bourgeois",
+          "title": "Brent Bourgeois",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.246,
+        0.408,
+        0.506,
+        0.592,
+        0.633,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.390000000000002,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-06",
+        "title": "June 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 6
+      },
+      "rank": 21
+    },
+    {
+      "title": "A Little in Love",
+      "instanceSlug": 1795,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1981-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:cliff-richard": 3,
+        "genre:pop": 302,
+        "decade:1980s": 326,
+        "year:1981": 21
+      },
+      "artists": [
+        {
+          "slug": "cliff-richard",
+          "title": "Cliff Richard",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.018,
+        0.328,
+        0.573,
+        0.633,
+        0.618,
+        0.613,
+        0.603,
+        0.588,
+        0.568,
+        0.543,
+        0.513,
+        0.478,
+        0.438,
+        0.393,
+        0.343,
+        0.288,
+        0.228,
+        0.163,
+        0.093,
+        0.018,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.040000000000001,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-02",
+        "title": "February 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 2
+      },
+      "rank": 22
+    },
+    {
+      "title": "Thieves in the Temple",
+      "instanceSlug": 209,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        },
+        {
+          "slug": "stealing"
+        }
+      ],
+      "genre": "pop",
+      "debut": "1990-08",
+      "source": {
+        "title": "Graffitti Bridge",
+        "instanceSlug": "graffitti-bridge",
+        "tags": [
+          "prince"
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "ranks": {
+        "artist:prince": 12,
+        "genre:pop": 323,
+        "playlist:summer": 94,
+        "playlist:stealing": 1,
+        "source:summer": 94,
+        "source:stealing": 1,
+        "decade:1990s": 226,
+        "year:1990": 39
+      },
+      "artists": [
+        {
+          "slug": "prince",
+          "title": "Prince",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.37,
+        0.506,
+        0.602,
+        0.587,
+        0.559,
+        0.554,
+        0.544,
+        0.529,
+        0.509,
+        0.484,
+        0.454,
+        0.419,
+        0.379,
+        0.334,
+        0.284,
+        0.229,
+        0.169,
+        0.104,
+        0.034,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.602,
+      "duration": 6,
+      "score": 7.704999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1990-08",
+        "title": "August 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 8
+      },
+      "rank": 23
+    },
+    {
+      "title": "Don't Wanna Fall in Love",
+      "instanceSlug": 1338,
+      "tags": [
+        "don't",
+        "don't-wanna",
+        "fall",
+        "fall-in-love",
+        "love",
+        "wanna"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jane-child": 1,
+        "genre:pop": 337,
+        "decade:1990s": 233,
+        "year:1990": 40
+      },
+      "artists": [
+        {
+          "slug": "jane-child",
+          "title": "Jane Child",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.351,
+        0.456,
+        0.521,
+        0.582,
+        0.563,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.4769999999999985,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-03",
+        "title": "March 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 3
+      },
+      "rank": 24
+    },
+    {
+      "title": "I'm in Love With You",
+      "instanceSlug": 1468,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1960s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:paul-mccartney": 12,
+        "artist:george-harrison": 6,
+        "artist:beatles": 3,
+        "artist:john-lennon": 8,
+        "artist:ringo-starr": 8,
+        "genre:pop": 351,
+        "decade:1960s": 4
+      },
+      "artists": [
+        {
+          "slug": "beatles",
+          "title": "Beatles",
+          "roleSlug": true
+        },
+        {
+          "slug": "john-lennon",
+          "title": "John Lennon",
+          "roleSlug": "member"
+        },
+        {
+          "slug": "paul-mccartney",
+          "title": "Paul McCartney",
+          "roleSlug": "member"
+        },
+        {
+          "slug": "george-harrison",
+          "title": "George Harrison",
+          "roleSlug": "member"
+        },
+        {
+          "slug": "ringo-starr",
+          "title": "Ringo Starr",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": [
+        0.055,
+        0.267,
+        0.463,
+        0.546,
+        0.582,
+        0.563,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.172999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1960s",
+        "title": "1960s",
+        "decade": 1960
+      },
+      "rank": 25
+    },
+    {
+      "title": "Rest in Peace",
+      "instanceSlug": 1116,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:extreme": 3,
+        "genre:rock": 99,
+        "decade:1990s": 255,
+        "year:1992": 37
+      },
+      "artists": [
+        {
+          "slug": "extreme",
+          "title": "Extreme",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.267,
+        0.351,
+        0.45,
+        0.537,
+        0.517,
+        0.494,
+        0.489,
+        0.479,
+        0.464,
+        0.444,
+        0.419,
+        0.389,
+        0.354,
+        0.314,
+        0.269,
+        0.219,
+        0.164,
+        0.104,
+        0.039,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.537,
+      "duration": 6,
+      "score": 6.8180000000000005,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 26
+    },
+    {
+      "title": "Did It in a Minute",
+      "instanceSlug": 1485,
+      "tags": [
+        "did-it",
+        "minute"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:hall-oates": 7,
+        "genre:pop": 381,
+        "decade:1980s": 421,
+        "year:1982": 29
+      },
+      "artists": [
+        {
+          "slug": "hall-oates",
+          "title": "Hall & Oates",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.341,
+        0.444,
+        0.506,
+        0.537,
+        0.49,
+        0.485,
+        0.475,
+        0.46,
+        0.44,
+        0.415,
+        0.385,
+        0.35,
+        0.31,
+        0.265,
+        0.215,
+        0.16,
+        0.1,
+        0.035,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.537,
+      "duration": 6,
+      "score": 6.719999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-04",
+        "title": "April 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 4
+      },
+      "rank": 27
+    },
+    {
+      "title": "Spy in the House of Love",
+      "instanceSlug": 1292,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1988-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:was-not-was": 2,
+        "genre:pop": 390,
+        "genre:urban": 33,
+        "decade:1980s": 428,
+        "year:1988": 50
+      },
+      "artists": [
+        {
+          "slug": "was-not-was",
+          "title": "Was (Not Was)",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.376,
+        0.498,
+        0.537,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.537,
+      "duration": 5,
+      "score": 6.6049999999999995,
+      "source": null,
+      "debutEra": {
+        "slug": "1988-11",
+        "title": "November 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 11
+      },
+      "rank": 28
+    },
+    {
+      "title": "Late in the Evening",
+      "instanceSlug": 996,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-09",
+      "source": {
+        "title": "One-Trick Pony",
+        "instanceSlug": "one-trick-pony",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:paul-simon": 2,
+        "genre:rock": 111,
+        "decade:1980s": 448,
+        "year:1980": 35
+      },
+      "artists": [
+        {
+          "slug": "paul-simon",
+          "title": "Paul Simon",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.286,
+        0.477,
+        0.582,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.582,
+      "duration": 5,
+      "score": 6.349000000000001,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "debutEra": {
+        "slug": "1980-09",
+        "title": "September 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 9
+      },
+      "rank": 29
+    },
+    {
+      "title": "Standing Outside a Broken Phone Booth with Money in My Hand",
+      "instanceSlug": 598,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1996-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:primitive-radio-gods": 1,
+        "genre:pop": 420,
+        "playlist:summer": 114,
+        "source:summer": 114,
+        "decade:1990s": 284,
+        "year:1996": 24
+      },
+      "artists": [
+        {
+          "slug": "primitive-radio-gods",
+          "title": "Primitive Radio Gods",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.294,
+        0.491,
+        0.602,
+        0.694,
+        0.592,
+        0.484,
+        0.365,
+        0.36,
+        0.35,
+        0.335,
+        0.315,
+        0.29,
+        0.26,
+        0.225,
+        0.185,
+        0.14,
+        0.09,
+        0.035,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.694,
+      "duration": 5,
+      "score": 6.203999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-07",
+        "title": "July 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 7
+      },
+      "rank": 30
+    },
+    {
+      "title": "Something in My Heart",
+      "instanceSlug": 1943,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1991-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michel-le": 2,
+        "genre:pop": 452,
+        "decade:1990s": 307,
+        "year:1991": 60
+      },
+      "artists": [
+        {
+          "slug": "michel-le",
+          "title": "Michel'le",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.351,
+        0.463,
+        0.456,
+        0.437,
+        0.408,
+        0.37,
+        0.365,
+        0.355,
+        0.34,
+        0.32,
+        0.295,
+        0.265,
+        0.23,
+        0.19,
+        0.145,
+        0.095,
+        0.04,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.488999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-03",
+        "title": "March 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 3
+      },
+      "rank": 31
+    },
+    {
+      "title": "If I Ever Lose My Faith in You",
+      "instanceSlug": 313,
+      "tags": [
+        "faith",
+        "i",
+        "lose",
+        "my",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1993,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:sting": 6,
+        "genre:pop": 481,
+        "decade:1990s": 322,
+        "year:1993": 36
+      },
+      "artists": [
+        {
+          "slug": "sting",
+          "title": "Sting",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.282,
+        0.491,
+        0.708,
+        0.708,
+        0.582,
+        0.463,
+        0.351,
+        0.232,
+        0.227,
+        0.217,
+        0.202,
+        0.182,
+        0.157,
+        0.127,
+        0.092,
+        0.052,
+        0.007,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.708,
+      "duration": 5,
+      "score": 5.156999999999999,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1993,
+        "title": 1993,
+        "decade": 1990,
+        "year": 1993
+      },
+      "rank": 32
+    },
+    {
+      "title": "Hot in the City",
+      "instanceSlug": 2498,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:billy-idol": 1,
+        "genre:pop": 485,
+        "decade:1980s": 551,
+        "year:1982": 46
+      },
+      "artists": [
+        {
+          "slug": "billy-idol",
+          "title": "Billy Idol",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.018,
+        0.171,
+        0.306,
+        0.402,
+        0.463,
+        0.431,
+        0.426,
+        0.416,
+        0.401,
+        0.381,
+        0.356,
+        0.326,
+        0.291,
+        0.251,
+        0.206,
+        0.156,
+        0.101,
+        0.041,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.143000000000001,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-08",
+        "title": "August 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 8
+      },
+      "rank": 33
+    },
+    {
+      "title": "Dancing in the Sheets",
+      "instanceSlug": "sheets",
+      "tags": [
+      ],
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:shalamar": 3,
+        "decade:1980s": 554,
+        "year:1984": 49
+      },
+      "artists": [
+        {
+          "slug": "shalamar",
+          "title": "Shalamar",
+          "roleSlug": true
+        }
+      ],
+      "debut": "1984-04",
+      "source": {
+        "title": "Footloose",
+        "instanceSlug": "footloose",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "scores": [
+        0.249,
+        0.328,
+        0.431,
+        0.425,
+        0.416,
+        0.391,
+        0.386,
+        0.376,
+        0.361,
+        0.341,
+        0.316,
+        0.286,
+        0.251,
+        0.211,
+        0.166,
+        0.116,
+        0.061,
+        0.001,
+        0
+      ],
+      "debutScore": 0.249,
+      "peakScore": 0.431,
+      "duration": 5,
+      "score": 5.112000000000001,
+      "genres": [
+      ],
+      "debutEra": {
+        "slug": "1984-04",
+        "title": "April 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 4
+      },
+      "rank": 34
+    },
+    {
+      "title": "Dance Floor Anthem (Don't Wanna Be in Love)",
+      "instanceSlug": 1339,
+      "tags": [
+        "don't-wanna",
+        "in-love"
+      ],
+      "genre": "rock",
+      "debut": 2007,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:good-charlotte": 1,
+        "genre:rock": 154,
+        "decade:2000s": 28,
+        "year:2007": 3
+      },
+      "artists": [
+        {
+          "slug": "good-charlotte",
+          "title": "Good Charlotte",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.2,
+        0.341,
+        0.431,
+        0.425,
+        0.408,
+        0.403,
+        0.393,
+        0.378,
+        0.358,
+        0.333,
+        0.303,
+        0.268,
+        0.228,
+        0.183,
+        0.133,
+        0.078,
+        0.018,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.431,
+      "duration": 5,
+      "score": 4.881,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2007,
+        "title": 2007,
+        "decade": 2000,
+        "year": 2007
+      },
+      "rank": 35
+    },
+    {
+      "title": "ROCK in the USA",
+      "instanceSlug": 1776,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:john-mellancamp": 2,
+        "genre:rock": 156,
+        "decade:1980s": 578,
+        "year:1986": 63
+      },
+      "artists": [
+        {
+          "slug": "john-mellancamp",
+          "title": "John Mellencamp",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.351,
+        0.463,
+        0.437,
+        0.397,
+        0.392,
+        0.382,
+        0.367,
+        0.347,
+        0.322,
+        0.292,
+        0.257,
+        0.217,
+        0.172,
+        0.122,
+        0.067,
+        0.007,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 4.827999999999999,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-03",
+        "title": "March 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 3
+      },
+      "rank": 36
+    },
+    {
+      "title": "Love in the First Degree",
+      "instanceSlug": 2098,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1982-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alabama": 3,
+        "genre:country": 22,
+        "decade:1980s": 591,
+        "year:1982": 50
+      },
+      "artists": [
+        {
+          "slug": "alabama",
+          "title": "Alabama",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.463,
+        0.437,
+        0.404,
+        0.399,
+        0.389,
+        0.374,
+        0.354,
+        0.329,
+        0.299,
+        0.264,
+        0.224,
+        0.179,
+        0.129,
+        0.074,
+        0.014,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 4.5680000000000005,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-02",
+        "title": "February 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 2
+      },
+      "rank": 37
+    },
+    {
+      "title": "Paper in Fire",
+      "instanceSlug": 596,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:john-mellancamp": 3,
+        "genre:rock": 163,
+        "decade:1980s": 606,
+        "year:1987": 100
+      },
+      "artists": [
+        {
+          "slug": "john-mellancamp",
+          "title": "John Mellencamp",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.038,
+        0.213,
+        0.332,
+        0.391,
+        0.401,
+        0.378,
+        0.341,
+        0.336,
+        0.326,
+        0.311,
+        0.291,
+        0.266,
+        0.236,
+        0.201,
+        0.161,
+        0.116,
+        0.066,
+        0.011,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.401,
+      "duration": 5,
+      "score": 4.414999999999999,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-09",
+        "title": "September 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 9
+      },
+      "rank": 38
+    },
+    {
+      "title": "Tears in Heaven",
+      "instanceSlug": 1702,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "blues",
+      "debut": "1992-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:eric-clapton": 6,
+        "genre:blues": 5,
+        "decade:1990s": 363,
+        "year:1992": 61
+      },
+      "artists": [
+        {
+          "slug": "eric-clapton",
+          "title": "Eric Clapton",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.463,
+        0.425,
+        0.42,
+        0.41,
+        0.395,
+        0.375,
+        0.35,
+        0.32,
+        0.285,
+        0.245,
+        0.2,
+        0.15,
+        0.095,
+        0.035,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.463,
+      "duration": 4,
+      "score": 4.1690000000000005,
+      "genres": [
+        {
+          "slug": "blues",
+          "title": "Blues"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-03",
+        "title": "March 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 3
+      },
+      "rank": 39
+    },
+    {
+      "title": "Hand in My Pocket",
+      "instanceSlug": 1361,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1995-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alanis-morrisette": 1,
+        "genre:pop": 574,
+        "decade:1990s": 379,
+        "year:1995": 37
+      },
+      "artists": [
+        {
+          "slug": "alanis-morrisette",
+          "title": "Alanis Morrisette",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.267,
+        0.341,
+        0.351,
+        0.346,
+        0.319,
+        0.314,
+        0.304,
+        0.289,
+        0.269,
+        0.244,
+        0.214,
+        0.179,
+        0.139,
+        0.094,
+        0.044,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.351,
+      "duration": 5,
+      "score": 3.8339999999999996,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-11",
+        "title": "November 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 11
+      },
+      "rank": 40
+    },
+    {
+      "title": "Eye in the Sky",
+      "instanceSlug": 627,
+      "tags": [
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1982-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alan-parsons-project": 1,
+        "genre:pop": 589,
+        "decade:1980s": 696,
+        "year:1982": 60
+      },
+      "artists": [
+        {
+          "slug": "alan-parsons-project",
+          "title": "Alan Parsons Project",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.177,
+        0.271,
+        0.323,
+        0.356,
+        0.323,
+        0.318,
+        0.308,
+        0.293,
+        0.273,
+        0.248,
+        0.218,
+        0.183,
+        0.143,
+        0.098,
+        0.048,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.356,
+      "duration": 5,
+      "score": 3.5809999999999995,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-08",
+        "title": "August 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 8
+      },
+      "rank": 41
+    },
+    {
+      "title": "Heaven in Your Eyes",
+      "instanceSlug": 416,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-09",
+      "source": {
+        "title": "Top Gun",
+        "instanceSlug": "top-gun",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:loverboy": 2,
+        "genre:rock": 199,
+        "playlist:ballad": 52,
+        "playlist:love": 10,
+        "source:ballad": 52,
+        "source:love": 10,
+        "decade:1980s": 707,
+        "year:1986": 83
+      },
+      "artists": [
+        {
+          "slug": "loverboy",
+          "title": "Loverboy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.267,
+        0.337,
+        0.376,
+        0.402,
+        0.267,
+        0.262,
+        0.252,
+        0.237,
+        0.217,
+        0.192,
+        0.162,
+        0.127,
+        0.087,
+        0.042,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 3.4340000000000006,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "debutEra": {
+        "slug": "1986-09",
+        "title": "September 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 9
+      },
+      "rank": 42
+    },
+    {
+      "title": "Dancing in the Streets",
+      "instanceSlug": 936,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1985-09",
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        }
+      ],
+      "ranks": {
+        "artist:mick-jagger": 2,
+        "artist:david-bowie": 6,
+        "genre:rock": 200,
+        "playlist:remake": 21,
+        "source:remake": 21,
+        "decade:1980s": 708,
+        "year:1985": 59
+      },
+      "artists": [
+        {
+          "slug": "mick-jagger",
+          "title": "Mick Jagger",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-bowie",
+          "title": "David Bowie",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.267,
+        0.306,
+        0.351,
+        0.315,
+        0.31,
+        0.3,
+        0.285,
+        0.265,
+        0.24,
+        0.21,
+        0.175,
+        0.135,
+        0.09,
+        0.04,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.351,
+      "duration": 4,
+      "score": 3.409,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-09",
+        "title": "September 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 9
+      },
+      "rank": 43
+    },
+    {
+      "title": "Hot Girls in Love",
+      "instanceSlug": 737,
+      "tags": [
+        "girl",
+        "hot",
+        "love"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:loverboy": 3,
+        "genre:rock": 202,
+        "decade:1980s": 713,
+        "year:1983": 88
+      },
+      "artists": [
+        {
+          "slug": "loverboy",
+          "title": "Loverboy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.253,
+        0.337,
+        0.361,
+        0.298,
+        0.293,
+        0.283,
+        0.268,
+        0.248,
+        0.223,
+        0.193,
+        0.158,
+        0.118,
+        0.073,
+        0.023,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.361,
+      "duration": 5,
+      "score": 3.336,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-07",
+        "title": "July 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 7
+      },
+      "rank": 44
+    },
+    {
+      "title": "Early in the Morning",
+      "instanceSlug": 613,
+      "tags": [
+        "early",
+        "morning",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1982-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:gap-band": 2,
+        "genre:true": 35,
+        "decade:1980s": 717,
+        "year:1982": 61
+      },
+      "artists": [
+        {
+          "slug": "gap-band",
+          "title": "Gap Band",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.185,
+        0.37,
+        0.414,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.414,
+      "duration": 4,
+      "score": 3.3259999999999996,
+      "genres": [
+        {
+          "slug": true
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-06",
+        "title": "June 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 6
+      },
+      "rank": 45
+    },
+    {
+      "title": "Love Light in Flight",
+      "instanceSlug": 1761,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1985-01",
+      "source": {
+        "title": "The Woman in Red",
+        "instanceSlug": "woman-in-red",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 6,
+        "genre:soul": 101,
+        "decade:1980s": 728,
+        "year:1985": 63
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.2,
+        0.306,
+        0.351,
+        0.298,
+        0.293,
+        0.283,
+        0.268,
+        0.248,
+        0.223,
+        0.193,
+        0.158,
+        0.118,
+        0.073,
+        0.023,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.351,
+      "duration": 5,
+      "score": 3.2099999999999995,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "debutEra": {
+        "slug": "1985-01",
+        "title": "January 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 1
+      },
+      "rank": 46
+    },
+    {
+      "title": "Dancing in the Streets",
+      "instanceSlug": 1052,
+      "tags": [
+        "dance",
+        "remake",
+        "street",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1982-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 6,
+        "artist:david-lee-roth": 4,
+        "genre:hard-rock": 9,
+        "decade:1980s": 761,
+        "year:1982": 65
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.185,
+        0.232,
+        0.267,
+        0.286,
+        0.278,
+        0.246,
+        0.2,
+        0.195,
+        0.185,
+        0.17,
+        0.15,
+        0.125,
+        0.095,
+        0.06,
+        0.02,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.286,
+      "duration": 5,
+      "score": 2.869,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-07",
+        "title": "July 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 7
+      },
+      "rank": 47
+    },
+    {
+      "title": "Something in Common",
+      "instanceSlug": 1596,
+      "tags": [
+        "common",
+        "duet",
+        "something"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1993-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bobby-brown": 7,
+        "artist:whitney-houston": 10,
+        "genre:pop": 643,
+        "decade:1990s": 407,
+        "year:1993": 42
+      },
+      "artists": [
+        {
+          "slug": "bobby-brown",
+          "title": "Bobby Brown",
+          "roleSlug": true
+        },
+        {
+          "slug": "whitney-houston",
+          "title": "Whitney Houston",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.12,
+        0.232,
+        0.26,
+        0.275,
+        0.271,
+        0.232,
+        0.227,
+        0.217,
+        0.202,
+        0.182,
+        0.157,
+        0.127,
+        0.092,
+        0.052,
+        0.007,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.275,
+      "duration": 5,
+      "score": 2.6540000000000004,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-12",
+        "title": "December 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 12
+      },
+      "rank": 48
+    },
+    {
+      "title": "Words Get in the Way",
+      "instanceSlug": 328,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "genres": [
+      ],
+      "debut": "1986-08",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        }
+      ],
+      "ranks": {
+        "artist:miami-sound-machine": 8,
+        "artist:gloria-estefan": 12,
+        "playlist:ballad": 64,
+        "source:ballad": 64,
+        "decade:1980s": 842,
+        "year:1986": 106
+      },
+      "artists": [
+        {
+          "slug": "miami-sound-machine",
+          "title": "Miami Sound Machine",
+          "roleSlug": true
+        },
+        {
+          "slug": "gloria-estefan",
+          "title": "Gloria Estefan",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.18,
+        0.361,
+        0.328,
+        0.225,
+        0.122,
+        0.117,
+        0.107,
+        0.092,
+        0.072,
+        0.047,
+        0.017,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.361,
+      "duration": 4,
+      "score": 1.7040000000000002,
+      "source": null,
+      "debutEra": {
+        "slug": "1986-08",
+        "title": "August 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 8
+      },
+      "rank": 49
+    },
+    {
+      "title": "Hot Child in the City",
+      "instanceSlug": 1727,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1978-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:nick-gilder": 1,
+        "genre:pop": 689,
+        "decade:1970s": 100,
+        "year:1978": 22
+      },
+      "artists": [
+        {
+          "slug": "nick-gilder",
+          "title": "Nick Gilder",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.171,
+        0.232,
+        0.171,
+        0.166,
+        0.156,
+        0.141,
+        0.121,
+        0.096,
+        0.066,
+        0.031,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.232,
+      "duration": 4,
+      "score": 1.526,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1978-08",
+        "title": "August 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 8
+      },
+      "rank": 50
+    },
+    {
+      "title": "She Believes in Me",
+      "instanceSlug": 1546,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-country"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1979-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kenny-rogers": 7,
+        "genre:country": 28,
+        "decade:1970s": 101,
+        "year:1979": 22
+      },
+      "artists": [
+        {
+          "slug": "kenny-rogers",
+          "title": "Kenny Rogers",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.171,
+        0.267,
+        0.166,
+        0.161,
+        0.151,
+        0.136,
+        0.116,
+        0.091,
+        0.061,
+        0.026,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.267,
+      "duration": 3,
+      "score": 1.443,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-05",
+        "title": "May 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 5
+      },
+      "rank": 51
+    },
+    {
+      "title": "Man in the Mirror",
+      "instanceSlug": 364,
+      "tags": [
+      ],
+      "source": {
+        "title": "Bad",
+        "instanceSlug": "bad",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genre": "soul",
+      "debut": "1988-02",
+      "playlists": [
+        {
+          "slug": "choir",
+          "title": "Songs with Choirs"
+        }
+      ],
+      "ranks": {
+        "artist:michael-jackson": 41,
+        "artist:siedah-garrett": 2,
+        "artist:winans": 1,
+        "genre:soul": 116,
+        "playlist:choir": 1,
+        "source:choir": 1,
+        "decade:1980s": 868,
+        "year:1988": 106
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        },
+        {
+          "slug": "siedah-garrett",
+          "title": "Siedah Garrett",
+          "roleSlug": "backup"
+        },
+        {
+          "slug": "winans",
+          "title": "Winans, The",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.097,
+        0.145,
+        0.171,
+        0.166,
+        0.152,
+        0.137,
+        0.095,
+        0.09,
+        0.08,
+        0.065,
+        0.045,
+        0.02,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.171,
+      "duration": 4,
+      "score": 1.2990000000000002,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "debutEra": {
+        "slug": "1988-02",
+        "title": "February 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 2
+      },
+      "rank": 52
+    },
+    {
+      "title": "Lucy in the Sky with Diamonds",
+      "instanceSlug": 2406,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1960s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:paul-mccartney": 20,
+        "artist:george-harrison": 16,
+        "artist:beatles": 11,
+        "artist:john-lennon": 14,
+        "artist:ringo-starr": 17,
+        "genre:rock": 262,
+        "decade:1960s": 13
+      },
+      "artists": [
+        {
+          "slug": "beatles",
+          "title": "Beatles",
+          "roleSlug": true
+        },
+        {
+          "slug": "john-lennon",
+          "title": "John Lennon",
+          "roleSlug": "lead"
+        },
+        {
+          "slug": "paul-mccartney",
+          "title": "Paul McCartney",
+          "roleSlug": "member"
+        },
+        {
+          "slug": "george-harrison",
+          "title": "George Harrison",
+          "roleSlug": "member"
+        },
+        {
+          "slug": "ringo-starr",
+          "title": "Ringo Starr",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": [
+        0.001,
+        0.097,
+        0.171,
+        0.232,
+        0.2,
+        0.12,
+        0.115,
+        0.105,
+        0.09,
+        0.07,
+        0.045,
+        0.015,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.232,
+      "duration": 4,
+      "score": 1.2610000000000001,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1960s",
+        "title": "1960s",
+        "decade": 1960
+      },
+      "rank": 53
+    },
+    {
+      "title": "Lawyers in Love",
+      "instanceSlug": 745,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jackson-browne": 2,
+        "genre:rock": 271,
+        "decade:1980s": 889,
+        "year:1983": 99
+      },
+      "artists": [
+        {
+          "slug": "jackson-browne",
+          "title": "Jackson Browne",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.158,
+        0.15,
+        0.145,
+        0.135,
+        0.12,
+        0.1,
+        0.075,
+        0.045,
+        0.01,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.158,
+      "duration": 3,
+      "score": 0.938,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-08",
+        "title": "August 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 8
+      },
+      "rank": 54
+    },
+    {
+      "title": "Born in the USA",
+      "instanceSlug": 1772,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1984-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bruce-springsteen": 4,
+        "genre:rock": 274,
+        "decade:1980s": 900,
+        "year:1984": 82
+      },
+      "artists": [
+        {
+          "slug": "bruce-springsteen",
+          "title": "Bruce Springsteen",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.097,
+        0.171,
+        0.106,
+        0.101,
+        0.091,
+        0.076,
+        0.056,
+        0.031,
+        0.001,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.171,
+      "duration": 3,
+      "score": 0.766,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-12",
+        "title": "December 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 12
+      },
+      "rank": 55
+    },
+    {
+      "title": "Candle in the Wind (1987)",
+      "instanceSlug": 1125,
+      "tags": [
+        "candle",
+        "this-in-that",
+        "wind"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:elton-john": 7,
+        "genre:pop": 725,
+        "decade:1980s": 901,
+        "year:1987": 137
+      },
+      "artists": [
+        {
+          "slug": "elton-john",
+          "title": "Elton John",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.075,
+        0.12,
+        0.145,
+        0.11,
+        0.075,
+        0.07,
+        0.06,
+        0.045,
+        0.025,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.145,
+      "duration": 3,
+      "score": 0.7610000000000001,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-12",
+        "title": "December 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 12
+      },
+      "rank": 56
+    },
+    {
+      "title": "Another Day in Paradise",
+      "instanceSlug": 397,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1989-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:david-crosby": 2,
+        "artist:phil-collins": 11,
+        "genre:pop": 729,
+        "decade:1980s": 912,
+        "year:1989": 90
+      },
+      "artists": [
+        {
+          "slug": "phil-collins",
+          "title": "Phil Collins",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-crosby",
+          "title": "David Crosby",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.097,
+        0.092,
+        0.082,
+        0.067,
+        0.047,
+        0.022,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.171,
+      "duration": 3,
+      "score": 0.6140000000000001,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-12",
+        "title": "December 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 12
+      },
+      "rank": 57
+    },
+    {
+      "title": "Back in Black",
+      "instanceSlug": 23,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1981-02",
+      "ranks": {
+        "artist:ac-dc": 1,
+        "genre:hard-rock": 11,
+        "decade:1980s": 919,
+        "year:1981": 52
+      },
+      "artists": [
+        {
+          "slug": "ac-dc",
+          "title": "AC/DC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.075,
+        0.12,
+        0.113,
+        0.084,
+        0.018,
+        0.013,
+        0.003,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.12,
+      "duration": 3,
+      "score": 0.462,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-02",
+        "title": "February 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 2
+      },
+      "rank": 58
+    },
+    {
+      "title": "Jukebox in My Mind",
+      "instanceSlug": 1399,
+      "tags": [
+        "jukebox",
+        "mind",
+        "my",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1990,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alabama": 5,
+        "genre:country": 72,
+        "decade:1990s": 673,
+        "year:1990": 120
+      },
+      "artists": [
+        {
+          "slug": "alabama",
+          "title": "Alabama",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1990,
+        "title": 1990,
+        "decade": 1990,
+        "year": 1990
+      },
+      "rank": 59
+    },
+    {
+      "title": "Tangled Up in Blue",
+      "instanceSlug": 2457,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "folk-rock",
+      "debut": 1975,
+      "playlists": [
+        {
+          "slug": "colors"
+        }
+      ],
+      "ranks": {
+        "artist:bob-dylan": 4,
+        "genre:folk-rock": 4,
+        "playlist:colors": 1,
+        "source:colors": 1,
+        "decade:1970s": 268,
+        "year:1975": 25
+      },
+      "artists": [
+        {
+          "slug": "bob-dylan",
+          "title": "Bob Dylan",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "folk-rock",
+          "title": "Folk Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 60
+    },
+    {
+      "title": "New Kid in Town",
+      "instanceSlug": 2464,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "soft-rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:eagles": 12,
+        "artist:glenn-frey": 4,
+        "genre:soft-rock": 9,
+        "decade:1970s": 275,
+        "year:1977": 25
+      },
+      "artists": [
+        {
+          "slug": "eagles",
+          "title": "Eagles",
+          "roleSlug": true
+        },
+        {
+          "slug": "glenn-frey"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "soft-rock",
+          "title": "Soft Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 61
+    },
+    {
+      "title": "Life in the Fast Lane",
+      "instanceSlug": 2465,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:don-henley": 9,
+        "artist:eagles": 13,
+        "genre:rock": 304,
+        "decade:1970s": 276,
+        "year:1977": 26
+      },
+      "artists": [
+        {
+          "slug": "eagles",
+          "title": "Eagles",
+          "roleSlug": true
+        },
+        {
+          "slug": "don-henley",
+          "title": "Don Henley",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 62
+    },
+    {
+      "title": "Angel in Your Arms",
+      "instanceSlug": 2480,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:hot": 1,
+        "genre:pop": 1321,
+        "decade:1970s": 284,
+        "year:1977": 28
+      },
+      "artists": [
+        {
+          "slug": "hot",
+          "title": "Hot",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 63
+    },
+    {
+      "title": "Saturday in the Park",
+      "instanceSlug": 1993,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "jazz-rock",
+      "debut": 1972,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:chicago": 9,
+        "genre:jazz-rock": 4,
+        "decade:1970s": 139,
+        "year:1972": 7
+      },
+      "artists": [
+        {
+          "slug": "chicago",
+          "title": "Chicago",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "jazz-rock",
+          "title": "Jazz Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1972,
+        "title": 1972,
+        "decade": 1970,
+        "year": 1972
+      },
+      "rank": 64
+    },
+    {
+      "title": "Don't Fall in Love with a Dreamer",
+      "instanceSlug": 2576,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kenny-rogers": 10,
+        "artist:kim-carnes": 3,
+        "genre:country": 47,
+        "decade:1980s": 1233,
+        "year:1980": 85
+      },
+      "artists": [
+        {
+          "slug": "kenny-rogers",
+          "title": "Kenny Rogers",
+          "roleSlug": true
+        },
+        {
+          "slug": "kim-carnes",
+          "title": "Kim Carnes",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-04",
+        "title": "April 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 4
+      },
+      "rank": 65
+    },
+    {
+      "title": "Stop in the Name of Love",
+      "instanceSlug": 158,
+      "tags": [
+        "1960s",
+        "love",
+        "name",
+        "stop"
+      ],
+      "parents": [
+      ],
+      "ranks": {
+        "artist:supremes": 2
+      },
+      "artists": [
+        {
+          "slug": "supremes",
+          "title": "Supremes",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "rank": 66
+    },
+    {
+      "title": "Walking in Memphis",
+      "instanceSlug": 2021,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1991-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:marc-cohn": 1,
+        "genre:pop": 1035,
+        "playlist:summer": 185,
+        "source:summer": 185,
+        "decade:1990s": 801,
+        "year:1991": 93
+      },
+      "artists": [
+        {
+          "slug": "marc-cohn",
+          "title": "Marc Cohn",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-06",
+        "title": "June 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 6
+      },
+      "rank": 67
+    },
+    {
+      "title": "Not Enough Love in the World",
+      "instanceSlug": 2614,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:don-henley": 17,
+        "genre:pop": 776,
+        "decade:1980s": 1261,
+        "year:1985": 91
+      },
+      "artists": [
+        {
+          "slug": "don-henley",
+          "title": "Don Henley",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-07",
+        "title": "July 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 7
+      },
+      "rank": 68
+    },
+    {
+      "title": "Spirits in the Material World",
+      "instanceSlug": 2648,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1982-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:police": 6,
+        "genre:rock": 359,
+        "decade:1980s": 1285,
+        "year:1982": 126
+      },
+      "artists": [
+        {
+          "slug": "police",
+          "title": "Police, The",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-02",
+        "title": "February 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 2
+      },
+      "rank": 69
+    },
+    {
+      "title": "Could It Be I'm Falling in Love",
+      "instanceSlug": 2661,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:spinners": 5,
+        "genre:soul": 142,
+        "decade:1970s": 328,
+        "year:1973": 18
+      },
+      "artists": [
+        {
+          "slug": "spinners",
+          "title": "Spinners",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 70
+    },
+    {
+      "title": "Life in a Northern Town",
+      "instanceSlug": 1746,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:dream-academy": 1,
+        "genre:pop": 1033,
+        "decade:1980s": 1057,
+        "year:1986": 152
+      },
+      "artists": [
+        {
+          "slug": "dream-academy",
+          "title": "Dream Academy",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-01",
+        "title": "January 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 1
+      },
+      "rank": 71
+    },
+    {
+      "title": "Dancing in the Dark",
+      "instanceSlug": 2677,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock",
+        "#2-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1984-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bruce-springsteen": 13,
+        "genre:rock": 373,
+        "decade:1980s": 1307,
+        "year:1984": 103
+      },
+      "artists": [
+        {
+          "slug": "bruce-springsteen",
+          "title": "Bruce Springsteen",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-06",
+        "title": "June 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 6
+      },
+      "rank": 72
+    },
+    {
+      "title": "The Woman in Me",
+      "instanceSlug": 2735,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1983-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:donna-summer": 13,
+        "genre:pop": 818,
+        "decade:1980s": 1344,
+        "year:1983": 149
+      },
+      "artists": [
+        {
+          "slug": "donna-summer",
+          "title": "Donna Summer",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-02",
+        "title": "February 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 2
+      },
+      "rank": 73
+    },
+    {
+      "title": "No Good in Goodbye",
+      "instanceSlug": 2762,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 2015,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:script": 1,
+        "genre:pop": 826,
+        "decade:2010s": 88,
+        "year:2015": 27
+      },
+      "artists": [
+        {
+          "slug": "script",
+          "title": "Script, The",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2015,
+        "title": 2015,
+        "decade": 2010,
+        "year": 2015
+      },
+      "rank": 74
+    },
+    {
+      "title": "Lost in Love",
+      "instanceSlug": 2782,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1985-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:new-edition": 5,
+        "genre:soul": 146,
+        "decade:1980s": 1372,
+        "year:1985": 100
+      },
+      "artists": [
+        {
+          "slug": "new-edition",
+          "title": "New Edition",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-05",
+        "title": "May 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 5
+      },
+      "rank": 75
+    },
+    {
+      "title": "(Every Time I Turn Around) Back in Love Again",
+      "instanceSlug": 2808,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ltd": 1,
+        "genre:urban": 84,
+        "decade:1970s": 371,
+        "year:1977": 45
+      },
+      "artists": [
+        {
+          "slug": "ltd",
+          "title": "LTD",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 76
+    },
+    {
+      "title": "Think I'm in Love",
+      "instanceSlug": 2878,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock",
+        "i'm-in-love",
+        "in-love"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1982-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:eddie-money": 8,
+        "genre:rock": 424,
+        "decade:1980s": 1422,
+        "year:1982": 87
+      },
+      "artists": [
+        {
+          "slug": "eddie-money",
+          "title": "Eddie Money",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-08",
+        "title": "August 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 8
+      },
+      "rank": 77
+    },
+    {
+      "title": "Standing in the Shadows of Love",
+      "instanceSlug": 2902,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": 1967,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:four-tops": 5,
+        "genre:soul": 155,
+        "decade:1960s": 49,
+        "year:1967": 8
+      },
+      "artists": [
+        {
+          "slug": "four-tops",
+          "title": "Four Tops",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1967,
+        "title": 1967,
+        "decade": 1960,
+        "year": 1967
+      },
+      "rank": 78
+    },
+    {
+      "title": "Just Another Day in Paradise",
+      "instanceSlug": 2927,
+      "tags": [
+        "#1",
+        "#1-country"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "2000-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:phil-vassar": 1,
+        "genre:country": 62,
+        "decade:2000s": 83,
+        "year:2000": 17
+      },
+      "artists": [
+        {
+          "slug": "phil-vassar",
+          "title": "Phil Vassar",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2000-12",
+        "title": "December 2000",
+        "decade": 2000,
+        "year": 2000,
+        "month": 12
+      },
+      "rank": 79
+    },
+    {
+      "title": "Place in this World",
+      "instanceSlug": 2929,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1991-06",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        }
+      ],
+      "ranks": {
+        "artist:michael-w-smith": 2,
+        "genre:pop": 896,
+        "playlist:ballad": 78,
+        "source:ballad": 78,
+        "decade:1990s": 614,
+        "year:1991": 102
+      },
+      "artists": [
+        {
+          "slug": "michael-w-smith",
+          "title": "Michael W. Smith",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-06",
+        "title": "June 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 6
+      },
+      "rank": 80
+    },
+    {
+      "title": "Men in Black",
+      "instanceSlug": 2930,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1997-07",
+      "source": {
+        "title": "Men in Black",
+        "instanceSlug": "men-in-black",
+        "tags": [
+          "will-smith"
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "sample"
+        },
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:will-smith": 4,
+        "genre:urban": 92,
+        "playlist:summer": 188,
+        "playlist:sample": 7,
+        "source:summer": 188,
+        "source:sample": 7,
+        "decade:1990s": 615,
+        "year:1997": 39
+      },
+      "artists": [
+        {
+          "slug": "will-smith",
+          "title": "Will Smith",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debutEra": {
+        "slug": "1997-07",
+        "title": "July 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 7
+      },
+      "rank": 81
+    },
+    {
+      "title": "Stuck in the Middle With You",
+      "instanceSlug": 2969,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:gerry-rafferty": 4,
+        "artist:stealers-wheel": 1,
+        "genre:rock": 445,
+        "decade:1970s": 415,
+        "year:1973": 27
+      },
+      "artists": [
+        {
+          "slug": "stealers-wheel",
+          "title": "Stealers Wheel",
+          "roleSlug": true
+        },
+        {
+          "slug": "gerry-rafferty",
+          "title": "Gerry Rafferty",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 82
+    },
+    {
+      "title": "Spirit in the Night",
+      "instanceSlug": 2998,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:manfredd-mann": 4,
+        "genre:rock": 448,
+        "decade:1970s": 430,
+        "year:1977": 52
+      },
+      "artists": [
+        {
+          "slug": "manfredd-mann",
+          "title": "Manfred Mann",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 83
+    },
+    {
+      "title": "To Live and Die in LA",
+      "instanceSlug": 1374,
+      "tags": [
+        "die",
+        "live",
+        "live-and-die",
+        "los-angeles"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1985-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:wang-chung": 4,
+        "genre:pop": 1316,
+        "decade:1980s": 1041,
+        "year:1985": 145
+      },
+      "artists": [
+        {
+          "slug": "wang-chung",
+          "title": "Wang Chung",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-11",
+        "title": "November 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 11
+      },
+      "rank": 84
+    },
+    {
+      "title": "Back in the Day",
+      "instanceSlug": 2092,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1994-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ahmad": 1,
+        "genre:hip-hop": 12,
+        "decade:1990s": 832,
+        "year:1994": 38
+      },
+      "artists": [
+        {
+          "slug": "ahmad",
+          "title": "Ahmad",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-07",
+        "title": "July 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 7
+      },
+      "rank": 85
+    },
+    {
+      "title": "Lost in Love",
+      "instanceSlug": 2093,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1980-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:air-supply": 5,
+        "genre:pop": 1097,
+        "decade:1980s": 1379,
+        "year:1980": 75
+      },
+      "artists": [
+        {
+          "slug": "air-supply",
+          "title": "Air Supply",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-03",
+        "title": "March 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 3
+      },
+      "rank": 86
+    },
+    {
+      "title": "If I Could Fall in Love",
+      "instanceSlug": 348,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1995-08",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        }
+      ],
+      "ranks": {
+        "artist:selena": 2,
+        "genre:pop": 1026,
+        "playlist:ballad": 93,
+        "source:ballad": 122,
+        "decade:1990s": 670,
+        "year:1995": 75
+      },
+      "artists": [
+        {
+          "slug": "selena",
+          "title": "Selena",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-08",
+        "title": "August 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 8
+      },
+      "rank": 87
+    },
+    {
+      "title": "Every Woman in the World",
+      "instanceSlug": 2094,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1980-12",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        }
+      ],
+      "ranks": {
+        "artist:air-supply": 6,
+        "genre:pop": 1098,
+        "playlist:ballad": 108,
+        "source:ballad": 108,
+        "decade:1980s": 1388,
+        "year:1980": 69
+      },
+      "artists": [
+        {
+          "slug": "air-supply",
+          "title": "Air Supply",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-12",
+        "title": "December 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 12
+      },
+      "rank": 88
+    },
+    {
+      "title": "Living in a Fantasy",
+      "instanceSlug": 1793,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1981-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:leo-sayre": 1,
+        "genre:pop": 1135,
+        "decade:1980s": 1126,
+        "year:1981": 53
+      },
+      "artists": [
+        {
+          "slug": "leo-sayre",
+          "title": "Leo Sayre",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-03",
+        "title": "March 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 3
+      },
+      "rank": 89
+    },
+    {
+      "title": "Back in the High Life",
+      "instanceSlug": 2148,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1987-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:steve-winwood": 8,
+        "artist:james-taylor": 1,
+        "genre:pop": 1130,
+        "decade:1980s": 937,
+        "year:1987": 151
+      },
+      "artists": [
+        {
+          "slug": "steve-winwood",
+          "title": "Steve Winwood",
+          "roleSlug": true
+        },
+        {
+          "slug": "james-taylor",
+          "title": "James Taylor",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-07",
+        "title": "July 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 7
+      },
+      "rank": 90
+    },
+    {
+      "title": "Dust in the Wind",
+      "instanceSlug": 1849,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1978,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kansas": 3,
+        "genre:rock": 476,
+        "decade:1970s": 105,
+        "year:1978": 87
+      },
+      "artists": [
+        {
+          "slug": "kansas",
+          "title": "Kansas",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1978,
+        "title": 1978,
+        "decade": 1970,
+        "year": 1978
+      },
+      "rank": 91
+    },
+    {
+      "title": "Lost in Your Eyes",
+      "instanceSlug": 424,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1989-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:debbie-gibson": 7,
+        "genre:pop": 1063,
+        "decade:1980s": 1014,
+        "year:1989": 108
+      },
+      "artists": [
+        {
+          "slug": "debbie-gibson",
+          "title": "Debbie Gibson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-02",
+        "title": "February 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 2
+      },
+      "rank": 92
+    },
+    {
+      "title": "One Moment in Time",
+      "instanceSlug": 1312,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "one",
+        "this-in-that",
+        "time"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1988-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:whitney-houston": 20,
+        "genre:adult-contemporary": 119,
+        "decade:1980s": 1109,
+        "year:1988": 160
+      },
+      "artists": [
+        {
+          "slug": "whitney-houston",
+          "title": "Whitney Houston",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-10",
+        "title": "October 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 10
+      },
+      "rank": 93
+    },
+    {
+      "title": "Love in an Elevator",
+      "instanceSlug": 476,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1989-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:aerosmith": 13,
+        "genre:rock": 483,
+        "decade:1980s": 1061,
+        "year:1989": 115
+      },
+      "artists": [
+        {
+          "slug": "aerosmith",
+          "title": "Aerosmith",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-10",
+        "title": "October 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 10
+      },
+      "rank": 94
+    },
+    {
+      "title": "Peace in Our Time",
+      "instanceSlug": 1949,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:eddie-money": 6,
+        "genre:pop": 965,
+        "decade:1990s": 778,
+        "year:1990": 137
+      },
+      "artists": [
+        {
+          "slug": "eddie-money",
+          "title": "Eddie Money",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-01",
+        "title": "January 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 1
+      },
+      "rank": 95
+    },
+    {
+      "title": "Early in the Morning",
+      "instanceSlug": 1294,
+      "tags": [
+        "early",
+        "morning",
+        "remake",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1988-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:robert-palmer": 4,
+        "genre:pop": 974,
+        "decade:1980s": 1172,
+        "year:1988": 127
+      },
+      "artists": [
+        {
+          "slug": "robert-palmer",
+          "title": "Robert Palmer",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-11",
+        "title": "November 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 11
+      },
+      "rank": 96
+    },
+    {
+      "title": "Breaking Us in Two",
+      "instanceSlug": 1960,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1983-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:joe-jackson": 2,
+        "genre:pop": 997,
+        "decade:1980s": 1063,
+        "year:1983": 132
+      },
+      "artists": [
+        {
+          "slug": "joe-jackson",
+          "title": "Joe Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-02",
+        "title": "February 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 2
+      },
+      "rank": 97
+    },
+    {
+      "title": "Touch Me in the Morning",
+      "instanceSlug": 1967,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:diana-ross": 11,
+        "genre:soul": 181,
+        "decade:1970s": 129,
+        "year:1973": 26
+      },
+      "artists": [
+        {
+          "slug": "diana-ross",
+          "title": "Diana Ross",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 98
+    },
+    {
+      "title": "The Night the Lights Went Out in Georgia",
+      "instanceSlug": 1186,
+      "tags": [
+        "georgia",
+        "light",
+        "",
+        "murder",
+        "night",
+        "out",
+        "remade"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1970s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:vicki-lawrence": 1,
+        "genre:pop": 1096,
+        "decade:1970s": 191
+      },
+      "artists": [
+        {
+          "slug": "vicki-lawrence",
+          "title": "Vicki Lawrence",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1970s",
+        "title": "1970s",
+        "decade": 1970
+      },
+      "rank": 99
+    },
+    {
+      "title": "Lucy in the Sky with Diamonds",
+      "instanceSlug": 2405,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1975,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:elton-john": 34,
+        "genre:pop": 1283,
+        "decade:1970s": 250,
+        "year:1975": 20
+      },
+      "artists": [
+        {
+          "slug": "elton-john",
+          "title": "Elton John",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 100
+    },
+    {
+      "title": "Do You Believe in Love",
+      "instanceSlug": 1980,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1982-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:huey-lewis-the-news": 15,
+        "genre:rock": 461,
+        "decade:1980s": 1106,
+        "year:1982": 117
+      },
+      "artists": [
+        {
+          "slug": "huey-lewis-the-news",
+          "title": "Huey Lewis & the News",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-03",
+        "title": "March 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 3
+      },
+      "rank": 101
+    },
+    {
+      "title": "Circle in the Sand",
+      "instanceSlug": 795,
+      "tags": [
+        "circle",
+        "sand",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1988-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:belinda-carlisle": 4,
+        "genre:pop": 1223,
+        "decade:1980s": 1304,
+        "year:1988": 159
+      },
+      "artists": [
+        {
+          "slug": "belinda-carlisle",
+          "title": "Belinda Carlisle",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-04",
+        "title": "April 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 4
+      },
+      "rank": 102
+    },
+    {
+      "title": "A Word in Spanish",
+      "instanceSlug": 2416,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1988-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:elton-john": 27,
+        "genre:pop": 1295,
+        "decade:1980s": 1154,
+        "year:1988": 153
+      },
+      "artists": [
+        {
+          "slug": "elton-john",
+          "title": "Elton John",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-11",
+        "title": "November 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 11
+      },
+      "rank": 103
+    },
+    {
+      "title": "Woman in Chains",
+      "instanceSlug": 2421,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:phil-collins": 20,
+        "artist:oleta-adams": 2,
+        "artist:tears-for-fears": 5,
+        "genre:pop": 1299,
+        "decade:1990s": 517,
+        "year:1990": 107
+      },
+      "artists": [
+        {
+          "slug": "tears-for-fears",
+          "title": "Tears for Fears",
+          "roleSlug": true
+        },
+        {
+          "slug": "oleta-adams",
+          "title": "Oleta Adams",
+          "roleSlug": "backup"
+        },
+        {
+          "slug": "phil-collins",
+          "title": "Phil Collins",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-02",
+        "title": "February 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 2
+      },
+      "rank": 104
+    },
+    {
+      "title": "The Best Things in Life Are Free",
+      "instanceSlug": 1078,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1992-06",
+      "source": {
+        "title": "Mo' Money",
+        "instanceSlug": "mo-money",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:janet-jackson": 20,
+        "artist:luther-vandross": 2,
+        "artist:bell-biv-devoe": 2,
+        "genre:soul": 212,
+        "playlist:summer": 205,
+        "source:summer": 205,
+        "decade:1990s": 719,
+        "year:1992": 95
+      },
+      "artists": [
+        {
+          "slug": "luther-vandross",
+          "title": "Luther Vandross",
+          "roleSlug": true
+        },
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        },
+        {
+          "slug": "bell-biv-devoe",
+          "title": "Bell Biv DeVoe",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "debutEra": {
+        "slug": "1992-06",
+        "title": "June 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 6
+      },
+      "rank": 105
+    },
+    {
+      "title": "Your Baby Never Looked Good in Blue",
+      "instanceSlug": "expose08",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": "1990-04",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        }
+      ],
+      "ranks": {
+        "artist:expose": 9,
+        "playlist:ballad": 121,
+        "source:ballad": 121,
+        "decade:1990s": 855,
+        "year:1990": 134
+      },
+      "artists": [
+        {
+          "slug": "expose",
+          "title": "Expose",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-04",
+        "title": "April 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 4
+      },
+      "rank": 106
+    },
+    {
+      "title": "Seasons in the Sun",
+      "instanceSlug": 2340,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "death"
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:terry-jacks": 1,
+        "genre:adult-contemporary": 70,
+        "decade:1970s": 231,
+        "year:1974": 14
+      },
+      "artists": [
+        {
+          "slug": "terry-jacks",
+          "title": "Terry Jacks",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 107
+    }
+  ],
+  "score": 376.7650000000002,
+  "songCount": 107,
+  "songAdjustedAverage": 36.42324732952896
+}

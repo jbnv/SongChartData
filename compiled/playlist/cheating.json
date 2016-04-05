@@ -1,1 +1,485 @@
-{"title":"Songs about Cheating","instanceSlug":"cheating","tags":[],"parents":[],"songs":[{"title":"Stranger in My House","instanceSlug":71,"tags":[],"playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"genre":"country","debut":"1983-04","ranks":[14.4,4.5,2.88,3.02,3.15,3.31,3.69,4.11,5.06,6.8,9.92,15.62,26.38,47.58,91.27,185.57],"artists":[{"slug":"ronnie-milsap","title":"Ronnie Milsap","roleSlug":true}],"debutRank":14.4,"peakRank":2.88,"duration":4,"score":16.02,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1},{"title":"How Long","instanceSlug":2067,"tags":[],"genre":"pop","debut":"1970s","playlists":[{"slug":"cheating","title":"Songs about Cheating"},{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"}],"ranks":[14,1.5,1.69,2.1,2.61,3.88,6.7,13.19,29.2,71.7,193.47,568.97],"artists":[{"slug":"ace","title":"Ace","roleSlug":true},{"slug":"paul-carrack","title":"Paul Carrack","roleSlug":"lead"}],"debutRank":14,"peakRank":1.5,"duration":3,"score":12.89,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":2},{"title":"Him","instanceSlug":73,"tags":[],"playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"ranks":[15,6,5,4.3,3.9,4.2,4.7,5.26,6.51,8.84,13.05,20.81,35.68,65.41,127.7,264.52],"genre":"pop","artists":[{"slug":"rupert-holmes","title":"Rupert Holmes","roleSlug":true}],"debutRank":15,"peakRank":3.9,"duration":4,"score":12.81,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":3},{"title":"I Know There's Something Going On","instanceSlug":70,"tags":[],"playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"genre":"pop","debut":"1983-02","ranks":[13.9,7.9,4.5,3.2,3.5,4.2,5.04,7.06,11.29,20.32,40.64,89.41],"artists":[{"slug":"frida","title":"Frida","roleSlug":true}],"debutRank":13.9,"peakRank":3.2,"duration":3,"score":10.95,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":4},{"title":"Run to You","instanceSlug":2075,"tags":[],"parents":[],"genre":"rock","debut":"1984-12","playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"ranks":[25,30,36,50.4],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"debutRank":25,"peakRank":25,"duration":1,"score":0,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":5},{"title":"Suspicions","instanceSlug":2426,"tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1979-08","playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"},{"slug":"cheating","title":"Songs about Cheating"}],"ranks":[],"artists":[{"slug":"eddie-rabbitt","title":"Eddie Rabbitt","roleSlug":true}],"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":6},{"title":"Blurred Lines","instanceSlug":3012,"tags":["#1","#1-rdwt40-hot-adult"],"genre":"pop","debut":2013,"playlists":[{"slug":"adultery"},{"slug":"cheating","title":"Songs about Cheating"}],"ranks":[],"artists":[{"slug":"robin-thicke","title":"Robin Thicke","roleSlug":true},{"slug":"t-i","title":"T.I.","roleSlug":"feature"},{"slug":"pharrell-williams","title":"Pharrell Williams","roleSlug":"feature"}],"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":7}],"score":52.67,"songAdjustedAverage":19.91}
+{
+  "title": "Songs about Cheating",
+  "instanceSlug": "cheating",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "How Long",
+      "instanceSlug": 2067,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": "1970s",
+      "playlists": [
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        },
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        }
+      ],
+      "ranks": {
+        "artist:paul-carrack": 4,
+        "artist:ace": 1,
+        "genre:pop": 149,
+        "playlist:feb13": 3,
+        "playlist:cheating": 1,
+        "source:feb13": 3,
+        "source:cheating": 1,
+        "decade:1970s": 18
+      },
+      "artists": [
+        {
+          "slug": "ace",
+          "title": "Ace",
+          "roleSlug": true
+        },
+        {
+          "slug": "paul-carrack",
+          "title": "Paul Carrack",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.12,
+        0.864,
+        0.825,
+        0.752,
+        0.747,
+        0.737,
+        0.722,
+        0.702,
+        0.677,
+        0.647,
+        0.612,
+        0.572,
+        0.527,
+        0.477,
+        0.422,
+        0.362,
+        0.297,
+        0.227,
+        0.152,
+        0.072,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 10.513,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1970s",
+        "title": "1970s",
+        "decade": 1970
+      },
+      "rank": 1
+    },
+    {
+      "title": "Stranger in My House",
+      "instanceSlug": 71,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "genre": "country",
+      "debut": "1983-04",
+      "ranks": {
+        "artist:ronnie-milsap": 2,
+        "genre:country": 10,
+        "playlist:feb13": 8,
+        "playlist:cheating": 2,
+        "source:feb13": 8,
+        "source:cheating": 2,
+        "decade:1980s": 261,
+        "year:1983": 37
+      },
+      "artists": [
+        {
+          "slug": "ronnie-milsap",
+          "title": "Ronnie Milsap",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.11,
+        0.498,
+        0.647,
+        0.631,
+        0.617,
+        0.601,
+        0.564,
+        0.559,
+        0.549,
+        0.534,
+        0.514,
+        0.489,
+        0.459,
+        0.424,
+        0.384,
+        0.339,
+        0.289,
+        0.234,
+        0.174,
+        0.109,
+        0.039,
+        0
+      ],
+      "debutScore": 0.11,
+      "peakScore": 0.647,
+      "duration": 6,
+      "score": 8.764000000000001,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-04",
+        "title": "April 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 4
+      },
+      "rank": 2
+    },
+    {
+      "title": "I Know There's Something Going On",
+      "instanceSlug": 70,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "genre": "pop",
+      "debut": "1983-02",
+      "ranks": {
+        "artist:frida": 1,
+        "genre:pop": 353,
+        "playlist:feb13": 11,
+        "playlist:cheating": 3,
+        "source:feb13": 11,
+        "source:cheating": 3,
+        "decade:1980s": 383,
+        "year:1983": 52
+      },
+      "artists": [
+        {
+          "slug": "frida",
+          "title": "Frida",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.122,
+        0.311,
+        0.498,
+        0.612,
+        0.582,
+        0.521,
+        0.516,
+        0.506,
+        0.491,
+        0.471,
+        0.446,
+        0.416,
+        0.381,
+        0.341,
+        0.296,
+        0.246,
+        0.191,
+        0.131,
+        0.066,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.612,
+      "duration": 5,
+      "score": 7.144,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-02",
+        "title": "February 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 2
+      },
+      "rank": 3
+    },
+    {
+      "title": "Him",
+      "instanceSlug": 73,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "ranks": {
+        "artist:rupert-holmes": 1,
+        "genre:pop": 359,
+        "playlist:feb13": 13,
+        "playlist:cheating": 4,
+        "source:feb13": 13,
+        "source:cheating": 4
+      },
+      "genre": "pop",
+      "artists": [
+        {
+          "slug": "rupert-holmes",
+          "title": "Rupert Holmes",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.402,
+        0.463,
+        0.513,
+        0.546,
+        0.521,
+        0.484,
+        0.479,
+        0.469,
+        0.454,
+        0.434,
+        0.409,
+        0.379,
+        0.344,
+        0.304,
+        0.259,
+        0.209,
+        0.154,
+        0.094,
+        0.029,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.546,
+      "duration": 6,
+      "score": 7.043000000000001,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "rank": 4
+    },
+    {
+      "title": "Run to You",
+      "instanceSlug": 2075,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1984-12",
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "ranks": {
+        "artist:bryan-adams": 9,
+        "genre:rock": 395,
+        "playlist:feb13": 22,
+        "playlist:cheating": 5,
+        "source:feb13": 22,
+        "source:cheating": 5,
+        "decade:1980s": 1376,
+        "year:1984": 98
+      },
+      "artists": [
+        {
+          "slug": "bryan-adams",
+          "title": "Bryan Adams",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-12",
+        "title": "December 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 12
+      },
+      "rank": 5
+    },
+    {
+      "title": "Suspicions",
+      "instanceSlug": 2426,
+      "tags": [
+        "#1",
+        "#1-country"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": "1979-08",
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "ranks": {
+        "artist:eddie-rabbitt": 6,
+        "genre:country": 41,
+        "playlist:feb13": 21,
+        "playlist:cheating": 6,
+        "source:feb13": 21,
+        "source:cheating": 6,
+        "decade:1970s": 256,
+        "year:1979": 49
+      },
+      "artists": [
+        {
+          "slug": "eddie-rabbitt",
+          "title": "Eddie Rabbitt",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-08",
+        "title": "August 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 8
+      },
+      "rank": 6
+    },
+    {
+      "title": "Blurred Lines",
+      "instanceSlug": 3012,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "genre": "pop",
+      "debut": 2013,
+      "playlists": [
+        {
+          "slug": "adultery"
+        },
+        {
+          "slug": "cheating",
+          "title": "Songs about Cheating"
+        }
+      ],
+      "ranks": {
+        "artist:pharrell-williams": 3,
+        "artist:robin-thicke": 1,
+        "artist:t-i": 1,
+        "genre:pop": 944,
+        "playlist:cheating": 7,
+        "playlist:adultery": 1,
+        "source:cheating": 7,
+        "source:adultery": 1,
+        "decade:2010s": 45,
+        "year:2013": 8
+      },
+      "artists": [
+        {
+          "slug": "robin-thicke",
+          "title": "Robin Thicke",
+          "roleSlug": true
+        },
+        {
+          "slug": "t-i",
+          "title": "T.I.",
+          "roleSlug": "feature"
+        },
+        {
+          "slug": "pharrell-williams",
+          "title": "Pharrell Williams",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2013,
+        "title": 2013,
+        "decade": 2010,
+        "year": 2013
+      },
+      "rank": 7
+    }
+  ],
+  "score": 33.464,
+  "songCount": 7,
+  "songAdjustedAverage": 12.648203124780778
+}

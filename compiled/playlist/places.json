@@ -1,1 +1,370 @@
-{"title":"Places","instanceSlug":"places","tags":[],"parents":[],"songs":[{"title":"The Devil Went Down to Georgia","instanceSlug":829,"tags":[],"parents":[],"genre":"country","debut":1979,"playlists":[{"slug":"places","title":"Places"}],"ranks":[9,1,1.1,1.25,1.42,1.81,2.55,3.94,6.62,12.04,23.53,49.2,109.58,259.01,647.51,1707.08],"artists":[{"slug":"charlie-daniels","title":"Charlie Daniels","roleSlug":true}],"debutRank":9,"peakRank":1,"duration":4,"score":19.85,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":1},{"title":"Rock the Casbah","instanceSlug":679,"tags":[],"parents":[],"genre":"rock","debut":"1982-11","playlists":[{"slug":"places","title":"Places"}],"ranks":[12,6.4,3.4,1.8,1.5,1.8,2.16,3.02,4.84,8.71,17.42,38.32,91.97,239.12,669.53,2008.59],"artists":[{"slug":"the-clash"}],"debutRank":12,"peakRank":1.5,"duration":4,"score":17.38,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2},{"title":"The Night the Lights Went Out in Georgia","instanceSlug":1185,"tags":["murder"],"parents":[],"genre":"country","debut":1992,"playlists":[{"slug":"places","title":"Places"}],"ranks":[14.5,3.7,2.5,2.6,2.75,3.15,3.61,4.66,6.69,10.58,18.28,34.23,69.09,149.48,345.16,847.22],"artists":[{"slug":"reba-mcentire","title":"Reba McEntire","roleSlug":true}],"debutRank":14.5,"peakRank":2.5,"duration":4,"score":15,"genres":[{"slug":"country","title":"Country"}],"source":null,"rank":3},{"title":"Birmingham","instanceSlug":587,"tags":[],"parents":[],"genre":true,"debut":"1996-09","playlists":[{"slug":"places","title":"Places"}],"ranks":[15,8.3,4.6,2.5,3.4,4.7,6.5,11.47,24.62,62.27,181.3,597.24],"artists":[{"slug":"amanda-marshall","title":"Amanda Marshall","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":3,"score":9.65,"genres":[{"slug":true}],"source":null,"rank":4},{"title":"Graceland","instanceSlug":633,"tags":[],"parents":[],"genre":true,"debut":1987,"playlists":[{"slug":"places","title":"Places"}],"ranks":[15.5,6.4,6.6,7.2,8,8.89,10.86,14.49,20.92,32.55,54.25,96.44],"artists":[{"slug":"paul-simon","title":"Paul Simon","roleSlug":true}],"debutRank":15.5,"peakRank":6.4,"duration":3,"score":6.22,"genres":[{"slug":true}],"source":null,"rank":5}],"score":68.1,"songAdjustedAverage":30.46}
+{
+  "title": "Places",
+  "instanceSlug": "places",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "The Devil Went Down to Georgia",
+      "instanceSlug": 829,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1979,
+      "playlists": [
+        {
+          "slug": "places",
+          "title": "Places"
+        }
+      ],
+      "ranks": {
+        "artist:charlie-daniels": 1,
+        "genre:country": 2,
+        "playlist:places": 1,
+        "source:places": 1,
+        "decade:1970s": 2,
+        "year:1979": 2
+      },
+      "artists": [
+        {
+          "slug": "charlie-daniels",
+          "title": "Charlie Daniels",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.267,
+        1,
+        0.968,
+        0.925,
+        0.92,
+        0.91,
+        0.895,
+        0.875,
+        0.85,
+        0.82,
+        0.785,
+        0.745,
+        0.7,
+        0.65,
+        0.595,
+        0.535,
+        0.47,
+        0.4,
+        0.325,
+        0.245,
+        0.16,
+        0.07,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.11,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1979,
+        "title": 1979,
+        "decade": 1970,
+        "year": 1979
+      },
+      "rank": 1
+    },
+    {
+      "title": "Rock the Casbah",
+      "instanceSlug": 679,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1982-11",
+      "playlists": [
+        {
+          "slug": "places",
+          "title": "Places"
+        }
+      ],
+      "ranks": {
+        "artist:clash": 1,
+        "genre:rock": 35,
+        "playlist:places": 2,
+        "source:places": 2,
+        "decade:1980s": 127,
+        "year:1982": 10
+      },
+      "artists": [
+        {
+          "slug": "clash",
+          "title": "Clash, The",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.592,
+        0.864,
+        0.813,
+        0.808,
+        0.798,
+        0.783,
+        0.763,
+        0.738,
+        0.708,
+        0.673,
+        0.633,
+        0.588,
+        0.538,
+        0.483,
+        0.423,
+        0.358,
+        0.288,
+        0.213,
+        0.133,
+        0.048,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 11.416000000000002,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-11",
+        "title": "November 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 11
+      },
+      "rank": 2
+    },
+    {
+      "title": "The Night the Lights Went Out in Georgia",
+      "instanceSlug": 1185,
+      "tags": [
+        "murder"
+      ],
+      "parents": [
+      ],
+      "genre": "country",
+      "debut": 1992,
+      "playlists": [
+        {
+          "slug": "places",
+          "title": "Places"
+        }
+      ],
+      "ranks": {
+        "artist:reba-mcentire": 1,
+        "genre:country": 8,
+        "playlist:places": 3,
+        "source:places": 3,
+        "decade:1990s": 165,
+        "year:1992": 27
+      },
+      "artists": [
+        {
+          "slug": "reba-mcentire",
+          "title": "Reba McEntire",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.108,
+        0.563,
+        0.694,
+        0.681,
+        0.662,
+        0.617,
+        0.612,
+        0.602,
+        0.587,
+        0.567,
+        0.542,
+        0.512,
+        0.477,
+        0.437,
+        0.392,
+        0.342,
+        0.287,
+        0.227,
+        0.162,
+        0.092,
+        0.017,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.180000000000003,
+      "genres": [
+        {
+          "slug": "country",
+          "title": "Country"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 3
+    },
+    {
+      "title": "Birmingham",
+      "instanceSlug": 587,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": "1996-09",
+      "playlists": [
+        {
+          "slug": "places",
+          "title": "Places"
+        }
+      ],
+      "ranks": {
+        "artist:amanda-marshall": 1,
+        "genre:true": 12,
+        "playlist:places": 4,
+        "source:places": 4,
+        "decade:1990s": 260,
+        "year:1996": 19
+      },
+      "artists": [
+        {
+          "slug": "amanda-marshall",
+          "title": "Amanda Marshall",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.294,
+        0.491,
+        0.694,
+        0.592,
+        0.484,
+        0.479,
+        0.469,
+        0.454,
+        0.434,
+        0.409,
+        0.379,
+        0.344,
+        0.304,
+        0.259,
+        0.209,
+        0.154,
+        0.094,
+        0.029,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.694,
+      "duration": 5,
+      "score": 6.6690000000000005,
+      "genres": [
+        {
+          "slug": true
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-09",
+        "title": "September 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 9
+      },
+      "rank": 4
+    },
+    {
+      "title": "Graceland",
+      "instanceSlug": 633,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": true,
+      "debut": 1987,
+      "playlists": [
+        {
+          "slug": "places",
+          "title": "Places"
+        }
+      ],
+      "ranks": {
+        "artist:paul-simon": 3,
+        "genre:true": 34,
+        "playlist:places": 5,
+        "source:places": 5,
+        "decade:1980s": 706,
+        "year:1987": 110
+      },
+      "artists": [
+        {
+          "slug": "paul-simon",
+          "title": "Paul Simon",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.086,
+        0.381,
+        0.37,
+        0.341,
+        0.306,
+        0.301,
+        0.291,
+        0.276,
+        0.256,
+        0.231,
+        0.201,
+        0.166,
+        0.126,
+        0.081,
+        0.031,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.381,
+      "duration": 4,
+      "score": 3.4440000000000004,
+      "genres": [
+        {
+          "slug": true
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1987,
+        "title": 1987,
+        "decade": 1980,
+        "year": 1987
+      },
+      "rank": 5
+    }
+  ],
+  "score": 44.819,
+  "songCount": 5,
+  "songAdjustedAverage": 20.043666136712616
+}

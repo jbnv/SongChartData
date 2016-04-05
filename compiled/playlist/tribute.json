@@ -1,1 +1,439 @@
-{"title":"Tribute Songs","instanceSlug":"tribute","tags":[],"parents":[],"songs":[{"title":"When Smokey Sings","instanceSlug":241,"tags":["a:smokey-robinson"],"words":["smoky","sing"],"playlists":[{"slug":"tribute","title":"Tribute Songs"}],"genre":"pop","debut":"1987-08","ranks":[19.9,11.8,7,7.4,8.1,9.4,10.91,14.41,21.35,35.05,63.18,124.03],"artists":[{"slug":"abc","title":"ABC","roleSlug":true}],"debutRank":19.9,"peakRank":7,"duration":3,"score":5.2,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":1},{"title":"Missing You","instanceSlug":1973,"tags":["#1","#1-r&b","marvin-gaye"],"parents":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"pop","title":"Pop"}],"debut":"1985-03","playlists":[{"slug":"tribute","title":"Tribute Songs"}],"ranks":[],"artists":[{"slug":"diana-ross","title":"Diana Ross","roleSlug":true}],"source":null,"rank":2},{"title":"Night Shift","instanceSlug":"nightshift","tags":["#1","#1-r&b","marvin-gaye","jackie-wilson"],"parents":[],"debut":1985,"playlists":[{"slug":"tribute","title":"Tribute Songs"}],"ranks":[],"artists":[{"slug":"commodores","title":"Commodores","roleSlug":true}],"genres":[],"source":null,"rank":3},{"title":"Rock and Roll Heaven","instanceSlug":"rrheaven","tags":[],"parents":[],"debut":1974,"playlists":[{"slug":"tribute","title":"Tribute Songs"}],"ranks":[],"artists":[{"slug":"righteous-brothers","title":"Righteous Brothers","roleSlug":true}],"genres":[],"source":null,"rank":4}],"score":5.2,"songAdjustedAverage":2.6}
+{
+  "title": "Tribute Songs",
+  "instanceSlug": "tribute",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "All Those Years Ago",
+      "instanceSlug": "all-those-981",
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "debut": "1981-06",
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "ranks": {
+        "artist:paul-mccartney": 18,
+        "artist:george-harrison": 1,
+        "artist:ringo-starr": 15,
+        "artist:linda-mccartney": 1,
+        "playlist:tribute": 1,
+        "source:tribute": 1,
+        "decade:1980s": 401,
+        "year:1981": 27
+      },
+      "artists": [
+        {
+          "slug": "george-harrison",
+          "title": "George Harrison",
+          "roleSlug": true
+        },
+        {
+          "slug": "ringo-starr",
+          "title": "Ringo Starr",
+          "roleSlug": "backup"
+        },
+        {
+          "slug": "paul-mccartney",
+          "title": "Paul McCartney",
+          "roleSlug": "backup"
+        },
+        {
+          "slug": "linda-mccartney",
+          "title": "Linda McCartney",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.073,
+        0.229,
+        0.397,
+        0.45,
+        0.529,
+        0.517,
+        0.502,
+        0.497,
+        0.487,
+        0.472,
+        0.452,
+        0.427,
+        0.397,
+        0.362,
+        0.322,
+        0.277,
+        0.227,
+        0.172,
+        0.112,
+        0.047,
+        0
+      ],
+      "debutScore": 0.073,
+      "peakScore": 0.529,
+      "duration": 6,
+      "score": 6.948,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-06",
+        "title": "June 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 6
+      },
+      "rank": 1
+    },
+    {
+      "title": "When We Was Fab",
+      "instanceSlug": "fab88",
+      "tags": [
+      ],
+      "debut": "1988-03",
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "ranks": {
+        "artist:george-harrison": 2,
+        "playlist:tribute": 2,
+        "source:tribute": 2,
+        "decade:1980s": 486,
+        "year:1988": 59
+      },
+      "artists": [
+        {
+          "slug": "george-harrison",
+          "title": "George Harrison",
+          "roleSlug": true
+        }
+      ],
+      "note": "Tribute to his days in the Beatles.",
+      "scores": [
+        0.018,
+        0.171,
+        0.306,
+        0.402,
+        0.463,
+        0.456,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.676999999999999,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-03",
+        "title": "March 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 3
+      },
+      "rank": 2
+    },
+    {
+      "title": "When Smokey Sings",
+      "instanceSlug": 241,
+      "tags": [
+        "a:smokey-robinson"
+      ],
+      "words": [
+        "smoky",
+        "sing"
+      ],
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "genre": "pop",
+      "debut": "1987-08",
+      "ranks": {
+        "artist:abc": 5,
+        "genre:pop": 632,
+        "playlist:tribute": 3,
+        "source:tribute": 3,
+        "decade:1980s": 760,
+        "year:1987": 119
+      },
+      "artists": [
+        {
+          "slug": "abc",
+          "title": "ABC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.003,
+        0.177,
+        0.351,
+        0.332,
+        0.302,
+        0.253,
+        0.248,
+        0.238,
+        0.223,
+        0.203,
+        0.178,
+        0.148,
+        0.113,
+        0.073,
+        0.028,
+        0
+      ],
+      "debutScore": 0.003,
+      "peakScore": 0.351,
+      "duration": 4,
+      "score": 2.87,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 3
+    },
+    {
+      "title": "Pride (In the Name of Love)",
+      "instanceSlug": 1763,
+      "tags": [
+      ],
+      "genre": "rock",
+      "debut": "1985-01",
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "artists": [
+        {
+          "slug": "u2",
+          "title": "U2",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.1,
+        0.2,
+        0.25,
+        0.24,
+        0.235,
+        0.225,
+        0.21,
+        0.19,
+        0.165,
+        0.135,
+        0.1,
+        0.06,
+        0.015,
+        0
+      ],
+      "tribute": "Martin Luther King Jr.",
+      "ranks": {
+        "artist:u2": 5,
+        "genre:rock": 241,
+        "playlist:tribute": 4,
+        "source:tribute": 4,
+        "decade:1980s": 817,
+        "year:1985": 73
+      },
+      "debutScore": 0.1,
+      "peakScore": 0.25,
+      "duration": 4,
+      "score": 2.125,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-01",
+        "title": "January 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 1
+      },
+      "rank": 4
+    },
+    {
+      "title": "Missing You",
+      "instanceSlug": 1973,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "marvin-gaye"
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1985-03",
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "ranks": {
+        "artist:diana-ross": 9,
+        "genre:pop": 1008,
+        "genre:soul": 186,
+        "playlist:tribute": 5,
+        "source:tribute": 5,
+        "decade:1980s": 1094,
+        "year:1985": 129
+      },
+      "artists": [
+        {
+          "slug": "diana-ross",
+          "title": "Diana Ross",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "source": null,
+      "debutEra": {
+        "slug": "1985-03",
+        "title": "March 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 3
+      },
+      "rank": 5
+    },
+    {
+      "title": "Night Shift",
+      "instanceSlug": "nightshift",
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "marvin-gaye",
+        "jackie-wilson"
+      ],
+      "parents": [
+      ],
+      "debut": 1985,
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "ranks": {
+        "artist:commodores": 4,
+        "playlist:tribute": 6,
+        "source:tribute": 6,
+        "decade:1980s": 1462,
+        "year:1985": 154
+      },
+      "artists": [
+        {
+          "slug": "commodores",
+          "title": "Commodores",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1985,
+        "title": 1985,
+        "decade": 1980,
+        "year": 1985
+      },
+      "rank": 6
+    },
+    {
+      "title": "Rock and Roll Heaven",
+      "instanceSlug": "rrheaven",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "debut": 1974,
+      "playlists": [
+        {
+          "slug": "tribute",
+          "title": "Tribute Songs"
+        }
+      ],
+      "ranks": {
+        "artist:righteous-brothers": 2,
+        "playlist:tribute": 7,
+        "source:tribute": 7,
+        "decade:1970s": 476,
+        "year:1974": 24
+      },
+      "artists": [
+        {
+          "slug": "righteous-brothers",
+          "title": "Righteous Brothers",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 7
+    }
+  ],
+  "score": 17.62,
+  "songCount": 7,
+  "songAdjustedAverage": 6.659734014422583
+}

@@ -1,1 +1,404 @@
-{"instanceSlug":"or","title":"This Or That","filter":{"title":"[a-zA-Z]+ or [a-zA-Z]+"},"songs":[{"title":"Black or White","instanceSlug":53,"tags":["#1","#1-hot-100","this-or-that"],"source":{"title":"Dangerous","instanceSlug":"dangerous","tags":["michael-jackson"],"type":"album"},"genre":"dance-pop","debut":"1991-12","ranks":[15,8,4,3.2,2.2,2,2.15,2.35,2.58,2.92,3.28,3.68,4.59,6.29,9.39,15.19,26.42,49.22,97.76,206.24],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":5,"score":24.73,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"rank":1},{"title":"Dead or Alive","instanceSlug":105,"tags":[],"genre":"pop","debut":1987,"ranks":[13,4,2.1,1.5,1.6,1.8,2.03,2.53,3.48,5.22,8.48,14.85,27.84,55.67,118.31,266.19],"artists":[{"slug":"bon-jovi","title":"Bon Jovi","roleSlug":true}],"debutRank":13,"peakRank":1.5,"duration":4,"score":20.47,"genres":[{"slug":"pop","title":"Pop"}],"playlists":[],"source":null,"rank":2},{"title":"Ready or Not","instanceSlug":2087,"tags":[],"parents":[],"genre":"soul","debut":"1990-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,5.2,2.1,2.21,2.42,3,3.72,5.5,9.46,18.52,40.72,99.28],"artists":[{"slug":"after-7","title":"After 7","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":3,"score":14.08,"genres":[{"slug":"soul","title":"Soul"}],"source":null,"rank":3},{"title":"Go Big or Go Home","instanceSlug":3052,"tags":[],"parents":[],"genre":"pop","debut":"2015-07","playlists":[],"ranks":[16,5,2.6,2.5,2.7,2.92,4,5.48,9.53,20.11,49.86,142.07],"artists":[{"slug":"american-authors","title":"American Authors","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":3,"score":13.34,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":4},{"title":"With or Without You","instanceSlug":842,"tags":["with","without","without-you","with-you","you"],"parents":[],"genre":"rock","debut":"1987-04","playlists":[],"ranks":[17.9,10.8,14.4,19.2,32,64,149.33,398.22],"artists":[{"slug":"u2","title":"U2","roleSlug":true}],"debutRank":17.9,"peakRank":10.8,"duration":2,"score":1.11,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":5},{"title":"All or Nothing","instanceSlug":1348,"tags":[],"parents":[],"genre":"dance","debut":"1990-01","playlists":[],"ranks":[],"artists":[{"slug":"milli-vanilli","title":"Milli Vanilli","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":6}],"score":73.73,"songAdjustedAverage":30.1}
+{
+  "instanceSlug": "or",
+  "title": "This Or That",
+  "filter": {
+    "title": "[a-zA-Z]+ or [a-zA-Z]+"
+  },
+  "songs": [
+    {
+      "title": "Dead or Alive",
+      "instanceSlug": 105,
+      "tags": [
+      ],
+      "genre": "pop",
+      "debut": 1987,
+      "ranks": {
+        "artist:bon-jovi": 1,
+        "genre:pop": 76,
+        "decade:1980s": 79,
+        "year:1987": 11
+      },
+      "artists": [
+        {
+          "slug": "bon-jovi",
+          "title": "Bon Jovi",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.537,
+        0.752,
+        0.864,
+        0.843,
+        0.804,
+        0.799,
+        0.789,
+        0.774,
+        0.754,
+        0.729,
+        0.699,
+        0.664,
+        0.624,
+        0.579,
+        0.529,
+        0.474,
+        0.414,
+        0.349,
+        0.279,
+        0.204,
+        0.124,
+        0.039,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 12.768000000000002,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1987,
+        "title": 1987,
+        "decade": 1980,
+        "year": 1987
+      },
+      "rank": 1
+    },
+    {
+      "title": "Black or White",
+      "instanceSlug": 53,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "this-or-that"
+      ],
+      "source": {
+        "title": "Dangerous",
+        "instanceSlug": "dangerous",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genre": "dance-pop",
+      "debut": "1991-12",
+      "ranks": {
+        "artist:michael-jackson": 12,
+        "genre:dance-pop": 8,
+        "decade:1990s": 68,
+        "year:1991": 15
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.306,
+        0.537,
+        0.612,
+        0.737,
+        0.768,
+        0.744,
+        0.715,
+        0.684,
+        0.642,
+        0.604,
+        0.599,
+        0.589,
+        0.574,
+        0.554,
+        0.529,
+        0.499,
+        0.464,
+        0.424,
+        0.379,
+        0.329,
+        0.274,
+        0.214,
+        0.149,
+        0.079,
+        0.004,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.768,
+      "duration": 7,
+      "score": 12.106,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "playlists": [
+      ],
+      "debutEra": {
+        "slug": "1991-12",
+        "title": "December 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 12
+      },
+      "rank": 2
+    },
+    {
+      "title": "Ready or Not",
+      "instanceSlug": 2087,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1990-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:after-7": 2,
+        "genre:soul": 46,
+        "playlist:summer": 69,
+        "source:summer": 69,
+        "decade:1990s": 152,
+        "year:1990": 24
+      },
+      "artists": [
+        {
+          "slug": "after-7",
+          "title": "After 7",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.45,
+        0.752,
+        0.735,
+        0.705,
+        0.633,
+        0.628,
+        0.618,
+        0.603,
+        0.583,
+        0.558,
+        0.528,
+        0.493,
+        0.453,
+        0.408,
+        0.358,
+        0.303,
+        0.243,
+        0.178,
+        0.108,
+        0.033,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 9.515000000000004,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-05",
+        "title": "May 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 5
+      },
+      "rank": 3
+    },
+    {
+      "title": "Go Big or Go Home",
+      "instanceSlug": 3052,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "2015-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:american-authors": 1,
+        "genre:pop": 271,
+        "decade:2010s": 12,
+        "year:2015": 6
+      },
+      "artists": [
+        {
+          "slug": "american-authors",
+          "title": "American Authors",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.463,
+        0.681,
+        0.694,
+        0.668,
+        0.642,
+        0.537,
+        0.532,
+        0.522,
+        0.507,
+        0.487,
+        0.462,
+        0.432,
+        0.397,
+        0.357,
+        0.312,
+        0.262,
+        0.207,
+        0.147,
+        0.082,
+        0.012,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 8.478000000000003,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2015-07",
+        "title": "July 2015",
+        "decade": 2010,
+        "year": 2015,
+        "month": 7
+      },
+      "rank": 4
+    },
+    {
+      "title": "With or Without You",
+      "instanceSlug": 842,
+      "tags": [
+        "with",
+        "without",
+        "without-you",
+        "with-you",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1987-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:u2": 6,
+        "genre:rock": 277,
+        "decade:1980s": 905,
+        "year:1987": 139
+      },
+      "artists": [
+        {
+          "slug": "u2",
+          "title": "U2",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.038,
+        0.206,
+        0.11,
+        0.105,
+        0.095,
+        0.08,
+        0.06,
+        0.035,
+        0.005,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.206,
+      "duration": 3,
+      "score": 0.734,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-04",
+        "title": "April 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 4
+      },
+      "rank": 5
+    },
+    {
+      "title": "All or Nothing",
+      "instanceSlug": 1348,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:milli-vanilli": 5,
+        "genre:dance": 113,
+        "decade:1990s": 475,
+        "year:1990": 102
+      },
+      "artists": [
+        {
+          "slug": "milli-vanilli",
+          "title": "Milli Vanilli",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-01",
+        "title": "January 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 1
+      },
+      "rank": 6
+    }
+  ],
+  "score": 43.60100000000001,
+  "songCount": 6,
+  "songAdjustedAverage": 17.8000337125149
+}

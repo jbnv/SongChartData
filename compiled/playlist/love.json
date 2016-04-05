@@ -1,1 +1,1187 @@
-{"title":"Love Songs","instanceSlug":"love","tags":[],"parents":[],"songs":[{"title":"It Might Be You","instanceSlug":1611,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1983-04","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[12.7,1.8,1.5,1.6,1.75,1.91,2.27,2.91,4,5.88,9.19,15.22,26.64,49.11,95.15,193.27],"artists":[{"slug":"stephen-bishop","title":"Stephen Bishop","roleSlug":true}],"debutRank":12.7,"peakRank":1.5,"duration":4,"score":20.8,"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"source":null,"rank":1},{"title":"You'll Accompany Me","instanceSlug":2607,"tags":[],"parents":[],"genre":"rock","debut":"1980-09","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[15,5,1.5,1.61,1.73,1.98,2.42,3.13,4.27,6.15,9.31,14.77,24.53,42.51,76.8,144.39],"artists":[{"slug":"bob-seger","title":"Bob Seger","roleSlug":true}],"debutRank":15,"peakRank":1.5,"duration":4,"score":19.35,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":2},{"title":"Love Song","instanceSlug":1329,"tags":[],"parents":[],"genre":"rock","debut":"1989-11","playlists":[{"slug":"love","title":"Love Songs"},{"slug":"ballad","title":"Ballads"}],"ranks":[16,9,6,3.5,2.5,2.75,3,3.3,3.7,4.4,5.23,7.21,11.31,19.86,38.65,82.52],"artists":[{"slug":"tesla","title":"Tesla","roleSlug":true}],"debutRank":16,"peakRank":2.5,"duration":4,"score":17.93,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":3},{"title":"I Just Can't Stop Loving You","instanceSlug":244,"tags":["#1","#1-adult-contemporary","#1-hot-100","#1-r&b","can't-stop"],"playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"genres":[{"slug":"pop","title":"Pop"}],"debut":"1987-08","ranks":[13.9,3.6,1.9,1.85,2.05,2.27,2.76,3.66,5.24,8.07,13.31,23.38,43.61,86.04,179.05,391.98],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true},{"slug":"siedah-garrett","title":"Siedah Garrett","roleSlug":"backup"}],"debutRank":13.9,"peakRank":1.85,"duration":4,"score":17.65,"rank":4},{"title":"Just the Way You Are","instanceSlug":1672,"tags":["just-the-way"],"parents":[],"genre":"pop","debut":"1977-12","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[12,5,2.6,1.8,2.05,2.33,2.98,4.23,6.57,11.14,20.42,40.28,85.03,191.32,457.04,1155.31],"artists":[{"slug":"billy-joel","title":"Billy Joel","roleSlug":true}],"debutRank":12,"peakRank":1.8,"duration":4,"score":15.97,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":5},{"title":"Next Time I Fall","instanceSlug":779,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[13.5,3.7,2,1.7,2.05,2.47,3.49,5.65,10.29,20.89,46.7,114],"artists":[{"slug":"peter-cetera","title":"Peter Cetera","roleSlug":true},{"slug":"amy-grant","title":"Amy Grant","roleSlug":true}],"debutRank":13.5,"peakRank":1.7,"duration":3,"score":14.93,"genres":[{"slug":"pop","title":"Pop"}],"source":null,"rank":6},{"title":"All for Love","instanceSlug":1602,"genres":[{"slug":"pop","title":"Pop"},{"slug":"rock","title":"Rock"}],"debut":"1993-12","source":{"title":"The Three Musketeers (1993)","instanceSlug":"three-musketeers-1993","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[18,11,7.5,5.4,4.8,4.95,5.25,5.86,6.4,6.99,8.28,10.57,14.46,21.12,32.8,53.96],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true},{"slug":"rod-stewart","title":"Rod Stewart","roleSlug":true},{"slug":"sting","title":"Sting","roleSlug":true}],"debutRank":18,"peakRank":4.8,"duration":4,"score":12.47,"rank":7},{"title":"Love of a Lifetime","instanceSlug":899,"tags":[],"parents":[],"genre":"rock","debut":"1991-08","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[13.9,4.5,2.2,2.7,3.5,4.54,7.23,13.65,29.82,74.01,205.58,631.97],"artists":[{"slug":"firehouse","title":"Firehouse","roleSlug":true}],"debutRank":13.9,"peakRank":2.2,"duration":3,"score":10.72,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":8},{"title":"When I Look Into Your Eyes","instanceSlug":898,"tags":["when-i","when-i-look"],"parents":[],"genre":"rock","debut":"1992-09","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[17,10.1,7.6,6.5,5.6,5.4,6.1,6.89,8.68,12.05,18.3,30.16,53.62,102.28,208.35,451.42],"artists":[{"slug":"firehouse","title":"Firehouse","roleSlug":true}],"debutRank":17,"peakRank":5.4,"duration":4,"score":9.25,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":9},{"title":"Heaven in Your Eyes","instanceSlug":416,"tags":[],"parents":[],"genre":"rock","debut":"1986-09","source":{"title":"Top Gun","instanceSlug":"top-gun","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[18,12,9,7.3,6.5,6,9,13.5,27,67.5,202.5,708.75],"artists":[{"slug":"loverboy","title":"Loverboy","roleSlug":true}],"debutRank":18,"peakRank":6,"duration":3,"score":5.98,"genres":[{"slug":"rock","title":"Rock"}],"rank":10},{"title":"I Just Called to Say I Love You","instanceSlug":667,"tags":["#1","i-love-you"],"parents":[],"genre":"soul","debut":"1984-09","source":{"title":"The Woman in Red","instanceSlug":"woman-in-red","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"love","title":"Love Songs"}],"ranks":[19.2,14,11.8,8.5,10,11.76,15.92,24.34,41.53,78.17,160.94,359.74],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"debutRank":19.2,"peakRank":8.5,"duration":3,"score":3.26,"genres":[{"slug":"soul","title":"Soul"}],"rank":11},{"title":"Faithfully","instanceSlug":2176,"tags":[],"parents":[],"genre":"rock","debut":"1983-05","playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[20,16,13,14.5,16.17,19.91,26.8,39.16,61.76,104.51,188.92,363.32],"artists":[{"slug":"journey","title":"Journey","roleSlug":true}],"debutRank":20,"peakRank":13,"duration":3,"score":1.22,"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":12},{"title":"I Finally Found Someone","instanceSlug":2074,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1996-12","source":{"title":"The Mirror Has Two Faces","instanceSlug":"mirror-has-two-faces","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"love","title":"Love Songs"}],"ranks":true,"artists":[{"slug":"barbra-streisand","title":"Barbra Streisand","roleSlug":true},{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"}],"rank":13},{"title":"(Everything I Do) I Do It For You","instanceSlug":2071,"tags":["#1"],"parents":[],"genres":[{"slug":"adult-contemporary","title":"Adult Contemporary"},{"slug":"pop","title":"Pop"}],"debut":"1991-07","source":{"title":"Robin Hood: Prince of Thieves","instanceSlug":"robin-hood-1991","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"love","title":"Love Songs"}],"ranks":[],"artists":[{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"rank":14},{"title":"Best of My Love","instanceSlug":1279,"tags":["#1","#1-adult-contemporary","#1-hot-100","my-love"],"parents":[],"genre":"rock","debut":1975,"playlists":[{"slug":"ballad","title":"Ballads"},{"slug":"love","title":"Love Songs"}],"ranks":[],"artists":[{"slug":"eagles","title":"Eagles","roleSlug":true},{"slug":"don-henley","title":"Don Henley","roleSlug":"lead"}],"genres":[{"slug":"rock","title":"Rock"}],"source":null,"rank":15}],"score":149.53,"songAdjustedAverage":38.61}
+{
+  "title": "Love Songs",
+  "instanceSlug": "love",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "It Might Be You",
+      "instanceSlug": 1611,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1983-04",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:stephen-bishop": 1,
+        "genre:adult-contemporary": 4,
+        "playlist:ballad": 8,
+        "playlist:love": 1,
+        "source:ballad": 8,
+        "source:love": 1,
+        "decade:1980s": 95,
+        "year:1983": 14
+      },
+      "artists": [
+        {
+          "slug": "stephen-bishop",
+          "title": "Stephen Bishop",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.152,
+        0.804,
+        0.864,
+        0.843,
+        0.813,
+        0.808,
+        0.798,
+        0.783,
+        0.763,
+        0.738,
+        0.708,
+        0.673,
+        0.633,
+        0.588,
+        0.538,
+        0.483,
+        0.423,
+        0.358,
+        0.288,
+        0.213,
+        0.133,
+        0.048,
+        0
+      ],
+      "debutScore": 0.152,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 12.452,
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-04",
+        "title": "April 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 4
+      },
+      "rank": 1
+    },
+    {
+      "title": "I Just Can't Stop Loving You",
+      "instanceSlug": 244,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-hot-100",
+        "#1-r&b",
+        "can't-stop"
+      ],
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "source": {
+        "title": "Bad",
+        "instanceSlug": "bad",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1987-08",
+      "ranks": {
+        "artist:michael-jackson": 14,
+        "artist:siedah-garrett": 1,
+        "genre:pop": 109,
+        "playlist:ballad": 9,
+        "playlist:love": 2,
+        "source:ballad": 9,
+        "source:love": 2,
+        "decade:1980s": 117,
+        "year:1987": 19
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        },
+        {
+          "slug": "siedah-garrett",
+          "title": "Siedah Garrett",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.122,
+        0.573,
+        0.843,
+        0.833,
+        0.794,
+        0.789,
+        0.779,
+        0.764,
+        0.744,
+        0.719,
+        0.689,
+        0.654,
+        0.614,
+        0.569,
+        0.519,
+        0.464,
+        0.404,
+        0.339,
+        0.269,
+        0.194,
+        0.114,
+        0.029,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.843,
+      "duration": 6,
+      "score": 11.818000000000003,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 2
+    },
+    {
+      "title": "You'll Accompany Me",
+      "instanceSlug": 2607,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1980-09",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:bob-seger": 1,
+        "genre:rock": 32,
+        "playlist:ballad": 12,
+        "playlist:love": 3,
+        "source:ballad": 12,
+        "source:love": 3,
+        "decade:1980s": 119,
+        "year:1980": 9
+      },
+      "artists": [
+        {
+          "slug": "bob-seger",
+          "title": "Bob Seger",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.463,
+        0.864,
+        0.841,
+        0.836,
+        0.826,
+        0.811,
+        0.791,
+        0.766,
+        0.736,
+        0.701,
+        0.661,
+        0.616,
+        0.566,
+        0.511,
+        0.451,
+        0.386,
+        0.316,
+        0.241,
+        0.161,
+        0.076,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 11.716999999999999,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-09",
+        "title": "September 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 9
+      },
+      "rank": 3
+    },
+    {
+      "title": "Next Time I Fall",
+      "instanceSlug": 779,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1986-09",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:amy-grant": 1,
+        "artist:peter-cetera": 1,
+        "genre:pop": 128,
+        "playlist:ballad": 15,
+        "playlist:love": 4,
+        "source:ballad": 15,
+        "source:love": 4,
+        "decade:1980s": 136,
+        "year:1986": 13
+      },
+      "artists": [
+        {
+          "slug": "peter-cetera",
+          "title": "Peter Cetera",
+          "roleSlug": true
+        },
+        {
+          "slug": "amy-grant",
+          "title": "Amy Grant",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.132,
+        0.563,
+        0.768,
+        0.823,
+        0.76,
+        0.755,
+        0.745,
+        0.73,
+        0.71,
+        0.685,
+        0.655,
+        0.62,
+        0.58,
+        0.535,
+        0.485,
+        0.43,
+        0.37,
+        0.305,
+        0.235,
+        0.16,
+        0.08,
+        0
+      ],
+      "debutScore": 0.132,
+      "peakScore": 0.823,
+      "duration": 6,
+      "score": 11.125999999999998,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-09",
+        "title": "September 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 9
+      },
+      "rank": 4
+    },
+    {
+      "title": "Just the Way You Are",
+      "instanceSlug": 1672,
+      "tags": [
+        "just-the-way"
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": "1977-12",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:billy-joel": 2,
+        "genre:pop": 133,
+        "playlist:ballad": 16,
+        "playlist:love": 5,
+        "source:ballad": 16,
+        "source:love": 5,
+        "decade:1970s": 15,
+        "year:1977": 2
+      },
+      "artists": [
+        {
+          "slug": "billy-joel",
+          "title": "Billy Joel",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.463,
+        0.681,
+        0.804,
+        0.76,
+        0.755,
+        0.745,
+        0.73,
+        0.71,
+        0.685,
+        0.655,
+        0.62,
+        0.58,
+        0.535,
+        0.485,
+        0.43,
+        0.37,
+        0.305,
+        0.235,
+        0.16,
+        0.08,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.804,
+      "duration": 6,
+      "score": 10.958999999999998,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1977-12",
+        "title": "December 1977",
+        "decade": 1970,
+        "year": 1977,
+        "month": 12
+      },
+      "rank": 5
+    },
+    {
+      "title": "Love Song",
+      "instanceSlug": 1329,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1989-11",
+      "playlists": [
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        },
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        }
+      ],
+      "ranks": {
+        "artist:tesla": 1,
+        "genre:rock": 65,
+        "playlist:ballad": 24,
+        "playlist:love": 6,
+        "source:ballad": 24,
+        "source:love": 6,
+        "decade:1980s": 230,
+        "year:1989": 23
+      },
+      "artists": [
+        {
+          "slug": "tesla",
+          "title": "Tesla",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.267,
+        0.402,
+        0.582,
+        0.694,
+        0.662,
+        0.633,
+        0.602,
+        0.563,
+        0.506,
+        0.501,
+        0.491,
+        0.476,
+        0.456,
+        0.431,
+        0.401,
+        0.366,
+        0.326,
+        0.281,
+        0.231,
+        0.176,
+        0.116,
+        0.051,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.289000000000001,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-11",
+        "title": "November 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 11
+      },
+      "rank": 6
+    },
+    {
+      "title": "Love of a Lifetime",
+      "instanceSlug": 899,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1991-08",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:firehouse": 1,
+        "genre:rock": 81,
+        "playlist:ballad": 31,
+        "playlist:love": 7,
+        "source:ballad": 31,
+        "source:love": 7,
+        "decade:1990s": 216,
+        "year:1991": 41
+      },
+      "artists": [
+        {
+          "slug": "firehouse",
+          "title": "Firehouse",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.122,
+        0.498,
+        0.737,
+        0.668,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.737,
+      "duration": 5,
+      "score": 7.955,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-08",
+        "title": "August 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 8
+      },
+      "rank": 7
+    },
+    {
+      "title": "All for Love",
+      "instanceSlug": 1602,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        },
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "debut": "1993-12",
+      "source": {
+        "title": "The Three Musketeers (1993)",
+        "instanceSlug": "three-musketeers-1993",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:bryan-adams": 4,
+        "artist:sting": 5,
+        "artist:rod-stewart": 4,
+        "genre:pop": 433,
+        "genre:rock": 114,
+        "playlist:ballad": 43,
+        "playlist:love": 8,
+        "source:ballad": 43,
+        "source:love": 8,
+        "decade:1990s": 289,
+        "year:1993": 30
+      },
+      "artists": [
+        {
+          "slug": "bryan-adams",
+          "title": "Bryan Adams",
+          "roleSlug": true
+        },
+        {
+          "slug": "rod-stewart",
+          "title": "Rod Stewart",
+          "roleSlug": true
+        },
+        {
+          "slug": "sting",
+          "title": "Sting",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.328,
+        0.437,
+        0.477,
+        0.466,
+        0.447,
+        0.41,
+        0.381,
+        0.376,
+        0.366,
+        0.351,
+        0.331,
+        0.306,
+        0.276,
+        0.241,
+        0.201,
+        0.156,
+        0.106,
+        0.051,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.477,
+      "duration": 6,
+      "score": 5.943,
+      "debutEra": {
+        "slug": "1993-12",
+        "title": "December 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 12
+      },
+      "rank": 8
+    },
+    {
+      "title": "When I Look Into Your Eyes",
+      "instanceSlug": 898,
+      "tags": [
+        "when-i",
+        "when-i-look"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1992-09",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:firehouse": 2,
+        "genre:rock": 143,
+        "playlist:ballad": 45,
+        "playlist:love": 9,
+        "source:ballad": 45,
+        "source:love": 9,
+        "decade:1990s": 319,
+        "year:1992": 51
+      },
+      "artists": [
+        {
+          "slug": "firehouse",
+          "title": "Firehouse",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.229,
+        0.323,
+        0.376,
+        0.425,
+        0.437,
+        0.397,
+        0.392,
+        0.382,
+        0.367,
+        0.347,
+        0.322,
+        0.292,
+        0.257,
+        0.217,
+        0.172,
+        0.122,
+        0.067,
+        0.007,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.437,
+      "duration": 5,
+      "score": 5.185999999999998,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-09",
+        "title": "September 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 9
+      },
+      "rank": 9
+    },
+    {
+      "title": "Heaven in Your Eyes",
+      "instanceSlug": 416,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1986-09",
+      "source": {
+        "title": "Top Gun",
+        "instanceSlug": "top-gun",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:loverboy": 2,
+        "genre:rock": 199,
+        "playlist:ballad": 52,
+        "playlist:love": 10,
+        "source:ballad": 52,
+        "source:love": 10,
+        "decade:1980s": 707,
+        "year:1986": 83
+      },
+      "artists": [
+        {
+          "slug": "loverboy",
+          "title": "Loverboy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.267,
+        0.337,
+        0.376,
+        0.402,
+        0.267,
+        0.262,
+        0.252,
+        0.237,
+        0.217,
+        0.192,
+        0.162,
+        0.127,
+        0.087,
+        0.042,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 3.4340000000000006,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "debutEra": {
+        "slug": "1986-09",
+        "title": "September 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 9
+      },
+      "rank": 10
+    },
+    {
+      "title": "I Just Called to Say I Love You",
+      "instanceSlug": 667,
+      "tags": [
+        "#1",
+        "i-love-you"
+      ],
+      "parents": [
+      ],
+      "genre": "soul",
+      "debut": "1984-09",
+      "source": {
+        "title": "The Woman in Red",
+        "instanceSlug": "woman-in-red",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 9,
+        "genre:soul": 108,
+        "playlist:love": 11,
+        "source:love": 11,
+        "decade:1980s": 823,
+        "year:1984": 77
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.015,
+        0.12,
+        0.177,
+        0.286,
+        0.232,
+        0.227,
+        0.217,
+        0.202,
+        0.182,
+        0.157,
+        0.127,
+        0.092,
+        0.052,
+        0.007,
+        0
+      ],
+      "debutScore": 0.015,
+      "peakScore": 0.286,
+      "duration": 4,
+      "score": 2.093,
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "debutEra": {
+        "slug": "1984-09",
+        "title": "September 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 9
+      },
+      "rank": 11
+    },
+    {
+      "title": "Faithfully",
+      "instanceSlug": 2176,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": "1983-05",
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:journey": 9,
+        "genre:rock": 278,
+        "playlist:ballad": 71,
+        "playlist:love": 12,
+        "source:ballad": 71,
+        "source:love": 12,
+        "decade:1980s": 908,
+        "year:1983": 101
+      },
+      "artists": [
+        {
+          "slug": "journey",
+          "title": "Journey",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.075,
+        0.145,
+        0.108,
+        0.103,
+        0.093,
+        0.078,
+        0.058,
+        0.033,
+        0.003,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.145,
+      "duration": 3,
+      "score": 0.697,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-05",
+        "title": "May 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 5
+      },
+      "rank": 12
+    },
+    {
+      "title": "I Finally Found Someone",
+      "instanceSlug": 2074,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "adult-contemporary",
+      "debut": "1996-12",
+      "source": {
+        "title": "The Mirror Has Two Faces",
+        "instanceSlug": "mirror-has-two-faces",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:barbra-streisand": 4,
+        "artist:bryan-adams": 15,
+        "genre:adult-contemporary": 123,
+        "playlist:love": 13,
+        "source:love": 13,
+        "decade:1990s": 821,
+        "year:1996": 60
+      },
+      "artists": [
+        {
+          "slug": "barbra-streisand",
+          "title": "Barbra Streisand",
+          "roleSlug": true
+        },
+        {
+          "slug": "bryan-adams",
+          "title": "Bryan Adams",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        }
+      ],
+      "debutEra": {
+        "slug": "1996-12",
+        "title": "December 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 12
+      },
+      "rank": 13
+    },
+    {
+      "title": "(Everything I Do) I Do It For You",
+      "instanceSlug": 2071,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "adult-contemporary",
+          "title": "Adult Contemporary"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1991-07",
+      "source": {
+        "title": "Robin Hood: Prince of Thieves",
+        "instanceSlug": "robin-hood-1991",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:bryan-adams": 22,
+        "genre:pop": 1089,
+        "genre:adult-contemporary": 120,
+        "playlist:love": 14,
+        "source:love": 14,
+        "decade:1990s": 818,
+        "year:1991": 88
+      },
+      "artists": [
+        {
+          "slug": "bryan-adams",
+          "title": "Bryan Adams",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "debutEra": {
+        "slug": "1991-07",
+        "title": "July 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 7
+      },
+      "rank": 14
+    },
+    {
+      "title": "Best of My Love",
+      "instanceSlug": 1279,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-hot-100",
+        "my-love"
+      ],
+      "parents": [
+      ],
+      "genre": "rock",
+      "debut": 1975,
+      "playlists": [
+        {
+          "slug": "ballad",
+          "title": "Ballads"
+        },
+        {
+          "slug": "love",
+          "title": "Love Songs"
+        }
+      ],
+      "ranks": {
+        "artist:don-henley": 15,
+        "artist:eagles": 9,
+        "genre:rock": 581,
+        "playlist:ballad": 103,
+        "playlist:love": 15,
+        "source:ballad": 103,
+        "source:love": 15,
+        "decade:1970s": 440,
+        "year:1975": 23
+      },
+      "artists": [
+        {
+          "slug": "eagles",
+          "title": "Eagles",
+          "roleSlug": true
+        },
+        {
+          "slug": "don-henley",
+          "title": "Don Henley",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "rock",
+          "title": "Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 15
+    }
+  ],
+  "score": 92.66899999999998,
+  "songCount": 15,
+  "songAdjustedAverage": 23.92703291397967
+}

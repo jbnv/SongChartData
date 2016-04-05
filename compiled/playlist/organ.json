@@ -1,0 +1,181 @@
+{
+  "title": "Songs with Organ Solos",
+  "instanceSlug": "organ",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "songs": [
+    {
+      "title": "Walk the Dinosaur",
+      "instanceSlug": 305,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop",
+      "debut": 1989,
+      "playlists": [
+        {
+          "slug": "organ",
+          "title": "Songs with Organ Solos"
+        }
+      ],
+      "ranks": {
+        "artist:was-not-was": 1,
+        "genre:pop": 40,
+        "playlist:organ": 1,
+        "source:organ": 1,
+        "decade:1980s": 41,
+        "year:1989": 8
+      },
+      "artists": [
+        {
+          "slug": "was-not-was",
+          "title": "Was (Not Was)",
+          "roleSlug": true
+        }
+      ],
+      "note": "Project 4 weeks at #1.",
+      "scores": [
+        0.306,
+        1,
+        0.965,
+        0.928,
+        0.873,
+        0.868,
+        0.858,
+        0.843,
+        0.823,
+        0.798,
+        0.768,
+        0.733,
+        0.693,
+        0.648,
+        0.598,
+        0.543,
+        0.483,
+        0.418,
+        0.348,
+        0.273,
+        0.193,
+        0.108,
+        0.018,
+        0
+      ],
+      "debutScore": 0.306,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.086000000000002,
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1989,
+        "title": 1989,
+        "decade": 1980,
+        "year": 1989
+      },
+      "rank": 1
+    },
+    {
+      "title": "Bad",
+      "instanceSlug": 25,
+      "tags": [
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "playlists": [
+        {
+          "slug": "organ",
+          "title": "Songs with Organ Solos"
+        },
+        {
+          "slug": "weird-al",
+          "title": "Songs Parodied by Weird Al Yankovic"
+        }
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1987-09",
+      "ranks": {
+        "artist:michael-jackson": 10,
+        "genre:pop": 72,
+        "genre:soul": 13,
+        "playlist:organ": 2,
+        "playlist:weird-al": 1,
+        "source:organ": 2,
+        "source:weird-al": 1,
+        "decade:1980s": 75,
+        "year:1987": 9
+      },
+      "source": {
+        "title": "Bad",
+        "instanceSlug": "bad",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.582,
+        0.925,
+        0.899,
+        0.894,
+        0.884,
+        0.869,
+        0.849,
+        0.824,
+        0.794,
+        0.759,
+        0.719,
+        0.674,
+        0.624,
+        0.569,
+        0.509,
+        0.444,
+        0.374,
+        0.299,
+        0.219,
+        0.134,
+        0.044,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.925,
+      "duration": 6,
+      "score": 12.985000000000001,
+      "debutEra": {
+        "slug": "1987-09",
+        "title": "September 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 9
+      },
+      "rank": 2
+    }
+  ],
+  "score": 27.071000000000005,
+  "songCount": 2,
+  "songAdjustedAverage": 19.14208767350103
+}
