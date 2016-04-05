@@ -49,7 +49,7 @@ exports.score = function(song,scoringOptions) {
 	song.debutScore = parseFloat(song.scores[0]);
 
   song.peakScore = song.scores.reduce(function(prev,cur) {
-    return !prev || prev > cur ? cur : prev;
+    return !prev || prev < cur ? cur : prev;
   },null);
 
 	if (!scoringOptions.noProjectOut) {
