@@ -1,1 +1,448 @@
-{"instanceSlug":"pop-rock","title":"Pop-Rock","parents":["pop"],"artists":["bananarama","bangles","christopher-cross","dead-eye-dick","del-amitri","fleetwood-mac","gavin-degraw","genesis","gin-blossoms","glass-tiger","hootie-the-blowfish","kansas","katrina-and-the-waves","mister-mister","patty-smythe","rembrandts","simple-minds","squeeze","styx","til-tuesday"],"songs":[{"title":"Jesus He Loves Me","instanceSlug":248,"tags":["songs-of-summer"],"parents":[],"genre":"pop-rock","debut":"1992-08","ranks":[7.9,3.3,1.2,1.39,1.61,2.12,3.13,5.11,9.15,17.84,37.62,85.27],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"debutRank":7.9,"peakRank":1.2,"duration":3,"score":17.13,"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"playlists":[],"source":null,"rank":1},{"title":"Someday","instanceSlug":2597,"tags":[],"parents":[],"genre":"pop-rock","debut":"1986-12","playlists":[],"ranks":[15,9.2,6.3,4.8,3.9,3.4,3.57,4.2,4.94,6.69,10.22,17.44,32.83,67.59,151.09,364.4],"artists":[{"slug":"glass-tiger","title":"Glass Tiger","roleSlug":true}],"debutRank":15,"peakRank":3.4,"duration":4,"score":13.69,"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":2},{"title":"Don't Forget Me When I'm Gone","instanceSlug":291,"tags":["forget","go","gone","me"],"parents":[],"genre":"pop-rock","debut":"1986-08","playlists":[],"ranks":[18,12,8.5,6.7,5.7,5,5.45,6.2,7.05,8.99,12.71,19.7,33.26,60.72,119.22,250.46],"artists":[{"slug":"glass-tiger","title":"Glass Tiger","roleSlug":true},{"slug":"bryan-adams","title":"Bryan Adams","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":4,"score":10.04,"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":3},{"title":"Jessie's Girl","instanceSlug":2668,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop-rock","debut":"1981-05","playlists":[],"ranks":[21,15,12.5,10,11.2,12.54,15.55,21.15,31.31,50.09,86.16,158.53],"artists":[{"slug":"rick-springfield","title":"Rick Springfield","roleSlug":true}],"debutRank":21,"peakRank":10,"duration":3,"score":2.77,"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":4},{"title":"Abacab","instanceSlug":2549,"tags":[],"parents":[],"genre":"pop-rock","debut":"1982-02","playlists":[],"ranks":[],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":5},{"title":"Shattered (Turn the Car Around)","instanceSlug":2620,"tags":[],"parents":[],"genre":"pop-rock","debut":2008,"playlists":[],"ranks":[],"artists":[{"slug":"oar","title":"OAR","roleSlug":true}],"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":6},{"title":"Rock On","instanceSlug":3047,"tags":[],"parents":[],"genre":"pop-rock","debut":"1989-04","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"michael-damian","title":"Michael Damian","roleSlug":true}],"genres":[{"slug":"pop-rock","title":"Pop-Rock"}],"source":null,"rank":7}],"score":43.63,"songAdjustedAverage":16.49,"artistAdjustedAverage":9.76}
+{
+  "instanceSlug": "pop-rock",
+  "title": "Pop-Rock",
+  "parents": [
+    "pop"
+  ],
+  "artists": [
+    "babys",
+    "bad-english",
+    "bananarama",
+    "bangles",
+    "christopher-cross",
+    "dead-eye-dick",
+    "del-amitri",
+    "fleetwood-mac",
+    "gavin-degraw",
+    "genesis",
+    "gin-blossoms",
+    "glass-tiger",
+    "hootie-the-blowfish",
+    "kansas",
+    "katrina-and-the-waves",
+    "mister-mister",
+    "patty-smythe",
+    "rembrandts",
+    "simple-minds",
+    "squeeze",
+    "styx",
+    "til-tuesday"
+  ],
+  "songs": [
+    {
+      "title": "Jesus He Loves Me",
+      "instanceSlug": 248,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "genre": "pop-rock",
+      "debut": "1992-08",
+      "ranks": {
+        "artist:genesis": 1,
+        "genre:pop-rock": 1,
+        "playlist:summer": 16,
+        "source:summer": 16,
+        "decade:1990s": 28,
+        "year:1992": 6
+      },
+      "artists": [
+        {
+          "slug": "genesis",
+          "title": "Genesis",
+          "roleSlug": true
+        }
+      ],
+      "note": "6 weeks at #1.",
+      "scores": [
+        0.311,
+        0.939,
+        0.925,
+        0.892,
+        0.862,
+        0.829,
+        0.787,
+        0.782,
+        0.772,
+        0.757,
+        0.737,
+        0.712,
+        0.682,
+        0.647,
+        0.607,
+        0.562,
+        0.512,
+        0.457,
+        0.397,
+        0.332,
+        0.262,
+        0.187,
+        0.107,
+        0.022,
+        0
+      ],
+      "debutScore": 0.311,
+      "peakScore": 0.939,
+      "duration": 7,
+      "score": 14.079,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-08",
+        "title": "August 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 8
+      },
+      "rank": 1
+    },
+    {
+      "title": "Someday",
+      "instanceSlug": 2597,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop-rock",
+      "debut": "1986-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:glass-tiger": 1,
+        "genre:pop-rock": 2,
+        "decade:1980s": 333,
+        "year:1986": 36
+      },
+      "artists": [
+        {
+          "slug": "glass-tiger",
+          "title": "Glass Tiger",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.26,
+        0.386,
+        0.477,
+        0.546,
+        0.592,
+        0.575,
+        0.521,
+        0.516,
+        0.506,
+        0.491,
+        0.471,
+        0.446,
+        0.416,
+        0.381,
+        0.341,
+        0.296,
+        0.246,
+        0.191,
+        0.131,
+        0.066,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.592,
+      "duration": 6,
+      "score": 7.952,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-12",
+        "title": "December 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 12
+      },
+      "rank": 2
+    },
+    {
+      "title": "Don't Forget Me When I'm Gone",
+      "instanceSlug": 291,
+      "tags": [
+        "forget",
+        "go",
+        "gone",
+        "me"
+      ],
+      "parents": [
+      ],
+      "genre": "pop-rock",
+      "debut": "1986-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bryan-adams": 5,
+        "artist:glass-tiger": 2,
+        "genre:pop-rock": 3,
+        "decade:1980s": 511,
+        "year:1986": 53
+      },
+      "artists": [
+        {
+          "slug": "glass-tiger",
+          "title": "Glass Tiger",
+          "roleSlug": true
+        },
+        {
+          "slug": "bryan-adams",
+          "title": "Bryan Adams",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.286,
+        0.365,
+        0.419,
+        0.463,
+        0.434,
+        0.391,
+        0.386,
+        0.376,
+        0.361,
+        0.341,
+        0.316,
+        0.286,
+        0.251,
+        0.211,
+        0.166,
+        0.116,
+        0.061,
+        0.001,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.463,
+      "duration": 6,
+      "score": 5.437,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-08",
+        "title": "August 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 8
+      },
+      "rank": 3
+    },
+    {
+      "title": "Jessie's Girl",
+      "instanceSlug": 2668,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "pop-rock",
+      "debut": "1981-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rick-springfield": 7,
+        "genre:pop-rock": 4,
+        "decade:1980s": 847,
+        "year:1981": 49
+      },
+      "artists": [
+        {
+          "slug": "rick-springfield",
+          "title": "Rick Springfield",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.158,
+        0.232,
+        0.194,
+        0.189,
+        0.179,
+        0.164,
+        0.144,
+        0.119,
+        0.089,
+        0.054,
+        0.014,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.232,
+      "duration": 4,
+      "score": 1.633,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-05",
+        "title": "May 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 5
+      },
+      "rank": 4
+    },
+    {
+      "title": "Abacab",
+      "instanceSlug": 2549,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop-rock",
+      "debut": "1982-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:genesis": 10,
+        "genre:pop-rock": 5,
+        "decade:1980s": 1220,
+        "year:1982": 111
+      },
+      "artists": [
+        {
+          "slug": "genesis",
+          "title": "Genesis",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-02",
+        "title": "February 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 2
+      },
+      "rank": 5
+    },
+    {
+      "title": "Shattered (Turn the Car Around)",
+      "instanceSlug": 2620,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop-rock",
+      "debut": 2008,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:oar": 1,
+        "genre:pop-rock": 6,
+        "decade:2000s": 119,
+        "year:2008": 2
+      },
+      "artists": [
+        {
+          "slug": "oar",
+          "title": "OAR",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2008,
+        "title": 2008,
+        "decade": 2000,
+        "year": 2008
+      },
+      "rank": 6
+    },
+    {
+      "title": "Rock On",
+      "instanceSlug": 3047,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "pop-rock",
+      "debut": "1989-04",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:michael-damian": 1,
+        "genre:pop-rock": 7,
+        "playlist:summer": 165,
+        "source:summer": 165,
+        "decade:1980s": 945,
+        "year:1989": 95
+      },
+      "artists": [
+        {
+          "slug": "michael-damian",
+          "title": "Michael Damian",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "pop-rock",
+          "title": "Pop-Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-04",
+        "title": "April 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 4
+      },
+      "rank": 7
+    }
+  ],
+  "score": 29.101,
+  "songCount": 7,
+  "songAdjustedAverage": 10.99914412904152,
+  "artistCount": 22,
+  "artistAdjustedAverage": 6.204354046664619
+}

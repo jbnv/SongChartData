@@ -1,1 +1,57 @@
-{"instanceSlug":"jazz-pop","title":"Jazz-Pop","parents":["pop"],"artists":[],"songs":[{"title":"Paperlate","instanceSlug":2551,"tags":[],"parents":[],"genre":"jazz-pop","debut":"1982-08","playlists":[],"ranks":[],"artists":[{"slug":"genesis","title":"Genesis","roleSlug":true}],"genres":[{"slug":"jazz-pop","title":"Jazz-Pop"}],"source":null,"rank":1}],"score":0,"songAdjustedAverage":0,"artistAdjustedAverage":null}
+{
+  "instanceSlug": "jazz-pop",
+  "title": "Jazz-Pop",
+  "parents": [
+    "pop"
+  ],
+  "artists": [
+  ],
+  "songs": [
+    {
+      "title": "Paperlate",
+      "instanceSlug": 2551,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "jazz-pop",
+      "debut": "1982-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:genesis": 17,
+        "genre:jazz-pop": 1,
+        "decade:1980s": 1224,
+        "year:1982": 114
+      },
+      "artists": [
+        {
+          "slug": "genesis",
+          "title": "Genesis",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "jazz-pop",
+          "title": "Jazz-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-08",
+        "title": "August 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 8
+      },
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "artistCount": 0,
+  "artistAdjustedAverage": null
+}

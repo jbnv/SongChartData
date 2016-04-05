@@ -1,1 +1,216 @@
-{"instanceSlug":"latin-rock","title":"Latin Rock","parents":["latin","rock"],"artists":["los-lobos"],"songs":[{"title":"La Bamba","instanceSlug":243,"tags":["#1","#1-hot-100"],"parents":[],"genre":"latin-rock","debut":"1987-08","source":{"title":"La Bamba","instanceSlug":"la-bamba","tags":[],"parents":[],"type":"movie"},"ranks":[15.5,6.3,3.15,3.25,3.39,3.62,4.2,4.87,6.43,9.53,15.63,28.16,55.22,117.16,267.34,652.83],"artists":[{"slug":"los-lobos","title":"Los Lobos","roleSlug":true}],"debutRank":15.5,"peakRank":3.15,"duration":4,"score":13.7,"genres":[{"slug":"latin-rock","title":"Latin Rock"}],"playlists":[],"rank":1},{"title":"Come On, Let's Go","instanceSlug":575,"tags":["go","let's","let's-go"],"parents":[],"genre":"latin-rock","debut":"1987-11","source":{"title":"La Bamba","instanceSlug":"la-bamba","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[17.2,10.6,6.2,5.48,5.3,5.18,5.08,5.2,5.5,6.5,7.68,10.48,16.19,27.96,53.38,111.62],"artists":[{"slug":"los-lobos","title":"Los Lobos","roleSlug":true}],"debutRank":17.2,"peakRank":5.08,"duration":4,"score":12.93,"genres":[{"slug":"latin-rock","title":"Latin Rock"}],"rank":2},{"title":"Heaven","instanceSlug":2805,"tags":["#1","#1-adult-contemporary"],"parents":[],"genre":"latin-rock","debut":2004,"playlists":[],"ranks":[],"artists":[{"slug":"los-lonely-boys","title":"Los Lonely Boys","roleSlug":true}],"genres":[{"slug":"latin-rock","title":"Latin Rock"}],"source":null,"rank":3}],"score":26.63,"songAdjustedAverage":15.37,"artistAdjustedAverage":26.63}
+{
+  "instanceSlug": "latin-rock",
+  "title": "Latin Rock",
+  "parents": [
+    "latin",
+    "rock"
+  ],
+  "artists": [
+    "los-lobos"
+  ],
+  "songs": [
+    {
+      "title": "La Bamba",
+      "instanceSlug": 243,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "latin-rock",
+      "debut": "1987-08",
+      "source": {
+        "title": "La Bamba",
+        "instanceSlug": "la-bamba",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "ranks": {
+        "artist:los-lobos": 1,
+        "genre:latin-rock": 1,
+        "decade:1980s": 337,
+        "year:1987": 60
+      },
+      "artists": [
+        {
+          "slug": "los-lobos",
+          "title": "Los Lobos",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.086,
+        0.386,
+        0.617,
+        0.607,
+        0.593,
+        0.571,
+        0.521,
+        0.516,
+        0.506,
+        0.491,
+        0.471,
+        0.446,
+        0.416,
+        0.381,
+        0.341,
+        0.296,
+        0.246,
+        0.191,
+        0.131,
+        0.066,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.617,
+      "duration": 6,
+      "score": 7.879,
+      "genres": [
+        {
+          "slug": "latin-rock",
+          "title": "Latin Rock"
+        }
+      ],
+      "playlists": [
+      ],
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 1
+    },
+    {
+      "title": "Come On, Let's Go",
+      "instanceSlug": 575,
+      "tags": [
+        "go",
+        "let's",
+        "let's-go"
+      ],
+      "parents": [
+      ],
+      "genre": "latin-rock",
+      "debut": "1987-11",
+      "source": {
+        "title": "La Bamba",
+        "instanceSlug": "la-bamba",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:los-lobos": 2,
+        "genre:latin-rock": 2,
+        "decade:1980s": 444,
+        "year:1987": 75
+      },
+      "artists": [
+        {
+          "slug": "los-lobos",
+          "title": "Los Lobos",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.051,
+        0.213,
+        0.391,
+        0.432,
+        0.444,
+        0.451,
+        0.458,
+        0.45,
+        0.431,
+        0.376,
+        0.371,
+        0.361,
+        0.346,
+        0.326,
+        0.301,
+        0.271,
+        0.236,
+        0.196,
+        0.151,
+        0.101,
+        0.046,
+        0
+      ],
+      "debutScore": 0.051,
+      "peakScore": 0.458,
+      "duration": 6,
+      "score": 6.402999999999999,
+      "genres": [
+        {
+          "slug": "latin-rock",
+          "title": "Latin Rock"
+        }
+      ],
+      "debutEra": {
+        "slug": "1987-11",
+        "title": "November 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 11
+      },
+      "rank": 2
+    },
+    {
+      "title": "Heaven",
+      "instanceSlug": 2805,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary"
+      ],
+      "parents": [
+      ],
+      "genre": "latin-rock",
+      "debut": 2004,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:los-lonely-boys": 1,
+        "genre:latin-rock": 3,
+        "decade:2000s": 76,
+        "year:2004": 5
+      },
+      "artists": [
+        {
+          "slug": "los-lonely-boys",
+          "title": "Los Lonely Boys",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "latin-rock",
+          "title": "Latin Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2004,
+        "title": 2004,
+        "decade": 2000,
+        "year": 2004
+      },
+      "rank": 3
+    }
+  ],
+  "score": 14.281999999999998,
+  "songCount": 3,
+  "songAdjustedAverage": 8.245716544566235,
+  "artistCount": 1,
+  "artistAdjustedAverage": 14.281999999999998
+}

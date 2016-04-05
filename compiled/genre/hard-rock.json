@@ -1,1 +1,1623 @@
-{"instanceSlug":"hard-rock","title":"Hard Rock","parents":["rock"],"artists":["ac-dc","aerosmith","def-leppard","guns-n-roses","tesla","van-halen","white-lion","whitesnake"],"songs":[{"title":"Dude (Looks Like a Lady)","instanceSlug":728,"tags":[],"parents":[],"genre":"hard-rock","debut":"1987-12","playlists":[],"ranks":[12,3.7,1.5,1.58,1.71,1.86,2.05,2.29,2.58,2.97,3.4,3.89,5.02,7.2,11.37,19.6,36.62,73.74,159.15,366.53],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"debutRank":12,"peakRank":1.5,"duration":5,"score":27.03,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":1},{"title":"Living on a Prayer","instanceSlug":1027,"tags":["live","living","living-on","prayer"],"parents":[],"genre":"hard-rock","debut":1987,"playlists":[],"ranks":[14,5,2.8,2.2,2.1,2.2,2.4,2.6,2.9,3.3,3.7,4.3,5,6.62,9.84,16.22,29.37,57.94,123.72,284.22],"artists":[{"slug":"bon-jovi","title":"Bon Jovi","roleSlug":true}],"debutRank":14,"peakRank":2.1,"duration":5,"score":24.97,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":2},{"title":"It's My Life","instanceSlug":1029,"tags":[],"genre":"hard-rock","debut":2000,"playlists":[],"ranks":[16,5.5,3.3,2.6,2.3,2.7,3.17,4.27,6.5,11.02,20.61,42.11,93.38,223.3,572.83,1569.04],"artists":[{"slug":"bon-jovi","title":"Bon Jovi","roleSlug":true}],"debutRank":16,"peakRank":2.3,"duration":4,"score":14.67,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":3},{"title":"Can't Stop Lovin' You","instanceSlug":1490,"tags":["can't-stop","can't-stop-loving-you","loving-you"],"parents":[],"genre":"hard-rock","debut":"1995-04","playlists":[],"ranks":[14,5,2,2.31,2.67,3.5,5.12,8.3,14.72,28.42,59.25,132.72],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":"member"}],"debutRank":14,"peakRank":2,"duration":3,"score":12.55,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":4},{"title":"Janie's Got a Gun","instanceSlug":727,"tags":[],"parents":[],"genre":"hard-rock","debut":"1990-01","playlists":[],"ranks":[15,8.2,4.5,2.4,2.8,3.27,4.36,6.53,10.89,19.96,39.93,86.51],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"debutRank":15,"peakRank":2.4,"duration":3,"score":11.86,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":5},{"title":"Jump","instanceSlug":79,"tags":["#1","#1-hot-100","#1-mainstream-rock"],"parents":[],"genre":"hard-rock","debut":"1984-02","ranks":[12,2,2.29,2.62,3.38,4.85,7.67,13.23,24.74,49.85,107.67,248.18],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"member"}],"debutRank":12,"peakRank":2,"duration":3,"score":11.61,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"playlists":[],"source":null,"rank":6},{"title":"You Give Love a Bad Name","instanceSlug":1028,"tags":["bad","give","love","name","you","you-give"],"parents":[],"genre":"hard-rock","debut":"1986-10","playlists":[],"ranks":[18,13,11,9,7.5,6.5,5.5,5.9,6.3,6.7,7.4,8.9,10.7,15.04,24.19,43.81,88.2,195.48,472.85,1239.64],"artists":[{"slug":"bon-jovi","title":"Bon Jovi","roleSlug":true}],"debutRank":18,"peakRank":5.5,"duration":5,"score":11.57,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":7},{"title":"Smooth Criminal","instanceSlug":2099,"tags":["#1","remake"],"parents":[],"genre":"hard-rock","debut":"2001-10","playlists":[],"ranks":[15,10,7.5,5,5.4,5.83,6.77,8.39,11.07,15.5,22.94,35.79,58.7,100.96,181.73,341.66],"artists":[{"slug":"alien-ant-farm","title":"Alien Ant Farm'","roleSlug":true}],"debutRank":15,"peakRank":5,"duration":4,"score":8.73,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":8},{"title":"Dancing in the Streets","instanceSlug":1052,"tags":["dance","remake","street","this-in-that"],"parents":[],"genre":"hard-rock","debut":"1982-07","playlists":[],"ranks":[17,14,11.5,10,9,8.5,8.7,9.6,11,12.6,16.28,23.4,37.05,64.07,120.14,242.78],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"member"}],"debutRank":17,"peakRank":8.5,"duration":4,"score":6.3,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":9},{"title":"Here I Go Again","instanceSlug":242,"tags":["again","go","i"],"parents":[],"genre":"hard-rock","debut":"1987-08","ranks":[19.3,11.8,7,9.4,12.7,17.16,29.21,59.97],"artists":[{"slug":"whitesnake","title":"Whitesnake","roleSlug":true}],"debutRank":19.3,"peakRank":7,"duration":2,"score":3,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"playlists":[],"source":null,"rank":10},{"title":"Back in Black","instanceSlug":23,"tags":[],"parents":[],"genre":"hard-rock","debut":"1981-02","ranks":[24,18,16,14,14.3,15.6,19,23.14,33.23,54.95,102.86,214.96],"artists":[{"slug":"ac-dc","title":"AC/DC","roleSlug":true}],"debutRank":24,"peakRank":14,"duration":3,"score":1.35,"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"playlists":[],"source":null,"rank":11},{"title":"Moneytalks","instanceSlug":2066,"tags":[],"parents":[],"genre":"hard-rock","debut":"1991-02","playlists":[],"ranks":[],"artists":[{"slug":"ac-dc","title":"AC/DC","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":12},{"title":"Sweet Emotion","instanceSlug":2077,"tags":[],"parents":[],"genre":"hard-rock","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":13},{"title":"Walk This Way","instanceSlug":2078,"tags":[],"parents":[],"genre":"hard-rock","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"aerosmith","title":"Aerosmith","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":14},{"title":"What You Give","instanceSlug":1202,"tags":[],"parents":[],"genre":"hard-rock","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"tesla","title":"Tesla","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":15},{"title":"Finish What You Started","instanceSlug":1302,"tags":[],"parents":[],"genre":"hard-rock","debut":"1988-11","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":"member"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":16},{"title":"Dirty Deeds","instanceSlug":1405,"tags":["deed","dirty","dirty-deeds","remade"],"parents":[],"genre":"hard-rock","debut":"1970s","playlists":[],"ranks":[],"artists":[{"slug":"ac-dc","title":"AC/DC","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":17},{"title":"Highway to Hell","instanceSlug":1406,"tags":["hell","highway"],"parents":[],"genre":"hard-rock","debut":"1970s","playlists":[],"ranks":[],"artists":[{"slug":"ac-dc","title":"AC/DC","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":18},{"title":"Come On Feel the Noise","instanceSlug":2441,"tags":[],"parents":[],"genre":"hard-rock","debut":"1983-11","playlists":[],"ranks":[],"artists":[{"slug":"quiet-riot","title":"Quiet Riot","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":19},{"title":"Close My Eyes Forever","instanceSlug":2759,"tags":[],"parents":[],"genre":"hard-rock","debut":"1989-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"lita-ford","title":"Lita Ford","roleSlug":true},{"slug":"ozzy-osbourne","title":"Ozzy Osbourne","roleSlug":"feature"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":20},{"title":"Dance the Night Away","instanceSlug":2917,"tags":[],"parents":[],"genre":"hard-rock","debut":"1979-06","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":21},{"title":"Pretty Woman","instanceSlug":2918,"tags":["#1","#1-mainstream-rock","remake"],"parents":[],"genre":"hard-rock","debut":"1982-03","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"lead"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":22},{"title":"I'll Wait","instanceSlug":2919,"tags":[],"parents":[],"genre":"hard-rock","debut":"1984-05","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"lead"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":23},{"title":"Panama","instanceSlug":2920,"tags":[],"parents":[],"genre":"hard-rock","debut":"1984-07","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"lead"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":24},{"title":"Why Can't This Be Love","instanceSlug":2921,"tags":["#1","#1-mainstream-rock"],"parents":[],"genre":"hard-rock","debut":"1986-04","playlists":[],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"sammy-hagar","title":"Sammy Hagar","roleSlug":"member"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":25},{"title":"Panama","instanceSlug":"panama","tags":[],"parents":[],"genre":"hard-rock","debut":"1984-07","playlists":[{"slug":"inanimate","title":"Songs about Inanimate Objects"}],"ranks":[],"artists":[{"slug":"van-halen","title":"Van Halen","roleSlug":true},{"slug":"david-lee-roth","title":"David Lee Roth","roleSlug":"lead"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":26},{"title":"Signs","instanceSlug":1938,"tags":[],"parents":[],"genre":"hard-rock","debut":"1991-02","playlists":[{"slug":"inanimate","title":"Songs about Inanimate Objects"}],"ranks":[],"artists":[{"slug":"tesla","title":"Tesla","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":27},{"title":"You Shook Me All Night Long","instanceSlug":2065,"tags":[],"parents":[],"genre":"hard-rock","debut":"1980-11","playlists":[],"ranks":[],"artists":[{"slug":"ac-dc","title":"AC/DC","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":28},{"title":"Live and Let Die","instanceSlug":"liveletdie2","tags":[],"parents":[],"genre":"hard-rock","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"guns-roses"}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":29},{"title":"We're Not Gonna Take It","instanceSlug":2200,"tags":[],"parents":[],"genre":"hard-rock","debut":"1984-09","playlists":[],"ranks":[],"artists":[{"slug":"twisted-sister","title":"Twisted Sister","roleSlug":true}],"genres":[{"slug":"hard-rock","title":"Hard Rock"}],"source":null,"rank":30}],"score":133.64,"songAdjustedAverage":24.4,"artistAdjustedAverage":47.25}
+{
+  "instanceSlug": "hard-rock",
+  "title": "Hard Rock",
+  "parents": [
+    "rock"
+  ],
+  "artists": [
+    "ac-dc",
+    "aerosmith",
+    "def-leppard",
+    "guns-n-roses",
+    "tesla",
+    "van-halen",
+    "white-lion",
+    "whitesnake"
+  ],
+  "songs": [
+    {
+      "title": "Dude (Looks Like a Lady)",
+      "instanceSlug": 728,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1987-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:aerosmith": 1,
+        "genre:hard-rock": 1,
+        "decade:1980s": 76,
+        "year:1987": 10
+      },
+      "artists": [
+        {
+          "slug": "aerosmith",
+          "title": "Aerosmith",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.563,
+        0.864,
+        0.847,
+        0.821,
+        0.793,
+        0.76,
+        0.723,
+        0.684,
+        0.637,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.864,
+      "duration": 7,
+      "score": 12.943,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-12",
+        "title": "December 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 12
+      },
+      "rank": 1
+    },
+    {
+      "title": "Living on a Prayer",
+      "instanceSlug": 1027,
+      "tags": [
+        "live",
+        "living",
+        "living-on",
+        "prayer"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": 1987,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bon-jovi": 2,
+        "genre:hard-rock": 2,
+        "decade:1980s": 124,
+        "year:1987": 22
+      },
+      "artists": [
+        {
+          "slug": "bon-jovi",
+          "title": "Bon Jovi",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.656,
+        0.737,
+        0.752,
+        0.737,
+        0.708,
+        0.681,
+        0.645,
+        0.602,
+        0.563,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.752,
+      "duration": 7,
+      "score": 11.570999999999998,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1987,
+        "title": 1987,
+        "decade": 1980,
+        "year": 1987
+      },
+      "rank": 2
+    },
+    {
+      "title": "It's My Life",
+      "instanceSlug": 1029,
+      "tags": [
+      ],
+      "genre": "hard-rock",
+      "debut": 2000,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bon-jovi": 3,
+        "genre:hard-rock": 3,
+        "decade:2000s": 14,
+        "year:2000": 5
+      },
+      "artists": [
+        {
+          "slug": "bon-jovi",
+          "title": "Bon Jovi",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.431,
+        0.602,
+        0.681,
+        0.722,
+        0.668,
+        0.663,
+        0.653,
+        0.638,
+        0.618,
+        0.593,
+        0.563,
+        0.528,
+        0.488,
+        0.443,
+        0.393,
+        0.338,
+        0.278,
+        0.213,
+        0.143,
+        0.068,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.722,
+      "duration": 6,
+      "score": 9.799,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2000,
+        "title": 2000,
+        "decade": 2000,
+        "year": 2000
+      },
+      "rank": 3
+    },
+    {
+      "title": "Can't Stop Lovin' You",
+      "instanceSlug": 1490,
+      "tags": [
+        "can't-stop",
+        "can't-stop-loving-you",
+        "loving-you"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1995-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 1,
+        "artist:sammy-hagar": 2,
+        "genre:hard-rock": 4,
+        "decade:1990s": 153,
+        "year:1995": 12
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "sammy-hagar",
+          "title": "Sammy Hagar",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.768,
+        0.72,
+        0.715,
+        0.705,
+        0.69,
+        0.67,
+        0.645,
+        0.615,
+        0.58,
+        0.54,
+        0.495,
+        0.445,
+        0.39,
+        0.33,
+        0.265,
+        0.195,
+        0.12,
+        0.04,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 9.511,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-04",
+        "title": "April 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 4
+      },
+      "rank": 4
+    },
+    {
+      "title": "Jump",
+      "instanceSlug": 79,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-02",
+      "ranks": {
+        "artist:van-halen": 2,
+        "artist:david-lee-roth": 3,
+        "genre:hard-rock": 5,
+        "decade:1980s": 241,
+        "year:1984": 21
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": [
+        0.171,
+        0.768,
+        0.723,
+        0.718,
+        0.708,
+        0.693,
+        0.673,
+        0.648,
+        0.618,
+        0.583,
+        0.543,
+        0.498,
+        0.448,
+        0.393,
+        0.333,
+        0.268,
+        0.198,
+        0.123,
+        0.043,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.768,
+      "duration": 5,
+      "score": 9.150000000000002,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-02",
+        "title": "February 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 2
+      },
+      "rank": 5
+    },
+    {
+      "title": "Janie's Got a Gun",
+      "instanceSlug": 727,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1990-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:aerosmith": 3,
+        "genre:hard-rock": 6,
+        "decade:1990s": 180,
+        "year:1990": 30
+      },
+      "artists": [
+        {
+          "slug": "aerosmith",
+          "title": "Aerosmith",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.298,
+        0.498,
+        0.708,
+        0.656,
+        0.651,
+        0.641,
+        0.626,
+        0.606,
+        0.581,
+        0.551,
+        0.516,
+        0.476,
+        0.431,
+        0.381,
+        0.326,
+        0.266,
+        0.201,
+        0.131,
+        0.056,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.708,
+      "duration": 6,
+      "score": 8.697000000000001,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-01",
+        "title": "January 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 1
+      },
+      "rank": 6
+    },
+    {
+      "title": "You Give Love a Bad Name",
+      "instanceSlug": 1028,
+      "tags": [
+        "bad",
+        "give",
+        "love",
+        "name",
+        "you",
+        "you-give"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1986-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bon-jovi": 5,
+        "genre:hard-rock": 7,
+        "decade:1980s": 545,
+        "year:1986": 57
+      },
+      "artists": [
+        {
+          "slug": "bon-jovi",
+          "title": "Bon Jovi",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.145,
+        0.2,
+        0.267,
+        0.328,
+        0.376,
+        0.431,
+        0.408,
+        0.386,
+        0.365,
+        0.332,
+        0.271,
+        0.266,
+        0.256,
+        0.241,
+        0.221,
+        0.196,
+        0.166,
+        0.131,
+        0.091,
+        0.046,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.431,
+      "duration": 6,
+      "score": 5.159000000000001,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-10",
+        "title": "October 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 10
+      },
+      "rank": 7
+    },
+    {
+      "title": "Smooth Criminal",
+      "instanceSlug": 2099,
+      "tags": [
+        "#1",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "2001-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alien-ant-farm": 1,
+        "genre:hard-rock": 8,
+        "decade:2000s": 26,
+        "year:2001": 4
+      },
+      "artists": [
+        {
+          "slug": "alien-ant-farm",
+          "title": "Alien Ant Farm'",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.232,
+        0.328,
+        0.463,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 4.980999999999999,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2001-10",
+        "title": "October 2001",
+        "decade": 2000,
+        "year": 2001,
+        "month": 10
+      },
+      "rank": 8
+    },
+    {
+      "title": "Dancing in the Streets",
+      "instanceSlug": 1052,
+      "tags": [
+        "dance",
+        "remake",
+        "street",
+        "this-in-that"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1982-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 6,
+        "artist:david-lee-roth": 4,
+        "genre:hard-rock": 9,
+        "decade:1980s": 761,
+        "year:1982": 65
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": [
+        0.055,
+        0.12,
+        0.185,
+        0.232,
+        0.267,
+        0.286,
+        0.278,
+        0.246,
+        0.2,
+        0.195,
+        0.185,
+        0.17,
+        0.15,
+        0.125,
+        0.095,
+        0.06,
+        0.02,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.286,
+      "duration": 5,
+      "score": 2.869,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-07",
+        "title": "July 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 7
+      },
+      "rank": 9
+    },
+    {
+      "title": "Here I Go Again",
+      "instanceSlug": 242,
+      "tags": [
+        "again",
+        "go",
+        "i"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1987-08",
+      "ranks": {
+        "artist:whitesnake": 3,
+        "genre:hard-rock": 10,
+        "decade:1980s": 851,
+        "year:1987": 132
+      },
+      "artists": [
+        {
+          "slug": "whitesnake",
+          "title": "Whitesnake",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.013,
+        0.177,
+        0.351,
+        0.253,
+        0.152,
+        0.147,
+        0.137,
+        0.122,
+        0.102,
+        0.077,
+        0.047,
+        0.012,
+        0
+      ],
+      "debutScore": 0.013,
+      "peakScore": 0.351,
+      "duration": 4,
+      "score": 1.5899999999999999,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 10
+    },
+    {
+      "title": "Back in Black",
+      "instanceSlug": 23,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1981-02",
+      "ranks": {
+        "artist:ac-dc": 1,
+        "genre:hard-rock": 11,
+        "decade:1980s": 919,
+        "year:1981": 52
+      },
+      "artists": [
+        {
+          "slug": "ac-dc",
+          "title": "AC/DC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.075,
+        0.12,
+        0.113,
+        0.084,
+        0.018,
+        0.013,
+        0.003,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.12,
+      "duration": 3,
+      "score": 0.462,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-02",
+        "title": "February 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 2
+      },
+      "rank": 11
+    },
+    {
+      "title": "Moneytalks",
+      "instanceSlug": 2066,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1991-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ac-dc": 5,
+        "genre:hard-rock": 12,
+        "decade:1990s": 814,
+        "year:1991": 89
+      },
+      "artists": [
+        {
+          "slug": "ac-dc",
+          "title": "AC/DC",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-02",
+        "title": "February 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 2
+      },
+      "rank": 12
+    },
+    {
+      "title": "Sweet Emotion",
+      "instanceSlug": 2077,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": 1975,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:aerosmith": 9,
+        "genre:hard-rock": 13,
+        "decade:1970s": 163,
+        "year:1975": 7
+      },
+      "artists": [
+        {
+          "slug": "aerosmith",
+          "title": "Aerosmith",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 13
+    },
+    {
+      "title": "Walk This Way",
+      "instanceSlug": 2078,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:aerosmith": 15,
+        "genre:hard-rock": 14,
+        "decade:1970s": 164,
+        "year:1977": 34
+      },
+      "artists": [
+        {
+          "slug": "aerosmith",
+          "title": "Aerosmith",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 14
+    },
+    {
+      "title": "What You Give",
+      "instanceSlug": 1202,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tesla": 2,
+        "genre:hard-rock": 15,
+        "decade:1990s": 654,
+        "year:1992": 110
+      },
+      "artists": [
+        {
+          "slug": "tesla",
+          "title": "Tesla",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 15
+    },
+    {
+      "title": "We're Not Gonna Take It",
+      "instanceSlug": 2200,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:twisted-sister": 1,
+        "genre:hard-rock": 30,
+        "decade:1980s": 994,
+        "year:1984": 91
+      },
+      "artists": [
+        {
+          "slug": "twisted-sister",
+          "title": "Twisted Sister",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-09",
+        "title": "September 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 9
+      },
+      "rank": 16
+    },
+    {
+      "title": "Dirty Deeds",
+      "instanceSlug": 1405,
+      "tags": [
+        "deed",
+        "dirty",
+        "dirty-deeds",
+        "remade"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1970s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ac-dc": 2,
+        "genre:hard-rock": 17,
+        "decade:1970s": 113
+      },
+      "artists": [
+        {
+          "slug": "ac-dc",
+          "title": "AC/DC",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1970s",
+        "title": "1970s",
+        "decade": 1970
+      },
+      "rank": 17
+    },
+    {
+      "title": "Highway to Hell",
+      "instanceSlug": 1406,
+      "tags": [
+        "hell",
+        "highway"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1970s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ac-dc": 3,
+        "genre:hard-rock": 18,
+        "decade:1970s": 116
+      },
+      "artists": [
+        {
+          "slug": "ac-dc",
+          "title": "AC/DC",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1970s",
+        "title": "1970s",
+        "decade": 1970
+      },
+      "rank": 18
+    },
+    {
+      "title": "Come On Feel the Noise",
+      "instanceSlug": 2441,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1983-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:quiet-riot": 1,
+        "genre:hard-rock": 19,
+        "decade:1980s": 1168,
+        "year:1983": 139
+      },
+      "artists": [
+        {
+          "slug": "quiet-riot",
+          "title": "Quiet Riot",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-11",
+        "title": "November 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 11
+      },
+      "rank": 19
+    },
+    {
+      "title": "Close My Eyes Forever",
+      "instanceSlug": 2759,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1989-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:ozzy-osbourne": 2,
+        "artist:lita-ford": 3,
+        "genre:hard-rock": 20,
+        "playlist:summer": 161,
+        "source:summer": 161,
+        "decade:1980s": 1361,
+        "year:1989": 105
+      },
+      "artists": [
+        {
+          "slug": "lita-ford",
+          "title": "Lita Ford",
+          "roleSlug": true
+        },
+        {
+          "slug": "ozzy-osbourne",
+          "title": "Ozzy Osbourne",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-05",
+        "title": "May 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 5
+      },
+      "rank": 20
+    },
+    {
+      "title": "Dance the Night Away",
+      "instanceSlug": 2917,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1979-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 14,
+        "genre:hard-rock": 21,
+        "decade:1970s": 402,
+        "year:1979": 67
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-06",
+        "title": "June 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 6
+      },
+      "rank": 21
+    },
+    {
+      "title": "Pretty Woman",
+      "instanceSlug": 2918,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1982-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 7,
+        "artist:david-lee-roth": 7,
+        "genre:hard-rock": 22,
+        "decade:1980s": 1438,
+        "year:1982": 89
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-03",
+        "title": "March 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 3
+      },
+      "rank": 22
+    },
+    {
+      "title": "I'll Wait",
+      "instanceSlug": 2919,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 15,
+        "artist:david-lee-roth": 8,
+        "genre:hard-rock": 23,
+        "decade:1980s": 1439,
+        "year:1984": 119
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-05",
+        "title": "May 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 5
+      },
+      "rank": 23
+    },
+    {
+      "title": "Panama",
+      "instanceSlug": 2920,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 9,
+        "artist:david-lee-roth": 9,
+        "genre:hard-rock": 24,
+        "decade:1980s": 1441,
+        "year:1984": 120
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-07",
+        "title": "July 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 7
+      },
+      "rank": 24
+    },
+    {
+      "title": "Why Can't This Be Love",
+      "instanceSlug": 2921,
+      "tags": [
+        "#1",
+        "#1-mainstream-rock"
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1986-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 10,
+        "artist:sammy-hagar": 8,
+        "genre:hard-rock": 25,
+        "decade:1980s": 1442,
+        "year:1986": 153
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "sammy-hagar",
+          "title": "Sammy Hagar",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-04",
+        "title": "April 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 4
+      },
+      "rank": 25
+    },
+    {
+      "title": "Panama",
+      "instanceSlug": "panama",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1984-07",
+      "playlists": [
+        {
+          "slug": "inanimate",
+          "title": "Songs about Inanimate Objects"
+        }
+      ],
+      "ranks": {
+        "artist:van-halen": 13,
+        "artist:david-lee-roth": 11,
+        "genre:hard-rock": 26,
+        "playlist:inanimate": 4,
+        "source:inanimate": 4,
+        "decade:1980s": 1463,
+        "year:1984": 139
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "david-lee-roth",
+          "title": "David Lee Roth",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-07",
+        "title": "July 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 7
+      },
+      "rank": 26
+    },
+    {
+      "title": "Signs",
+      "instanceSlug": 1938,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1991-02",
+      "playlists": [
+        {
+          "slug": "inanimate",
+          "title": "Songs about Inanimate Objects"
+        }
+      ],
+      "ranks": {
+        "artist:tesla": 3,
+        "genre:hard-rock": 27,
+        "playlist:inanimate": 2,
+        "source:inanimate": 2,
+        "decade:1990s": 764,
+        "year:1991": 103
+      },
+      "artists": [
+        {
+          "slug": "tesla",
+          "title": "Tesla",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-02",
+        "title": "February 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 2
+      },
+      "rank": 27
+    },
+    {
+      "title": "You Shook Me All Night Long",
+      "instanceSlug": 2065,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1980-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ac-dc": 4,
+        "genre:hard-rock": 28,
+        "decade:1980s": 1370,
+        "year:1980": 78
+      },
+      "artists": [
+        {
+          "slug": "ac-dc",
+          "title": "AC/DC",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-11",
+        "title": "November 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 11
+      },
+      "rank": 28
+    },
+    {
+      "title": "Live and Let Die",
+      "instanceSlug": "liveletdie2",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:guns-roses": 1,
+        "genre:hard-rock": 29,
+        "decade:1990s": 858,
+        "year:1992": 136
+      },
+      "artists": [
+        {
+          "slug": "guns-roses"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 29
+    },
+    {
+      "title": "Finish What You Started",
+      "instanceSlug": 1302,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hard-rock",
+      "debut": "1988-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:van-halen": 8,
+        "artist:sammy-hagar": 5,
+        "genre:hard-rock": 16,
+        "decade:1980s": 1146,
+        "year:1988": 158
+      },
+      "artists": [
+        {
+          "slug": "van-halen",
+          "title": "Van Halen",
+          "roleSlug": true
+        },
+        {
+          "slug": "sammy-hagar",
+          "title": "Sammy Hagar",
+          "roleSlug": "member"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hard-rock",
+          "title": "Hard Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-11",
+        "title": "November 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 11
+      },
+      "rank": 30
+    }
+  ],
+  "score": 76.73200000000001,
+  "songCount": 30,
+  "songAdjustedAverage": 14.00928242749547,
+  "artistCount": 8,
+  "artistAdjustedAverage": 27.128858767003084
+}

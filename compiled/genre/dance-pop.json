@@ -1,1 +1,3530 @@
-{"instanceSlug":"dance-pop","title":"Dance-Pop","parents":["pop","dance"],"artists":["ace-of-base","jets","justin-timberlake","michael-jackson","milli-vanilli","right-set-fred","rihanna","taylor-dayne","timmy-t","will-to-power"],"songs":[{"title":"Black or White","instanceSlug":53,"tags":["#1","#1-hot-100","this-or-that"],"source":{"title":"Dangerous","instanceSlug":"dangerous","tags":["michael-jackson"],"type":"album"},"genre":"dance-pop","debut":"1991-12","ranks":[15,8,4,3.2,2.2,2,2.15,2.35,2.58,2.92,3.28,3.68,4.59,6.29,9.39,15.19,26.42,49.22,97.76,206.24],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":5,"score":24.73,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"rank":1},{"title":"Smooth Criminal","instanceSlug":245,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"playlists":[{"slug":"crime"}],"genre":"dance-pop","debut":"1988-11","ranks":[8,1,1.084,1.18,1.37,1.72,2.3,3.26,4.9,7.79,13.02,22.86,42.06,80.92,162.5,339.94],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":8,"peakRank":1,"duration":4,"score":21.59,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":2},{"title":"I'm Too Sexy","instanceSlug":1080,"tags":[],"parents":[],"genre":"dance-pop","debut":"1991-11","playlists":[],"ranks":[18,12,7,4,2.9,2.5,2.2,2.4,2.67,2.97,3.64,4.87,7.06,11.03,18.47,33.01,62.73,126.23,268.25,600.21],"artists":[{"slug":"right-set-fred","title":"Right Set Fred","roleSlug":true}],"debutRank":18,"peakRank":2.2,"duration":5,"score":20.43,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":3},{"title":"Express Yourself","instanceSlug":2126,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[14.5,2.1,1.3,1.45,1.62,1.99,2.68,3.92,6.18,10.45,18.89,36.33,74.06,159.52,361.98,863.18],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":14.5,"peakRank":1.3,"duration":4,"score":18.32,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":4},{"title":"You Spin Me Round (Like a Record)","instanceSlug":632,"tags":[],"parents":[],"genre":"dance-pop","debut":"1985-07","playlists":[],"ranks":[12,3,1.8,1.4,1.65,1.94,2.64,4.05,6.95,13.15,27.24,61.3],"artists":[{"slug":"dead-or-alive","title":"Dead or Alive","roleSlug":true}],"debutRank":12,"peakRank":1.4,"duration":3,"score":17.44,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":5},{"title":"I Wanna Be a Cowboy","instanceSlug":838,"tags":[],"parents":[],"genre":"dance-pop","debut":"1986-06","playlists":[],"ranks":[15,8.5,4.8,3.1,2.4,2.1,2.43,2.81,3.7,5.44,8.86,15.81,30.72,64.52,145.63,351.6],"artists":[{"slug":"boys-don-t-cry","title":"Boys Don't Cry","roleSlug":true}],"debutRank":15,"peakRank":2.1,"duration":4,"score":16.97,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":6},{"title":"Dare Me","instanceSlug":378,"tags":[],"parents":[],"genre":"dance-pop","debut":"1985-07","playlists":[],"ranks":[9,1.2,1.31,1.47,1.85,2.33,3.53,6.27,12.76,29.24,74.6,209.58],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":9,"peakRank":1.2,"duration":3,"score":16.86,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":7},{"title":"Treasure","instanceSlug":902,"tags":[],"parents":[],"genre":"dance-pop","debut":2013,"playlists":[],"ranks":[12,3.4,1.6,1.8,2.05,2.33,2.98,4.23,6.57,11.14,20.42,40.28,85.03,191.32,457.04,1155.31],"artists":[{"slug":"bruno-mars","title":"Bruno Mars","roleSlug":true}],"debutRank":12,"peakRank":1.6,"duration":4,"score":16.84,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":8},{"title":"Uptown Funk","instanceSlug":2524,"tags":["#1"],"parents":[],"genre":"dance-pop","debut":2015,"playlists":[],"ranks":[15.5,5,3,2.2,2.3,2.59,2.92,3.65,5.03,7.57,12.35,21.69,40.83,82.01,175.07,395.8],"artists":[{"slug":"mark-ronson","title":"Mark Ronson","roleSlug":true},{"slug":"bruno-mars","title":"Bruno Mars","roleSlug":"feature"}],"debutRank":15.5,"peakRank":2.2,"duration":4,"score":16.46,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":9},{"title":"That's What Love Can Do","instanceSlug":2295,"tags":[],"parents":[],"genre":"dance-pop","debut":"1993-03","playlists":[],"ranks":[15,10,6,3.4,2.4,2,2.15,2.74,3.49,5.41,9.86,20.68,49.07,129.86,379.3,1211.99],"artists":[{"slug":"boy-krazy","title":"Boy Krazy","roleSlug":true}],"debutRank":15,"peakRank":2,"duration":4,"score":16.41,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":10},{"title":"Don't Forget My Number","instanceSlug":343,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"dance-pop","debut":"1989-06","playlists":[],"ranks":[12.5,5,2,1.6,1.89,2.23,3.04,4.7,8.1,15.44,32.23,73.13],"artists":[{"slug":"milli-vanilli","title":"Milli Vanilli","roleSlug":true}],"debutRank":12.5,"peakRank":1.6,"duration":3,"score":15.77,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":11},{"title":"Just Got Lucky","instanceSlug":2384,"tags":[],"parents":[],"genre":"dance-pop","debut":"1983-11","playlists":[],"ranks":[14,8,4,3,2,2.3,2.64,3.44,4.99,7.98,13.96,26.52,54.38,119.63,281.12,702.8],"artists":[{"slug":"joboxers","title":"JoBoxers","roleSlug":true}],"debutRank":14,"peakRank":2,"duration":4,"score":15.74,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":12},{"title":"Gloria","instanceSlug":41,"tags":["women"],"parents":[],"genre":"dance-pop","debut":"1982-09","ranks":[15.9,9.3,7.2,5.5,4.9,4.7,4.52,4.76,5.1,5.46,6.24,7.58,9.75,13.23,18.9,28.35,44.56,73.2,125.48,224.08],"artists":[{"slug":"laura-branigan","title":"Laura Branigan","roleSlug":true}],"debutRank":15.9,"peakRank":4.52,"duration":5,"score":15.14,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"source":null,"rank":13},{"title":"Dynamite","instanceSlug":438,"tags":[],"parents":[],"genre":"dance-pop","debut":"1984-08","playlists":[],"ranks":[16,9.5,6.1,4.5,3.5,3,3.28,3.74,4.26,5.46,7.76,12.11,20.6,37.94,75.18,159.53],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true}],"debutRank":16,"peakRank":3,"duration":4,"score":15.12,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":14},{"title":"LoveStoned","instanceSlug":2260,"tags":[],"parents":[],"genre":"dance-pop","debut":2007,"playlists":[],"ranks":[15,9,6,4.4,3.6,3,3.25,3.75,4.33,5.66,8.27,13.36,23.63,45.45,94.4,210.58],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":4,"score":15.04,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":15},{"title":"Der Kommisar","instanceSlug":1622,"tags":[],"parents":[],"genre":"dance-pop","debut":"1983-03","playlists":[],"ranks":[14,8,5,3.5,2.5,2.75,3.2,3.72,4.94,7.37,12.19,22.17,43.93,94.25,217.63,538.14],"artists":[{"slug":"after-the-fire","title":"After the Fire","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":4,"score":14.92,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":16},{"title":"Say You'll Be There","instanceSlug":1908,"tags":[],"parents":[],"genre":"dance-pop","debut":"1997-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12.5,2.5,1,1.29,1.66,2.63,4.92,10.62,26.02,71.29,216.02,717.18],"artists":[{"slug":"spice-girls","title":"Spice Girls","roleSlug":true}],"debutRank":12.5,"peakRank":1,"duration":3,"score":14.87,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":17},{"title":"Another Part of Me","instanceSlug":547,"tags":[],"source":{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"type":"album"},"genre":"dance-pop","debut":"1988-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,3,1.1,1.44,1.89,3.05,5.88,13.15,33.47,95.53,302.23,1049.55],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":1.1,"duration":3,"score":13.86,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":18},{"title":"How Bizarre","instanceSlug":2637,"tags":["accordion"],"parents":[],"genre":"dance-pop","debut":"1997-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,3.5,1.4,1.72,2.11,3.08,5.19,9.94,21.29,50.49,131.28,371.33],"artists":[{"slug":"omc","title":"OMC","roleSlug":true}],"debutRank":13,"peakRank":1.4,"duration":3,"score":13.49,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":19},{"title":"The Locomotion","instanceSlug":543,"tags":["remake"],"parents":[],"genre":"dance-pop","debut":"1988-10","playlists":[],"ranks":[17.3,11.2,8.8,5.8,4.45,4.3,4.67,5.1,5.57,6.6,8.42,11.52,16.82,26.11,42.94,74.57],"artists":[{"slug":"kylie-minogue","title":"Kylie Minogue","roleSlug":true}],"debutRank":17.3,"peakRank":4.3,"duration":4,"score":12.68,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":20},{"title":"Rocket to You","instanceSlug":797,"tags":[],"parents":[],"genre":"dance-pop","debut":"1988-02","playlists":[],"ranks":[13,7.1,3.9,2.1,2.5,3.3,4.36,7.14,14,31.92,83,242.37],"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":3,"score":12.18,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":21},{"title":"Girl You Know It's True","instanceSlug":1921,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-02","playlists":[],"ranks":[18,12,7.5,5.8,5,5.15,5.46,5.99,6.5,7.4,8.42,10.76,15.23,23.66,40.04,73.3],"artists":[{"slug":"milli-vanilli","title":"Milli Vanilli","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":4,"score":12.01,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":22},{"title":"Time of Our Lives","instanceSlug":2525,"tags":[],"parents":[],"genre":"dance-pop","debut":2015,"playlists":[],"ranks":[13,6,2,2.5,3.13,4.69,8.2,16.41,36.91,92.29,253.78,761.35],"artists":[{"slug":"pitbull","title":"Pitbull","roleSlug":true},{"slug":"ne-yo","title":"Ne-Yo","roleSlug":true}],"debutRank":13,"peakRank":2,"duration":3,"score":10.45,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":23},{"title":"Who Found Who","instanceSlug":236,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-08","ranks":[18,11,6,5.1,4.5,4.97,5.6,6.31,7.91,10.92,16.45,26.88,47.33,89.32,179.9,385.13],"artists":[{"slug":"jellybean","title":"Jellybean","roleSlug":true},{"slug":"elisa-fiorillo","title":"Elisa Fiorillo","roleSlug":"feature"}],"debutRank":18,"peakRank":4.5,"duration":4,"score":10.36,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"source":null,"rank":24},{"title":"This Time I Know It's For Real","instanceSlug":2736,"tags":[],"parents":[],"genre":"dance-pop","debut":"1989-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12,2,2.4,2.88,4.03,6.45,11.61,23.22,51.09,122.62,318.82,892.71],"artists":[{"slug":"donna-summer","title":"Donna Summer","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":3,"score":10.18,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":25},{"title":"Modern Love","instanceSlug":2292,"tags":[],"parents":[],"genre":"dance-pop","debut":"1983-10","playlists":[],"ranks":[15,10,7.5,5.9,5.4,5,5.6,6.27,7.78,10.58,15.65,25.05,43.08,79.27,155.36,323.16],"artists":[{"slug":"david-bowie","title":"David Bowie","roleSlug":true}],"debutRank":15,"peakRank":5,"duration":4,"score":10.18,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":26},{"title":"Tell It to My Heart","instanceSlug":1836,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-12","playlists":[],"ranks":[15.7,11,8,6.4,5.4,4.8,5.4,6.08,7.59,10.44,15.66,25.45,44.54,83.51,167.02,354.92],"artists":[{"slug":"taylor-dayne","title":"Taylor Dayne","roleSlug":true}],"debutRank":15.7,"peakRank":4.8,"duration":4,"score":10.04,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":27},{"title":"I Do You","instanceSlug":830,"tags":["do","i","i-verb-you","you"],"parents":[],"genre":"dance-pop","debut":"1987-11","playlists":[],"ranks":[17.1,10.9,7.9,7.2,6.8,6.9,7.4,7.9,8.6,9.4,10.7,12.18,15.55,22,34.17,57.8],"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"debutRank":17.1,"peakRank":6.8,"duration":4,"score":9.81,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":28},{"title":"SexyBack","instanceSlug":2259,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":2006,"playlists":[],"ranks":[17,11,8,5.9,5,5.7,6.5,8.32,11.81,18.42,31.32,57.63],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true},{"slug":"timbaland","title":"Timbaland","roleSlug":"feature"}],"debutRank":17,"peakRank":5,"duration":3,"score":8.19,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":29},{"title":"Prove Your Love","instanceSlug":455,"tags":[],"parents":[],"genre":"dance-pop","debut":"1988-03","playlists":[],"ranks":[21,12.5,10.1,8.4,7.6,7.2,7,7.9,8.92,11.21,15.53,23.52,38.64,68.45,130.05,263.81],"artists":[{"slug":"taylor-dayne","title":"Taylor Dayne","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":4,"score":7.67,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":30},{"title":"Time After Time","instanceSlug":2255,"tags":[],"parents":[],"genre":"dance-pop","debut":"1990-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[18,10,7,5.9,5.7,6.5,7.41,9.49,13.49,21.06,35.84,66.03],"artists":[{"slug":"timmy-t","title":"Timmy T","roleSlug":true}],"debutRank":18,"peakRank":5.7,"duration":3,"score":7.62,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":31},{"title":"Billie Jean","instanceSlug":372,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"source":{"title":"Thriller","instanceSlug":"thriller","tags":["michael-jackson"],"type":"album"},"genre":"dance-pop","debut":"1983-02","playlists":[{"slug":"women"}],"ranks":[19.5,12.5,9,6.4,5.5,6.2,6.99,8.77,12.12,18.28,29.92,52.77],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":19.5,"peakRank":5.5,"duration":3,"score":7.4,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":32},{"title":"Let's Dance","instanceSlug":86,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":"1983-04","ranks":[18.9,11.3,8.8,6.9,6.5,6.8,8.1,9.65,13.34,20.99,37.04,72.44],"artists":[{"slug":"david-bowie","title":"David Bowie","roleSlug":true}],"debutRank":18.9,"peakRank":6.5,"duration":3,"score":6.79,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"playlists":[],"source":null,"rank":33},{"title":"Get Outta My Dreams, Get Into My Car","instanceSlug":449,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance-pop","debut":"1988-03","playlists":[],"ranks":[15.9,9.3,5.5,6.4,7.45,9.88,14.74,24.38,44.33,87.86,188.5,435.26],"artists":[{"slug":"billy-ocean","title":"Billy Ocean","roleSlug":true}],"debutRank":15.9,"peakRank":5.5,"duration":3,"score":5.45,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":34},{"title":"Pink Cadillac","instanceSlug":459,"tags":["car","colors","pink"],"parents":[],"genre":"dance-pop","debut":"1988-04","playlists":[],"ranks":[23,14.8,12.4,10.7,13.2,16.28,23.89,40.64,78.62,170.47,409.46,1079.13],"artists":[{"slug":"natalie-cole","title":"Natalie Cole","roleSlug":true}],"debutRank":23,"peakRank":10.7,"duration":3,"score":2.05,"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":35},{"title":"Don't Stop the Music","instanceSlug":2713,"tags":[],"parents":[],"genre":"dance-pop","debut":2008,"playlists":[],"ranks":[],"artists":[{"slug":"rihanna","title":"Rihanna","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":36},{"title":"Come Home With Me Baby","instanceSlug":3049,"tags":[],"parents":[],"genre":"dance-pop","debut":1989,"playlists":[],"ranks":[],"artists":[{"slug":"dead-or-alive","title":"Dead or Alive","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":37},{"title":"Wanna Be Startin' Something","instanceSlug":2357,"tags":[],"source":{"title":"Thriller","instanceSlug":"thriller","tags":["michael-jackson"],"type":"album"},"genre":"dance-pop","debut":"1983-06","playlists":[{"slug":"start"}],"ranks":[],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":38},{"title":"Lies","instanceSlug":2422,"tags":[],"parents":[],"genre":"dance-pop","debut":"1983-03","playlists":[],"ranks":[],"artists":[{"slug":"thompson-twins","title":"Thompson Twins","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":39},{"title":"Disturbia","instanceSlug":2714,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":2008,"playlists":[],"ranks":[],"artists":[{"slug":"rihanna","title":"Rihanna","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":40},{"title":"Let's Get Serious","instanceSlug":2355,"tags":["#1","#1-r&b"],"parents":[],"genre":"dance-pop","debut":"1980-05","playlists":[],"ranks":[],"artists":[{"slug":"jermaine-jackson","title":"Jermaine Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":41},{"title":"Alright","instanceSlug":2345,"tags":[],"parents":[],"genre":"dance-pop","debut":"1990-04","playlists":[],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":42},{"title":"Wake Me Up!","instanceSlug":2764,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"dance-pop","debut":2014,"playlists":[],"ranks":[],"artists":[{"slug":"avicii","title":"Avicii","roleSlug":true},{"slug":"aloe-black","title":"Aloe Black","roleSlug":"feature"}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":43},{"title":"Talk to Me","instanceSlug":2853,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-03","playlists":[],"ranks":[],"artists":[{"slug":"chico-debarge","title":"Chico DeBarge","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":44},{"title":"Last Friday Night","instanceSlug":3026,"tags":["#1","#1-rdwt40-hot-adult"],"parents":[],"genre":"dance-pop","debut":2008,"playlists":[],"ranks":[],"artists":[{"slug":"katy-perry","title":"Katy Perry","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":45},{"title":"Cross My Broken Heart","instanceSlug":1710,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-07","source":{"title":"Beverly Hills Cop II","instanceSlug":"beverly-hills-cop-ii","tags":[],"parents":[],"type":"movie"},"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":true,"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"rank":46},{"title":"The Pleasure Principle","instanceSlug":2344,"tags":[],"parents":[],"genre":"dance-pop","debut":"1987-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":47},{"title":"SOS","instanceSlug":2710,"tags":["#1","#1-hot-100","sample"],"parents":[],"genre":"dance-pop","debut":2006,"playlists":[],"ranks":[],"artists":[{"slug":"rihanna","title":"Rihanna","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":48},{"title":"Love Me All Up","instanceSlug":1516,"tags":["all","love","me","up"],"parents":[],"genre":"dance-pop","debut":"1992-01","playlists":[],"ranks":[],"artists":[{"slug":"stacy-earl","title":"Stacy Earl","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":49},{"title":"Rock Your Body","instanceSlug":2258,"tags":[],"parents":[],"genre":"dance-pop","debut":2003,"playlists":[],"ranks":[],"artists":[{"slug":"justin-timberlake","title":"Justin Timberlake","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":50},{"title":"Love Will Save the Day","instanceSlug":2487,"tags":[],"parents":[],"genre":"dance-pop","debut":"1988-07","playlists":[],"ranks":[],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":51},{"title":"Set Adrift on Memory Bliss","instanceSlug":1522,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance-pop","debut":"1991-11","playlists":[],"ranks":[],"artists":[{"slug":"pm-dawn","title":"PM Dawn","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":52},{"title":"Moves Like Jagger","instanceSlug":3029,"tags":["#1","#1-rdwt40-hot-adult","a:mick-jagger"],"parents":[],"genre":"dance-pop","debut":2010,"playlists":[],"ranks":[],"artists":[{"slug":"maroon-5","title":"Maroon 5","roleSlug":true},{"slug":"christina-aguillera","title":"Christina Aguilera","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":53},{"title":"Don't Cha","instanceSlug":2427,"tags":[],"parents":[],"genre":"dance-pop","debut":2005,"playlists":[],"ranks":[],"artists":[{"slug":"pussycat-dolls","title":"Pussycat Dolls","roleSlug":true}],"genres":[{"slug":"dance-pop","title":"Dance-Pop"}],"source":null,"rank":54}],"score":463.06,"songAdjustedAverage":63.01,"artistAdjustedAverage":146.43}
+{
+  "instanceSlug": "dance-pop",
+  "title": "Dance-Pop",
+  "parents": [
+    "pop",
+    "dance"
+  ],
+  "artists": [
+    "ace-of-base",
+    "d-mob",
+    "gloria-estefan",
+    "jacksons",
+    "jets",
+    "justin-timberlake",
+    "michael-jackson",
+    "milli-vanilli",
+    "right-set-fred",
+    "rihanna",
+    "taylor-dayne",
+    "timmy-t",
+    "will-to-power"
+  ],
+  "songs": [
+    {
+      "title": "Smooth Criminal",
+      "instanceSlug": 245,
+      "tags": [
+      ],
+      "source": {
+        "title": "Bad",
+        "instanceSlug": "bad",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "playlists": [
+        {
+          "slug": "crime"
+        }
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-11",
+      "ranks": {
+        "artist:michael-jackson": 1,
+        "genre:dance-pop": 1,
+        "playlist:crime": 1,
+        "source:crime": 1,
+        "decade:1980s": 3,
+        "year:1988": 2
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "note": "8 weeks at #1.",
+      "scores": [
+        0.306,
+        1,
+        0.973,
+        0.953,
+        0.931,
+        0.887,
+        0.853,
+        0.821,
+        0.784,
+        0.779,
+        0.769,
+        0.754,
+        0.734,
+        0.709,
+        0.679,
+        0.644,
+        0.604,
+        0.559,
+        0.509,
+        0.454,
+        0.394,
+        0.329,
+        0.259,
+        0.184,
+        0.104,
+        0.019,
+        0
+      ],
+      "debutScore": 0.306,
+      "peakScore": 1,
+      "duration": 7,
+      "score": 15.991,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1988-11",
+        "title": "November 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 11
+      },
+      "rank": 1
+    },
+    {
+      "title": "Another Part of Me",
+      "instanceSlug": 547,
+      "tags": [
+      ],
+      "source": {
+        "title": "Bad",
+        "instanceSlug": "bad",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genre": "dance-pop",
+      "debut": "1988-08",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:michael-jackson": 5,
+        "genre:dance-pop": 2,
+        "playlist:summer": 8,
+        "source:summer": 8,
+        "decade:1980s": 22,
+        "year:1988": 3
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.633,
+        0.968,
+        0.947,
+        0.917,
+        0.878,
+        0.873,
+        0.863,
+        0.848,
+        0.828,
+        0.803,
+        0.773,
+        0.738,
+        0.698,
+        0.653,
+        0.603,
+        0.548,
+        0.488,
+        0.423,
+        0.353,
+        0.278,
+        0.198,
+        0.113,
+        0.023,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.968,
+      "duration": 7,
+      "score": 14.618,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1988-08",
+        "title": "August 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 8
+      },
+      "rank": 2
+    },
+    {
+      "title": "Say You'll Be There",
+      "instanceSlug": 1908,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1997-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:spice-girls": 1,
+        "genre:dance-pop": 3,
+        "playlist:summer": 23,
+        "source:summer": 23,
+        "decade:1990s": 37,
+        "year:1997": 1
+      },
+      "artists": [
+        {
+          "slug": "spice-girls",
+          "title": "Spice Girls",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.158,
+        0.694,
+        1,
+        0.915,
+        0.91,
+        0.9,
+        0.885,
+        0.865,
+        0.84,
+        0.81,
+        0.775,
+        0.735,
+        0.69,
+        0.64,
+        0.585,
+        0.525,
+        0.46,
+        0.39,
+        0.315,
+        0.235,
+        0.15,
+        0.06,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 13.537000000000003,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-05",
+        "title": "May 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 5
+      },
+      "rank": 3
+    },
+    {
+      "title": "Don't Forget My Number",
+      "instanceSlug": 343,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "genre": "dance-pop",
+      "debut": "1989-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:milli-vanilli": 1,
+        "genre:dance-pop": 4,
+        "playlist:summer": 25,
+        "source:summer": 25,
+        "decade:1980s": 70,
+        "year:1989": 11
+      },
+      "artists": [
+        {
+          "slug": "milli-vanilli",
+          "title": "Milli Vanilli",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.158,
+        0.768,
+        0.968,
+        0.902,
+        0.897,
+        0.887,
+        0.872,
+        0.852,
+        0.827,
+        0.797,
+        0.762,
+        0.722,
+        0.677,
+        0.627,
+        0.572,
+        0.512,
+        0.447,
+        0.377,
+        0.302,
+        0.222,
+        0.137,
+        0.047,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.968,
+      "duration": 6,
+      "score": 13.331999999999999,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-06",
+        "title": "June 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 6
+      },
+      "rank": 4
+    },
+    {
+      "title": "Express Yourself",
+      "instanceSlug": 2126,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1989-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:madonna": 2,
+        "genre:dance-pop": 5,
+        "playlist:summer": 30,
+        "source:summer": 30,
+        "decade:1980s": 83,
+        "year:1989": 12
+      },
+      "artists": [
+        {
+          "slug": "madonna",
+          "title": "Madonna",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.108,
+        0.752,
+        0.912,
+        0.876,
+        0.871,
+        0.861,
+        0.846,
+        0.826,
+        0.801,
+        0.771,
+        0.736,
+        0.696,
+        0.651,
+        0.601,
+        0.546,
+        0.486,
+        0.421,
+        0.351,
+        0.276,
+        0.196,
+        0.111,
+        0.021,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.912,
+      "duration": 6,
+      "score": 12.716,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-06",
+        "title": "June 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 6
+      },
+      "rank": 5
+    },
+    {
+      "title": "You Spin Me Round (Like a Record)",
+      "instanceSlug": 632,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1985-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:dead-or-alive": 1,
+        "genre:dance-pop": 6,
+        "decade:1980s": 87,
+        "year:1985": 7
+      },
+      "artists": [
+        {
+          "slug": "dead-or-alive",
+          "title": "Dead or Alive",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.633,
+        0.804,
+        0.887,
+        0.833,
+        0.828,
+        0.818,
+        0.803,
+        0.783,
+        0.758,
+        0.728,
+        0.693,
+        0.653,
+        0.608,
+        0.558,
+        0.503,
+        0.443,
+        0.378,
+        0.308,
+        0.233,
+        0.153,
+        0.068,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.887,
+      "duration": 6,
+      "score": 12.644000000000002,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-07",
+        "title": "July 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 7
+      },
+      "rank": 6
+    },
+    {
+      "title": "Dare Me",
+      "instanceSlug": 378,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1985-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pointer-sisters": 3,
+        "genre:dance-pop": 7,
+        "decade:1980s": 97,
+        "year:1985": 8
+      },
+      "artists": [
+        {
+          "slug": "pointer-sisters",
+          "title": "Pointer Sisters",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.267,
+        0.939,
+        0.909,
+        0.871,
+        0.794,
+        0.789,
+        0.779,
+        0.764,
+        0.744,
+        0.719,
+        0.689,
+        0.654,
+        0.614,
+        0.569,
+        0.519,
+        0.464,
+        0.404,
+        0.339,
+        0.269,
+        0.194,
+        0.114,
+        0.029,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.939,
+      "duration": 6,
+      "score": 12.433000000000002,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-07",
+        "title": "July 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 7
+      },
+      "rank": 7
+    },
+    {
+      "title": "Black or White",
+      "instanceSlug": 53,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "this-or-that"
+      ],
+      "source": {
+        "title": "Dangerous",
+        "instanceSlug": "dangerous",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genre": "dance-pop",
+      "debut": "1991-12",
+      "ranks": {
+        "artist:michael-jackson": 12,
+        "genre:dance-pop": 8,
+        "decade:1990s": 68,
+        "year:1991": 15
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.306,
+        0.537,
+        0.612,
+        0.737,
+        0.768,
+        0.744,
+        0.715,
+        0.684,
+        0.642,
+        0.604,
+        0.599,
+        0.589,
+        0.574,
+        0.554,
+        0.529,
+        0.499,
+        0.464,
+        0.424,
+        0.379,
+        0.329,
+        0.274,
+        0.214,
+        0.149,
+        0.079,
+        0.004,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.768,
+      "duration": 7,
+      "score": 12.106,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "playlists": [
+      ],
+      "debutEra": {
+        "slug": "1991-12",
+        "title": "December 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 12
+      },
+      "rank": 8
+    },
+    {
+      "title": "How Bizarre",
+      "instanceSlug": 2637,
+      "tags": [
+        "accordion"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1997-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:omc": 1,
+        "genre:dance-pop": 9,
+        "playlist:summer": 44,
+        "source:summer": 44,
+        "decade:1990s": 85,
+        "year:1997": 5
+      },
+      "artists": [
+        {
+          "slug": "omc",
+          "title": "OMC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.582,
+        0.887,
+        0.819,
+        0.814,
+        0.804,
+        0.789,
+        0.769,
+        0.744,
+        0.714,
+        0.679,
+        0.639,
+        0.594,
+        0.544,
+        0.489,
+        0.429,
+        0.364,
+        0.294,
+        0.219,
+        0.139,
+        0.054,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.887,
+      "duration": 6,
+      "score": 11.511000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-05",
+        "title": "May 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 5
+      },
+      "rank": 9
+    },
+    {
+      "title": "Treasure",
+      "instanceSlug": 902,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2013,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bruno-mars": 1,
+        "genre:dance-pop": 10,
+        "decade:2010s": 5,
+        "year:2013": 1
+      },
+      "artists": [
+        {
+          "slug": "bruno-mars",
+          "title": "Bruno Mars",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.592,
+        0.843,
+        0.804,
+        0.76,
+        0.755,
+        0.745,
+        0.73,
+        0.71,
+        0.685,
+        0.655,
+        0.62,
+        0.58,
+        0.535,
+        0.485,
+        0.43,
+        0.37,
+        0.305,
+        0.235,
+        0.16,
+        0.08,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.843,
+      "duration": 6,
+      "score": 11.249999999999998,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2013,
+        "title": 2013,
+        "decade": 2010,
+        "year": 2013
+      },
+      "rank": 10
+    },
+    {
+      "title": "I'm Too Sexy",
+      "instanceSlug": 1080,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1991-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:right-set-fred": 1,
+        "genre:dance-pop": 11,
+        "decade:1990s": 90,
+        "year:1991": 19
+      },
+      "artists": [
+        {
+          "slug": "right-set-fred",
+          "title": "Right Set Fred",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.351,
+        0.537,
+        0.645,
+        0.694,
+        0.737,
+        0.708,
+        0.672,
+        0.667,
+        0.657,
+        0.642,
+        0.622,
+        0.597,
+        0.567,
+        0.532,
+        0.492,
+        0.447,
+        0.397,
+        0.342,
+        0.282,
+        0.217,
+        0.147,
+        0.072,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.737,
+      "duration": 7,
+      "score": 11.231000000000002,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-11",
+        "title": "November 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 11
+      },
+      "rank": 11
+    },
+    {
+      "title": "I Wanna Be a Cowboy",
+      "instanceSlug": 838,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1986-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:boys-don-t-cry": 1,
+        "genre:dance-pop": 12,
+        "decade:1980s": 147,
+        "year:1986": 14
+      },
+      "artists": [
+        {
+          "slug": "boys-don-t-cry",
+          "title": "Boys Don't Cry",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.286,
+        0.477,
+        0.622,
+        0.708,
+        0.752,
+        0.704,
+        0.699,
+        0.689,
+        0.674,
+        0.654,
+        0.629,
+        0.599,
+        0.564,
+        0.524,
+        0.479,
+        0.429,
+        0.374,
+        0.314,
+        0.249,
+        0.179,
+        0.104,
+        0.024,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 10.83,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-06",
+        "title": "June 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 6
+      },
+      "rank": 12
+    },
+    {
+      "title": "That's What Love Can Do",
+      "instanceSlug": 2295,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1993-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:boy-krazy": 1,
+        "genre:dance-pop": 13,
+        "decade:1990s": 107,
+        "year:1993": 9
+      },
+      "artists": [
+        {
+          "slug": "boy-krazy",
+          "title": "Boy Krazy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.232,
+        0.402,
+        0.592,
+        0.708,
+        0.768,
+        0.744,
+        0.664,
+        0.659,
+        0.649,
+        0.634,
+        0.614,
+        0.589,
+        0.559,
+        0.524,
+        0.484,
+        0.439,
+        0.389,
+        0.334,
+        0.274,
+        0.209,
+        0.139,
+        0.064,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 10.766999999999996,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-03",
+        "title": "March 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 3
+      },
+      "rank": 13
+    },
+    {
+      "title": "Just Got Lucky",
+      "instanceSlug": 2384,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1983-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:joboxers": 1,
+        "genre:dance-pop": 14,
+        "decade:1980s": 154,
+        "year:1983": 21
+      },
+      "artists": [
+        {
+          "slug": "joboxers",
+          "title": "JoBoxers",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.306,
+        0.537,
+        0.633,
+        0.768,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 10.557999999999998,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-11",
+        "title": "November 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 11
+      },
+      "rank": 14
+    },
+    {
+      "title": "Uptown Funk",
+      "instanceSlug": 2524,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2015,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:mark-ronson": 1,
+        "artist:bruno-mars": 3,
+        "genre:dance-pop": 15,
+        "decade:2010s": 8,
+        "year:2015": 4
+      },
+      "artists": [
+        {
+          "slug": "mark-ronson",
+          "title": "Mark Ronson",
+          "roleSlug": true
+        },
+        {
+          "slug": "bruno-mars",
+          "title": "Bruno Mars",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.086,
+        0.463,
+        0.633,
+        0.737,
+        0.722,
+        0.682,
+        0.677,
+        0.667,
+        0.652,
+        0.632,
+        0.607,
+        0.577,
+        0.542,
+        0.502,
+        0.457,
+        0.407,
+        0.352,
+        0.292,
+        0.227,
+        0.157,
+        0.082,
+        0.002,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.737,
+      "duration": 6,
+      "score": 10.155000000000003,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2015,
+        "title": 2015,
+        "decade": 2010,
+        "year": 2015
+      },
+      "rank": 15
+    },
+    {
+      "title": "Rocket to You",
+      "instanceSlug": 797,
+      "tags": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jets": 1,
+        "genre:dance-pop": 16,
+        "decade:1980s": 209,
+        "year:1988": 19
+      },
+      "artists": [
+        {
+          "slug": "jets",
+          "title": "The Jets",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.546,
+        0.752,
+        0.729,
+        0.694,
+        0.65,
+        0.602,
+        0.597,
+        0.587,
+        0.572,
+        0.552,
+        0.527,
+        0.497,
+        0.462,
+        0.422,
+        0.377,
+        0.327,
+        0.272,
+        0.212,
+        0.147,
+        0.077,
+        0.002,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 9.748000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-02",
+        "title": "February 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 2
+      },
+      "rank": 16
+    },
+    {
+      "title": "Der Kommisar",
+      "instanceSlug": 1622,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1983-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:after-the-fire": 1,
+        "genre:dance-pop": 17,
+        "decade:1980s": 236,
+        "year:1983": 33
+      },
+      "artists": [
+        {
+          "slug": "after-the-fire",
+          "title": "After the Fire",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.306,
+        0.463,
+        0.582,
+        0.694,
+        0.662,
+        0.612,
+        0.607,
+        0.597,
+        0.582,
+        0.562,
+        0.537,
+        0.507,
+        0.472,
+        0.432,
+        0.387,
+        0.337,
+        0.282,
+        0.222,
+        0.157,
+        0.087,
+        0.012,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.219000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-03",
+        "title": "March 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 3
+      },
+      "rank": 17
+    },
+    {
+      "title": "Time of Our Lives",
+      "instanceSlug": 2525,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2015,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pitbull": 1,
+        "artist:ne-yo": 1,
+        "genre:dance-pop": 18,
+        "decade:2010s": 10,
+        "year:2015": 5
+      },
+      "artists": [
+        {
+          "slug": "pitbull",
+          "title": "Pitbull",
+          "roleSlug": true
+        },
+        {
+          "slug": "ne-yo",
+          "title": "Ne-Yo",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.402,
+        0.768,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 9.033,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2015,
+        "title": 2015,
+        "decade": 2010,
+        "year": 2015
+      },
+      "rank": 18
+    },
+    {
+      "title": "This Time I Know It's For Real",
+      "instanceSlug": 2736,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1989-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:donna-summer": 3,
+        "genre:dance-pop": 19,
+        "playlist:summer": 75,
+        "source:summer": 75,
+        "decade:1980s": 254,
+        "year:1989": 24
+      },
+      "artists": [
+        {
+          "slug": "donna-summer",
+          "title": "Donna Summer",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.768,
+        0.708,
+        0.703,
+        0.693,
+        0.678,
+        0.658,
+        0.633,
+        0.603,
+        0.568,
+        0.528,
+        0.483,
+        0.433,
+        0.378,
+        0.318,
+        0.253,
+        0.183,
+        0.108,
+        0.028,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.768,
+      "duration": 5,
+      "score": 8.895,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-06",
+        "title": "June 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 6
+      },
+      "rank": 19
+    },
+    {
+      "title": "LoveStoned",
+      "instanceSlug": 2260,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2007,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:justin-timberlake": 1,
+        "genre:dance-pop": 20,
+        "decade:2000s": 20,
+        "year:2007": 1
+      },
+      "artists": [
+        {
+          "slug": "justin-timberlake",
+          "title": "Justin Timberlake",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.506,
+        0.573,
+        0.633,
+        0.607,
+        0.559,
+        0.554,
+        0.544,
+        0.529,
+        0.509,
+        0.484,
+        0.454,
+        0.419,
+        0.379,
+        0.334,
+        0.284,
+        0.229,
+        0.169,
+        0.104,
+        0.034,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.67,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2007,
+        "title": 2007,
+        "decade": 2000,
+        "year": 2007
+      },
+      "rank": 20
+    },
+    {
+      "title": "Dynamite",
+      "instanceSlug": 438,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1984-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jermaine-jackson": 1,
+        "genre:dance-pop": 21,
+        "decade:1980s": 272,
+        "year:1984": 24
+      },
+      "artists": [
+        {
+          "slug": "jermaine-jackson",
+          "title": "Jermaine Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.249,
+        0.397,
+        0.498,
+        0.582,
+        0.633,
+        0.604,
+        0.56,
+        0.555,
+        0.545,
+        0.53,
+        0.51,
+        0.485,
+        0.455,
+        0.42,
+        0.38,
+        0.335,
+        0.285,
+        0.23,
+        0.17,
+        0.105,
+        0.035,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.638000000000002,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-08",
+        "title": "August 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 8
+      },
+      "rank": 21
+    },
+    {
+      "title": "Gloria",
+      "instanceSlug": 41,
+      "tags": [
+        "women"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1982-09",
+      "ranks": {
+        "artist:laura-branigan": 2,
+        "genre:dance-pop": 22,
+        "decade:1980s": 384,
+        "year:1982": 28
+      },
+      "artists": [
+        {
+          "slug": "laura-branigan",
+          "title": "Laura Branigan",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.256,
+        0.341,
+        0.431,
+        0.47,
+        0.484,
+        0.497,
+        0.479,
+        0.456,
+        0.451,
+        0.441,
+        0.426,
+        0.406,
+        0.381,
+        0.351,
+        0.316,
+        0.276,
+        0.231,
+        0.181,
+        0.126,
+        0.066,
+        0.001,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.497,
+      "duration": 6,
+      "score": 7.144,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-09",
+        "title": "September 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 9
+      },
+      "rank": 22
+    },
+    {
+      "title": "The Locomotion",
+      "instanceSlug": 543,
+      "tags": [
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kylie-minogue": 1,
+        "genre:dance-pop": 23,
+        "decade:1980s": 435,
+        "year:1988": 52
+      },
+      "artists": [
+        {
+          "slug": "kylie-minogue",
+          "title": "Kylie Minogue",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.049,
+        0.194,
+        0.275,
+        0.414,
+        0.502,
+        0.513,
+        0.486,
+        0.456,
+        0.451,
+        0.441,
+        0.426,
+        0.406,
+        0.381,
+        0.351,
+        0.316,
+        0.276,
+        0.231,
+        0.181,
+        0.126,
+        0.066,
+        0.001,
+        0
+      ],
+      "debutScore": 0.049,
+      "peakScore": 0.513,
+      "duration": 6,
+      "score": 6.542,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-10",
+        "title": "October 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 10
+      },
+      "rank": 23
+    },
+    {
+      "title": "Who Found Who",
+      "instanceSlug": 236,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-08",
+      "ranks": {
+        "artist:jellybean": 1,
+        "artist:elisa-fiorillo": 1,
+        "genre:dance-pop": 24,
+        "decade:1980s": 479,
+        "year:1987": 84
+      },
+      "artists": [
+        {
+          "slug": "jellybean",
+          "title": "Jellybean",
+          "roleSlug": true
+        },
+        {
+          "slug": "elisa-fiorillo",
+          "title": "Elisa Fiorillo",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.402,
+        0.456,
+        0.498,
+        0.465,
+        0.425,
+        0.42,
+        0.41,
+        0.395,
+        0.375,
+        0.35,
+        0.32,
+        0.285,
+        0.245,
+        0.2,
+        0.15,
+        0.095,
+        0.035,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.498,
+      "duration": 5,
+      "score": 5.7620000000000005,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 24
+    },
+    {
+      "title": "Tell It to My Heart",
+      "instanceSlug": 1836,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:taylor-dayne": 5,
+        "genre:dance-pop": 25,
+        "decade:1980s": 480,
+        "year:1987": 85
+      },
+      "artists": [
+        {
+          "slug": "taylor-dayne",
+          "title": "Taylor Dayne",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.082,
+        0.2,
+        0.306,
+        0.381,
+        0.437,
+        0.477,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.082,
+      "peakScore": 0.477,
+      "duration": 5,
+      "score": 5.743999999999999,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-12",
+        "title": "December 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 12
+      },
+      "rank": 25
+    },
+    {
+      "title": "Modern Love",
+      "instanceSlug": 2292,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1983-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:david-bowie": 2,
+        "genre:dance-pop": 26,
+        "decade:1980s": 487,
+        "year:1983": 60
+      },
+      "artists": [
+        {
+          "slug": "david-bowie",
+          "title": "David Bowie",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.232,
+        0.328,
+        0.408,
+        0.437,
+        0.463,
+        0.425,
+        0.42,
+        0.41,
+        0.395,
+        0.375,
+        0.35,
+        0.32,
+        0.285,
+        0.245,
+        0.2,
+        0.15,
+        0.095,
+        0.035,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.670000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-10",
+        "title": "October 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 10
+      },
+      "rank": 26
+    },
+    {
+      "title": "Girl You Know It's True",
+      "instanceSlug": 1921,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1989-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:milli-vanilli": 3,
+        "genre:dance-pop": 27,
+        "decade:1980s": 490,
+        "year:1989": 49
+      },
+      "artists": [
+        {
+          "slug": "milli-vanilli",
+          "title": "Milli Vanilli",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.171,
+        0.328,
+        0.414,
+        0.463,
+        0.453,
+        0.434,
+        0.403,
+        0.376,
+        0.332,
+        0.327,
+        0.317,
+        0.302,
+        0.282,
+        0.257,
+        0.227,
+        0.192,
+        0.152,
+        0.107,
+        0.057,
+        0.002,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.463,
+      "duration": 6,
+      "score": 5.632000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-02",
+        "title": "February 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 2
+      },
+      "rank": 27
+    },
+    {
+      "title": "Forever Your Girl",
+      "instanceSlug": 426,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "genre": "dance-pop",
+      "debut": "1989-04",
+      "ranks": {
+        "artist:paula-abdul": 10,
+        "genre:dance-pop": 28,
+        "playlist:summer": 125,
+        "source:summer": 125,
+        "decade:1980s": 505,
+        "year:1989": 52
+      },
+      "artists": [
+        {
+          "slug": "paula-abdul",
+          "title": "Paula Abdul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.185,
+        0.45,
+        0.484,
+        0.47,
+        0.434,
+        0.429,
+        0.419,
+        0.404,
+        0.384,
+        0.359,
+        0.329,
+        0.294,
+        0.254,
+        0.209,
+        0.159,
+        0.104,
+        0.044,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.484,
+      "duration": 5,
+      "score": 5.485999999999998,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-04",
+        "title": "April 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 4
+      },
+      "rank": 28
+    },
+    {
+      "title": "The Pleasure Principle",
+      "instanceSlug": 2344,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:janet-jackson": 13,
+        "genre:dance-pop": 29,
+        "playlist:summer": 128,
+        "source:summer": 128,
+        "decade:1980s": 518,
+        "year:1987": 90
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.018,
+        0.2,
+        0.351,
+        0.463,
+        0.45,
+        0.431,
+        0.408,
+        0.403,
+        0.393,
+        0.378,
+        0.358,
+        0.333,
+        0.303,
+        0.268,
+        0.228,
+        0.183,
+        0.133,
+        0.078,
+        0.018,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.396999999999999,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-07",
+        "title": "July 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 7
+      },
+      "rank": 29
+    },
+    {
+      "title": "SexyBack",
+      "instanceSlug": 2259,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2006,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:justin-timberlake": 2,
+        "artist:timbaland": 1,
+        "genre:dance-pop": 30,
+        "decade:2000s": 25,
+        "year:2006": 1
+      },
+      "artists": [
+        {
+          "slug": "justin-timberlake",
+          "title": "Justin Timberlake",
+          "roleSlug": true
+        },
+        {
+          "slug": "timbaland",
+          "title": "Timbaland",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.055,
+        0.2,
+        0.306,
+        0.408,
+        0.463,
+        0.419,
+        0.414,
+        0.404,
+        0.389,
+        0.369,
+        0.344,
+        0.314,
+        0.279,
+        0.239,
+        0.194,
+        0.144,
+        0.089,
+        0.029,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.058999999999999,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2006,
+        "title": 2006,
+        "decade": 2000,
+        "year": 2006
+      },
+      "rank": 30
+    },
+    {
+      "title": "Time After Time",
+      "instanceSlug": 2255,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1990-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:timmy-t": 2,
+        "genre:dance-pop": 31,
+        "playlist:summer": 134,
+        "source:summer": 134,
+        "decade:1990s": 349,
+        "year:1990": 58
+      },
+      "artists": [
+        {
+          "slug": "timmy-t",
+          "title": "Timmy T",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.351,
+        0.408,
+        0.419,
+        0.376,
+        0.371,
+        0.361,
+        0.346,
+        0.326,
+        0.301,
+        0.271,
+        0.236,
+        0.196,
+        0.151,
+        0.101,
+        0.046,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.419,
+      "duration": 5,
+      "score": 4.5280000000000005,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-05",
+        "title": "May 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 5
+      },
+      "rank": 31
+    },
+    {
+      "title": "Billie Jean",
+      "instanceSlug": 372,
+      "tags": [
+        "#1",
+        "#1-adult-contemporary",
+        "#1-hot-100"
+      ],
+      "source": {
+        "title": "Thriller",
+        "instanceSlug": "thriller",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genre": "dance-pop",
+      "debut": "1983-02",
+      "playlists": [
+        {
+          "slug": "women"
+        }
+      ],
+      "ranks": {
+        "artist:michael-jackson": 37,
+        "genre:dance-pop": 32,
+        "playlist:women": 6,
+        "source:women": 6,
+        "decade:1980s": 594,
+        "year:1983": 73
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.009,
+        0.158,
+        0.267,
+        0.381,
+        0.431,
+        0.391,
+        0.386,
+        0.376,
+        0.361,
+        0.341,
+        0.316,
+        0.286,
+        0.251,
+        0.211,
+        0.166,
+        0.116,
+        0.061,
+        0.001,
+        0
+      ],
+      "debutScore": 0.009,
+      "peakScore": 0.431,
+      "duration": 5,
+      "score": 4.509,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1983-02",
+        "title": "February 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 2
+      },
+      "rank": 32
+    },
+    {
+      "title": "Wanna Be Startin' Something",
+      "instanceSlug": 2357,
+      "tags": [
+      ],
+      "source": {
+        "title": "Thriller",
+        "instanceSlug": "thriller",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "genre": "dance-pop",
+      "debut": "1983-06",
+      "playlists": [
+        {
+          "slug": "start"
+        }
+      ],
+      "ranks": {
+        "artist:michael-jackson": 38,
+        "genre:dance-pop": 33,
+        "playlist:start": 1,
+        "source:start": 1,
+        "decade:1980s": 636,
+        "year:1983": 82
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.12,
+        0.232,
+        0.306,
+        0.402,
+        0.376,
+        0.371,
+        0.361,
+        0.346,
+        0.326,
+        0.301,
+        0.271,
+        0.236,
+        0.196,
+        0.151,
+        0.101,
+        0.046,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 4.143000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1983-06",
+        "title": "June 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 6
+      },
+      "rank": 33
+    },
+    {
+      "title": "I Do You",
+      "instanceSlug": 830,
+      "tags": [
+        "do",
+        "i",
+        "i-verb-you",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jets": 3,
+        "genre:dance-pop": 34,
+        "decade:1980s": 646,
+        "year:1987": 101
+      },
+      "artists": [
+        {
+          "slug": "jets",
+          "title": "The Jets",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.053,
+        0.203,
+        0.311,
+        0.341,
+        0.361,
+        0.356,
+        0.332,
+        0.311,
+        0.282,
+        0.253,
+        0.209,
+        0.204,
+        0.194,
+        0.179,
+        0.159,
+        0.134,
+        0.104,
+        0.069,
+        0.029,
+        0
+      ],
+      "debutScore": 0.053,
+      "peakScore": 0.361,
+      "duration": 5,
+      "score": 4.0840000000000005,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-11",
+        "title": "November 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 11
+      },
+      "rank": 34
+    },
+    {
+      "title": "Prove Your Love",
+      "instanceSlug": 455,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:taylor-dayne": 7,
+        "genre:dance-pop": 35,
+        "decade:1980s": 648,
+        "year:1988": 75
+      },
+      "artists": [
+        {
+          "slug": "taylor-dayne",
+          "title": "Taylor Dayne",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.158,
+        0.229,
+        0.29,
+        0.323,
+        0.341,
+        0.351,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.351,
+      "duration": 5,
+      "score": 4.013,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-03",
+        "title": "March 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 3
+      },
+      "rank": 35
+    },
+    {
+      "title": "Get Outta My Dreams, Get Into My Car",
+      "instanceSlug": 449,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:billy-ocean": 3,
+        "genre:dance-pop": 36,
+        "decade:1980s": 656,
+        "year:1988": 77
+      },
+      "artists": [
+        {
+          "slug": "billy-ocean",
+          "title": "Billy Ocean",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.256,
+        0.431,
+        0.381,
+        0.376,
+        0.366,
+        0.351,
+        0.331,
+        0.306,
+        0.276,
+        0.241,
+        0.201,
+        0.156,
+        0.106,
+        0.051,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.431,
+      "duration": 4,
+      "score": 3.906,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-03",
+        "title": "March 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 3
+      },
+      "rank": 36
+    },
+    {
+      "title": "Let's Dance",
+      "instanceSlug": 86,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1983-04",
+      "ranks": {
+        "artist:david-bowie": 5,
+        "genre:dance-pop": 37,
+        "decade:1980s": 666,
+        "year:1983": 84
+      },
+      "artists": [
+        {
+          "slug": "david-bowie",
+          "title": "David Bowie",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.02,
+        0.191,
+        0.275,
+        0.356,
+        0.376,
+        0.361,
+        0.302,
+        0.297,
+        0.287,
+        0.272,
+        0.252,
+        0.227,
+        0.197,
+        0.162,
+        0.122,
+        0.077,
+        0.027,
+        0
+      ],
+      "debutScore": 0.02,
+      "peakScore": 0.376,
+      "duration": 5,
+      "score": 3.8009999999999997,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-04",
+        "title": "April 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 4
+      },
+      "rank": 37
+    },
+    {
+      "title": "Set Adrift on Memory Bliss",
+      "instanceSlug": 1522,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1991-11",
+      "playlists": [
+        {
+          "slug": "sample"
+        }
+      ],
+      "ranks": {
+        "artist:pm-dawn": 4,
+        "genre:dance-pop": 38,
+        "playlist:sample": 4,
+        "source:sample": 4,
+        "decade:1990s": 428,
+        "year:1991": 79
+      },
+      "artists": [
+        {
+          "slug": "pm-dawn",
+          "title": "PM Dawn",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.145,
+        0.171,
+        0.2,
+        0.171,
+        0.166,
+        0.156,
+        0.141,
+        0.121,
+        0.096,
+        0.066,
+        0.031,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.2,
+      "duration": 4,
+      "score": 1.5390000000000001,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-11",
+        "title": "November 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 11
+      },
+      "rank": 38
+    },
+    {
+      "title": "Pink Cadillac",
+      "instanceSlug": 459,
+      "tags": [
+        "car",
+        "colors",
+        "pink"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:natalie-cole": 4,
+        "genre:dance-pop": 39,
+        "decade:1980s": 876,
+        "year:1988": 108
+      },
+      "artists": [
+        {
+          "slug": "natalie-cole",
+          "title": "Natalie Cole",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.101,
+        0.16,
+        0.209,
+        0.139,
+        0.134,
+        0.124,
+        0.109,
+        0.089,
+        0.064,
+        0.034,
+        0
+      ],
+      "debutScore": 0.101,
+      "peakScore": 0.209,
+      "duration": 3,
+      "score": 1.163,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-04",
+        "title": "April 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 4
+      },
+      "rank": 39
+    },
+    {
+      "title": "Alright",
+      "instanceSlug": 2345,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1990-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:janet-jackson": 23,
+        "genre:dance-pop": 40,
+        "decade:1990s": 506,
+        "year:1990": 103
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-04",
+        "title": "April 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 4
+      },
+      "rank": 40
+    },
+    {
+      "title": "Love Will Save the Day",
+      "instanceSlug": 2487,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1988-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:whitney-houston": 18,
+        "genre:dance-pop": 41,
+        "decade:1980s": 1190,
+        "year:1988": 137
+      },
+      "artists": [
+        {
+          "slug": "whitney-houston",
+          "title": "Whitney Houston",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-07",
+        "title": "July 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 7
+      },
+      "rank": 41
+    },
+    {
+      "title": "Let's Get Serious",
+      "instanceSlug": 2355,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1980-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jermaine-jackson": 2,
+        "genre:dance-pop": 42,
+        "decade:1980s": 1101,
+        "year:1980": 81
+      },
+      "artists": [
+        {
+          "slug": "jermaine-jackson",
+          "title": "Jermaine Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-05",
+        "title": "May 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 5
+      },
+      "rank": 42
+    },
+    {
+      "title": "SOS",
+      "instanceSlug": 2710,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "sample"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2006,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rihanna": 2,
+        "genre:dance-pop": 56,
+        "decade:2000s": 64,
+        "year:2006": 3
+      },
+      "artists": [
+        {
+          "slug": "rihanna",
+          "title": "Rihanna",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2006,
+        "title": 2006,
+        "decade": 2000,
+        "year": 2006
+      },
+      "rank": 43
+    },
+    {
+      "title": "Cross My Broken Heart",
+      "instanceSlug": 1710,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-07",
+      "source": {
+        "title": "Beverly Hills Cop II",
+        "instanceSlug": "beverly-hills-cop-ii",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:jets": 5,
+        "genre:dance-pop": 44,
+        "playlist:summer": 196,
+        "source:summer": 196,
+        "decade:1980s": 951,
+        "year:1987": 153
+      },
+      "artists": [
+        {
+          "slug": "jets",
+          "title": "The Jets",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "debutEra": {
+        "slug": "1987-07",
+        "title": "July 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 7
+      },
+      "rank": 44
+    },
+    {
+      "title": "Love Me All Up",
+      "instanceSlug": 1516,
+      "tags": [
+        "all",
+        "love",
+        "me",
+        "up"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1992-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stacy-earl": 1,
+        "genre:dance-pop": 45,
+        "decade:1990s": 810,
+        "year:1992": 116
+      },
+      "artists": [
+        {
+          "slug": "stacy-earl",
+          "title": "Stacy Earl",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-01",
+        "title": "January 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 1
+      },
+      "rank": 45
+    },
+    {
+      "title": "Don't Stop the Music",
+      "instanceSlug": 2713,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2008,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rihanna": 5,
+        "genre:dance-pop": 46,
+        "decade:2000s": 67,
+        "year:2008": 3
+      },
+      "artists": [
+        {
+          "slug": "rihanna",
+          "title": "Rihanna",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2008,
+        "title": 2008,
+        "decade": 2000,
+        "year": 2008
+      },
+      "rank": 46
+    },
+    {
+      "title": "Disturbia",
+      "instanceSlug": 2714,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2008,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rihanna": 6,
+        "genre:dance-pop": 47,
+        "decade:2000s": 68,
+        "year:2008": 4
+      },
+      "artists": [
+        {
+          "slug": "rihanna",
+          "title": "Rihanna",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2008,
+        "title": 2008,
+        "decade": 2000,
+        "year": 2008
+      },
+      "rank": 47
+    },
+    {
+      "title": "Everlasting Love",
+      "instanceSlug": "everlasting-love-ge",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1995-02",
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        }
+      ],
+      "ranks": {
+        "artist:gloria-estefan": 14,
+        "genre:dance-pop": 48,
+        "playlist:remake": 45,
+        "source:remake": 35,
+        "decade:1990s": 854,
+        "year:1995": 58
+      },
+      "artists": [
+        {
+          "slug": "gloria-estefan",
+          "title": "Gloria Estefan",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-02",
+        "title": "February 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 2
+      },
+      "rank": 48
+    },
+    {
+      "title": "Wake Me Up!",
+      "instanceSlug": 2764,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2014,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:avicii": 1,
+        "artist:aloe-black": 1,
+        "genre:dance-pop": 49,
+        "decade:2010s": 90,
+        "year:2014": 7
+      },
+      "artists": [
+        {
+          "slug": "avicii",
+          "title": "Avicii",
+          "roleSlug": true
+        },
+        {
+          "slug": "aloe-black",
+          "title": "Aloe Black",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2014,
+        "title": 2014,
+        "decade": 2010,
+        "year": 2014
+      },
+      "rank": 49
+    },
+    {
+      "title": "Talk to Me",
+      "instanceSlug": 2853,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1987-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:chico-debarge": 1,
+        "genre:dance-pop": 50,
+        "decade:1980s": 1410,
+        "year:1987": 158
+      },
+      "artists": [
+        {
+          "slug": "chico-debarge",
+          "title": "Chico DeBarge",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-03",
+        "title": "March 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 3
+      },
+      "rank": 50
+    },
+    {
+      "title": "Last Friday Night",
+      "instanceSlug": 3026,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2008,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:katy-perry": 5,
+        "genre:dance-pop": 51,
+        "decade:2000s": 100,
+        "year:2008": 7
+      },
+      "artists": [
+        {
+          "slug": "katy-perry",
+          "title": "Katy Perry",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2008,
+        "title": 2008,
+        "decade": 2000,
+        "year": 2008
+      },
+      "rank": 51
+    },
+    {
+      "title": "Moves Like Jagger",
+      "instanceSlug": 3029,
+      "tags": [
+        "#1",
+        "#1-rdwt40-hot-adult",
+        "a:mick-jagger"
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2010,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:christina-aguillera": 6,
+        "artist:maroon-5": 3,
+        "genre:dance-pop": 52,
+        "decade:2010s": 56,
+        "year:2010": 1
+      },
+      "artists": [
+        {
+          "slug": "maroon-5",
+          "title": "Maroon 5",
+          "roleSlug": true
+        },
+        {
+          "slug": "christina-aguillera",
+          "title": "Christina Aguilera",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2010,
+        "title": 2010,
+        "decade": 2010,
+        "year": 2010
+      },
+      "rank": 52
+    },
+    {
+      "title": "Come Home With Me Baby",
+      "instanceSlug": 3049,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 1989,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:dead-or-alive": 3,
+        "genre:dance-pop": 53,
+        "decade:1980s": 947,
+        "year:1989": 97
+      },
+      "artists": [
+        {
+          "slug": "dead-or-alive",
+          "title": "Dead or Alive",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1989,
+        "title": 1989,
+        "decade": 1980,
+        "year": 1989
+      },
+      "rank": 53
+    },
+    {
+      "title": "Lies",
+      "instanceSlug": 2422,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": "1983-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:thompson-twins": 3,
+        "genre:dance-pop": 54,
+        "decade:1980s": 1159,
+        "year:1983": 138
+      },
+      "artists": [
+        {
+          "slug": "thompson-twins",
+          "title": "Thompson Twins",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-03",
+        "title": "March 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 3
+      },
+      "rank": 54
+    },
+    {
+      "title": "Don't Cha",
+      "instanceSlug": 2427,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2005,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pussycat-dolls": 1,
+        "genre:dance-pop": 55,
+        "decade:2000s": 54,
+        "year:2005": 7
+      },
+      "artists": [
+        {
+          "slug": "pussycat-dolls",
+          "title": "Pussycat Dolls",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2005,
+        "title": 2005,
+        "decade": 2000,
+        "year": 2005
+      },
+      "rank": 55
+    },
+    {
+      "title": "Rock Your Body",
+      "instanceSlug": 2258,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-pop",
+      "debut": 2003,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:justin-timberlake": 4,
+        "genre:dance-pop": 43,
+        "decade:2000s": 39,
+        "year:2003": 8
+      },
+      "artists": [
+        {
+          "slug": "justin-timberlake",
+          "title": "Justin Timberlake",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-pop",
+          "title": "Dance-Pop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2003,
+        "title": 2003,
+        "decade": 2000,
+        "year": 2003
+      },
+      "rank": 56
+    }
+  ],
+  "score": 322.004,
+  "songCount": 56,
+  "songAdjustedAverage": 43.029594470384154,
+  "artistCount": 13,
+  "artistAdjustedAverage": 89.30784099265435
+}

@@ -1,1 +1,713 @@
-{"instanceSlug":"hip-hop","title":"Hip Hop","parents":["urban"],"artists":["montell-jordan"],"songs":[{"title":"Lean On Me","instanceSlug":2019,"tags":[],"parents":[],"genre":"hip-hop","debut":"1987-03","playlists":[],"ranks":[14,5,2.9,2.1,2.3,2.59,3,3.47,4.58,6.75,11.02,19.74,38.5,81.15,183.93,445.97],"artists":[{"slug":"club-nouveau","title":"Club Nouveau","roleSlug":true}],"debutRank":14,"peakRank":2.1,"duration":4,"score":17,"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":1},{"title":"This Is How We Do It","instanceSlug":296,"tags":["#1","do-it","this-is"],"parents":[],"genre":"hip-hop","debut":"1995-03","playlists":[],"ranks":[16,9.9,5,3.9,3.3,3.5,3.7,3.9,4.3,4.74,5.71,7.47,10.54,15.94,25.75,44.24,80.53,154.87,313.72,667.65],"artists":[{"slug":"montell-jordan","title":"Montell Jordan","roleSlug":true}],"debutRank":16,"peakRank":3.3,"duration":5,"score":16.96,"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":2},{"title":"Do You Want Me","instanceSlug":1145,"tags":["do","me","want","you"],"parents":[],"genre":"hip-hop","debut":1991,"playlists":[],"ranks":[13,3.5,1.5,1.68,1.88,2.33,3.17,4.7,7.51,12.92,23.78,46.61,96.95,213.28,494.82,1207.36],"artists":[{"slug":"salt-n-pepa","title":"Salt N Pepa","roleSlug":true}],"debutRank":13,"peakRank":1.5,"duration":4,"score":16.5,"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":3},{"title":"Killing Me Softly","instanceSlug":1959,"tags":[],"parents":[],"genre":"hip-hop","debut":"1996-04","playlists":[{"slug":"remake","title":"Remakes"},{"slug":"summer","title":"Songs of Summer"}],"ranks":[19,10,7,5.5,4.5,5.2,6.01,7.88,11.55,18.74,33.32,64.43],"artists":[{"slug":"fugees","title":"Fugees","roleSlug":true}],"debutRank":19,"peakRank":4.5,"duration":3,"score":8.71,"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":4},{"title":"Motownphilly","instanceSlug":163,"tags":["detroit","philadelphia","songs-of-summer"],"parents":[],"genre":"hip-hop","debut":"1991-07","ranks":[16.5,9.5,5.4,4.4,5.5,6.88,10.31,18.05,36.09,81.21,203.03,558.33],"artists":[{"slug":"boyz-ii-men","title":"Boyz II Men","roleSlug":true},{"slug":"michael-bivins","title":"Michael Bivins","roleSlug":"backup"}],"debutRank":16.5,"peakRank":4.4,"duration":3,"score":6.92,"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"playlists":[],"source":null,"rank":5},{"title":"Just Kick It","instanceSlug":1197,"tags":[],"parents":[],"genre":"hip-hop","debut":"1993-11","playlists":[],"ranks":[],"artists":[{"slug":"xscape","title":"Xscape","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":6},{"title":"Jump Around","instanceSlug":1073,"tags":["s:1068","sample"],"parents":[],"genre":"hip-hop","debut":"1992-08","playlists":[],"ranks":[],"artists":[{"slug":"house-of-pain","title":"House of Pain","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":7},{"title":"Ain't Too Proud to Beg","instanceSlug":1077,"tags":[],"parents":[],"genre":"hip-hop","debut":"1992-04","playlists":[],"ranks":[],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":8},{"title":"Never Gonna Get It","instanceSlug":1706,"tags":[],"parents":[],"genre":"hip-hop","debut":"1992-06","playlists":[],"ranks":[],"artists":[{"slug":"en-vogue","title":"En Vogue","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":9},{"title":"Jump","instanceSlug":1068,"tags":[],"parents":[],"genre":"hip-hop","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"kriss-kross","title":"Kriss Kross","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":10},{"title":"Downtown","instanceSlug":1179,"tags":[],"parents":[],"genre":"hip-hop","debut":"1993-11","playlists":[],"ranks":[],"artists":[{"slug":"swv","title":"SWV","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":11},{"title":"Back in the Day","instanceSlug":2092,"tags":[],"parents":[],"genre":"hip-hop","debut":"1994-07","playlists":[],"ranks":[],"artists":[{"slug":"ahmad","title":"Ahmad","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":12},{"title":"Runaway Love","instanceSlug":1200,"tags":["love","runaway"],"parents":[],"genre":"hip-hop","debut":"1993-10","playlists":[],"ranks":[],"artists":[{"slug":"en-vogue","title":"En Vogue","roleSlug":true}],"genres":[{"slug":"hip-hop","title":"Hip Hop"}],"source":null,"rank":13}],"score":66.09,"songAdjustedAverage":18.33,"artistAdjustedAverage":66.09}
+{
+  "instanceSlug": "hip-hop",
+  "title": "Hip Hop",
+  "parents": [
+    "urban"
+  ],
+  "artists": [
+    "montell-jordan"
+  ],
+  "songs": [
+    {
+      "title": "Do You Want Me",
+      "instanceSlug": 1145,
+      "tags": [
+        "do",
+        "me",
+        "want",
+        "you"
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": 1991,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:salt-n-pepa": 1,
+        "genre:hip-hop": 1,
+        "decade:1990s": 83,
+        "year:1991": 17
+      },
+      "artists": [
+        {
+          "slug": "salt-n-pepa",
+          "title": "Salt N Pepa",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.582,
+        0.864,
+        0.827,
+        0.822,
+        0.812,
+        0.797,
+        0.777,
+        0.752,
+        0.722,
+        0.687,
+        0.647,
+        0.602,
+        0.552,
+        0.497,
+        0.437,
+        0.372,
+        0.302,
+        0.227,
+        0.147,
+        0.062,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 11.631999999999998,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1991,
+        "title": 1991,
+        "decade": 1990,
+        "year": 1991
+      },
+      "rank": 1
+    },
+    {
+      "title": "Lean On Me",
+      "instanceSlug": 2019,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1987-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:club-nouveau": 1,
+        "genre:hip-hop": 2,
+        "decade:1980s": 184,
+        "year:1987": 38
+      },
+      "artists": [
+        {
+          "slug": "club-nouveau",
+          "title": "Club Nouveau",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.645,
+        0.752,
+        0.722,
+        0.682,
+        0.633,
+        0.628,
+        0.618,
+        0.603,
+        0.583,
+        0.558,
+        0.528,
+        0.493,
+        0.453,
+        0.408,
+        0.358,
+        0.303,
+        0.243,
+        0.178,
+        0.108,
+        0.033,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 10.112000000000002,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-03",
+        "title": "March 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 3
+      },
+      "rank": 2
+    },
+    {
+      "title": "This Is How We Do It",
+      "instanceSlug": 296,
+      "tags": [
+        "#1",
+        "do-it",
+        "this-is"
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1995-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:montell-jordan": 1,
+        "genre:hip-hop": 3,
+        "decade:1990s": 193,
+        "year:1995": 17
+      },
+      "artists": [
+        {
+          "slug": "montell-jordan",
+          "title": "Montell Jordan",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.235,
+        0.463,
+        0.546,
+        0.602,
+        0.582,
+        0.563,
+        0.546,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.602,
+      "duration": 6,
+      "score": 8.519,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-03",
+        "title": "March 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 3
+      },
+      "rank": 3
+    },
+    {
+      "title": "Killing Me Softly",
+      "instanceSlug": 1959,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1996-04",
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        },
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:fugees": 1,
+        "genre:hip-hop": 4,
+        "playlist:summer": 123,
+        "playlist:remake": 13,
+        "source:summer": 123,
+        "source:remake": 13,
+        "decade:1990s": 304,
+        "year:1996": 26
+      },
+      "artists": [
+        {
+          "slug": "fugees",
+          "title": "Fugees",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.351,
+        0.431,
+        0.498,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.498,
+      "duration": 5,
+      "score": 5.559999999999998,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-04",
+        "title": "April 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 4
+      },
+      "rank": 4
+    },
+    {
+      "title": "Motownphilly",
+      "instanceSlug": 163,
+      "tags": [
+        "detroit",
+        "philadelphia"
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "genre": "hip-hop",
+      "debut": "1991-07",
+      "ranks": {
+        "artist:boyz-ii-men": 5,
+        "artist:michael-bivins": 1,
+        "genre:hip-hop": 5,
+        "playlist:summer": 131,
+        "source:summer": 131,
+        "decade:1990s": 327,
+        "year:1991": 65
+      },
+      "artists": [
+        {
+          "slug": "boyz-ii-men",
+          "title": "Boyz II Men",
+          "roleSlug": true
+        },
+        {
+          "slug": "michael-bivins",
+          "title": "Michael Bivins",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.065,
+        0.249,
+        0.437,
+        0.506,
+        0.431,
+        0.426,
+        0.416,
+        0.401,
+        0.381,
+        0.356,
+        0.326,
+        0.291,
+        0.251,
+        0.206,
+        0.156,
+        0.101,
+        0.041,
+        0
+      ],
+      "debutScore": 0.065,
+      "peakScore": 0.506,
+      "duration": 5,
+      "score": 5.040000000000001,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-07",
+        "title": "July 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 7
+      },
+      "rank": 5
+    },
+    {
+      "title": "Just Kick It",
+      "instanceSlug": 1197,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1993-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:xscape": 2,
+        "genre:hip-hop": 6,
+        "decade:1990s": 692,
+        "year:1993": 98
+      },
+      "artists": [
+        {
+          "slug": "xscape",
+          "title": "Xscape",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-11",
+        "title": "November 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 11
+      },
+      "rank": 6
+    },
+    {
+      "title": "Runaway Love",
+      "instanceSlug": 1200,
+      "tags": [
+        "love",
+        "runaway"
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1993-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:en-vogue": 5,
+        "genre:hip-hop": 13,
+        "decade:1990s": 677,
+        "year:1993": 94
+      },
+      "artists": [
+        {
+          "slug": "en-vogue",
+          "title": "En Vogue",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-10",
+        "title": "October 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 10
+      },
+      "rank": 7
+    },
+    {
+      "title": "Ain't Too Proud to Beg",
+      "instanceSlug": 1077,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1992-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tlc": 9,
+        "genre:hip-hop": 8,
+        "decade:1990s": 721,
+        "year:1992": 91
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-04",
+        "title": "April 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 4
+      },
+      "rank": 8
+    },
+    {
+      "title": "Never Gonna Get It",
+      "instanceSlug": 1706,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1992-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:en-vogue": 6,
+        "genre:hip-hop": 9,
+        "decade:1990s": 573,
+        "year:1992": 76
+      },
+      "artists": [
+        {
+          "slug": "en-vogue",
+          "title": "En Vogue",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-06",
+        "title": "June 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 6
+      },
+      "rank": 9
+    },
+    {
+      "title": "Jump",
+      "instanceSlug": 1068,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kriss-kross": 1,
+        "genre:hip-hop": 10,
+        "decade:1990s": 754,
+        "year:1992": 115
+      },
+      "artists": [
+        {
+          "slug": "kriss-kross",
+          "title": "Kriss Kross",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 10
+    },
+    {
+      "title": "Downtown",
+      "instanceSlug": 1179,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1993-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:swv": 3,
+        "genre:hip-hop": 11,
+        "decade:1990s": 787,
+        "year:1993": 103
+      },
+      "artists": [
+        {
+          "slug": "swv",
+          "title": "SWV",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-11",
+        "title": "November 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 11
+      },
+      "rank": 11
+    },
+    {
+      "title": "Back in the Day",
+      "instanceSlug": 2092,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1994-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ahmad": 1,
+        "genre:hip-hop": 12,
+        "decade:1990s": 832,
+        "year:1994": 38
+      },
+      "artists": [
+        {
+          "slug": "ahmad",
+          "title": "Ahmad",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-07",
+        "title": "July 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 7
+      },
+      "rank": 12
+    },
+    {
+      "title": "Jump Around",
+      "instanceSlug": 1073,
+      "tags": [
+        "s:1068",
+        "sample"
+      ],
+      "parents": [
+      ],
+      "genre": "hip-hop",
+      "debut": "1992-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:house-of-pain": 1,
+        "genre:hip-hop": 7,
+        "decade:1990s": 728,
+        "year:1992": 132
+      },
+      "artists": [
+        {
+          "slug": "house-of-pain",
+          "title": "House of Pain",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "hip-hop",
+          "title": "Hip Hop"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-08",
+        "title": "August 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 8
+      },
+      "rank": 13
+    }
+  ],
+  "score": 40.86299999999999,
+  "songCount": 13,
+  "songAdjustedAverage": 11.333357059175768,
+  "artistCount": 1,
+  "artistAdjustedAverage": 40.86299999999999
+}

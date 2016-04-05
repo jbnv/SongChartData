@@ -1,1 +1,163 @@
-{"instanceSlug":"urban-rock","title":"Urban Rock","parents":["rock"],"artists":["hot-chocolate"],"songs":[{"title":"Everyone's a Winner","instanceSlug":478,"tags":["everyone","win"],"parents":[],"genre":"urban-rock","debut":"1978-12","playlists":[],"ranks":[15.5,6.4,4.3,5,5.81,7.71,11.47,18.94,34.36,67.91,145.3,334.54],"artists":[{"slug":"hot-chocolate","title":"Hot Chocolate","roleSlug":true}],"debutRank":15.5,"peakRank":4.3,"duration":3,"score":7.15,"genres":[{"slug":"urban-rock","title":"Urban Rock"}],"source":null,"rank":1},{"title":"You Sexy Thing","instanceSlug":2482,"tags":[],"parents":[],"genre":"urban-rock","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"hot-chocolate","title":"Hot Chocolate","roleSlug":true}],"genres":[{"slug":"urban-rock","title":"Urban Rock"}],"source":null,"rank":2},{"title":"Vehicle","instanceSlug":2497,"tags":[],"parents":[],"genre":"urban-rock","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"ides-of-march","title":"Ides of March","roleSlug":true}],"genres":[{"slug":"urban-rock","title":"Urban Rock"}],"source":null,"rank":3}],"score":7.15,"songAdjustedAverage":4.13,"artistAdjustedAverage":7.15}
+{
+  "instanceSlug": "urban-rock",
+  "title": "Urban Rock",
+  "parents": [
+    "rock"
+  ],
+  "artists": [
+    "hot-chocolate"
+  ],
+  "songs": [
+    {
+      "title": "Everyone's a Winner",
+      "instanceSlug": 478,
+      "tags": [
+        "everyone",
+        "win"
+      ],
+      "parents": [
+      ],
+      "genre": "urban-rock",
+      "debut": "1978-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:hot-chocolate": 1,
+        "genre:urban-rock": 1,
+        "decade:1970s": 66,
+        "year:1978": 12
+      },
+      "artists": [
+        {
+          "slug": "hot-chocolate",
+          "title": "Hot Chocolate",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.086,
+        0.381,
+        0.513,
+        0.463,
+        0.458,
+        0.448,
+        0.433,
+        0.413,
+        0.388,
+        0.358,
+        0.323,
+        0.283,
+        0.238,
+        0.188,
+        0.133,
+        0.073,
+        0.008,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.513,
+      "duration": 5,
+      "score": 5.187,
+      "genres": [
+        {
+          "slug": "urban-rock",
+          "title": "Urban Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1978-12",
+        "title": "December 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 12
+      },
+      "rank": 1
+    },
+    {
+      "title": "You Sexy Thing",
+      "instanceSlug": 2482,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban-rock",
+      "debut": 1975,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:hot-chocolate": 3,
+        "genre:urban-rock": 2,
+        "decade:1970s": 286,
+        "year:1975": 28
+      },
+      "artists": [
+        {
+          "slug": "hot-chocolate",
+          "title": "Hot Chocolate",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban-rock",
+          "title": "Urban Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 2
+    },
+    {
+      "title": "Vehicle",
+      "instanceSlug": 2497,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban-rock",
+      "debut": 1970,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ides-of-march": 1,
+        "genre:urban-rock": 3,
+        "decade:1970s": 289,
+        "year:1970": 15
+      },
+      "artists": [
+        {
+          "slug": "ides-of-march",
+          "title": "Ides of March",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban-rock",
+          "title": "Urban Rock"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1970,
+        "title": 1970,
+        "decade": 1970,
+        "year": 1970
+      },
+      "rank": 3
+    }
+  ],
+  "score": 5.187,
+  "songCount": 3,
+  "songAdjustedAverage": 2.994715846286589,
+  "artistCount": 1,
+  "artistAdjustedAverage": 5.187
+}

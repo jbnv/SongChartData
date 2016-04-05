@@ -1,1 +1,316 @@
-{"instanceSlug":"latin-dance","title":"Latin Dance","parents":["dance","latin"],"artists":["miami-sound-machine"],"songs":[{"title":"Living La Vida Loca","instanceSlug":1041,"tags":["crazy","living"],"parents":[],"genre":"latin-dance","debut":"1999-02","playlists":[],"ranks":[11,4,2,1.5,1.7,1.9,2.1,2.4,2.8,3.5,4.38,6.56,11.48,22.97,51.68,129.2],"artists":[{"slug":"ricky-martin","title":"Ricky Martin","roleSlug":true}],"debutRank":11,"peakRank":1.5,"duration":4,"score":23.25,"genres":[{"slug":"latin-dance","title":"Latin Dance"}],"source":null,"rank":1}],"score":23.25,"songAdjustedAverage":23.25,"artistAdjustedAverage":23.25}
+{
+  "instanceSlug": "latin-dance",
+  "title": "Latin Dance",
+  "parents": [
+    "dance",
+    "latin"
+  ],
+  "artists": [
+    "miami-sound-machine"
+  ],
+  "songs": [
+    {
+      "title": "Rhythm is Gonna Get You",
+      "instanceSlug": 342,
+      "tags": [
+        "get-you"
+      ],
+      "genre": "latin-dance",
+      "debut": "1987-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:miami-sound-machine": 1,
+        "artist:gloria-estefan": 2,
+        "genre:latin-dance": 1,
+        "playlist:summer": 22,
+        "source:summer": 22,
+        "decade:1980s": 60,
+        "year:1987": 8
+      },
+      "artists": [
+        {
+          "slug": "miami-sound-machine",
+          "title": "Miami Sound Machine",
+          "roleSlug": true
+        },
+        {
+          "slug": "gloria-estefan",
+          "title": "Gloria Estefan",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.12,
+        0.537,
+        0.939,
+        0.925,
+        0.885,
+        0.88,
+        0.87,
+        0.855,
+        0.835,
+        0.81,
+        0.78,
+        0.745,
+        0.705,
+        0.66,
+        0.61,
+        0.555,
+        0.495,
+        0.43,
+        0.36,
+        0.285,
+        0.205,
+        0.12,
+        0.03,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.939,
+      "duration": 6,
+      "score": 13.635999999999994,
+      "genres": [
+        {
+          "slug": "latin-dance",
+          "title": "Latin Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-06",
+        "title": "June 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 6
+      },
+      "rank": 1
+    },
+    {
+      "title": "Living La Vida Loca",
+      "instanceSlug": 1041,
+      "tags": [
+        "crazy",
+        "living"
+      ],
+      "parents": [
+      ],
+      "genre": "latin-dance",
+      "debut": "1999-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ricky-martin": 2,
+        "genre:latin-dance": 2,
+        "decade:1990s": 71,
+        "year:1999": 10
+      },
+      "artists": [
+        {
+          "slug": "ricky-martin",
+          "title": "Ricky Martin",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.2,
+        0.537,
+        0.768,
+        0.864,
+        0.823,
+        0.786,
+        0.752,
+        0.708,
+        0.656,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.864,
+      "duration": 7,
+      "score": 12.024000000000001,
+      "genres": [
+        {
+          "slug": "latin-dance",
+          "title": "Latin Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-02",
+        "title": "February 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 2
+      },
+      "rank": 2
+    },
+    {
+      "title": "Macarena",
+      "instanceSlug": 396,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "genre": "latin-dance",
+      "debut": "1996-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:los-del-rio": 1,
+        "genre:latin-dance": 3,
+        "playlist:summer": 45,
+        "source:summer": 45,
+        "decade:1990s": 88,
+        "year:1996": 5
+      },
+      "artists": [
+        {
+          "slug": "los-del-rio",
+          "title": "Los del Rio",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.521,
+        0.823,
+        0.804,
+        0.777,
+        0.772,
+        0.762,
+        0.747,
+        0.727,
+        0.702,
+        0.672,
+        0.637,
+        0.597,
+        0.552,
+        0.502,
+        0.447,
+        0.387,
+        0.322,
+        0.252,
+        0.177,
+        0.097,
+        0.012,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.823,
+      "duration": 6,
+      "score": 11.365999999999998,
+      "genres": [
+        {
+          "slug": "latin-dance",
+          "title": "Latin Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-06",
+        "title": "June 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 6
+      },
+      "rank": 3
+    },
+    {
+      "title": "Conga",
+      "instanceSlug": 1741,
+      "tags": [
+      ],
+      "genre": "latin-dance",
+      "debut": "1985-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:miami-sound-machine": 7,
+        "artist:gloria-estefan": 10,
+        "genre:latin-dance": 4,
+        "decade:1980s": 583,
+        "year:1985": 48
+      },
+      "artists": [
+        {
+          "slug": "miami-sound-machine",
+          "title": "Miami Sound Machine",
+          "roleSlug": true
+        },
+        {
+          "slug": "gloria-estefan",
+          "title": "Gloria Estefan",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.315,
+        0.408,
+        0.45,
+        0.437,
+        0.408,
+        0.341,
+        0.336,
+        0.326,
+        0.311,
+        0.291,
+        0.266,
+        0.236,
+        0.201,
+        0.161,
+        0.116,
+        0.066,
+        0.011,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.45,
+      "duration": 5,
+      "score": 4.715999999999998,
+      "genres": [
+        {
+          "slug": "latin-dance",
+          "title": "Latin Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-12",
+        "title": "December 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 12
+      },
+      "rank": 4
+    }
+  ],
+  "score": 41.742,
+  "songCount": 4,
+  "songAdjustedAverage": 20.871,
+  "artistCount": 1,
+  "artistAdjustedAverage": 41.742
+}

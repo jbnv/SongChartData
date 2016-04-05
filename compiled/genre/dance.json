@@ -1,1 +1,7610 @@
-{"instanceSlug":"dance","title":"Dance","parents":[],"artists":["black-box","cathy-dennis","cece-peniston","dead-or-alive","donna-summer","jellybean","jive-bunny","kylie-minogue","lisa-stansfield","miami-sound-machine","michael-jackson","nikki-french","paula-abdul","quad-city-djs","samantha-fox","shalamar","shannon","sweet-sensation"],"songs":[{"title":"The Way That You Love Me","instanceSlug":299,"tags":["love","me","way","you","you-and-me"],"parents":[],"genre":"dance","debut":"1989-10","playlists":[],"ranks":[12,3.2,1.05,1.13,1.23,1.34,1.46,1.59,1.78,1.99,2.47,3.35,4.96,7.92,13.6,24.97,48.84,101.37,222.5,514.98],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":12,"peakRank":1.05,"duration":5,"score":30.18,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":1},{"title":"Rhythm Nation","instanceSlug":289,"tags":["#1","#1-r&b","sample"],"parents":[],"genre":"dance","debut":"1989-12","playlists":[],"ranks":[13,3,1.09,1.11,1.22,1.34,1.47,1.69,1.94,2.52,3.66,5.85,10.22,19.4,39.73,87.3],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":13,"peakRank":1.09,"duration":4,"score":26.8,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":2},{"title":"Celebration","instanceSlug":765,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1980-12","playlists":[],"ranks":[13,2.55,1,1.04,1.11,1.22,1.34,1.61,2.08,2.91,4.35,6.94,11.76,21.08,39.87,79.39],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":13,"peakRank":1,"duration":4,"score":26.71,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":3},{"title":"Mambo #5","instanceSlug":566,"tags":[],"parents":[],"genre":"dance","debut":"1999-09","playlists":[],"ranks":[11.5,5.2,2.9,2.4,2.5,2.6,2.75,2.95,3.2,3.56,3.93,4.3,4.9,5.58,7.14,10.13,15.79,26.8,49.24,97.33],"artists":[{"slug":"lou-bega","title":"Lou Bega","roleSlug":true}],"debutRank":11.5,"peakRank":2.4,"duration":5,"score":25.39,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":4},{"title":"Upside Down","instanceSlug":527,"tags":[],"parents":[],"genre":"dance","debut":"1980-08","playlists":[],"ranks":[10,5.6,3.2,2,2.05,2.14,2.27,2.45,2.69,2.97,3.28,3.96,5.2,7.36,11.2,18.19,31.44,57.62,111.6,227.77],"artists":[{"slug":"diana-ross","title":"Diana Ross","roleSlug":true}],"debutRank":10,"peakRank":2,"duration":5,"score":25.32,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":5},{"title":"100% Pure Love","instanceSlug":1289,"tags":["love","pure"],"parents":[],"genre":"dance","debut":"1994-09","playlists":[],"ranks":[15,6,3.8,2.9,2.5,2.6,2.7,2.8,2.93,3.13,3.45,3.79,4.5,5.34,7.34,11.47,20.07,38.87,82.56,190.82],"artists":[{"slug":"crystal-waters","title":"Crystal Waters","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":5,"score":24.81,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":6},{"title":"C'mon and Get My Love","instanceSlug":1351,"tags":["c'mon","get","get-love","love","my","my-love"],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[15,5,3,1.9,1.4,1.3,1.45,1.7,1.99,2.68,4.07,6.87,12.8,26.03,57.45,136.69],"artists":[{"slug":"d-mob","title":"D-Mob","roleSlug":true},{"slug":"cathy-dennis","title":"Cathy Dennis","roleSlug":"feature"}],"debutRank":15,"peakRank":1.3,"duration":4,"score":23.89,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":7},{"title":"Whirly Girl","instanceSlug":1613,"tags":[],"genre":"dance","debut":"1983-04","playlists":[],"ranks":[9,1.5,1.08,1.17,1.27,1.48,1.85,2.46,3.49,5.24,8.29,13.82,24.19,44.34,84.99,169.97],"artists":[{"slug":"oxo","title":"OXO","roleSlug":true}],"debutRank":9,"peakRank":1.08,"duration":4,"score":23.37,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":8},{"title":"Waiting for Tonight","instanceSlug":1447,"tags":["tonight","wait"],"parents":[],"genre":"dance","debut":"1999-11","playlists":[],"ranks":[14,4,2.5,1.75,1.65,1.75,1.85,1.99,2.45,3.02,4.41,7.47,14.38,30.99,73.98,193.67],"artists":[{"slug":"jennifer-lopez","title":"Jennifer Lopez","roleSlug":true}],"debutRank":14,"peakRank":1.65,"duration":4,"score":22.97,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":9},{"title":"Centipede","instanceSlug":2359,"tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"funk","title":"Funk"},{"slug":"dance","title":"Dance"}],"debut":"1984-12","playlists":[],"ranks":[12,2.2,1,1.09,1.19,1.4,1.78,2.42,3.51,5.41,8.81,15.16,27.44,52.13,103.75,215.79],"artists":[{"slug":"rebbie-jackson","title":"Rebbie Jackson","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"writer"}],"debutRank":12,"peakRank":1,"duration":4,"score":22.83,"source":null,"rank":10},{"title":"Catch Me I'm Falling","instanceSlug":785,"tags":[],"parents":[],"genre":"dance","debut":"1987-10","playlists":[],"ranks":[15.1,8.6,4.6,2.4,2.3,2.35,2.4,2.5,2.65,2.9,3.5,4.22,5.97,9.68,17.69,35.99,80.66,197.48,524.35,1500.74],"artists":[{"slug":"pretty-poison","title":"Pretty Poison","roleSlug":true}],"debutRank":15.1,"peakRank":2.3,"duration":5,"score":22.59,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":11},{"title":"Vibeology","instanceSlug":2060,"tags":[],"parents":[],"genre":"dance","debut":"1992-02","playlists":[],"ranks":[10,1.8,1.3,1.1,1.24,1.4,1.75,2.42,3.66,5.98,10.55,19.96,40.27,86.41,196.38,471.3],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":10,"peakRank":1.1,"duration":4,"score":22.32,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":12},{"title":"Another Night","instanceSlug":408,"tags":[],"parents":[],"genre":"dance","debut":"1994-09","playlists":[],"ranks":[12.5,4.2,1.75,1.25,1.35,1.52,1.71,2.14,2.95,4.44,7.23,12.7,23.89,47.96,102.32,231.16],"artists":[{"slug":"real-mccoy","title":"Real McCoy","roleSlug":true}],"debutRank":12.5,"peakRank":1.25,"duration":4,"score":22.15,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":13},{"title":"I Wanna Be The One","instanceSlug":308,"tags":["i-want","the-one","want"],"parents":[],"genre":"dance","debut":1990,"playlists":[],"ranks":[10,5.2,2.7,1.4,1.1,1.5,2,2.6,3.5,4.7,6.3,8.44,14.19,28.69,67.76,183.09],"artists":[{"slug":"stevie-b","title":"Stevie B","roleSlug":true}],"debutRank":10,"peakRank":1.1,"duration":4,"score":22.14,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":14},{"title":"Come and Get Your Love","instanceSlug":323,"tags":["your-love"],"playlists":[{"slug":"remake","title":"Remakes"},{"slug":"summer","title":"Songs of Summer"}],"parents":[],"genre":"dance","debut":"1995-06","ranks":[10,1,1.085,1.18,1.38,1.73,2.32,3.3,4.98,7.95,13.36,23.57,43.61,84.38,170.45,358.8],"artists":[{"slug":"real-mccoy","title":"Real McCoy","roleSlug":true}],"debutRank":10,"peakRank":1,"duration":4,"score":21.27,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":15},{"title":"Lovergirl","instanceSlug":1133,"tags":["lover"],"parents":[],"genre":"dance","debut":"1985-02","playlists":[],"ranks":[13.5,5.5,3.2,2.7,2.5,2.7,2.9,3.2,3.5,3.8,4.5,5.33,7.29,11.32,19.66,37.78,79.53,182.08,450.42,1197.16],"artists":[{"slug":"teena-marie","title":"Teena Marie","roleSlug":true}],"debutRank":13.5,"peakRank":2.5,"duration":5,"score":21.24,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":16},{"title":"Just Another Dream","instanceSlug":1143,"tags":[],"genres":[{"slug":"dance","title":"Dance"},{"slug":"pop","title":"Pop"}],"debut":"1990-12","playlists":[],"ranks":[12,2.5,1.5,1.58,1.68,1.91,2.17,2.77,3.9,6.04,10.17,18.53,36.29,76.03,169.71,402.04],"artists":[{"slug":"cathy-dennis","title":"Cathy Dennis","roleSlug":true},{"slug":"rick-astley","title":"Rick Astley","roleSlug":"backup"}],"debutRank":12,"peakRank":1.5,"duration":4,"score":20.38,"source":null,"rank":17},{"title":"Rhythm is Gonna Get You","instanceSlug":342,"tags":["get-you","songs-of-summer"],"parents":[],"genre":"dance","debut":"1987-07","playlists":[],"ranks":[14,4,1.2,1.25,1.41,1.59,2,2.76,4.18,6.86,12.12,22.98,46.51,100.1,228.22,549.56],"artists":[{"slug":"miami-sound-machine","title":"Miami Sound Machine","roleSlug":true}],"debutRank":14,"peakRank":1.2,"duration":4,"score":20.2,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":18},{"title":"I Feel For You","instanceSlug":436,"tags":["#1","#1-r&b"],"parents":[],"genre":"dance","debut":"1984-10","playlists":[],"ranks":[6.9,3.8,2,1.14,1.21,1.5,1.86,2.75,4.73,9.26,20.36,49.64,132.92,387.78,1224.24,4158.36],"artists":[{"slug":"chaka-khan","title":"Chaka Khan","roleSlug":true},{"slug":"grandmaster-mellie-mel","title":"Grandmaster Mellie Mel","roleSlug":"backup"},{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":"backup"}],"debutRank":6.9,"peakRank":1.14,"duration":4,"score":19.9,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":19},{"title":"Will2K","instanceSlug":1442,"tags":[],"parents":[],"genre":"dance","debut":"1999-11","playlists":[],"ranks":[3.8,1.04,1.12,1.2,1.4,2,2.86,5.31,12.13,32.92,103.46,369.51],"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true},{"slug":"k-ci","title":"K-Ci","roleSlug":"feature"}],"note":"Project 4 weeks at #1 but rapid descent.","debutRank":3.8,"peakRank":1.04,"duration":3,"score":19.08,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":20},{"title":"Everybody Everybody","instanceSlug":178,"tags":[],"parents":["summer"],"genre":"dance","debut":"1990-08","ranks":[10,1.1,1.21,1.33,1.6,2.08,2.91,4.36,6.98,11.86,21.35,40.56,81.12,170.36,374.79,862.02],"artists":[{"slug":"black-box","title":"Black Box","roleSlug":true}],"note":"Project 6 weeks at #1.","debutRank":10,"peakRank":1.1,"duration":4,"score":18.97,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":21},{"title":"This Is Your Night","instanceSlug":1386,"tags":["night","this-is","your"],"parents":[],"genre":"dance","debut":"1996-10","playlists":[],"ranks":[12,2,2.05,2.12,2.29,2.52,2.89,3.31,4.29,6.18,9.8,17,31.98,64.84,141.01,327.33],"artists":[{"slug":"amber","title":"Amber","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":4,"score":18.95,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":22},{"title":"Ready for This","instanceSlug":1816,"tags":[],"parents":[],"genre":"dance","debut":"1995-01","playlists":[],"ranks":[15,7,4.5,3.2,2.78,2.5,2.65,2.92,3.4,3.96,5.26,7.85,13.02,23.72,47.12,101.33],"artists":[{"slug":"2-unlimited","title":"2 Unlimited","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":4,"score":18.81,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":23},{"title":"If I Only Knew","instanceSlug":1824,"tags":[],"parents":[],"genre":"dance","debut":"1995-01","playlists":[],"ranks":[11,2.8,1.9,1.35,1.25,1.6,2.05,3.19,5.88,12.46,29.91,80.16],"artists":[{"slug":"tom-jones","title":"Tom Jones","roleSlug":true}],"debutRank":11,"peakRank":1.25,"duration":3,"score":18.77,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":24},{"title":"Rhythm of the Night","instanceSlug":1823,"tags":[],"parents":[],"genre":"dance","debut":"1995-01","playlists":[],"ranks":[14.6,7,3.5,2.9,2.5,2.3,2.52,2.9,3.34,4.34,6.31,10.11,17.74,33.79,69.46,153.25],"artists":[{"slug":"corona","title":"Corona","roleSlug":true}],"debutRank":14.6,"peakRank":2.3,"duration":4,"score":18.61,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":25},{"title":"Baby Love","instanceSlug":292,"tags":[],"parents":[],"genre":"dance","debut":"1986-08","playlists":[],"ranks":[17,10,6,3.9,3.4,3,3.2,3.5,3.8,4.1,4.8,5.62,7.54,11.4,19.18,35.56,71.99,158.03,373.87,948.35],"artists":[{"slug":"regina","title":"Regina","roleSlug":true}],"debutRank":17,"peakRank":3,"duration":5,"score":18.52,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":26},{"title":"She Works Hard for the Money","instanceSlug":521,"tags":["#1","#1-r&b"],"parents":[],"genre":"dance","debut":"1983-07","playlists":[],"ranks":[13,3.9,2.1,1.9,2.1,2.45,2.9,3.5,4.22,5.97,9.68,17.69,35.99,80.66,197.48,524.35],"artists":[{"slug":"donna-summer","title":"Donna Summer","roleSlug":true}],"debutRank":13,"peakRank":1.9,"duration":4,"score":18.37,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":27},{"title":"Don't Stop 'Til You Get Enough","instanceSlug":1230,"tags":[],"source":{"title":"Off the Wall","instanceSlug":"off-the-wall","tags":[],"type":"album"},"genre":"dance","debut":"1979-09","playlists":[],"ranks":[16,7,3.9,3.2,2.9,3.15,3.43,3.74,4.15,4.6,5.61,7.46,10.73,16.62,27.54,48.68,91.38,181.53,380.54,839.42],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":16,"peakRank":2.9,"duration":5,"score":18.13,"genres":[{"slug":"dance","title":"Dance"}],"rank":28},{"title":"So Emotional","instanceSlug":944,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance","debut":"1987-11","playlists":[],"ranks":[15,8.5,4.8,3.1,2.5,2.7,2.9,3.3,3.8,4.38,5.7,8.29,13.32,23.41,44.69,92.09],"artists":[{"slug":"whitney-houston","title":"Whitney Houston","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":4,"score":18.03,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":29},{"title":"Shake Your Body (Down To The Ground)","instanceSlug":1225,"tags":["body","down","ground","shake","your"],"parents":[],"genre":"dance","debut":"1979-04","playlists":[],"ranks":[12.5,2.4,1.2,1.4,1.67,1.99,2.76,4.36,7.72,15.16,32.71,76.86],"artists":[{"slug":"jackson-5-jacksons"}],"debutRank":12.5,"peakRank":1.2,"duration":3,"score":17.63,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":30},{"title":"Dynamite","instanceSlug":1751,"tags":[],"parents":[],"genre":"dance","debut":"2010s","playlists":[],"ranks":[17,9,5,3.9,3,2.5,2.75,3.1,3.49,4.38,6.06,9.14,14.96,26.38,49.89,100.68],"artists":[{"slug":"taio-cruz","title":"Taio Cruz","roleSlug":true}],"debutRank":17,"peakRank":2.5,"duration":4,"score":17.39,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":31},{"title":"Party All the Time","instanceSlug":486,"tags":[],"parents":[],"genre":"dance","debut":"1985-12","playlists":[],"ranks":[17,10,5,2.9,2.7,2.65,2.8,3.2,3.66,4.7,6.72,10.56,18.1,33.61,67.21,144.02],"artists":[{"slug":"eddie-murphy","title":"Eddie Murphy","roleSlug":true}],"debutRank":17,"peakRank":2.65,"duration":4,"score":17.03,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":32},{"title":"It's Raining Men","instanceSlug":1024,"tags":[],"parents":[],"genre":"dance","debut":1983,"playlists":[],"ranks":[18,10,7,5,3.5,3.3,3.5,3.7,3.9,4.5,5.19,6.79,9.92,16.03,28.36,54.54],"artists":[{"slug":"weather-girls","title":"Weather Girls","roleSlug":true}],"debutRank":18,"peakRank":3.3,"duration":4,"score":16.75,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":33},{"title":"Freakazoid","instanceSlug":752,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[9,4.7,2.5,1.3,1.2,1.7,2.41,4.42,9.93,26.49,81.68,285.89],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"debutRank":9,"peakRank":1.2,"duration":3,"score":16.7,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":34},{"title":"Lost in Emotion","instanceSlug":237,"tags":[],"parents":[],"genre":"dance","debut":"1987-08","ranks":[13.5,4.1,2.23,2.15,2.1,2.45,2.86,3.81,5.72,9.53,17.47,34.94,75.69,176.62,441.54,1177.45],"artists":[{"slug":"lisa-lisa-cult-jam","title":"Lisa Lisa & Cult Jam","roleSlug":true}],"debutRank":13.5,"peakRank":2.1,"duration":4,"score":16.53,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":35},{"title":"It Feels So Good","instanceSlug":2531,"tags":[],"parents":[],"genre":"dance","debut":"2000-02","playlists":[],"ranks":[14,7,3.5,2.9,2.5,2.759,3.04,3.68,4.82,6.81,10.34,16.78,28.94,52.93,102.28,208.23],"artists":[{"slug":"sonique","title":"Sonique","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":4,"score":16.1,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":36},{"title":"I'm So Excited","instanceSlug":430,"tags":[],"parents":[],"genre":"dance","debut":"1984-09","playlists":[],"ranks":[13,3.6,1.7,1.9,2.12,2.62,3.55,5.22,8.29,14.14,25.79,50.05],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":13,"peakRank":1.7,"duration":3,"score":15.58,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":37},{"title":"Hooked on You","instanceSlug":1749,"tags":[],"parents":[],"genre":"dance","debut":"1989-07","playlists":[],"ranks":[17,9,6,4.9,3.8,3.3,3.5,3.9,4.5,5.19,6.79,9.92,16.03,28.36,54.54,113.28],"artists":[{"slug":"sweet-sensation","title":"Sweet Sensation","roleSlug":true}],"debutRank":17,"peakRank":3.3,"duration":4,"score":15.31,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":38},{"title":"Man-Sized Love","instanceSlug":283,"tags":[],"parents":[],"genre":"dance","debut":"1986-08","playlists":[],"ranks":[13.3,4.2,3,2.5,2.8,3.2,3.8,4.51,6.2,9.69,16.97,32.87,69.85,161.53,403.83,1085.3],"artists":[{"slug":"klymaxx","title":"Klymaxx","roleSlug":true}],"debutRank":13.3,"peakRank":2.5,"duration":4,"score":15,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":39},{"title":"Get Up (Before the Night Is Over)","instanceSlug":1349,"tags":[],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[14,8.2,4.1,2.9,2.4,2.75,3.25,3.84,5.24,8.09,13.98,26.69,55.81,126.84,311.34,820.8],"artists":[{"slug":"technotronic","title":"Technotronic","roleSlug":true}],"debutRank":14,"peakRank":2.4,"duration":4,"score":14.99,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":40},{"title":"Move This","instanceSlug":1076,"tags":[],"parents":[],"genre":"dance","debut":"1992-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[14.5,4.3,2.5,2.2,2.49,2.82,3.56,4.97,7.59,12.59,22.55,43.36,89.09,194.77,451.52,1106.23],"artists":[{"slug":"technotronic","title":"Technotronic","roleSlug":true}],"debutRank":14.5,"peakRank":2.2,"duration":4,"score":14.78,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":41},{"title":"Operator","instanceSlug":1757,"tags":[],"parents":[],"genre":"dance","debut":"1985-01","playlists":[],"ranks":[14,7,5,3.2,3,3.24,3.68,4.18,5.31,7.48,11.54,19.38,35.17,68.61,143.16,318.12],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":4,"score":14.54,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":42},{"title":"Love Bazaar","instanceSlug":1740,"tags":[],"parents":[],"genre":"dance","debut":"1986-01","playlists":[],"ranks":[15,9,6,4.8,4.25,4,4.25,4.6,5.2,5.88,7.41,10.31,15.69,25.93,46.22,88.41],"artists":[{"slug":"sheila-e","title":"Sheila E","roleSlug":true},{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":15,"peakRank":4,"duration":4,"score":14.42,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":43},{"title":"Opposites Attract","instanceSlug":1331,"tags":["attract","opposite"],"parents":[],"genre":"dance","debut":"1990-01","playlists":[],"ranks":[14,6,4,2.9,2.5,2.9,3.36,4.44,6.57,10.78,19.4,38.02,80.61,183.8,448.46,1166],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true},{"slug":"the-wild-pair"}],"debutRank":14,"peakRank":2.5,"duration":4,"score":14.21,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":44},{"title":"C'Mon N' Ride It (The Train)","instanceSlug":599,"tags":[],"parents":[],"genre":"dance","debut":"1996-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[13,7,3.8,2.1,2.3,3.2,3.9,4.75,6.83,11.32,21.22,44.43,102.74,260.05,715.14,2123.06],"artists":[{"slug":"quad-city-djs","title":"Quad City DJs","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":4,"score":14.15,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":45},{"title":"Everybody Dance","instanceSlug":1745,"tags":[],"parents":[],"genre":"dance","debut":"1986-01","playlists":[],"ranks":[13.5,6.5,3.85,3.1,3.3,3.7,4.25,5,5.88,7.96,12.17,20.76,39.08,80.47,179.87,433.8],"artists":[{"slug":"tamara-the-scene","title":"Tamara & the Scene","roleSlug":true}],"debutRank":13.5,"peakRank":3.1,"duration":4,"score":14.14,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":46},{"title":"I Beg Your Pardon","instanceSlug":1922,"tags":[],"parents":[],"genre":"dance","debut":"1989-02","playlists":[],"ranks":[15,9,6,4.4,3.5,3,3.41,3.88,4.94,6.96,10.76,18.12,32.98,64.52,135.06,301.19],"artists":[{"slug":"kon-kan","title":"Kon Kan","roleSlug":true}],"debutRank":15,"peakRank":3,"duration":4,"score":14.08,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":47},{"title":"Here Comes the Hotstepper","instanceSlug":1826,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance","debut":"1994-11","playlists":[],"ranks":[15.1,8.9,4.5,3.1,2.9,3.2,3.7,4.28,5.62,8.25,13.4,23.87,46.25,96.84,217.89,524.29],"artists":[{"slug":"ina-kimoze","title":"Ini Kamoze","roleSlug":true}],"debutRank":15.1,"peakRank":2.9,"duration":4,"score":14.04,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":48},{"title":"Head to Toe","instanceSlug":2042,"tags":[],"parents":[],"genre":"dance","debut":"1987-05","playlists":[],"ranks":[14,8,4.5,3.5,3,3.4,3.9,4.47,5.79,8.34,13.25,22.99,43.28,87.84,191.18,444.22],"artists":[{"slug":"lisa-lisa-cult-jam","title":"Lisa Lisa & Cult Jam","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":4,"score":13.88,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":49},{"title":"Tell Me","instanceSlug":1423,"tags":["me","tell","tell-me"],"parents":[],"genre":"dance","debut":"1995-10","playlists":[],"ranks":[16.1,7.9,4.9,3.7,3.5,3.72,4.13,4.59,5.6,7.45,10.73,16.64,27.65,48.98,92.16,183.57],"artists":[{"slug":"groove-theory","title":"Groove Theory","roleSlug":true}],"debutRank":16.1,"peakRank":3.5,"duration":4,"score":13.83,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":50},{"title":"The Glamorous Life","instanceSlug":440,"tags":[],"parents":[],"genre":"dance","debut":"1984-08","playlists":[],"ranks":[13,7,3.8,2,1.9,2.5,3.29,5.37,10.45,23.65,61,176.58],"artists":[{"slug":"sheila-e","title":"Sheila E","roleSlug":true}],"debutRank":13,"peakRank":1.9,"duration":3,"score":13.68,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":51},{"title":"Strike It Up","instanceSlug":1146,"tags":[],"parents":[],"genre":"dance","debut":1991,"playlists":[],"ranks":[14,5,2.5,2,2.45,3,4.35,7.29,13.85,29.43,69.16,178.09],"artists":[{"slug":"black-box","title":"Black Box","roleSlug":true}],"debutRank":14,"peakRank":2,"duration":3,"score":13.06,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":52},{"title":"Brand New Lover","instanceSlug":491,"tags":["feb13","lover","new"],"parents":[],"genre":"dance","debut":"1987-02","playlists":[],"ranks":[17,10,7,6.3,4.9,4.2,4,4.5,5.06,6.33,8.7,13.05,21.21,37.12,69.59,139.18],"artists":[{"slug":"dead-or-alive","title":"Dead or Alive","roleSlug":true}],"debutRank":17,"peakRank":4,"duration":4,"score":12.96,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":53},{"title":"Better Off Alone","instanceSlug":2100,"tags":[],"parents":[],"genre":"dance","debut":"2000-05","playlists":[],"ranks":[13,4.5,3,3.05,3.4,3.79,4.66,6.26,9.14,14.38,24.29,43.8,84,170.76,366.72,829.63],"artists":[{"slug":"alice-deejay","title":"Alice Deejay","roleSlug":true}],"debutRank":13,"peakRank":3,"duration":4,"score":12.91,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":54},{"title":"U Got the Look","instanceSlug":232,"tags":["#2"],"genre":"dance","debut":"1987-09","ranks":[13,4.1,2.2,2.37,2.85,3.43,4.82,7.74,14.01,28.2,62.47,151.05],"artists":[{"slug":"prince","title":"Prince","roleSlug":true},{"slug":"sheena-easton","title":"Sheena Easton","roleSlug":true}],"debutRank":13,"peakRank":2.2,"duration":3,"score":12.83,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":55},{"title":"Macarena","instanceSlug":396,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"dance","debut":"1996-06","playlists":[],"ranks":[15.9,8.2,4.2,2.2,1.7,2.4,3.39,6.18,13.81,36.56,111.83,388.1],"artists":[{"slug":"los-del-rio","title":"Los del Rio","roleSlug":true}],"debutRank":15.9,"peakRank":1.7,"duration":3,"score":12.83,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":56},{"title":"Material Girl","instanceSlug":974,"tags":["girl","material"],"parents":[],"genre":"dance","debut":"1985-03","playlists":[],"ranks":[15,8.1,4.4,2.3,2.3,2.9,3.66,5.56,9.92,20.27,46.71,119.81],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":15,"peakRank":2.3,"duration":3,"score":12.68,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":57},{"title":"Crush on You","instanceSlug":798,"tags":["this-on-that"],"parents":[],"genre":"dance","debut":"1986-05","playlists":[],"ranks":[13.9,7.6,4.1,2.2,2.6,3.07,4.19,6.48,11.19,21.35,44.65,101.47],"artists":[{"slug":"jets","title":"The Jets","roleSlug":true}],"debutRank":13.9,"peakRank":2.2,"duration":3,"score":12.35,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":58},{"title":"Escapade","instanceSlug":1950,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[14,6,2.5,2.7,3.1,3.8,4.66,6.76,11.34,21.59,45.96,108.23],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":14,"peakRank":2.5,"duration":3,"score":12.31,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":59},{"title":"Thriller","instanceSlug":12,"tags":["album-title"],"source":{"title":"Thriller","instanceSlug":"thriller","tags":["michael-jackson"],"type":"album"},"playlists":[{"slug":"halloween","title":"Halloween"}],"genre":"dance","debut":"1984-02","ranks":[12,6.6,3.7,2,2.48,3.08,4.55,7.83,15.34,33.76,82.36,220.73],"artists":[{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":3,"score":12.29,"genres":[{"slug":"dance","title":"Dance"}],"rank":60},{"title":"Jump (for My Love)","instanceSlug":108,"tags":[],"genre":"dance","debut":"1984-05","ranks":[13,3.9,2.1,2.35,2.95,3.7,5.59,9.88,19.97,45.46,115.1,320.81],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":13,"peakRank":2.1,"duration":3,"score":12.08,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":61},{"title":"Coming Out","instanceSlug":1006,"tags":[],"parents":[],"genre":"dance","debut":"1980-10","playlists":[],"ranks":[11,3.4,2.02,2.45,2.97,4.24,6.94,12.85,26.53,60.42,150.46,406.69],"artists":[{"slug":"diana-ross","title":"Diana Ross","roleSlug":true}],"debutRank":11,"peakRank":2.02,"duration":3,"score":11.76,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":62},{"title":"It Takes Two","instanceSlug":1951,"tags":[],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[15.5,10.5,6.5,4.6,3.7,3.9,4.5,5.19,6.79,9.92,16.03,28.36,54.54,113.28,252.7,602.6],"artists":[{"slug":"seduction","title":"Seduction","roleSlug":true}],"debutRank":15.5,"peakRank":3.7,"duration":4,"score":11.71,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":63},{"title":"Ooh Ahh… Just a Little Bit","instanceSlug":1913,"tags":[],"parents":[],"genre":"dance","debut":"1997-01","playlists":[],"ranks":[16,10,7,5.2,4.5,4,4.51,5.09,6.38,8.82,13.32,21.82,38.5,72.87,147.19,316.1],"artists":[{"slug":"gina-g","title":"Gina G","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":4,"score":11.69,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":64},{"title":"Pump Up the Jam","instanceSlug":1330,"tags":["jam","pump","up"],"parents":[],"genre":"dance","debut":"1989-11","playlists":[],"ranks":[16,10,5.2,4.1,3.5,3.7,4.5,5.47,7.84,12.92,24.1,50.16],"artists":[{"slug":"technotronic","title":"Technotronic","roleSlug":true}],"debutRank":16,"peakRank":3.5,"duration":3,"score":11.48,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":65},{"title":"Sidewalk Talk","instanceSlug":1748,"tags":[],"parents":[],"genre":"dance","debut":"1986-01","playlists":[],"ranks":[15.5,10,6.7,5.5,5.25,5.4,5.8,6.4,7.5,8.79,11.81,17.9,30.21,56.16,114.08,251.34],"artists":[{"slug":"jellybean","title":"Jellybean","roleSlug":true},{"slug":"catherine-buchanan","title":"Catherine Buchanan","roleSlug":"feature"},{"slug":"madonna","title":"Madonna","roleSlug":"backup"}],"debutRank":15.5,"peakRank":5.25,"duration":4,"score":10.85,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":66},{"title":"Let's Hear It For the Boy","instanceSlug":90,"tags":[],"source":{"title":"Footloose","instanceSlug":"footloose","tags":[],"parents":[],"type":"movie"},"genre":"dance","debut":1984,"ranks":[15,5,4.7,4.4,4.52,5.1,5.75,7.23,10.01,15.16,24.88,44.03,83.59,169.39,365.01,833.39],"artists":[{"slug":"deniece-williams","title":"Deniece Williams","roleSlug":true}],"debutRank":15,"peakRank":4.4,"duration":4,"score":10.77,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"rank":67},{"title":"Neutron Dance","instanceSlug":1632,"tags":["dance"],"parents":[],"genre":"dance","debut":"1985-01","source":{"title":"Beverly Hills Cop","instanceSlug":"beverly-hills-cop","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":[18,10,5.8,3.9,4.19,4.65,5.16,6.29,8.37,12.04,18.65,30.93,54.71,102.76,204.29,428.56],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":18,"peakRank":3.9,"duration":4,"score":10.7,"genres":[{"slug":"dance","title":"Dance"}],"rank":68},{"title":"Lucky Star","instanceSlug":434,"tags":[],"parents":[],"genre":"dance","debut":"1984-09","playlists":[],"ranks":[15,8.6,4.9,3.8,3.5,4.2,5.04,7.06,11.29,20.32,40.64,89.41],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"debutRank":15,"peakRank":3.5,"duration":3,"score":10.53,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":69},{"title":"Total Eclipse of the Heart","instanceSlug":338,"tags":[],"playlists":[{"slug":"remake","title":"Remakes"},{"slug":"summer","title":"Songs of Summer"}],"parents":[],"genre":"dance","debut":"1995-08","ranks":[16,10,8,6,6,5,7,7.8,8.6,9.6,10.72,13.21,17.82,26.1,41.28,70.08],"artists":[{"slug":"nikki-french","title":"Nicki French","roleSlug":true}],"debutRank":16,"peakRank":5,"duration":4,"score":10.41,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":70},{"title":"Things That Make You Go Hmm","instanceSlug":957,"tags":[],"parents":[],"genre":"dance","debut":"1991-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[12.5,7.2,4.1,3.2,4.1,5.1,6.34,9.44,16.34,32.29,71.67,176.55],"artists":[{"slug":"c-c-music-factory","title":"C+C Music Factory","roleSlug":true}],"debutRank":12.5,"peakRank":3.2,"duration":3,"score":10,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":71},{"title":"Forever Your Girl","instanceSlug":426,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"dance","debut":"1989-04","playlists":[],"ranks":[16,11.5,5.2,4.7,4.9,5.45,6.06,7.42,9.92,14.38,22.45,37.56,67.07,127.3,255.91,543.15],"artists":[{"slug":"paula-abdul","title":"Paula Abdul","roleSlug":true}],"debutRank":16,"peakRank":4.7,"duration":4,"score":9.54,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":72},{"title":"Moving On Up","instanceSlug":1592,"tags":[],"genre":"dance","debut":"1993-12","playlists":[],"ranks":[18.5,9.8,6.9,5.5,5,5.4,6.2,7.12,9.23,13.33,21.23,36.95,69.8,142.18,310.69,724.94],"artists":[{"slug":"m-people","title":"M-People","roleSlug":true}],"debutRank":18.5,"peakRank":5,"duration":4,"score":9.27,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":73},{"title":"Good Vibrations","instanceSlug":971,"tags":[],"parents":[],"genre":"dance","debut":"1991-09","playlists":[],"ranks":[13.9,7.9,4.5,3.1,3.9,4.91,7.44,13.2,26.82,61.43,156.55,439.34],"artists":[{"slug":"marky-mark-the-funky-bunch","title":"Marky Mark & the Funky Bunch","roleSlug":true}],"debutRank":13.9,"peakRank":3.1,"duration":3,"score":9.13,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":74},{"title":"Get On Your Feet","instanceSlug":1421,"tags":["feet","get","on","your"],"parents":[],"genre":"dance","debut":"1989-10","playlists":[],"ranks":[18,13,10,8.5,7.8,7.2,6.9,7.1,7.75,9.3,11.16,15.62,25,45,89.99,197.99],"artists":[{"slug":"gloria-estefan","title":"Gloria Estefan","roleSlug":true}],"debutRank":18,"peakRank":6.9,"duration":4,"score":8.74,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":75},{"title":"Miss You Much","instanceSlug":515,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"dance","debut":"1989-09","playlists":[],"ranks":[15,8.5,4.8,4.4,4.3,6,8.37,14.99,32.77,84.6,251.83,849.2],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":15,"peakRank":4.3,"duration":3,"score":8.02,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":76},{"title":"Where Do You Go","instanceSlug":601,"tags":[],"parents":[],"genre":"dance","debut":"1996-08","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[19.2,11.8,8.5,7.7,7.3,7.45,7.82,8.5,9.6,10.84,13.65,18.95,28.76,47.36,84.14,160.36],"artists":[{"slug":"no-mercy","title":"No Mercy","roleSlug":true}],"debutRank":19.2,"peakRank":7.3,"duration":4,"score":8,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":77},{"title":"Rhythm is a Dancer","instanceSlug":873,"tags":[],"parents":[],"genre":"dance","debut":"1992-10","playlists":[],"ranks":[17,7.6,5.5,4.9,5.25,5.78,8,11.07,19.58,42.14,106.87,312.12],"artists":[{"slug":"snap","title":"Snap!","roleSlug":true}],"debutRank":17,"peakRank":4.9,"duration":3,"score":7.97,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":78},{"title":"Please Don't Go","instanceSlug":2987,"tags":[],"parents":[],"genre":"dance","debut":"1997-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[18,11,8,7.1,6.5,7.2,7.98,9.69,12.82,18.35,28.23,46.47,81.5,151.72,298.77,620.52],"artists":[{"slug":"no-mercy","title":"No Mercy","roleSlug":true}],"debutRank":18,"peakRank":6.5,"duration":4,"score":7.02,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":79},{"title":"If","instanceSlug":351,"tags":[],"parents":[],"genre":"dance","debut":"1993-08","playlists":[],"ranks":[18.9,11,8.8,6.9,6.3,6.7,7.9,9.31,12.65,19.45,33.38,63.28],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"debutRank":18.9,"peakRank":6.3,"duration":3,"score":7.01,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":80},{"title":"Getting Away With It","instanceSlug":2270,"tags":[],"parents":[],"genre":"dance","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[17,11,8.5,6.8,6,7.2,8.64,12.1,19.35,34.84,69.67,153.28],"artists":[{"slug":"electronic","title":"Electronic","roleSlug":true}],"debutRank":17,"peakRank":6,"duration":3,"score":6.33,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":81},{"title":"Chains of Love","instanceSlug":454,"tags":["chain","love","this-of-that"],"parents":[],"genre":"dance","debut":"1988-06","playlists":[],"ranks":[17,11.5,6.6,5.5,6.9,8.6,10.8,13.56,20.5,36.24,73.31,167.09],"artists":[{"slug":"erasure","title":"Erasure","roleSlug":true}],"debutRank":17,"peakRank":5.5,"duration":3,"score":6.06,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":82},{"title":"The Wanderer","instanceSlug":1007,"tags":[],"parents":[],"genre":"dance","debut":"1980-09","playlists":[],"ranks":[15.9,9.3,5.4,5.5,7.5,10.23,17.67,36.94,90.66,255.5,812.96,2882.33],"artists":[{"slug":"donna-summer","title":"Donna Summer","roleSlug":true}],"debutRank":15.9,"peakRank":5.4,"duration":3,"score":5.4,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":83},{"title":"Tell Me Why","instanceSlug":1948,"tags":[],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"ranks":[16,7,7.4,8.2,9.09,11.05,14.64,20.96,32.3,53.24,93.54,174.44],"artists":[{"slug":"expose","title":"Expose","roleSlug":true}],"debutRank":16,"peakRank":7,"duration":3,"score":4.88,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":84},{"title":"Romeo","instanceSlug":199,"tags":[],"parents":[],"genre":"dance","debut":"1990-09","ranks":[24.9,14.5,8.4,9.8,11.43,15.24,22.87,38.11,69.87,139.74,302.77,706.47],"artists":[{"slug":"dino","title":"Dino","roleSlug":true}],"debutRank":24.9,"peakRank":8.4,"duration":3,"score":2.76,"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":85},{"title":"Nighttime","instanceSlug":784,"tags":["night"],"parents":[],"genre":"dance","debut":"1988-05","playlists":[],"ranks":[15,9,11.2,13.94,20.75,35.97,71.14,158.09],"artists":[{"slug":"pretty-poison","title":"Pretty Poison","roleSlug":true}],"debutRank":15,"peakRank":9,"duration":2,"score":2.04,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":86},{"title":"Dunkie Butt","instanceSlug":2199,"tags":[],"parents":[],"genre":"dance","debut":"1994-04","playlists":[],"ranks":[20,17,14,15.8,17.83,22.42,31.06,47.04,77.28,136.89,260.09,527.62],"artists":[{"slug":"12-gauge","title":"12 Gauge","roleSlug":true}],"debutRank":20,"peakRank":14,"duration":3,"score":0.89,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":87},{"title":"Like a Child","instanceSlug":800,"tags":["child","like"],"parents":[],"genre":"dance","debut":"1988-04","playlists":[],"ranks":[21,12.6,30.3,85.5,241,679.31,3150.25,20338.46],"artists":[{"slug":"noel","title":"Noel","roleSlug":true}],"debutRank":21,"peakRank":12.6,"duration":2,"score":0.47,"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":88},{"title":"Mr. Vain","instanceSlug":1597,"tags":["mr."],"parents":[],"genre":"dance","debut":"1993-12","playlists":[],"ranks":[],"artists":[{"slug":"culture-beat","title":"Culture Beat","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":89},{"title":"Medley","instanceSlug":2967,"tags":["#1","#1-hot-100"],"parents":[],"genre":"dance","debut":"1981-05","playlists":[],"ranks":[],"artists":[{"slug":"stars-on-45","title":"Stars on 45","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":90},{"title":"Object of My Desire","instanceSlug":2960,"tags":[],"parents":[],"genre":"dance","debut":"1985-12","playlists":[],"ranks":[],"artists":[{"slug":"starpoint","title":"Starpoint","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":91},{"title":"Believe","instanceSlug":42,"tags":[],"parents":[],"genre":"dance","debut":1998,"ranks":[],"artists":[{"slug":"cher","title":"Cher","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"playlists":[],"source":null,"rank":92},{"title":"Ooops Up","instanceSlug":2937,"tags":[],"parents":[],"genre":"dance","debut":"1990-10","playlists":[],"ranks":[],"artists":[{"slug":"snap","title":"Snap!","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":93},{"title":"Get Off","instanceSlug":2905,"tags":[],"parents":[],"genre":"dance","debut":"1978-09","playlists":[],"ranks":[],"artists":[{"slug":"foxy","title":"Foxy","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":94},{"title":"Run Away","instanceSlug":2847,"tags":[],"parents":[],"genre":"dance","debut":"1995-03","playlists":[],"ranks":[],"artists":[{"slug":"real-mccoy","title":"Real McCoy","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":95},{"title":"Can't Get You Out of My Head","instanceSlug":2812,"tags":[],"parents":[],"genre":"dance","debut":"2002-02","playlists":[],"ranks":[],"artists":[{"slug":"kylie-minogue","title":"Kylie Minogue","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":96},{"title":"Pon de Replay","instanceSlug":2709,"tags":[],"parents":[],"genre":"dance","debut":2005,"playlists":[],"ranks":[],"artists":[{"slug":"rihanna","title":"Rihanna","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":97},{"title":"Set You Free","instanceSlug":2628,"tags":[],"parents":[],"genre":"dance","debut":"1996-03","playlists":[],"ranks":[],"artists":[{"slug":"planet-soul","title":"Planet Soul","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":98},{"title":"Party Your Body","instanceSlug":2530,"tags":[],"parents":[],"genre":"dance","debut":1988,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-b","title":"Stevie B","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":99},{"title":"Just a Touch of Love","instanceSlug":2252,"tags":[],"parents":[],"genre":"dance","debut":"1990s","playlists":[],"ranks":[],"artists":[{"slug":"c-c-music-factory","title":"C+C Music Factory","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":100},{"title":"Love Child","instanceSlug":2208,"tags":[],"parents":[],"genre":"dance","debut":"1990-04","playlists":[],"ranks":[],"artists":[{"slug":"sweet-sensation","title":"Sweet Sensation","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":101},{"title":"Barbie Girl","instanceSlug":2120,"tags":[],"parents":[],"genre":"dance","debut":"1997-09","playlists":[],"ranks":[],"artists":[{"slug":"aqua","title":"Aqua","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":102},{"title":"Electricity","instanceSlug":2027,"tags":[],"parents":[],"genre":"dance","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"midnight-star","title":"Midnight Star","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":103},{"title":"Someone to Call My Lover","instanceSlug":1784,"tags":[],"parents":[],"genre":"dance","debut":"2001-07","playlists":[{"slug":"sample"}],"ranks":[],"artists":[{"slug":"janet-jackson","title":"Janet Jackson","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":104},{"title":"Baby Baby","instanceSlug":3044,"tags":["double-word"],"parents":[],"genre":"dance","debut":"1995-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"corona","title":"Corona","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":105},{"title":"Everybody's Free","instanceSlug":1586,"tags":["everybody","free"],"parents":[],"genre":"dance","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"rosella","title":"Rosella","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":106},{"title":"The Safety Dance","instanceSlug":619,"tags":[],"parents":[],"genre":"dance","debut":"1983-07","playlists":[],"ranks":[],"artists":[{"slug":"men-without-hats","title":"Men Without Hats","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":107},{"title":"I Wanna Have Some Fun","instanceSlug":1571,"tags":["i-wanna"],"parents":[],"genre":"dance","debut":"1988-12","playlists":[],"ranks":[],"artists":[{"slug":"samantha-fox","title":"Samantha Fox","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":108},{"title":"Jam on It","instanceSlug":1562,"tags":["it","jam"],"parents":[],"genre":"dance","debut":1983,"playlists":[],"ranks":[],"artists":[{"slug":"newcleus","title":"Newcleus","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":109},{"title":"Heaven Knows","instanceSlug":1556,"tags":[],"parents":[],"genre":"dance","debut":"1979-02","playlists":[],"ranks":[],"artists":[{"slug":"donna-summer","title":"Donna Summer","roleSlug":true},{"slug":"brooklyn-dreams","title":"Brooklyn Dreams","roleSlug":"feature"}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":110},{"title":"Heaven Must Have Sent You","instanceSlug":1550,"tags":[],"parents":[],"genre":"dance","debut":"1979-08","playlists":[],"ranks":[],"artists":[{"slug":"bonnie-pointer","title":"Bonnie Pointer","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":111},{"title":"Automatic Lover","instanceSlug":1355,"tags":["automatic","lover"],"parents":[],"genre":"dance","debut":"1995-11","playlists":[],"ranks":[],"artists":[{"slug":"real-mccoy","title":"Real McCoy","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":112},{"title":"More & More","instanceSlug":3062,"tags":[],"parents":[],"genre":"dance","debut":"1993-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"captain-hollywood-project","title":"Captain Hollywood Project","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":113},{"title":"Swing the Mood","instanceSlug":1354,"tags":["mood","swing"],"parents":[],"genre":"dance","debut":"1989-12","playlists":[],"ranks":[],"artists":[{"slug":"jive-bunny","title":"Jive Bunny & the Mastermixers","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":114},{"title":"All or Nothing","instanceSlug":1348,"tags":[],"parents":[],"genre":"dance","debut":"1990-01","playlists":[],"ranks":[],"artists":[{"slug":"milli-vanilli","title":"Milli Vanilli","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":115},{"title":"Two to Make It Right","instanceSlug":1342,"tags":["make","right","two"],"parents":[],"genre":"dance","debut":1990,"playlists":[],"ranks":[],"artists":[{"slug":"seduction","title":"Seduction","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":116},{"title":"Temptation","instanceSlug":1162,"tags":["tempt"],"parents":[],"genre":"dance","debut":"1991-07","playlists":[],"ranks":[],"artists":[{"slug":"corina","title":"Corina","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":117},{"title":"Here We Go, Let's Rock & Roll","instanceSlug":1157,"tags":["go","","rock-and-roll"],"parents":[],"genre":"dance","debut":1991,"playlists":[],"ranks":[],"artists":[{"slug":"c-c-music-factory","title":"C+C Music Factory","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":118},{"title":"Get Into the Groove","instanceSlug":973,"tags":[],"parents":[],"genre":"dance","debut":1984,"playlists":[],"ranks":[],"artists":[{"slug":"madonna","title":"Madonna","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":119},{"title":"Take Your Time (Do It Right)","instanceSlug":1132,"tags":["#1","#1-r&b","do-it"],"parents":[],"genre":"dance","debut":"1980-07","playlists":[],"ranks":[],"artists":[{"slug":"sos-band","title":"SOS Band","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":120},{"title":"Let the Music Play","instanceSlug":"music-play","tags":[],"parents":[],"genre":"dance","debut":"1984-01","playlists":[],"ranks":[],"artists":[{"slug":"shannon","title":"Shannon","roleSlug":true}],"genres":[{"slug":"dance","title":"Dance"}],"source":null,"rank":121}],"score":1305.19,"songAdjustedAverage":118.65,"artistAdjustedAverage":307.64}
+{
+  "instanceSlug": "dance",
+  "title": "Dance",
+  "parents": [
+  ],
+  "artists": [
+    "black-box",
+    "cathy-dennis",
+    "cece-peniston",
+    "dead-or-alive",
+    "donna-summer",
+    "everything-but-the-girl",
+    "expose",
+    "jellybean",
+    "jive-bunny",
+    "kylie-minogue",
+    "lisa-stansfield",
+    "miami-sound-machine",
+    "michael-jackson",
+    "nikki-french",
+    "paula-abdul",
+    "quad-city-djs",
+    "samantha-fox",
+    "shalamar",
+    "shannon",
+    "sweet-sensation"
+  ],
+  "songs": [
+    {
+      "title": "The Way That You Love Me",
+      "instanceSlug": 299,
+      "tags": [
+        "love",
+        "me",
+        "way",
+        "you",
+        "you-and-me"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:paula-abdul": 1,
+        "genre:dance": 1,
+        "decade:1980s": 4,
+        "year:1989": 2
+      },
+      "artists": [
+        {
+          "slug": "paula-abdul",
+          "title": "Paula Abdul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.612,
+        0.983,
+        0.959,
+        0.93,
+        0.902,
+        0.873,
+        0.845,
+        0.807,
+        0.802,
+        0.792,
+        0.777,
+        0.757,
+        0.732,
+        0.702,
+        0.667,
+        0.627,
+        0.582,
+        0.532,
+        0.477,
+        0.417,
+        0.352,
+        0.282,
+        0.207,
+        0.127,
+        0.042,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.983,
+      "duration": 7,
+      "score": 15.956000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-10",
+        "title": "October 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 10
+      },
+      "rank": 1
+    },
+    {
+      "title": "Rhythm Nation",
+      "instanceSlug": 289,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "sample"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:janet-jackson": 1,
+        "genre:dance": 2,
+        "decade:1980s": 7,
+        "year:1989": 4
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.633,
+        0.971,
+        0.965,
+        0.933,
+        0.902,
+        0.871,
+        0.825,
+        0.82,
+        0.81,
+        0.795,
+        0.775,
+        0.75,
+        0.72,
+        0.685,
+        0.645,
+        0.6,
+        0.55,
+        0.495,
+        0.435,
+        0.37,
+        0.3,
+        0.225,
+        0.145,
+        0.06,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.971,
+      "duration": 7,
+      "score": 15.425,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-12",
+        "title": "December 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 12
+      },
+      "rank": 2
+    },
+    {
+      "title": "Vibeology",
+      "instanceSlug": 2060,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1992-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:paula-abdul": 2,
+        "genre:dance": 3,
+        "decade:1990s": 11,
+        "year:1992": 4
+      },
+      "artists": [
+        {
+          "slug": "paula-abdul",
+          "title": "Paula Abdul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.232,
+        0.804,
+        0.912,
+        0.968,
+        0.928,
+        0.923,
+        0.913,
+        0.898,
+        0.878,
+        0.853,
+        0.823,
+        0.788,
+        0.748,
+        0.703,
+        0.653,
+        0.598,
+        0.538,
+        0.473,
+        0.403,
+        0.328,
+        0.248,
+        0.163,
+        0.073,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.968,
+      "duration": 6,
+      "score": 14.848,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-02",
+        "title": "February 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 2
+      },
+      "rank": 3
+    },
+    {
+      "title": "Centipede",
+      "instanceSlug": 2359,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "r&b"
+        },
+        {
+          "slug": "funk",
+          "title": "Funk"
+        },
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "debut": "1984-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michael-jackson": 4,
+        "artist:rebbie-jackson": 1,
+        "genre:soul": 3,
+        "genre:dance": 4,
+        "genre:r&b": 1,
+        "genre:urban": 2,
+        "genre:funk": 1,
+        "decade:1980s": 21,
+        "year:1984": 3
+      },
+      "artists": [
+        {
+          "slug": "rebbie-jackson",
+          "title": "Rebbie Jackson",
+          "roleSlug": true
+        },
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": "writer"
+        }
+      ],
+      "scores": [
+        0.171,
+        0.737,
+        1,
+        0.971,
+        0.966,
+        0.956,
+        0.941,
+        0.921,
+        0.896,
+        0.866,
+        0.831,
+        0.791,
+        0.746,
+        0.696,
+        0.641,
+        0.581,
+        0.516,
+        0.446,
+        0.371,
+        0.291,
+        0.206,
+        0.116,
+        0.021,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.678,
+      "source": null,
+      "debutEra": {
+        "slug": "1984-12",
+        "title": "December 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 12
+      },
+      "rank": 4
+    },
+    {
+      "title": "Everybody Everybody",
+      "instanceSlug": 178,
+      "tags": [
+      ],
+      "parents": [
+        "summer"
+      ],
+      "genre": "dance",
+      "debut": "1990-08",
+      "ranks": {
+        "artist:black-box": 1,
+        "genre:dance": 5,
+        "decade:1990s": 16,
+        "year:1990": 6
+      },
+      "artists": [
+        {
+          "slug": "black-box",
+          "title": "Black Box",
+          "roleSlug": true
+        }
+      ],
+      "note": "Project 6 weeks at #1.",
+      "scores": [
+        0.232,
+        0.968,
+        0.956,
+        0.925,
+        0.89,
+        0.856,
+        0.807,
+        0.802,
+        0.792,
+        0.777,
+        0.757,
+        0.732,
+        0.702,
+        0.667,
+        0.627,
+        0.582,
+        0.532,
+        0.477,
+        0.417,
+        0.352,
+        0.282,
+        0.207,
+        0.127,
+        0.042,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.968,
+      "duration": 7,
+      "score": 14.508000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-08",
+        "title": "August 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 8
+      },
+      "rank": 5
+    },
+    {
+      "title": "Rumors",
+      "instanceSlug": 285,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        },
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "debut": "1986-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:timex-social-club": 1,
+        "genre:dance": 6,
+        "genre:funk": 2,
+        "playlist:summer": 11,
+        "source:summer": 11,
+        "decade:1980s": 25,
+        "year:1986": 2
+      },
+      "artists": [
+        {
+          "slug": "timex-social-club",
+          "title": "Timex Social Club",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.633,
+        1,
+        0.974,
+        0.915,
+        0.91,
+        0.9,
+        0.885,
+        0.865,
+        0.84,
+        0.81,
+        0.775,
+        0.735,
+        0.69,
+        0.64,
+        0.585,
+        0.525,
+        0.46,
+        0.39,
+        0.315,
+        0.235,
+        0.15,
+        0.06,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.463000000000001,
+      "source": null,
+      "debutEra": {
+        "slug": "1986-07",
+        "title": "July 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 7
+      },
+      "rank": 6
+    },
+    {
+      "title": "Whirly Girl",
+      "instanceSlug": 1613,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:oxo": 1,
+        "genre:dance": 7,
+        "decade:1980s": 30,
+        "year:1983": 2
+      },
+      "artists": [
+        {
+          "slug": "oxo",
+          "title": "OXO",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.267,
+        0.864,
+        0.974,
+        0.947,
+        0.942,
+        0.932,
+        0.917,
+        0.897,
+        0.872,
+        0.842,
+        0.807,
+        0.767,
+        0.722,
+        0.672,
+        0.617,
+        0.557,
+        0.492,
+        0.422,
+        0.347,
+        0.267,
+        0.182,
+        0.092,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.974,
+      "duration": 6,
+      "score": 14.398000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-04",
+        "title": "April 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 4
+      },
+      "rank": 7
+    },
+    {
+      "title": "I Feel For You",
+      "instanceSlug": 436,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1984-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 11,
+        "artist:chaka-khan": 1,
+        "artist:grandmaster-mellie-mel": 1,
+        "genre:dance": 8,
+        "decade:1980s": 34,
+        "year:1984": 4
+      },
+      "artists": [
+        {
+          "slug": "chaka-khan",
+          "title": "Chaka Khan",
+          "roleSlug": true
+        },
+        {
+          "slug": "grandmaster-mellie-mel",
+          "title": "Grandmaster Mellie Mel",
+          "roleSlug": "backup"
+        },
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.356,
+        0.554,
+        0.768,
+        0.956,
+        0.936,
+        0.864,
+        0.859,
+        0.849,
+        0.834,
+        0.814,
+        0.789,
+        0.759,
+        0.724,
+        0.684,
+        0.639,
+        0.589,
+        0.534,
+        0.474,
+        0.409,
+        0.339,
+        0.264,
+        0.184,
+        0.099,
+        0.009,
+        0
+      ],
+      "debutScore": 0.356,
+      "peakScore": 0.956,
+      "duration": 7,
+      "score": 14.286000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-10",
+        "title": "October 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 10
+      },
+      "rank": 8
+    },
+    {
+      "title": "C'mon and Get My Love",
+      "instanceSlug": 1351,
+      "tags": [
+        "get-love",
+        "my-love"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "artists": [
+        {
+          "slug": "d-mob",
+          "title": "D-Mob",
+          "roleSlug": true
+        },
+        {
+          "slug": "cathy-dennis",
+          "title": "Cathy Dennis",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.463,
+        0.887,
+        0.912,
+        0.9,
+        0.876,
+        0.871,
+        0.861,
+        0.846,
+        0.826,
+        0.801,
+        0.771,
+        0.736,
+        0.696,
+        0.651,
+        0.601,
+        0.546,
+        0.486,
+        0.421,
+        0.351,
+        0.276,
+        0.196,
+        0.111,
+        0.021,
+        0
+      ],
+      "ranks": {
+        "artist:cathy-dennis": 4,
+        "artist:d-mob": 1,
+        "genre:dance": 9,
+        "decade:1990s": 25,
+        "year:1990": 7
+      },
+      "debutScore": 0.463,
+      "peakScore": 0.912,
+      "duration": 6,
+      "score": 14.106,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-02",
+        "title": "February 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 2
+      },
+      "rank": 9
+    },
+    {
+      "title": "Come and Get Your Love",
+      "instanceSlug": 323,
+      "tags": [
+        "your-love"
+      ],
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        },
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-06",
+      "ranks": {
+        "artist:real-mccoy": 1,
+        "genre:dance": 10,
+        "playlist:summer": 17,
+        "playlist:remake": 3,
+        "source:summer": 17,
+        "source:remake": 3,
+        "decade:1990s": 29,
+        "year:1995": 3
+      },
+      "artists": [
+        {
+          "slug": "real-mccoy",
+          "title": "Real McCoy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.232,
+        1,
+        0.972,
+        0.967,
+        0.957,
+        0.942,
+        0.922,
+        0.897,
+        0.867,
+        0.832,
+        0.792,
+        0.747,
+        0.697,
+        0.642,
+        0.582,
+        0.517,
+        0.447,
+        0.372,
+        0.292,
+        0.207,
+        0.117,
+        0.022,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.022,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-06",
+        "title": "June 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 6
+      },
+      "rank": 10
+    },
+    {
+      "title": "Another Night",
+      "instanceSlug": 408,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1994-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:real-mccoy": 2,
+        "genre:dance": 11,
+        "decade:1990s": 32,
+        "year:1994": 1
+      },
+      "artists": [
+        {
+          "slug": "real-mccoy",
+          "title": "Real McCoy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.158,
+        0.521,
+        0.813,
+        0.925,
+        0.899,
+        0.86,
+        0.855,
+        0.845,
+        0.83,
+        0.81,
+        0.785,
+        0.755,
+        0.72,
+        0.68,
+        0.635,
+        0.585,
+        0.53,
+        0.47,
+        0.405,
+        0.335,
+        0.26,
+        0.18,
+        0.095,
+        0.005,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.925,
+      "duration": 7,
+      "score": 13.956000000000003,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-09",
+        "title": "September 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 9
+      },
+      "rank": 11
+    },
+    {
+      "title": "Celebration",
+      "instanceSlug": 765,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "genre": "dance",
+      "debut": "1980-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 1,
+        "genre:dance": 12,
+        "decade:1980s": 50,
+        "year:1980": 6
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.687,
+        0.965,
+        0.933,
+        0.928,
+        0.918,
+        0.903,
+        0.883,
+        0.858,
+        0.828,
+        0.793,
+        0.753,
+        0.708,
+        0.658,
+        0.603,
+        0.543,
+        0.478,
+        0.408,
+        0.333,
+        0.253,
+        0.168,
+        0.078,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.965,
+      "duration": 6,
+      "score": 13.823999999999996,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-12",
+        "title": "December 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 12
+      },
+      "rank": 12
+    },
+    {
+      "title": "If I Only Knew",
+      "instanceSlug": 1824,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tom-jones": 1,
+        "genre:dance": 13,
+        "decade:1990s": 35,
+        "year:1995": 4
+      },
+      "artists": [
+        {
+          "slug": "tom-jones",
+          "title": "Tom Jones",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.2,
+        0.656,
+        0.786,
+        0.899,
+        0.925,
+        0.843,
+        0.838,
+        0.828,
+        0.813,
+        0.793,
+        0.768,
+        0.738,
+        0.703,
+        0.663,
+        0.618,
+        0.568,
+        0.513,
+        0.453,
+        0.388,
+        0.318,
+        0.243,
+        0.163,
+        0.078,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.925,
+      "duration": 6,
+      "score": 13.794999999999998,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-01",
+        "title": "January 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 1
+      },
+      "rank": 13
+    },
+    {
+      "title": "Will2K",
+      "instanceSlug": 1442,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1999-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:will-smith": 1,
+        "artist:k-ci": 1,
+        "genre:dance": 14,
+        "decade:1990s": 41,
+        "year:1999": 4
+      },
+      "artists": [
+        {
+          "slug": "will-smith",
+          "title": "Will Smith",
+          "roleSlug": true
+        },
+        {
+          "slug": "k-ci",
+          "title": "K-Ci",
+          "roleSlug": "feature"
+        }
+      ],
+      "note": "Project 4 weeks at #1 but rapid descent.",
+      "scores": [
+        0.554,
+        0.986,
+        0.962,
+        0.939,
+        0.887,
+        0.768,
+        0.763,
+        0.753,
+        0.738,
+        0.718,
+        0.693,
+        0.663,
+        0.628,
+        0.588,
+        0.543,
+        0.493,
+        0.438,
+        0.378,
+        0.313,
+        0.243,
+        0.168,
+        0.088,
+        0.003,
+        0
+      ],
+      "debutScore": 0.554,
+      "peakScore": 0.986,
+      "duration": 6,
+      "score": 13.306999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-11",
+        "title": "November 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 11
+      },
+      "rank": 14
+    },
+    {
+      "title": "Freakazoid",
+      "instanceSlug": 752,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:midnight-star": 1,
+        "genre:dance": 15,
+        "decade:1980s": 72
+      },
+      "artists": [
+        {
+          "slug": "midnight-star",
+          "title": "Midnight Star",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.267,
+        0.484,
+        0.694,
+        0.912,
+        0.939,
+        0.823,
+        0.818,
+        0.808,
+        0.793,
+        0.773,
+        0.748,
+        0.718,
+        0.683,
+        0.643,
+        0.598,
+        0.548,
+        0.493,
+        0.433,
+        0.368,
+        0.298,
+        0.223,
+        0.143,
+        0.058,
+        0
+      ],
+      "debutScore": 0.267,
+      "peakScore": 0.939,
+      "duration": 6,
+      "score": 13.265000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980s",
+        "title": "1980s",
+        "decade": 1980
+      },
+      "rank": 15
+    },
+    {
+      "title": "Waiting for Tonight",
+      "instanceSlug": 1447,
+      "tags": [
+        "tonight",
+        "wait"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1999-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jennifer-lopez": 1,
+        "genre:dance": 16,
+        "decade:1990s": 44,
+        "year:1999": 6
+      },
+      "artists": [
+        {
+          "slug": "jennifer-lopez",
+          "title": "Jennifer Lopez",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.537,
+        0.694,
+        0.813,
+        0.833,
+        0.813,
+        0.794,
+        0.77,
+        0.701,
+        0.696,
+        0.686,
+        0.671,
+        0.651,
+        0.626,
+        0.596,
+        0.561,
+        0.521,
+        0.476,
+        0.426,
+        0.371,
+        0.311,
+        0.246,
+        0.176,
+        0.101,
+        0.021,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.833,
+      "duration": 7,
+      "score": 13.211,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-11",
+        "title": "November 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 11
+      },
+      "rank": 16
+    },
+    {
+      "title": "Shake Your Body (Down To The Ground)",
+      "instanceSlug": 1225,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1979-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michael-jackson": 20,
+        "artist:jacksons": 1,
+        "genre:dance": 17,
+        "decade:1970s": 9,
+        "year:1979": 4
+      },
+      "artists": [
+        {
+          "slug": "jacksons",
+          "title": "Jackson 5 / Jacksons",
+          "roleSlug": true
+        },
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": [
+        0.158,
+        0.708,
+        0.939,
+        0.887,
+        0.829,
+        0.824,
+        0.814,
+        0.799,
+        0.779,
+        0.754,
+        0.724,
+        0.689,
+        0.649,
+        0.604,
+        0.554,
+        0.499,
+        0.439,
+        0.374,
+        0.304,
+        0.229,
+        0.149,
+        0.064,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.939,
+      "duration": 6,
+      "score": 12.769,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-04",
+        "title": "April 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 4
+      },
+      "rank": 17
+    },
+    {
+      "title": "Just Another Dream",
+      "instanceSlug": 1143,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1990-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rick-astley": 7,
+        "artist:cathy-dennis": 3,
+        "genre:pop": 83,
+        "genre:dance": 18,
+        "decade:1990s": 54,
+        "year:1990": 8
+      },
+      "artists": [
+        {
+          "slug": "cathy-dennis",
+          "title": "Cathy Dennis",
+          "roleSlug": true
+        },
+        {
+          "slug": "rick-astley",
+          "title": "Rick Astley",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.171,
+        0.694,
+        0.864,
+        0.847,
+        0.827,
+        0.784,
+        0.779,
+        0.769,
+        0.754,
+        0.734,
+        0.709,
+        0.679,
+        0.644,
+        0.604,
+        0.559,
+        0.509,
+        0.454,
+        0.394,
+        0.329,
+        0.259,
+        0.184,
+        0.104,
+        0.019,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.864,
+      "duration": 6,
+      "score": 12.67,
+      "source": null,
+      "debutEra": {
+        "slug": "1990-12",
+        "title": "December 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 12
+      },
+      "rank": 18
+    },
+    {
+      "title": "Catch Me I'm Falling",
+      "instanceSlug": 785,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pretty-poison": 1,
+        "genre:dance": 19,
+        "decade:1980s": 121,
+        "year:1987": 21
+      },
+      "artists": [
+        {
+          "slug": "pretty-poison",
+          "title": "Pretty Poison",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.095,
+        0.282,
+        0.491,
+        0.708,
+        0.722,
+        0.715,
+        0.708,
+        0.694,
+        0.675,
+        0.645,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.095,
+      "peakScore": 0.722,
+      "duration": 7,
+      "score": 11.665000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-10",
+        "title": "October 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 10
+      },
+      "rank": 19
+    },
+    {
+      "title": "100% Pure Love",
+      "instanceSlug": 1289,
+      "tags": [
+        "love",
+        "pure"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1994-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:crystal-waters": 1,
+        "genre:dance": 20,
+        "decade:1990s": 86,
+        "year:1994": 10
+      },
+      "artists": [
+        {
+          "slug": "crystal-waters",
+          "title": "Crystal Waters",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.402,
+        0.554,
+        0.645,
+        0.694,
+        0.681,
+        0.668,
+        0.656,
+        0.641,
+        0.619,
+        0.587,
+        0.555,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.694,
+      "duration": 7,
+      "score": 11.496,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-09",
+        "title": "September 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 9
+      },
+      "rank": 20
+    },
+    {
+      "title": "Mambo #5",
+      "instanceSlug": 566,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1999-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:lou-bega": 1,
+        "genre:dance": 21,
+        "decade:1990s": 91,
+        "year:1999": 12
+      },
+      "artists": [
+        {
+          "slug": "lou-bega",
+          "title": "Lou Bega",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.185,
+        0.45,
+        0.645,
+        0.708,
+        0.694,
+        0.681,
+        0.662,
+        0.639,
+        0.612,
+        0.576,
+        0.543,
+        0.513,
+        0.47,
+        0.465,
+        0.455,
+        0.44,
+        0.42,
+        0.395,
+        0.365,
+        0.33,
+        0.29,
+        0.245,
+        0.195,
+        0.14,
+        0.08,
+        0.015,
+        0
+      ],
+      "debutScore": 0.185,
+      "peakScore": 0.708,
+      "duration": 7,
+      "score": 11.213,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-09",
+        "title": "September 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 9
+      },
+      "rank": 21
+    },
+    {
+      "title": "I'm So Excited",
+      "instanceSlug": 430,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1984-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pointer-sisters": 4,
+        "genre:dance": 22,
+        "decade:1980s": 145,
+        "year:1984": 12
+      },
+      "artists": [
+        {
+          "slug": "pointer-sisters",
+          "title": "Pointer Sisters",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.573,
+        0.823,
+        0.786,
+        0.781,
+        0.771,
+        0.756,
+        0.736,
+        0.711,
+        0.681,
+        0.646,
+        0.606,
+        0.561,
+        0.511,
+        0.456,
+        0.396,
+        0.331,
+        0.261,
+        0.186,
+        0.106,
+        0.021,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.823,
+      "duration": 6,
+      "score": 10.844,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-09",
+        "title": "September 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 9
+      },
+      "rank": 22
+    },
+    {
+      "title": "This Is Your Night",
+      "instanceSlug": 1386,
+      "tags": [
+        "night",
+        "this-is",
+        "your"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1996-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:amber": 1,
+        "genre:dance": 23,
+        "decade:1990s": 104,
+        "year:1996": 7
+      },
+      "artists": [
+        {
+          "slug": "amber",
+          "title": "Amber",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.768,
+        0.76,
+        0.749,
+        0.723,
+        0.691,
+        0.646,
+        0.641,
+        0.631,
+        0.616,
+        0.596,
+        0.571,
+        0.541,
+        0.506,
+        0.466,
+        0.421,
+        0.371,
+        0.316,
+        0.256,
+        0.191,
+        0.121,
+        0.046,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 10.798,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-10",
+        "title": "October 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 10
+      },
+      "rank": 23
+    },
+    {
+      "title": "Lost in Emotion",
+      "instanceSlug": 237,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-08",
+      "ranks": {
+        "artist:lisa-lisa-cult-jam": 1,
+        "genre:dance": 24,
+        "decade:1980s": 150,
+        "year:1987": 29
+      },
+      "artists": [
+        {
+          "slug": "lisa-lisa-cult-jam",
+          "title": "Lisa Lisa & Cult Jam",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.132,
+        0.529,
+        0.732,
+        0.744,
+        0.752,
+        0.701,
+        0.696,
+        0.686,
+        0.671,
+        0.651,
+        0.626,
+        0.596,
+        0.561,
+        0.521,
+        0.476,
+        0.426,
+        0.371,
+        0.311,
+        0.246,
+        0.176,
+        0.101,
+        0.021,
+        0
+      ],
+      "debutScore": 0.132,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 10.726000000000004,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-08",
+        "title": "August 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 8
+      },
+      "rank": 24
+    },
+    {
+      "title": "Rhythm of the Night",
+      "instanceSlug": 1823,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:corona": 1,
+        "genre:dance": 25,
+        "decade:1990s": 111,
+        "year:1995": 10
+      },
+      "artists": [
+        {
+          "slug": "corona",
+          "title": "Corona",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.106,
+        0.351,
+        0.582,
+        0.645,
+        0.694,
+        0.722,
+        0.691,
+        0.645,
+        0.64,
+        0.63,
+        0.615,
+        0.595,
+        0.57,
+        0.54,
+        0.505,
+        0.465,
+        0.42,
+        0.37,
+        0.315,
+        0.255,
+        0.19,
+        0.12,
+        0.045,
+        0
+      ],
+      "debutScore": 0.106,
+      "peakScore": 0.722,
+      "duration": 6,
+      "score": 10.710999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-01",
+        "title": "January 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 1
+      },
+      "rank": 25
+    },
+    {
+      "title": "The Glamorous Life",
+      "instanceSlug": 440,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1984-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:sheila-e": 1,
+        "genre:dance": 26,
+        "decade:1980s": 168,
+        "year:1984": 15
+      },
+      "artists": [
+        {
+          "slug": "sheila-e",
+          "title": "Sheila E",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.351,
+        0.554,
+        0.768,
+        0.786,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.786,
+      "duration": 6,
+      "score": 10.322000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-08",
+        "title": "August 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 8
+      },
+      "rank": 26
+    },
+    {
+      "title": "Ready for This",
+      "instanceSlug": 1816,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:2-unlimited": 1,
+        "genre:dance": 27,
+        "decade:1990s": 118,
+        "year:1995": 11
+      },
+      "artists": [
+        {
+          "slug": "2-unlimited",
+          "title": "2 Unlimited",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.351,
+        0.498,
+        0.612,
+        0.659,
+        0.694,
+        0.675,
+        0.642,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 10.308000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-01",
+        "title": "January 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 1
+      },
+      "rank": 27
+    },
+    {
+      "title": "Lovergirl",
+      "instanceSlug": 1133,
+      "tags": [
+        "lover"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:teena-marie": 1,
+        "genre:dance": 28,
+        "decade:1980s": 173,
+        "year:1985": 11
+      },
+      "artists": [
+        {
+          "slug": "teena-marie",
+          "title": "Teena Marie",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.132,
+        0.431,
+        0.612,
+        0.668,
+        0.694,
+        0.668,
+        0.645,
+        0.612,
+        0.582,
+        0.554,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.132,
+      "peakScore": 0.694,
+      "duration": 7,
+      "score": 10.295,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-02",
+        "title": "February 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 2
+      },
+      "rank": 28
+    },
+    {
+      "title": "She Works Hard for the Money",
+      "instanceSlug": 521,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1983-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:donna-summer": 1,
+        "genre:dance": 29,
+        "decade:1980s": 176,
+        "year:1983": 23
+      },
+      "artists": [
+        {
+          "slug": "donna-summer",
+          "title": "Donna Summer",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.546,
+        0.752,
+        0.786,
+        0.752,
+        0.701,
+        0.645,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.786,
+      "duration": 6,
+      "score": 10.257000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-07",
+        "title": "July 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 7
+      },
+      "rank": 29
+    },
+    {
+      "title": "Strike It Up",
+      "instanceSlug": 1146,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1991,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:black-box": 2,
+        "genre:dance": 30,
+        "decade:1990s": 135,
+        "year:1991": 29
+      },
+      "artists": [
+        {
+          "slug": "black-box",
+          "title": "Black Box",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.463,
+        0.694,
+        0.768,
+        0.701,
+        0.696,
+        0.686,
+        0.671,
+        0.651,
+        0.626,
+        0.596,
+        0.561,
+        0.521,
+        0.476,
+        0.426,
+        0.371,
+        0.311,
+        0.246,
+        0.176,
+        0.101,
+        0.021,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 9.882000000000003,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1991,
+        "title": 1991,
+        "decade": 1990,
+        "year": 1991
+      },
+      "rank": 30
+    },
+    {
+      "title": "Dynamite",
+      "instanceSlug": 1751,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "2010s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:taio-cruz": 1,
+        "genre:dance": 31,
+        "decade:2010s": 9
+      },
+      "artists": [
+        {
+          "slug": "taio-cruz",
+          "title": "Taio Cruz",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.267,
+        0.463,
+        0.546,
+        0.633,
+        0.694,
+        0.662,
+        0.622,
+        0.617,
+        0.607,
+        0.592,
+        0.572,
+        0.547,
+        0.517,
+        0.482,
+        0.442,
+        0.397,
+        0.347,
+        0.292,
+        0.232,
+        0.167,
+        0.097,
+        0.022,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.871999999999998,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2010s",
+        "title": "2010s",
+        "decade": 2010
+      },
+      "rank": 31
+    },
+    {
+      "title": "Move This",
+      "instanceSlug": 1076,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1992-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:technotronic": 1,
+        "genre:dance": 32,
+        "playlist:summer": 65,
+        "source:summer": 65,
+        "decade:1990s": 142,
+        "year:1992": 23
+      },
+      "artists": [
+        {
+          "slug": "technotronic",
+          "title": "Technotronic",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.108,
+        0.513,
+        0.694,
+        0.737,
+        0.695,
+        0.69,
+        0.68,
+        0.665,
+        0.645,
+        0.62,
+        0.59,
+        0.555,
+        0.515,
+        0.47,
+        0.42,
+        0.365,
+        0.305,
+        0.24,
+        0.17,
+        0.095,
+        0.015,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.737,
+      "duration": 6,
+      "score": 9.787,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-07",
+        "title": "July 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 7
+      },
+      "rank": 32
+    },
+    {
+      "title": "Party All the Time",
+      "instanceSlug": 486,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:eddie-murphy": 1,
+        "genre:dance": 33,
+        "decade:1980s": 203,
+        "year:1985": 16
+      },
+      "artists": [
+        {
+          "slug": "eddie-murphy",
+          "title": "Eddie Murphy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.463,
+        0.645,
+        0.668,
+        0.675,
+        0.656,
+        0.612,
+        0.607,
+        0.597,
+        0.582,
+        0.562,
+        0.537,
+        0.507,
+        0.472,
+        0.432,
+        0.387,
+        0.337,
+        0.282,
+        0.222,
+        0.157,
+        0.087,
+        0.012,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.675,
+      "duration": 6,
+      "score": 9.786000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-12",
+        "title": "December 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 12
+      },
+      "rank": 33
+    },
+    {
+      "title": "I Wanna Be The One",
+      "instanceSlug": 308,
+      "tags": [
+        "i-want",
+        "the-one",
+        "want"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1990,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-b": 1,
+        "genre:dance": 34,
+        "decade:1990s": 143,
+        "year:1990": 22
+      },
+      "artists": [
+        {
+          "slug": "stevie-b",
+          "title": "Stevie B",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.232,
+        0.45,
+        0.668,
+        0.887,
+        0.968,
+        0.864,
+        0.768,
+        0.681,
+        0.582,
+        0.484,
+        0.386,
+        0.381,
+        0.371,
+        0.356,
+        0.336,
+        0.311,
+        0.281,
+        0.246,
+        0.206,
+        0.161,
+        0.111,
+        0.056,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.968,
+      "duration": 6,
+      "score": 9.786,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1990,
+        "title": 1990,
+        "decade": 1990,
+        "year": 1990
+      },
+      "rank": 34
+    },
+    {
+      "title": "Thriller",
+      "instanceSlug": 12,
+      "tags": [
+        "album-title"
+      ],
+      "source": {
+        "title": "Thriller",
+        "instanceSlug": "thriller",
+        "tags": [
+          "michael-jackson"
+        ],
+        "type": "album"
+      },
+      "playlists": [
+        {
+          "slug": "halloween",
+          "title": "Halloween"
+        }
+      ],
+      "genre": "dance",
+      "debut": "1984-02",
+      "ranks": {
+        "artist:michael-jackson": 19,
+        "genre:dance": 35,
+        "playlist:halloween": 2,
+        "source:halloween": 2,
+        "decade:1980s": 217,
+        "year:1984": 19
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.37,
+        0.563,
+        0.768,
+        0.697,
+        0.692,
+        0.682,
+        0.667,
+        0.647,
+        0.622,
+        0.592,
+        0.557,
+        0.517,
+        0.472,
+        0.422,
+        0.367,
+        0.307,
+        0.242,
+        0.172,
+        0.097,
+        0.017,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 9.641,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "debutEra": {
+        "slug": "1984-02",
+        "title": "February 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 2
+      },
+      "rank": 35
+    },
+    {
+      "title": "So Emotional",
+      "instanceSlug": 944,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:whitney-houston": 5,
+        "genre:dance": 36,
+        "decade:1980s": 218,
+        "year:1987": 43
+      },
+      "artists": [
+        {
+          "slug": "whitney-houston",
+          "title": "Whitney Houston",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.286,
+        0.477,
+        0.622,
+        0.694,
+        0.668,
+        0.645,
+        0.602,
+        0.554,
+        0.549,
+        0.539,
+        0.524,
+        0.504,
+        0.479,
+        0.449,
+        0.414,
+        0.374,
+        0.329,
+        0.279,
+        0.224,
+        0.164,
+        0.099,
+        0.029,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.601000000000003,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-11",
+        "title": "November 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 11
+      },
+      "rank": 36
+    },
+    {
+      "title": "It Feels So Good",
+      "instanceSlug": 2531,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "2000-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:sonique": 1,
+        "genre:dance": 37,
+        "decade:2000s": 16,
+        "year:2000": 6
+      },
+      "artists": [
+        {
+          "slug": "sonique",
+          "title": "Sonique",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.582,
+        0.645,
+        0.694,
+        0.661,
+        0.656,
+        0.646,
+        0.631,
+        0.611,
+        0.586,
+        0.556,
+        0.521,
+        0.481,
+        0.436,
+        0.386,
+        0.331,
+        0.271,
+        0.206,
+        0.136,
+        0.061,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.568,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2000-02",
+        "title": "February 2000",
+        "decade": 2000,
+        "year": 2000,
+        "month": 2
+      },
+      "rank": 37
+    },
+    {
+      "title": "Coming Out",
+      "instanceSlug": 1006,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:diana-ross": 1,
+        "genre:dance": 38,
+        "decade:1980s": 225,
+        "year:1980": 16
+      },
+      "artists": [
+        {
+          "slug": "diana-ross",
+          "title": "Diana Ross",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.2,
+        0.592,
+        0.765,
+        0.701,
+        0.696,
+        0.686,
+        0.671,
+        0.651,
+        0.626,
+        0.596,
+        0.561,
+        0.521,
+        0.476,
+        0.426,
+        0.371,
+        0.311,
+        0.246,
+        0.176,
+        0.101,
+        0.021,
+        0
+      ],
+      "debutScore": 0.2,
+      "peakScore": 0.765,
+      "duration": 6,
+      "score": 9.394000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-10",
+        "title": "October 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 10
+      },
+      "rank": 38
+    },
+    {
+      "title": "Opposites Attract",
+      "instanceSlug": 1331,
+      "tags": [
+        "attract",
+        "opposite"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:paula-abdul": 5,
+        "artist:the-wild-pair": 1,
+        "genre:dance": 39,
+        "decade:1990s": 158,
+        "year:1990": 27
+      },
+      "artists": [
+        {
+          "slug": "paula-abdul",
+          "title": "Paula Abdul",
+          "roleSlug": true
+        },
+        {
+          "slug": "the-wild-pair"
+        }
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.537,
+        0.645,
+        0.694,
+        0.645,
+        0.64,
+        0.63,
+        0.615,
+        0.595,
+        0.57,
+        0.54,
+        0.505,
+        0.465,
+        0.42,
+        0.37,
+        0.315,
+        0.255,
+        0.19,
+        0.12,
+        0.045,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 9.318,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-01",
+        "title": "January 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 1
+      },
+      "rank": 39
+    },
+    {
+      "title": "Get Up (Before the Night Is Over)",
+      "instanceSlug": 1349,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:technotronic": 2,
+        "genre:dance": 40,
+        "decade:1990s": 162,
+        "year:1990": 28
+      },
+      "artists": [
+        {
+          "slug": "technotronic",
+          "title": "Technotronic",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.298,
+        0.529,
+        0.645,
+        0.708,
+        0.662,
+        0.607,
+        0.602,
+        0.592,
+        0.577,
+        0.557,
+        0.532,
+        0.502,
+        0.467,
+        0.427,
+        0.382,
+        0.332,
+        0.277,
+        0.217,
+        0.152,
+        0.082,
+        0.007,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.708,
+      "duration": 6,
+      "score": 9.274,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-02",
+        "title": "February 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 2
+      },
+      "rank": 40
+    },
+    {
+      "title": "Material Girl",
+      "instanceSlug": 974,
+      "tags": [
+        "girl",
+        "material"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:madonna": 6,
+        "genre:dance": 41,
+        "decade:1980s": 232,
+        "year:1985": 18
+      },
+      "artists": [
+        {
+          "slug": "madonna",
+          "title": "Madonna",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.302,
+        0.506,
+        0.722,
+        0.722,
+        0.645,
+        0.64,
+        0.63,
+        0.615,
+        0.595,
+        0.57,
+        0.54,
+        0.505,
+        0.465,
+        0.42,
+        0.37,
+        0.315,
+        0.255,
+        0.19,
+        0.12,
+        0.045,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.722,
+      "duration": 6,
+      "score": 9.268999999999998,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-03",
+        "title": "March 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 3
+      },
+      "rank": 41
+    },
+    {
+      "title": "Crush on You",
+      "instanceSlug": 798,
+      "tags": [
+        "this-on-that"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jets": 2,
+        "genre:dance": 42,
+        "decade:1980s": 239,
+        "year:1986": 24
+      },
+      "artists": [
+        {
+          "slug": "jets",
+          "title": "The Jets",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.122,
+        0.323,
+        0.529,
+        0.737,
+        0.681,
+        0.676,
+        0.666,
+        0.651,
+        0.631,
+        0.606,
+        0.576,
+        0.541,
+        0.501,
+        0.456,
+        0.406,
+        0.351,
+        0.291,
+        0.226,
+        0.156,
+        0.081,
+        0.001,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.737,
+      "duration": 6,
+      "score": 9.208,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-05",
+        "title": "May 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 5
+      },
+      "rank": 42
+    },
+    {
+      "title": "Baby Love",
+      "instanceSlug": 292,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:regina": 1,
+        "genre:dance": 43,
+        "decade:1980s": 242,
+        "year:1986": 25
+      },
+      "artists": [
+        {
+          "slug": "regina",
+          "title": "Regina",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.402,
+        0.546,
+        0.592,
+        0.633,
+        0.612,
+        0.582,
+        0.554,
+        0.529,
+        0.477,
+        0.472,
+        0.462,
+        0.447,
+        0.427,
+        0.402,
+        0.372,
+        0.337,
+        0.297,
+        0.252,
+        0.202,
+        0.147,
+        0.087,
+        0.022,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.633,
+      "duration": 7,
+      "score": 9.14,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-08",
+        "title": "August 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 8
+      },
+      "rank": 43
+    },
+    {
+      "title": "U Got the Look",
+      "instanceSlug": 232,
+      "tags": [
+        "#2"
+      ],
+      "genre": "dance",
+      "debut": "1987-09",
+      "ranks": {
+        "artist:prince": 10,
+        "artist:sheena-easton": 3,
+        "genre:dance": 44,
+        "decade:1980s": 244,
+        "year:1987": 47
+      },
+      "artists": [
+        {
+          "slug": "prince",
+          "title": "Prince",
+          "roleSlug": true
+        },
+        {
+          "slug": "sheena-easton",
+          "title": "Sheena Easton",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.529,
+        0.737,
+        0.712,
+        0.65,
+        0.645,
+        0.635,
+        0.62,
+        0.6,
+        0.575,
+        0.545,
+        0.51,
+        0.47,
+        0.425,
+        0.375,
+        0.32,
+        0.26,
+        0.195,
+        0.125,
+        0.05,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.737,
+      "duration": 6,
+      "score": 9.123,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-09",
+        "title": "September 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 9
+      },
+      "rank": 44
+    },
+    {
+      "title": "Don't Stop 'Til You Get Enough",
+      "instanceSlug": 1230,
+      "tags": [
+      ],
+      "source": {
+        "title": "Off the Wall",
+        "instanceSlug": "off-the-wall",
+        "tags": [
+        ],
+        "type": "album"
+      },
+      "genre": "dance",
+      "debut": "1979-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michael-jackson": 21,
+        "genre:dance": 45,
+        "decade:1970s": 30,
+        "year:1979": 10
+      },
+      "artists": [
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.351,
+        0.546,
+        0.612,
+        0.645,
+        0.617,
+        0.589,
+        0.56,
+        0.525,
+        0.52,
+        0.51,
+        0.495,
+        0.475,
+        0.45,
+        0.42,
+        0.385,
+        0.345,
+        0.3,
+        0.25,
+        0.195,
+        0.135,
+        0.07,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.645,
+      "duration": 6,
+      "score": 9.070000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "debutEra": {
+        "slug": "1979-09",
+        "title": "September 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 9
+      },
+      "rank": 45
+    },
+    {
+      "title": "Jump (for My Love)",
+      "instanceSlug": 108,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1984-05",
+      "ranks": {
+        "artist:pointer-sisters": 5,
+        "genre:dance": 46,
+        "decade:1980s": 248,
+        "year:1984": 22
+      },
+      "artists": [
+        {
+          "slug": "pointer-sisters",
+          "title": "Pointer Sisters",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.546,
+        0.752,
+        0.715,
+        0.639,
+        0.634,
+        0.624,
+        0.609,
+        0.589,
+        0.564,
+        0.534,
+        0.499,
+        0.459,
+        0.414,
+        0.364,
+        0.309,
+        0.249,
+        0.184,
+        0.114,
+        0.039,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 8.982,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-05",
+        "title": "May 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 5
+      },
+      "rank": 46
+    },
+    {
+      "title": "Man-Sized Love",
+      "instanceSlug": 283,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:klymaxx": 2,
+        "genre:dance": 47,
+        "decade:1980s": 262,
+        "year:1986": 26
+      },
+      "artists": [
+        {
+          "slug": "klymaxx",
+          "title": "Klymaxx",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.137,
+        0.521,
+        0.633,
+        0.694,
+        0.656,
+        0.612,
+        0.554,
+        0.549,
+        0.539,
+        0.524,
+        0.504,
+        0.479,
+        0.449,
+        0.414,
+        0.374,
+        0.329,
+        0.279,
+        0.224,
+        0.164,
+        0.099,
+        0.029,
+        0
+      ],
+      "debutScore": 0.137,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 8.763,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-08",
+        "title": "August 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 8
+      },
+      "rank": 47
+    },
+    {
+      "title": "It's Raining Men",
+      "instanceSlug": 1024,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1983,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:weather-girls": 1,
+        "genre:dance": 48,
+        "decade:1980s": 270,
+        "year:1983": 38
+      },
+      "artists": [
+        {
+          "slug": "weather-girls",
+          "title": "Weather Girls",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.351,
+        0.463,
+        0.582,
+        0.602,
+        0.582,
+        0.563,
+        0.546,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.602,
+      "duration": 6,
+      "score": 8.654,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1983,
+        "title": 1983,
+        "decade": 1980,
+        "year": 1983
+      },
+      "rank": 48
+    },
+    {
+      "title": "I Beg Your Pardon",
+      "instanceSlug": 1922,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kon-kan": 1,
+        "genre:dance": 49,
+        "decade:1980s": 280,
+        "year:1989": 28
+      },
+      "artists": [
+        {
+          "slug": "kon-kan",
+          "title": "Kon Kan",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.506,
+        0.582,
+        0.633,
+        0.591,
+        0.586,
+        0.576,
+        0.561,
+        0.541,
+        0.516,
+        0.486,
+        0.451,
+        0.411,
+        0.366,
+        0.316,
+        0.261,
+        0.201,
+        0.136,
+        0.066,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.552,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-02",
+        "title": "February 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 2
+      },
+      "rank": 49
+    },
+    {
+      "title": "C'Mon N' Ride It (The Train)",
+      "instanceSlug": 599,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1996-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:quad-city-djs": 1,
+        "genre:dance": 50,
+        "playlist:summer": 82,
+        "source:summer": 82,
+        "decade:1990s": 191,
+        "year:1996": 14
+      },
+      "artists": [
+        {
+          "slug": "quad-city-djs",
+          "title": "Quad City DJs",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.351,
+        0.554,
+        0.752,
+        0.722,
+        0.612,
+        0.546,
+        0.541,
+        0.531,
+        0.516,
+        0.496,
+        0.471,
+        0.441,
+        0.406,
+        0.366,
+        0.321,
+        0.271,
+        0.216,
+        0.156,
+        0.091,
+        0.021,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.752,
+      "duration": 6,
+      "score": 8.526,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-06",
+        "title": "June 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 6
+      },
+      "rank": 50
+    },
+    {
+      "title": "Operator",
+      "instanceSlug": 1757,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:midnight-star": 2,
+        "genre:dance": 51,
+        "decade:1980s": 286,
+        "year:1985": 25
+      },
+      "artists": [
+        {
+          "slug": "midnight-star",
+          "title": "Midnight Star",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.463,
+        0.612,
+        0.633,
+        0.608,
+        0.565,
+        0.56,
+        0.55,
+        0.535,
+        0.515,
+        0.49,
+        0.46,
+        0.425,
+        0.385,
+        0.34,
+        0.29,
+        0.235,
+        0.175,
+        0.11,
+        0.04,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.461999999999998,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-01",
+        "title": "January 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 1
+      },
+      "rank": 51
+    },
+    {
+      "title": "Here Comes the Hotstepper",
+      "instanceSlug": 1826,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1994-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ina-kimoze": 1,
+        "genre:dance": 52,
+        "decade:1990s": 202,
+        "year:1994": 19
+      },
+      "artists": [
+        {
+          "slug": "ina-kimoze",
+          "title": "Ini Kamoze",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.095,
+        0.271,
+        0.498,
+        0.622,
+        0.645,
+        0.612,
+        0.563,
+        0.558,
+        0.548,
+        0.533,
+        0.513,
+        0.488,
+        0.458,
+        0.423,
+        0.383,
+        0.338,
+        0.288,
+        0.233,
+        0.173,
+        0.108,
+        0.038,
+        0
+      ],
+      "debutScore": 0.095,
+      "peakScore": 0.645,
+      "duration": 6,
+      "score": 8.388000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-11",
+        "title": "November 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 11
+      },
+      "rank": 52
+    },
+    {
+      "title": "Hooked on You",
+      "instanceSlug": 1749,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:sweet-sensation": 1,
+        "genre:dance": 53,
+        "decade:1980s": 312,
+        "year:1989": 32
+      },
+      "artists": [
+        {
+          "slug": "sweet-sensation",
+          "title": "Sweet Sensation",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.267,
+        0.402,
+        0.47,
+        0.554,
+        0.602,
+        0.582,
+        0.546,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.602,
+      "duration": 6,
+      "score": 8.174999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-07",
+        "title": "July 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 7
+      },
+      "rank": 53
+    },
+    {
+      "title": "Head to Toe",
+      "instanceSlug": 2042,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:lisa-lisa-cult-jam": 2,
+        "genre:dance": 54,
+        "decade:1980s": 318,
+        "year:1987": 59
+      },
+      "artists": [
+        {
+          "slug": "lisa-lisa-cult-jam",
+          "title": "Lisa Lisa & Cult Jam",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.306,
+        0.498,
+        0.582,
+        0.633,
+        0.592,
+        0.546,
+        0.541,
+        0.531,
+        0.516,
+        0.496,
+        0.471,
+        0.441,
+        0.406,
+        0.366,
+        0.321,
+        0.271,
+        0.216,
+        0.156,
+        0.091,
+        0.021,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 8.121,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-05",
+        "title": "May 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 5
+      },
+      "rank": 54
+    },
+    {
+      "title": "Escapade",
+      "instanceSlug": 1950,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:janet-jackson": 9,
+        "genre:dance": 55,
+        "decade:1990s": 211,
+        "year:1990": 37
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.694,
+        0.668,
+        0.622,
+        0.554,
+        0.549,
+        0.539,
+        0.524,
+        0.504,
+        0.479,
+        0.449,
+        0.414,
+        0.374,
+        0.329,
+        0.279,
+        0.224,
+        0.164,
+        0.099,
+        0.029,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.694,
+      "duration": 6,
+      "score": 8.016,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-02",
+        "title": "February 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 2
+      },
+      "rank": 55
+    },
+    {
+      "title": "Better Off Alone",
+      "instanceSlug": 2100,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "2000-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alice-deejay": 1,
+        "genre:dance": 56,
+        "decade:2000s": 22,
+        "year:2000": 9
+      },
+      "artists": [
+        {
+          "slug": "alice-deejay",
+          "title": "Alice Deejay",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.498,
+        0.633,
+        0.628,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.633,
+      "duration": 5,
+      "score": 7.984000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2000-05",
+        "title": "May 2000",
+        "decade": 2000,
+        "year": 2000,
+        "month": 5
+      },
+      "rank": 56
+    },
+    {
+      "title": "Upside Down",
+      "instanceSlug": 527,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1980-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:diana-ross": 2,
+        "genre:dance": 57,
+        "decade:1980s": 342,
+        "year:1980": 24
+      },
+      "artists": [
+        {
+          "slug": "diana-ross",
+          "title": "Diana Ross",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.402,
+        0.537,
+        0.633,
+        0.592,
+        0.587,
+        0.577,
+        0.562,
+        0.542,
+        0.517,
+        0.487,
+        0.452,
+        0.412,
+        0.367,
+        0.317,
+        0.262,
+        0.202,
+        0.137,
+        0.067,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.633,
+      "duration": 5,
+      "score": 7.772000000000002,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-08",
+        "title": "August 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 8
+      },
+      "rank": 57
+    },
+    {
+      "title": "Tell Me",
+      "instanceSlug": 1423,
+      "tags": [
+        "me",
+        "tell",
+        "tell-me"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:groove-theory": 1,
+        "genre:dance": 58,
+        "decade:1990s": 227,
+        "year:1995": 23
+      },
+      "artists": [
+        {
+          "slug": "groove-theory",
+          "title": "Groove Theory",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.073,
+        0.311,
+        0.47,
+        0.563,
+        0.582,
+        0.562,
+        0.527,
+        0.522,
+        0.512,
+        0.497,
+        0.477,
+        0.452,
+        0.422,
+        0.387,
+        0.347,
+        0.302,
+        0.252,
+        0.197,
+        0.137,
+        0.072,
+        0.002,
+        0
+      ],
+      "debutScore": 0.073,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.665999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-10",
+        "title": "October 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 10
+      },
+      "rank": 58
+    },
+    {
+      "title": "Everybody Dance",
+      "instanceSlug": 1745,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tamara-the-scene": 1,
+        "genre:dance": 59,
+        "decade:1980s": 357,
+        "year:1986": 38
+      },
+      "artists": [
+        {
+          "slug": "tamara-the-scene",
+          "title": "Tamara & the Scene",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.132,
+        0.376,
+        0.55,
+        0.622,
+        0.602,
+        0.563,
+        0.517,
+        0.463,
+        0.458,
+        0.448,
+        0.433,
+        0.413,
+        0.388,
+        0.358,
+        0.323,
+        0.283,
+        0.238,
+        0.188,
+        0.133,
+        0.073,
+        0.008,
+        0
+      ],
+      "debutScore": 0.132,
+      "peakScore": 0.622,
+      "duration": 6,
+      "score": 7.569,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-01",
+        "title": "January 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 1
+      },
+      "rank": 59
+    },
+    {
+      "title": "Love Bazaar",
+      "instanceSlug": 1740,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:prince": 13,
+        "artist:sheila-e": 2,
+        "genre:dance": 60,
+        "decade:1980s": 372,
+        "year:1986": 39
+      },
+      "artists": [
+        {
+          "slug": "sheila-e",
+          "title": "Sheila E",
+          "roleSlug": true
+        },
+        {
+          "slug": "prince",
+          "title": "Prince",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.477,
+        0.517,
+        0.537,
+        0.517,
+        0.491,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.537,
+      "duration": 6,
+      "score": 7.334999999999998,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-01",
+        "title": "January 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 1
+      },
+      "rank": 60
+    },
+    {
+      "title": "Brand New Lover",
+      "instanceSlug": 491,
+      "tags": [
+        "feb13",
+        "lover",
+        "new"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:dead-or-alive": 2,
+        "genre:dance": 61,
+        "decade:1980s": 381,
+        "year:1987": 65
+      },
+      "artists": [
+        {
+          "slug": "dead-or-alive",
+          "title": "Dead or Alive",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.351,
+        0.386,
+        0.47,
+        0.521,
+        0.537,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.537,
+      "duration": 6,
+      "score": 7.248999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-02",
+        "title": "February 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 2
+      },
+      "rank": 61
+    },
+    {
+      "title": "Pump Up the Jam",
+      "instanceSlug": 1330,
+      "tags": [
+        "jam",
+        "pump",
+        "up"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:technotronic": 3,
+        "genre:dance": 62,
+        "decade:1980s": 385,
+        "year:1989": 35
+      },
+      "artists": [
+        {
+          "slug": "technotronic",
+          "title": "Technotronic",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.45,
+        0.529,
+        0.582,
+        0.563,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.127999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-11",
+        "title": "November 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 11
+      },
+      "rank": 62
+    },
+    {
+      "title": "Lucky Star",
+      "instanceSlug": 434,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1984-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:madonna": 13,
+        "genre:dance": 63,
+        "decade:1980s": 395,
+        "year:1984": 35
+      },
+      "artists": [
+        {
+          "slug": "madonna",
+          "title": "Madonna",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.282,
+        0.47,
+        0.554,
+        0.582,
+        0.521,
+        0.516,
+        0.506,
+        0.491,
+        0.471,
+        0.446,
+        0.416,
+        0.381,
+        0.341,
+        0.296,
+        0.246,
+        0.191,
+        0.131,
+        0.066,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.582,
+      "duration": 5,
+      "score": 7.004,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-09",
+        "title": "September 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 9
+      },
+      "rank": 63
+    },
+    {
+      "title": "It Takes Two",
+      "instanceSlug": 1951,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:seduction": 1,
+        "genre:dance": 64,
+        "decade:1990s": 250,
+        "year:1990": 43
+      },
+      "artists": [
+        {
+          "slug": "seduction",
+          "title": "Seduction",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.086,
+        0.216,
+        0.376,
+        0.491,
+        0.563,
+        0.546,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.563,
+      "duration": 6,
+      "score": 6.974999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-02",
+        "title": "February 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 2
+      },
+      "rank": 64
+    },
+    {
+      "title": "Good Vibrations",
+      "instanceSlug": 971,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1991-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:marky-mark-the-funky-bunch": 1,
+        "genre:dance": 65,
+        "decade:1990s": 253,
+        "year:1991": 51
+      },
+      "artists": [
+        {
+          "slug": "marky-mark-the-funky-bunch",
+          "title": "Marky Mark & the Funky Bunch",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.122,
+        0.311,
+        0.498,
+        0.622,
+        0.546,
+        0.541,
+        0.531,
+        0.516,
+        0.496,
+        0.471,
+        0.441,
+        0.406,
+        0.366,
+        0.321,
+        0.271,
+        0.216,
+        0.156,
+        0.091,
+        0.021,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.622,
+      "duration": 5,
+      "score": 6.942999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-09",
+        "title": "September 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 9
+      },
+      "rank": 65
+    },
+    {
+      "title": "Ooh Ahh… Just a Little Bit",
+      "instanceSlug": 1913,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1997-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:gina-g": 1,
+        "genre:dance": 66,
+        "decade:1990s": 254,
+        "year:1997": 11
+      },
+      "artists": [
+        {
+          "slug": "gina-g",
+          "title": "Gina G",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.351,
+        0.45,
+        0.498,
+        0.537,
+        0.497,
+        0.492,
+        0.482,
+        0.467,
+        0.447,
+        0.422,
+        0.392,
+        0.357,
+        0.317,
+        0.272,
+        0.222,
+        0.167,
+        0.107,
+        0.042,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.537,
+      "duration": 6,
+      "score": 6.8260000000000005,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-01",
+        "title": "January 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 1
+      },
+      "rank": 66
+    },
+    {
+      "title": "Neutron Dance",
+      "instanceSlug": 1632,
+      "tags": [
+        "dance"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-01",
+      "source": {
+        "title": "Beverly Hills Cop",
+        "instanceSlug": "beverly-hills-cop",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pointer-sisters": 7,
+        "genre:dance": 67,
+        "decade:1980s": 449,
+        "year:1985": 36
+      },
+      "artists": [
+        {
+          "slug": "pointer-sisters",
+          "title": "Pointer Sisters",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.414,
+        0.546,
+        0.522,
+        0.487,
+        0.482,
+        0.472,
+        0.457,
+        0.437,
+        0.412,
+        0.382,
+        0.347,
+        0.307,
+        0.262,
+        0.212,
+        0.157,
+        0.097,
+        0.032,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.546,
+      "duration": 5,
+      "score": 6.293,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "debutEra": {
+        "slug": "1985-01",
+        "title": "January 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 1
+      },
+      "rank": 67
+    },
+    {
+      "title": "Things That Make You Go Hmm",
+      "instanceSlug": 957,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1991-08",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:c-c-music-factory": 1,
+        "genre:dance": 68,
+        "playlist:summer": 112,
+        "source:summer": 112,
+        "decade:1990s": 281,
+        "year:1991": 57
+      },
+      "artists": [
+        {
+          "slug": "c-c-music-factory",
+          "title": "C+C Music Factory",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.158,
+        0.341,
+        0.529,
+        0.612,
+        0.529,
+        0.456,
+        0.451,
+        0.441,
+        0.426,
+        0.406,
+        0.381,
+        0.351,
+        0.316,
+        0.276,
+        0.231,
+        0.181,
+        0.126,
+        0.066,
+        0.001,
+        0
+      ],
+      "debutScore": 0.158,
+      "peakScore": 0.612,
+      "duration": 5,
+      "score": 6.2780000000000005,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-08",
+        "title": "August 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 8
+      },
+      "rank": 68
+    },
+    {
+      "title": "Let's Hear It For the Boy",
+      "instanceSlug": 90,
+      "tags": [
+      ],
+      "source": {
+        "title": "Footloose",
+        "instanceSlug": "footloose",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "genre": "dance",
+      "debut": 1984,
+      "ranks": {
+        "artist:deniece-williams": 1,
+        "genre:dance": 69,
+        "decade:1980s": 458,
+        "year:1984": 43
+      },
+      "artists": [
+        {
+          "slug": "deniece-williams",
+          "title": "Deniece Williams",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.463,
+        0.484,
+        0.506,
+        0.497,
+        0.456,
+        0.451,
+        0.441,
+        0.426,
+        0.406,
+        0.381,
+        0.351,
+        0.316,
+        0.276,
+        0.231,
+        0.181,
+        0.126,
+        0.066,
+        0.001,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.506,
+      "duration": 5,
+      "score": 6.156000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "debutEra": {
+        "slug": 1984,
+        "title": 1984,
+        "decade": 1980,
+        "year": 1984
+      },
+      "rank": 69
+    },
+    {
+      "title": "Sidewalk Talk",
+      "instanceSlug": 1748,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1986-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:madonna": 23,
+        "artist:jellybean": 2,
+        "artist:catherine-buchanan": 1,
+        "genre:dance": 70,
+        "decade:1980s": 528,
+        "year:1986": 56
+      },
+      "artists": [
+        {
+          "slug": "jellybean",
+          "title": "Jellybean",
+          "roleSlug": true
+        },
+        {
+          "slug": "catherine-buchanan",
+          "title": "Catherine Buchanan",
+          "roleSlug": "feature"
+        },
+        {
+          "slug": "madonna",
+          "title": "Madonna",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": [
+        0.086,
+        0.232,
+        0.365,
+        0.431,
+        0.447,
+        0.437,
+        0.414,
+        0.381,
+        0.328,
+        0.323,
+        0.313,
+        0.298,
+        0.278,
+        0.253,
+        0.223,
+        0.188,
+        0.148,
+        0.103,
+        0.053,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.447,
+      "duration": 5,
+      "score": 5.300999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-01",
+        "title": "January 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 1
+      },
+      "rank": 70
+    },
+    {
+      "title": "Miss You Much",
+      "instanceSlug": 515,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:janet-jackson": 14,
+        "genre:dance": 71,
+        "decade:1980s": 530,
+        "year:1989": 56
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.286,
+        0.477,
+        0.506,
+        0.513,
+        0.402,
+        0.397,
+        0.387,
+        0.372,
+        0.352,
+        0.327,
+        0.297,
+        0.262,
+        0.222,
+        0.177,
+        0.127,
+        0.072,
+        0.012,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.513,
+      "duration": 5,
+      "score": 5.284999999999998,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-09",
+        "title": "September 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 9
+      },
+      "rank": 71
+    },
+    {
+      "title": "Moving On Up",
+      "instanceSlug": 1592,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1993-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:m-people": 1,
+        "genre:dance": 72,
+        "decade:1990s": 317,
+        "year:1993": 35
+      },
+      "artists": [
+        {
+          "slug": "m-people",
+          "title": "M-People",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.027,
+        0.239,
+        0.356,
+        0.431,
+        0.463,
+        0.437,
+        0.391,
+        0.386,
+        0.376,
+        0.361,
+        0.341,
+        0.316,
+        0.286,
+        0.251,
+        0.211,
+        0.166,
+        0.116,
+        0.061,
+        0.001,
+        0
+      ],
+      "debutScore": 0.027,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.216000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-12",
+        "title": "December 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 12
+      },
+      "rank": 72
+    },
+    {
+      "title": "Party Your Body",
+      "instanceSlug": 2530,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": 1988,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-b": 2,
+        "genre:dance": 73,
+        "decade:1980s": 575,
+        "year:1988": 64
+      },
+      "artists": [
+        {
+          "slug": "stevie-b",
+          "title": "Stevie B",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.267,
+        0.351,
+        0.463,
+        0.431,
+        0.426,
+        0.416,
+        0.401,
+        0.381,
+        0.356,
+        0.326,
+        0.291,
+        0.251,
+        0.206,
+        0.156,
+        0.101,
+        0.041,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 4.865000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1988,
+        "title": 1988,
+        "decade": 1980,
+        "year": 1988
+      },
+      "rank": 73
+    },
+    {
+      "title": "Total Eclipse of the Heart",
+      "instanceSlug": 338,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        },
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-08",
+      "ranks": {
+        "artist:nikki-french": 1,
+        "genre:dance": 74,
+        "playlist:summer": 135,
+        "playlist:remake": 15,
+        "source:summer": 135,
+        "source:remake": 15,
+        "decade:1990s": 352,
+        "year:1995": 34
+      },
+      "artists": [
+        {
+          "slug": "nikki-french",
+          "title": "Nicki French",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.306,
+        0.402,
+        0.402,
+        0.463,
+        0.351,
+        0.315,
+        0.282,
+        0.246,
+        0.241,
+        0.231,
+        0.216,
+        0.196,
+        0.171,
+        0.141,
+        0.106,
+        0.066,
+        0.021,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 4.463,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-08",
+        "title": "August 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 8
+      },
+      "rank": 74
+    },
+    {
+      "title": "Rhythm is a Dancer",
+      "instanceSlug": 873,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1992-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:snap": 1,
+        "genre:dance": 75,
+        "decade:1990s": 357,
+        "year:1992": 58
+      },
+      "artists": [
+        {
+          "slug": "snap",
+          "title": "Snap!",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.323,
+        0.431,
+        0.47,
+        0.447,
+        0.415,
+        0.306,
+        0.301,
+        0.291,
+        0.276,
+        0.256,
+        0.231,
+        0.201,
+        0.166,
+        0.126,
+        0.081,
+        0.031,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.47,
+      "duration": 5,
+      "score": 4.407000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-10",
+        "title": "October 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 10
+      },
+      "rank": 75
+    },
+    {
+      "title": "Getting Away With It",
+      "instanceSlug": 2270,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:electronic": 1,
+        "genre:dance": 76,
+        "playlist:summer": 140,
+        "source:summer": 140,
+        "decade:1990s": 374,
+        "year:1990": 60
+      },
+      "artists": [
+        {
+          "slug": "electronic",
+          "title": "Electronic",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.2,
+        0.286,
+        0.361,
+        0.402,
+        0.341,
+        0.336,
+        0.326,
+        0.311,
+        0.291,
+        0.266,
+        0.236,
+        0.201,
+        0.161,
+        0.116,
+        0.066,
+        0.011,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 3.9659999999999997,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-06",
+        "title": "June 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 6
+      },
+      "rank": 76
+    },
+    {
+      "title": "Please Don't Go",
+      "instanceSlug": 2987,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1997-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:no-mercy": 1,
+        "genre:dance": 77,
+        "playlist:summer": 141,
+        "source:summer": 141,
+        "decade:1990s": 377,
+        "year:1997": 13
+      },
+      "artists": [
+        {
+          "slug": "no-mercy",
+          "title": "No Mercy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.306,
+        0.346,
+        0.376,
+        0.341,
+        0.336,
+        0.326,
+        0.311,
+        0.291,
+        0.266,
+        0.236,
+        0.201,
+        0.161,
+        0.116,
+        0.066,
+        0.011,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.376,
+      "duration": 5,
+      "score": 3.9259999999999997,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-05",
+        "title": "May 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 5
+      },
+      "rank": 77
+    },
+    {
+      "title": "If",
+      "instanceSlug": 351,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1993-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:janet-jackson": 16,
+        "genre:dance": 78,
+        "decade:1990s": 378,
+        "year:1993": 38
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.02,
+        0.2,
+        0.275,
+        0.356,
+        0.386,
+        0.365,
+        0.311,
+        0.306,
+        0.296,
+        0.281,
+        0.261,
+        0.236,
+        0.206,
+        0.171,
+        0.131,
+        0.086,
+        0.036,
+        0
+      ],
+      "debutScore": 0.02,
+      "peakScore": 0.386,
+      "duration": 5,
+      "score": 3.923,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-08",
+        "title": "August 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 8
+      },
+      "rank": 78
+    },
+    {
+      "title": "The Wanderer",
+      "instanceSlug": 1007,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:donna-summer": 4,
+        "genre:dance": 79,
+        "decade:1980s": 677,
+        "year:1980": 47
+      },
+      "artists": [
+        {
+          "slug": "donna-summer",
+          "title": "Donna Summer",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.256,
+        0.437,
+        0.431,
+        0.328,
+        0.323,
+        0.313,
+        0.298,
+        0.278,
+        0.253,
+        0.223,
+        0.188,
+        0.148,
+        0.103,
+        0.053,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.437,
+      "duration": 4,
+      "score": 3.7090000000000005,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-09",
+        "title": "September 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 9
+      },
+      "rank": 79
+    },
+    {
+      "title": "Where Do You Go",
+      "instanceSlug": 601,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1996-08",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:no-mercy": 2,
+        "genre:dance": 80,
+        "playlist:summer": 146,
+        "source:summer": 146,
+        "decade:1990s": 381,
+        "year:1996": 33
+      },
+      "artists": [
+        {
+          "slug": "no-mercy",
+          "title": "No Mercy",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.015,
+        0.177,
+        0.286,
+        0.319,
+        0.337,
+        0.33,
+        0.314,
+        0.286,
+        0.246,
+        0.241,
+        0.231,
+        0.216,
+        0.196,
+        0.171,
+        0.141,
+        0.106,
+        0.066,
+        0.021,
+        0
+      ],
+      "debutScore": 0.015,
+      "peakScore": 0.337,
+      "duration": 5,
+      "score": 3.699,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-08",
+        "title": "August 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 8
+      },
+      "rank": 80
+    },
+    {
+      "title": "Get On Your Feet",
+      "instanceSlug": 1421,
+      "tags": [
+      ],
+      "genre": "dance",
+      "debut": "1989-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:gloria-estefan": 11,
+        "genre:dance": 81,
+        "decade:1980s": 709,
+        "year:1989": 72
+      },
+      "artists": [
+        {
+          "slug": "gloria-estefan",
+          "title": "Gloria Estefan",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.286,
+        0.356,
+        0.346,
+        0.341,
+        0.331,
+        0.316,
+        0.296,
+        0.271,
+        0.241,
+        0.206,
+        0.166,
+        0.121,
+        0.071,
+        0.016,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.356,
+      "duration": 4,
+      "score": 3.4,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-11",
+        "title": "November 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 11
+      },
+      "rank": 81
+    },
+    {
+      "title": "Tell Me Why",
+      "instanceSlug": 1948,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:expose": 4,
+        "genre:dance": 82,
+        "decade:1990s": 402,
+        "year:1990": 66
+      },
+      "artists": [
+        {
+          "slug": "expose",
+          "title": "Expose",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.351,
+        0.332,
+        0.298,
+        0.293,
+        0.283,
+        0.268,
+        0.248,
+        0.223,
+        0.193,
+        0.158,
+        0.118,
+        0.073,
+        0.023,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.351,
+      "duration": 4,
+      "score": 2.9359999999999995,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-02",
+        "title": "February 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 2
+      },
+      "rank": 82
+    },
+    {
+      "title": "Chains of Love",
+      "instanceSlug": 454,
+      "tags": [
+        "chain",
+        "love",
+        "this-of-that"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1988-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:erasure": 2,
+        "genre:dance": 83,
+        "decade:1980s": 753,
+        "year:1988": 86
+      },
+      "artists": [
+        {
+          "slug": "erasure",
+          "title": "Erasure",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.185,
+        0.37,
+        0.431,
+        0.356,
+        0.282,
+        0.206,
+        0.201,
+        0.191,
+        0.176,
+        0.156,
+        0.131,
+        0.101,
+        0.066,
+        0.026,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.431,
+      "duration": 4,
+      "score": 2.933,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-06",
+        "title": "June 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 6
+      },
+      "rank": 83
+    },
+    {
+      "title": "Romeo",
+      "instanceSlug": 199,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-09",
+      "ranks": {
+        "artist:dino": 4,
+        "genre:dance": 84,
+        "decade:1990s": 422,
+        "year:1990": 72
+      },
+      "artists": [
+        {
+          "slug": "dino",
+          "title": "Dino",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.108,
+        0.29,
+        0.239,
+        0.234,
+        0.224,
+        0.209,
+        0.189,
+        0.164,
+        0.134,
+        0.099,
+        0.059,
+        0.014,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.29,
+      "duration": 4,
+      "score": 1.9629999999999999,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-09",
+        "title": "September 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 9
+      },
+      "rank": 84
+    },
+    {
+      "title": "Nighttime",
+      "instanceSlug": 784,
+      "tags": [
+        "night"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1988-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pretty-poison": 2,
+        "genre:dance": 85,
+        "decade:1980s": 857,
+        "year:1988": 103
+      },
+      "artists": [
+        {
+          "slug": "pretty-poison",
+          "title": "Pretty Poison",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.194,
+        0.189,
+        0.179,
+        0.164,
+        0.144,
+        0.119,
+        0.089,
+        0.054,
+        0.014,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.267,
+      "duration": 3,
+      "score": 1.51,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-05",
+        "title": "May 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 5
+      },
+      "rank": 85
+    },
+    {
+      "title": "Like a Child",
+      "instanceSlug": 800,
+      "tags": [
+        "child",
+        "like"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1988-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:noel": 1,
+        "genre:dance": 86,
+        "decade:1980s": 896,
+        "year:1988": 111
+      },
+      "artists": [
+        {
+          "slug": "noel",
+          "title": "Noel",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.155,
+        0.15,
+        0.14,
+        0.125,
+        0.105,
+        0.08,
+        0.05,
+        0.015,
+        0
+      ],
+      "debutScore": 0.155,
+      "peakScore": 0.155,
+      "duration": 3,
+      "score": 0.8200000000000001,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-04",
+        "title": "April 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 4
+      },
+      "rank": 86
+    },
+    {
+      "title": "Dunkie Butt",
+      "instanceSlug": 2199,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1994-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:12-gauge": 1,
+        "genre:dance": 87,
+        "decade:1990s": 458,
+        "year:1994": 36
+      },
+      "artists": [
+        {
+          "slug": "12-gauge",
+          "title": "12 Gauge",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.055,
+        0.12,
+        0.079,
+        0.074,
+        0.064,
+        0.049,
+        0.029,
+        0.004,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.12,
+      "duration": 3,
+      "score": 0.47500000000000003,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-04",
+        "title": "April 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 4
+      },
+      "rank": 87
+    },
+    {
+      "title": "Barbie Girl",
+      "instanceSlug": 2120,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1997-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:aqua": 1,
+        "genre:dance": 88,
+        "decade:1990s": 837,
+        "year:1997": 26
+      },
+      "artists": [
+        {
+          "slug": "aqua",
+          "title": "Aqua",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-09",
+        "title": "September 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 9
+      },
+      "rank": 88
+    },
+    {
+      "title": "Heaven Knows",
+      "instanceSlug": 1556,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1979-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:donna-summer": 8,
+        "artist:brooklyn-dreams": 1,
+        "genre:dance": 89,
+        "decade:1970s": 206,
+        "year:1979": 72
+      },
+      "artists": [
+        {
+          "slug": "donna-summer",
+          "title": "Donna Summer",
+          "roleSlug": true
+        },
+        {
+          "slug": "brooklyn-dreams",
+          "title": "Brooklyn Dreams",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-02",
+        "title": "February 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 2
+      },
+      "rank": 89
+    },
+    {
+      "title": "Someone to Call My Lover",
+      "instanceSlug": 1784,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "2001-07",
+      "playlists": [
+        {
+          "slug": "sample"
+        }
+      ],
+      "ranks": {
+        "artist:janet-jackson": 24,
+        "genre:dance": 90,
+        "playlist:sample": 6,
+        "source:sample": 6,
+        "decade:2000s": 107,
+        "year:2001": 9
+      },
+      "artists": [
+        {
+          "slug": "janet-jackson",
+          "title": "Janet Jackson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2001-07",
+        "title": "July 2001",
+        "decade": 2000,
+        "year": 2001,
+        "month": 7
+      },
+      "rank": 90
+    },
+    {
+      "title": "Believe",
+      "instanceSlug": 42,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1998,
+      "ranks": {
+        "artist:cher": 7,
+        "genre:dance": 91,
+        "decade:1990s": 697,
+        "year:1998": 22
+      },
+      "artists": [
+        {
+          "slug": "cher",
+          "title": "Cher",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1998,
+        "title": 1998,
+        "decade": 1990,
+        "year": 1998
+      },
+      "rank": 91
+    },
+    {
+      "title": "Just a Touch of Love",
+      "instanceSlug": 2252,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:c-c-music-factory": 3,
+        "genre:dance": 92,
+        "decade:1990s": 480
+      },
+      "artists": [
+        {
+          "slug": "c-c-music-factory",
+          "title": "C+C Music Factory",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990s",
+        "title": "1990s",
+        "decade": 1990
+      },
+      "rank": 92
+    },
+    {
+      "title": "Love Child",
+      "instanceSlug": 2208,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:sweet-sensation": 4,
+        "genre:dance": 122,
+        "decade:1990s": 470,
+        "year:1990": 97
+      },
+      "artists": [
+        {
+          "slug": "sweet-sensation",
+          "title": "Sweet Sensation",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-04",
+        "title": "April 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 4
+      },
+      "rank": 93
+    },
+    {
+      "title": "I Wanna Have Some Fun",
+      "instanceSlug": 1571,
+      "tags": [
+        "i-wanna"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1988-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:samantha-fox": 3,
+        "genre:dance": 94,
+        "decade:1980s": 1082,
+        "year:1988": 165
+      },
+      "artists": [
+        {
+          "slug": "samantha-fox",
+          "title": "Samantha Fox",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-12",
+        "title": "December 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 12
+      },
+      "rank": 94
+    },
+    {
+      "title": "Everybody's Free",
+      "instanceSlug": 1586,
+      "tags": [
+        "everybody",
+        "free"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rosella": 1,
+        "genre:dance": 95,
+        "decade:1990s": 843,
+        "year:1992": 119
+      },
+      "artists": [
+        {
+          "slug": "rosella",
+          "title": "Rosella",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 95
+    },
+    {
+      "title": "Temptation",
+      "instanceSlug": 1162,
+      "tags": [
+        "tempt"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1991-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:corina": 1,
+        "genre:dance": 96,
+        "decade:1990s": 499,
+        "year:1991": 127
+      },
+      "artists": [
+        {
+          "slug": "corina",
+          "title": "Corina",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-07",
+        "title": "July 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 7
+      },
+      "rank": 96
+    },
+    {
+      "title": "Mr. Vain",
+      "instanceSlug": 1597,
+      "tags": [
+        "mr."
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1993-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:culture-beat": 1,
+        "genre:dance": 97,
+        "decade:1990s": 484,
+        "year:1993": 73
+      },
+      "artists": [
+        {
+          "slug": "culture-beat",
+          "title": "Culture Beat",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-12",
+        "title": "December 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 12
+      },
+      "rank": 97
+    },
+    {
+      "title": "Swing the Mood",
+      "instanceSlug": 1354,
+      "tags": [
+        "mood",
+        "swing"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:jive-bunny": 1,
+        "genre:dance": 98,
+        "decade:1980s": 1053,
+        "year:1989": 137
+      },
+      "artists": [
+        {
+          "slug": "jive-bunny",
+          "title": "Jive Bunny & the Mastermixers",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-12",
+        "title": "December 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 12
+      },
+      "rank": 98
+    },
+    {
+      "title": "Set You Free",
+      "instanceSlug": 2628,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1996-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:planet-soul": 1,
+        "genre:dance": 99,
+        "decade:1990s": 564,
+        "year:1996": 61
+      },
+      "artists": [
+        {
+          "slug": "planet-soul",
+          "title": "Planet Soul",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-03",
+        "title": "March 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 3
+      },
+      "rank": 99
+    },
+    {
+      "title": "Pon de Replay",
+      "instanceSlug": 2709,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 2005,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rihanna": 1,
+        "genre:dance": 100,
+        "decade:2000s": 63,
+        "year:2005": 11
+      },
+      "artists": [
+        {
+          "slug": "rihanna",
+          "title": "Rihanna",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2005,
+        "title": 2005,
+        "decade": 2000,
+        "year": 2005
+      },
+      "rank": 100
+    },
+    {
+      "title": "Can't Get You Out of My Head",
+      "instanceSlug": 2812,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "2002-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:kylie-minogue": 5,
+        "genre:dance": 101,
+        "decade:2000s": 77,
+        "year:2002": 7
+      },
+      "artists": [
+        {
+          "slug": "kylie-minogue",
+          "title": "Kylie Minogue",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2002-02",
+        "title": "February 2002",
+        "decade": 2000,
+        "year": 2002,
+        "month": 2
+      },
+      "rank": 101
+    },
+    {
+      "title": "Automatic Lover",
+      "instanceSlug": 1355,
+      "tags": [
+        "automatic",
+        "lover"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:real-mccoy": 3,
+        "genre:dance": 102,
+        "decade:1990s": 549,
+        "year:1995": 59
+      },
+      "artists": [
+        {
+          "slug": "real-mccoy",
+          "title": "Real McCoy",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-11",
+        "title": "November 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 11
+      },
+      "rank": 102
+    },
+    {
+      "title": "Run Away",
+      "instanceSlug": 2847,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:real-mccoy": 4,
+        "genre:dance": 103,
+        "decade:1990s": 602,
+        "year:1995": 54
+      },
+      "artists": [
+        {
+          "slug": "real-mccoy",
+          "title": "Real McCoy",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-03",
+        "title": "March 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 3
+      },
+      "rank": 103
+    },
+    {
+      "title": "Take Your Time (Do It Right)",
+      "instanceSlug": 1132,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "do-it"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:sos-band": 1,
+        "genre:dance": 104,
+        "decade:1980s": 1279,
+        "year:1980": 91
+      },
+      "artists": [
+        {
+          "slug": "sos-band",
+          "title": "SOS Band",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-07",
+        "title": "July 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 7
+      },
+      "rank": 104
+    },
+    {
+      "title": "The Safety Dance",
+      "instanceSlug": 619,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1983-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:men-without-hats": 2,
+        "genre:dance": 105,
+        "decade:1980s": 1158,
+        "year:1983": 110
+      },
+      "artists": [
+        {
+          "slug": "men-without-hats",
+          "title": "Men Without Hats",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-07",
+        "title": "July 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 7
+      },
+      "rank": 105
+    },
+    {
+      "title": "Let the Music Play",
+      "instanceSlug": "music-play",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1984-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:shannon": 1,
+        "genre:dance": 106,
+        "decade:1980s": 1460,
+        "year:1984": 138
+      },
+      "artists": [
+        {
+          "slug": "shannon",
+          "title": "Shannon",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-01",
+        "title": "January 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 1
+      },
+      "rank": 106
+    },
+    {
+      "title": "Get Off",
+      "instanceSlug": 2905,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1978-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:foxy": 1,
+        "genre:dance": 107,
+        "decade:1970s": 394,
+        "year:1978": 74
+      },
+      "artists": [
+        {
+          "slug": "foxy",
+          "title": "Foxy",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1978-09",
+        "title": "September 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 9
+      },
+      "rank": 107
+    },
+    {
+      "title": "Two to Make It Right",
+      "instanceSlug": 1342,
+      "tags": [
+        "make",
+        "right",
+        "two"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1990,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:seduction": 2,
+        "genre:dance": 108,
+        "decade:1990s": 826,
+        "year:1990": 88
+      },
+      "artists": [
+        {
+          "slug": "seduction",
+          "title": "Seduction",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1990,
+        "title": 1990,
+        "decade": 1990,
+        "year": 1990
+      },
+      "rank": 108
+    },
+    {
+      "title": "Ooops Up",
+      "instanceSlug": 2937,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:snap": 3,
+        "genre:dance": 109,
+        "decade:1990s": 621,
+        "year:1990": 119
+      },
+      "artists": [
+        {
+          "slug": "snap",
+          "title": "Snap!",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-10",
+        "title": "October 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 10
+      },
+      "rank": 109
+    },
+    {
+      "title": "Object of My Desire",
+      "instanceSlug": 2960,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1985-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:starpoint": 1,
+        "genre:dance": 110,
+        "decade:1980s": 1456,
+        "year:1985": 103
+      },
+      "artists": [
+        {
+          "slug": "starpoint",
+          "title": "Starpoint",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-12",
+        "title": "December 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 12
+      },
+      "rank": 110
+    },
+    {
+      "title": "Medley",
+      "instanceSlug": 2967,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1981-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stars-on-45": 1,
+        "genre:dance": 111,
+        "decade:1980s": 1461,
+        "year:1981": 85
+      },
+      "artists": [
+        {
+          "slug": "stars-on-45",
+          "title": "Stars on 45",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-05",
+        "title": "May 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 5
+      },
+      "rank": 111
+    },
+    {
+      "title": "Electricity",
+      "instanceSlug": 2027,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:midnight-star": 3,
+        "genre:dance": 112,
+        "decade:1980s": 1254
+      },
+      "artists": [
+        {
+          "slug": "midnight-star",
+          "title": "Midnight Star",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980s",
+        "title": "1980s",
+        "decade": 1980
+      },
+      "rank": 112
+    },
+    {
+      "title": "All or Nothing",
+      "instanceSlug": 1348,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1990-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:milli-vanilli": 5,
+        "genre:dance": 113,
+        "decade:1990s": 475,
+        "year:1990": 102
+      },
+      "artists": [
+        {
+          "slug": "milli-vanilli",
+          "title": "Milli Vanilli",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-01",
+        "title": "January 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 1
+      },
+      "rank": 113
+    },
+    {
+      "title": "Baby Baby",
+      "instanceSlug": 3044,
+      "tags": [
+        "double-word"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1995-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:corona": 2,
+        "genre:dance": 114,
+        "playlist:summer": 173,
+        "source:summer": 173,
+        "decade:1990s": 639,
+        "year:1995": 60
+      },
+      "artists": [
+        {
+          "slug": "corona",
+          "title": "Corona",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-06",
+        "title": "June 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 6
+      },
+      "rank": 114
+    },
+    {
+      "title": "More & More",
+      "instanceSlug": 3062,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1993-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:captain-hollywood-project": 1,
+        "genre:dance": 115,
+        "playlist:summer": 170,
+        "source:summer": 170,
+        "decade:1990s": 644,
+        "year:1993": 70
+      },
+      "artists": [
+        {
+          "slug": "captain-hollywood-project",
+          "title": "Captain Hollywood Project",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-06",
+        "title": "June 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 6
+      },
+      "rank": 115
+    },
+    {
+      "title": "Here We Go, Let's Rock & Roll",
+      "instanceSlug": 1157,
+      "tags": [
+        "go",
+        "",
+        "rock-and-roll"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1991,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:c-c-music-factory": 2,
+        "genre:dance": 116,
+        "decade:1990s": 528,
+        "year:1991": 130
+      },
+      "artists": [
+        {
+          "slug": "c-c-music-factory",
+          "title": "C+C Music Factory",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1991,
+        "title": 1991,
+        "decade": 1990,
+        "year": 1991
+      },
+      "rank": 116
+    },
+    {
+      "title": "Get Into the Groove",
+      "instanceSlug": 973,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1984,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:madonna": 36,
+        "genre:dance": 117,
+        "decade:1980s": 1421,
+        "year:1984": 135
+      },
+      "artists": [
+        {
+          "slug": "madonna",
+          "title": "Madonna",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1984,
+        "title": 1984,
+        "decade": 1980,
+        "year": 1984
+      },
+      "rank": 117
+    },
+    {
+      "title": "Heaven Must Have Sent You",
+      "instanceSlug": 1550,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1979-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bonnie-pointer": 1,
+        "genre:dance": 118,
+        "decade:1970s": 156,
+        "year:1979": 74
+      },
+      "artists": [
+        {
+          "slug": "bonnie-pointer",
+          "title": "Bonnie Pointer",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-08",
+        "title": "August 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 8
+      },
+      "rank": 118
+    },
+    {
+      "title": "Come Go with Me",
+      "instanceSlug": "comego",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1978-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:expose": 6,
+        "genre:dance": 119,
+        "decade:1970s": 465,
+        "year:1978": 91
+      },
+      "artists": [
+        {
+          "slug": "expose",
+          "title": "Expose",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1978-02",
+        "title": "February 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 2
+      },
+      "rank": 119
+    },
+    {
+      "title": "Point of No Return",
+      "instanceSlug": "expose02",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1987-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:expose": 7,
+        "genre:dance": 120,
+        "decade:1980s": 1449,
+        "year:1987": 183
+      },
+      "artists": [
+        {
+          "slug": "expose",
+          "title": "Expose",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-06",
+        "title": "June 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 6
+      },
+      "rank": 120
+    },
+    {
+      "title": "What You Don't Know",
+      "instanceSlug": "expose05",
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": "1989-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:expose": 8,
+        "genre:dance": 121,
+        "playlist:summer": 203,
+        "source:summer": 203,
+        "decade:1980s": 1450,
+        "year:1989": 145
+      },
+      "artists": [
+        {
+          "slug": "expose",
+          "title": "Expose",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-06",
+        "title": "June 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 6
+      },
+      "rank": 121
+    },
+    {
+      "title": "Jam on It",
+      "instanceSlug": 1562,
+      "tags": [
+        "it",
+        "jam"
+      ],
+      "parents": [
+      ],
+      "genre": "dance",
+      "debut": 1983,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:newcleus": 1,
+        "genre:dance": 93,
+        "decade:1980s": 1163,
+        "year:1983": 106
+      },
+      "artists": [
+        {
+          "slug": "newcleus",
+          "title": "Newcleus",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1983,
+        "title": 1983,
+        "decade": 1980,
+        "year": 1983
+      },
+      "rank": 122
+    }
+  ],
+  "score": 770.4550000000002,
+  "songCount": 122,
+  "songAdjustedAverage": 69.75371821718862,
+  "artistCount": 20,
+  "artistAdjustedAverage": 172.27897536046007
+}

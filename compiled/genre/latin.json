@@ -1,1 +1,211 @@
-{"instanceSlug":"latin","title":"Latin","parents":[],"artists":["julio-iglesias","marc-anthony","selena","tierra"],"songs":[{"title":"Rhythm Divine","instanceSlug":1438,"tags":[],"parents":[],"genre":"latin","debut":"2000-01","playlists":[],"ranks":[12,4,2,2.21,2.44,2.95,3.89,5.52,8.41,13.72,23.8,43.79,85.16,174.58,376.23,850.27],"artists":[{"slug":"enrique-iglesias","title":"Enrique Iglesias","roleSlug":true}],"debutRank":12,"peakRank":2,"duration":4,"score":14.85,"genres":[{"slug":"latin","title":"Latin"}],"source":null,"rank":1},{"title":"Shake Your Bonbon","instanceSlug":1501,"tags":["shake","your"],"parents":[],"genre":"latin","debut":"1999-11","playlists":[],"ranks":[],"artists":[{"slug":"ricky-martin","title":"Ricky Martin","roleSlug":true}],"genres":[{"slug":"latin","title":"Latin"}],"source":null,"rank":2},{"title":"I Like It Like That","instanceSlug":2858,"tags":[],"parents":[],"genre":"latin","debut":"1997-04","playlists":[],"ranks":[],"artists":[{"slug":"blackout-all-starts","title":"Blackout All-Starts","roleSlug":true}],"genres":[{"slug":"latin","title":"Latin"}],"source":null,"rank":3},{"title":"Deeper Shade of Soul","instanceSlug":2859,"tags":[],"parents":[],"genre":"latin","debut":"1991-02","playlists":[],"ranks":[],"artists":[{"slug":"urban-dance-squad","title":"Urban Dance Squad","roleSlug":true}],"genres":[{"slug":"latin","title":"Latin"}],"source":null,"rank":4}],"score":14.85,"songAdjustedAverage":7.43,"artistAdjustedAverage":7.43}
+{
+  "instanceSlug": "latin",
+  "title": "Latin",
+  "parents": [
+  ],
+  "artists": [
+    "julio-iglesias",
+    "marc-anthony",
+    "selena",
+    "tierra"
+  ],
+  "songs": [
+    {
+      "title": "Rhythm Divine",
+      "instanceSlug": 1438,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "latin",
+      "debut": "2000-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:enrique-iglesias": 1,
+        "genre:latin": 1,
+        "decade:2000s": 13,
+        "year:2000": 4
+      },
+      "artists": [
+        {
+          "slug": "enrique-iglesias",
+          "title": "Enrique Iglesias",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.537,
+        0.768,
+        0.735,
+        0.73,
+        0.72,
+        0.705,
+        0.685,
+        0.66,
+        0.63,
+        0.595,
+        0.555,
+        0.51,
+        0.46,
+        0.405,
+        0.345,
+        0.28,
+        0.21,
+        0.135,
+        0.055,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 9.891,
+      "genres": [
+        {
+          "slug": "latin",
+          "title": "Latin"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "2000-01",
+        "title": "January 2000",
+        "decade": 2000,
+        "year": 2000,
+        "month": 1
+      },
+      "rank": 1
+    },
+    {
+      "title": "Shake Your Bonbon",
+      "instanceSlug": 1501,
+      "tags": [
+        "shake",
+        "your"
+      ],
+      "parents": [
+      ],
+      "genre": "latin",
+      "debut": "1999-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ricky-martin": 3,
+        "genre:latin": 2,
+        "decade:1990s": 784,
+        "year:1999": 41
+      },
+      "artists": [
+        {
+          "slug": "ricky-martin",
+          "title": "Ricky Martin",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "latin",
+          "title": "Latin"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-11",
+        "title": "November 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 11
+      },
+      "rank": 2
+    },
+    {
+      "title": "I Like It Like That",
+      "instanceSlug": 2858,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "latin",
+      "debut": "1997-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:blackout-all-starts": 1,
+        "genre:latin": 3,
+        "decade:1990s": 606,
+        "year:1997": 38
+      },
+      "artists": [
+        {
+          "slug": "blackout-all-starts",
+          "title": "Blackout All-Starts",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "latin",
+          "title": "Latin"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-04",
+        "title": "April 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 4
+      },
+      "rank": 3
+    },
+    {
+      "title": "Deeper Shade of Soul",
+      "instanceSlug": 2859,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "latin",
+      "debut": "1991-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:urban-dance-squad": 1,
+        "genre:latin": 4,
+        "decade:1990s": 607,
+        "year:1991": 100
+      },
+      "artists": [
+        {
+          "slug": "urban-dance-squad",
+          "title": "Urban Dance Squad",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "latin",
+          "title": "Latin"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-02",
+        "title": "February 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 2
+      },
+      "rank": 4
+    }
+  ],
+  "score": 9.891,
+  "songCount": 4,
+  "songAdjustedAverage": 4.9455,
+  "artistCount": 4,
+  "artistAdjustedAverage": 4.9455
+}

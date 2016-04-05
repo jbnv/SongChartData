@@ -1,1 +1,6576 @@
-{"instanceSlug":"urban","title":"Urban / R&B","parents":[],"artists":[112,"12-gauge","2-pac","4pm",702,"aaron-neville","adina-howard","al-jarreau","all-4-one","babyface","billy-ocean","bobby-brown","boyz-ii-men","brothers-johnson","chaka-khan","dr-dre","earth-wind-fire","four-tops","fugees","george-clinton","inoj","jade","james-ingram","jermaine-jackson","jodeci","joe","johnny-gill","k-ci-jojo","karyn-white","keith-sweat","koolnthegang","levert","lionel-richie","lisa-lisa-cult-jam","michael-jackson","midnight-star","miracles","new-edition","o-jays","ohio-players","oran-juice-jones","peaches-herb","pebbles","philip-bailey","platters","pointer-sisters","prince","quincy-jones","r-kelly","ralph-tresvant","ray-goodman-brown","ready-for-the-world","rick-james","roberta-flack","roger","rythm-syndicate","shai","soul-4-real","soul-ii-soul","spinners","stevie-wonder","sugarhill-gang","swv","system","tina-turner","tlc","usher","whispers","whitney-houston"],"songs":[{"title":"Centipede","instanceSlug":2359,"tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"funk","title":"Funk"},{"slug":"dance","title":"Dance"}],"debut":"1984-12","playlists":[],"ranks":[12,2.2,1,1.09,1.19,1.4,1.78,2.42,3.51,5.41,8.81,15.16,27.44,52.13,103.75,215.79],"artists":[{"slug":"rebbie-jackson","title":"Rebbie Jackson","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"writer"}],"debutRank":12,"peakRank":1,"duration":4,"score":22.83,"source":null,"rank":1},{"title":"Cantaloupe","instanceSlug":1719,"tags":[],"parents":[],"genre":"urban","debut":"1994-01","playlists":[],"ranks":[15,7,3.2,2.8,2.75,2.65,2.81,3.02,3.25,3.73,4.57,5.93,8.15,11.8,17.98,28.73,48.05,83.96,152.97,290.16],"artists":[{"slug":"us3","title":"US3","roleSlug":true}],"debutRank":15,"peakRank":2.65,"duration":5,"score":20.78,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":2},{"title":"Baby Baby Baby","instanceSlug":55,"tags":["songs-of-summer","triple-word"],"parents":[],"genre":"urban","debut":"1992-07","ranks":[10,3.4,2.6,2.2,2.4,2.65,2.92,3.22,3.87,5.06,7.12,10.74,17.31,29.66,53.83,103.2],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":10,"peakRank":2.2,"duration":4,"score":19.48,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":3},{"title":"Facts of Love","instanceSlug":2151,"tags":[],"parents":[],"genre":"urban","debut":"1987-02","playlists":[],"ranks":[15,9,5,3,2.9,3,3.2,3.4,3.74,4.11,4.94,6.42,8.98,13.48,21.56,36.66,65.99,125.37,250.75,526.57],"artists":[{"slug":"jeff-lorber","title":"Jeff Lorber","roleSlug":true},{"slug":"karyn-white","title":"Karyn White","roleSlug":"feature"}],"debutRank":15,"peakRank":2.9,"duration":5,"score":18.85,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":4},{"title":"Creep","instanceSlug":30,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":"1994-12","ranks":[12.8,4.2,1.92,1.4,1.5,1.8,2.16,3.02,4.84,8.71,17.42,38.32,91.97,239.12,669.53,2008.59],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":12.8,"peakRank":1.4,"duration":4,"score":18.56,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":5},{"title":"All My Life","instanceSlug":2325,"tags":[],"parents":[],"genre":"urban","debut":"1998-04","playlists":[],"ranks":[14,7,4,2.3,1.6,1,1.4,1.96,3.53,7.76,20.18,60.54],"artists":[{"slug":"k-ci-jojo","title":"K-Ci & JoJo","roleSlug":true}],"debutRank":14,"peakRank":1,"duration":3,"score":18.41,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":6},{"title":"When Can I See You","instanceSlug":471,"tags":[],"parents":[],"genre":"urban","debut":"1994-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[16,7.5,3.5,1.9,1.6,1.9,2.26,3.1,4.85,8.48,16.44,34.93,80.77,201.92,542.65,1560.12],"artists":[{"slug":"babyface","title":"Babyface","roleSlug":true}],"debutRank":16,"peakRank":1.6,"duration":4,"score":16.74,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":7},{"title":"Summertime","instanceSlug":3009,"tags":["","summer"],"parents":[],"genre":"urban","debut":1991,"playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[10,1.15,1.31,1.49,1.91,2.7,4.21,7.14,13.09,25.84,54.61,122.99],"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true}],"debutRank":10,"peakRank":1.15,"duration":3,"score":16.27,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":8},{"title":"Love Rollercoaster","instanceSlug":1902,"tags":["#1","#1-hot-100","#1-r&b","remade"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[14,3.1,1.9,2.12,2.5,2.9,3.36,4.44,6.57,10.78,19.4,38.02,80.61,183.8,448.46,1166],"artists":[{"slug":"ohio-players","title":"Ohio Players","roleSlug":true}],"debutRank":14,"peakRank":1.9,"duration":4,"score":15.93,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":9},{"title":"Every Little Thing I Do","instanceSlug":335,"tags":[],"parents":[],"genre":"urban","debut":"1995-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[14,4.3,3,3.23,3.47,3.79,4.24,4.9,5.66,7.43,10.89,17.68,31.43,60.79,127.03,285.22],"artists":[{"slug":"soul-4-real","title":"Soul for Real","roleSlug":true}],"debutRank":14,"peakRank":3,"duration":4,"score":15.02,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":10},{"title":"I Want Her","instanceSlug":2205,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1988-02","playlists":[],"ranks":[16,10,7,5.5,4.6,4,4.2,4.5,4.96,5.47,6.58,8.6,12.12,18.32,29.55,50.7],"artists":[{"slug":"keith-sweat","title":"Keith Sweat","roleSlug":true}],"debutRank":16,"peakRank":4,"duration":4,"score":14.68,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":11},{"title":"Rock Steady","instanceSlug":230,"tags":["#1","#1-r&b","songs-of-summer"],"parents":[],"genre":"urban","debut":"1987-07","ranks":[19.9,11.3,6.4,4.2,3.9,3.8,3.97,4.25,4.69,5.7,6.93,9.91,16.31,30.37,63.07,144.56],"artists":[{"slug":"whispers","title":"Whispers","roleSlug":true}],"debutRank":19.9,"peakRank":3.8,"duration":4,"score":14.46,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":12},{"title":"Unpretty","instanceSlug":567,"tags":["#1","#1-hot-100","pretty","un"],"parents":[],"genre":"urban","debut":"1999-08","playlists":[],"ranks":[17,11.3,6.4,5.1,4.25,4.03,4.15,4.41,4.98,5.62,7.08,9.82,14.9,24.53,43.55,82.95],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":17,"peakRank":4.03,"duration":4,"score":14.23,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":13},{"title":"Working My Way Back to You","instanceSlug":2665,"tags":[],"parents":[],"genre":"urban","debut":"1980-02","playlists":[],"ranks":[13,5,1.4,1.67,1.99,2.76,4.36,7.72,15.16,32.71,76.86,195.45],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"debutRank":13,"peakRank":1.4,"duration":3,"score":14.04,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":14},{"title":"Shame","instanceSlug":1818,"tags":[],"parents":[],"genre":"urban","debut":"1995-01","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[17,10,6.5,4.9,4,3.5,3.72,4.2,5.2,6.44,9.5,16.29,31.81,69.68,169.21,451.24],"artists":[{"slug":"zhane","title":"Zhane","roleSlug":true}],"debutRank":17,"peakRank":3.5,"duration":4,"score":13.46,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":15},{"title":"What About Your Friends","instanceSlug":874,"tags":[],"parents":[],"genre":"urban","debut":"1992-10","playlists":[],"ranks":[15.3,9.3,5.4,3.9,3.5,3.7,4.2,4.77,6.06,8.51,13.11,21.97,39.79,77.42,161.12,357.08],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":15.3,"peakRank":3.5,"duration":4,"score":12.92,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":16},{"title":"The Rain","instanceSlug":167,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1986-10","ranks":[13.9,7.3,3.8,2,1.7,2.5,3.68,7.14,17.21,49.61,166.34,636.02],"artists":[{"slug":"oran-juice-jones","title":"Oran \"Juice\" Jones","roleSlug":true}],"debutRank":13.9,"peakRank":1.7,"duration":3,"score":12.79,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":17},{"title":"Back to Life","instanceSlug":171,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1989-10","ranks":[15.5,8,4,3,3.25,3.7,4.21,5.38,7.61,11.83,20.02,36.65,72.17,152.12,341.68,814.78],"artists":[{"slug":"soul-ii-soul","title":"Soul II Soul","roleSlug":true}],"debutRank":15.5,"peakRank":3,"duration":4,"score":12.59,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":18},{"title":"If I Ever Fall in Love","instanceSlug":1059,"tags":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"urban","title":"Urban / R&B"}],"debut":"1992-11","playlists":[],"ranks":[15,5,3,1.9,2.4,3.03,4.63,8.28,17,39.36,101.51,288.49],"artists":[{"slug":"shai","title":"Shai","roleSlug":true}],"debutRank":15,"peakRank":1.9,"duration":3,"score":12.48,"source":null,"rank":19},{"title":"Diggin' On You","instanceSlug":1426,"tags":[],"parents":[],"genre":"urban","debut":"1995-12","playlists":[],"ranks":[16,10.5,6.5,3.7,3.4,3.58,4.14,4.79,6.29,9.23,15.01,26.76,51.87,108.66,244.64,589.04],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":16,"peakRank":3.4,"duration":4,"score":12.44,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":20},{"title":"Cool It Now","instanceSlug":3,"tags":["#1","#1-r&b"],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"pop","title":"Pop"}],"debut":"1984-11","ranks":[16,9,4.6,3.9,3.7,4.1,4.7,5.39,6.96,10.02,15.89,27.52,51.68,104.61,227.08,526.17],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"debutRank":16,"peakRank":3.7,"duration":4,"score":12.18,"playlists":[],"source":null,"rank":21},{"title":"Slow and Easy","instanceSlug":1720,"tags":[],"parents":[],"genre":"urban","debut":"1993-12","playlists":[],"ranks":[15,8,5.3,4.8,4.9,5,5.4,5.9,7,8.31,11.4,17.78,31.04,59.97,127.06,292.88],"artists":[{"slug":"zap-roger","title":"Zap & Roger","roleSlug":true}],"debutRank":15,"peakRank":4.8,"duration":4,"score":11.94,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":22},{"title":"Let It Whip","instanceSlug":89,"tags":[],"parents":[],"genre":"urban","debut":"1982-06","ranks":[10,5.6,3.1,1.8,2.5,3.47,6.17,13.37,34.18,100.64,335.46,1248.67],"artists":[{"slug":"dazz-band","title":"Dazz Band","roleSlug":true}],"debutRank":10,"peakRank":1.8,"duration":3,"score":11.68,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":23},{"title":"California Love","instanceSlug":2582,"tags":[],"parents":[],"genre":"urban","debut":"1996-07","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[15,9,6,4.5,3,3.7,4.56,6.69,11.38,22,47.66,114.39],"artists":[{"slug":"2-pac","title":"2 Pac","roleSlug":true},{"slug":"dr-dre","title":"Dr. Dre","roleSlug":"feature"},{"slug":"roger","title":"Roger (Roger Troutman)","roleSlug":"feature"}],"debutRank":15,"peakRank":3,"duration":3,"score":10.54,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":24},{"title":"Just Got Paid","instanceSlug":2332,"tags":[],"parents":[],"genre":"urban","debut":"1988-07","playlists":[],"ranks":[17.5,8.9,5.4,5,4.75,5.25,5.8,7.02,9.24,13.13,20.05,32.71,56.81,104.65,203.78,418.29],"artists":[{"slug":"johnny-kemp","title":"Johnny Kemp","roleSlug":true}],"debutRank":17.5,"peakRank":4.75,"duration":4,"score":9.94,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":25},{"title":"Keep On Moving","instanceSlug":522,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1989-08","playlists":[],"ranks":[18,11,8,6.2,5.4,5,5.57,6.2,7.62,10.23,14.89,23.38,39.36,70.78,135.32,274.16],"artists":[{"slug":"soul-ii-soul","title":"Soul II Soul","roleSlug":true}],"debutRank":18,"peakRank":5,"duration":4,"score":9.91,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":26},{"title":"My Boo","instanceSlug":594,"tags":[],"parents":[],"genre":"urban","debut":"1996-10","playlists":[],"ranks":[17.9,10.6,7.3,6.96,7.04,7.26,7.59,8,8.9,9.9,12.13,16.22,23.52,36.75,61.56,110.04],"artists":[{"slug":"ghost-town-djs","title":"Ghost Town DJs","roleSlug":true}],"debutRank":17.9,"peakRank":6.96,"duration":4,"score":9.03,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":27},{"title":"Slow Hand","instanceSlug":2643,"tags":[],"genre":"urban","debut":"1981-07","playlists":[],"ranks":[20,11,7.5,5.5,5.65,6.1,6.59,7.63,9.46,12.47,17.44,25.77,40.14,65.72,112.83,202.7],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"debutRank":20,"peakRank":5.5,"duration":4,"score":8.8,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":28},{"title":"Pony","instanceSlug":1896,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1996-10","playlists":[],"ranks":[15,8,5,6.2,5.5,6.2,6.99,8.77,12.12,18.28,29.92,52.77],"artists":[{"slug":"ginuwine","title":"Ginuwine","roleSlug":true}],"debutRank":15,"peakRank":5,"duration":3,"score":8.73,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":29},{"title":"Red Light Special","instanceSlug":2253,"tags":[],"parents":[],"genre":"urban","debut":"1995-03","playlists":[],"ranks":[16,11,8,6.2,5,5.7,6.5,8.32,11.81,18.42,31.32,57.63],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":16,"peakRank":5,"duration":3,"score":8.2,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":30},{"title":"No Scrubs","instanceSlug":2254,"tags":["#1","#1-hot-100"],"parents":[],"genre":"urban","debut":"1999-03","playlists":[],"ranks":[17,10,8,6,6.4,6.9,7.7,8.59,10.59,14.27,20.88,32.99,55.94,101.34,195.34,399.17],"artists":[{"slug":"tlc","title":"TLC","roleSlug":true}],"debutRank":17,"peakRank":6,"duration":4,"score":8,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":31},{"title":"You Dropped the Bomb on Me","instanceSlug":656,"tags":["bomb","you-did-what"],"parents":[],"genre":"urban","debut":"1982-09","playlists":[],"ranks":[15,8.5,4.8,3.1,4.3,5.96,10.58,22.87,58.28,171.09,568.47,2108.85],"artists":[{"slug":"gap-band","title":"Gap Band","roleSlug":true}],"debutRank":15,"peakRank":3.1,"duration":3,"score":7.85,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":32},{"title":"Don't Worry, Be Happy","instanceSlug":554,"tags":["#1","#1-hot-100","a-capella","songs-of-summer"],"parents":[],"genre":"urban","debut":"1988-07","playlists":[],"ranks":[16.2,7.1,3.9,4.53,5.26,6.96,10.34,17.01,30.76,60.57,129.05,295.82],"artists":[{"slug":"bobby-mcferrin","title":"Bobby McFerrin","roleSlug":true}],"debutRank":16.2,"peakRank":3.9,"duration":3,"score":7.61,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":33},{"title":"Me, Myself and I","instanceSlug":1432,"tags":[],"parents":[],"genre":"urban","debut":"1989-08","playlists":[],"ranks":[14,4,4.5,5.06,6.33,8.7,13.05,21.21,37.12,69.59,139.18,295.77],"artists":[{"slug":"de-la-soul","title":"De La Soul","roleSlug":true}],"debutRank":14,"peakRank":4,"duration":3,"score":7.27,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":34},{"title":"Where My Girls At","instanceSlug":551,"tags":[],"parents":[],"genre":"urban","debut":"1999-09","playlists":[],"ranks":[22,16,13,11.5,10,8.8,8.2,7.8,8.4,9.9,11.67,15.83,24.32,41.69,78.91,163.45],"artists":[{"slug":"702"}],"debutRank":22,"peakRank":7.8,"duration":4,"score":6.94,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":35},{"title":"It's No Crime","instanceSlug":500,"tags":["crime","it's","no"],"parents":[],"genre":"urban","debut":"1989-09","playlists":[],"ranks":[15.9,9.3,5.5,5.9,6.4,7.7,9.26,13.03,20.97,38,76.6,169.95],"artists":[{"slug":"babyface","title":"Babyface","roleSlug":true}],"debutRank":15.9,"peakRank":5.5,"duration":3,"score":6.83,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":36},{"title":"Understanding","instanceSlug":1721,"tags":[],"parents":[],"genre":"urban","debut":"1994-01","playlists":[],"ranks":[20,14,9,6.5,6,6.8,7.71,9.76,13.67,20.96,34.93,62.87],"artists":[{"slug":"xscape","title":"Xscape","roleSlug":true}],"debutRank":20,"peakRank":6,"duration":3,"score":6.65,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":37},{"title":"My Girl","instanceSlug":793,"tags":[],"parents":[],"genre":"urban","debut":"1988-05","playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[17,10.1,8,6,6.7,7.48,9.23,12.46,18.27,28.93,49.18,89.34],"artists":[{"slug":"suave","title":"Suavé","roleSlug":true}],"debutRank":17,"peakRank":6,"duration":3,"score":6.42,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":38},{"title":"Nobody","instanceSlug":1889,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1997-02","playlists":[],"ranks":[18,10.5,7,7.2,7.6,8.5,9.51,11.76,15.94,23.48,37.39,63.95],"artists":[{"slug":"keith-sweat","title":"Keith Sweat","roleSlug":true},{"slug":"athena-cage","title":"Athena Cage","roleSlug":"feature"}],"debutRank":18,"peakRank":7,"duration":3,"score":6.18,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":39},{"title":"Oh Sheila","instanceSlug":942,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":"1985-09","playlists":[],"ranks":[17.9,10.4,6.1,5.8,6.9,8.21,11.32,17.76,31.24,60.87,130.13,302.88],"artists":[{"slug":"ready-for-the-world","title":"Ready for the World","roleSlug":true}],"debutRank":17.9,"peakRank":5.8,"duration":3,"score":5.87,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":40},{"title":"Love Zone","instanceSlug":287,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1986-08","playlists":[],"ranks":[15.9,9.3,5.4,5.5,7.5,10.23,17.67,36.94,90.66,255.5,812.96,2882.33],"artists":[{"slug":"billy-ocean","title":"Billy Ocean","roleSlug":true}],"debutRank":15.9,"peakRank":5.4,"duration":3,"score":5.4,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":41},{"title":"Keep It Coming","instanceSlug":1105,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1992-01","playlists":[],"ranks":[21,14,10.3,8.6,7.7,7,9.2,12.09,19.69,38.26,86.35,222.05],"artists":[{"slug":"keith-sweat","title":"Keith Sweat","roleSlug":true}],"debutRank":21,"peakRank":7,"duration":3,"score":5.2,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":42},{"title":"Make You Sweat","instanceSlug":196,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1990-07","ranks":[22,13.1,9.9,8.7,8.5,9.35,10.28,12.34,16.04,22.46,33.69,53.91],"artists":[{"slug":"keith-sweat","title":"Keith Sweat","roleSlug":true}],"debutRank":22,"peakRank":8.5,"duration":3,"score":4.98,"genres":[{"slug":"urban","title":"Urban / R&B"}],"playlists":[],"source":null,"rank":43},{"title":"Twisted","instanceSlug":2206,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1996-07","playlists":[],"ranks":[25,20,15,19,24.07,36.9,66.42,137.28],"artists":[{"slug":"keith-sweat","title":"Keith Sweat","roleSlug":true}],"debutRank":25,"peakRank":15,"duration":2,"score":0.35,"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":44},{"title":"Misled","instanceSlug":1759,"tags":[],"parents":[],"genre":"urban","debut":"1985-01","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":45},{"title":"Someone to Love","instanceSlug":1868,"tags":[],"parents":[],"genre":"urban","debut":"1995-06","playlists":[],"ranks":[],"artists":[{"slug":"jon-b","title":"Jon B","roleSlug":true},{"slug":"babyface","title":"Babyface","roleSlug":"feature"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":46},{"title":"The Other Woman","instanceSlug":1770,"tags":["cheating"],"parents":[],"genres":[{"slug":"pop","title":"Pop"},{"slug":"urban","title":"Urban / R&B"}],"debut":1982,"playlists":[{"slug":"feb13","title":"Feb. 13: Breakups, Cheating & Lost Loves"}],"ranks":[],"artists":[{"slug":"ray-parker-jr","title":"Ray Parker Jr.","roleSlug":true}],"source":null,"rank":47},{"title":"I Ain't Gonna Stand for It","instanceSlug":1803,"tags":[],"parents":[],"genre":"urban","debut":"1981-02","playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":48},{"title":"Fishnet","instanceSlug":2286,"tags":[],"parents":[],"genre":"urban","debut":"1988-04","playlists":[],"ranks":[],"artists":[{"slug":"morris-day","title":"Morris Day","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":49},{"title":"Uhh Ahh","instanceSlug":2296,"tags":[],"parents":[],"genre":"urban","debut":"1992-02","playlists":[],"ranks":[],"artists":[{"slug":"boyz-ii-men","title":"Boyz II Men","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":50},{"title":"Water Runs Dry","instanceSlug":2299,"tags":[],"parents":[],"genre":"urban","debut":"1995-05","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"boyz-ii-men","title":"Boyz II Men","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":51},{"title":"Car Wash","instanceSlug":1974,"tags":[],"parents":[],"genre":"urban","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"rose-royce","title":"Rose Royce","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":52},{"title":"Because I Got High","instanceSlug":2086,"tags":["marijuana","novelty"],"parents":[],"genre":"urban","debut":"2001-09","source":{"title":"Jay and Silent Bob Strike Back","instanceSlug":"jay-and-silent-bob-strike-back","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"afroman","title":"Afroman","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":53},{"title":"All Cried Out","instanceSlug":2109,"tags":[],"parents":[],"genre":"urban","debut":"1997-09","playlists":[],"ranks":[],"artists":[{"slug":"112"},{"slug":"allure","title":"Allure","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":54},{"title":"Birthday Suit","instanceSlug":2333,"tags":[],"genre":"urban","debut":"1989-05","playlists":[{"slug":18},{"slug":10},{"slug":7},{"slug":4.9},{"slug":4},{"slug":4.1},{"slug":4.5}],"ranks":[],"artists":[{"slug":"johnny-kemp","title":"Johnny Kemp","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":55},{"title":"Iesha","instanceSlug":2119,"tags":[],"parents":[],"genre":"urban","debut":"1991-02","playlists":[],"ranks":[],"artists":[{"slug":"another-bad-creation","title":"Another Bad Creation","roleSlug":true},{"slug":"boyz-ii-men","title":"Boyz II Men","roleSlug":"backup"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":56},{"title":"Give It To Me Baby","instanceSlug":2362,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1981-08","playlists":[],"ranks":[],"artists":[{"slug":"rick-james","title":"Rick James","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":57},{"title":"Got to Get You Into My Life","instanceSlug":2472,"tags":["#1","#1-r&b","remake"],"parents":[],"genre":"urban","debut":"1978-08","source":{"title":"Sgt. Pepper's Lonely Hearts Club Band","instanceSlug":"sgt-pepper-s-lonely-hearts-club-band","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":58},{"title":"Boogie Wonderland","instanceSlug":2473,"tags":[],"parents":[],"genre":"urban","debut":"1979-06","playlists":[],"ranks":[],"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true},{"slug":"emotions","title":"Emotions","roleSlug":"feature"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":59},{"title":"Freak Like Me","instanceSlug":2491,"tags":[],"parents":[],"genre":"urban","debut":"1995-03","playlists":[],"ranks":[],"artists":[{"slug":"adina-howard","title":"Adina Howard","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":60},{"title":"Love You Down","instanceSlug":2509,"tags":[],"parents":[],"genre":"urban","debut":"1998-02","playlists":[],"ranks":[],"artists":[{"slug":"inoj","title":"Inoj","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":61},{"title":"Time After Time","instanceSlug":2510,"tags":[],"parents":[],"genre":"urban","debut":"1998-09","playlists":[],"ranks":[],"artists":[{"slug":"inoj","title":"Inoj","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":62},{"title":"Uptight (Everything's Alright)","instanceSlug":2133,"tags":["#1"],"parents":[],"genre":"urban","debut":1966,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":63},{"title":"Strawberry Letter 23","instanceSlug":2611,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"brothers-johnson","title":"Brothers Johnson","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":64},{"title":"Mystery Lady","instanceSlug":2625,"tags":[],"parents":[],"genre":"urban","debut":"1985-08","playlists":[],"ranks":[],"artists":[{"slug":"billy-ocean","title":"Billy Ocean","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":65},{"title":"Michelle","instanceSlug":1821,"tags":[],"parents":[],"genre":"urban","debut":"1995-01","playlists":[],"ranks":[],"artists":[{"slug":"andrew-donnells","title":"Andrew Donnells","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":66},{"title":"Love Train","instanceSlug":2631,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"o-jays","title":"O'Jays","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":67},{"title":"For the Love of Money","instanceSlug":2632,"tags":[],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"o-jays","title":"O'Jays","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":68},{"title":"Livin' for the Weekend","instanceSlug":2633,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"o-jays","title":"O'Jays","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":69},{"title":"Breakin'… There's No Stopping Us","instanceSlug":2635,"tags":[],"parents":[],"genre":"urban","debut":"1984-07","source":{"title":"Breakin'","instanceSlug":"breakin","tags":[],"parents":[],"type":"movie"},"playlists":[],"ranks":true,"artists":[{"slug":"ollie-jerry","title":"Ollie & Jerry","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":70},{"title":"Let Me Hold You","instanceSlug":2636,"tags":[],"parents":[],"genre":"urban","debut":2005,"playlists":[],"ranks":[],"artists":[{"slug":"bow-wow","title":"Bow Wow","roleSlug":true},{"slug":"omarion","title":"Omarion","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":71},{"title":"How Long (Betcha Got a Chick on the Side)","instanceSlug":2642,"tags":["#1","#1-r&b","cheating","feb13"],"parents":[],"genre":"urban","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"pointer-sisters","title":"Pointer Sisters","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":72},{"title":"My Cherie Amour","instanceSlug":2134,"tags":[],"parents":[],"genre":"urban","debut":1969,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":73},{"title":"One of a Kind (Love Affair)","instanceSlug":2662,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":74},{"title":"Then Came You","instanceSlug":2663,"tags":["#1","#1-hot-100"],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"dionne-warwick","title":"Dionne Warwick","roleSlug":true},{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":75},{"title":"The Rubberband Man","instanceSlug":2664,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"spinners","title":"Spinners","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":76},{"title":"Bring It All to Me","instanceSlug":1437,"tags":["all","bring","it","me"],"parents":[],"genre":"urban","debut":"1999-12","playlists":[],"ranks":[],"artists":[{"slug":"blaque","title":"Blaque","roleSlug":true},{"slug":"nsync","title":"*NSYNC","roleSlug":"feature"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":77},{"title":"Cool","instanceSlug":2765,"tags":[],"parents":[],"genre":"urban","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"the-time"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":78},{"title":"Mr. Telephone Man","instanceSlug":2781,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1985-02","playlists":[],"ranks":[],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":79},{"title":"Hit Me Off","instanceSlug":2784,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1996-09","playlists":[],"ranks":[],"artists":[{"slug":"new-edition","title":"New Edition","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":80},{"title":"(Every Time I Turn Around) Back in Love Again","instanceSlug":2808,"tags":[],"parents":[],"genre":"urban","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"ltd","title":"LTD","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":81},{"title":"Stone Cold Gentleman","instanceSlug":2822,"tags":[],"parents":[],"genre":"urban","debut":"1991-04","playlists":[],"ranks":[],"artists":[{"slug":"ralph-tresvant","title":"Ralph Tresvant","roleSlug":true},{"slug":"bobby-brown","title":"Bobby Brown","roleSlug":"backup"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":82},{"title":"Come and Get Your Love","instanceSlug":2848,"tags":["remade","your-love"],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"redbone","title":"Redbone","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":83},{"title":"Digital Display","instanceSlug":2850,"tags":[],"parents":[],"genre":"urban","debut":"1986-02","playlists":[],"ranks":[],"artists":[{"slug":"ready-for-the-world","title":"Ready for the World","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":84},{"title":"The Witch Queen of New Orleans","instanceSlug":2852,"tags":[],"parents":[],"genre":"urban","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"redbone","title":"Redbone","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":85},{"title":"Signed, Sealed, Delivered, I'm Yours","instanceSlug":2136,"tags":["#1"],"parents":[],"genre":"urban","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":86},{"title":"Baby I Need Your Loving","instanceSlug":2898,"tags":[],"parents":[],"genre":"urban","debut":1964,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":87},{"title":"I Can't Help Myself","instanceSlug":2899,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":1965,"playlists":[],"ranks":[],"artists":[{"slug":"four-tops","title":"Four Tops","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":88},{"title":"Men in Black","instanceSlug":2930,"tags":[],"parents":[],"genre":"urban","debut":"1997-07","source":{"title":"Men in Black","instanceSlug":"men-in-black","tags":["will-smith"],"type":"movie"},"playlists":[{"slug":"sample"},{"slug":"summer","title":"Songs of Summer"}],"ranks":true,"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"rank":89},{"title":"Switch","instanceSlug":2934,"tags":[],"parents":[],"genre":"urban","debut":2005,"playlists":[],"ranks":[],"artists":[{"slug":"will-smith","title":"Will Smith","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":90},{"title":"Respect Yourself","instanceSlug":2956,"tags":["remade"],"parents":[],"genre":"urban","debut":1971,"playlists":[],"ranks":[],"artists":[{"slug":"staple-singers","title":"Staple Singers","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":91},{"title":"I'll Take You There","instanceSlug":2957,"tags":["#1","#1-r&b","remade"],"parents":[],"genre":"urban","debut":1972,"playlists":[],"ranks":[],"artists":[{"slug":"staple-singers","title":"Staple Singers","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":92},{"title":"War","instanceSlug":2961,"tags":["#1","#1-hot-100"],"parents":[],"genre":"urban","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"edwin-starr","title":"Edwin Starr","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":93},{"title":"We Can Work It Out","instanceSlug":2137,"tags":[],"parents":[],"genre":"urban","debut":1971,"playlists":[{"slug":"remake","title":"Remakes"}],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":94},{"title":"You Are the Sunshine of My Life","instanceSlug":2138,"tags":["#1"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true},{"slug":"jim-gilstrap","title":"Jim Gilstrap","roleSlug":"backup"},{"slug":"gloria-barley","title":"Gloria Barley","roleSlug":"backup"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":95},{"title":"Higher Ground","instanceSlug":2139,"tags":["#1"],"parents":[],"genre":"urban","debut":1973,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":96},{"title":"You're Making Me High","instanceSlug":1391,"tags":["high","make-me","making","me","you-make","you-make-me","you're"],"parents":[],"genre":"urban","debut":"1996-11","playlists":[],"ranks":[],"artists":[{"slug":"toni-braxton","title":"Toni Braxton","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":97},{"title":"Rub You the Right Way","instanceSlug":1340,"tags":["#1","#1-r&b"],"parents":[],"genre":"urban","debut":"1990-06","playlists":[{"slug":"summer","title":"Songs of Summer"}],"ranks":[],"artists":[{"slug":"johnny-gill","title":"Johnny Gill","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":98},{"title":"Living For the City","instanceSlug":2140,"tags":["#1"],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":99},{"title":"Don't You Worry 'Bout a Thing","instanceSlug":2141,"tags":[],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":100},{"title":"Spy in the House of Love","instanceSlug":1292,"tags":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"pop","title":"Pop"}],"debut":"1988-11","playlists":[],"ranks":[],"artists":[{"slug":"was-not-was","title":"Was (Not Was)","roleSlug":true}],"source":null,"rank":101},{"title":"Boogie On Reggae Woman","instanceSlug":2142,"tags":["#1"],"parents":[],"genre":"urban","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":102},{"title":"I Wish","instanceSlug":2143,"tags":["#1"],"parents":[],"genre":"urban","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"stevie-wonder","title":"Stevie Wonder","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":103},{"title":"I Want You Back","instanceSlug":1238,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"urban","debut":1970,"playlists":[],"ranks":[],"artists":[{"slug":"jackson-5-jacksons"}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":104},{"title":"Jamie","instanceSlug":1769,"tags":[],"parents":[],"genre":"urban","debut":"1985-01","playlists":[],"ranks":[],"artists":[{"slug":"ray-parker-jr","title":"Ray Parker Jr.","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":105},{"title":"And the Beat Goes On","instanceSlug":2162,"tags":["#1"],"parents":[],"genre":"urban","debut":"1980-04","playlists":[],"ranks":[],"artists":[{"slug":"whispers","title":"Whispers","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":106},{"title":"Baby I'm Yours","instanceSlug":714,"tags":[],"genres":[{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"urban","title":"Urban / R&B"}],"debut":"1993-07","playlists":[],"ranks":[],"artists":[{"slug":"shai","title":"Shai","roleSlug":true}],"source":null,"rank":107},{"title":"It's a Love Thing","instanceSlug":2163,"tags":[],"parents":[],"genre":"urban","debut":"1981-04","playlists":[],"ranks":[],"artists":[{"slug":"whispers","title":"Whispers","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":108},{"title":"She's Got that Vibe","instanceSlug":1201,"tags":[],"parents":[],"genre":"urban","debut":1992,"playlists":[],"ranks":[],"artists":[{"slug":"r-kelly","title":"R. Kelly","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":109},{"title":"Let's Stay Together","instanceSlug":2193,"tags":[],"parents":[],"genre":"urban","debut":"1984-03","playlists":[],"ranks":[],"artists":[{"slug":"tina-turner","title":"Tina Turner","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":110},{"title":"Skin Tight","instanceSlug":2630,"tags":[],"parents":[],"genre":"urban","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"ohio-players","title":"Ohio Players","roleSlug":true}],"genres":[{"slug":"urban","title":"Urban / R&B"}],"source":null,"rank":111}],"score":503.46,"songAdjustedAverage":47.79,"artistAdjustedAverage":60.61}
+{
+  "instanceSlug": "urban",
+  "title": "Urban / R&B",
+  "parents": [
+  ],
+  "artists": [
+    112,
+    "12-gauge",
+    "2-pac",
+    "4pm",
+    702,
+    "aaron-neville",
+    "adina-howard",
+    "al-jarreau",
+    "alexander-o-neal",
+    "all-4-one",
+    "babyface",
+    "billy-ocean",
+    "bobby-brown",
+    "boyz-ii-men",
+    "brothers-johnson",
+    "chaka-khan",
+    "dr-dre",
+    "earth-wind-fire",
+    "four-tops",
+    "fugees",
+    "george-clinton",
+    "inoj",
+    "jacksons",
+    "jade",
+    "james-ingram",
+    "jermaine-jackson",
+    "jodeci",
+    "joe",
+    "johnny-gill",
+    "k-ci-jojo",
+    "karyn-white",
+    "keith-sweat",
+    "koolnthegang",
+    "levert",
+    "lionel-richie",
+    "lisa-lisa-cult-jam",
+    "michael-jackson",
+    "midnight-star",
+    "miracles",
+    "new-edition",
+    "o-jays",
+    "ohio-players",
+    "oran-juice-jones",
+    "peaches-herb",
+    "pebbles",
+    "philip-bailey",
+    "platters",
+    "pointer-sisters",
+    "prince",
+    "quincy-jones",
+    "r-kelly",
+    "ralph-tresvant",
+    "ray-goodman-brown",
+    "ready-for-the-world",
+    "rick-james",
+    "roberta-flack",
+    "roger",
+    "rythm-syndicate",
+    "shai",
+    "soul-4-real",
+    "soul-ii-soul",
+    "spinners",
+    "stevie-wonder",
+    "sugarhill-gang",
+    "swv",
+    "system",
+    "tina-turner",
+    "tlc",
+    "usher",
+    "whispers",
+    "whitney-houston",
+    "zap"
+  ],
+  "songs": [
+    {
+      "title": "All My Life",
+      "instanceSlug": 2325,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1998-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:k-ci-jojo": 1,
+        "genre:urban": 1,
+        "decade:1990s": 13,
+        "year:1998": 1
+      },
+      "artists": [
+        {
+          "slug": "k-ci-jojo",
+          "title": "K-Ci & JoJo",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.351,
+        0.537,
+        0.722,
+        0.843,
+        1,
+        0.887,
+        0.882,
+        0.872,
+        0.857,
+        0.837,
+        0.812,
+        0.782,
+        0.747,
+        0.707,
+        0.662,
+        0.612,
+        0.557,
+        0.497,
+        0.432,
+        0.362,
+        0.287,
+        0.207,
+        0.122,
+        0.032,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 1,
+      "duration": 7,
+      "score": 14.726000000000003,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1998-04",
+        "title": "April 1998",
+        "decade": 1990,
+        "year": 1998,
+        "month": 4
+      },
+      "rank": 1
+    },
+    {
+      "title": "Centipede",
+      "instanceSlug": 2359,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "r&b"
+        },
+        {
+          "slug": "funk",
+          "title": "Funk"
+        },
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "debut": "1984-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michael-jackson": 4,
+        "artist:rebbie-jackson": 1,
+        "genre:soul": 3,
+        "genre:dance": 4,
+        "genre:r&b": 1,
+        "genre:urban": 2,
+        "genre:funk": 1,
+        "decade:1980s": 21,
+        "year:1984": 3
+      },
+      "artists": [
+        {
+          "slug": "rebbie-jackson",
+          "title": "Rebbie Jackson",
+          "roleSlug": true
+        },
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": "writer"
+        }
+      ],
+      "scores": [
+        0.171,
+        0.737,
+        1,
+        0.971,
+        0.966,
+        0.956,
+        0.941,
+        0.921,
+        0.896,
+        0.866,
+        0.831,
+        0.791,
+        0.746,
+        0.696,
+        0.641,
+        0.581,
+        0.516,
+        0.446,
+        0.371,
+        0.291,
+        0.206,
+        0.116,
+        0.021,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.678,
+      "source": null,
+      "debutEra": {
+        "slug": "1984-12",
+        "title": "December 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 12
+      },
+      "rank": 2
+    },
+    {
+      "title": "Creep",
+      "instanceSlug": 30,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1994-12",
+      "ranks": {
+        "artist:tlc": 1,
+        "genre:urban": 3,
+        "decade:1990s": 49,
+        "year:1994": 2
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.15,
+        0.521,
+        0.782,
+        0.887,
+        0.864,
+        0.804,
+        0.799,
+        0.789,
+        0.774,
+        0.754,
+        0.729,
+        0.699,
+        0.664,
+        0.624,
+        0.579,
+        0.529,
+        0.474,
+        0.414,
+        0.349,
+        0.279,
+        0.204,
+        0.124,
+        0.039,
+        0
+      ],
+      "debutScore": 0.15,
+      "peakScore": 0.887,
+      "duration": 6,
+      "score": 12.831000000000003,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-12",
+        "title": "December 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 12
+      },
+      "rank": 3
+    },
+    {
+      "title": "Summertime",
+      "instanceSlug": 3009,
+      "tags": [
+        "",
+        "summer"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1991,
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:will-smith": 2,
+        "genre:urban": 4,
+        "playlist:summer": 29,
+        "source:summer": 29,
+        "decade:1990s": 52,
+        "year:1991": 14
+      },
+      "artists": [
+        {
+          "slug": "will-smith",
+          "title": "Will Smith",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.232,
+        0.953,
+        0.909,
+        0.904,
+        0.894,
+        0.879,
+        0.859,
+        0.834,
+        0.804,
+        0.769,
+        0.729,
+        0.684,
+        0.634,
+        0.579,
+        0.519,
+        0.454,
+        0.384,
+        0.309,
+        0.229,
+        0.144,
+        0.054,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.953,
+      "duration": 6,
+      "score": 12.756,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1991,
+        "title": 1991,
+        "decade": 1990,
+        "year": 1991
+      },
+      "rank": 4
+    },
+    {
+      "title": "Fake",
+      "instanceSlug": 223,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debut": "1987-09",
+      "ranks": {
+        "artist:alexander-o-neal": 1,
+        "genre:soul": 14,
+        "genre:urban": 5,
+        "decade:1980s": 101,
+        "year:1987": 15
+      },
+      "artists": [
+        {
+          "slug": "alexander-o-neal",
+          "title": "Alexander O'Neal",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.222,
+        0.939,
+        0.887,
+        0.882,
+        0.872,
+        0.857,
+        0.837,
+        0.812,
+        0.782,
+        0.747,
+        0.707,
+        0.662,
+        0.612,
+        0.557,
+        0.497,
+        0.432,
+        0.362,
+        0.287,
+        0.207,
+        0.122,
+        0.032,
+        0
+      ],
+      "debutScore": 0.222,
+      "peakScore": 0.939,
+      "duration": 6,
+      "score": 12.314000000000004,
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-09",
+        "title": "September 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 9
+      },
+      "rank": 5
+    },
+    {
+      "title": "When Can I See You",
+      "instanceSlug": 471,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1994-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:babyface": 1,
+        "genre:urban": 6,
+        "playlist:summer": 38,
+        "source:summer": 38,
+        "decade:1990s": 72,
+        "year:1994": 5
+      },
+      "artists": [
+        {
+          "slug": "babyface",
+          "title": "Babyface",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.328,
+        0.582,
+        0.786,
+        0.843,
+        0.786,
+        0.781,
+        0.771,
+        0.756,
+        0.736,
+        0.711,
+        0.681,
+        0.646,
+        0.606,
+        0.561,
+        0.511,
+        0.456,
+        0.396,
+        0.331,
+        0.261,
+        0.186,
+        0.106,
+        0.021,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.843,
+      "duration": 6,
+      "score": 11.917,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-07",
+        "title": "July 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 7
+      },
+      "rank": 6
+    },
+    {
+      "title": "Working My Way Back to You",
+      "instanceSlug": 2665,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1980-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:spinners": 1,
+        "genre:urban": 7,
+        "decade:1980s": 123,
+        "year:1980": 10
+      },
+      "artists": [
+        {
+          "slug": "spinners",
+          "title": "Spinners",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.145,
+        0.463,
+        0.887,
+        0.829,
+        0.824,
+        0.814,
+        0.799,
+        0.779,
+        0.754,
+        0.724,
+        0.689,
+        0.649,
+        0.604,
+        0.554,
+        0.499,
+        0.439,
+        0.374,
+        0.304,
+        0.229,
+        0.149,
+        0.064,
+        0
+      ],
+      "debutScore": 0.145,
+      "peakScore": 0.887,
+      "duration": 6,
+      "score": 11.572000000000001,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-02",
+        "title": "February 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 2
+      },
+      "rank": 7
+    },
+    {
+      "title": "For the Love of Money",
+      "instanceSlug": 2632,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "r&b"
+        }
+      ],
+      "debut": 1974,
+      "playlists": [
+        {
+          "slug": "commentary",
+          "title": "Commentary Songs"
+        }
+      ],
+      "ranks": {
+        "artist:o-jays": 1,
+        "genre:soul": 27,
+        "genre:r&b": 2,
+        "genre:urban": 8,
+        "playlist:commentary": 1,
+        "source:commentary": 1,
+        "decade:1970s": 14,
+        "year:1974": 1
+      },
+      "artists": [
+        {
+          "slug": "o-jays",
+          "title": "O'Jays",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.402,
+        0.537,
+        0.768,
+        0.76,
+        0.735,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 10.995,
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 8
+    },
+    {
+      "title": "Cantaloupe",
+      "instanceSlug": 1719,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1994-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:us3": 1,
+        "genre:urban": 9,
+        "decade:1990s": 115,
+        "year:1994": 13
+      },
+      "artists": [
+        {
+          "slug": "us3",
+          "title": "US3",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.351,
+        0.612,
+        0.656,
+        0.662,
+        0.675,
+        0.655,
+        0.631,
+        0.626,
+        0.616,
+        0.601,
+        0.581,
+        0.556,
+        0.526,
+        0.491,
+        0.451,
+        0.406,
+        0.356,
+        0.301,
+        0.241,
+        0.176,
+        0.106,
+        0.031,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.675,
+      "duration": 6,
+      "score": 10.404000000000002,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-01",
+        "title": "January 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 1
+      },
+      "rank": 9
+    },
+    {
+      "title": "The Rain",
+      "instanceSlug": 167,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1986-10",
+      "ranks": {
+        "artist:oran-juice-jones": 1,
+        "genre:urban": 10,
+        "decade:1980s": 169,
+        "year:1986": 17
+      },
+      "artists": [
+        {
+          "slug": "oran-juice-jones",
+          "title": "Oran \"Juice\" Jones",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.122,
+        0.337,
+        0.554,
+        0.768,
+        0.823,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.122,
+      "peakScore": 0.823,
+      "duration": 6,
+      "score": 10.322000000000001,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-10",
+        "title": "October 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 10
+      },
+      "rank": 10
+    },
+    {
+      "title": "Love Train",
+      "instanceSlug": 2631,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "r&b"
+        }
+      ],
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:o-jays": 2,
+        "genre:soul": 39,
+        "genre:r&b": 3,
+        "genre:urban": 11,
+        "decade:1970s": 21,
+        "year:1973": 1
+      },
+      "artists": [
+        {
+          "slug": "o-jays",
+          "title": "O'Jays",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.431,
+        0.694,
+        0.768,
+        0.722,
+        0.717,
+        0.707,
+        0.692,
+        0.672,
+        0.647,
+        0.617,
+        0.582,
+        0.542,
+        0.497,
+        0.447,
+        0.392,
+        0.332,
+        0.267,
+        0.197,
+        0.122,
+        0.042,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.768,
+      "duration": 6,
+      "score": 10.206999999999997,
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 11
+    },
+    {
+      "title": "Baby Baby Baby",
+      "instanceSlug": 55,
+      "tags": [
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "genre": "urban",
+      "debut": "1992-07",
+      "ranks": {
+        "artist:tlc": 2,
+        "genre:urban": 12,
+        "playlist:summer": 63,
+        "source:summer": 63,
+        "decade:1990s": 132,
+        "year:1992": 18
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.232,
+        0.737,
+        0.729,
+        0.708,
+        0.675,
+        0.642,
+        0.637,
+        0.627,
+        0.612,
+        0.592,
+        0.567,
+        0.537,
+        0.502,
+        0.462,
+        0.417,
+        0.367,
+        0.312,
+        0.252,
+        0.187,
+        0.117,
+        0.042,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.737,
+      "duration": 6,
+      "score": 9.953,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-07",
+        "title": "July 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 7
+      },
+      "rank": 12
+    },
+    {
+      "title": "If I Ever Fall in Love",
+      "instanceSlug": 1059,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "r&b"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debut": "1992-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:shai": 1,
+        "genre:soul": 42,
+        "genre:r&b": 4,
+        "genre:urban": 13,
+        "decade:1990s": 133,
+        "year:1992": 19
+      },
+      "artists": [
+        {
+          "slug": "shai",
+          "title": "Shai",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.463,
+        0.633,
+        0.786,
+        0.708,
+        0.703,
+        0.693,
+        0.678,
+        0.658,
+        0.633,
+        0.603,
+        0.568,
+        0.528,
+        0.483,
+        0.433,
+        0.378,
+        0.318,
+        0.253,
+        0.183,
+        0.108,
+        0.028,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.786,
+      "duration": 6,
+      "score": 9.935,
+      "source": null,
+      "debutEra": {
+        "slug": "1992-11",
+        "title": "November 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 11
+      },
+      "rank": 13
+    },
+    {
+      "title": "Love Rollercoaster",
+      "instanceSlug": 1902,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b",
+        "remade"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ohio-players": 1,
+        "genre:urban": 14,
+        "decade:1970s": 23,
+        "year:1976": 3
+      },
+      "artists": [
+        {
+          "slug": "ohio-players",
+          "title": "Ohio Players",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.622,
+        0.786,
+        0.749,
+        0.694,
+        0.645,
+        0.64,
+        0.63,
+        0.615,
+        0.595,
+        0.57,
+        0.54,
+        0.505,
+        0.465,
+        0.42,
+        0.37,
+        0.315,
+        0.255,
+        0.19,
+        0.12,
+        0.045,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.786,
+      "duration": 6,
+      "score": 9.890999999999998,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1976,
+        "title": 1976,
+        "decade": 1970,
+        "year": 1976
+      },
+      "rank": 14
+    },
+    {
+      "title": "Let It Whip",
+      "instanceSlug": 89,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1982-06",
+      "ranks": {
+        "artist:dazz-band": 1,
+        "genre:urban": 15,
+        "decade:1980s": 201,
+        "year:1982": 15
+      },
+      "artists": [
+        {
+          "slug": "dazz-band",
+          "title": "Dazz Band",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.232,
+        0.425,
+        0.622,
+        0.804,
+        0.694,
+        0.689,
+        0.679,
+        0.664,
+        0.644,
+        0.619,
+        0.589,
+        0.554,
+        0.514,
+        0.469,
+        0.419,
+        0.364,
+        0.304,
+        0.239,
+        0.169,
+        0.094,
+        0.014,
+        0
+      ],
+      "debutScore": 0.232,
+      "peakScore": 0.804,
+      "duration": 6,
+      "score": 9.801000000000002,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-06",
+        "title": "June 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 6
+      },
+      "rank": 15
+    },
+    {
+      "title": "Facts of Love",
+      "instanceSlug": 2151,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1987-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:karyn-white": 5,
+        "artist:jeff-lorber": 1,
+        "genre:urban": 16,
+        "decade:1980s": 221,
+        "year:1987": 44
+      },
+      "artists": [
+        {
+          "slug": "jeff-lorber",
+          "title": "Jeff Lorber",
+          "roleSlug": true
+        },
+        {
+          "slug": "karyn-white",
+          "title": "Karyn White",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.463,
+        0.633,
+        0.645,
+        0.633,
+        0.612,
+        0.592,
+        0.56,
+        0.555,
+        0.545,
+        0.53,
+        0.51,
+        0.485,
+        0.455,
+        0.42,
+        0.38,
+        0.335,
+        0.285,
+        0.23,
+        0.17,
+        0.105,
+        0.035,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.645,
+      "duration": 6,
+      "score": 9.542000000000003,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1987-02",
+        "title": "February 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 2
+      },
+      "rank": 16
+    },
+    {
+      "title": "Never Knew Love Like This",
+      "instanceSlug": "never-knew-1988",
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debut": "1988-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:alexander-o-neal": 2,
+        "artist:cherrell": 1,
+        "genre:soul": 60,
+        "genre:urban": 17,
+        "decade:1980s": 331,
+        "year:1988": 31
+      },
+      "artists": [
+        {
+          "slug": "alexander-o-neal",
+          "title": "Alexander O'Neal",
+          "roleSlug": true
+        },
+        {
+          "slug": "cherrell"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.267,
+        0.402,
+        0.537,
+        0.633,
+        0.612,
+        0.554,
+        0.549,
+        0.539,
+        0.524,
+        0.504,
+        0.479,
+        0.449,
+        0.414,
+        0.374,
+        0.329,
+        0.279,
+        0.224,
+        0.164,
+        0.099,
+        0.029,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 7.996999999999999,
+      "source": null,
+      "debutEra": {
+        "slug": "1988-03",
+        "title": "March 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 3
+      },
+      "rank": 17
+    },
+    {
+      "title": "Every Little Thing I Do",
+      "instanceSlug": 335,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:soul-4-real": 2,
+        "genre:urban": 18,
+        "playlist:summer": 90,
+        "source:summer": 90,
+        "decade:1990s": 220,
+        "year:1995": 22
+      },
+      "artists": [
+        {
+          "slug": "soul-4-real",
+          "title": "Soul for Real",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.513,
+        0.633,
+        0.609,
+        0.585,
+        0.555,
+        0.518,
+        0.47,
+        0.465,
+        0.455,
+        0.44,
+        0.42,
+        0.395,
+        0.365,
+        0.33,
+        0.29,
+        0.245,
+        0.195,
+        0.14,
+        0.08,
+        0.015,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 7.838000000000001,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-05",
+        "title": "May 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 5
+      },
+      "rank": 18
+    },
+    {
+      "title": "Back to Life",
+      "instanceSlug": 171,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1989-10",
+      "ranks": {
+        "artist:soul-ii-soul": 1,
+        "genre:urban": 19,
+        "decade:1980s": 339,
+        "year:1989": 33
+      },
+      "artists": [
+        {
+          "slug": "soul-ii-soul",
+          "title": "Soul II Soul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.086,
+        0.306,
+        0.537,
+        0.633,
+        0.607,
+        0.563,
+        0.558,
+        0.548,
+        0.533,
+        0.513,
+        0.488,
+        0.458,
+        0.423,
+        0.383,
+        0.338,
+        0.288,
+        0.233,
+        0.173,
+        0.108,
+        0.038,
+        0
+      ],
+      "debutScore": 0.086,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 7.814,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-10",
+        "title": "October 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 10
+      },
+      "rank": 19
+    },
+    {
+      "title": "Fishnet",
+      "instanceSlug": 2286,
+      "tags": [
+      ],
+      "genre": "urban",
+      "debut": "1988-04",
+      "playlists": [
+        {
+          "slug": "inanimate",
+          "title": "Songs about Inanimate Objects"
+        }
+      ],
+      "ranks": {
+        "artist:morris-day": 2,
+        "genre:urban": 20,
+        "playlist:inanimate": 1,
+        "source:inanimate": 1,
+        "decade:1980s": 349,
+        "year:1988": 34
+      },
+      "artists": [
+        {
+          "slug": "morris-day",
+          "title": "Morris Day",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.402,
+        0.633,
+        0.622,
+        0.582,
+        0.577,
+        0.567,
+        0.552,
+        0.532,
+        0.507,
+        0.477,
+        0.442,
+        0.402,
+        0.357,
+        0.307,
+        0.252,
+        0.192,
+        0.127,
+        0.057,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.633,
+      "duration": 5,
+      "score": 7.684000000000001,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-04",
+        "title": "April 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 4
+      },
+      "rank": 20
+    },
+    {
+      "title": "California Love",
+      "instanceSlug": 2582,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1996-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:roger": 3,
+        "artist:2-pac": 1,
+        "artist:dr-dre": 1,
+        "genre:urban": 21,
+        "playlist:summer": 95,
+        "source:summer": 95,
+        "decade:1990s": 229,
+        "year:1996": 16
+      },
+      "artists": [
+        {
+          "slug": "2-pac",
+          "title": "2 Pac",
+          "roleSlug": true
+        },
+        {
+          "slug": "dr-dre",
+          "title": "Dr. Dre",
+          "roleSlug": "feature"
+        },
+        {
+          "slug": "roger",
+          "title": "Roger (Roger Troutman)",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.097,
+        0.267,
+        0.402,
+        0.498,
+        0.633,
+        0.563,
+        0.558,
+        0.548,
+        0.533,
+        0.513,
+        0.488,
+        0.458,
+        0.423,
+        0.383,
+        0.338,
+        0.288,
+        0.233,
+        0.173,
+        0.108,
+        0.038,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.633,
+      "duration": 6,
+      "score": 7.542,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-07",
+        "title": "July 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 7
+      },
+      "rank": 21
+    },
+    {
+      "title": "What About Your Friends",
+      "instanceSlug": 874,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1992-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tlc": 3,
+        "genre:urban": 22,
+        "decade:1990s": 231,
+        "year:1992": 33
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.09,
+        0.256,
+        0.437,
+        0.546,
+        0.582,
+        0.563,
+        0.521,
+        0.516,
+        0.506,
+        0.491,
+        0.471,
+        0.446,
+        0.416,
+        0.381,
+        0.341,
+        0.296,
+        0.246,
+        0.191,
+        0.131,
+        0.066,
+        0
+      ],
+      "debutScore": 0.09,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.493,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-10",
+        "title": "October 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 10
+      },
+      "rank": 22
+    },
+    {
+      "title": "Diggin' On You",
+      "instanceSlug": 1426,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tlc": 4,
+        "genre:urban": 23,
+        "decade:1990s": 232,
+        "year:1995": 24
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.216,
+        0.376,
+        0.563,
+        0.592,
+        0.574,
+        0.526,
+        0.521,
+        0.511,
+        0.496,
+        0.476,
+        0.451,
+        0.421,
+        0.386,
+        0.346,
+        0.301,
+        0.251,
+        0.196,
+        0.136,
+        0.071,
+        0.001,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.592,
+      "duration": 6,
+      "score": 7.486,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-12",
+        "title": "December 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 12
+      },
+      "rank": 23
+    },
+    {
+      "title": "Unpretty",
+      "instanceSlug": 567,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "pretty",
+        "un"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1999-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tlc": 5,
+        "genre:urban": 24,
+        "decade:1990s": 235,
+        "year:1999": 22
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.191,
+        0.381,
+        0.456,
+        0.517,
+        0.535,
+        0.525,
+        0.505,
+        0.464,
+        0.459,
+        0.449,
+        0.434,
+        0.414,
+        0.389,
+        0.359,
+        0.324,
+        0.284,
+        0.239,
+        0.189,
+        0.134,
+        0.074,
+        0.009,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.535,
+      "duration": 6,
+      "score": 7.386,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-08",
+        "title": "August 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 8
+      },
+      "rank": 24
+    },
+    {
+      "title": "I Want Her",
+      "instanceSlug": 2205,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1988-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:keith-sweat": 1,
+        "genre:urban": 25,
+        "decade:1980s": 369,
+        "year:1988": 39
+      },
+      "artists": [
+        {
+          "slug": "keith-sweat",
+          "title": "Keith Sweat",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.351,
+        0.431,
+        0.491,
+        0.537,
+        0.521,
+        0.498,
+        0.466,
+        0.461,
+        0.451,
+        0.436,
+        0.416,
+        0.391,
+        0.361,
+        0.326,
+        0.286,
+        0.241,
+        0.191,
+        0.136,
+        0.076,
+        0.011,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.537,
+      "duration": 6,
+      "score": 7.384999999999999,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-02",
+        "title": "February 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 2
+      },
+      "rank": 25
+    },
+    {
+      "title": "Shame",
+      "instanceSlug": 1818,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-01",
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        }
+      ],
+      "ranks": {
+        "artist:zhane": 1,
+        "genre:urban": 26,
+        "playlist:remake": 10,
+        "source:remake": 10,
+        "decade:1990s": 237,
+        "year:1995": 25
+      },
+      "artists": [
+        {
+          "slug": "zhane",
+          "title": "Zhane",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.376,
+        0.47,
+        0.537,
+        0.582,
+        0.562,
+        0.521,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.364999999999999,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-01",
+        "title": "January 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 1
+      },
+      "rank": 26
+    },
+    {
+      "title": "Used to Be My Girl",
+      "instanceSlug": 1846,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "r&b"
+        }
+      ],
+      "debut": "1978-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:o-jays": 3,
+        "genre:soul": 68,
+        "genre:r&b": 5,
+        "genre:urban": 27,
+        "decade:1970s": 41,
+        "year:1978": 7
+      },
+      "artists": [
+        {
+          "slug": "o-jays",
+          "title": "O'Jays",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.018,
+        0.232,
+        0.463,
+        0.582,
+        0.573,
+        0.546,
+        0.541,
+        0.531,
+        0.516,
+        0.496,
+        0.471,
+        0.441,
+        0.406,
+        0.366,
+        0.321,
+        0.271,
+        0.216,
+        0.156,
+        0.091,
+        0.021,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 7.257999999999998,
+      "source": null,
+      "debutEra": {
+        "slug": "1978-06",
+        "title": "June 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 6
+      },
+      "rank": 27
+    },
+    {
+      "title": "Rock Steady",
+      "instanceSlug": 230,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "soul",
+          "title": "Soul"
+        }
+      ],
+      "debut": "1987-07",
+      "ranks": {
+        "artist:whispers": 1,
+        "genre:soul": 69,
+        "genre:urban": 28,
+        "playlist:summer": 98,
+        "source:summer": 98,
+        "decade:1980s": 380,
+        "year:1987": 64
+      },
+      "artists": [
+        {
+          "slug": "whispers",
+          "title": "Whispers",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.084,
+        0.381,
+        0.521,
+        0.546,
+        0.554,
+        0.54,
+        0.517,
+        0.484,
+        0.419,
+        0.414,
+        0.404,
+        0.389,
+        0.369,
+        0.344,
+        0.314,
+        0.279,
+        0.239,
+        0.194,
+        0.144,
+        0.089,
+        0.029,
+        0
+      ],
+      "debutScore": 0.084,
+      "peakScore": 0.554,
+      "duration": 6,
+      "score": 7.2540000000000004,
+      "source": null,
+      "debutEra": {
+        "slug": "1987-07",
+        "title": "July 1987",
+        "decade": 1980,
+        "year": 1987,
+        "month": 7
+      },
+      "rank": 28
+    },
+    {
+      "title": "Back Stabbers",
+      "instanceSlug": 1841,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "r&b"
+        }
+      ],
+      "debut": 1972,
+      "playlists": [
+        {
+          "slug": "betrayal"
+        }
+      ],
+      "ranks": {
+        "artist:o-jays": 4,
+        "genre:soul": 71,
+        "genre:r&b": 6,
+        "genre:urban": 29,
+        "playlist:betrayal": 1,
+        "source:betrayal": 1,
+        "decade:1970s": 44,
+        "year:1972": 5
+      },
+      "artists": [
+        {
+          "slug": "o-jays",
+          "title": "O'Jays",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.232,
+        0.434,
+        0.559,
+        0.587,
+        0.553,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.587,
+      "duration": 6,
+      "score": 7.097999999999999,
+      "source": null,
+      "debutEra": {
+        "slug": 1972,
+        "title": 1972,
+        "decade": 1970,
+        "year": 1972
+      },
+      "rank": 29
+    },
+    {
+      "title": "Cool It Now",
+      "instanceSlug": 3,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1984-11",
+      "ranks": {
+        "artist:new-edition": 3,
+        "genre:pop": 363,
+        "genre:urban": 30,
+        "decade:1980s": 398,
+        "year:1984": 36
+      },
+      "artists": [
+        {
+          "slug": "new-edition",
+          "title": "New Edition",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.267,
+        0.491,
+        0.546,
+        0.563,
+        0.529,
+        0.484,
+        0.479,
+        0.469,
+        0.454,
+        0.434,
+        0.409,
+        0.379,
+        0.344,
+        0.304,
+        0.259,
+        0.209,
+        0.154,
+        0.094,
+        0.029,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.563,
+      "duration": 6,
+      "score": 6.972000000000001,
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-11",
+        "title": "November 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 11
+      },
+      "rank": 30
+    },
+    {
+      "title": "Livin' for the Weekend",
+      "instanceSlug": 2633,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "r&b"
+        }
+      ],
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:o-jays": 5,
+        "genre:soul": 73,
+        "genre:r&b": 7,
+        "genre:urban": 31,
+        "decade:1970s": 46,
+        "year:1976": 5
+      },
+      "artists": [
+        {
+          "slug": "o-jays",
+          "title": "O'Jays",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.216,
+        0.431,
+        0.582,
+        0.563,
+        0.529,
+        0.524,
+        0.514,
+        0.499,
+        0.479,
+        0.454,
+        0.424,
+        0.389,
+        0.349,
+        0.304,
+        0.254,
+        0.199,
+        0.139,
+        0.074,
+        0.004,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 6.963,
+      "source": null,
+      "debutEra": {
+        "slug": 1976,
+        "title": 1976,
+        "decade": 1970,
+        "year": 1976
+      },
+      "rank": 31
+    },
+    {
+      "title": "Don't Worry, Be Happy",
+      "instanceSlug": 554,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "playlists": [
+      ],
+      "genre": "urban",
+      "debut": "1988-07",
+      "ranks": {
+        "artist:bobby-mcferrin": 1,
+        "genre:urban": 32,
+        "decade:1980s": 415,
+        "year:1988": 48
+      },
+      "artists": [
+        {
+          "slug": "bobby-mcferrin",
+          "title": "Bobby McFerrin",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.071,
+        0.346,
+        0.546,
+        0.582,
+        0.573,
+        0.496,
+        0.491,
+        0.481,
+        0.466,
+        0.446,
+        0.421,
+        0.391,
+        0.356,
+        0.316,
+        0.271,
+        0.221,
+        0.166,
+        0.106,
+        0.041,
+        0
+      ],
+      "debutScore": 0.071,
+      "peakScore": 0.582,
+      "duration": 5,
+      "score": 6.787,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-07",
+        "title": "July 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 7
+      },
+      "rank": 32
+    },
+    {
+      "title": "Spy in the House of Love",
+      "instanceSlug": 1292,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "pop",
+          "title": "Pop"
+        }
+      ],
+      "debut": "1988-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:was-not-was": 2,
+        "genre:pop": 390,
+        "genre:urban": 33,
+        "decade:1980s": 428,
+        "year:1988": 50
+      },
+      "artists": [
+        {
+          "slug": "was-not-was",
+          "title": "Was (Not Was)",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.376,
+        0.498,
+        0.537,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.537,
+      "duration": 5,
+      "score": 6.6049999999999995,
+      "source": null,
+      "debutEra": {
+        "slug": "1988-11",
+        "title": "November 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 11
+      },
+      "rank": 33
+    },
+    {
+      "title": "You Dropped the Bomb on Me",
+      "instanceSlug": 656,
+      "tags": [
+        "bomb",
+        "you-did-what"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1982-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:gap-band": 1,
+        "genre:urban": 34,
+        "decade:1980s": 445,
+        "year:1982": 32
+      },
+      "artists": [
+        {
+          "slug": "gap-band",
+          "title": "Gap Band",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.286,
+        0.477,
+        0.622,
+        0.513,
+        0.508,
+        0.498,
+        0.483,
+        0.463,
+        0.438,
+        0.408,
+        0.373,
+        0.333,
+        0.288,
+        0.238,
+        0.183,
+        0.123,
+        0.058,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.622,
+      "duration": 5,
+      "score": 6.389000000000002,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-09",
+        "title": "September 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 9
+      },
+      "rank": 34
+    },
+    {
+      "title": "Slow and Easy",
+      "instanceSlug": 1720,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1993-12",
+      "playlists": [
+      ],
+      "artists": [
+        {
+          "slug": "zap",
+          "title": "Zap",
+          "roleSlug": true
+        },
+        {
+          "slug": "roger",
+          "title": "Roger (Roger Troutman)",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.1,
+        0.3,
+        0.444,
+        0.477,
+        0.47,
+        0.463,
+        0.437,
+        0.4,
+        0.35,
+        0.345,
+        0.335,
+        0.32,
+        0.3,
+        0.275,
+        0.245,
+        0.21,
+        0.17,
+        0.125,
+        0.075,
+        0.02,
+        0
+      ],
+      "ranks": {
+        "artist:roger": 2,
+        "artist:zap": 1,
+        "genre:urban": 35,
+        "decade:1990s": 293,
+        "year:1993": 31
+      },
+      "debutScore": 0.1,
+      "peakScore": 0.477,
+      "duration": 6,
+      "score": 5.861,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-12",
+        "title": "December 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 12
+      },
+      "rank": 35
+    },
+    {
+      "title": "Just Got Paid",
+      "instanceSlug": 2332,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1988-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:johnny-kemp": 1,
+        "genre:urban": 36,
+        "decade:1980s": 484,
+        "year:1988": 58
+      },
+      "artists": [
+        {
+          "slug": "johnny-kemp",
+          "title": "Johnny Kemp",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.045,
+        0.271,
+        0.437,
+        0.463,
+        0.48,
+        0.447,
+        0.442,
+        0.432,
+        0.417,
+        0.397,
+        0.372,
+        0.342,
+        0.307,
+        0.267,
+        0.222,
+        0.172,
+        0.117,
+        0.057,
+        0
+      ],
+      "debutScore": 0.045,
+      "peakScore": 0.48,
+      "duration": 5,
+      "score": 5.687,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-07",
+        "title": "July 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 7
+      },
+      "rank": 36
+    },
+    {
+      "title": "Keep On Moving",
+      "instanceSlug": 522,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1989-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:soul-ii-soul": 2,
+        "genre:urban": 37,
+        "decade:1980s": 498,
+        "year:1989": 50
+      },
+      "artists": [
+        {
+          "slug": "soul-ii-soul",
+          "title": "Soul II Soul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.036,
+        0.2,
+        0.306,
+        0.391,
+        0.437,
+        0.463,
+        0.427,
+        0.422,
+        0.412,
+        0.397,
+        0.377,
+        0.352,
+        0.322,
+        0.287,
+        0.247,
+        0.202,
+        0.152,
+        0.097,
+        0.037,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.564000000000001,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-08",
+        "title": "August 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 8
+      },
+      "rank": 37
+    },
+    {
+      "title": "Me, Myself and I",
+      "instanceSlug": 1432,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1989-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:de-la-soul": 1,
+        "genre:urban": 38,
+        "decade:1980s": 521,
+        "year:1989": 55
+      },
+      "artists": [
+        {
+          "slug": "de-la-soul",
+          "title": "De La Soul",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.537,
+        0.498,
+        0.493,
+        0.483,
+        0.468,
+        0.448,
+        0.423,
+        0.393,
+        0.358,
+        0.318,
+        0.273,
+        0.223,
+        0.168,
+        0.108,
+        0.043,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.537,
+      "duration": 5,
+      "score": 5.353999999999999,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-08",
+        "title": "August 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 8
+      },
+      "rank": 38
+    },
+    {
+      "title": "Red Light Special",
+      "instanceSlug": 2253,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tlc": 6,
+        "genre:urban": 39,
+        "decade:1990s": 326,
+        "year:1995": 31
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.2,
+        0.306,
+        0.391,
+        0.463,
+        0.419,
+        0.414,
+        0.404,
+        0.389,
+        0.369,
+        0.344,
+        0.314,
+        0.279,
+        0.239,
+        0.194,
+        0.144,
+        0.089,
+        0.029,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 5.061999999999999,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-03",
+        "title": "March 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 3
+      },
+      "rank": 39
+    },
+    {
+      "title": "Pony",
+      "instanceSlug": 1896,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1996-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ginuwine": 1,
+        "genre:urban": 40,
+        "decade:1990s": 329,
+        "year:1996": 28
+      },
+      "artists": [
+        {
+          "slug": "ginuwine",
+          "title": "Ginuwine",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.306,
+        0.463,
+        0.391,
+        0.431,
+        0.391,
+        0.386,
+        0.376,
+        0.361,
+        0.341,
+        0.316,
+        0.286,
+        0.251,
+        0.211,
+        0.166,
+        0.116,
+        0.061,
+        0.001,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.463,
+      "duration": 5,
+      "score": 4.9510000000000005,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-10",
+        "title": "October 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 10
+      },
+      "rank": 40
+    },
+    {
+      "title": "Slow Hand",
+      "instanceSlug": 2643,
+      "tags": [
+      ],
+      "genre": "urban",
+      "debut": "1981-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pointer-sisters": 8,
+        "genre:urban": 41,
+        "decade:1980s": 582,
+        "year:1981": 34
+      },
+      "artists": [
+        {
+          "slug": "pointer-sisters",
+          "title": "Pointer Sisters",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.2,
+        0.328,
+        0.431,
+        0.422,
+        0.397,
+        0.392,
+        0.382,
+        0.367,
+        0.347,
+        0.322,
+        0.292,
+        0.257,
+        0.217,
+        0.172,
+        0.122,
+        0.067,
+        0.007,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.431,
+      "duration": 5,
+      "score": 4.722999999999999,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-07",
+        "title": "July 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 7
+      },
+      "rank": 41
+    },
+    {
+      "title": "You're Making Me High",
+      "instanceSlug": 1391,
+      "tags": [
+        "high",
+        "make-me",
+        "making",
+        "you-make",
+        "you-make-me",
+        "you're"
+      ],
+      "genre": "urban",
+      "debut": "1996-11",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:toni-braxton": 2,
+        "genre:urban": 42,
+        "decade:1990s": 339,
+        "year:1996": 29
+      },
+      "artists": [
+        {
+          "slug": "toni-braxton",
+          "title": "Toni Braxton",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.018,
+        0.171,
+        0.306,
+        0.402,
+        0.414,
+        0.397,
+        0.365,
+        0.36,
+        0.35,
+        0.335,
+        0.315,
+        0.29,
+        0.26,
+        0.225,
+        0.185,
+        0.14,
+        0.09,
+        0.035,
+        0
+      ],
+      "debutScore": 0.018,
+      "peakScore": 0.414,
+      "duration": 5,
+      "score": 4.657999999999999,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-11",
+        "title": "November 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 11
+      },
+      "rank": 42
+    },
+    {
+      "title": "My Boo",
+      "instanceSlug": 594,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1996-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ghost-town-djs": 1,
+        "genre:urban": 43,
+        "decade:1990s": 366,
+        "year:1996": 31
+      },
+      "artists": [
+        {
+          "slug": "ghost-town-djs",
+          "title": "Ghost Town DJs",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.038,
+        0.213,
+        0.337,
+        0.353,
+        0.349,
+        0.339,
+        0.324,
+        0.306,
+        0.271,
+        0.266,
+        0.256,
+        0.241,
+        0.221,
+        0.196,
+        0.166,
+        0.131,
+        0.091,
+        0.046,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.353,
+      "duration": 5,
+      "score": 4.144,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-10",
+        "title": "October 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 10
+      },
+      "rank": 43
+    },
+    {
+      "title": "No Scrubs",
+      "instanceSlug": 2254,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1999-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tlc": 7,
+        "genre:urban": 44,
+        "decade:1990s": 367,
+        "year:1999": 29
+      },
+      "artists": [
+        {
+          "slug": "tlc",
+          "title": "TLC",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.232,
+        0.306,
+        0.402,
+        0.381,
+        0.356,
+        0.319,
+        0.314,
+        0.304,
+        0.289,
+        0.269,
+        0.244,
+        0.214,
+        0.179,
+        0.139,
+        0.094,
+        0.044,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 4.141,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-03",
+        "title": "March 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 3
+      },
+      "rank": 44
+    },
+    {
+      "title": "Understanding",
+      "instanceSlug": 1721,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1994-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:xscape": 1,
+        "genre:urban": 45,
+        "decade:1990s": 371,
+        "year:1994": 29
+      },
+      "artists": [
+        {
+          "slug": "xscape",
+          "title": "Xscape",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.12,
+        0.267,
+        0.376,
+        0.402,
+        0.361,
+        0.356,
+        0.346,
+        0.331,
+        0.311,
+        0.286,
+        0.256,
+        0.221,
+        0.181,
+        0.136,
+        0.086,
+        0.031,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 4.0680000000000005,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1994-01",
+        "title": "January 1994",
+        "decade": 1990,
+        "year": 1994,
+        "month": 1
+      },
+      "rank": 45
+    },
+    {
+      "title": "It's No Crime",
+      "instanceSlug": 500,
+      "tags": [
+        "crime",
+        "it's",
+        "no"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1989-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:babyface": 4,
+        "genre:urban": 46,
+        "decade:1980s": 650,
+        "year:1989": 67
+      },
+      "artists": [
+        {
+          "slug": "babyface",
+          "title": "Babyface",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.256,
+        0.431,
+        0.408,
+        0.381,
+        0.319,
+        0.314,
+        0.304,
+        0.289,
+        0.269,
+        0.244,
+        0.214,
+        0.179,
+        0.139,
+        0.094,
+        0.044,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.431,
+      "duration": 5,
+      "score": 3.9619999999999997,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-09",
+        "title": "September 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 9
+      },
+      "rank": 46
+    },
+    {
+      "title": "My Girl",
+      "instanceSlug": 793,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1988-05",
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        }
+      ],
+      "ranks": {
+        "artist:suave": 1,
+        "genre:urban": 47,
+        "playlist:remake": 19,
+        "source:remake": 19,
+        "decade:1980s": 651,
+        "year:1988": 76
+      },
+      "artists": [
+        {
+          "slug": "suave",
+          "title": "Suavé",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.055,
+        0.229,
+        0.306,
+        0.402,
+        0.365,
+        0.36,
+        0.35,
+        0.335,
+        0.315,
+        0.29,
+        0.26,
+        0.225,
+        0.185,
+        0.14,
+        0.09,
+        0.035,
+        0
+      ],
+      "debutScore": 0.055,
+      "peakScore": 0.402,
+      "duration": 5,
+      "score": 3.9420000000000006,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-05",
+        "title": "May 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 5
+      },
+      "rank": 47
+    },
+    {
+      "title": "Oh Sheila",
+      "instanceSlug": 942,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1985-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ready-for-the-world": 1,
+        "genre:urban": 48,
+        "decade:1980s": 653,
+        "year:1985": 55
+      },
+      "artists": [
+        {
+          "slug": "ready-for-the-world",
+          "title": "Ready for the World",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.038,
+        0.219,
+        0.397,
+        0.414,
+        0.356,
+        0.351,
+        0.341,
+        0.326,
+        0.306,
+        0.281,
+        0.251,
+        0.216,
+        0.176,
+        0.131,
+        0.081,
+        0.026,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.414,
+      "duration": 5,
+      "score": 3.9100000000000006,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-09",
+        "title": "September 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 9
+      },
+      "rank": 48
+    },
+    {
+      "title": "Love Zone",
+      "instanceSlug": 287,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1986-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:billy-ocean": 4,
+        "genre:urban": 49,
+        "decade:1980s": 676,
+        "year:1986": 76
+      },
+      "artists": [
+        {
+          "slug": "billy-ocean",
+          "title": "Billy Ocean",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.077,
+        0.256,
+        0.437,
+        0.431,
+        0.328,
+        0.323,
+        0.313,
+        0.298,
+        0.278,
+        0.253,
+        0.223,
+        0.188,
+        0.148,
+        0.103,
+        0.053,
+        0
+      ],
+      "debutScore": 0.077,
+      "peakScore": 0.437,
+      "duration": 4,
+      "score": 3.7090000000000005,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-08",
+        "title": "August 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 8
+      },
+      "rank": 49
+    },
+    {
+      "title": "Where My Girls At",
+      "instanceSlug": 551,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1999-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:702": 1,
+        "genre:urban": 50,
+        "decade:1990s": 387,
+        "year:1999": 31
+      },
+      "artists": [
+        {
+          "slug": "702"
+        }
+      ],
+      "scores": [
+        0.075,
+        0.145,
+        0.185,
+        0.232,
+        0.275,
+        0.298,
+        0.315,
+        0.29,
+        0.235,
+        0.23,
+        0.22,
+        0.205,
+        0.185,
+        0.16,
+        0.13,
+        0.095,
+        0.055,
+        0.01,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.315,
+      "duration": 5,
+      "score": 3.3400000000000003,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-09",
+        "title": "September 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 9
+      },
+      "rank": 50
+    },
+    {
+      "title": "Nobody",
+      "instanceSlug": 1889,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1997-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:keith-sweat": 3,
+        "artist:athena-cage": 1,
+        "genre:urban": 51,
+        "decade:1990s": 388,
+        "year:1997": 15
+      },
+      "artists": [
+        {
+          "slug": "keith-sweat",
+          "title": "Keith Sweat",
+          "roleSlug": true
+        },
+        {
+          "slug": "athena-cage",
+          "title": "Athena Cage",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": [
+        0.036,
+        0.216,
+        0.351,
+        0.341,
+        0.323,
+        0.286,
+        0.281,
+        0.271,
+        0.256,
+        0.236,
+        0.211,
+        0.181,
+        0.146,
+        0.106,
+        0.061,
+        0.011,
+        0
+      ],
+      "debutScore": 0.036,
+      "peakScore": 0.351,
+      "duration": 5,
+      "score": 3.3129999999999993,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-02",
+        "title": "February 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 2
+      },
+      "rank": 51
+    },
+    {
+      "title": "Keep It Coming",
+      "instanceSlug": 1105,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1992-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:keith-sweat": 4,
+        "genre:urban": 52,
+        "decade:1990s": 394,
+        "year:1992": 65
+      },
+      "artists": [
+        {
+          "slug": "keith-sweat",
+          "title": "Keith Sweat",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.12,
+        0.222,
+        0.282,
+        0.319,
+        0.351,
+        0.26,
+        0.255,
+        0.245,
+        0.23,
+        0.21,
+        0.185,
+        0.155,
+        0.12,
+        0.08,
+        0.035,
+        0
+      ],
+      "debutScore": 0.12,
+      "peakScore": 0.351,
+      "duration": 4,
+      "score": 3.069,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-01",
+        "title": "January 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 1
+      },
+      "rank": 52
+    },
+    {
+      "title": "Make You Sweat",
+      "instanceSlug": 196,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1990-07",
+      "ranks": {
+        "artist:keith-sweat": 5,
+        "genre:urban": 53,
+        "decade:1990s": 406,
+        "year:1990": 68
+      },
+      "artists": [
+        {
+          "slug": "keith-sweat",
+          "title": "Keith Sweat",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.142,
+        0.235,
+        0.278,
+        0.286,
+        0.254,
+        0.249,
+        0.239,
+        0.224,
+        0.204,
+        0.179,
+        0.149,
+        0.114,
+        0.074,
+        0.029,
+        0
+      ],
+      "debutScore": 0.142,
+      "peakScore": 0.286,
+      "duration": 4,
+      "score": 2.6559999999999993,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "playlists": [
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-07",
+        "title": "July 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 7
+      },
+      "rank": 53
+    },
+    {
+      "title": "Twisted",
+      "instanceSlug": 2206,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1996-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:keith-sweat": 6,
+        "genre:urban": 54,
+        "decade:1990s": 463,
+        "year:1996": 38
+      },
+      "artists": [
+        {
+          "slug": "keith-sweat",
+          "title": "Keith Sweat",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.001,
+        0.097,
+        0.018,
+        0.013,
+        0.003,
+        0
+      ],
+      "debutScore": 0.001,
+      "peakScore": 0.097,
+      "duration": 2,
+      "score": 0.132,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-07",
+        "title": "July 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 7
+      },
+      "rank": 54
+    },
+    {
+      "title": "Strawberry Letter 23",
+      "instanceSlug": 2611,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:brothers-johnson": 2,
+        "genre:urban": 55,
+        "decade:1970s": 317,
+        "year:1977": 36
+      },
+      "artists": [
+        {
+          "slug": "brothers-johnson",
+          "title": "Brothers Johnson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 55
+    },
+    {
+      "title": "Iesha",
+      "instanceSlug": 2119,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1991-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:boyz-ii-men": 6,
+        "artist:another-bad-creation": 1,
+        "genre:urban": 56,
+        "decade:1990s": 836,
+        "year:1991": 113
+      },
+      "artists": [
+        {
+          "slug": "another-bad-creation",
+          "title": "Another Bad Creation",
+          "roleSlug": true
+        },
+        {
+          "slug": "boyz-ii-men",
+          "title": "Boyz II Men",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-02",
+        "title": "February 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 2
+      },
+      "rank": 56
+    },
+    {
+      "title": "Uptight (Everything's Alright)",
+      "instanceSlug": 2133,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1966,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 24,
+        "genre:urban": 57,
+        "decade:1960s": 19,
+        "year:1966": 1
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1966,
+        "title": 1966,
+        "decade": 1960,
+        "year": 1966
+      },
+      "rank": 57
+    },
+    {
+      "title": "Birthday Suit",
+      "instanceSlug": 2333,
+      "tags": [
+      ],
+      "genre": "urban",
+      "debut": "1989-05",
+      "playlists": [
+        {
+          "slug": 18
+        },
+        {
+          "slug": 10
+        },
+        {
+          "slug": 7
+        },
+        {
+          "slug": 4.9
+        },
+        {
+          "slug": 4
+        },
+        {
+          "slug": 4.1
+        },
+        {
+          "slug": 4.5
+        }
+      ],
+      "ranks": {
+        "artist:johnny-kemp": 2,
+        "genre:urban": 115,
+        "playlist:4": 1,
+        "playlist:7": 1,
+        "playlist:10": 1,
+        "playlist:18": 1,
+        "playlist:4.9": 1,
+        "playlist:4.1": 1,
+        "playlist:4.5": 1,
+        "source:4": 1,
+        "source:7": 1,
+        "source:10": 1,
+        "source:18": 1,
+        "source:4.9": 1,
+        "source:4.1": 1,
+        "source:4.5": 1,
+        "decade:1980s": 1090,
+        "year:1989": 112
+      },
+      "artists": [
+        {
+          "slug": "johnny-kemp",
+          "title": "Johnny Kemp",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1989-05",
+        "title": "May 1989",
+        "decade": 1980,
+        "year": 1989,
+        "month": 5
+      },
+      "rank": 58
+    },
+    {
+      "title": "Signed, Sealed, Delivered, I'm Yours",
+      "instanceSlug": 2136,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1970,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 18,
+        "genre:urban": 59,
+        "decade:1970s": 176,
+        "year:1970": 14
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1970,
+        "title": 1970,
+        "decade": 1970,
+        "year": 1970
+      },
+      "rank": 59
+    },
+    {
+      "title": "Give It To Me Baby",
+      "instanceSlug": 2362,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1981-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rick-james": 3,
+        "genre:urban": 60,
+        "decade:1980s": 1110,
+        "year:1981": 64
+      },
+      "artists": [
+        {
+          "slug": "rick-james",
+          "title": "Rick James",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-08",
+        "title": "August 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 8
+      },
+      "rank": 60
+    },
+    {
+      "title": "Got to Get You Into My Life",
+      "instanceSlug": 2472,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "remake"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1978-08",
+      "source": {
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "instanceSlug": "sgt-pepper-s-lonely-hearts-club-band",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:earth-wind-fire": 9,
+        "genre:urban": 61,
+        "decade:1970s": 282,
+        "year:1978": 58
+      },
+      "artists": [
+        {
+          "slug": "earth-wind-fire",
+          "title": "Earth Wind & Fire",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debutEra": {
+        "slug": "1978-08",
+        "title": "August 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 8
+      },
+      "rank": 61
+    },
+    {
+      "title": "Boogie Wonderland",
+      "instanceSlug": 2473,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1979-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:earth-wind-fire": 10,
+        "artist:emotions": 1,
+        "genre:urban": 62,
+        "decade:1970s": 283,
+        "year:1979": 53
+      },
+      "artists": [
+        {
+          "slug": "earth-wind-fire",
+          "title": "Earth Wind & Fire",
+          "roleSlug": true
+        },
+        {
+          "slug": "emotions",
+          "title": "Emotions",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1979-06",
+        "title": "June 1979",
+        "decade": 1970,
+        "year": 1979,
+        "month": 6
+      },
+      "rank": 62
+    },
+    {
+      "title": "Freak Like Me",
+      "instanceSlug": 2491,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:adina-howard": 1,
+        "genre:urban": 63,
+        "decade:1990s": 533,
+        "year:1995": 49
+      },
+      "artists": [
+        {
+          "slug": "adina-howard",
+          "title": "Adina Howard",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-03",
+        "title": "March 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 3
+      },
+      "rank": 63
+    },
+    {
+      "title": "Love You Down",
+      "instanceSlug": 2509,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1998-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:inoj": 1,
+        "genre:urban": 64,
+        "decade:1990s": 538,
+        "year:1998": 9
+      },
+      "artists": [
+        {
+          "slug": "inoj",
+          "title": "Inoj",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1998-02",
+        "title": "February 1998",
+        "decade": 1990,
+        "year": 1998,
+        "month": 2
+      },
+      "rank": 64
+    },
+    {
+      "title": "Time After Time",
+      "instanceSlug": 2510,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1998-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:inoj": 2,
+        "genre:urban": 65,
+        "decade:1990s": 540,
+        "year:1998": 10
+      },
+      "artists": [
+        {
+          "slug": "inoj",
+          "title": "Inoj",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1998-09",
+        "title": "September 1998",
+        "decade": 1990,
+        "year": 1998,
+        "month": 9
+      },
+      "rank": 65
+    },
+    {
+      "title": "We Can Work It Out",
+      "instanceSlug": 2137,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1971,
+      "playlists": [
+        {
+          "slug": "remake",
+          "title": "Remakes"
+        }
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 19,
+        "genre:urban": 66,
+        "playlist:remake": 41,
+        "source:remake": 41,
+        "decade:1970s": 177,
+        "year:1971": 6
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1971,
+        "title": 1971,
+        "decade": 1970,
+        "year": 1971
+      },
+      "rank": 66
+    },
+    {
+      "title": "I Ain't Gonna Stand for It",
+      "instanceSlug": 1803,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1981-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 25,
+        "genre:urban": 67,
+        "decade:1980s": 1348,
+        "year:1981": 97
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-02",
+        "title": "February 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 2
+      },
+      "rank": 67
+    },
+    {
+      "title": "Mystery Lady",
+      "instanceSlug": 2625,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1985-08",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:billy-ocean": 7,
+        "genre:urban": 68,
+        "decade:1980s": 1268,
+        "year:1985": 93
+      },
+      "artists": [
+        {
+          "slug": "billy-ocean",
+          "title": "Billy Ocean",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-08",
+        "title": "August 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 8
+      },
+      "rank": 68
+    },
+    {
+      "title": "Skin Tight",
+      "instanceSlug": 2630,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ohio-players": 2,
+        "genre:urban": 69,
+        "decade:1970s": 320,
+        "year:1974": 23
+      },
+      "artists": [
+        {
+          "slug": "ohio-players",
+          "title": "Ohio Players",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 69
+    },
+    {
+      "title": "Bring It All to Me",
+      "instanceSlug": 1437,
+      "tags": [
+        "all",
+        "bring",
+        "it",
+        "me"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1999-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:blaque": 1,
+        "artist:nsync": 3,
+        "genre:urban": 70,
+        "decade:1990s": 737,
+        "year:1999": 35
+      },
+      "artists": [
+        {
+          "slug": "blaque",
+          "title": "Blaque",
+          "roleSlug": true
+        },
+        {
+          "slug": "nsync",
+          "title": "*NSYNC",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1999-12",
+        "title": "December 1999",
+        "decade": 1990,
+        "year": 1999,
+        "month": 12
+      },
+      "rank": 70
+    },
+    {
+      "title": "You Are the Sunshine of My Life",
+      "instanceSlug": 2138,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 20,
+        "artist:jim-gilstrap": 1,
+        "artist:gloria-barley": 1,
+        "genre:urban": 71,
+        "decade:1970s": 178,
+        "year:1973": 5
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        },
+        {
+          "slug": "jim-gilstrap",
+          "title": "Jim Gilstrap",
+          "roleSlug": "backup"
+        },
+        {
+          "slug": "gloria-barley",
+          "title": "Gloria Barley",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 71
+    },
+    {
+      "title": "Higher Ground",
+      "instanceSlug": 2139,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 21,
+        "genre:urban": 72,
+        "decade:1970s": 179,
+        "year:1973": 6
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 72
+    },
+    {
+      "title": "Breakin'… There's No Stopping Us",
+      "instanceSlug": 2635,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1984-07",
+      "source": {
+        "title": "Breakin'",
+        "instanceSlug": "breakin",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ollie-jerry": 1,
+        "genre:urban": 73,
+        "decade:1980s": 1275,
+        "year:1984": 89
+      },
+      "artists": [
+        {
+          "slug": "ollie-jerry",
+          "title": "Ollie & Jerry",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debutEra": {
+        "slug": "1984-07",
+        "title": "July 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 7
+      },
+      "rank": 73
+    },
+    {
+      "title": "Let Me Hold You",
+      "instanceSlug": 2636,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 2005,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bow-wow": 1,
+        "artist:omarion": 1,
+        "genre:urban": 74,
+        "decade:2000s": 61,
+        "year:2005": 2
+      },
+      "artists": [
+        {
+          "slug": "bow-wow",
+          "title": "Bow Wow",
+          "roleSlug": true
+        },
+        {
+          "slug": "omarion",
+          "title": "Omarion",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2005,
+        "title": 2005,
+        "decade": 2000,
+        "year": 2005
+      },
+      "rank": 74
+    },
+    {
+      "title": "How Long (Betcha Got a Chick on the Side)",
+      "instanceSlug": 2642,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "cheating",
+        "feb13"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1975,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:pointer-sisters": 12,
+        "genre:urban": 75,
+        "decade:1970s": 325,
+        "year:1975": 30
+      },
+      "artists": [
+        {
+          "slug": "pointer-sisters",
+          "title": "Pointer Sisters",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 75
+    },
+    {
+      "title": "Living For the City",
+      "instanceSlug": 2140,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 26,
+        "genre:urban": 76,
+        "decade:1970s": 180,
+        "year:1974": 8
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 76
+    },
+    {
+      "title": "One of a Kind (Love Affair)",
+      "instanceSlug": 2662,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1973,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:spinners": 6,
+        "genre:urban": 77,
+        "decade:1970s": 329,
+        "year:1973": 19
+      },
+      "artists": [
+        {
+          "slug": "spinners",
+          "title": "Spinners",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1973,
+        "title": 1973,
+        "decade": 1970,
+        "year": 1973
+      },
+      "rank": 77
+    },
+    {
+      "title": "Then Came You",
+      "instanceSlug": 2663,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:dionne-warwick": 4,
+        "artist:spinners": 7,
+        "genre:urban": 78,
+        "decade:1970s": 330,
+        "year:1974": 25
+      },
+      "artists": [
+        {
+          "slug": "dionne-warwick",
+          "title": "Dionne Warwick",
+          "roleSlug": true
+        },
+        {
+          "slug": "spinners",
+          "title": "Spinners",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 78
+    },
+    {
+      "title": "The Rubberband Man",
+      "instanceSlug": 2664,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:spinners": 8,
+        "genre:urban": 79,
+        "decade:1970s": 331,
+        "year:1976": 34
+      },
+      "artists": [
+        {
+          "slug": "spinners",
+          "title": "Spinners",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1976,
+        "title": 1976,
+        "decade": 1970,
+        "year": 1976
+      },
+      "rank": 79
+    },
+    {
+      "title": "Don't You Worry 'Bout a Thing",
+      "instanceSlug": 2141,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 29,
+        "genre:urban": 80,
+        "decade:1970s": 181,
+        "year:1974": 9
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 80
+    },
+    {
+      "title": "Cool",
+      "instanceSlug": 2765,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:the-time": 3,
+        "genre:urban": 81,
+        "decade:1980s": 1363
+      },
+      "artists": [
+        {
+          "slug": "the-time"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980s",
+        "title": "1980s",
+        "decade": 1980
+      },
+      "rank": 81
+    },
+    {
+      "title": "Mr. Telephone Man",
+      "instanceSlug": 2781,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1985-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:new-edition": 4,
+        "genre:urban": 82,
+        "decade:1980s": 1371,
+        "year:1985": 99
+      },
+      "artists": [
+        {
+          "slug": "new-edition",
+          "title": "New Edition",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-02",
+        "title": "February 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 2
+      },
+      "rank": 82
+    },
+    {
+      "title": "Hit Me Off",
+      "instanceSlug": 2784,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1996-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:new-edition": 7,
+        "genre:urban": 83,
+        "decade:1990s": 587,
+        "year:1996": 62
+      },
+      "artists": [
+        {
+          "slug": "new-edition",
+          "title": "New Edition",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1996-09",
+        "title": "September 1996",
+        "decade": 1990,
+        "year": 1996,
+        "month": 9
+      },
+      "rank": 83
+    },
+    {
+      "title": "(Every Time I Turn Around) Back in Love Again",
+      "instanceSlug": 2808,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ltd": 1,
+        "genre:urban": 84,
+        "decade:1970s": 371,
+        "year:1977": 45
+      },
+      "artists": [
+        {
+          "slug": "ltd",
+          "title": "LTD",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 84
+    },
+    {
+      "title": "Stone Cold Gentleman",
+      "instanceSlug": 2822,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1991-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:bobby-brown": 11,
+        "artist:ralph-tresvant": 2,
+        "genre:urban": 85,
+        "decade:1990s": 590,
+        "year:1991": 98
+      },
+      "artists": [
+        {
+          "slug": "ralph-tresvant",
+          "title": "Ralph Tresvant",
+          "roleSlug": true
+        },
+        {
+          "slug": "bobby-brown",
+          "title": "Bobby Brown",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1991-04",
+        "title": "April 1991",
+        "decade": 1990,
+        "year": 1991,
+        "month": 4
+      },
+      "rank": 85
+    },
+    {
+      "title": "Come and Get Your Love",
+      "instanceSlug": 2848,
+      "tags": [
+        "remade",
+        "your-love"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:redbone": 1,
+        "genre:urban": 86,
+        "decade:1970s": 375,
+        "year:1974": 30
+      },
+      "artists": [
+        {
+          "slug": "redbone",
+          "title": "Redbone",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 86
+    },
+    {
+      "title": "Digital Display",
+      "instanceSlug": 2850,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1986-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ready-for-the-world": 2,
+        "genre:urban": 87,
+        "decade:1980s": 1408,
+        "year:1986": 144
+      },
+      "artists": [
+        {
+          "slug": "ready-for-the-world",
+          "title": "Ready for the World",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-02",
+        "title": "February 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 2
+      },
+      "rank": 87
+    },
+    {
+      "title": "The Witch Queen of New Orleans",
+      "instanceSlug": 2852,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1972,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:redbone": 2,
+        "genre:urban": 88,
+        "decade:1970s": 376,
+        "year:1972": 21
+      },
+      "artists": [
+        {
+          "slug": "redbone",
+          "title": "Redbone",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1972,
+        "title": 1972,
+        "decade": 1970,
+        "year": 1972
+      },
+      "rank": 88
+    },
+    {
+      "title": "Boogie On Reggae Woman",
+      "instanceSlug": 2142,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1975,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 16,
+        "genre:urban": 89,
+        "decade:1970s": 182,
+        "year:1975": 10
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 89
+    },
+    {
+      "title": "Baby I Need Your Loving",
+      "instanceSlug": 2898,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1964,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:four-tops": 1,
+        "genre:urban": 90,
+        "decade:1960s": 45,
+        "year:1964": 5
+      },
+      "artists": [
+        {
+          "slug": "four-tops",
+          "title": "Four Tops",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1964,
+        "title": 1964,
+        "decade": 1960,
+        "year": 1964
+      },
+      "rank": 90
+    },
+    {
+      "title": "I Can't Help Myself",
+      "instanceSlug": 2899,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1965,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:four-tops": 2,
+        "genre:urban": 91,
+        "decade:1960s": 46,
+        "year:1965": 5
+      },
+      "artists": [
+        {
+          "slug": "four-tops",
+          "title": "Four Tops",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1965,
+        "title": 1965,
+        "decade": 1960,
+        "year": 1965
+      },
+      "rank": 91
+    },
+    {
+      "title": "Men in Black",
+      "instanceSlug": 2930,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1997-07",
+      "source": {
+        "title": "Men in Black",
+        "instanceSlug": "men-in-black",
+        "tags": [
+          "will-smith"
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+        {
+          "slug": "sample"
+        },
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:will-smith": 4,
+        "genre:urban": 92,
+        "playlist:summer": 188,
+        "playlist:sample": 7,
+        "source:summer": 188,
+        "source:sample": 7,
+        "decade:1990s": 615,
+        "year:1997": 39
+      },
+      "artists": [
+        {
+          "slug": "will-smith",
+          "title": "Will Smith",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debutEra": {
+        "slug": "1997-07",
+        "title": "July 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 7
+      },
+      "rank": 92
+    },
+    {
+      "title": "Switch",
+      "instanceSlug": 2934,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 2005,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:will-smith": 8,
+        "genre:urban": 93,
+        "decade:2000s": 84,
+        "year:2005": 15
+      },
+      "artists": [
+        {
+          "slug": "will-smith",
+          "title": "Will Smith",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 2005,
+        "title": 2005,
+        "decade": 2000,
+        "year": 2005
+      },
+      "rank": 93
+    },
+    {
+      "title": "Respect Yourself",
+      "instanceSlug": 2956,
+      "tags": [
+        "remade"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1971,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:staple-singers": 1,
+        "genre:urban": 94,
+        "decade:1970s": 405,
+        "year:1971": 18
+      },
+      "artists": [
+        {
+          "slug": "staple-singers",
+          "title": "Staple Singers",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1971,
+        "title": 1971,
+        "decade": 1970,
+        "year": 1971
+      },
+      "rank": 94
+    },
+    {
+      "title": "I'll Take You There",
+      "instanceSlug": 2957,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "remade"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1972,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:staple-singers": 2,
+        "genre:urban": 95,
+        "decade:1970s": 406,
+        "year:1972": 25
+      },
+      "artists": [
+        {
+          "slug": "staple-singers",
+          "title": "Staple Singers",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1972,
+        "title": 1972,
+        "decade": 1970,
+        "year": 1972
+      },
+      "rank": 95
+    },
+    {
+      "title": "War",
+      "instanceSlug": 2961,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1970,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:edwin-starr": 1,
+        "genre:urban": 96,
+        "decade:1970s": 409,
+        "year:1970": 19
+      },
+      "artists": [
+        {
+          "slug": "edwin-starr",
+          "title": "Edwin Starr",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1970,
+        "title": 1970,
+        "decade": 1970,
+        "year": 1970
+      },
+      "rank": 96
+    },
+    {
+      "title": "I Wish",
+      "instanceSlug": 2143,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 17,
+        "genre:urban": 97,
+        "decade:1970s": 183,
+        "year:1977": 53
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 97
+    },
+    {
+      "title": "Misled",
+      "instanceSlug": 1759,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1985-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 11,
+        "genre:urban": 98,
+        "decade:1980s": 934,
+        "year:1985": 109
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-01",
+        "title": "January 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 1
+      },
+      "rank": 98
+    },
+    {
+      "title": "Rub You the Right Way",
+      "instanceSlug": 1340,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1990-06",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:johnny-gill": 2,
+        "genre:urban": 99,
+        "playlist:summer": 197,
+        "source:summer": 197,
+        "decade:1990s": 781,
+        "year:1990": 86
+      },
+      "artists": [
+        {
+          "slug": "johnny-gill",
+          "title": "Johnny Gill",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1990-06",
+        "title": "June 1990",
+        "decade": 1990,
+        "year": 1990,
+        "month": 6
+      },
+      "rank": 99
+    },
+    {
+      "title": "And the Beat Goes On",
+      "instanceSlug": 2162,
+      "tags": [
+        "#1"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:whispers": 2,
+        "genre:urban": 100,
+        "decade:1980s": 955,
+        "year:1980": 89
+      },
+      "artists": [
+        {
+          "slug": "whispers",
+          "title": "Whispers",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-04",
+        "title": "April 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 4
+      },
+      "rank": 100
+    },
+    {
+      "title": "It's a Love Thing",
+      "instanceSlug": 2163,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1981-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:whispers": 3,
+        "genre:urban": 101,
+        "decade:1980s": 957,
+        "year:1981": 56
+      },
+      "artists": [
+        {
+          "slug": "whispers",
+          "title": "Whispers",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-04",
+        "title": "April 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 4
+      },
+      "rank": 101
+    },
+    {
+      "title": "Let's Stay Together",
+      "instanceSlug": 2193,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1984-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:tina-turner": 8,
+        "genre:urban": 102,
+        "decade:1980s": 987,
+        "year:1984": 92
+      },
+      "artists": [
+        {
+          "slug": "tina-turner",
+          "title": "Tina Turner",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-03",
+        "title": "March 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 3
+      },
+      "rank": 102
+    },
+    {
+      "title": "The Other Woman",
+      "instanceSlug": 1770,
+      "tags": [
+        "cheating"
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "pop",
+          "title": "Pop"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debut": 1982,
+      "playlists": [
+        {
+          "slug": "feb13",
+          "title": "Feb. 13: Breakups, Cheating & Lost Loves"
+        }
+      ],
+      "ranks": {
+        "artist:ray-parker-jr": 3,
+        "genre:pop": 1080,
+        "genre:urban": 103,
+        "playlist:feb13": 23,
+        "source:feb13": 23,
+        "decade:1980s": 982,
+        "year:1982": 131
+      },
+      "artists": [
+        {
+          "slug": "ray-parker-jr",
+          "title": "Ray Parker Jr.",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "source": null,
+      "debutEra": {
+        "slug": 1982,
+        "title": 1982,
+        "decade": 1980,
+        "year": 1982
+      },
+      "rank": 103
+    },
+    {
+      "title": "I Want You Back",
+      "instanceSlug": 1238,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "genre": "urban",
+      "debut": 1970,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michael-jackson": 50,
+        "artist:jacksons": 13,
+        "genre:urban": 104,
+        "decade:1970s": 215,
+        "year:1970": 12
+      },
+      "artists": [
+        {
+          "slug": "jacksons",
+          "title": "Jackson 5 / Jacksons",
+          "roleSlug": true
+        },
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": "lead"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1970,
+        "title": 1970,
+        "decade": 1970,
+        "year": 1970
+      },
+      "rank": 104
+    },
+    {
+      "title": "Michelle",
+      "instanceSlug": 1821,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:andrew-donnells": 1,
+        "genre:urban": 105,
+        "decade:1990s": 675,
+        "year:1995": 66
+      },
+      "artists": [
+        {
+          "slug": "andrew-donnells",
+          "title": "Andrew Donnells",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-01",
+        "title": "January 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 1
+      },
+      "rank": 105
+    },
+    {
+      "title": "Jamie",
+      "instanceSlug": 1769,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1985-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ray-parker-jr": 2,
+        "genre:urban": 106,
+        "decade:1980s": 978,
+        "year:1985": 118
+      },
+      "artists": [
+        {
+          "slug": "ray-parker-jr",
+          "title": "Ray Parker Jr.",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-01",
+        "title": "January 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 1
+      },
+      "rank": 106
+    },
+    {
+      "title": "Someone to Love",
+      "instanceSlug": 1868,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-06",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:babyface": 9,
+        "artist:jon-b": 1,
+        "genre:urban": 107,
+        "decade:1990s": 706,
+        "year:1995": 72
+      },
+      "artists": [
+        {
+          "slug": "jon-b",
+          "title": "Jon B",
+          "roleSlug": true
+        },
+        {
+          "slug": "babyface",
+          "title": "Babyface",
+          "roleSlug": "feature"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-06",
+        "title": "June 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 6
+      },
+      "rank": 107
+    },
+    {
+      "title": "Car Wash",
+      "instanceSlug": 1974,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rose-royce": 1,
+        "genre:urban": 108,
+        "decade:1970s": 133,
+        "year:1977": 54
+      },
+      "artists": [
+        {
+          "slug": "rose-royce",
+          "title": "Rose Royce",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 108
+    },
+    {
+      "title": "Because I Got High",
+      "instanceSlug": 2086,
+      "tags": [
+        "marijuana",
+        "novelty"
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "2001-09",
+      "source": {
+        "title": "Jay and Silent Bob Strike Back",
+        "instanceSlug": "jay-and-silent-bob-strike-back",
+        "tags": [
+        ],
+        "parents": [
+        ],
+        "type": "movie"
+      },
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:afroman": 1,
+        "genre:urban": 109,
+        "decade:2000s": 79,
+        "year:2001": 5
+      },
+      "artists": [
+        {
+          "slug": "afroman",
+          "title": "Afroman",
+          "roleSlug": true
+        }
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debutEra": {
+        "slug": "2001-09",
+        "title": "September 2001",
+        "decade": 2000,
+        "year": 2001,
+        "month": 9
+      },
+      "rank": 109
+    },
+    {
+      "title": "Baby I'm Yours",
+      "instanceSlug": 714,
+      "tags": [
+      ],
+      "genres": [
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "r&b"
+        },
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "debut": "1993-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:shai": 2,
+        "genre:soul": 194,
+        "genre:r&b": 8,
+        "genre:urban": 110,
+        "decade:1990s": 768,
+        "year:1993": 88
+      },
+      "artists": [
+        {
+          "slug": "shai",
+          "title": "Shai",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "source": null,
+      "debutEra": {
+        "slug": "1993-07",
+        "title": "July 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 7
+      },
+      "rank": 110
+    },
+    {
+      "title": "Uhh Ahh",
+      "instanceSlug": 2296,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1992-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:boyz-ii-men": 7,
+        "genre:urban": 111,
+        "decade:1990s": 489,
+        "year:1992": 83
+      },
+      "artists": [
+        {
+          "slug": "boyz-ii-men",
+          "title": "Boyz II Men",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1992-02",
+        "title": "February 1992",
+        "decade": 1990,
+        "year": 1992,
+        "month": 2
+      },
+      "rank": 111
+    },
+    {
+      "title": "Water Runs Dry",
+      "instanceSlug": 2299,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1995-05",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:boyz-ii-men": 10,
+        "genre:urban": 112,
+        "playlist:summer": 171,
+        "source:summer": 171,
+        "decade:1990s": 492,
+        "year:1995": 83
+      },
+      "artists": [
+        {
+          "slug": "boyz-ii-men",
+          "title": "Boyz II Men",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1995-05",
+        "title": "May 1995",
+        "decade": 1990,
+        "year": 1995,
+        "month": 5
+      },
+      "rank": 112
+    },
+    {
+      "title": "She's Got that Vibe",
+      "instanceSlug": 1201,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1992,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:r-kelly": 2,
+        "genre:urban": 113,
+        "decade:1990s": 665,
+        "year:1992": 109
+      },
+      "artists": [
+        {
+          "slug": "r-kelly",
+          "title": "R. Kelly",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1992,
+        "title": 1992,
+        "decade": 1990,
+        "year": 1992
+      },
+      "rank": 113
+    },
+    {
+      "title": "All Cried Out",
+      "instanceSlug": 2109,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": "1997-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:112": 1,
+        "artist:allure": 1,
+        "genre:urban": 114,
+        "decade:1990s": 834,
+        "year:1997": 25
+      },
+      "artists": [
+        {
+          "slug": "112"
+        },
+        {
+          "slug": "allure",
+          "title": "Allure",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1997-09",
+        "title": "September 1997",
+        "decade": 1990,
+        "year": 1997,
+        "month": 9
+      },
+      "rank": 114
+    },
+    {
+      "title": "My Cherie Amour",
+      "instanceSlug": 2134,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "urban",
+      "debut": 1969,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:stevie-wonder": 23,
+        "genre:urban": 58,
+        "decade:1960s": 20,
+        "year:1969": 3
+      },
+      "artists": [
+        {
+          "slug": "stevie-wonder",
+          "title": "Stevie Wonder",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1969,
+        "title": 1969,
+        "decade": 1960,
+        "year": 1969
+      },
+      "rank": 115
+    }
+  ],
+  "score": 395.40600000000006,
+  "songCount": 115,
+  "songAdjustedAverage": 36.87179962070696,
+  "artistCount": 72,
+  "artistAdjustedAverage": 46.59904398697468
+}

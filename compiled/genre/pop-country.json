@@ -1,1 +1,17 @@
-{"instanceSlug":"pop-country","title":"Pop-Country","parents":["pop"],"artists":["juice-newton"],"songs":[],"score":0,"songAdjustedAverage":null,"artistAdjustedAverage":0}
+{
+  "instanceSlug": "pop-country",
+  "title": "Pop-Country",
+  "parents": [
+    "pop"
+  ],
+  "artists": [
+    "juice-newton"
+  ],
+  "songs": [
+  ],
+  "score": 0,
+  "songCount": 0,
+  "songAdjustedAverage": null,
+  "artistCount": 1,
+  "artistAdjustedAverage": 0
+}

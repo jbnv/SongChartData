@@ -1,1 +1,1377 @@
-{"instanceSlug":"funk","title":"Funk","parents":["urban"],"artists":["timex-social-club","tony-terry","tony-toni-tone"],"songs":[{"title":"Centipede","instanceSlug":2359,"tags":[],"parents":[],"genres":[{"slug":"urban","title":"Urban / R&B"},{"slug":"soul","title":"Soul"},{"slug":"r&b"},{"slug":"funk","title":"Funk"},{"slug":"dance","title":"Dance"}],"debut":"1984-12","playlists":[],"ranks":[12,2.2,1,1.09,1.19,1.4,1.78,2.42,3.51,5.41,8.81,15.16,27.44,52.13,103.75,215.79],"artists":[{"slug":"rebbie-jackson","title":"Rebbie Jackson","roleSlug":true},{"slug":"michael-jackson","title":"Michael Jackson","roleSlug":"writer"}],"debutRank":12,"peakRank":1,"duration":4,"score":22.83,"source":null,"rank":1},{"title":"Rumors","instanceSlug":285,"tags":["#1","#1-r&b","songs-of-summer"],"parents":[],"genre":"funk","debut":"1986-07","playlists":[],"ranks":[12,3,1,1.08,1.29,1.54,2.14,3.39,6.02,11.88,25.74,60.78],"artists":[{"slug":"timex-social-club","title":"Timex Social Club","roleSlug":true}],"debutRank":12,"peakRank":1,"duration":3,"score":19.4,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":2},{"title":"Atomic Dog","instanceSlug":1065,"tags":["dog"],"parents":[],"genre":"funk","debut":"1983-04","playlists":[],"ranks":[16.3,10.3,7.3,5.8,4.7,4.3,4.64,5.2,5.83,7.23,9.85,14.61,23.43,40.39,74.52,146.46],"artists":[{"slug":"george-clinton","title":"George Clinton","roleSlug":true}],"debutRank":16.3,"peakRank":4.3,"duration":4,"score":12.23,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":3},{"title":"I Wanna Be Your Lover","instanceSlug":1729,"tags":[],"parents":[],"genre":"funk","debut":"1980-01","playlists":[],"ranks":[16,10,5.1,3.5,3.7,4.2,4.9,5.72,7.62,11.43,19.06,34.94,69.87,151.39,353.23,883.08],"artists":[{"slug":"prince","title":"Prince","roleSlug":true}],"debutRank":16,"peakRank":3.5,"duration":4,"score":11.55,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":4},{"title":"Firecracker","instanceSlug":3008,"tags":[],"parents":[],"genre":"funk","debut":"1980s","playlists":[],"ranks":[15,2.5,2.78,3.09,3.78,5.06,7.32,11.42,19.09,34.06,64.58,129.68],"artists":[{"slug":"mass-production","title":"Mass Production","roleSlug":true}],"debutRank":15,"peakRank":2.5,"duration":3,"score":10.9,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":5},{"title":"Victory","instanceSlug":766,"tags":[],"parents":[],"genre":"funk","debut":"1986-12","playlists":[],"ranks":[15.6,8.6,5.5,4.9,4.8,5.4,6.08,7.59,10.44,15.66,25.45,44.54,83.51,167.02,354.92,798.57],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"debutRank":15.6,"peakRank":4.8,"duration":4,"score":9.62,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":6},{"title":"She's A Bad Mama Jama","instanceSlug":911,"tags":[],"parents":[],"genre":"funk","debut":"1981-10","playlists":[],"ranks":[17.9,10.4,6.1,6,8.3,11.48,20.28,43.61,110.48,322.24,1063.39,3916.81],"artists":[{"slug":"carl-carlton","title":"Carl Carlton","roleSlug":true}],"debutRank":17.9,"peakRank":6,"duration":3,"score":4.62,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":7},{"title":"Word Up","instanceSlug":639,"tags":[],"parents":[],"genre":"funk","debut":"1986-10","playlists":[{"slug":"pph"}],"ranks":[14.5,8.6,6.5,8.7,11.64,19.53,39.35,92.63],"artists":[{"slug":"cameo","title":"Cameo","roleSlug":true}],"debutRank":14.5,"peakRank":6.5,"duration":2,"score":3.71,"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":8},{"title":"Double Dutch Bus","instanceSlug":2928,"tags":["#1","#1-r&b","pph"],"parents":[],"genre":"funk","debut":"1981-07","playlists":[],"ranks":[],"artists":[{"slug":"frankie-smith","title":"Frankie Smith","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":9},{"title":"Jungle Boogie","instanceSlug":2515,"tags":[],"parents":[],"genre":"funk","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":10},{"title":"Hollywood Swinging","instanceSlug":2516,"tags":["#1","#1-r&b"],"parents":[],"genre":"funk","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":11},{"title":"Get Down On It","instanceSlug":2517,"tags":[],"parents":[],"genre":"funk","debut":"1982-04","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":12},{"title":"Let's Go Dancing","instanceSlug":2518,"tags":[],"parents":[],"genre":"funk","debut":"1982-12","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":13},{"title":"Emergency","instanceSlug":1379,"tags":["emergency"],"parents":[],"genre":"funk","debut":"1985-12","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":14},{"title":"Got to Give It Up","instanceSlug":2539,"tags":[],"parents":[],"genre":"funk","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"marvin-gaye","title":"Marvin Gaye","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":15},{"title":"Stomp!","instanceSlug":2612,"tags":["#1","#1-r&b"],"parents":[],"genre":"funk","debut":"1980-04","playlists":[],"ranks":[],"artists":[{"slug":"brothers-johnson","title":"Brothers Johnson","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":16},{"title":"Getaway","instanceSlug":2470,"tags":["#1","#1-r&b"],"parents":[],"genre":"funk","debut":1976,"playlists":[],"ranks":[],"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":17},{"title":"Rock the Boat","instanceSlug":2493,"tags":["#1","#1-hot-100"],"parents":[],"genre":"funk","debut":1974,"playlists":[],"ranks":[],"artists":[{"slug":"hues-corporation","title":"Hues Corporation","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":18},{"title":"Fun","instanceSlug":2979,"tags":[],"parents":[],"genre":"funk","debut":1977,"playlists":[],"ranks":[],"artists":[{"slug":"confunktion","title":"Confunktion","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":19},{"title":"Super Freak","instanceSlug":2363,"tags":[],"parents":[],"genre":"funk","debut":"1981-09","playlists":[],"ranks":[],"artists":[{"slug":"rick-james","title":"Rick James","roleSlug":true},{"slug":"temptations","title":"Temptations","roleSlug":"backup"}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":20},{"title":"Cutie Pie","instanceSlug":3058,"tags":[],"parents":[],"genre":"funk","debut":"1980s","playlists":[],"ranks":[],"artists":[{"slug":"one-way","title":"One Way","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":21},{"title":"Fire","instanceSlug":480,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"funk","debut":1975,"playlists":[],"ranks":[],"artists":[{"slug":"ohio-players","title":"Ohio Players","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":22},{"title":"Serpentine Fire","instanceSlug":2471,"tags":["#1","#1-r&b"],"parents":[],"genre":"funk","debut":"1977-12","playlists":[],"ranks":[],"artists":[{"slug":"earth-wind-fire","title":"Earth Wind & Fire","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":23},{"title":"Big Fun","instanceSlug":668,"tags":[],"parents":[],"genre":"funk","debut":"1982-09","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":24},{"title":"Flashlight","instanceSlug":1630,"tags":["flash","light"],"parents":[],"genre":"funk","debut":"1978-03","playlists":[],"ranks":[],"artists":[{"slug":"parliament","title":"Parliament/Funkadelic","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":25},{"title":"Da Butt","instanceSlug":786,"tags":[],"parents":[],"genre":"funk","debut":"1988-05","playlists":[],"ranks":[],"artists":[{"slug":"eu","title":"EU","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":26},{"title":"Tonight","instanceSlug":2519,"tags":[],"parents":[],"genre":"funk","debut":"1984-04","playlists":[],"ranks":[],"artists":[{"slug":"koolnthegang","title":"Kool & the Gang","roleSlug":true}],"genres":[{"slug":"funk","title":"Funk"}],"source":null,"rank":27}],"score":94.86,"songAdjustedAverage":18.26,"artistAdjustedAverage":54.77}
+{
+  "instanceSlug": "funk",
+  "title": "Funk",
+  "parents": [
+    "urban"
+  ],
+  "artists": [
+    "timex-social-club",
+    "tony-terry",
+    "tony-toni-tone"
+  ],
+  "songs": [
+    {
+      "title": "Centipede",
+      "instanceSlug": 2359,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genres": [
+        {
+          "slug": "urban",
+          "title": "Urban / R&B"
+        },
+        {
+          "slug": "soul",
+          "title": "Soul"
+        },
+        {
+          "slug": "r&b"
+        },
+        {
+          "slug": "funk",
+          "title": "Funk"
+        },
+        {
+          "slug": "dance",
+          "title": "Dance"
+        }
+      ],
+      "debut": "1984-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:michael-jackson": 4,
+        "artist:rebbie-jackson": 1,
+        "genre:soul": 3,
+        "genre:dance": 4,
+        "genre:r&b": 1,
+        "genre:urban": 2,
+        "genre:funk": 1,
+        "decade:1980s": 21,
+        "year:1984": 3
+      },
+      "artists": [
+        {
+          "slug": "rebbie-jackson",
+          "title": "Rebbie Jackson",
+          "roleSlug": true
+        },
+        {
+          "slug": "michael-jackson",
+          "title": "Michael Jackson",
+          "roleSlug": "writer"
+        }
+      ],
+      "scores": [
+        0.171,
+        0.737,
+        1,
+        0.971,
+        0.966,
+        0.956,
+        0.941,
+        0.921,
+        0.896,
+        0.866,
+        0.831,
+        0.791,
+        0.746,
+        0.696,
+        0.641,
+        0.581,
+        0.516,
+        0.446,
+        0.371,
+        0.291,
+        0.206,
+        0.116,
+        0.021,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.678,
+      "source": null,
+      "debutEra": {
+        "slug": "1984-12",
+        "title": "December 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 12
+      },
+      "rank": 1
+    },
+    {
+      "title": "Rumors",
+      "instanceSlug": 285,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "genres": [
+        {
+          "slug": "dance",
+          "title": "Dance"
+        },
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "debut": "1986-07",
+      "playlists": [
+        {
+          "slug": "summer",
+          "title": "Songs of Summer"
+        }
+      ],
+      "ranks": {
+        "artist:timex-social-club": 1,
+        "genre:dance": 6,
+        "genre:funk": 2,
+        "playlist:summer": 11,
+        "source:summer": 11,
+        "decade:1980s": 25,
+        "year:1986": 2
+      },
+      "artists": [
+        {
+          "slug": "timex-social-club",
+          "title": "Timex Social Club",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.171,
+        0.633,
+        1,
+        0.974,
+        0.915,
+        0.91,
+        0.9,
+        0.885,
+        0.865,
+        0.84,
+        0.81,
+        0.775,
+        0.735,
+        0.69,
+        0.64,
+        0.585,
+        0.525,
+        0.46,
+        0.39,
+        0.315,
+        0.235,
+        0.15,
+        0.06,
+        0
+      ],
+      "debutScore": 0.171,
+      "peakScore": 1,
+      "duration": 6,
+      "score": 14.463000000000001,
+      "source": null,
+      "debutEra": {
+        "slug": "1986-07",
+        "title": "July 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 7
+      },
+      "rank": 2
+    },
+    {
+      "title": "Firecracker",
+      "instanceSlug": 3008,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:mass-production": 1,
+        "genre:funk": 3,
+        "decade:1980s": 334
+      },
+      "artists": [
+        {
+          "slug": "mass-production",
+          "title": "Mass Production",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.097,
+        0.694,
+        0.659,
+        0.654,
+        0.644,
+        0.629,
+        0.609,
+        0.584,
+        0.554,
+        0.519,
+        0.479,
+        0.434,
+        0.384,
+        0.329,
+        0.269,
+        0.204,
+        0.134,
+        0.059,
+        0
+      ],
+      "debutScore": 0.097,
+      "peakScore": 0.694,
+      "duration": 5,
+      "score": 7.935000000000001,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980s",
+        "title": "1980s",
+        "decade": 1980
+      },
+      "rank": 3
+    },
+    {
+      "title": "I Wanna Be Your Lover",
+      "instanceSlug": 1729,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1980-01",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:prince": 15,
+        "genre:funk": 4,
+        "decade:1980s": 420,
+        "year:1980": 34
+      },
+      "artists": [
+        {
+          "slug": "prince",
+          "title": "Prince",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.075,
+        0.232,
+        0.456,
+        0.582,
+        0.563,
+        0.521,
+        0.47,
+        0.465,
+        0.455,
+        0.44,
+        0.42,
+        0.395,
+        0.365,
+        0.33,
+        0.29,
+        0.245,
+        0.195,
+        0.14,
+        0.08,
+        0.015,
+        0
+      ],
+      "debutScore": 0.075,
+      "peakScore": 0.582,
+      "duration": 6,
+      "score": 6.734,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-01",
+        "title": "January 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 1
+      },
+      "rank": 4
+    },
+    {
+      "title": "Atomic Dog",
+      "instanceSlug": 1065,
+      "tags": [
+        "dog"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1983-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:george-clinton": 1,
+        "genre:funk": 5,
+        "decade:1980s": 433,
+        "year:1983": 56
+      },
+      "artists": [
+        {
+          "slug": "george-clinton",
+          "title": "George Clinton",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.069,
+        0.222,
+        0.337,
+        0.414,
+        0.484,
+        0.513,
+        0.488,
+        0.45,
+        0.445,
+        0.435,
+        0.42,
+        0.4,
+        0.375,
+        0.345,
+        0.31,
+        0.27,
+        0.225,
+        0.175,
+        0.12,
+        0.06,
+        0
+      ],
+      "debutScore": 0.069,
+      "peakScore": 0.513,
+      "duration": 6,
+      "score": 6.5569999999999995,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1983-04",
+        "title": "April 1983",
+        "decade": 1980,
+        "year": 1983,
+        "month": 4
+      },
+      "rank": 5
+    },
+    {
+      "title": "Victory",
+      "instanceSlug": 766,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1986-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 2,
+        "genre:funk": 6,
+        "decade:1980s": 494,
+        "year:1986": 50
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.084,
+        0.282,
+        0.431,
+        0.47,
+        0.477,
+        0.437,
+        0.432,
+        0.422,
+        0.407,
+        0.387,
+        0.362,
+        0.332,
+        0.297,
+        0.257,
+        0.212,
+        0.162,
+        0.107,
+        0.047,
+        0
+      ],
+      "debutScore": 0.084,
+      "peakScore": 0.477,
+      "duration": 5,
+      "score": 5.604999999999999,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-12",
+        "title": "December 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 12
+      },
+      "rank": 6
+    },
+    {
+      "title": "She's A Bad Mama Jama",
+      "instanceSlug": 911,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1981-10",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:carl-carlton": 1,
+        "genre:funk": 7,
+        "decade:1980s": 730,
+        "year:1981": 41
+      },
+      "artists": [
+        {
+          "slug": "carl-carlton",
+          "title": "Carl Carlton",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.038,
+        0.219,
+        0.397,
+        0.402,
+        0.294,
+        0.289,
+        0.279,
+        0.264,
+        0.244,
+        0.219,
+        0.189,
+        0.154,
+        0.114,
+        0.069,
+        0.019,
+        0
+      ],
+      "debutScore": 0.038,
+      "peakScore": 0.402,
+      "duration": 4,
+      "score": 3.19,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-10",
+        "title": "October 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 10
+      },
+      "rank": 7
+    },
+    {
+      "title": "Word Up",
+      "instanceSlug": 639,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1986-10",
+      "playlists": [
+        {
+          "slug": "pph"
+        }
+      ],
+      "ranks": {
+        "artist:cameo": 1,
+        "genre:funk": 8,
+        "playlist:pph": 1,
+        "source:pph": 1,
+        "decade:1980s": 773,
+        "year:1986": 97
+      },
+      "artists": [
+        {
+          "slug": "cameo",
+          "title": "Cameo",
+          "roleSlug": true
+        }
+      ],
+      "scores": [
+        0.108,
+        0.282,
+        0.376,
+        0.278,
+        0.273,
+        0.263,
+        0.248,
+        0.228,
+        0.203,
+        0.173,
+        0.138,
+        0.098,
+        0.053,
+        0.003,
+        0
+      ],
+      "debutScore": 0.108,
+      "peakScore": 0.376,
+      "duration": 4,
+      "score": 2.7239999999999998,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1986-10",
+        "title": "October 1986",
+        "decade": 1980,
+        "year": 1986,
+        "month": 10
+      },
+      "rank": 8
+    },
+    {
+      "title": "Double Dutch Bus",
+      "instanceSlug": 2928,
+      "tags": [
+        "#1",
+        "#1-r&b",
+        "pph"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1981-07",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:frankie-smith": 1,
+        "genre:funk": 9,
+        "decade:1980s": 1446,
+        "year:1981": 84
+      },
+      "artists": [
+        {
+          "slug": "frankie-smith",
+          "title": "Frankie Smith",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-07",
+        "title": "July 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 7
+      },
+      "rank": 9
+    },
+    {
+      "title": "Jungle Boogie",
+      "instanceSlug": 2515,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 14,
+        "genre:funk": 10,
+        "decade:1970s": 290,
+        "year:1974": 19
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 10
+    },
+    {
+      "title": "Hollywood Swinging",
+      "instanceSlug": 2516,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 15,
+        "genre:funk": 11,
+        "decade:1970s": 291,
+        "year:1974": 38
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 11
+    },
+    {
+      "title": "Get Down On It",
+      "instanceSlug": 2517,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1982-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 7,
+        "genre:funk": 12,
+        "decade:1980s": 1206,
+        "year:1982": 106
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-04",
+        "title": "April 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 4
+      },
+      "rank": 12
+    },
+    {
+      "title": "Let's Go Dancing",
+      "instanceSlug": 2518,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1982-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 8,
+        "genre:funk": 13,
+        "decade:1980s": 1207,
+        "year:1982": 107
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-12",
+        "title": "December 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 12
+      },
+      "rank": 13
+    },
+    {
+      "title": "Tonight",
+      "instanceSlug": 2519,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1984-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 17,
+        "genre:funk": 27,
+        "decade:1980s": 1209,
+        "year:1984": 127
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1984-04",
+        "title": "April 1984",
+        "decade": 1980,
+        "year": 1984,
+        "month": 4
+      },
+      "rank": 14
+    },
+    {
+      "title": "Got to Give It Up",
+      "instanceSlug": 2539,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:marvin-gaye": 8,
+        "genre:funk": 15,
+        "decade:1970s": 294,
+        "year:1977": 30
+      },
+      "artists": [
+        {
+          "slug": "marvin-gaye",
+          "title": "Marvin Gaye",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 15
+    },
+    {
+      "title": "Stomp!",
+      "instanceSlug": 2612,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1980-04",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:brothers-johnson": 3,
+        "genre:funk": 16,
+        "decade:1980s": 1259,
+        "year:1980": 96
+      },
+      "artists": [
+        {
+          "slug": "brothers-johnson",
+          "title": "Brothers Johnson",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980-04",
+        "title": "April 1980",
+        "decade": 1980,
+        "year": 1980,
+        "month": 4
+      },
+      "rank": 16
+    },
+    {
+      "title": "Getaway",
+      "instanceSlug": 2470,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1976,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:earth-wind-fire": 7,
+        "genre:funk": 17,
+        "decade:1970s": 280,
+        "year:1976": 32
+      },
+      "artists": [
+        {
+          "slug": "earth-wind-fire",
+          "title": "Earth Wind & Fire",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1976,
+        "title": 1976,
+        "decade": 1970,
+        "year": 1976
+      },
+      "rank": 17
+    },
+    {
+      "title": "Rock the Boat",
+      "instanceSlug": 2493,
+      "tags": [
+        "#1",
+        "#1-hot-100"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1974,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:hues-corporation": 1,
+        "genre:funk": 18,
+        "decade:1970s": 288,
+        "year:1974": 18
+      },
+      "artists": [
+        {
+          "slug": "hues-corporation",
+          "title": "Hues Corporation",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1974,
+        "title": 1974,
+        "decade": 1970,
+        "year": 1974
+      },
+      "rank": 18
+    },
+    {
+      "title": "Fun",
+      "instanceSlug": 2979,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1977,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:confunktion": 1,
+        "genre:funk": 19,
+        "decade:1970s": 423,
+        "year:1977": 49
+      },
+      "artists": [
+        {
+          "slug": "confunktion",
+          "title": "Confunktion",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1977,
+        "title": 1977,
+        "decade": 1970,
+        "year": 1977
+      },
+      "rank": 19
+    },
+    {
+      "title": "Super Freak",
+      "instanceSlug": 2363,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1981-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:rick-james": 4,
+        "artist:temptations": 1,
+        "genre:funk": 20,
+        "decade:1980s": 1114,
+        "year:1981": 65
+      },
+      "artists": [
+        {
+          "slug": "rick-james",
+          "title": "Rick James",
+          "roleSlug": true
+        },
+        {
+          "slug": "temptations",
+          "title": "Temptations",
+          "roleSlug": "backup"
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1981-09",
+        "title": "September 1981",
+        "decade": 1980,
+        "year": 1981,
+        "month": 9
+      },
+      "rank": 20
+    },
+    {
+      "title": "Cutie Pie",
+      "instanceSlug": 3058,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1980s",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:one-way": 1,
+        "genre:funk": 21,
+        "decade:1980s": 950
+      },
+      "artists": [
+        {
+          "slug": "one-way",
+          "title": "One Way",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1980s",
+        "title": "1980s",
+        "decade": 1980
+      },
+      "rank": 21
+    },
+    {
+      "title": "Fire",
+      "instanceSlug": 480,
+      "tags": [
+        "#1",
+        "#1-hot-100",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": 1975,
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:ohio-players": 3,
+        "genre:funk": 22,
+        "decade:1970s": 442,
+        "year:1975": 40
+      },
+      "artists": [
+        {
+          "slug": "ohio-players",
+          "title": "Ohio Players",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": 1975,
+        "title": 1975,
+        "decade": 1970,
+        "year": 1975
+      },
+      "rank": 22
+    },
+    {
+      "title": "Serpentine Fire",
+      "instanceSlug": 2471,
+      "tags": [
+        "#1",
+        "#1-r&b"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1977-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:earth-wind-fire": 8,
+        "genre:funk": 23,
+        "decade:1970s": 281,
+        "year:1977": 27
+      },
+      "artists": [
+        {
+          "slug": "earth-wind-fire",
+          "title": "Earth Wind & Fire",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1977-12",
+        "title": "December 1977",
+        "decade": 1970,
+        "year": 1977,
+        "month": 12
+      },
+      "rank": 23
+    },
+    {
+      "title": "Big Fun",
+      "instanceSlug": 668,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1982-09",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 12,
+        "genre:funk": 24,
+        "decade:1980s": 1208,
+        "year:1982": 124
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1982-09",
+        "title": "September 1982",
+        "decade": 1980,
+        "year": 1982,
+        "month": 9
+      },
+      "rank": 24
+    },
+    {
+      "title": "Flashlight",
+      "instanceSlug": 1630,
+      "tags": [
+        "flash",
+        "light"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1978-03",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:parliament": 1,
+        "genre:funk": 25,
+        "decade:1970s": 322,
+        "year:1978": 37
+      },
+      "artists": [
+        {
+          "slug": "parliament",
+          "title": "Parliament/Funkadelic",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1978-03",
+        "title": "March 1978",
+        "decade": 1970,
+        "year": 1978,
+        "month": 3
+      },
+      "rank": 25
+    },
+    {
+      "title": "Da Butt",
+      "instanceSlug": 786,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1988-05",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:eu": 1,
+        "genre:funk": 26,
+        "decade:1980s": 1296,
+        "year:1988": 152
+      },
+      "artists": [
+        {
+          "slug": "eu",
+          "title": "EU",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1988-05",
+        "title": "May 1988",
+        "decade": 1980,
+        "year": 1988,
+        "month": 5
+      },
+      "rank": 26
+    },
+    {
+      "title": "Emergency",
+      "instanceSlug": 1379,
+      "tags": [
+        "emergency"
+      ],
+      "parents": [
+      ],
+      "genre": "funk",
+      "debut": "1985-12",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:koolnthegang": 13,
+        "genre:funk": 14,
+        "decade:1980s": 1030,
+        "year:1985": 114
+      },
+      "artists": [
+        {
+          "slug": "koolnthegang",
+          "title": "Kool & the Gang",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "funk",
+          "title": "Funk"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1985-12",
+        "title": "December 1985",
+        "decade": 1980,
+        "year": 1985,
+        "month": 12
+      },
+      "rank": 27
+    }
+  ],
+  "score": 61.885999999999996,
+  "songCount": 27,
+  "songAdjustedAverage": 11.90996625302306,
+  "artistCount": 3,
+  "artistAdjustedAverage": 35.72989875906918
+}

@@ -1,1 +1,59 @@
-{"instanceSlug":"dance-rap","title":"Dance-Rap","parents":["dance","rap"],"artists":["pm-dawn"],"songs":[{"title":"I Got a Man","instanceSlug":2653,"tags":[],"parents":[],"genre":"dance-rap","debut":"1993-02","playlists":[],"ranks":[],"artists":[{"slug":"positive-k","title":"Positive K","roleSlug":true}],"genres":[{"slug":"dance-rap","title":"Dance-Rap"}],"source":null,"rank":1}],"score":0,"songAdjustedAverage":0,"artistAdjustedAverage":0}
+{
+  "instanceSlug": "dance-rap",
+  "title": "Dance-Rap",
+  "parents": [
+    "dance",
+    "rap"
+  ],
+  "artists": [
+    "pm-dawn"
+  ],
+  "songs": [
+    {
+      "title": "I Got a Man",
+      "instanceSlug": 2653,
+      "tags": [
+      ],
+      "parents": [
+      ],
+      "genre": "dance-rap",
+      "debut": "1993-02",
+      "playlists": [
+      ],
+      "ranks": {
+        "artist:positive-k": 1,
+        "genre:dance-rap": 1,
+        "decade:1990s": 571,
+        "year:1993": 56
+      },
+      "artists": [
+        {
+          "slug": "positive-k",
+          "title": "Positive K",
+          "roleSlug": true
+        }
+      ],
+      "scores": null,
+      "genres": [
+        {
+          "slug": "dance-rap",
+          "title": "Dance-Rap"
+        }
+      ],
+      "source": null,
+      "debutEra": {
+        "slug": "1993-02",
+        "title": "February 1993",
+        "decade": 1990,
+        "year": 1993,
+        "month": 2
+      },
+      "rank": 1
+    }
+  ],
+  "score": 0,
+  "songCount": 1,
+  "songAdjustedAverage": 0,
+  "artistCount": 1,
+  "artistAdjustedAverage": 0
+}
