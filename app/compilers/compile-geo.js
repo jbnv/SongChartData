@@ -10,10 +10,6 @@ var chalk       = require("chalk"),
 
 //require("../polyfill");
 
-function round00(n) {
-  return Math.round(parseFloat(n)*100)/100;
-}
-
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-geo.js"));
@@ -24,7 +20,8 @@ module.exports = function(yargs,entities) {
   var locationScores = {};
   meta.getArtists().forEach(function(artist) {
     var slug = artist.origin;
-    if (!locationArtists[slug]) { locationArtists[slug] = []; locationScores[slug] = 0.0; }
+    if (!locationArtists[slug]) { locationArtists[slug] = []; }
+    if (!locationScores[slug]) { locationScores[slug] = 0.0; }
     locationArtists[slug].push(artist);
     if (artist.score) {
       try {
@@ -41,10 +38,10 @@ module.exports = function(yargs,entities) {
     titles[slug] = entity.title;
 
     entity.artists = locationArtists[slug] || [];
-    entity.score = round00(locationScores[slug]);
+    entity.score = locationScores[slug];
 
     if (entity.artists && entity.artists.length > 0) {
-      entity.artistAdjustedAverage = round00(entity.score / Math.sqrt(entity.artists.length));
+      entity.artistAdjustedAverage = scoring.adjustedAverage(entity.score,entity.artists.length);
     }
 
     numeral.zeroFormat("");
