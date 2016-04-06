@@ -44,7 +44,8 @@ exports.score = function(song,scoringOptions) {
 	// Scores are projected from the final two scores.
 
   var rawScores = song.scores;
-	if (!song.scores) return;
+  song.score = null;
+	if (!song.scores)  { song.scores = null; return; }
   if (!Array.isArray(song.scores)) { song.scores = null; return; }
   if (song.scores.length == 0)  { song.scores = null; return; }
 
