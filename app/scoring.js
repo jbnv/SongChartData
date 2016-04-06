@@ -173,7 +173,10 @@ exports.rankEntities = function(entityList,collection,prefix) {
     collection[listKey].forEach(function(item) {
       itemEntity = entityList.filter(function(e) { return e.instanceSlug === item.instanceSlug; })[0];
       if (itemEntity) {
-        itemEntity.ranks[prefix+":"+listKey] = item.rank;
+        itemEntity.ranks[prefix+":"+listKey] = {
+          "rank":item.rank,
+          "total":collection[listKey].length
+        };
       }
     });
   });
