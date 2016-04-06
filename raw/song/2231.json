@@ -12,7 +12,9 @@
   "ranks": [
   ],
   "artists": {
-    "wings": true
+    "wings": true,
+    "paul-mccartney":"lead",
+    "linda-mccartney":"member"
   },
   "scores": [
   ]

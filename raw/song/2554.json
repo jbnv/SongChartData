@@ -5,31 +5,23 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1987-05",
   "playlists": [
   ],
-  "ranks": [
-    16,
-    10.1,
-    7.5,
-    4.9,
-    4.2,
-    4.45,
-    5.1
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
-    0.075,
-    0.229,
+    0.08,
     0.328,
-    0.47,
     0.521,
-    0.502,
-    0.456
+    0.55,
+    0.56,
+    0.54,
+    0.49
   ]
 }

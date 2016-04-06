@@ -3,17 +3,19 @@
   "instanceSlug": 2648,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1982-02",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "police": true
+    "police": true,
+    "sting": "lead"
   },
   "scores": [
+    0.07,
+    0.21,
+    0.25,
+    0.24,
+    0.21
   ]
 }

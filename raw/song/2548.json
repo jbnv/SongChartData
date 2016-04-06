@@ -3,17 +3,24 @@
   "instanceSlug": 2548,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1981-11",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
+    0.08,
+    0.21,
+    0.25,
+    0.29,
+    0.31,
+    0.33,
+    0.31,
+    0.28
   ]
 }

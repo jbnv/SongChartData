@@ -3,15 +3,14 @@
   "instanceSlug": 2228,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": 1973,
   "source": "live-and-let-die",
-  "playlists": [
+  "playlists": ["james-bond"
   ],
-  "ranks": true,
   "artists": {
-    "wings": true
+    "wings": true,
+    "paul-mccartney":"lead",
+    "linda-mccartney":"member"
   }
 }

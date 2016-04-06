@@ -3,18 +3,21 @@
   "instanceSlug": 386,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1979-04",
   "playlists": [
     "women"
   ],
-  "ranks": [
-  ],
   "artists": {
-    "police": true
+    "police": true,
+    "sting": "lead"
   },
   "scores": [
+    0.05,
+    0.10,
+    0.15,
+    0.18,
+    0.21,
+    0.12
   ]
 }

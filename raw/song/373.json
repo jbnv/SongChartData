@@ -4,24 +4,16 @@
   "tags": [
     "#1",
     "#1-hot-100",
-    "#1-mainstream-rock",
-    "stalking"
+    "#1-mainstream-rock"
   ],
   "genre": "rock",
   "debut": "1983-06",
   "playlists": [
-    "feb13"
-  ],
-  "ranks": [
-    24,
-    18,
-    15.5,
-    13.8,
-    13,
-    14.7
+    "feb13","stalking"
   ],
   "artists": {
-    "police": true
+    "police": true,
+    "sting": "lead"
   },
   "scores": [
     0.036,

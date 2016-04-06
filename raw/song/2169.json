@@ -3,17 +3,19 @@
   "instanceSlug": 2169,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1993-11",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "phil-collins": true
   },
   "scores": [
+    0.05,
+    0.14,
+    0.21,
+    0.22,
+    0.21,
+    0.14
   ]
 }

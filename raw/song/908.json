@@ -5,23 +5,13 @@
     "#1",
     "#1-mainstream-rock"
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1981-10",
   "playlists": [
   ],
-  "ranks": [
-    21,
-    13,
-    10,
-    9,
-    8,
-    8.7,
-    9.9
-  ],
   "artists": {
-    "police": true
+    "police": true,
+    "sting": "lead"
   },
   "scores": [
     0.145,

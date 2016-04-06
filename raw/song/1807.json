@@ -9,11 +9,16 @@
   "debut": "1981-02",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "styx": true
+    "styx": true,
+    "dennis-deyoung":"lead"
   },
   "scores": [
+    0.19,
+    0.41,
+    0.47,
+    0.51,
+    0.47,
+    0.42
   ]
 }

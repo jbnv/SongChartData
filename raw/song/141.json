@@ -2,15 +2,15 @@
   "title": "Mama",
   "instanceSlug": 141,
   "tags": [
-    "1980s",
     "mother"
   ],
-  "parents": [
-  ],
-  "ranks": [
+  "genres": ["rock"
   ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
   ]

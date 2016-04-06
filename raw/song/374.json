@@ -11,17 +11,14 @@
   "debut": "1983-09",
   "playlists": [
   ],
-  "ranks": [
-    10,
-    1.2,
-    1.45
-  ],
   "artists": {
-    "police": true
+    "police": true,
+    "sting": "lead"
   },
   "scores": [
     0.232,
     0.939,
+    0.93,
     0.876
   ]
 }

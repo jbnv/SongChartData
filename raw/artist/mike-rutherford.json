@@ -1,9 +1,8 @@
 {
   "title": "Mike Rutherford",
   "instanceSlug": "mike-rutherford",
-  "tags": [
-    
-  ],
+  "type":"m",
+  "tags": [],
   "genres": ["rock"],
   "xref": ["genesis",  "mike-mechanics"],
   "complete": false,

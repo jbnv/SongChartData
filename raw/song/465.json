@@ -9,19 +9,16 @@
   "debut": "1980-07",
   "playlists": [
   ],
-  "ranks": [
-    13,
-    1.2,
-    1.25,
-    1.33,
-    1.49
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins":"lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
     0.145,
     0.939,
+    0.941,
     0.925,
     0.904,
     0.867

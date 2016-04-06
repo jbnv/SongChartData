@@ -5,17 +5,18 @@
     "#1",
     "#1-hot-100"
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1979-11",
-  "playlists": [
-  ],
-  "ranks": [
-  ],
+  "playlists": ["ballad"],
   "artists": {
-    "styx": true
+    "styx": true,
+    "dennis-deyoung":"lead"
   },
   "scores": [
+    0.24,
+    0.52,
+    0.58,
+    0.64,
+    0.61
   ]
 }

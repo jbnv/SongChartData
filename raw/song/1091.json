@@ -5,39 +5,28 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1992-05",
   "playlists": [
     "summer",
     "ballad"
   ],
-  "ranks": [
-    13,
-    5,
-    2.9,
-    2.2,
-    1.9,
-    2,
-    2.2,
-    2.4,
-    2.8,
-    3.4
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins":"lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
     0.145,
-    0.463,
     0.645,
     0.737,
     0.786,
     0.768,
+    0.755,
     0.737,
     0.708,
-    0.656,
-    0.592
+    0.676,
+    0.616
   ]
 }

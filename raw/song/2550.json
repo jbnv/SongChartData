@@ -3,16 +3,15 @@
   "instanceSlug": 2550,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1982-05",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
   ]

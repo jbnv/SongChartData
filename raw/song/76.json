@@ -4,18 +4,11 @@
   "tags": [
     "technophobia"
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1983-02",
-  "ranks": [
-    9.5,
-    1.2,
-    1.32,
-    1.48
-  ],
   "artists": {
-    "styx": true
+    "styx": true,
+    "dennis-deyoung":"lead"
   },
   "scores": [
     0.249,

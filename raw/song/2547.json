@@ -3,16 +3,15 @@
   "instanceSlug": 2547,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1978-06",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
   ]

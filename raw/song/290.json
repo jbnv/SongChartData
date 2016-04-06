@@ -13,26 +13,18 @@
   "playlists": [
     "feb13"
   ],
-  "ranks": [
-    13.9,
-    8.6,
-    4.9,
-    2.9,
-    2.5,
-    2.24,
-    2.57
-  ],
   "artists": {
     "genesis": true,
-    "phil-collins": "member"
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
-    0.122,
     0.282,
-    0.47,
     0.645,
-    0.694,
     0.731,
-    0.685
+    0.721,
+    0.710,
+    0.694
   ]
 }

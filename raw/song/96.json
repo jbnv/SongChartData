@@ -3,15 +3,17 @@
   "instanceSlug": 96,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1985-07",
-  "ranks": [
-  ],
   "artists": {
     "tears-for-fears": true
   },
   "scores": [
+    0.05,
+    0.14,
+    0.21,
+    0.22,
+    0.21,
+    0.14
   ]
 }

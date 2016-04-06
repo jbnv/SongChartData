@@ -6,16 +6,15 @@
     "#1-hot-100",
     "#1-mainstream-rock"
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1986-06",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "genesis": true
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
   },
   "scores": [
   ]
