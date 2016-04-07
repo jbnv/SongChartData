@@ -28,6 +28,12 @@ module.exports = function(app) {
     res.send(result);
   });
 
+  app.get("/artists/unscored", function(req, res) {
+    console.log("GET /artists/unscored");
+    var result = _artists().filter(function(artist) { return !artist.score; }).sort(transform.sortBySongCount);
+    res.send(result);
+  });
+
   app.get("/artist-types", function(req, res) {
     console.log("GET /artist-types");
 
