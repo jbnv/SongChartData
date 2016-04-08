@@ -1,1 +1,12 @@
-{"title":"Ricky Martin","instanceSlug":"ricky-martin","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Ricky Martin",
+  "instanceSlug": "ricky-martin",
+  "tags": ["spanish"],
+  "genres": ["latin","pop","dance"],
+  "xref": ["menudo"],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

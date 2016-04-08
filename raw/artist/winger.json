@@ -2,7 +2,6 @@
   "title": "Winger",
   "instanceSlug": "winger",
   "tags": [],
-  "parents": [],
   "genres": [
     "rock"
   ],
@@ -12,5 +11,5 @@
   "origin": "us",
   "birth": "",
   "death": "",
-  "type": "g"
+  "type": "mmm"
 }

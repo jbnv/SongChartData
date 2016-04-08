@@ -5,12 +5,12 @@
     "1980s"
   ],
   "parents": [],
-  "genres": [],
+  "genres": ["rock"],
   "members": [],
   "xref": [],
   "complete": false,
   "origin": "us",
   "birth": "",
   "death": "",
-  "type": "g"
+  "type": "fmm"
 }

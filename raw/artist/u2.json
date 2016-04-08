@@ -1,1 +1,19 @@
-{"title":"U2","instanceSlug":"u2","tags":["hof","1980s","1990s"],"genres":["rock"],"members":[],"xref":[],"complete":false,"origin":"dublin","birth":"","death":"","type":"mmm"}
+{
+  "title": "U2",
+  "instanceSlug": "u2",
+  "tags": [
+    "hof",
+    "1980s",
+    "1990s"
+  ],
+  "genres": [
+    "rock"
+  ],
+  "members": ["bono","adam-clayton"],
+  "xref": [],
+  "complete": false,
+  "origin": "dublin",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}
