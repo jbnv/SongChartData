@@ -3,23 +3,11 @@
   "instanceSlug": 1322,
   "tags": [
     "i'll-be",
-    "remake",
     "to-you"
-  ],
-  "parents": [
   ],
   "genre": "soul",
   "debut": "1989-12",
-  "playlists": [
-  ],
-  "ranks": [
-    10,
-    3,
-    1,
-    1.09,
-    1.21,
-    1.35
-  ],
+  "playlists": ["remake"],
   "artists": {
     "quincy-jones": true,
     "ray-charles": "feature",
@@ -27,10 +15,10 @@
   },
   "scores": [
     0.232,
-    0.633,
-    1,
+    0.8,
     0.971,
     0.936,
-    0.899
+    0.9,
+    0.85
   ]
 }

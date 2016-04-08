@@ -12,8 +12,19 @@
   "ranks": [
   ],
   "artists": {
-    "new-edition": true
+    "new-edition": true,
+    "ralph-tresvant":"member",
+    "ronnie-devoe":"member",
+    "bobby-brown":"member",
+    "ricky-bell":"member",
+    "michael-bivins":"member"
   },
   "scores": [
+    0.0775,
+    0.31,
+    0.44,
+    0.48,
+    0.50,
+    0.41
   ]
 }

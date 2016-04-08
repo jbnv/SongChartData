@@ -1,21 +1,20 @@
 {
   "title": "Groove Is In the Heart",
   "instanceSlug": 1152,
-  "tags": [
-    "groove",
-    "heart"
-  ],
-  "parents": [
-  ],
-  "genre": "pop",
+  "tags": [],
+  "genre": "dance-pop",
   "debut": 1991,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "deee-lite": true
   },
   "scores": [
+    0.2,
+    0.5,
+    0.7,
+    0.69,
+    0.68,
+    0.65
   ]
 }

@@ -9,20 +9,15 @@
   "source": "thriller",
   "genre": "pop",
   "debut": "1983-04",
-  "ranks": [
-    13.2,
-    4,
-    1.19,
-    1.38
-  ],
   "artists": {
     "michael-jackson": true,
-    "eddie-van-halen": "backup"
+    "eddie-van-halen": "backup",
+    "quincy-jones":"producer"
   },
   "scores": [
     0.139,
     0.537,
-    0.942,
-    0.892
+    0.94,
+    0.9
   ]
 }

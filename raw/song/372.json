@@ -12,23 +12,16 @@
   "playlists": [
     "women"
   ],
-  "ranks": [
-    19.5,
-    12.5,
-    9,
-    6.4,
-    5.5,
-    6.2
-  ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
-    0.009,
     0.158,
     0.267,
     0.381,
     0.431,
-    0.391
+    0.44,
+    0.42
   ]
 }

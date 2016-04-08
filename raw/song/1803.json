@@ -3,17 +3,18 @@
   "instanceSlug": 1803,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": "1981-02",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "stevie-wonder": true
   },
   "scores": [
+    0.14,
+    0.31,
+    0.51,
+    0.55,
+    0.54
   ]
 }

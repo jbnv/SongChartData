@@ -3,18 +3,20 @@
   "instanceSlug": 3021,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 2002,
   "playlists": [
     "summer"
   ],
-  "ranks": [
-  ],
   "artists": {
     "jason-mraz": true
   },
   "scores": [
+    0.18,
+    0.69,
+    0.98,
+    0.965,
+    0.945,
+    0.91
   ]
 }

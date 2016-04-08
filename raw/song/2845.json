@@ -6,29 +6,22 @@
     "#1-hot-100",
     "#1-modern-rock"
   ],
-  "parents": [
-  ],
   "genre": "alternative-pop",
   "debut": "1998-10",
   "playlists": [
-  ],
-  "ranks": [
-    14,
-    8.5,
-    5.2,
-    3.7,
-    3,
-    3.25
   ],
   "artists": {
     "barenaked-ladies": true
   },
   "scores": [
     0.12,
-    0.286,
     0.45,
-    0.563,
     0.633,
-    0.607
+    0.657,
+    0.672,
+    0.684,
+    0.689,
+    0.661,
+    0.638
   ]
 }

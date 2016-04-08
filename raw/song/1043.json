@@ -17,7 +17,9 @@
     21
   ],
   "artists": {
-    "eurythmics": true
+    "eurythmics": true,
+    "dave-stewart":"member",
+    "annie-lennox":"lead"
   },
   "scores": [
     0.018,

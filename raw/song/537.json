@@ -3,25 +3,20 @@
   "instanceSlug": 537,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "latin-dance-1",
   "debut": "1999-08",
-  "playlists": [
-  ],
-  "ranks": [
-    12,
-    1.7,
-    1.38,
-    1.555
+  "playlists": ["anthem"
   ],
   "artists": {
     "ricky-martin": true
   },
   "scores": [
-    0.171,
-    0.823,
+    0.3,
     0.892,
-    0.852
+    0.91,
+    0.92,
+    0.93,
+    0.907,
+    0.877
   ]
 }

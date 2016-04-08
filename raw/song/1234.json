@@ -11,28 +11,15 @@
   "debut": "1982-11",
   "playlists": [
   ],
-  "ranks": [
-    12.5,
-    4.5,
-    2.1,
-    2.15,
-    2.25,
-    2.36,
-    2.5,
-    3
-  ],
   "artists": {
     "michael-jackson": true,
-    "paul-mccartney": true
+    "paul-mccartney": true,
+    "quincy-jones":"producer"
   },
   "scores": [
     0.158,
-    0.498,
+    0.5,
     0.752,
-    0.744,
-    0.729,
-    0.713,
-    0.694,
-    0.633
+    0.744
   ]
 }

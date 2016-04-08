@@ -7,21 +7,19 @@
     "remake",
     "summer"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1993-08",
-  "ranks": [
-    4.5,
-    1,
-    1.12
-  ],
   "artists": {
     "dino": true
   },
   "scores": [
     0.498,
     1,
-    0.962
+    0.97,
+    0.94,
+    0.91,
+    0.88,
+    0.835,
+    0.77
   ]
 }

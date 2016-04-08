@@ -3,17 +3,23 @@
   "instanceSlug": 2782,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1985-05",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "new-edition": true
+    "new-edition": true,
+    "ralph-tresvant":"member",
+    "ronnie-devoe":"member",
+    "bobby-brown":"member",
+    "ricky-bell":"member",
+    "michael-bivins":"member"
   },
   "scores": [
+    0.079,
+    0.33,
+    0.425,
+    0.485,
+    0.46
   ]
 }

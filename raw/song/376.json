@@ -1,22 +1,21 @@
 {
   "title": "Sweet Dreams",
   "instanceSlug": 376,
-  "tags": [
-    "dream",
-    "sweet",
-    "sweet-dreams"
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "pop",
   "debut": "1983-07",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "eurythmics": true
+    "eurythmics": true,
+    "dave-stewart":"member",
+    "annie-lennox":"lead"
   },
   "scores": [
+    0.12,
+    0.21,
+    0.20,
+    0.19,
+    0.18
   ]
 }

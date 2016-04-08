@@ -3,17 +3,20 @@
   "instanceSlug": 1783,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1997-05",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "verve-pipe-the": true
+    "verve-pipe": true
   },
   "scores": [
+    0.04,
+    0.10,
+    0.14,
+    0.16,
+    0.15,
+    0.135,
+    0.11
   ]
 }

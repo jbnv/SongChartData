@@ -8,21 +8,17 @@
   "debut": "1983-08",
   "playlists": [
   ],
-  "ranks": [
-    13.5,
-    7.6,
-    4.2,
-    2.5,
-    3
-  ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
     0.132,
     0.323,
     0.521,
     0.694,
-    0.633
+    0.715,
+    0.73,
+    0.7
   ]
 }

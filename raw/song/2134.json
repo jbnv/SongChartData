@@ -3,17 +3,19 @@
   "instanceSlug": 2134,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": 1969,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "stevie-wonder": true
   },
   "scores": [
+    0.10,
+    0.25,
+    0.36,
+    0.40,
+    0.41,
+    0.38
   ]
 }

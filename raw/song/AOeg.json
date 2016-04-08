@@ -1,0 +1,22 @@
+{
+  "title": "Here Comes the Rain Again",
+  "instanceSlug": "AOeg",
+  "tags": [],
+  "parents": [],
+  "debut": 1984,
+  "playlists": [],
+  "scores": [],
+  "artists": {
+    "eurythmics": true,
+    "dave-stewart":"member",
+    "annie-lennox":"lead"
+  },
+  "scores": [
+    0.15,
+    0.325,
+    0.51,
+    0.66,
+    0.64,
+    0.61
+  ]
+}

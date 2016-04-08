@@ -3,18 +3,17 @@
   "instanceSlug": 1367,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1989-10",
   "playlists": [
     "remake"
   ],
-  "ranks": [
-  ],
   "artists": {
-    "new-kids-on-the-block": true
+    "nkotb": true
   },
   "scores": [
+    0.04,
+    0.08,
+    0.075
   ]
 }

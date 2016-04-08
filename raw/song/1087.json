@@ -3,17 +3,17 @@
   "instanceSlug": 1087,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": 2002,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "u2": true
   },
   "scores": [
+    0.165,
+    0.662,
+    0.91,
+    0.88
   ]
 }

@@ -3,17 +3,19 @@
   "instanceSlug": 2812,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "dance",
   "debut": "2002-02",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "kylie-minogue": true
   },
   "scores": [
+    0.175,
+    0.675,
+    0.94,
+    0.95,
+    0.925,
+    0.895
   ]
 }

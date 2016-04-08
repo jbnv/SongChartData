@@ -2,26 +2,17 @@
   "title": "Lovefool",
   "instanceSlug": 597,
   "tags": [
+  ],
+  "words": [
     "fool",
     "love"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1997-01",
   "playlists": [
   ],
-  "ranks": [
-    14,
-    7,
-    5,
-    3,
-    3.23,
-    3.58,
-    4.02
-  ],
   "artists": {
-    "the-cardigans": true
+    "cardigans": true
   },
   "scores": [
     0.12,

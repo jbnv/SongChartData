@@ -3,8 +3,6 @@
   "instanceSlug": 2930,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": "1997-07",
   "source": "men-in-black",
@@ -15,5 +13,15 @@
   "ranks": true,
   "artists": {
     "will-smith": true
-  }
+  },
+  "scores": [
+    0.12,
+    0.55,
+    0.75,
+    0.77,
+    0.76,
+    0.75,
+    0.72,
+    0.61
+  ]
 }

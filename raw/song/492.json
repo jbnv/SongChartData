@@ -6,18 +6,19 @@
     "cheating",
     "feb13"
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1985-09",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "stevie-wonder": true,
     "luther-vandross": "backup"
   },
   "scores": [
+    0.05,
+    0.12,
+    0.14,
+    0.16,
+    0.11
   ]
 }

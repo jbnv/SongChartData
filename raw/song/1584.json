@@ -10,20 +10,13 @@
   "source": "purple-rain",
   "playlists": [
   ],
-  "ranks": [
-    11,
-    1.2,
-    1,
-    1.05,
-    1.21
-  ],
   "artists": {
-    "the-time": true
+    "time": true,
+    "morris-day":"lead"
   },
   "scores": [
     0.2,
-    0.939,
-    1,
+    0.9,
     0.983,
     0.936
   ]

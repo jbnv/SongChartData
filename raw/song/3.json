@@ -5,24 +5,19 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genres": [
     "urban",
     "pop"
   ],
   "debut": "1984-11",
-  "ranks": [
-    16,
-    9,
-    4.6,
-    3.9,
-    3.7,
-    4.1,
-    4.7
-  ],
   "artists": {
-    "new-edition": true
+    "new-edition": true,
+    "ralph-tresvant":"member",
+    "ronnie-devoe":"member",
+    "bobby-brown":"member",
+    "ricky-bell":"member",
+    "michael-bivins":"member"
+
   },
   "scores": [
     0.075,

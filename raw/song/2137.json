@@ -3,18 +3,19 @@
   "instanceSlug": 2137,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": 1971,
   "playlists": [
     "remake"
   ],
-  "ranks": [
-  ],
   "artists": {
     "stevie-wonder": true
   },
   "scores": [
+    0.15,
+    0.32,
+    0.45,
+    0.48,
+    0.46
   ]
 }

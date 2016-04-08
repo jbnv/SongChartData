@@ -5,17 +5,17 @@
     "#2",
     "#2-hot-100"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1989-10",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "new-kids-on-the-block": true
+    "nkotb": true
   },
   "scores": [
+    0.13,
+    0.25,
+    0.28,
+    0.27
   ]
 }

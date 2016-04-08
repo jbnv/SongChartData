@@ -3,18 +3,19 @@
   "instanceSlug": 2188,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1982-02",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "quincy-jones": true,
     "james-ingram": "feature"
   },
   "scores": [
+    0.13,
+    0.27,
+    0.41,
+    0.45,
+    0.44
   ]
 }

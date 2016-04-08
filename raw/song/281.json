@@ -3,21 +3,14 @@
   "instanceSlug": 281,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1986-09",
   "playlists": [
   ],
-  "ranks": [
-    13.9,
-    7.9,
-    4.53,
-    2.9,
-    4
-  ],
   "artists": {
-    "eurythmics": true
+    "eurythmics": true,
+    "dave-stewart":"member",
+    "annie-lennox":"lead"
   },
   "scores": [
     0.122,

@@ -3,24 +3,26 @@
   "instanceSlug": 593,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1988-08",
   "playlists": [
     "summer"
   ],
-  "ranks": [
-    8,
-    1,
-    1.14
-  ],
   "artists": {
-    "new-edition": true
+    "new-edition": true,
+    "ralph-tresvant":"member",
+    "ronnie-devoe":"member",
+    "johnny-gill":"member",
+    "ricky-bell":"member",
+    "michael-bivins":"member"
   },
   "scores": [
-    0.306,
+    0.3,
     1,
-    0.956
+    1,
+    0.97,
+    0.935,
+    0.895,
+    0.84
   ]
 }

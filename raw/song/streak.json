@@ -3,17 +3,19 @@
   "instanceSlug": "streak",
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "novelty",
   "debut": 1973,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "ray-stevens": true
   },
   "scores": [
+    0.15,
+    0.31,
+    0.44,
+    0.51,
+    0.52,
+    0.505
   ]
 }

@@ -3,15 +3,9 @@
   "instanceSlug": 541,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1999-10",
   "playlists": [
-  ],
-  "ranks": [
-    1,
-    1.055
   ],
   "artists": {
     "backstreet-boys": true
@@ -19,6 +13,16 @@
   "note": "Project 12 weeks at #1.",
   "scores": [
     1,
-    0.982
+    1,
+    1,
+    1,
+    0.992,
+    0.982,
+    0.972,
+    0.958,
+    0.929,
+    0.899,
+    0.858,
+    0.8
   ]
 }

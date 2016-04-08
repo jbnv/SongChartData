@@ -3,31 +3,18 @@
   "instanceSlug": "jungle-love-sm",
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1970s",
   "playlists": [
-  ],
-  "ranks": [
-    15,
-    4,
-    1.99,
-    1.8,
-    1.92,
-    2.05,
-    2.3
   ],
   "artists": {
     "steve-miller-band": true
   },
   "scores": [
-    0.097,
-    0.537,
-    0.77,
-    0.804,
-    0.782,
+    0.1,
+    0.5,
     0.76,
-    0.722
+    0.8,
+    0.76
   ]
 }

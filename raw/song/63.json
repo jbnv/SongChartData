@@ -6,19 +6,15 @@
   "genre": "soul",
   "debut": "1983-11",
   "source": "thriller",
-  "ranks": [
-    11,
-    2.1,
-    1.1,
-    1.29
-  ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
     0.2,
     0.752,
     0.968,
-    0.915
+    0.954,
+    0.932
   ]
 }
