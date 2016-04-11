@@ -1,4 +1,5 @@
-var meta = require("../app/meta"),
+var functions = require("./functions"),
+    meta = require("../app/meta"),
     scoring = require("../app/scoring"),
     transform = require("../app/transform");
 
@@ -10,7 +11,7 @@ module.exports = function(app) {
     return meta.getCompiledCollection("artist")();
   }
 
-  require("./entity")("artist",app);
+  var slugs = require("./entity")("artist",app);
 
   function _artist(slug) {
     return meta.getCompiledObject("artist",slug)();
@@ -22,11 +23,23 @@ module.exports = function(app) {
     res.send(_artist(itemSlug).songs);
   });
 
-  app.get("/artists/incomplete", function(req, res) {
-    console.log("GET /artists/incomplete");
-    var result = _artists().filter(function(artist) { return !artist.complete; }).sort(transform.sortByTitle);
-    res.send(result);
-  });
+  app.get("/artists/complete", functions.getSome(
+    slugs,
+    function(artist) { return artist.complete; },
+    transform.sortByTitle
+  ));
+
+  app.get("/artists/incomplete", functions.getSome(
+    slugs,
+    function(artist) { return !artist.complete; },
+    transform.sortByTitle
+  ));
+
+  app.get("/artists/active", functions.getSome(
+    slugs,
+    function(artist) { return artist.active; },
+    transform.sortByTitle
+  ));
 
   app.get("/artist-types", function(req, res) {
     console.log("GET /artist-types");
