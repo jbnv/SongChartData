@@ -26,7 +26,18 @@ function _getObject(groupSlug,typeSlug,instanceSlug) {
     var filepath = path.join(root,groupSlug,typeSlug,""+instanceSlug+".json");
     var text = fs.readFileSync(filepath);
     if (!text || text === "") return null;
-    return JSON.parse(text);
+
+    var outbound = {};
+    try {
+      outbound = JSON.parse(text);
+    } catch(ex) {
+      outbound.exception = ex;
+      outbound.groupSlug = groupSlug;
+      outbound.typeSlug = typeSlug;
+      outbound.instanceSlug = instanceSlug;
+    }
+
+    return outbound;
 
   };
 }
