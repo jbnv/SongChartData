@@ -15,14 +15,14 @@ exports.getOne = function(slugs,filterFn) {
 
 }
 
-exports.getSome = function(slugs,filterFn) {
+exports.getSome = function(slugs,filterFn,sortFn) {
 
   return function(req, res) {
     console.log("GET "+req.originalUrl);
-    content = meta.getCompiledCollection(slugs.storageSlug)();
-    if (filterFn) {
-      content = content.filter(filterFn);
-    }
+    var parameters = req.params;
+    parameters.filterFn = filterFn;
+    parameters.sortFn = sortFn;
+    content = meta.getCompiledCollection(slugs.storageSlug,parameters)();
     res.send(content);
   };
 
