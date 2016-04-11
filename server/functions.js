@@ -4,7 +4,7 @@ var meta = require("../app/meta"),
 exports.getOne = function(slugs,filterFn) {
 
   return function(req, res) {
-    console.log("GET /"+slugs.singularSlug,req.params[0]);
+    console.log("GET "+req.originalUrl);
     var itemSlug = req.params[0];
     content = meta.getCompiledObject(slugs.storageSlug,itemSlug)();
     if (filterFn) {
@@ -18,7 +18,7 @@ exports.getOne = function(slugs,filterFn) {
 exports.getSome = function(slugs,filterFn) {
 
   return function(req, res) {
-    console.log("GET /"+slugs.pluralSlug);
+    console.log("GET "+req.originalUrl);
     content = meta.getCompiledCollection(slugs.storageSlug)();
     if (filterFn) {
       content = content.filter(filterFn);
@@ -31,7 +31,7 @@ exports.getSome = function(slugs,filterFn) {
 exports.getTitles = function(slugs) {
 
   return function(req, res) {
-    console.log("GET /"+slugs.pluralSlug+"/titles");
+    console.log("GET "+req.originalUrl);
     content = meta.getCompiledCollection(slugs.storageSlug)();
     var outbound = {};
     content.forEach(function(item) { outbound[item.instanceSlug] = item.title; });
@@ -43,7 +43,7 @@ exports.getTitles = function(slugs) {
 exports.getScores = function(slugs) {
 
   return function(req, res) {
-    console.log("GET /"+slugs.pluralSlug+"/scores");
+    console.log("GET "+req.originalUrl);
     content = meta.getCompiledCollection(slugs.storageSlug)();
     res.send(content.map(function(item) {
       var outbound = {};
