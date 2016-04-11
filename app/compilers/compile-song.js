@@ -126,8 +126,6 @@ module.exports = function(yargs,entities) {
 
   /* Calculate song rankings on all terms.*/
 
-  entities = scoring.sortAndRank(entities,true);
-
   util.log("Ranking by artist.");
   scoring.rankEntities(entities,artists,"artist");
 
@@ -150,8 +148,10 @@ module.exports = function(yargs,entities) {
 
   util.log("Song processing complete.");
 
+  entities = scoring.sortAndRank(entities);
+
   return {
-    "all": scoring.sortAndRank(entities,true),
+    "all": entities,
     "titles": titles,
     "by-artist": artists,
     "by-genre": genres,
