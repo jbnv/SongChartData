@@ -50,8 +50,51 @@ function _getCompiledObject(typeSlug,instanceSlug) {
   return _getObject("compiled",typeSlug,instanceSlug);
 }
 
-function _getCompiledCollection(typeSlug) {
-  return _getObject("compiled",typeSlug,"all");
+// options: {
+//  filterFn
+//  sortFn
+//  count
+//  page
+// }
+function _getCompiledCollection(typeSlug,options) {
+  if (!typeSlug) throw "_getCompiledCollection: typeSlug is required!";
+
+  return function() {
+    var allItems = _getObject("compiled",typeSlug,"all")() || []; // should be an array
+
+    if (!options) options = {};
+
+    if (options.sortFn) {
+      allItems = allItems.sort(options.sortFn);
+    }
+
+    var outbound = {
+      "totalCount":allItems.length
+    };
+
+    var filteredItems = [];
+    if (options.filterFn) {
+      filteredItems = allItems.filter(options.filterFn);
+      outbound.filteredCount = filteredItems.length;
+    } else {
+      filteredItems = allItems;
+    }
+
+    if (options.count) {
+      var count = parseInt(options.count);
+      var page =  parseInt(options.page || 1);
+      outbound.filteredCount = count;
+      outbound.pageSize = count;
+      outbound.pageCount = Math.ceil(filteredItems.length/count);
+      outbound.currentPage = page;
+      outbound.items = filteredItems.slice(count*(page-1),count*page);
+    } else {
+      outbound.items = filteredItems;
+    }
+
+    return outbound;
+
+  };
 }
 
 function _getTitles(typeSlug) {
