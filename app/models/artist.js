@@ -14,14 +14,12 @@ function Artist(yargs) {
   this.death = argv.death || "";
 
   // Type flags
-  if (argv["solo-male"]) {
+  if (argv["male"]) {
     this.type = 'm';
-  } else if (argv["solo-female"]) {
+  } else if (argv["female"]) {
     this.type = 'f';
-  } else if (argv["group"]) {
-    this.type = 'g';
-  } else if (argv["duo"]) {
-    this.type = 'd';
+  } else if (argv["type"]) {
+    this.type = argv["type"];
   }
 
   // Legacy.
