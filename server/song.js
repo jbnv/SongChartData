@@ -4,8 +4,30 @@ var meta = require("../app/meta");
 
 module.exports = function(app) {
 
+  // For pagination, we need additional information.
+
   function _songs(options) {
-    return meta.getCompiledCollection("song",options)();
+    var songs = meta.getCompiledCollection("song",options)();
+
+    if (!options) options = {};
+
+    var outbound = {
+      "totalCount":songs.length,
+    };
+
+    if (options.count) {
+      var count = parseInt(options.count);
+      var page =  parseInt(options.page || 1);
+      outbound.pageSize = count;
+      outbound.pageCount = Math.ceil(songs.length/count);
+      outbound.currentPage = page;
+      outbound.songs = songs.slice(count*(page-1),count*page);
+    } else {
+      outbound.songs = songs;
+    }
+
+    return outbound;
+
   }
 
   app.get("/songs", function(req, res) {
@@ -15,15 +37,12 @@ module.exports = function(app) {
 
   app.get(/^\/songs\/count\/(\d+)$/, function(req, res) {
     console.log("GET "+req.originalUrl);
-    var count = parseInt(req.params[0]);
-    res.send(_songs().slice(0,count));
+    res.send(_songs({"count":req.params[0]}));
   });
 
   app.get(/^\/songs\/count\/(\d+)\/page\/(\d+)$/, function(req, res) {
-    var count = parseInt(req.params[0]);
-    var page = parseInt(req.params[1]);
-    console.log("GET "+req.originalUrl,count,page);
-    res.send(_songs().slice(count*(page-1),count*page));
+    console.log("GET "+req.originalUrl);
+    res.send(_songs({"count":req.params[0],"page":req.params[1]}));
   });
 
   function _isUnranked(song) {
