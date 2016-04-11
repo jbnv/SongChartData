@@ -3,22 +3,14 @@
   "instanceSlug": 2570,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1983-12",
   "playlists": [
   ],
-  "ranks": [
-    13,
-    8,
-    3.5,
-    2.5,
-    2.24,
-    2.49
-  ],
   "artists": {
-    "rolling-stones": true
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
   },
   "scores": [
     0.145,

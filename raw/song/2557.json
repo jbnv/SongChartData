@@ -14,7 +14,9 @@
   "ranks": [
   ],
   "artists": {
-    "rolling-stones": true
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
   },
   "scores": [
   ]

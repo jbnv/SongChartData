@@ -3,28 +3,23 @@
   "instanceSlug": 1004,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1980-10",
   "playlists": [
   ],
-  "ranks": [
-    15,
-    8.2,
-    4.5,
-    2.4,
-    2.8
-  ],
   "artists": {
     "jacksons": true,
-    "michael-jackson": "lead"
+    "michael-jackson": "lead",
+    "jermaine-jackson":"member"
   },
   "scores": [
-    0.097,
-    0.298,
-    0.498,
-    0.708,
-    0.656
+    0.1,
+    0.3,
+    0.5,
+    0.7,
+    0.75,
+    0.77,
+    0.76,
+    0.74
   ]
 }

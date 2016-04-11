@@ -7,18 +7,10 @@
   "debut": "1984-07",
   "playlists": [
   ],
-  "ranks": [
-    15,
-    9,
-    4.9,
-    3.6,
-    3.5,
-    3.86,
-    4.4
-  ],
   "artists": {
     "jacksons": true,
     "michael-jackson": "lead",
+    "jermaine-jackson":"member",
     "mick-jagger": "backup"
   },
   "scores": [
@@ -29,5 +21,6 @@
     0.582,
     0.549,
     0.506
-  ]
+  ],
+  "note":"Mick Jagger is listed as a 'guest vocalist.'"
 }

@@ -7,22 +7,18 @@
   "debut": "1979-04",
   "playlists": [
   ],
-  "ranks": [
-    12.5,
-    2.4,
-    1.2,
-    1.4,
-    1.67
-  ],
   "artists": {
     "jacksons": true,
-    "michael-jackson": "lead"
+    "michael-jackson": "lead",
+    "jermaine-jackson":"member"
   },
   "scores": [
     0.158,
-    0.708,
-    0.939,
     0.887,
-    0.829
+    0.939,
+    0.952,
+    0.961,
+    0.969,
+    0.954
   ]
 }

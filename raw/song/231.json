@@ -1,24 +1,13 @@
 {
   "title": "Who Will You Run To",
   "instanceSlug": 231,
-  "tags": [
-    "run",
-    "who",
-    "you"
-  ],
-  "parents": [
-  ],
-  "genre": true,
+  "tags": [],
+  "genre": "rock",
   "debut": "1987-09",
-  "ranks": [
-    18,
-    11.7,
-    6.8,
-    6.3,
-    7.5
-  ],
   "artists": {
-    "heart": true
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
   },
   "scores": [
     0.036,

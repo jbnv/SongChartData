@@ -3,27 +3,18 @@
   "instanceSlug": 860,
   "tags": [
     "all-i-wanna-do",
-    "i",
     "i-wanna",
-    "",
-    "love",
     "make-love",
     "wanna"
   ],
-  "parents": [
-  ],
   "genre": "rock",
-  "debut": 1990,
+  "debut": "1990-04",
   "playlists": [
   ],
-  "ranks": [
-    17.9,
-    10.6,
-    6.2,
-    7.9
-  ],
   "artists": {
-    "heart": true
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
   },
   "scores": [
     0.038,

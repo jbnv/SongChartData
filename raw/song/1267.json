@@ -1,21 +1,15 @@
 {
   "title": "Out of Tears",
   "instanceSlug": 1267,
-  "tags": [
-    "out",
-    "out-of",
-    "tear"
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "pop",
   "debut": "1994-11",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "rolling-stones": true
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
   },
   "scores": [
   ]

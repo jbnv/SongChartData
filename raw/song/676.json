@@ -1,21 +1,14 @@
 {
   "title": "Hold On",
   "instanceSlug": 676,
-  "tags": [
-    "hold",
-    "hold-on",
-    "on"
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "rock",
   "debut": "1982-09",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "santana": true
+    "santana": true,
+    "carlos-santana":"member"
   },
   "scores": [
   ]

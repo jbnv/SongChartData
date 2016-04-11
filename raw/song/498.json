@@ -11,23 +11,19 @@
   "debut": "1989-09",
   "playlists": [
   ],
-  "ranks": [
-    13.5,
-    5.2,
-    2.8,
-    2.3,
-    1.9,
-    2.31
-  ],
   "artists": {
-    "rolling-stones": true
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
   },
   "scores": [
-    0.132,
     0.45,
-    0.656,
     0.722,
     0.786,
-    0.72
+    0.81,
+    0.85,
+    0.87,
+    0.86,
+    0.84
   ]
 }
