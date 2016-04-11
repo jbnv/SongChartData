@@ -65,6 +65,18 @@ module.exports = function(yargs,entities) {
       entity.type.slug = typeSlug;
     }
 
+    if (entity.members) {
+      entity.members = entity.members.map(function(artistSlug) {
+        return readEntity(path.join("raw","artist",artistSlug));
+      })
+    }
+
+    if (entity.xref) {
+      entity.xref = entity.xref.map(function(artistSlug) {
+        return readEntity(path.join("raw","artist",artistSlug));
+      })
+    }
+
     numeral.zeroFormat("");
 
     util.log(
