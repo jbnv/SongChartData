@@ -13,6 +13,19 @@ module.exports = function(app) {
     res.send(_songs());
   });
 
+  app.get(/^\/songs\/count\/(\d+)$/, function(req, res) {
+    console.log("GET "+req.originalUrl);
+    var count = parseInt(req.params[0]);
+    res.send(_songs().slice(0,count));
+  });
+
+  app.get(/^\/songs\/count\/(\d+)\/page\/(\d+)$/, function(req, res) {
+    var count = parseInt(req.params[0]);
+    var page = parseInt(req.params[1]);
+    console.log("GET "+req.originalUrl,count,page);
+    res.send(_songs().slice(count*(page-1),count*page));
+  });
+
   function _isUnranked(song) {
     if (song.ranks === true) return true;
     return (song.ranks || []).length == 0;
