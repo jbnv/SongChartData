@@ -2,8 +2,8 @@
 // This file should be the same between the data and the app.
 
 exports.sortByTitle = function(a,b) {
-  var titleA = (a.title || "").replace(/[^\w\s]/g,"");
-  var titleB = (b.title || "").replace(/[^\w\s]/g,"");
+  var titleA = (""+(a || {}).title).replace(/[^\w\s]/g,"");
+  var titleB = (""+(b || {}).title).replace(/[^\w\s]/g,"");
   return titleA < titleB ? -1 : 1;
 }
 
