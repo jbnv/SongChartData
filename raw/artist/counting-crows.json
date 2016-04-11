@@ -1,1 +1,14 @@
-{"title":"Counting Crows","instanceSlug":"counting-crows","tags":["1990s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"mmm"}
+{
+  "title": "Counting Crows",
+  "instanceSlug": "counting-crows",
+  "tags": [
+    "1990s"
+  ],
+  "genres": [],
+  "members": [],
+  "complete": false,
+  "origin": "san-francisco",
+  "birth": "1991",
+  "death": "",
+  "type": "mmm"
+}

@@ -1,1 +1,18 @@
-{"title":"Sting","instanceSlug":"sting","tags":["1980s","1990s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Sting",
+  "instanceSlug": "sting",
+  "tags": [
+    "1980s",
+    "1990s",
+    "singer",
+    "songwriter",
+    "bassist"
+  ],
+  "genres": ["pop"],
+  "xref": ["police"],
+  "complete": true,
+  "origin": "england",
+  "birth": "1951-10",
+  "death": "",
+  "type": "m"
+}
