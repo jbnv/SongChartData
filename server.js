@@ -17,7 +17,7 @@ entityRoute("source",app);
 entityRoute("tag",app);
 
 require("./server/grep")(app);
-entityRoute("search",app);
+require("./server/search")(app);
 require("./server/summary")(app);
 
 // Catch-all.
