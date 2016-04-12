@@ -30,6 +30,30 @@ function _getSome(slugs,filterFn,sortFn) {
 
 exports.getSome = _getSome;
 
+exports.getSomeBySubstring = function(slugs,objectSlug,sortFn) {
+
+  return function(req, res) {
+    console.log("GET "+req.originalUrl);
+
+    var substring = (""+req.params.substring).toLowerCase();
+    if (substring === "") {
+      res.send([]);
+      return;
+    }
+
+    var parameters = req.params;
+    parameters.sortFn = sortFn;
+
+    parameters.filterFn = function(entity) {
+      return (""+entity[objectSlug]).toLowerCase().contains(substring);
+    };
+
+    content = meta.getCompiledCollection(slugs.storageSlug,parameters)();
+    res.send(content);
+  };
+
+}
+
 exports.getSomeByDetailSlug = function(slugs,objectSlug,sortFn) {
 
   return function(req, res) {
