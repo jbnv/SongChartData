@@ -1,1 +1,18 @@
-{"title":"Phil Collins","instanceSlug":"phil-collins","tags":["1980s","1990s","a:genesis"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"london","birth":"","death":"","type":"m"}
+{
+  "title": "Phil Collins",
+  "instanceSlug": "phil-collins",
+  "tags": [
+    "1980s",
+    "1990s","singer","drummer"
+    
+  ],
+  "genres": [
+    "pop"
+  ],
+  "xref": ["genesis"],
+  "complete": true,
+  "origin": "london",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

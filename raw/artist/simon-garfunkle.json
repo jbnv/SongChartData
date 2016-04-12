@@ -1,11 +1,11 @@
 {
   "title": "Simon & Garfunkel",
   "instanceSlug": "simon-garfunkle",
+  "type":"mm",
   "tags": [
     "hof",
     "1960s"
   ],
-  "parents": [],
   "genres": [],
   "members": [
     "paul-simon",
@@ -13,7 +13,7 @@
   ],
   "xref": [],
   "complete": false,
-  "origin": true,
+  "origin": "us",
   "birth": "",
   "death": ""
 }

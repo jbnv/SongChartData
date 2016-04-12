@@ -1,1 +1,14 @@
-{"title":"No Mercy","instanceSlug":"no-mercy","tags":[],"parents":[],"genres":["techno-dance"],"members":[],"complete":true,"origin":"united-states","birth":"","death":"","type":"mmm"}
+{
+  "title": "No Mercy",
+  "instanceSlug": "no-mercy",
+  "tags": [],
+  "genres": [
+    "techno-dance"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

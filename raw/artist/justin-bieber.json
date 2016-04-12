@@ -3,15 +3,14 @@
   "instanceSlug": "justin-bieber",
   "type":"m",
   "tags": [
-    "2010s"
+    "2010s","child"
   ],
   "genres": [
     "pop"
   ],
-  "members": [],
   "xref": [],
   "complete": false,
-  "active":"true",
+  "active":true,
   "origin": "canada",
   "birth": "1990s",
   "death": ""
