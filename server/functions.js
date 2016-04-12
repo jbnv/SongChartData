@@ -54,6 +54,30 @@ exports.getSomeBySubstring = function(slugs,objectSlug,sortFn) {
 
 }
 
+exports.getSomeBySequence = function(slugs,objectSlug,sortFn) {
+
+  return function(req, res) {
+    console.log("GET "+req.originalUrl);
+
+    var sequence = (""+req.params.sequence).toLowerCase();
+    if (sequence === "") {
+      res.send([]);
+      return;
+    }
+
+    var parameters = req.params;
+    parameters.sortFn = sortFn;
+
+    parameters.filterFn = function(entity) {
+      return (""+entity[objectSlug]).toLowerCase().matchesSequence(sequence);
+    };
+
+    content = meta.getCompiledCollection(slugs.storageSlug,parameters)();
+    res.send(content);
+  };
+
+}
+
 exports.getSomeByDetailSlug = function(slugs,objectSlug,sortFn) {
 
   return function(req, res) {
