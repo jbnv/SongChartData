@@ -3,16 +3,14 @@
   "instanceSlug": 1738,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
-  "debut": "1970s",
+  "debut": "1978",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "heart": true
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
   },
   "scores": [
   ]

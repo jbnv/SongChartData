@@ -7,24 +7,18 @@
   "debut": 1971,
   "playlists": [
   ],
-  "ranks": [
-    17,
-    10,
-    6,
-    4,
-    4.1,
-    4.5
-  ],
   "artists": {
     "jacksons": true,
-    "michael-jackson": "lead"
+    "michael-jackson": "lead",
+    "jermaine-jackson":"member"
   },
   "scores": [
     0.055,
-    0.232,
-    0.402,
-    0.537,
-    0.529,
-    0.498
+    0.4,
+    0.59,
+    0.72,
+    0.75,
+    0.77,
+    0.71
   ]
 }

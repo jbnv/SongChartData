@@ -1,21 +1,10 @@
 {
   "title": "Desert Rose",
   "instanceSlug": 1196,
-  "tags": [
-    "desert",
-    "rose"
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "pop",
-  "debut": 2000,
-  "playlists": [
-  ],
-  "ranks": [
-    10,
-    1,
-    1,
-    1.085
+  "debut": "2000-07",
+  "playlists": ["summer"
   ],
   "artists": {
     "sting": true

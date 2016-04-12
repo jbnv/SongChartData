@@ -10,25 +10,19 @@
   "debut": "1981-09",
   "playlists": [
   ],
-  "ranks": [
-    4.9,
-    1,
-    1.09,
-    1.21,
-    1.35,
-    1.53,
-    1.81
-  ],
   "artists": {
-    "rolling-stones": true
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
   },
   "scores": [
     0.47,
     1,
-    0.971,
+    0.985,
+    0.97,
+    0.952,
     0.936,
-    0.899,
-    0.858,
-    0.802
-  ]
+    0.9
+  ],
+  "note":"Project 6 weeks at #1."
 }

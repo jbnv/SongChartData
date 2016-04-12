@@ -1,1 +1,12 @@
-{"title":"Gorillaz","instanceSlug":"gorillaz","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"mmm"}
+{
+  "title": "Gorillaz",
+  "instanceSlug": "gorillaz",
+  "tags": ["fictional"],
+  "genres": [],
+  "members": [],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}

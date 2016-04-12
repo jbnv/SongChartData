@@ -1,18 +1,10 @@
 {
   "title": "All This Time",
   "instanceSlug": 1151,
-  "tags": [
-    "all",
-    "this",
-    "time"
-  ],
-  "parents": [
-  ],
+  "tags": ["#1","#1-mainstream-rock","#1-modern-rock"],
   "genre": "pop",
-  "debut": 1991,
+  "debut": "1991-02",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "sting": true

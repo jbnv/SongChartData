@@ -9,17 +9,10 @@
   "debut": 1974,
   "playlists": [
   ],
-  "ranks": [
-    16,
-    9,
-    6,
-    5.1,
-    3.5,
-    3.8
-  ],
   "artists": {
     "jacksons": true,
-    "michael-jackson": "lead"
+    "michael-jackson": "lead",
+    "jermaine-jackson":"member"
   },
   "scores": [
     0.075,

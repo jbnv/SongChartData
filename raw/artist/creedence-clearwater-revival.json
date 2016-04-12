@@ -2,11 +2,11 @@
   "title": "Creedence Clearwater Revival",
   "instanceSlug": "creedence-clearwater-revival",
   "tags": ["1970s","hof"],
-  "genres": [],
-  "members": ["jim-fogarty"],
+  "genres": ["rock"],
+  "members": ["john-fogarty"],
   "complete": false,
-  "origin": "",
-  "birth": "",
-  "death": "",
+  "origin": "california",
+  "birth": "1960s",
+  "death": "1972",
   "type": "mmm"
 }

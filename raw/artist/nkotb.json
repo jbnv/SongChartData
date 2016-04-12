@@ -1,7 +1,10 @@
 {
   "title": "New Kids on the Block",
   "instanceSlug": "nkotb",
-  "tags": [],
+  "tags": [
+    "1980s",
+    "1990s"
+  ],
   "genres": [
     "pop"
   ],
@@ -9,13 +12,10 @@
     "donnie-wahlberg",
     "jordan-knight"
   ],
-  "xref": [
-    "1980s",
-    "1990s"
-  ],
+  "xref": [],
   "complete": true,
   "origin": "boston",
-  "birth": "",
+  "birth": "1980s",
   "death": "",
   "type": "mmm"
 }

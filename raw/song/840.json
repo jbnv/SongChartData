@@ -3,25 +3,21 @@
   "instanceSlug": 840,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1986-05",
   "playlists": [
   ],
-  "ranks": [
-    17.9,
-    10.6,
-    6.6,
-    8.9
-  ],
   "artists": {
-    "heart": true
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
   },
   "scores": [
     0.038,
-    0.213,
     0.37,
-    0.271
+    0.45,
+    0.47,
+    0.49,
+    0.47
   ]
 }

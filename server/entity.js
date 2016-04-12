@@ -11,6 +11,10 @@ module.exports = function(parameters,app) {
 
   app.get("/"+slugs.pluralSlug, functions.getSome(slugs));
 
+  app.get("/"+slugs.pluralSlug+"/count/:count", functions.getSome(slugs));
+
+  app.get("/"+slugs.pluralSlug+"/count/:count/page/:page", functions.getSome(slugs));
+
   app.get("/"+slugs.pluralSlug+"/titles", functions.getTitles(slugs));
 
   app.get("/"+slugs.pluralSlug+"/scores", functions.getScores(slugs));
@@ -22,5 +26,7 @@ module.exports = function(parameters,app) {
   //TODO PUT route - create item
 
   //TODO POST route - update item
+
+  return slugs;
 
 }

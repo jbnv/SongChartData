@@ -1,0 +1,24 @@
+{
+  "title": "Love The One You're With",
+  "instanceSlug": "YEZw",
+  "tags": [],
+  "debut": 1971,
+  "playlists": [],
+  "artists": {
+    "steven-stills": true,
+    "rita-coolidge": "backup",
+    "david-crosby": "backup",
+    "mama-cass": "backup",
+    "graham-nash": "backup",
+    "john-sebastian": "backup"
+  },
+  "scores": [
+    0.21,
+    0.64,
+    0.85,
+    0.91,
+    0.93,
+    0.91,
+    0.84
+  ]
+}

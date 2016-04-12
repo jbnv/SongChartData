@@ -1,20 +1,15 @@
 {
   "title": "There's the Girl",
   "instanceSlug": 1463,
-  "tags": [
-    "girl",
-    "there's"
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "rock",
   "debut": "1987-12",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "heart": true
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
   },
   "scores": [
   ]

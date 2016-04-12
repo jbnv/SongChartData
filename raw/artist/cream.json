@@ -1,1 +1,14 @@
-{"title":"Cream","instanceSlug":"cream","tags":["hof"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Cream",
+  "instanceSlug": "cream",
+  "tags": [
+    "hof","all-star"
+  ],
+  "genres": ["blues-rock"],
+  "members": ["eric-clapton","ginger-baker","jack-bruce"],
+  "xref": ["blind-faith"],
+  "complete": true,
+  "origin": "england",
+  "birth": "1968",
+  "death": "1969"
+}

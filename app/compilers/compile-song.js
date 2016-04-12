@@ -148,8 +148,10 @@ module.exports = function(yargs,entities) {
 
   util.log("Song processing complete.");
 
+  entities = scoring.sortAndRank(entities);
+
   return {
-    "all": scoring.sortAndRank(entities),
+    "all": entities,
     "titles": titles,
     "by-artist": artists,
     "by-genre": genres,

@@ -10,11 +10,10 @@
   "debut": 1970,
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
     "jacksons": true,
-    "michael-jackson": "lead"
+    "michael-jackson": "lead",
+    "jermaine-jackson":"member"
   },
   "scores": [
   ]

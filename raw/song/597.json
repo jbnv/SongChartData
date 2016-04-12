@@ -9,7 +9,7 @@
   ],
   "genre": "pop",
   "debut": "1997-01",
-  "playlists": [
+  "playlists": ["romeo-juliet"
   ],
   "artists": {
     "cardigans": true
@@ -19,8 +19,6 @@
     0.351,
     0.463,
     0.633,
-    0.609,
-    0.574,
-    0.536
+    0.621
   ]
 }

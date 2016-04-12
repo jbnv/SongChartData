@@ -3,31 +3,20 @@
   "instanceSlug": 1891,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "adult-alternative",
   "debut": "1997-02",
   "playlists": [
-  ],
-  "ranks": [
-    19.5,
-    12,
-    8,
-    8.25,
-    8.7,
-    9.6,
-    11.2
   ],
   "artists": {
     "better-than-ezra": true
   },
   "scores": [
-    0.009,
     0.171,
-    0.306,
-    0.296,
-    0.278,
-    0.246,
-    0.194
+    0.41,
+    0.55,
+    0.65,
+    0.71,
+    0.73,
+    0.67
   ]
 }

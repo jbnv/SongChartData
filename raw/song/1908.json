@@ -8,20 +8,15 @@
   "genre": "dance-pop",
   "debut": "1997-05",
   "playlists": [
-    "summer"
-  ],
-  "ranks": [
-    12.5,
-    2.5,
-    1,
-    1.29
+    "summer","harmonica"
   ],
   "artists": {
     "spice-girls": true
   },
   "scores": [
     0.158,
-    0.694,
+    0.7,
+    0.85,
     1,
     0.915
   ]

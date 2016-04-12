@@ -1,29 +1,24 @@
 {
   "title": "Southern Cross",
   "instanceSlug": 655,
-  "tags": [
-    "cross",
-    "south"
-  ],
-  "parents": [
-  ],
-  "genre": true,
+  "tags": [],
+  "genres": ["pop","adult-contemporary"],
   "debut": "1982-10",
   "playlists": [
   ],
-  "ranks": [
-    17.9,
-    10.7,
-    10.7,
-    14.3
-  ],
   "artists": {
-    "crosby-stills-nash": true
+    "crosby-stills-nash": true,
+    "graham-nash":"member",
+    "steven-stills":"lead",
+    "david-crosby":"member"
   },
   "scores": [
     0.038,
-    0.209,
-    0.209,
-    0.113
+    0.2,
+    0.27,
+    0.31,
+    0.33,
+    0.34,
+    0.32
   ]
 }

@@ -6,22 +6,14 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 1970,
   "playlists": [
   ],
-  "ranks": [
-    18,
-    11,
-    6,
-    4,
-    4.2,
-    4.5
-  ],
   "artists": {
-    "jacksons": true
+    "jacksons": true,
+    "michael-jackson": "lead",
+    "jermaine-jackson":"member"
   },
   "scores": [
     0.036,
