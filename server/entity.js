@@ -19,6 +19,10 @@ module.exports = function(parameters,app) {
 
   app.get("/"+slugs.pluralSlug+"/scores", functions.getScores(slugs));
 
+  app.get("/"+slugs.pluralSlug+"/by-tag/:slug",
+    functions.getSomeByDetailSlug(slugs,"tags")
+  );
+
   var itemExpression = "^\\/"+slugs.singularSlug+"\\/([a-z0-9-]+)$";
 
   app.get(new RegExp(itemExpression), functions.getOne(slugs));
