@@ -31,6 +31,7 @@ module.exports = function(app) {
           || (""+entity.title).toLowerCase().contains(substring);
         if (isMatch) {
           entity.typeSlug = storageSlug;
+          entity.route = ""+storageSlug+"/"+entity.instanceSlug;
           outbound.push(entity);
         }
       }); // entities
