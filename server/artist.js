@@ -47,6 +47,10 @@ module.exports = function(app) {
     transform.sortBySongCount
   ));
 
+  app.get("/artists/by-genre/:slug",
+    functions.getSomeByDetailSlug(slugs,"genres")
+  );
+
   app.get("/artist-types", function(req, res) {
     console.log("GET /artist-types");
 
