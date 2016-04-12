@@ -17,6 +17,7 @@ module.exports = function(that,argv) {
   }
 
   that.title = argv.t || "";
+  that.note = argv.note;
 
   that.instanceSlug = argv.s || that.title.toLowerCase().replace(/ /g,"-");
 

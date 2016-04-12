@@ -6,6 +6,8 @@ var chalk       = require("chalk"),
     util        = require("gulp-util"),
 
     readEntity  = require("../../lib/fs").readEntity,
+    lookupEntity = require("../../lib/fs").lookupEntity,
+    lookupEntities = require("../../lib/fs").lookupEntities,
 
     meta        = require('../meta'),
     scoring     = require('../scoring'),
@@ -20,11 +22,9 @@ module.exports = function(yargs,entities) {
   origins = {};
   tags = {};
 
-  var songs = readEntity(path.join("compiled","song","by-artist"));
-  var allGenres = readEntity(path.join("compiled","genre","all"));
-  var allLocations = readEntity(path.join("compiled","geo","all"));
-  var allArtistTypes = require("../models/artist-types");
-  var allTags = readEntity(path.join("compiled","tag","for-artist"));
+  var songs = readEntity(path.join("compiled","song","by-artist")) || {};
+  var allArtistTypes = require("../models/artist-types") || {};
+  var allTags = readEntity(path.join("compiled","tag","for-artist")) || {};
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
@@ -40,7 +40,7 @@ module.exports = function(yargs,entities) {
         if (!tags[tag]) tags[tag] = [];
         tags[tag].push(slug);
       });
-      entity.tags = entity.tags.expand(allTags);
+      entity.tags = lookupEntities(entity.tags,"tag");
     } else {
       entity.tags = [];
     }
@@ -50,13 +50,13 @@ module.exports = function(yargs,entities) {
         if (!genres[genreSlug]) genres[genreSlug] = [];
         genres[genreSlug].push(slug);
       });
+      entity.genres = lookupEntities(entity.genres,"genre");
     }
-    entity.genres = entity.genres.expand(allGenres);
 
     if (entity.origin) {
         if (!origins[entity.origin]) origins[entity.origin] = [];
         origins[entity.origin].push(slug);
-        entity.origin = allLocations.find(function(el) { return el.instanceSlug === entity.origin; });
+        entity.origin = lookupEntity(entity.origin,"geo");
     }
 
     if (entity.type) {
@@ -66,15 +66,11 @@ module.exports = function(yargs,entities) {
     }
 
     if (entity.members) {
-      entity.members = entity.members.map(function(artistSlug) {
-        return readEntity(path.join("raw","artist",artistSlug));
-      })
+      entity.members = lookupEntities(entity.members,"artist");
     }
 
     if (entity.xref) {
-      entity.xref = entity.xref.map(function(artistSlug) {
-        return readEntity(path.join("raw","artist",artistSlug));
-      })
+      entity.xref = lookupEntities(entity.xref,"artist");
     }
 
     numeral.zeroFormat("");
