@@ -104,6 +104,16 @@ if (!String.prototype.contains) {
   String.prototype.contains = function(it) { return this.indexOf(it) != -1; };
 }
 
+if (!String.prototype.matchesSequence) {
+  String.prototype.matchesSequence = function(sequence) {
+    if (!sequence) return false;
+    if (sequence === "") return true;
+    var pattern = sequence.split("").join(".*");
+    var exp = new RegExp(pattern);
+    return exp.test(this);
+  };
+}
+
 if (!String.prototype.walkDirectory) {
   String.prototype.walkDirectory = function(fileCallback) {
     var dir = this;
