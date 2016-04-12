@@ -4,6 +4,15 @@ if (!Array.isArray) {
   };
 }
 
+if (!Array.prototype.contains) {
+  Array.prototype.contains = function(item) {
+    for (i in this) {
+      if (this[i] == item) return true;
+    }
+    return false;
+  }
+}
+
 if (!Array.prototype.includes) {
   Array.prototype.includes = function(searchElement /*, fromIndex*/ ) {
     'use strict';
