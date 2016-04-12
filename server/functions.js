@@ -15,13 +15,38 @@ exports.getOne = function(slugs,filterFn) {
 
 }
 
-exports.getSome = function(slugs,filterFn,sortFn) {
+function _getSome(slugs,filterFn,sortFn) {
 
   return function(req, res) {
     console.log("GET "+req.originalUrl);
     var parameters = req.params;
     parameters.filterFn = filterFn;
     parameters.sortFn = sortFn;
+    content = meta.getCompiledCollection(slugs.storageSlug,parameters)();
+    res.send(content);
+  };
+
+}
+
+exports.getSome = _getSome;
+
+exports.getSomeByDetailSlug = function(slugs,objectSlug,sortFn) {
+
+  return function(req, res) {
+    console.log("GET "+req.originalUrl);
+    var detailSlug = req.params.slug;
+    var parameters = req.params;
+    parameters.sortFn = sortFn;
+
+    parameters.filterFn = function(entity) {
+      if (entity[objectSlug]) {
+        for (i in entity[objectSlug]) {
+          if (entity[objectSlug][i].instanceSlug == detailSlug) return true;
+        }
+      }
+      return false;
+    };
+
     content = meta.getCompiledCollection(slugs.storageSlug,parameters)();
     res.send(content);
   };
