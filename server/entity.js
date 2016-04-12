@@ -19,6 +19,13 @@ module.exports = function(parameters,app) {
 
   app.get("/"+slugs.pluralSlug+"/scores", functions.getScores(slugs));
 
+  app.get("/"+slugs.pluralSlug+"/by-title/:substring",
+    functions.getSomeBySubstring(slugs,"title")
+  );
+  // app.get("/"+slugs.pluralSlug+"/by-title/:sequence",
+  //   functions.getSomeBySequence(slugs,"title")
+  // );
+
   app.get("/"+slugs.pluralSlug+"/by-tag/:slug",
     functions.getSomeByDetailSlug(slugs,"tags")
   );
