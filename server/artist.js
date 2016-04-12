@@ -41,17 +41,11 @@ module.exports = function(app) {
     transform.sortByTitle
   ));
 
-  app.get("/artists/active", function(req, res) {
-    console.log("GET /artists/active");
-    var result = _artists().filter(function(artist) { return artist.active; }).sort(transform.sortByTitle);
-    res.send(result);
-  });
-
-  app.get("/artists/unscored", function(req, res) {
-    console.log("GET /artists/unscored");
-    var result = _artists().filter(function(artist) { return !artist.score; }).sort(transform.sortBySongCount);
-    res.send(result);
-  });
+  app.get("/artists/unscored", functions.getSome(
+    slugs,
+    function(artist) { return !artist.score; },
+    transform.sortBySongCount
+  ));
 
   app.get("/artist-types", function(req, res) {
     console.log("GET /artist-types");
