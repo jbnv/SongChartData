@@ -7,6 +7,10 @@ var chalk       = require("chalk"),
     q           = require("q"),
     util        = require("gulp-util"),
 
+    readEntity  = require("../../lib/fs").readEntity,
+    lookupEntity = require("../../lib/fs").lookupEntity,
+    lookupEntities = require("../../lib/fs").lookupEntities,
+
     Era         = require('../../lib/era'),
     EntityMap   = require('../../lib/entity-map'),
     meta        = require('../meta'),
@@ -29,9 +33,6 @@ module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-song.js"));
 
   allArtists = meta.getArtists();
-  allGenres = meta.getGenres();
-  allSources = meta.getSources();
-  allPlaylists = meta.getPlaylists();
 
   var titles = {},
       artists = {},
@@ -41,7 +42,8 @@ module.exports = function(yargs,entities) {
       decades = {},
       years = {},
       months = {},
-      unscored = [];
+      unscored = [],
+      errors = [];
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
@@ -84,9 +86,12 @@ module.exports = function(yargs,entities) {
         if (!genres[genreSlug]) genres[genreSlug] = [];
         genres[genreSlug].push(entity);
       });
-      entity.genres = entity.genres.expand(allGenres);
-    } else {
-       entity.genres = [];
+    }
+
+    try {
+      entity.genres = lookupEntities(entity.genres,"genre");
+    } catch(err) {
+      errors.push({"instanceSlug":slug,"stage":"genres","error":err});
     }
 
     if (entity.playlists) {
@@ -94,14 +99,22 @@ module.exports = function(yargs,entities) {
         if (!playlists[playlistSlug]) playlists[playlistSlug] = [];
         playlists[playlistSlug].push(entity);
       });
-      entity.playlists = entity.playlists.expand(allPlaylists);
-    } else {
-       entity.playlists = [];
+    }
+
+    try {
+      entity.playlists = lookupEntities(entity.playlists,"playlist");
+    } catch(err) {
+      errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
     }
 
     sourceSlug = entity.source;
     sources.push(sourceSlug,entity);
-    entity.source = meta.getRawObject("source",sourceSlug)();
+
+    try {
+      entity.source = lookupEntity(entity.source,"source");
+    } catch(err) {
+      errors.push({"instanceSlug":slug,"stage":"source","error":err});
+    }
 
     if (entity.debut && entity.debut !== "") {
       var era = new Era(entity.debut);
@@ -160,6 +173,7 @@ module.exports = function(yargs,entities) {
     "by-decade": decades,
     "by-year": years,
     "by-month": months,
-    "unscored": unscored
+    "unscored": unscored,
+    "errors":errors
   }
 }
