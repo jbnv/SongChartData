@@ -88,6 +88,7 @@ module.exports = function(gulp,model) {
       var compiled_content_as_object = require("../app/compilers/compile-"+spec.typeSlug)(null,entities);
 
       for (var key in compiled_content_as_object) {
+        if (key == "error") continue;
         var route = meta.compiledRoute(spec.typeSlug,key);
         var content = compiled_content_as_object[key];
         writeEntity(route,content);
@@ -108,6 +109,15 @@ module.exports = function(gulp,model) {
         });
         util.log("Compiled "+chalk.green(count)+" entities.");
       }
+
+      (compiled_content_as_object.errors || []).forEach(function(error) {
+        util.log(
+          chalk.blue(error.instanceSlug),
+          chalk.red(error.stage),
+          error.error
+        );
+      });
+
     })
     .catch(function (error) {
       util.log("ERROR:",error);
@@ -115,17 +125,19 @@ module.exports = function(gulp,model) {
   });
 
   gulp.task("commit-"+spec.typeSlug, "Commit "+spec.typeNoun+" entities to Git.", function() {
+    var message = yargs.argv.m || "Updates of "+spec.typeNoun+" entities.";
     return gulp
       .src(["./raw/"+spec.typeSlug,"./compiled/"+spec.typeSlug])
       .pipe(git.add())
-      .pipe(git.commit("Updates of "+spec.typeNoun+" entities."));
+      .pipe(git.commit(message));
   });
 
   gulp.task("commit-raw-"+spec.typeSlug, "Commit raw "+spec.typeNoun+" entities to Git.", function() {
+    var message = yargs.argv.m || "Updates of raw "+spec.typeNoun+" entities.";
     return gulp
       .src(["./raw/"+spec.typeSlug])
       .pipe(git.add())
-      .pipe(git.commit("Updates of raw "+spec.typeNoun+" entities."));
+      .pipe(git.commit(message));
   });
 
 };
