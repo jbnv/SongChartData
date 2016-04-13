@@ -2,16 +2,10 @@
   "title": "Wild Wild West",
   "instanceSlug": 544,
   "tags": [
-    "west",
-    "wild"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["pop"],
   "debut": "1988-09",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "escape-club": true

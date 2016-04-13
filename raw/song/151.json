@@ -2,22 +2,13 @@
   "title": "Little Red Corvette",
   "instanceSlug": 151,
   "tags": [
-    "#1",
-    "car",
-    "little",
-    "red"
+    "#1"
   ],
-  "parents": [
+  "playlists": [
+    "colors"
   ],
   "genre": "pop",
   "debut": "1983-04",
-  "ranks": [
-    15.5,
-    9.2,
-    5.3,
-    4.6,
-    6.3
-  ],
   "artists": {
     "prince": true
   },

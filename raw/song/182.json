@@ -3,31 +3,16 @@
   "instanceSlug": 182,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop","adult-contemporary"],
   "debut": "1990-09",
-  "ranks": [
-    19.9,
-    11.7,
-    6.9,
-    5.5,
-    4.2,
-    4.4,
-    4.7,
-    8
-  ],
   "artists": {
     "breathe": true
   },
   "scores": [
-    0.003,
     0.18,
     0.356,
     0.431,
     0.521,
-    0.506,
-    0.484,
-    0.306
+    0.506
   ]
 }

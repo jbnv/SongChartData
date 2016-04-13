@@ -4,30 +4,18 @@
   "tags": [
   ],
   "playlists": [
-    "summer",
-    "streets"
+    "summer"
   ],
   "genre": "rock",
   "debut": "1992-06",
-  "ranks": [
-    19.9,
-    11.8,
-    7,
-    4.9,
-    4.7,
-    5.2,
-    5.9
-  ],
   "artists": {
     "tom-cochrane": true
   },
   "scores": [
-    0.003,
     0.177,
     0.351,
     0.47,
     0.484,
-    0.45,
-    0.408
+    0.45
   ]
 }

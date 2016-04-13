@@ -3,7 +3,7 @@
   "instanceSlug": 537,
   "tags": [
   ],
-  "genre": "latin-dance-1",
+  "genres": ["dance","latin-dance"],
   "debut": "1999-08",
   "playlists": ["anthem"
   ],

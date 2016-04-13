@@ -2,24 +2,21 @@
   "title": "Unchained Melody",
   "instanceSlug": 184,
   "tags": [
-    "chain",
-    "melody"
+    "chain"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop","adult-contemporary"],
+  "playlists":["ballad"],
   "debut": "1990-09",
-  "ranks": [
-    24.9,
-    15,
-    34.4,
-    98.4,
-    281.1
-  ],
   "artists": {
     "righteous-brothers": true
   },
   "scores": [
-    0.097
+    0.1,
+    0.15,
+    0.19,
+    0.21,
+    0.23,
+    0.25,
+    0.21
   ]
 }

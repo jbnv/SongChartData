@@ -6,21 +6,13 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "genre": [
+  "genres": [
     "adult-contemporary",
     "pop",
     "country"
   ],
   "debut": 1972,
   "playlists": [
-  ],
-  "ranks": [
-    14,
-    5,
-    2.5,
-    2.45,
-    2.52,
-    2.73
   ],
   "artists": {
     "mac-davis": true

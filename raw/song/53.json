@@ -3,31 +3,19 @@
   "instanceSlug": 53,
   "tags": [
     "#1",
-    "#1-hot-100",
-    "this-or-that"
+    "#1-hot-100"
   ],
   "source": "dangerous",
   "genre": "dance-pop",
   "debut": "1991-12",
-  "ranks": [
-    15,
-    8,
-    4,
-    3.2,
-    2.2,
-    2,
-    2.15,
-    2.35,
-    2.58,
-    2.92,
-    3.28
+  "playlists": [
+    "colors"
   ],
   "artists": {
     "michael-jackson": true
   },
   "scores": [
-    0.097,
-    0.306,
+    0.3,
     0.537,
     0.612,
     0.737,
@@ -36,6 +24,6 @@
     0.715,
     0.684,
     0.642,
-    0.604
+    0.6
   ]
 }

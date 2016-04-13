@@ -1,26 +1,17 @@
 {
   "title": "Wishing Well",
   "instanceSlug": 128,
-  "tags": [
-    "well",
-    "wish"
-  ],
-  "parents": [
-  ],
-  "genre": true,
+  "tags": [],
+  "genres": ["pop"],
   "debut": 1988,
-  "ranks": [
-    19.9,
-    12,
-    32.4,
-    88.3,
-    241
-  ],
   "artists": {
     "terrence-trent-d-arby": true
   },
   "scores": [
-    0.003,
-    0.171
+    0.171,
+    0.24,
+    0.31,
+    0.35,
+    0.21
   ]
 }

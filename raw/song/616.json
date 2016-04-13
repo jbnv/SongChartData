@@ -3,18 +3,9 @@
   "instanceSlug": 616,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop","adult-contemporary"],
   "debut": "1982-06",
-  "playlists": [
-  ],
-  "ranks": [
-    17,
-    9.9,
-    5.8,
-    6.2,
-    8.5
+  "playlists": ["summer"
   ],
   "artists": {
     "carla-bonoff": true
@@ -23,7 +14,9 @@
     0.055,
     0.235,
     0.414,
-    0.391,
-    0.286
+    0.445,
+    0.475,
+    0.476,
+    0.442
   ]
 }

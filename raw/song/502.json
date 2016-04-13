@@ -2,15 +2,10 @@
   "title": "Friends",
   "instanceSlug": 502,
   "tags": [
-    "friend"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop"],
   "debut": "1989-08",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "jody-watley": true

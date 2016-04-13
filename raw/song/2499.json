@@ -3,18 +3,10 @@
   "instanceSlug": 2499,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1983-07",
   "playlists": [
-  ],
-  "ranks": [
-    24,
-    15,
-    12,
-    10,
-    10.9
+    "colors"
   ],
   "artists": {
     "billy-idol": true

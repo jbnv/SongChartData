@@ -3,14 +3,11 @@
   "instanceSlug": 2692,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": [],
   "debut": 2005,
   "source": "rent-2005",
   "playlists": [
   ],
-  "ranks": true,
   "artists": {
     "rent": true
   }

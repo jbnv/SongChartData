@@ -1,31 +1,18 @@
 {
   "title": "Second Chance",
   "instanceSlug": 172,
-  "tags": [
-    "chance",
-    "second"
-  ],
-  "parents": [
-  ],
-  "genre": true,
+  "tags": [],
+  "genres": ["pop","adult-contemporary"],
   "debut": 1989,
-  "ranks": [
-    19.9,
-    10.4,
-    5.4,
-    2.8,
-    2.3,
-    3.3
-  ],
   "artists": {
     "38-special": true
   },
+  "playlists":["ballad"],
   "scores": [
-    0.003,
     0.219,
     0.437,
     0.656,
     0.722,
-    0.602
+    0.71
   ]
 }

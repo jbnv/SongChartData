@@ -3,19 +3,9 @@
   "instanceSlug": 657,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["urban"],
   "debut": "1982-09",
   "playlists": [
-  ],
-  "ranks": [
-    12,
-    6.6,
-    3.7,
-    2,
-    2.7,
-    3.8
   ],
   "artists": {
     "evelyn-king": true
@@ -25,7 +15,6 @@
     0.37,
     0.563,
     0.768,
-    0.668,
-    0.554
+    0.75
   ]
 }

@@ -7,10 +7,10 @@
   "debut": "1997-07",
   "source": "men-in-black",
   "playlists": [
+    "colors",
     "sample",
     "summer"
   ],
-  "ranks": true,
   "artists": {
     "will-smith": true
   },

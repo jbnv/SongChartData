@@ -6,13 +6,10 @@
     "#1-country",
     "#2-hot-100"
   ],
-  "parents": [
-  ],
-  "genre": "adult-contemporary",
+  "genres": ["country","adult-contemporary"],
   "debut": "1977-10",
   "playlists": [
-  ],
-  "ranks": [
+    "colors"
   ],
   "artists": {
     "crystal-gayle": true

@@ -3,28 +3,20 @@
   "instanceSlug": 633,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":[],
   "debut": 1987,
   "playlists": [
     "places"
-  ],
-  "ranks": [
-    15.5,
-    6.4,
-    6.6,
-    7.2,
-    8
   ],
   "artists": {
     "paul-simon": true
   },
   "scores": [
     0.086,
-    0.381,
-    0.37,
+    0.306,
     0.341,
-    0.306
+    0.37,
+    0.381,
+    0.373
   ]
 }

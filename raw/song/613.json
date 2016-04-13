@@ -2,31 +2,21 @@
   "title": "Early in the Morning",
   "instanceSlug": 613,
   "tags": [
-    "early",
-    "morning",
-    "this-in-that"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["urban"],
   "debut": "1982-06",
   "playlists": [
-  ],
-  "ranks": [
-    18,
-    11.5,
-    6.6,
-    5.8,
-    7.9
   ],
   "artists": {
     "gap-band": true
   },
   "scores": [
-    0.036,
     0.185,
-    0.37,
     0.414,
-    0.311
+    0.75,
+    0.81,
+    0.805,
+    0.795,
+    0.77
   ]
 }

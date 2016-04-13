@@ -4,27 +4,20 @@
   "tags": [
   ],
   "playlists": [
-    "months"
+    "months","ballad"
   ],
-  "genre": true,
+  "genres": ["rock"],
   "debut": "1992-08",
-  "ranks": [
-    13.9,
-    6.6,
-    5.5,
-    4.4,
-    4.7,
-    5.5
-  ],
   "artists": {
     "guns-n-roses": true
   },
   "scores": [
     0.122,
     0.37,
-    0.431,
     0.506,
-    0.484,
-    0.431
+    0.55,
+    0.58,
+    0.6,
+    0.59
   ]
 }

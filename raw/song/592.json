@@ -3,16 +3,13 @@
   "instanceSlug": 592,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["rock"],
   "debut": "1996-09",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "no-doubt": true
+    "no-doubt": true,
+    "gwen-stefani":"lead"
   },
   "scores": [
   ]

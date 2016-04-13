@@ -6,18 +6,9 @@
     "#2-hot-100",
     "non-english"
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1984-02",
-  "playlists": [
-  ],
-  "ranks": [
-    15.9,
-    9.2,
-    5.3,
-    4.6,
-    6
+  "playlists": ["german","war"
   ],
   "artists": {
     "nena": true

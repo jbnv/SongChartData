@@ -7,31 +7,18 @@
     "i'm-gonna",
     "miss-you"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1989-08",
   "playlists": [
-    "breakup feb13"
-  ],
-  "ranks": [
-    21,
-    14.8,
-    11.8,
-    11.5,
-    12.3,
-    14.2,
-    16.9
+    "breakup","feb13"
   ],
   "artists": {
     "milli-vanilli": true
   },
   "scores": [
-    0.101,
+    0.1,
     0.177,
     0.185,
-    0.163,
-    0.115,
-    0.057
+    0.163
   ]
 }

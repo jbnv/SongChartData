@@ -2,19 +2,15 @@
   "title": "Love is Like Oxygen",
   "instanceSlug": 388,
   "tags": [
-    "1978",
-    "analogy",
     "chemical-element",
-    "love",
     "love-is"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["rock"],
   "debut": 1978,
   "playlists": [
   ],
   "ranks": [
+    "analogy"
   ],
   "artists": {
     "sweet": true

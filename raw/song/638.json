@@ -3,13 +3,9 @@
   "instanceSlug": 638,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop"],
   "debut": "1986-10",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "corey-hart": true

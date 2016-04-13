@@ -2,21 +2,10 @@
   "title": "I Guess That's Why They Call It The Blues",
   "instanceSlug": 754,
   "tags": [
-    "blue"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1983-12",
-  "playlists": [
-  ],
-  "ranks": [
-    17.9,
-    10.4,
-    6.1,
-    5.4,
-    5.75,
-    7
+  "playlists": ["harmonica"
   ],
   "artists": {
     "elton-john": true,
@@ -24,8 +13,8 @@
   },
   "scores": [
     0.038,
-    0.219,
-    0.397,
+    0.22,
+    0.4,
     0.437,
     0.416,
     0.351

@@ -3,18 +3,12 @@
   "instanceSlug": 1741,
   "tags": [
   ],
-  "genre": "latin-dance",
+  "genres": [
+    "dance",
+    "latin-dance"
+  ],
   "debut": "1985-12",
   "playlists": [
-  ],
-  "ranks": [
-    18,
-    7.8,
-    5.9,
-    5.2,
-    5.4,
-    5.9,
-    7.2
   ],
   "artists": {
     "miami-sound-machine": true,

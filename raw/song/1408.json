@@ -5,16 +5,12 @@
     "new-york",
     "police"
   ],
-  "parents": [
-  ],
-  "genre": "pop-instrumental",
+  "genres": ["pop"],
   "debut": 1994,
   "source": "nypd-blue",
   "playlists": [
     "instrumental",
     "tv-theme"
-  ],
-  "ranks": [
   ],
   "artists": {
     "mike-post": true

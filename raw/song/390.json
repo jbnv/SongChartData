@@ -2,23 +2,10 @@
   "title": "Save the Best for Last",
   "instanceSlug": 390,
   "tags": [
-    "best",
-    "last",
-    "save"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop","adult-contemporary"],
   "debut": 1992,
-  "playlists": [
-  ],
-  "ranks": [
-    13.5,
-    8.4,
-    5.4,
-    2.8,
-    2.2,
-    2.5
+  "playlists": ["ballad"
   ],
   "artists": {
     "vanessa-williams": true

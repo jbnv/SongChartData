@@ -3,13 +3,9 @@
   "instanceSlug": 1165,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1991-03",
-  "playlists": [
-  ],
-  "ranks": [
+  "playlists": ["french","chant"
   ],
   "artists": {
     "enigma": true

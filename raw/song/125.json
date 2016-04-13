@@ -1,34 +1,17 @@
 {
   "title": "Looking for a New Love",
   "instanceSlug": 125,
-  "tags": [
-    "look",
-    "love",
-    "new"
-  ],
-  "parents": [
-  ],
-  "genre": true,
+  "tags": [],
+  "genres": ["pop"],
   "debut": 1987,
-  "ranks": [
-    19.9,
-    11.8,
-    7,
-    11.5,
-    19,
-    31.4,
-    51.7,
-    85.3,
-    140.5
-  ],
   "artists": {
     "jody-watley": true
   },
   "scores": [
-    0.003,
     0.177,
-    0.351,
-    0.185,
-    0.018
+    0.36,
+    0.42,
+    0.45,
+    0.44
   ]
 }

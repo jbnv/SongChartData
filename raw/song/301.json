@@ -2,27 +2,10 @@
   "title": "Everybody Have Fun Tonight",
   "instanceSlug": 301,
   "tags": [
-    "everybody",
-    "fun",
-    "tonight"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["pop"],
   "debut": "1986-11",
   "playlists": [
-  ],
-  "ranks": [
-    13.9,
-    6.9,
-    3.4,
-    1.6,
-    1,
-    1.5,
-    2.2,
-    3.2,
-    4.6,
-    6.7
   ],
   "artists": {
     "wang-chung": true
@@ -32,11 +15,7 @@
     0.356,
     0.592,
     0.843,
-    1,
     0.864,
-    0.737,
-    0.612,
-    0.491,
-    0.365
+    0.85
   ]
 }

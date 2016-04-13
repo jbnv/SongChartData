@@ -3,13 +3,9 @@
   "instanceSlug": 570,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["rock"],
   "debut": "1999-08",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "smashmouth": true

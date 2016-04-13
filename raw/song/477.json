@@ -2,16 +2,11 @@
   "title": "Black & White",
   "instanceSlug": 477,
   "tags": [
-    "black",
-    "white"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": [],
   "debut": 1972,
   "playlists": [
-  ],
-  "ranks": [
+    "colors"
   ],
   "artists": {
     "three-dog-night": true

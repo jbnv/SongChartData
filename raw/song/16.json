@@ -1,25 +1,9 @@
 {
   "title": "Heat of the Moment",
   "instanceSlug": 16,
-  "tags": [
-    "hot",
-    "moment"
-  ],
-  "parents": [
-  ],
-  "genre": true,
+  "tags": [],
+  "genres": ["rock"],
   "debut": 1982,
-  "ranks": [
-    17.9,
-    10.6,
-    6.2,
-    9.5,
-    15.8,
-    26.3,
-    43.7,
-    72.6,
-    120.5
-  ],
   "artists": {
     "asia": true
   },
@@ -27,7 +11,7 @@
     0.038,
     0.213,
     0.391,
-    0.249,
-    0.079
+    0.41,
+    0.4
   ]
 }

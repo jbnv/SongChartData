@@ -2,27 +2,11 @@
   "title": "Let Me Love You Tonight",
   "instanceSlug": 526,
   "tags": [
-    "let",
-    "let-me",
-    "love",
-    "me",
-    "tonight",
-    "you"
+    "let-me"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop","country"],
   "debut": "1980-05",
   "playlists": [
-  ],
-  "ranks": [
-    13.9,
-    7.6,
-    4.1,
-    2.2,
-    2.6,
-    3.6,
-    5.1
   ],
   "artists": {
     "pure-prairie-league": true
@@ -32,8 +16,6 @@
     0.323,
     0.529,
     0.737,
-    0.681,
-    0.573,
-    0.456
+    0.72
   ]
 }

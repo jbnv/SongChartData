@@ -3,26 +3,18 @@
   "instanceSlug": 639,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": "funk",
+  "genres": ["funk"],
   "debut": "1986-10",
   "playlists": [
     "pph"
-  ],
-  "ranks": [
-    14.5,
-    8.6,
-    6.5,
-    8.7
   ],
   "artists": {
     "cameo": true
   },
   "scores": [
-    0.108,
+    0.1,
     0.282,
     0.376,
-    0.278
+    0.35
   ]
 }

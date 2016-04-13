@@ -2,15 +2,10 @@
   "title": "One",
   "instanceSlug": 520,
   "tags": [
-    "one"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres": ["pop"],
   "debut": "1989-08",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "bee-gees": true

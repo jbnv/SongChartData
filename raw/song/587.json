@@ -3,30 +3,20 @@
   "instanceSlug": 587,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["pop","adult-contemporary"],
   "debut": "1996-09",
   "playlists": [
     "places"
-  ],
-  "ranks": [
-    15,
-    8.3,
-    4.6,
-    2.5,
-    3.4,
-    4.7
   ],
   "artists": {
     "amanda-marshall": true
   },
   "scores": [
-    0.097,
-    0.294,
-    0.491,
-    0.694,
-    0.592,
-    0.484
+    0.3,
+    0.7,
+    0.75,
+    0.8,
+    0.82,
+    0.81
   ]
 }

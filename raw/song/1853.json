@@ -3,16 +3,14 @@
   "instanceSlug": 1853,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": "pop-",
+  "genre": "pop",
   "debut": "1978-08",
   "source": "grease",
   "playlists": [
     "ballad"
   ],
-  "ranks": true,
   "artists": {
     "olivia-newton-john": true
-  }
+  },
+  "scores":[]
 }

@@ -3,21 +3,10 @@
   "instanceSlug": 278,
   "tags": [
   ],
-  "parents": [
+  "genres": ["pop"
   ],
-  "genre": true,
   "debut": "1986-08",
   "playlists": [
-  ],
-  "ranks": [
-    18,
-    11.4,
-    6.5,
-    5.3,
-    5.4,
-    5.5,
-    6.2,
-    7
   ],
   "artists": {
     "paul-mccartney": true
@@ -27,9 +16,6 @@
     0.188,
     0.376,
     0.444,
-    0.437,
-    0.431,
-    0.391,
-    0.351
+    0.437
   ]
 }

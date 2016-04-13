@@ -2,20 +2,11 @@
   "title": "Black Balloon",
   "instanceSlug": 565,
   "tags": [
-    "balloon",
-    "black"
   ],
-  "parents": [
-  ],
-  "genre": true,
+  "genres":["rock"],
   "debut": "1999-08",
   "playlists": [
-  ],
-  "ranks": [
-    17,
-    11.7,
-    6.8,
-    8.8
+    "colors"
   ],
   "artists": {
     "goo-goo-dolls": true
@@ -23,7 +14,11 @@
   "scores": [
     0.055,
     0.18,
+    0.275,
     0.361,
-    0.275
+    0.39,
+    0.41,
+    0.42,
+    0.40
   ]
 }
