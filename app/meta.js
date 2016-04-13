@@ -5,7 +5,7 @@ var fs = require('fs'),
 function folders(dir) {
   return fs.readdirSync(dir)
       .filter(function(file){
-        return fs.statSync(path.join(dir, file)).isDirectory();
+        return fs.statSync(path.join(dir, ""+file)).isDirectory();
       });
 };
 
@@ -23,7 +23,7 @@ function _getObject(groupSlug,typeSlug,instanceSlug) {
     if (!typeSlug) return null;
     if (!instanceSlug) return null;
 
-    var filepath = path.join(root,groupSlug,typeSlug,""+instanceSlug+".json");
+    var filepath = path.join(root,""+groupSlug,""+typeSlug,""+instanceSlug+".json");
     var text = fs.readFileSync(filepath);
     if (!text || text === "") return null;
 
