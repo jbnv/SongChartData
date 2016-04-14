@@ -168,12 +168,15 @@ exports.aggregateCollection = function() {
 // collection: Particular collection from which to get the rankings.
 // prefix: A prefix to add to the slug to make the ranking slug.
 exports.rankEntities = function(entityList,collection,prefix) {
-
   Object.keys(collection).forEach(function(listKey) {
     _sortAndRank(collection[listKey]);
     collection[listKey].forEach(function(item) {
-      itemEntity = entityList.filter(function(e) { return e.instanceSlug === item.instanceSlug; })[0];
+  //console.log(prefix,listKey,item); //TEMP
+      itemEntity = entityList.filter(function(e) {
+        return e.instanceSlug === item.instanceSlug;
+      })[0];
       if (itemEntity) {
+        if (!itemEntity.ranks) itemEntity.ranks = {};
         itemEntity.ranks[prefix+":"+listKey] = {
           "rank":item.rank,
           "total":collection[listKey].length
