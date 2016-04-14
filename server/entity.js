@@ -30,6 +30,24 @@ module.exports = function(parameters,app) {
     functions.getSomeByDetailSlug(slugs,"tags")
   );
 
+  app.get("/"+slugs.pluralSlug+"/sample/:count", function(req, res) {
+    console.log("GET "+req.originalUrl);
+
+    count = req.params.count;
+    if (!count) { res.send({}); return; }
+
+    content = meta.getCompiledCollection(slugs.storageSlug)();
+
+    content.items.forEach(function(item) {
+      item.selector = Math.log(1+item.score) * Math.random();
+    });
+    content.items = content.items
+      .sort(function(a,b) { return b.selector - a.selector; })
+      .slice(0,count);
+
+    res.send(content);
+  });
+
   var itemExpression = "^\\/"+slugs.singularSlug+"\\/([a-z0-9-]+)$";
 
   app.get(new RegExp(itemExpression), functions.getOne(slugs));
