@@ -112,8 +112,8 @@ module.exports = function(gulp,model) {
 
       (compiled_content_as_object.errors || []).forEach(function(error) {
         util.log(
+          chalk.magenta(error.typeSlug),
           chalk.blue(error.instanceSlug),
-          chalk.red(error.stage),
           error.error
         );
       });
