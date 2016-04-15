@@ -12,10 +12,20 @@
   "source": "grease",
   "playlists": [
   ],
-  "ranks": true,
   "artists": {
     "john-travolta": true,
     "olivia-newton-john": true,
     "grease": "backup"
-  }
+  },
+  "scores": [
+    0.12,
+    0.25,
+    0.34,
+    0.41,
+    0.47,
+    0.52,
+    0.55,
+    0.54,
+    0.47
+  ],
 }
