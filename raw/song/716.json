@@ -8,18 +8,13 @@
   "playlists": [
     "protest"
   ],
-  "ranks": [
-    30,
-    31
-  ],
   "artists": {
     "michael-jackson": true
   },
   "genres": [
     "pop"
   ],
-  "source": null,
   "rank": 2740,
-  "scores": [
+  "scores": [0
   ]
 }

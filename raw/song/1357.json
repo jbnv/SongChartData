@@ -2,22 +2,23 @@
   "title": "A Girl Like You",
   "instanceSlug": 1357,
   "tags": [
-    "girl",
-    "girl-like-you",
-    "like",
-    "you"
-  ],
-  "parents": [
+    "girl-like-you"
   ],
   "genre": "pop",
   "debut": "1995-11",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
     "edwin-collins": true
   },
   "scores": [
+    0.12,
+    0.36,
+    0.45,
+    0.48,
+    0.5,
+    0.51,
+    0.52,
+    0.505
   ]
 }

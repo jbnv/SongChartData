@@ -3,17 +3,19 @@
   "instanceSlug": 1257,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 1990,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "robert-palmer": true
   },
   "scores": [
+    0.15,
+    0.31,
+    0.45,
+    0.52,
+    0.55,
+    0.54
   ]
 }
