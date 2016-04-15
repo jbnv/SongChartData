@@ -6,6 +6,8 @@ var chalk       = require("chalk"),
     util        = require("gulp-util"),
 
     readEntity  = require("../../lib/fs").readEntity,
+    lookupEntity = require("../../lib/fs").lookupEntity,
+    lookupEntities = require("../../lib/fs").lookupEntities,
 
     meta        = require('../meta'),
     scoring     = require('../scoring');
@@ -15,13 +17,16 @@ module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-genre.js"));
 
   titles = {};
-  var artists = readEntity(path.join("compiled","artist","by-genre"));
-  var songs = readEntity(path.join("compiled","song","by-genre"));
+  errors = [];
+
+  var artists = meta.getCompiledObject("artist","by-genre")();
+  var songs = meta.getCompiledObject("song","by-genre")();
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
 
-    entity.artists = artists[entity.instanceSlug] || [];
+    entity.artists = lookupEntities(artists[slug] || [],"artist",errors);
+
     entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
     scoring.scoreCollection.call(entity);
 
@@ -42,5 +47,6 @@ module.exports = function(yargs,entities) {
   return {
     "all": entities,
     "titles": titles,
+    "errors":errors
   }
 }

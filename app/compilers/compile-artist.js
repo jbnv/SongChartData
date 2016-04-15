@@ -38,7 +38,7 @@ module.exports = function(yargs,entities) {
     if (entity.tags) {
       entity.tags.forEach(function(tag) {
         if (!tags[tag]) tags[tag] = [];
-        tags[tag].push(slug);
+        tags[tag].push(entity);
       });
       entity.tags = lookupEntities(entity.tags,"tag");
     } else {
@@ -55,7 +55,7 @@ module.exports = function(yargs,entities) {
 
     if (entity.origin) {
         if (!origins[entity.origin]) origins[entity.origin] = [];
-        origins[entity.origin].push(slug);
+        origins[entity.origin].push(entity);
         entity.origin = lookupEntity(entity.origin,"geo");
     }
 
@@ -84,6 +84,17 @@ module.exports = function(yargs,entities) {
     );
 
   });
+
+  /* Calculate song rankings on all terms.*/
+
+  util.log("Ranking by genre.");
+  scoring.rankEntities(entities,genres,"genre");
+
+  util.log("Ranking by origin.");
+  scoring.rankEntities(entities,origins,"origin");
+
+  util.log("Ranking by tag.");
+  scoring.rankEntities(entities,tags,"tag");
 
   return {
     "all": scoring.sortAndRank(entities,transform.sortBySongAdjustedAverage),

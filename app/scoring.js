@@ -171,7 +171,6 @@ exports.rankEntities = function(entityList,collection,prefix) {
   Object.keys(collection).forEach(function(listKey) {
     _sortAndRank(collection[listKey]);
     collection[listKey].forEach(function(item) {
-  //console.log(prefix,listKey,item); //TEMP
       itemEntity = entityList.filter(function(e) {
         return e.instanceSlug === item.instanceSlug;
       })[0];
