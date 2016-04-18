@@ -41,14 +41,12 @@ module.exports = function(yargs,entities) {
         tags[tag].push(entity);
       });
       entity.tags = lookupEntities(entity.tags,"tag");
-    } else {
-      entity.tags = [];
     }
 
     if (entity.genres) {
       entity.genres.forEach(function(genreSlug) {
         if (!genres[genreSlug]) genres[genreSlug] = [];
-        genres[genreSlug].push(slug);
+        genres[genreSlug].push(entity);
       });
       entity.genres = lookupEntities(entity.genres,"genre");
     }
@@ -96,8 +94,12 @@ module.exports = function(yargs,entities) {
   util.log("Ranking by tag.");
   scoring.rankEntities(entities,tags,"tag");
 
+  util.log("Artist processing complete.");
+
+  entities = scoring.sortAndRank(entities,transform.sortBySongAdjustedAverage);
+
   return {
-    "all": scoring.sortAndRank(entities,transform.sortBySongAdjustedAverage),
+    "all": entities,
     "titles": titles,
     "by-genre": genres,
     "by-origin": origins,
