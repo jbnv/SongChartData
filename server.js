@@ -1,9 +1,11 @@
 var app  = require("express")(),
+    bodyParser = require('body-parser'),
     cors = require('cors');
 
-var entityRoute = require("./server/entity");
+    entityRoute = require("./server/entity");
 
 app.use(cors()); // Enable all CORS requests.
+app.use(bodyParser.json()); // Parse application/json.
 
 //region Routes.
 
@@ -19,6 +21,8 @@ entityRoute("tag",app);
 require("./server/grep")(app);
 require("./server/search")(app);
 require("./server/summary")(app);
+
+require("./server/swap-song-scores")(app);
 
 // Catch-all.
 app.use(function(req,res) {
