@@ -9,39 +9,20 @@ var chalk       = require("chalk"),
 
     meta        = require('./app/meta');
 
-  var readdir = function(dir) {
-    var deferred = q.defer();
-    fs.readdir(dir, function (err, data) {
-      if (err) {deferred.reject(err)}
-      else { deferred.resolve(data) }
-    });
-    return deferred.promise;
-  };
-
-  function readFile(dir) {
-    return function(filename) {
-      var deferred = q.defer();
-      fs.readFile(path.join(dir,filename), 'utf-8', function (err, data) {
-        if (err) {deferred.reject(err)}
-        else { deferred.resolve(data) }
-      });
-      return deferred.promise;
-    };
-  };
-
-  function parse(json) {
-    var outbound = {};
-    try {
-      outbound = JSON.parse(json);
-    } catch(err) {
-      util.log(chalk.red(err.message),json);
+var readdir = function(dir) {
+  var deferred = q.defer();
+  fs.readdir(dir, function (err, data) {
+    if (err) {deferred.reject(err)}
+    else {
+      deferred.resolve(data);
     }
-    return outbound;
-  }
+  });
+  return deferred.promise;
+};
 
 var typeSlug = process.argv[2];
 if (!typeSlug) {
-  console.log("No type specified!");
+  util.log(chalk.red("ERROR"),"No type specified!");
   return;
 }
 
@@ -50,13 +31,37 @@ var destination_directory = path.join(meta.compiledRoot,typeSlug);
 util.log("compile-"+typeSlug+": /raw/"+typeSlug+" -> /compiled/"+typeSlug);
 
 readdir(source_directory)
+
 .then(function (filenames) {
   util.log("Read "+filenames.length+" files.");
-  var promises = filenames.map(readFile(source_directory));
+  var promises = filenames.map(function(filename) {
+    var instanceSlug = filename.replace(".json","");
+    var deferred = q.defer();
+    fs.readFile(path.join(source_directory,filename), 'utf-8', function (err, data) {
+      if (err) {
+        deferred.resolve({
+          "instanceSlug":instanceSlug,
+          "stage":"readFile",
+          "error":err
+        });
+        return;
+      }
+      try {
+        deferred.resolve(JSON.parse(data));
+      } catch(parseErr) {
+        deferred.resolve({
+          "instanceSlug":instanceSlug,
+          "stage":"parse",
+          "error":parseErr
+        });
+      }
+    });
+    return deferred.promise;
+  });
   return q.all(promises);
 })
-.then(function(entityFileTexts) {
-  var entities = entityFileTexts.map(parse);
+
+.then(function(entities) {
   var compiled_content_as_object = require("./app/compilers/compile-"+typeSlug)(null,entities);
 
   for (var key in compiled_content_as_object) {
@@ -92,5 +97,8 @@ readdir(source_directory)
 
 })
 .catch(function (error) {
-  util.log("ERROR:",error);
+  util.log(
+    chalk.red("ERROR"),
+    error
+  );
 });
