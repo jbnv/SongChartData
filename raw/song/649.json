@@ -1,18 +1,1 @@
-{
-  "title": "Rapture",
-  "instanceSlug": 649,
-  "tags": [
-  ],
-  "parents": [
-  ],
-  "debut": 1986,
-  "playlists": [
-  ],
-  "ranks": [
-  ],
-  "artists": {
-    "anita-baker": true
-  },
-  "scores": [
-  ]
-}
+{"title":"Rapture","instanceSlug":649,"tags":[],"parents":[],"debut":1986,"playlists":[],"ranks":[],"artists":{"anita-baker":true},"scores":[0.113,0.294,0.4325,0.5115,0.581,0.569,0.5615,0.549,0.5315000000000001,0.509,0.4815,0.449,0.4115,0.369,0.3215,0.269,0.21150000000000002,0.149,0.0815,0.019,0]}

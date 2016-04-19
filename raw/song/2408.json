@@ -1,19 +1,16 @@
 {
   "title": "Someone Saved My Life Tonight",
   "instanceSlug": 2408,
-  "tags": [
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "pop",
   "debut": 1975,
-  "playlists": [
-  ],
-  "ranks": [
-  ],
+  "ranks": [],
   "artists": {
     "elton-john": true
   },
   "scores": [
+    0.116,
+    0.56,
+    0.55
   ]
 }

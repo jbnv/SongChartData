@@ -1,16 +1,1 @@
-{
-  "title": "Super Freak",
-  "instanceSlug": 2363,
-  "tags": [
-  ],
-  "genre": "funk",
-  "debut": "1981-09",
-  "playlists": [
-  ],
-  "artists": {
-    "rick-james": true,
-    "temptations": "backup"
-  },
-  "scores": [
-  ]
-}
+{"title":"Super Freak","instanceSlug":2363,"tags":[],"genre":"funk","debut":"1981-09","playlists":[],"artists":{"rick-james":true,"temptations":"backup"},"scores":[0.117,0.055,0.05,0.04,0.025,0.005,0]}

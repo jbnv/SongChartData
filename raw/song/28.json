@@ -1,16 +1,1 @@
-{
-  "title": "Bad Company",
-  "instanceSlug": 28,
-  "tags": [
-  ],
-  "parents": [
-  ],
-  "debut": "1970s",
-  "ranks": [
-  ],
-  "artists": {
-    "bad-company": true
-  },
-  "scores": [
-  ]
-}
+{"title":"Bad Company","instanceSlug":28,"tags":[],"parents":[],"debut":"1970s","ranks":[],"artists":{"bad-company":true},"scores":[0.036,0.12,0.171,0.158,0.12,0.115,0.105,0.09,0.07,0.045,0.015,0]}

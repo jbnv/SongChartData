@@ -1,18 +1,1 @@
-{
-  "title": "Red Solo Cup",
-  "instanceSlug": 2064,
-  "tags": [
-  ],
-  "genre": "country",
-  "debut": "2011-10",
-  "playlists": [
-    "colors","novelty"
-  ],
-  "ranks": [
-  ],
-  "artists": {
-    "toby-keith": true
-  },
-  "scores": [
-  ]
-}
+{"title":"Red Solo Cup","instanceSlug":2064,"tags":[],"genre":"country","debut":"2011-10","playlists":["colors","novelty"],"ranks":[],"artists":{"toby-keith":true},"scores":[0.086,0.302,0.408,0.45,0.444,0.419,0.351,0.346,0.336,0.321,0.301,0.276,0.246,0.211,0.171,0.126,0.076,0.021,0]}

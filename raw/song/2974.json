@@ -3,17 +3,19 @@
   "instanceSlug": 2974,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "soft-rock",
   "debut": "1978-05",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "steely-dan": true
+    "steely-dan": true,
+    "donald-fagen":"lead"
   },
   "scores": [
+    0.122,
+    0.462,
+    0.59,
+    0.687,
+    0.67
   ]
 }
