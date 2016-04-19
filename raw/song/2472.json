@@ -13,8 +13,13 @@
   "source": "sgt-pepper-s-lonely-hearts-club-band",
   "playlists": [
   ],
-  "ranks": true,
   "artists": {
     "earth-wind-fire": true
-  }
+  },
+  "scores":[
+    0.25,
+    0.531,
+    0.72,
+    0.708
+  ]
 }

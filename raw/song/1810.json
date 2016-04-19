@@ -1,19 +1,20 @@
 {
   "title": "Hold On Loosely",
   "instanceSlug": 1810,
-  "tags": [
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "rock",
   "debut": "1981-04",
-  "playlists": [
-  ],
-  "ranks": [
-  ],
+  "playlists": [],
   "artists": {
     "38-special": true
   },
   "scores": [
+    0.25,
+    0.68,
+    0.81,
+    0.83,
+    0.85,
+    0.84,
+    0.808
   ]
 }

@@ -12,11 +12,14 @@
   "debut": "1981-12",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
     "eddie-rabbitt": true
   },
   "scores": [
+    0.36,
+    0.61,
+    0.82,
+    0.85,
+    0.84
   ]
 }

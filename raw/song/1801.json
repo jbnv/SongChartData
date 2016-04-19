@@ -3,8 +3,6 @@
   "instanceSlug": 1801,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1981-03",
   "playlists": [
@@ -15,5 +13,12 @@
     "dan-fogelberg": true
   },
   "scores": [
+    0.175,
+    0.355,
+    0.555,
+    0.73,
+    0.725,
+    0.715,
+    0.695
   ]
 }

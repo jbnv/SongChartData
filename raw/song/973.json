@@ -3,17 +3,18 @@
   "instanceSlug": 973,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "dance",
   "debut": 1984,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "madonna": true
   },
   "scores": [
+    0.146,
+    0.41,
+    0.455,
+    0.444,
+    0.433
   ]
 }

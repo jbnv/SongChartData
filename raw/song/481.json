@@ -3,27 +3,18 @@
   "instanceSlug": 481,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1979-03",
   "playlists": [
-  ],
-  "ranks": [
-    14.7,
-    5.7,
-    3.1,
-    2.9,
-    3.4
   ],
   "artists": {
     "billy-joel": true
   },
   "scores": [
-    0.104,
-    0.419,
-    0.622,
+    0.26,
     0.645,
-    0.592
+    0.78,
+    0.87,
+    0.85
   ]
 }

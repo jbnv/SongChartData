@@ -1,15 +1,11 @@
 {
   "title": "Erotica",
   "instanceSlug": 48,
+  "debut":"1992",
   "tags": [
-  ],
-  "parents": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "madonna": true
   },
-  "scores": [
-  ]
+  "scores": [0 ]
 }

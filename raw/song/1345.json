@@ -2,9 +2,6 @@
   "title": "I Go To Extremes",
   "instanceSlug": 1345,
   "tags": [
-    "extreme",
-    "go",
-    "i"
   ],
   "parents": [
   ],
@@ -12,11 +9,14 @@
   "debut": "1990-02",
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
     "billy-joel": true
   },
   "scores": [
+    0.4,
+    0.75,
+    0.87,
+    0.91,
+    0.895
   ]
 }

@@ -5,17 +5,19 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genre": "funk",
   "debut": "1977-12",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "earth-wind-fire": true
   },
   "scores": [
+    0.337,
+    0.54,
+    0.66,
+    0.67,
+    0.68,
+    0.64
   ]
 }

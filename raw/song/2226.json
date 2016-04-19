@@ -4,18 +4,20 @@
   "tags": [
     "#1"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 1971,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "paul-mccartney": true,
     "linda-mccartney": true
   },
   "scores": [
+    0.19,
+    0.31,
+    0.40,
+    0.44,
+    0.45,
+    0.431
   ]
 }

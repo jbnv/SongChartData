@@ -8,18 +8,20 @@
     "#1-r&b",
     "remade"
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1981-08",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "diana-ross": true,
     "lionel-richie": true
   },
   "scores": [
+    0.35,
+    0.55,
+    0.72,
+    0.75,
+    0.77,
+    0.75
   ]
 }

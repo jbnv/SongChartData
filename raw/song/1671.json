@@ -3,18 +3,20 @@
   "instanceSlug": 1671,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1978-11",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "billy-joel": true,
     "peter-cetera": "backup"
   },
   "scores": [
+    0.15,
+    0.35,
+    0.55,
+    0.71,
+    0.78,
+    0.77
   ]
 }

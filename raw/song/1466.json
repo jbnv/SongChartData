@@ -7,13 +7,6 @@
   "debut": "1964",
   "playlists": [
   ],
-  "ranks": [
-    20,
-    10,
-    8,
-    6,
-    6.5
-  ],
   "artists": {
     "beatles": true,
     "john-lennon": "member",
@@ -22,10 +15,12 @@
     "ringo-starr": "member"
   },
   "scores": [
-    0.001,
     0.232,
-    0.306,
-    0.402,
-    0.376
+    0.3,
+    0.4,
+    0.45,
+    0.47,
+    0.475,
+    0.465
   ]
 }

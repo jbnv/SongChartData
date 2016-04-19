@@ -6,18 +6,19 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 1973,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "carly-simon": true,
     "mick-jagger": "backup"
   },
   "scores": [
+    0.1,
+    0.35,
+    0.52,
+    0.61,
+    0.57
   ]
 }

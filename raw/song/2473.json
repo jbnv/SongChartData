@@ -3,18 +3,21 @@
   "instanceSlug": 2473,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": "1979-06",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "earth-wind-fire": true,
     "emotions": "feature"
   },
   "scores": [
+    0.35,
+    0.552,
+    0.651,
+    0.672,
+    0.687,
+    0.681,
+    0.665
   ]
 }

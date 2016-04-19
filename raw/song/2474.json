@@ -3,8 +3,6 @@
   "instanceSlug": 2474,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1981-06",
   "playlists": [
@@ -15,5 +13,11 @@
     "sheena-easton": true
   },
   "scores": [
+    0.3,
+    0.5,
+    0.7,
+    0.8,
+    0.85,
+    0.84
   ]
 }

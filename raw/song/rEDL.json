@@ -1,1 +1,24 @@
-{"title":"Seven Year Ache","instanceSlug":"rEDL","tags":["#1","#1-country"],"parents":[],"genre":"country","debut":"1981-06","playlists":[],"scores":[],"artists":{"rosemary-cash":true}}
+{
+  "title": "Seven Year Ache",
+  "instanceSlug": "rEDL",
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "genre": "country",
+  "debut": "1981-06",
+  "playlists": ["summer"],
+  "artists": {
+    "rosemary-cash": true
+  },
+  "scores": [
+    0.43,
+    0.63,
+    0.79,
+    0.82,
+    0.815,
+    0.805,
+    0.795,
+    0.77
+  ]
+}

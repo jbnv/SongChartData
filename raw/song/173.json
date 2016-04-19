@@ -3,8 +3,6 @@
   "instanceSlug": 173,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1983-12",
   "ranks": [
@@ -13,5 +11,11 @@
     "madonna": true
   },
   "scores": [
+    0.148,
+    0.41,
+    0.465,
+    0.47,
+    0.465,
+    0.43
   ]
 }

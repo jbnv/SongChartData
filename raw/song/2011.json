@@ -3,17 +3,20 @@
   "instanceSlug": 2011,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "blues",
   "debut": "1981-04",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "eric-clapton": true
   },
   "scores": [
+    0.355,
+    0.57,
+    0.75,
+    0.8,
+    0.81,
+    0.82,
+    0.805
   ]
 }

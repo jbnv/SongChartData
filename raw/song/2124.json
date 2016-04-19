@@ -3,17 +3,21 @@
   "instanceSlug": 2124,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1985-07",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "madonna": true
   },
   "scores": [
+    0.25,
+    0.51,
+    0.69,
+    0.75,
+    0.76,
+    0.75,
+    0.73,
+    0.7
   ]
 }

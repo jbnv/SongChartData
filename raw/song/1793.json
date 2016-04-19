@@ -3,17 +3,19 @@
   "instanceSlug": 1793,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1981-03",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "leo-sayre": true
   },
   "scores": [
+    0.215,
+    0.355,
+    0.736,
+    0.795,
+    0.815,
+    0.795
   ]
 }

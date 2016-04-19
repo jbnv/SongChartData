@@ -5,17 +5,20 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1981-11",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "koolnthegang": true
   },
   "scores": [
+    0.355,
+    0.65,
+    0.77,
+    0.8,
+    0.81,
+    0.82,
+    0.79
   ]
 }

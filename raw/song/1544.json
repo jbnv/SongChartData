@@ -5,17 +5,20 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genre": "soul",
   "debut": "1981-11",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "earth-wind-fire": true
   },
   "scores": [
+    0.11,
+    0.25,
+    0.631,
+    0.69,
+    0.71,
+    0.73,
+    0.71
   ]
 }

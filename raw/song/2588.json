@@ -3,17 +3,19 @@
   "instanceSlug": 2588,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "country",
   "debut": "1981-03",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "terri-gibbs": true
   },
   "scores": [
+    0.25,
+    0.51,
+    0.71,
+    0.74,
+    0.77,
+    0.76
   ]
 }

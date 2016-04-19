@@ -3,13 +3,9 @@
   "instanceSlug": 2232,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": 1975,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "wings": true,
@@ -17,5 +13,12 @@
     "linda-mccartney":"member"
   },
   "scores": [
+    0.19,
+    0.51,
+    0.59,
+    0.65,
+    0.71,
+    0.74,
+    0.73
   ]
 }

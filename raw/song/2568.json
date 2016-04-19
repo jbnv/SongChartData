@@ -3,13 +3,9 @@
   "instanceSlug": 2568,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1979-01",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "rolling-stones": true,
@@ -17,5 +13,11 @@
     "keith-richards":"member"
   },
   "scores": [
+    0.1,
+    0.3,
+    0.5,
+    0.55,
+    0.56,
+    0.53
   ]
 }

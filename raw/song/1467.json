@@ -2,11 +2,6 @@
   "title": "I Feel Fine",
   "instanceSlug": 1467,
   "tags": [
-    "feel",
-    "fine",
-    "i"
-  ],
-  "parents": [
   ],
   "genre": "rock",
   "debut": "1960s",
@@ -15,8 +10,17 @@
   "ranks": [
   ],
   "artists": {
-    "beatles": true
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
   },
   "scores": [
+    0.21,
+    0.33,
+    0.44,
+    0.45,
+    0.42
   ]
 }

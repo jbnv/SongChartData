@@ -3,17 +3,18 @@
   "instanceSlug": 1833,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1988-02",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "madonna": true
   },
   "scores": [
+    0.15,
+    0.25,
+    0.31,
+    0.32,
+    0.31
   ]
 }

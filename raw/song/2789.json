@@ -6,17 +6,18 @@
     "#1-adult-contemporary",
     "#1-hot-100"
   ],
-  "parents": [
-  ],
   "genre": "adult-contemporary",
   "debut": 1974,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "olivia-newton-john": true
   },
   "scores": [
+    0.15,
+    0.335,
+    0.40,
+    0.42,
+    0.41
   ]
 }
