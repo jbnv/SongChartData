@@ -4,7 +4,7 @@ var chalk       = require("chalk"),
     path        = require("path"),
     q           = require("q"),
     vfs         = require("vinyl-fs"),
-    yargs       = require('yargs'),
+    yargs       = require('yargs');
 
 // node commit.js <type> [-r|--raw] [-m <message>]
 
