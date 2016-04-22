@@ -3,27 +3,23 @@
   "instanceSlug": 865,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rock",
   "debut": "1991-08",
   "playlists": [
     "summer"
-  ],
-  "ranks": [
-    9,
-    2.6,
-    1.75,
-    1.89
   ],
   "artists": {
     "rem": true,
     "kate-pierson": true
   },
   "scores": [
-    0.267,
+    0.3,
     0.681,
     0.813,
-    0.787
+    0.845,
+    0.87,
+    0.88,
+    0.875,
+    0.825
   ]
 }

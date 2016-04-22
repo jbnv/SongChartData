@@ -3,28 +3,19 @@
   "instanceSlug": 314,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 1993,
   "playlists": [
     "summer"
   ],
-  "ranks": [
-    10,
-    2.7,
-    1.4,
-    1.1,
-    1.35
-  ],
   "artists": {
     "jeremy-jordan": true
   },
   "scores": [
-    0.232,
     0.668,
     0.887,
-    0.968,
-    0.899
+    1,
+    0.989,
+    0.968
   ]
 }

@@ -12,7 +12,10 @@
   ],
   "artists": {
     "time": true,
-    "morris-day":"lead"
+    "morris-day":"lead",
+    "jimmy-jam":"member",
+    "terry-lewis":"member",
+    "prince":"producer"
   },
   "scores": [
     0.2,

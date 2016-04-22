@@ -3,8 +3,6 @@
   "instanceSlug": 490,
   "tags": [
   ],
-  "parents": [
-  ],
   "debut": 2008,
   "playlists": [
     "and"
@@ -15,5 +13,9 @@
     "katy-perry": true
   },
   "scores": [
+    0.108,
+    0.645,
+    0.654,
+    0.625
   ]
 }

@@ -5,17 +5,20 @@
     "#1",
     "#1-rdwt40-hot-adult"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 2013,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "katy-perry": true
   },
   "scores": [
+    0.125,
+    0.654,
+    0.671,
+    0.666,
+    0.661,
+    0.652,
+    0.635
   ]
 }

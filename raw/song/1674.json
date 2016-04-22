@@ -3,8 +3,6 @@
   "instanceSlug": 1674,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "disco",
   "debut": 1979,
   "playlists": [
@@ -16,5 +14,15 @@
     "amy-stewart": true
   },
   "scores": [
+    0.045,
+    0.219,
+    0.29,
+    0.39,
+    0.44,
+    0.465,
+    0.475,
+    0.481,
+    0.485,
+    0.475
   ]
 }

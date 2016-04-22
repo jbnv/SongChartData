@@ -2,13 +2,14 @@
   "title": "Oak Tree",
   "instanceSlug": "y6ny",
   "tags": [],
-  "parents": [],
   "playlists": [],
   "genre": "funk-dance",
   "debut": "1985",
   "artists": {
     "time": true,
-    "morris-day": "lead"
+    "morris-day": "lead",
+    "jimmy-jam":"member",
+    "terry-lewis":"member"
   },
   "scores": [
     0.09,

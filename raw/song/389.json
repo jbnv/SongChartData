@@ -6,27 +6,21 @@
     "#1-hot-100",
     "#1-modern-rock"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1990-04",
   "playlists": [
   ],
-  "ranks": [
-    17,
-    12,
-    10,
-    8,
-    9.3
-  ],
   "artists": {
-    "sinead-o-connor": true
+    "sinead-o-connor": true,
+    "prince":"writer"
   },
   "scores": [
     0.055,
     0.171,
     0.232,
     0.306,
-    0.256
+    0.35,
+    0.38,
+    0.35
   ]
 }

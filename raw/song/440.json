@@ -1,24 +1,15 @@
 {
   "title": "The Glamorous Life",
   "instanceSlug": 440,
-  "tags": [
-  ],
-  "parents": [
+  "tags": ["sax"
   ],
   "genre": "dance",
   "debut": "1984-08",
   "playlists": [
   ],
-  "ranks": [
-    13,
-    7,
-    3.8,
-    2,
-    1.9,
-    2.5
-  ],
   "artists": {
-    "sheila-e": true
+    "sheila-e": true,
+    "prince":"writer"
   },
   "scores": [
     0.145,
@@ -26,6 +17,8 @@
     0.554,
     0.768,
     0.786,
-    0.694
+    0.782,
+    0.774,
+    0.761
   ]
 }

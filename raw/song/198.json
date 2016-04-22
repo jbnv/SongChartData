@@ -12,7 +12,10 @@
   "debut": "1990-08",
   "artists": {
     "time": true,
-    "morris-day": "lead"
+    "morris-day": "lead",
+    "jimmy-jam":"member",
+    "terry-lewis":"member",
+    "prince":"writer"
   },
   "scores": [
     0.1,
