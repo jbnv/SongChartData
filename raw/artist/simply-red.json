@@ -1,1 +1,12 @@
-{"title":"Simply Red","instanceSlug":"simply-red","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Simply Red",
+  "instanceSlug": "simply-red",
+  "tags": [],
+  "genres": ["pop","soul","adult-contemporary"],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": ""
+}
