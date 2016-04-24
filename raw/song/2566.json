@@ -7,20 +7,18 @@
   "debut": 1974,
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
     "rolling-stones": true,
     "mick-jagger":"lead",
     "keith-richards":"member"
   },
   "scores": [
-    0.048,
-    0.211,
-    0.335,
-    0.452,
-    0.478,
-    0.475,
-    0.464
+    0.068,
+    0.231,
+    0.355,
+    0.472,
+    0.498,
+    0.495,
+    0.484
   ]
 }

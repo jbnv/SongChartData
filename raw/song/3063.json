@@ -1,1 +1,21 @@
-{"title":"Hypnotize Me","instanceSlug":3063,"tags":[],"parents":[],"genre":"pop","debut":"1987-07","playlists":["summer"],"ranks":[],"artists":{"wang-chung":true},"scores":[0.1335,0.4465,0.796,0.9099999999999999,0.9039999999999999,0.8795,0.857,0.823,0.813,0.798,0.778,0.753,0.723,0.688,0.648,0.603,0.5529999999999999,0.498,0.438,0.373,0.303,0.22799999999999998,0.148,0.0655,0.023,0]}
+{
+  "title": "Hypnotize Me",
+  "instanceSlug": 3063,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1987-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [],
+  "artists": {
+    "wang-chung": true
+  },
+  "scores": [
+    0.1335,
+    0.4465,
+    0.65,
+    0.67,0.66
+  ]
+}

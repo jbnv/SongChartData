@@ -5,17 +5,19 @@
     "#1",
     "#1-hot-100"
   ],
-  "parents": [
-  ],
   "genre": "adult-contemporary",
   "debut": "1986-05",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "simply-red": true
   },
   "scores": [
+    0.075,
+      0.15,
+      0.3,
+      0.35,
+      0.337,
+      0.322
   ]
 }

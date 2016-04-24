@@ -8,23 +8,14 @@
   ],
   "genre": "adult-contemporary",
   "debut": "1987-06",
-  "ranks": [
-    15,
-    3.1,
-    1.9,
-    1.5,
-    1.7,
-    2.04
-  ],
   "artists": {
     "bruce-hornsby-the-range": true
   },
   "scores": [
-    0.097,
-    0.622,
+    0.522,
     0.786,
-    0.864,
-    0.823,
-    0.762
+    0.914,
+    0.903,
+    0.892
   ]
 }
