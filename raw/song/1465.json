@@ -1,26 +1,16 @@
 {
   "title": "Can't Buy Me Love",
   "instanceSlug": 1465,
-  "tags": [
+  "tags": ["#1","#1-hot-100"
   ],
   "genre": "rock",
-  "debut": "1960s",
+  "debut": "1964",
   "playlists": [
-  ],
-  "ranks": [
-    17,
-    9,
-    5,
-    4.5,
-    4.6,
-    4.9,
-    5.3,
-    5.9
   ],
   "artists": {
     "beatles": true,
     "john-lennon": "member",
-    "paul-mccartney": "member",
+    "paul-mccartney": "lead",
     "george-harrison": "member",
     "ringo-starr": "member"
   },
@@ -28,10 +18,8 @@
     0.055,
     0.267,
     0.463,
-    0.498,
-    0.491,
-    0.47,
-    0.444,
-    0.408
+    0.54,
+    0.55,
+    0.542
   ]
 }

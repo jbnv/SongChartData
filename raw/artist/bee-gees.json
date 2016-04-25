@@ -1,14 +1,14 @@
 {
   "title": "Bee Gees",
   "instanceSlug": "bee-gees",
-  "tags": ["hof","1970s"],
-  "genres": [],
+  "tags": ["hof","1970s","family"],
+  "genres": ["pop","disco","adult-contemporary"],
   "members": [
     "robin-gibb","barry-gibb","maurice-gibb"
   ],
-  "origin": "uk",
+  "origin": "manchester",
   "birth": "",
   "death": "",
-  "complete": false,
+  "complete": true,
   "type": "mmm"
 }

@@ -3,17 +3,20 @@
   "instanceSlug": 3069,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "2015-07",
-  "playlists": [
-  ],
-  "ranks": [
+  "playlists": ["summer"
   ],
   "artists": {
     "hozier": true
   },
   "scores": [
+    0.1,
+    0.25,
+    0.35,
+    0.4,
+    0.41,
+    0.42,
+    0.405
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "title": "He's a Liar",
+  "instanceSlug": "rzbr",
+  "tags": [],
+  "debut": "1981-10",
+  "playlists": [],
+  "scores": [
+    0.15,
+    0.75,
+    0.81,
+    0.84,
+    0.87,
+    0.86
+  ],
+  "artists": {
+    "bee-gees": true,
+    "robin-gibb": "member",
+    "barry-gibb": "member",
+    "maurice-gibb": "member"
+  }
+}

@@ -6,23 +6,14 @@
     "#1-hot-100"
   ],
   "genres": [
-    "pop"
+    "pop","adult-contemporary"
   ],
-  "debut": 1988,
-  "ranks": [
-    12,
-    2,
-    1.5,
-    1.61,
-    1.74,
-    1.92,
-    2.2
-  ],
+  "debut": "1988-02",
   "artists": {
     "george-michael": true
   },
   "scores": [
-    0.171,
+    0.45,
     0.768,
     0.864,
     0.841,

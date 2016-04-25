@@ -1,0 +1,26 @@
+{
+  "title": "Stayin' Alive",
+  "instanceSlug": "gnKv",
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [],
+  "debut": "1978-01",
+  "source": "saturday-night-fever",
+  "playlists": ["falsetto"
+  ],
+  "scores": [
+    0.09,
+    0.52,
+    0.65,
+    0.67,
+    0.652
+  ],
+  "artists": {
+    "bee-gees": true,
+    "robin-gibb": "member",
+    "barry-gibb": "member",
+    "maurice-gibb": "member"
+  }
+}

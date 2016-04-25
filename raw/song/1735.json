@@ -3,17 +3,9 @@
   "instanceSlug": 1735,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1994-03",
-  "playlists": [
-  ],
-  "ranks": [
-    13,
-    4,
-    1.33,
-    1.49
+  "playlists": ["falsetto"
   ],
   "artists": {
     "prince": true

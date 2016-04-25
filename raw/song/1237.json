@@ -1,34 +1,26 @@
 {
-  "title": "The Long and Winding Road",
+  "title": "Long and Winding Road, The",
   "instanceSlug": 1237,
-  "tags": [
+  "tags": ["#1","#1-hot-100"
   ],
-  "genre": "pop",
+  "genres":[ "pop","adult-contemporary"],
   "debut": 1970,
   "playlists": [
   ],
-  "ranks": [
-    22,
-    15,
-    12,
-    10,
-    9,
-    8,
-    8.6
-  ],
+  "source":"let-it-be",
   "artists": {
     "beatles": true,
-    "paul-mccartney": "lead",
     "john-lennon": "member",
+    "paul-mccartney": "lead",
     "george-harrison": "member",
     "ringo-starr": "member"
   },
   "scores": [
-    0.097,
+    0.1,
     0.171,
     0.232,
     0.267,
-    0.306,
+    0.3,
     0.282
   ]
 }

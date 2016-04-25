@@ -1,1 +1,12 @@
-{"title":"World Party","instanceSlug":"world-party","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "World Party",
+  "instanceSlug": "world-party",
+  "tags": [],
+  "type": "m",
+  "genres": [],
+  "xref": [],
+  "complete": false,
+  "origin": "london",
+  "birth": "",
+  "death": ""
+}

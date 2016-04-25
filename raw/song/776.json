@@ -1,29 +1,20 @@
 {
-  "title": "That's What Makes You Beautiful",
+  "title": "What Makes You Beautiful",
   "instanceSlug": 776,
   "tags": [
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "2010s",
   "playlists": [
   ],
-  "ranks": [
-    15,
-    8.7,
-    5,
-    4.7,
-    6.5
-  ],
   "artists": {
-    "one-direction": true
+    "one-direction": true,
+    "niall-horan":"member","liam-payne":"member","harry-styles":"member","louis-tomlinson":"member","zayn-malik":"member"
   },
   "scores": [
-    0.097,
-    0.278,
-    0.463,
-    0.484,
-    0.376
+    0.378,
+    0.563,
+    0.76,
+    0.75
   ]
 }

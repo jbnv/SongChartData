@@ -1,13 +1,11 @@
 {
   "title": "I Feel Fine",
   "instanceSlug": 1467,
-  "tags": [
+  "tags": ["#1","#1-hot-100"
   ],
   "genre": "rock",
-  "debut": "1960s",
+  "debut": "1964",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "beatles": true,

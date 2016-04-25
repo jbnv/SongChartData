@@ -1,1 +1,12 @@
-{"title":"Wham","instanceSlug":"wham","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Wham!",
+  "instanceSlug": "wham",
+  "tags": ["1980s"],
+  "type":"mm",
+  "genres": ["pop","adult-contemporary","dance-pop"],
+  "members": ["george-michael"],
+  "complete": true,
+  "origin": "england",
+  "birth": "1980s",
+  "death": "1986"
+}

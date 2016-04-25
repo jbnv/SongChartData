@@ -1,31 +1,24 @@
 {
   "title": "How Deep Is Your Love",
   "instanceSlug": 1861,
-  "tags": [
+  "tags": ["#1","#1-hot-100",
+    "#1-adult-contemporary"
   ],
   "parents": [
   ],
   "genre": "pop",
-  "debut": 1978,
+  "debut": "1977-10",
+  "source":"saturday-night-fever",
   "playlists": [
   ],
-  "ranks": [
-    14.2,
-    2.7,
-    2.4,
-    2.2,
-    2.5,
-    3.3
-  ],
   "artists": {
-    "bee-gees": true
+    "bee-gees": true,
+    "robin-gibb":"member","barry-gibb":"member","maurice-gibb":"member"
   },
   "scores": [
-    0.115,
-    0.668,
-    0.708,
+    0.39,
     0.737,
-    0.694,
-    0.602
+    0.93,
+    0.925
   ]
 }

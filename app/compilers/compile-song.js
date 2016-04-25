@@ -74,6 +74,7 @@ module.exports = function(yargs,entities) {
           case "backup": entityClone.scoreFactor = 0.10; break;
           case "writer": entityClone.scoreFactor = 1.00; break;
           case "producer": entityClone.scoreFactor = 0.20; break;
+          case "sample": entityClone.scoreFactor = 0.1; break;
           default: entityClone.scoreFactor = 0.25;
         }
         if (entityClone.score) entityClone.score *= entityClone.scoreFactor;

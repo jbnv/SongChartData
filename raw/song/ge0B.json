@@ -1,0 +1,30 @@
+{
+  "title": "Night Fever",
+  "instanceSlug": "ge0B",
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "debut": "1978-02",
+  "source": "saturday-night-fever",
+  "playlists": ["falsetto"
+  ],
+  "scores": [
+    0.075,
+    0.50,
+    0.63,
+    0.66,
+    0.652,
+    0.649,
+    0.641,
+    0.633,
+    0.625,
+    0.615
+  ],
+  "artists": {
+    "bee-gees": true,
+    "robin-gibb": "member",
+    "barry-gibb": "member",
+    "maurice-gibb": "member"
+  }
+}
