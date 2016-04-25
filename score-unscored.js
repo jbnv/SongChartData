@@ -57,7 +57,8 @@ artists.forEach(function(artist) {
   songsTransformedCount += unscoredSongs.length;
 
   for (var i in newScores) {
-    newScores[i] /= scoredSongCount;
+    var average = newScores[i] / scoredSongCount;
+    newScores[i] = average / (2-average);
   }
 
   unscoredSongs.forEach(function(song) {
