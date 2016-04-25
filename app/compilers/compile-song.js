@@ -46,7 +46,10 @@ module.exports = function(yargs,entities) {
       errors = [];
 
   entities.forEach(function(entity) {
+    if (entity.error) { errors.push(entity); return; }
+
     var slug = entity.instanceSlug;
+    if (!slug) return;
 
     entity.ranks = {};
     titles[entity.instanceSlug] = entity.title;
@@ -122,7 +125,10 @@ module.exports = function(yargs,entities) {
       if (era.decade) { pushToCollection(decades,""+era.decade+"s",entity); }
       if (era.year) { pushToCollection(years,era.year,entity); }
       //TEMP Month push needs to actually put the song in all months to which is is scoreed.
-      if (era.month) { pushToCollection(months,entity.debut,entity); }
+      if (era.month) {
+        // Loop through the scores
+        pushToCollection(months,entity.debut,entity);
+      }
     }
 
     if ((entity.scores || []).length == 0) unscored.push(entity);
