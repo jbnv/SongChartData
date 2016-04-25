@@ -1,1 +1,12 @@
-{"title":"Wang Chung","instanceSlug":"wang-chung","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Wang Chung",
+  "instanceSlug": "wang-chung",
+  "tags": [],
+  "genres": ["pop-rock"],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "london",
+  "birth": "1980s",
+  "death": ""
+}

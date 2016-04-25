@@ -1,0 +1,15 @@
+{
+  "title": "And I Love Her",
+  "instanceSlug": "VgM0",
+  "tags": [],
+  "debut": 1964,
+  "playlists": [],
+  "scores": [],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+}

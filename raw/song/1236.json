@@ -1,16 +1,18 @@
 {
   "title": "Let It Be",
   "instanceSlug": 1236,
-  "tags": [
+  "tags": ["#1","#1-hot-100",
+    "#1-adult-contemporary"
   ],
-  "genre": "pop",
+  "genres":[ "pop","adult-contemporary"],
   "debut": 1970,
   "playlists": [
   ],
+  "source":"let-it-be",
   "artists": {
     "beatles": true,
     "john-lennon": "member",
-    "paul-mccartney": "member",
+    "paul-mccartney": "lead",
     "george-harrison": "member",
     "ringo-starr": "member"
   },

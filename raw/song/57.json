@@ -2,9 +2,9 @@
   "title": "Kiss",
   "instanceSlug": 57,
   "tags": [
-    "#1"
+    "#1","#1-hot-100"
   ],
-  "parents": [
+  "playlists": ["falsetto"
   ],
   "genre": "pop",
   "debut": "1986-03",
@@ -12,9 +12,5 @@
     "prince": true
   },
   "scores": [
-    0.025,
-    0.12,
-    0.171,
-    0.15
   ]
 }

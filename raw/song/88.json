@@ -2,35 +2,19 @@
   "title": "Let's Go",
   "instanceSlug": 88,
   "tags": [
-    "go",
-    "let's",
     "let's-go"
   ],
-  "parents": [
-  ],
   "genre": "pop",
-  "debut": 1987,
-  "ranks": [
-    13,
-    4,
-    1,
-    1.07,
-    1.18,
-    1.31,
-    1.48,
-    1.76
-  ],
+  "debut": "1987-02",
   "artists": {
     "wang-chung": true
   },
   "scores": [
-    0.145,
     0.537,
     1,
     0.977,
     0.944,
     0.909,
-    0.869,
-    0.811
+    0.869
   ]
 }

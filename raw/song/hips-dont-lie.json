@@ -5,16 +5,16 @@
     "#1",
     "#1-hot-100"
   ],
-  "parents": [
-  ],
   "debut": "2006-05",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "shakira": true
   },
   "scores": [
+    0.543,
+    0.91,
+    0.87,
+    0.863
   ]
 }

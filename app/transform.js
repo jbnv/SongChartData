@@ -36,3 +36,25 @@ exports.objectToArray = function(obj) {
   }
   return outbound;
 }
+
+exports.sortAndRank = function(list,options) {
+
+  if (!list) return [];
+
+  if (!options) options = {};
+  if (!options.sortFn) options.sortFn = transform.sortByScore;
+
+  var outbound = [];
+  if (options.filterFn) {
+    outbound = list.sort(options.sortFn);
+  } else {
+    outbound = list.filter(filterFn).sort(options.sortFn);
+  }
+
+  outbound.forEach(function(item,index) {
+    if (!item.ranks) item.ranks = {};
+    item.ranks[options.rankField] = index + 1;
+  });
+
+  return outbound;
+}

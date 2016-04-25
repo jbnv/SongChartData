@@ -1,1 +1,15 @@
-{"title":"George Michael","instanceSlug":"george-michael","tags":["1980s","1990s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"uk","birth":"","death":"","type":"m"}
+{
+  "title": "George Michael",
+  "instanceSlug": "george-michael",
+  "tags": [
+    "1980s",
+    "1990s"
+  ],
+  "genres": ["pop","adult-contemporary","dance-pop"],
+  "xref": ["wham"],
+  "complete": true,
+  "origin": "england",
+  "birth": "1963-06",
+  "death": "",
+  "type": "m"
+}

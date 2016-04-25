@@ -1,20 +1,11 @@
 {
-  "title": "Goodbye Hello",
+  "title": "Hello Goodbye",
   "instanceSlug": 1469,
-  "tags": [
+  "tags": ["#1","#1-hot-100"
   ],
   "genre": "pop",
-  "debut": "1960s",
+  "debut": "1967",
   "playlists": [
-  ],
-  "ranks": [
-    19,
-    11,
-    8,
-    6,
-    5,
-    5.2,
-    5.9
   ],
   "artists": {
     "beatles": true,
@@ -24,12 +15,10 @@
     "ringo-starr": "member"
   },
   "scores": [
-    0.018,
     0.2,
     0.306,
     0.402,
     0.463,
-    0.45,
-    0.408
+    0.45
   ]
 }

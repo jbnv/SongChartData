@@ -1,20 +1,11 @@
 {
   "title": "Come Together",
   "instanceSlug": 1470,
-  "tags": [
+  "tags": ["#1","#1-hot-100"
   ],
   "genre": "rock",
-  "debut": "1960s",
+  "debut": "1969",
   "playlists": [
-  ],
-  "ranks": [
-    21,
-    14,
-    10,
-    8,
-    8.4,
-    9.2,
-    10.5
   ],
   "artists": {
     "beatles": true,

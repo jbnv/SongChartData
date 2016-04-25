@@ -1,18 +1,11 @@
 {
   "title": "A Hard Day's Night",
   "instanceSlug": 1178,
-  "tags": [
+  "tags": ["#1","#1-hot-100"
   ],
   "genre": "pop",
   "debut": 1964,
   "playlists": [
-  ],
-  "ranks": [
-    17,
-    9,
-    5.5,
-    3,
-    3.4
   ],
   "artists": {
     "beatles": true,

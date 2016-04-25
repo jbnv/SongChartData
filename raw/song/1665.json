@@ -1,1 +1,26 @@
-{"title":"Love You Inside Out","instanceSlug":1665,"tags":[],"parents":[],"genre":"disco","debut":1979,"playlists":[],"ranks":[],"artists":{"bee-gees":true},"scores":[0.115,0.668,0.708,0.737,0.694,0.602,0.597,0.587,0.572,0.552,0.527,0.497,0.462,0.422,0.377,0.327,0.272,0.212,0.147,0.077,0.002,0]}
+{
+  "title": "Love You Inside Out",
+  "instanceSlug": 1665,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "disco",
+  "debut": "1979-05",
+  "playlists": [
+    "falsetto"
+  ],
+  "artists": {
+    "bee-gees": true,
+    "robin-gibb": "member",
+    "barry-gibb": "member",
+    "maurice-gibb": "member"
+  },
+  "scores": [
+    0.115,
+    0.708,
+    0.78,
+    0.82,
+    0.81
+  ]
+}
