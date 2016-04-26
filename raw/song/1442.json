@@ -3,23 +3,14 @@
   "instanceSlug": 1442,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "dance",
   "debut": "1999-11",
-  "playlists": [
-  ],
-  "ranks": [
-    3.8,
-    1.04,
-    1.12,
-    1.2,
-    1.4,
-    2
+  "playlists": ["sample"
   ],
   "artists": {
     "will-smith": true,
-    "k-ci": "feature"
+    "k-ci": "feature",
+    "clash":"sample"
   },
   "note": "Project 4 weeks at #1 but rapid descent.",
   "scores": [

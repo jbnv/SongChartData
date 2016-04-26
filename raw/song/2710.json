@@ -6,17 +6,20 @@
     "#1-hot-100",
     "sample"
   ],
-  "parents": [
-  ],
   "genre": "dance-pop",
   "debut": 2006,
   "playlists": [
   ],
-  "ranks": [
-  ],
   "artists": {
-    "rihanna": true
+    "rihanna": true,
+    "soft-cell":"sample"
   },
   "scores": [
+    0.25,
+    0.45,
+    0.7,
+    0.77,
+    0.78,
+    0.77
   ]
 }

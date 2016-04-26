@@ -5,18 +5,20 @@
     "#1",
     "#1-country"
   ],
-  "parents": [
-  ],
   "genre": "country",
   "debut": 2003,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "alan-jackson": true,
     "jimmy-buffett": true
   },
   "scores": [
+    0.15,
+    0.35,
+    0.6,
+    0.67,
+    0.68,
+    0.67
   ]
 }

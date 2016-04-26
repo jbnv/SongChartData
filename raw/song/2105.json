@@ -3,8 +3,6 @@
   "instanceSlug": 2105,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "country",
   "debut": "1984-01",
   "playlists": [
@@ -15,5 +13,12 @@
     "deborah-allen": true
   },
   "scores": [
+    0.10,
+    0.262,
+    0.442,
+    0.541,
+    0.562,
+    0.559,
+    0.55
   ]
 }

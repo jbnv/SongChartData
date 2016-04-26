@@ -5,17 +5,20 @@
     "#1",
     "#1-adult-contemporary"
   ],
-  "parents": [
-  ],
+  "parents": [],
   "genre": "pop",
   "debut": 1975,
-  "playlists": [
-  ],
-  "ranks": [
-  ],
+  "playlists": [],
+  "ranks": [],
   "artists": {
     "barry-manilow": true
   },
   "scores": [
+    0.15,
+    0.35,
+    0.6,
+    0.67,
+    0.68,
+    0.67
   ]
 }

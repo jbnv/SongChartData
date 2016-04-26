@@ -3,17 +3,19 @@
   "instanceSlug": 1190,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rap",
   "debut": "1990s",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "beastie-boys": true
   },
   "scores": [
+    0.3,
+    0.5,
+    0.75,
+    0.82,
+    0.83,
+    0.82
   ]
 }

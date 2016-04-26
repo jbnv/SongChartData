@@ -2,17 +2,20 @@
   "title": "Beats So Lonely",
   "instanceSlug": 82,
   "tags": [
-    "beat",
-    "lonely",
     "one-hit-wonders"
   ],
-  "parents": [
-  ],
-  "ranks": [
+  "debut": "1986",
+  "genres": ["pop"
   ],
   "artists": {
     "charlie-sexton": true
   },
   "scores": [
+    0.05,
+    0.272,
+    0.471,
+    0.492,
+    0.5,
+    0.49
   ]
 }

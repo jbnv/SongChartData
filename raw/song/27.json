@@ -3,15 +3,20 @@
   "instanceSlug": 27,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": "",
-  "debut": "",
+  "genre": "rock",
+  "debut": "1980s",
   "ranks": [
   ],
   "artists": {
     "george-thurogood-the-destroyers": true
   },
   "scores": [
+    0.15,
+    0.372,
+    0.471,
+    0.492,
+    0.509,
+    0.52,
+    0.5
   ]
 }

@@ -3,8 +3,6 @@
   "instanceSlug": 2712,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 2007,
   "playlists": [
@@ -15,5 +13,11 @@
     "rihanna": true
   },
   "scores": [
+    0.25,
+    0.45,
+    0.7,
+    0.77,
+    0.78,
+    0.77
   ]
 }

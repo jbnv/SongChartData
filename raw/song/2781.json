@@ -5,13 +5,9 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": "1985-02",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "new-edition": true,
@@ -22,10 +18,10 @@
     "michael-bivins":"member"
   },
   "scores": [
-    0.077,
-    0.31,
-    0.52,
-    0.563,
-    0.551
+    0.127,
+    0.36,
+    0.57,
+    0.613,
+    0.601
   ]
 }

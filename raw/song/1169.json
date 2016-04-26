@@ -3,17 +3,20 @@
   "instanceSlug": 1169,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "rap",
-  "debut": "1991-05-1",
+  "debut": "1991-05",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "ll-cool-j": true
   },
   "scores": [
+    0.08,
+    0.242,
+    0.422,
+    0.521,
+    0.542,
+    0.539,
+    0.530
   ]
 }

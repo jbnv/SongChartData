@@ -12,7 +12,8 @@
     "summer"
   ],
   "artists": {
-    "will-smith": true
+    "will-smith": true,
+    "patrice-rushen":"backup"
   },
   "scores": [
     0.12,
