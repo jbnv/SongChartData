@@ -136,11 +136,11 @@ module.exports = function(yargs,entities) {
 
     numeral.zeroFormat("");
 
-    util.log(
-      chalk.blue(entity.instanceSlug),
-      entity.title,
-      chalk.gray(numeral(entity.score).format("0.00"))
-    );
+    // util.log(
+    //   chalk.blue(entity.instanceSlug),
+    //   entity.title,
+    //   chalk.gray(numeral(entity.score).format("0.00"))
+    // );
 
   });
 

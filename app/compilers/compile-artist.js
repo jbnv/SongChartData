@@ -73,13 +73,13 @@ module.exports = function(yargs,entities) {
 
     numeral.zeroFormat("");
 
-    util.log(
-      chalk.blue(entity.instanceSlug),
-      entity.title,
-      chalk.gray(numeral(entity.songs.length).format("0")),
-      chalk.gray(numeral(entity.score || 0).format("0.00")),
-      chalk.gray(numeral(entity.songAdjustedAverage || 0).format("0.00"))
-    );
+    // util.log(
+    //   chalk.blue(entity.instanceSlug),
+    //   entity.title,
+    //   chalk.gray(numeral(entity.songs.length).format("0")),
+    //   chalk.gray(numeral(entity.score || 0).format("0.00")),
+    //   chalk.gray(numeral(entity.songAdjustedAverage || 0).format("0.00"))
+    // );
 
   });
 
