@@ -3,27 +3,19 @@
   "instanceSlug": 529,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1985-08",
   "playlists": [
-  ],
-  "ranks": [
-    16,
-    9,
-    5,
-    3,
-    4
   ],
   "artists": {
     "billy-joel": true
   },
   "scores": [
-    0.075,
-    0.267,
-    0.463,
-    0.633,
-    0.537
+    0.17,
+    0.513,
+    0.65,
+    0.7,
+    0.71,
+    0.695
   ]
 }

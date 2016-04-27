@@ -1,0 +1,26 @@
+{
+  "title": "When I Need You",
+  "instanceSlug": "wxR2",
+  "tags": [
+    "#1-adult-contemporary",
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1977,
+  "playlists": [
+    "ballad"
+  ],
+  "scores": [
+    0.065,
+    0.405,
+    0.556,
+    0.645,
+    0.665,
+    0.645
+  ],
+  "artists": {
+    "leo-sayer": true
+  }
+}

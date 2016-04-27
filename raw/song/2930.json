@@ -2,8 +2,9 @@
   "title": "Men in Black",
   "instanceSlug": 2930,
   "tags": [
+    "#1","#1-airplay"
   ],
-  "genre": "urban",
+  "genre": "pop",
   "debut": "1997-07",
   "source": "men-in-black",
   "playlists": [
@@ -13,7 +14,7 @@
   ],
   "artists": {
     "will-smith": true,
-    "patrice-rushen":"backup"
+    "patrice-rushen":"sample"
   },
   "scores": [
     0.12,
