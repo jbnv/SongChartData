@@ -1,0 +1,19 @@
+{
+  "title": "Love Never Felt So Good",
+  "instanceSlug": "Zxwm",
+  "tags": [],
+  "genres": [
+    "disco",
+    "soul"
+  ],
+  "debut": 2014,
+  "playlists": [],
+  "scores": [],
+  "artists": {
+    "michael-jackson": true,
+    "justin-timberlake":true,
+    "paul-anka": "writer",
+    "kathleen-wakefield": "writer",
+    "timbaland":"producer"
+  }
+}

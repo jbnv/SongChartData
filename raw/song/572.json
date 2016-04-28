@@ -3,22 +3,13 @@
   "instanceSlug": 572,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "parody",
   "debut": 1988,
-  "playlists": [
-  ],
-  "ranks": [
-    16,
-    10.5,
-    5.5,
-    2.9,
-    2.6,
-    3.3
+  "playlists": ["eating"
   ],
   "artists": {
-    "weird-al-yankovic": true
+    "weird-al-yankovic": true,
+    "michael-jackson":"writer"
   },
   "scores": [
     0.075,
