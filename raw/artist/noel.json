@@ -1,1 +1,12 @@
-{"title":"Noel","instanceSlug":"noel","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Noel",
+  "instanceSlug": "noel",
+  "type":"m",
+  "tags": [],
+  "genres": ["dance"],
+  "complete": true,
+  "active": false,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

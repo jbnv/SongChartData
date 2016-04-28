@@ -1,1 +1,17 @@
-{"title":"Michael Bolton","instanceSlug":"michael-bolton","tags":["1980s","1990s"],"parents":[],"genres":["adult-contemporary"],"members":[],"xref":[],"complete":true,"origin":"connecticut","birth":1954,"death":"","type":"m"}
+{
+  "title": "Michael Bolton",
+  "instanceSlug": "michael-bolton",
+  "tags": [
+    "1980s",
+    "1990s","singer","songwriter"
+  ],
+  "genres": [
+    "adult-contemporary"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "connecticut",
+  "birth": 1954,
+  "death": "",
+  "type": "m"
+}
