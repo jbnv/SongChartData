@@ -7,16 +7,16 @@
   "debut": "1987-08",
   "artists": {
     "dionne-warwick": true,
-    "jeffrey-osborne": true
+    "jeffrey-osborne": true,
+    "carol-bayer-sager":"writer"
   },
   "scores": [
-    0.055,
     0.239,
     0.419,
     0.47,
-    0.484,
-    0.498,
-    0.513,
-    0.47
+    0.584,
+    0.7,
+    0.72,
+    0.68
   ]
 }

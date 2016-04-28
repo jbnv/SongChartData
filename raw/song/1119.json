@@ -3,35 +3,19 @@
   "instanceSlug": 1119,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": 1987,
   "playlists": [
   ],
-  "ranks": [
-    15,
-    6.5,
-    3.5,
-    2.5,
-    2.3,
-    2.5,
-    2.8,
-    3.2,
-    3.8
-  ],
   "artists": {
-    "kim-wilde": true
+    "kim-wilde": true,
+    "hdh":"writer"
   },
   "scores": [
-    0.097,
     0.376,
     0.582,
     0.694,
     0.722,
-    0.694,
-    0.656,
-    0.612,
-    0.554
+    0.694
   ]
 }

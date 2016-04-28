@@ -9,12 +9,11 @@
   "genre": "pop",
   "debut": 1977,
   "source": "spy-who-loved-me",
-  "playlists": [
-  ],
-  "ranks": [
+  "playlists": ["james-bond"
   ],
   "artists": {
-    "carly-simon": true
+    "carly-simon": true,
+    "carol-bayer-sager":"writer"
   },
   "scores": [
     0.35,

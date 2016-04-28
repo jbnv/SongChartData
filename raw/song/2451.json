@@ -1,1 +1,22 @@
-{"title":"A View to a Kill","instanceSlug":2451,"tags":[],"parents":[],"genre":"rock","debut":"1985-06","source":"a-view-to-a-kill","playlists":["james-bond"],"ranks":[],"artists":{"duran-duran":true},"scores":[0.11,0.37637499999999996,0.536,0.5767500000000001,0.529375,0.50975,0.49025,0.4655,0.449875,0.42925,0.40462499999999996,0.3783750000000001,0.34775000000000006,0.31275,0.27337500000000003,0.229625,0.18574999999999997,0.14675,0.109,0.073625,0.043625,0.01175,0]}
+{
+  "title": "A View to a Kill",
+  "instanceSlug": 2451,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1985-06",
+  "source": "a-view-to-a-kill",
+  "playlists": [
+    "james-bond"
+  ],
+  "artists": {
+    "duran-duran": true,
+    "simon-lebon":"lead"
+  },
+  "scores": [
+    0.10,
+    0.35,
+    0.52,
+    0.54,
+    0.529
+  ]
+}

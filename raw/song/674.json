@@ -5,22 +5,13 @@
     "heart",
     "light"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1982-09",
   "playlists": [
   ],
-  "ranks": [
-    17,
-    9.6,
-    5.4,
-    3.7,
-    5.1,
-    7.1
-  ],
   "artists": {
-    "neil-diamond": true
+    "neil-diamond": true,
+    "carol-bayer-sager":"writer"
   },
   "scores": [
     0.055,
