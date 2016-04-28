@@ -9,17 +9,14 @@
     "breakup",
     "feb13"
   ],
-  "ranks": [
-    4,
-    1,
-    1.07
-  ],
   "artists": {
     "cliff-richard": true
   },
   "scores": [
-    0.537,
+    0.8,
     1,
-    0.977
+    0.989,
+    0.977,
+    0.945
   ]
 }

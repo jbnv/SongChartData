@@ -7,32 +7,21 @@
     "missing-you",
     "miss-you"
   ],
-  "parents": [
-  ],
   "genre": "adult-contemporary",
   "debut": "1992-02",
   "playlists": [
-  ],
-  "ranks": [
-    14,
-    8,
-    5,
-    3.4,
-    2.9,
-    2.5,
-    2.95
   ],
   "artists": {
     "michael-bolton": true,
     "kenny-g": "feature"
   },
   "scores": [
-    0.12,
-    0.306,
-    0.463,
-    0.592,
-    0.645,
-    0.694,
-    0.639
+      0.12,
+      0.306,
+      0.463,
+      0.592,
+      0.645,
+      0.694,
+      0.639
   ]
 }

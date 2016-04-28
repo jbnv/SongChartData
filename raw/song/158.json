@@ -1,19 +1,18 @@
 {
-  "title": "Stop in the Name of Love",
+  "title": "Stop! In the Name of Love",
   "instanceSlug": 158,
-  "tags": [
-    "1960s",
-    "love",
-    "name",
-    "stop"
-  ],
-  "parents": [
-  ],
-  "ranks": [
-  ],
+  "debut": "1965",
+  "tags": [],
   "artists": {
-    "supremes": true
+    "supremes": true,
+    "diana-ross": "lead",
+    "hdh":"writer"
   },
   "scores": [
+    0.1,
+    0.241,
+    0.351,
+    0.365,
+    0.357
   ]
 }

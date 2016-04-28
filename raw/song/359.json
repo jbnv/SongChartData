@@ -2,31 +2,21 @@
   "title": "Is There Something I Should Know",
   "instanceSlug": 359,
   "tags": [
-    "i",
-    "know",
-    "something"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1983-07",
   "playlists": [
   ],
-  "ranks": [
-    7.9,
-    1.2,
-    1.1,
-    1.34,
-    1.8
-  ],
   "artists": {
-    "duran-duran": true
+    "duran-duran": true,
+    "simon-lebon":"lead"
   },
   "scores": [
     0.311,
-    0.939,
     0.968,
-    0.902,
-    0.804
+    0.961,
+    0.952,
+    0.939,
+    0.921
   ]
 }

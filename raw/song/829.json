@@ -3,18 +3,10 @@
   "instanceSlug": 829,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "country",
   "debut": 1979,
   "playlists": [
     "places"
-  ],
-  "ranks": [
-    9,
-    1,
-    1.1,
-    1.25
   ],
   "artists": {
     "charlie-daniels": true
@@ -22,7 +14,10 @@
   "scores": [
     0.267,
     1,
+    0.992,
+    0.985,
     0.968,
+    0.948,
     0.925
   ]
 }

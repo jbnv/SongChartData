@@ -9,7 +9,8 @@
     "summer"
   ],
   "artists": {
-    "duran-duran": true
+    "duran-duran": true,
+    "simon-lebon":"lead"
   },
   "scores": [
     0.4,

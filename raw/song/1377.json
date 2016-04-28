@@ -4,22 +4,23 @@
   "tags": [],
   "genre": "pop",
   "debut": "1985-11",
-  "playlists": [],
+  "playlists": ["charity"],
   "artists": {
     "dionne-friends": true,
     "dionne-warwick": "member",
     "elton-john": "member",
     "gladys-knight": "member",
-    "stevie-wonder": "member"
+    "stevie-wonder": "member",
+    "carol-bayer-sager":"writer"
   },
   "scores": [
     0.0875,
     0.2395,
     0.3795,
     0.42,
-    0.41900000000000004,
+    0.419,
     0.4165,
-    0.41200000000000003,
+    0.412,
     0.39,
     0.3775
   ]

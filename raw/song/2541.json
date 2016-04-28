@@ -1,1 +1,36 @@
-{"title":"Don't It Make My Brown Eyes Blue","instanceSlug":2541,"tags":["#1","#1-country","#2-hot-100"],"genres":["country","adult-contemporary"],"debut":"1977-10","playlists":["colors"],"artists":{"crystal-gayle":true},"scores":[0.232,0.887,0.953,0.925,0.89,0.853,0.848,0.838,0.823,0.803,0.778,0.748,0.713,0.673,0.628,0.578,0.523,0.463,0.398,0.328,0.253,0.173,0.088,0]}
+{
+  "title": "Don't It Make My Brown Eyes Blue",
+  "instanceSlug": 2541,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "genres": [
+    "country",
+    "adult-contemporary"
+  ],
+  "debut": "1977-10",
+  "playlists": [
+    "colors"
+  ],
+  "artists": {
+    "crystal-gayle": true
+  },
+  "scores": [
+    0.232,
+    0.778,
+    0.748,
+    0.713,
+    0.673,
+    0.628,
+    0.578,
+    0.523,
+    0.463,
+    0.398,
+    0.328,
+    0.253,
+    0.173,
+    0.088,
+    0
+  ]
+}

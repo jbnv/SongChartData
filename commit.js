@@ -12,7 +12,7 @@ var typeSlug = process.argv[2];
 
 var rawRoute = "", compiledRoute = "", message = "";
 
-if (typeSlug) {
+if (typeSlug && typeSlug != "-m") {
   rawRoute = "./raw/"+typeSlug;
   compiledRoute = "./compiled/"+typeSlug;
   message = yargs.argv.m || "Updates of '"+typeSlug+"' entities.";
