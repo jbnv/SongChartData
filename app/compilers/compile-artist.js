@@ -18,6 +18,7 @@ module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-artist.js"));
 
   titles = {};
+  roles = {};
   genres = {};
   origins = {};
   tags = {};
@@ -41,6 +42,14 @@ module.exports = function(yargs,entities) {
         tags[tag].push(entity);
       });
       entity.tags = lookupEntities(entity.tags,"tag");
+    }
+
+    if (entity.roles) {
+      entity.roles.forEach(function(roleSlug) {
+        if (!roles[roleSlug]) roles[roleSlug] = [];
+        roles[roleSlug].push(entity);
+      });
+      entity.roles = lookupEntities(entity.roles,"role");
     }
 
     if (entity.genres) {
