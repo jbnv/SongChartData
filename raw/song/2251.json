@@ -8,22 +8,16 @@
   "playlists": [
     "ballad"
   ],
-  "ranks": [
-    18.5,
-    15,
-    13,
-    11,
-    12.5
-  ],
   "artists": {
     "meatloaf": true,
-    "jim-stineman": "writer"
+    "jim-steinman": "writer"
   },
   "scores": [
-    0.027,
-    0.097,
-    0.145,
-    0.2,
-    0.158
+    0.371,
+    0.471,
+    0.528,
+    0.546,
+    0.561,
+    0.55
   ]
 }

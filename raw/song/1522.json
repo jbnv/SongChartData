@@ -5,23 +5,14 @@
     "#1",
     "#1-hot-100"
   ],
-  "parents": [
-  ],
   "genre": "dance-pop",
   "debut": "1991-11",
   "playlists": [
     "sample"
   ],
-  "ranks": [
-    24,
-    16,
-    13,
-    12,
-    11,
-    12
-  ],
   "artists": {
-    "pm-dawn": true
+    "pm-dawn": true,
+    "spandau-ballet":"sample"
   },
   "scores": [
     0.075,

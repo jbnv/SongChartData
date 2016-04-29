@@ -10,16 +10,9 @@
   "debut": "1987-12",
   "playlists": [
   ],
-  "ranks": [
-    13,
-    3.5,
-    1.9,
-    2.05,
-    2.25,
-    2.68
-  ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
     0.145,

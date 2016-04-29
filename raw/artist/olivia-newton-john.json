@@ -1,1 +1,19 @@
-{"title":"Olivia Newton-John","instanceSlug":"olivia-newton-john","tags":["1970s","1980s"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"melbourne","birth":1948,"death":"","type":"f"}
+{
+  "title": "Olivia Newton-John",
+  "instanceSlug": "olivia-newton-john",
+  "tags": [
+    "1970s",
+    "1980s"
+  ],
+  "roles": ["singer"],
+  "genres": [
+    "pop"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "melbourne",
+  "birth": 1948,
+  "death": "",
+  "type": "f"
+}

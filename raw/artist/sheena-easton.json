@@ -1,1 +1,13 @@
-{"title":"Sheena Easton","instanceSlug":"sheena-easton","tags":[],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"scotland","birth":"","death":"","type":"f"}
+{
+  "title": "Sheena Easton",
+  "instanceSlug": "sheena-easton",
+  "type": "f",
+  "tags": [],
+  "roles":["singer"],
+  "genres": ["pop"],
+  "xref": ["prince"],
+  "complete": true,
+  "origin": "scotland",
+  "birth": "1959-04",
+  "death": ""
+}

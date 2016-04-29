@@ -1,7 +1,9 @@
 {
   "title": "Holland-Dozier-Holland",
   "instanceSlug": "hdh",
-  "tags": ["songwriter"],
+  "type":"mmm",
+  "tags": [],
+  "roles": ["songwriter"],
   "genres": ["soul"],
   "members": [],
   "xref": [],

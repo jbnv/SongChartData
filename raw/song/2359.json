@@ -15,7 +15,8 @@
   ],
   "artists": {
     "rebbie-jackson": true,
-    "michael-jackson": "writer"
+    "michael-jackson": "writer",
+    "weather-girls":"backup"
   },
   "scores": [
     0.737,

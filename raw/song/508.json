@@ -9,10 +9,11 @@
   "playlists": [
   ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
-    0.6,
+    0.8,
     1,
     0.987,
     0.964,

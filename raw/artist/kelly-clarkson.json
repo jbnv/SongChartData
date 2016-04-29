@@ -5,6 +5,7 @@
     "2000s",
     "2010s","american-idol"
   ],
+  "roles": ["singer"],
   "genres": ["pop"],
   "xref": [],
   "complete": false,

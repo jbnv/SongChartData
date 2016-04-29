@@ -4,10 +4,9 @@
   "tags": [
     "#1",
     "#1-adult-contemporary",
-    "remake",
     "to-love"
   ],
-  "parents": [
+  "parents": ["remake"
   ],
   "genre": "adult-contemporary",
   "debut": "1992-11",

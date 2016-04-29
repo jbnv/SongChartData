@@ -4,9 +4,9 @@
   "tags": [
     "1970s",
     "1980s",
-    "1990s","hof","singer","songwriter","pianist"
+    "1990s","hof"
   ],
-  "parents": [],
+  "roles": ["singer","songwriter","pianist"],
   "genres": [
     "pop"
   ],

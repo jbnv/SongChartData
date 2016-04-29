@@ -2,6 +2,7 @@
   "title": "Weird Al Yankovic",
   "instanceSlug": "weird-al-yankovic",
   "tags": [],
+  "roles":["singer","songwriter","musician"],
   "genres": [
     "parody"
   ],

@@ -1,1 +1,19 @@
-{"title":"Eddie Rabbitt","instanceSlug":"eddie-rabbitt","tags":[],"parents":[],"genres":["country"],"members":[],"complete":true,"origin":"brooklyn","birth":"","death":"","type":"m"}
+{
+  "title": "Eddie Rabbitt",
+  "instanceSlug": "eddie-rabbitt",
+  "tags": [],
+  "roles": [
+    "singer",
+    "songwriter",
+    "guitarist"
+  ],
+  "genres": [
+    "country"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "brooklyn",
+  "birth": "1941-11",
+  "death": "1998-05",
+  "type": "m"
+}

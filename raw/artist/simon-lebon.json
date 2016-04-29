@@ -1,1 +1,19 @@
-{"title":"Simon LeBon","instanceSlug":"simon-lebon","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"active":false,"origin":"","birth":"","death":""}
+{
+  "title": "Simon LeBon",
+  "instanceSlug": "simon-lebon",
+  "tags": [],
+  "roles": [
+    "singer"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "xref": [
+    "duran-duran",
+    "arcadia"
+  ],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": ""
+}

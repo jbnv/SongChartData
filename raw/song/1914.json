@@ -8,7 +8,8 @@
   "playlists": ["ballad","breakup","feb13"
   ],
   "artists": {
-    "toni-braxton": true
+    "toni-braxton": true,
+    "diane-warren":"writer"
   },
   "scores": [
     0.12,

@@ -5,24 +5,16 @@
     "#1",
     "remake"
   ],
-  "parents": [
-  ],
   "genre": "hard-rock",
   "debut": "2001-10",
   "playlists": [
   ],
-  "ranks": [
-    15,
-    10,
-    7.5,
-    5,
-    5.4
-  ],
   "artists": {
-    "alien-ant-farm": true
+    "alien-ant-farm": true,
+    "michael-jackson": "writer"
   },
   "scores": [
-    0.097,
+    0.1,
     0.232,
     0.328,
     0.463,

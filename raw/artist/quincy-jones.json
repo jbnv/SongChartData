@@ -5,7 +5,8 @@
   "genres": [
     "urban"
   ],
-  "xref": [],
+  "roles": ["songwriter","producer"],
+  "xref": ["usa-for-africa"],
   "complete": true,
   "origin": "chicago",
   "birth": "",

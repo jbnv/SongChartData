@@ -11,12 +11,14 @@
     "summer"
   ],
   "artists": {
-    "michael-bolton": true
+    "michael-bolton": true,
+    "diane-warren":"writer"
   },
   "scores": [
-    0.168,
-    0.864,
+    0.4,
     0.845,
-    0.819
+    0.9,
+    0.92,
+    0.91
   ]
 }

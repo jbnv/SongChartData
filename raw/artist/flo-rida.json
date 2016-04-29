@@ -1,6 +1,7 @@
 {
   "title": "Flo Rida",
   "instanceSlug": "flo-rida",
+  "roles":["rapper"],
   "tags": [],
   "genres": ["rap"],
   "complete": false,

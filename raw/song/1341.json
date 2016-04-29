@@ -6,8 +6,6 @@
     "#1-adult-contemporary",
     "love-will"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1990-02",
   "playlists": [
@@ -15,27 +13,17 @@
     "lost-loves",
     "feb13"
   ],
-  "ranks": [
-    16,
-    10,
-    7.2,
-    5.6,
-    4.5,
-    4.45,
-    4.75,
-    5.4
-  ],
   "artists": {
-    "taylor-dayne": true
+    "taylor-dayne": true,
+    "diane-warren":"writer"
   },
   "scores": [
-    0.075,
-    0.232,
-    0.341,
-    0.425,
-    0.498,
-    0.502,
-    0.48,
-    0.437
+    0.125,
+    0.282,
+    0.391,
+    0.475,
+    0.548,
+    0.552,
+    0.53
   ]
 }

@@ -5,6 +5,7 @@
     "1980s",
     "1990s"
   ],
+  "roles": ["singer","songwriter","guitarist"],
   "genres": ["pop","adult-contemporary","dance-pop"],
   "xref": ["wham"],
   "complete": true,

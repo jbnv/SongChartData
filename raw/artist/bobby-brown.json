@@ -1,1 +1,3 @@
-{"title":"Bobby Brown","instanceSlug":"bobby-brown","tags":["1980s","1990s"],"parents":[],"genres":["urban"],"members":[],"origin":"massachusetts","birth":1969,"death":"","complete":true,"type":"m"}
+{"title":"Bobby Brown","instanceSlug":"bobby-brown","tags":["1980s","1990s"],
+  "roles":["singer","rapper"],
+"genres":["urban"],"origin":"massachusetts","birth":1969,"death":"","complete":true,"type":"m"}

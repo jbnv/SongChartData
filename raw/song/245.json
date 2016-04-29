@@ -10,7 +10,8 @@
   "genre": "dance-pop",
   "debut": "1988-11",
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "note": "8 weeks at #1.",
   "scores": [

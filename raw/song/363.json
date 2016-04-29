@@ -11,7 +11,9 @@
   "playlists": [
   ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "teddy-riley":"writer",
+    "bernard-bell":"writer"
   },
   "note": "Project 8 weeks at #1.",
   "scores": [

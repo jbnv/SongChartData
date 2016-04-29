@@ -12,7 +12,8 @@
     "colors"
   ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "bill-bottrell":"writer"
   },
   "scores": [
     0.3,

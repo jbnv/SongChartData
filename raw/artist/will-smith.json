@@ -1,1 +1,18 @@
-{"title":"Will Smith","instanceSlug":"will-smith","tags":["actor"],"parents":[],"genres":["rap"],"members":[],"xref":[],"complete":true,"origin":"philadelphia","birth":1968,"death":"","type":"m"}
+{
+  "title": "Will Smith",
+  "instanceSlug": "will-smith",
+  "tags": [
+    "actor"
+  ],
+  "roles": ["rapper"],
+  "genres": [
+    "rap"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "philadelphia",
+  "birth": 1968,
+  "death": "",
+  "type": "m"
+}

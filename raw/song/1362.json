@@ -1,1 +1,26 @@
-{"title":"I'd Lie For You (And That's the Truth)","instanceSlug":1362,"tags":["for-you"],"parents":[],"genre":"rock","debut":"1995-11","playlists":["ballad"],"ranks":[],"artists":{"meatloaf":true},"scores":[0.072,0.17966666666666667,0.23500000000000001,0.284,0.26333333333333336,0.25033333333333335,0.222,0.21033333333333334,0.19366666666666665,0.17200000000000001,0.14533333333333334,0.11366666666666668,0.08433333333333333,0.057666666666666665,0.028999999999999998,0.014,0]}
+{
+  "title": "I'd Lie For You (And That's the Truth)",
+  "instanceSlug": 1362,
+  "tags": [
+    "for-you"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1995-11",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [],
+  "artists": {
+    "meatloaf": true,
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.371,
+    0.471,
+    0.528,
+    0.546,
+    0.561,
+    0.532
+  ]
+}

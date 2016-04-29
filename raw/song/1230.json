@@ -8,19 +8,9 @@
   "debut": "1979-09",
   "playlists": [
   ],
-  "ranks": [
-    16,
-    7,
-    3.9,
-    3.2,
-    2.9,
-    3.15,
-    3.43,
-    3.74,
-    4.15
-  ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
     0.075,

@@ -1,12 +1,12 @@
 {
   "title": "Mick Jagger",
   "instanceSlug": "mick-jagger",
-  "tags": ["singer"],
+  "tags": [],
   "parents": [],
   "genres": [
     "rock"
   ],
-  "members": [],
+  "roles": ["singer","guitarist"],
   "xref": [
     "rolling-stones"
   ],

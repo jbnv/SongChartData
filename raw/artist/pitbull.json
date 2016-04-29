@@ -1,15 +1,14 @@
 {
   "title": "Pitbull",
   "instanceSlug": "pitbull",
+  "roles":["rapper"],
   "tags": [
     "spanish"
   ],
-  "parents": [],
   "genres": [
     "rap",
     "latin-rap"
   ],
-  "members": [],
   "xref": [],
   "complete": false,
   "active": true,

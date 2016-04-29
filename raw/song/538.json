@@ -3,29 +3,20 @@
   "instanceSlug": 538,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1999-08",
   "playlists": [
   ],
-  "ranks": [
-    19,
-    11.3,
-    6.4,
-    4.35,
-    4.45,
-    5.8
-  ],
   "artists": {
-    "edwin-mccain": true
+    "edwin-mccain": true,
+    "diane-warren":"writer"
   },
   "scores": [
-    0.018,
-    0.191,
-    0.381,
-    0.509,
-    0.502,
-    0.414
+    0.118,
+    0.3,
+    0.5,
+    0.6,
+    0.65,
+    0.63
   ]
 }

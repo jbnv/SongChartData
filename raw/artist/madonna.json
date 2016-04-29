@@ -6,7 +6,7 @@
     "1990s",
     "2000s","hof","singer"
   ],
-  "parents": [],
+  "roles": ["singer"],
   "genres": [
     "pop"
   ],

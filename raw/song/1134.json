@@ -4,13 +4,14 @@
   "tags": [
   ],
   "source": "dangerous",
-  "genre": "pop",
+  "genre": "urban",
   "debut": "1993-05",
   "playlists": [
     "summer"
   ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "bill-bottrell":"producer"
   },
   "scores": [
     0.15,

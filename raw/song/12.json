@@ -12,6 +12,7 @@
   "debut": "1984-02",
   "artists": {
     "michael-jackson": true,
+    "rod-temperton":"writer",
     "vincent-price":"backup",
     "quincy-jones":"producer"
   },

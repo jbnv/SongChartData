@@ -2,6 +2,7 @@
   "title": "Bob Dylan",
   "instanceSlug": "bob-dylan",
   "tags": ["hof"],
+  "roles": ["singer","songwriter"],
   "genres": [
     "folk-rock"
   ],

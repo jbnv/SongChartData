@@ -1,27 +1,21 @@
 {
   "title": "Solitaire",
   "instanceSlug": 75,
-  "tags": [
-  ],
-  "parents": [
+  "playlists": ["games"
   ],
   "genre": "pop",
   "debut": "1983-04",
-  "ranks": [
-    15.9,
-    8.7,
-    4.7,
-    2.5,
-    2.84
-  ],
   "artists": {
-    "laura-branigan": true
+    "laura-branigan": true,
+    "diane-warren":"writer"
   },
   "scores": [
-    0.077,
     0.278,
     0.484,
     0.694,
-    0.652
+    0.75,
+    0.77,
+    0.79,
+    0.77
   ]
 }

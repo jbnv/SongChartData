@@ -13,7 +13,9 @@
   ],
   "artists": {
     "michael-bolton": true,
-    "kenny-g": "feature"
+    "kenny-g": "feature",
+    "diane-warren":"writer",
+    "walter-afanasieff":"writer"
   },
   "scores": [
       0.12,

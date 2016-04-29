@@ -6,10 +6,10 @@
   "source": "thriller",
   "genre": "soul",
   "debut": "1983-08",
-  "playlists": [
-  ],
   "artists": {
     "michael-jackson": true,
+    "steve-porcaro":"writer",
+    "john-bettis":"writer",
     "quincy-jones":"producer"
   },
   "scores": [

@@ -2,25 +2,16 @@
   "title": "It's Not Over 'Til It's Over",
   "instanceSlug": 224,
   "tags": [
-    "over"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1987-08",
-  "ranks": [
-    19.9,
-    11.8,
-    7.2,
-    11.8
-  ],
   "artists": {
     "starship": true
   },
   "scores": [
-    0.003,
-    0.177,
-    0.341,
-    0.177
+    0.058,
+    0.569,
+    0.644,
+    0.638
   ]
 }

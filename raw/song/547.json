@@ -10,7 +10,8 @@
     "summer"
   ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "quincy-jones":"producer"
   },
   "scores": [
     0.171,

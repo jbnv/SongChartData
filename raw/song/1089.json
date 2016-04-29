@@ -10,17 +10,9 @@
   "debut": "1992-05",
   "playlists": [
   ],
-  "ranks": [
-    19,
-    10,
-    6,
-    4.4,
-    4.2,
-    4.5,
-    5.2
-  ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "teddy-riley":"writer"
   },
   "scores": [
     0.018,

@@ -2,6 +2,7 @@
   "title": "Ricky Martin",
   "instanceSlug": "ricky-martin",
   "tags": ["spanish"],
+  "roles":["singer"],
   "genres": ["latin","pop","dance"],
   "xref": ["menudo"],
   "complete": false,

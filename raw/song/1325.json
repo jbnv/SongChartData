@@ -3,15 +3,14 @@
   "instanceSlug": 1325,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1990-04",
   "playlists": [
     "ballad"
   ],
   "artists": {
-    "michael-bolton": true
+    "michael-bolton": true,
+    "diane-warren":"writer"
   },
   "scores": [
     0.075,

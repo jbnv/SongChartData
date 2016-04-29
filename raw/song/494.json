@@ -14,21 +14,14 @@
   "playlists": [
     "ballad"
   ],
-  "ranks": [
-    18,
-    11.5,
-    6.6,
-    5.8,
-    6.9
-  ],
   "artists": {
-    "starship": true
+    "starship": true,
+    "diane-warren":"writer"
   },
   "scores": [
-    0.036,
-    0.185,
-    0.37,
-    0.414,
-    0.356
+    0.078,
+    0.589,
+    0.664,
+    0.658
   ]
 }

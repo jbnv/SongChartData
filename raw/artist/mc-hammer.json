@@ -1,1 +1,3 @@
-{"title":"MC Hammer","instanceSlug":"mc-hammer","tags":[],"parents":[],"genres":["rap"],"members":[],"xref":[],"complete":true,"origin":"oakland","birth":"","death":"","type":"m"}
+{"title":"MC Hammer","instanceSlug":"mc-hammer","tags":[],
+  "roles":["rapper"],
+  "genres":["rap"],"xref":[],"complete":true,"origin":"oakland","birth":"","death":"","type":"m"}

@@ -1,1 +1,4 @@
-{"title":"Carly Simon","instanceSlug":"carly-simon","tags":["1970s","1980s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"manhattan","birth":1945,"death":"","type":"f"}
+{"title":"Carly Simon","instanceSlug":"carly-simon","tags":["1970s","1980s"],
+  "roles": ["singer","songwriter"],
+"genres":["pop","adult-contemporary"],
+"complete":true,"origin":"manhattan","birth":1945,"death":"","type":"f"}

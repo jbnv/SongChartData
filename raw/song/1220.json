@@ -12,7 +12,9 @@
     "feb13"
   ],
   "artists": {
-    "michael-jackson": true
+    "michael-jackson": true,
+    "tom-bahler":"writer",
+    "quincy-jones":"producer"
   },
   "scores": [
     0.171,

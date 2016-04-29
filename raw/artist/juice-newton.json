@@ -2,11 +2,10 @@
   "title": "Juice Newton",
   "instanceSlug": "juice-newton",
   "tags": [],
-  "parents": [],
+  "roles":["singer"],
   "genres": [
     "country","pop","pop-country"
   ],
-  "members": [],
   "complete": true,
   "origin": "new-jersey",
   "birth": 1952,

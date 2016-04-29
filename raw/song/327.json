@@ -3,21 +3,13 @@
   "instanceSlug": 327,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1988-02",
   "playlists": [
   ],
-  "ranks": [
-    17.9,
-    10.6,
-    7.4,
-    8.8,
-    10.8
-  ],
   "artists": {
-    "belinda-carlisle": true
+    "belinda-carlisle": true,
+    "diane-warren":"writer"
   },
   "scores": [
     0.038,

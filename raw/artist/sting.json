@@ -3,11 +3,9 @@
   "instanceSlug": "sting",
   "tags": [
     "1980s",
-    "1990s",
-    "singer",
-    "songwriter",
-    "bassist"
+    "1990s"
   ],
+  "roles": ["singer","songwriter","bassist"],
   "genres": ["pop"],
   "xref": ["police"],
   "complete": true,

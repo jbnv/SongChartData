@@ -3,8 +3,6 @@
   "instanceSlug": 1044,
   "tags": [
   ],
-  "parents": [
-  ],
   "genres": [
     "rock",
     "pop"
@@ -13,28 +11,19 @@
   "playlists": [
   ],
   "source": "chicago17",
-  "ranks": [
-    17,
-    14,
-    11,
-    9,
-    8.5,
-    7.7,
-    7.4,
-    8.1
-  ],
   "artists": {
     "chicago": true,
     "david-foster": "producer"
   },
   "scores": [
-    0.055,
-    0.12,
+    0.047,
+    0.121,
     0.2,
-    0.267,
-    0.286,
-    0.319,
-    0.332,
-    0.302
+    0.3,
+    0.35,
+    0.36,
+    0.358,
+    0.352,
+    0.331
   ]
 }

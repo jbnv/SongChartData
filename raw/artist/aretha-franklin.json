@@ -1,1 +1,18 @@
-{"title":"Aretha Franklin","instanceSlug":"aretha-franklin","tags":["1960s","1970s","1980s","hof"],"parents":[],"genres":["soul"],"members":[],"origin":"michigan","birth":"","death":"","complete":true}
+{
+  "title": "Aretha Franklin",
+  "instanceSlug": "aretha-franklin",
+  "tags": [
+    "1960s",
+    "1970s",
+    "1980s",
+    "hof"
+  ],
+  "roles":["singer","songwriter"],
+  "genres": [
+    "soul"
+  ],
+  "origin": "michigan",
+  "birth": "",
+  "death": "",
+  "complete": true
+}

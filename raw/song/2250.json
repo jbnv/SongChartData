@@ -3,28 +3,21 @@
   "instanceSlug": 2250,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1978-05",
   "playlists": [
     "ballad"
   ],
-  "ranks": [
-    19,
-    12,
-    10,
-    8,
-    8.9
-  ],
   "artists": {
-    "meatloaf": true
+    "meatloaf": true,
+    "jim-steinman":"writer"
   },
   "scores": [
-    0.018,
-    0.171,
-    0.232,
-    0.306,
-    0.271
+    0.251,
+    0.351,
+    0.378,
+    0.396,
+    0.391,
+    0.382
   ]
 }
