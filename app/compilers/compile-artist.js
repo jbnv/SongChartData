@@ -112,6 +112,7 @@ module.exports = function(yargs,entities) {
     "titles": titles,
     "by-genre": genres,
     "by-origin": origins,
-    "by-tag": tags
+    "by-tag": tags,
+    "by-role": roles
   }
 }
