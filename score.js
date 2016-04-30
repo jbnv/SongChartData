@@ -84,12 +84,12 @@ function interpolate(tuple) {
     newScores[i] = newScores[i] / (slugs.length-1);
   }
 
-  write(slugs[0],entities[0]);
+  write(slugs[0],songs[0]);
 
   util.log(
     chalk.green("interpolate"),
     chalk.blue(slugs[0]),
-    entities[0].title
+    songs[0].title
   );
 }
 
