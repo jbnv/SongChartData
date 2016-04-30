@@ -1,7 +1,8 @@
 {
   "title": "Ric Ocasek",
   "instanceSlug": "ric-ocasek",
-  "tags": ["vocalist","guitarist"],
+  "tags": [],
+  "roles":["vocalist","guitarist"],
   "genres": [
     "rock"
   ],
