@@ -3,27 +3,18 @@
   "instanceSlug": 2699,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1980-10",
   "playlists": [
-  ],
-  "ranks": [
-    16,
-    5,
-    2.5,
-    2.2,
-    2.34
   ],
   "artists": {
     "cliff-richard": true
   },
   "scores": [
-    0.075,
-    0.463,
-    0.694,
-    0.737,
-    0.716
+    0.175,
+    0.563,
+    0.794,
+    0.837,
+    0.816
   ]
 }

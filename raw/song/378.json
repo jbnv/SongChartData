@@ -3,27 +3,18 @@
   "instanceSlug": 378,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "dance-pop",
   "debut": "1985-07",
   "playlists": [
-  ],
-  "ranks": [
-    9,
-    1.2,
-    1.31,
-    1.47,
-    1.85
   ],
   "artists": {
     "pointer-sisters": true
   },
   "scores": [
-    0.267,
-    0.939,
-    0.909,
-    0.871,
-    0.794
+    0.337,
+    0.959,
+    0.919,
+    0.891,
+    0.85
   ]
 }
