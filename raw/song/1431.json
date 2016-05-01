@@ -3,17 +3,18 @@
   "instanceSlug": 1431,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1999-12",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "vitamin-c": true
   },
   "scores": [
+    0.18,
+    0.361,
+    0.54,
+    0.57,
+    0.56
   ]
 }

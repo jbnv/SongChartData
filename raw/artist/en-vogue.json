@@ -1,1 +1,12 @@
-{"title":"En Vogue","instanceSlug":"en-vogue","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"fff"}
+{
+  "title": "En Vogue",
+  "instanceSlug": "en-vogue",
+  "tags": [],
+  "genres": ["urban"],
+  "members": [],
+  "complete": true,
+  "origin": "oakland",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

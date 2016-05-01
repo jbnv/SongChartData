@@ -3,8 +3,6 @@
   "instanceSlug": 1499,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1999-12",
   "playlists": [
@@ -15,5 +13,10 @@
     "lfo": true
   },
   "scores": [
+    0.04,
+    0.175,
+    0.25,
+    0.275,
+    0.27
   ]
 }

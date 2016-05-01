@@ -2,20 +2,20 @@
   "title": "I'm Not the Only One",
   "instanceSlug": 2763,
   "tags": [
-    "cheating",
-    "feb13"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": 2015,
   "playlists": [
-  ],
-  "ranks": [
+    "cheating",
+    "feb13"
   ],
   "artists": {
     "sam-smith": true
   },
   "scores": [
+    0.2535,
+    0.54625,
+    0.74875,
+    0.74275
   ]
 }

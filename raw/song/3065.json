@@ -3,17 +3,17 @@
   "instanceSlug": 3065,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "2015-07",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "weeknd": true
   },
   "scores": [
+    0.1535,
+    0.24625,
+    0.34875,
+    0.34275
   ]
 }

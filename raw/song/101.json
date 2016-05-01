@@ -1,17 +1,6 @@
-{
-  "title": "That Don't Impress Me Much",
-  "instanceSlug": 101,
-  "tags": [
-  ],
-  "parents": [
-  ],
-  "genre": "pop",
-  "debut": "1999-05",
-  "ranks": [
-  ],
-  "artists": {
-    "shania-twain": true
-  },
-  "scores": [
-  ]
-}
+{"title":"That Don't Impress Me Much","instanceSlug":101,"tags":[],"parents":[],"genre":"pop","debut":"1999-05","ranks":[],"artists":{"shania-twain":true},"scores":[    0.18,
+    0.361,
+    0.54,
+    0.57,
+    0.56
+]}

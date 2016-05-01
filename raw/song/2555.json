@@ -3,17 +3,20 @@
   "instanceSlug": 2555,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "latin-rap",
   "debut": "1991-06",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "gerardo": true
   },
   "scores": [
+    0.265,
+    0.665,
+    0.695,
+    0.725,
+    0.745,
+    0.735,
+    0.67
   ]
 }

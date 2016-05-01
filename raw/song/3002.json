@@ -3,8 +3,6 @@
   "instanceSlug": 3002,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "2015-05",
   "playlists": [
@@ -15,5 +13,9 @@
     "ariana-grande": true
   },
   "scores": [
+    0.1535,
+    0.24625,
+    0.34875,
+    0.34275
   ]
 }

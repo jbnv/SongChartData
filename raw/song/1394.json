@@ -2,35 +2,21 @@
   "title": "Don't Let Go",
   "instanceSlug": 1394,
   "tags": [
-    "don't",
     "don't-let",
-    "go",
-    "let",
     "let-go"
-  ],
-  "parents": [
   ],
   "genre": "soul",
   "debut": "1996-11",
   "playlists": [
   ],
-  "ranks": [
-    15,
-    6,
-    3.1,
-    2.4,
-    2.75,
-    3.4
-  ],
   "artists": {
     "en-vogue": true
   },
   "scores": [
-    0.097,
-    0.402,
+    0.1,
+    0.4,
     0.622,
-    0.708,
-    0.662,
-    0.592
+    0.7,
+    0.68
   ]
 }

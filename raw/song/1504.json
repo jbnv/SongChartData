@@ -2,9 +2,6 @@
   "title": "In My Dreams",
   "instanceSlug": 1504,
   "tags": [
-    "dream",
-    "in",
-    "my"
   ],
   "parents": [
   ],
@@ -15,8 +12,15 @@
   "ranks": [
   ],
   "artists": {
-    "the-party": true
+    "party": true
   },
   "scores": [
+    0.275,
+    0.675,
+    0.705,
+    0.735,
+    0.755,
+    0.745,
+    0.67
   ]
 }

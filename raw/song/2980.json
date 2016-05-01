@@ -3,7 +3,11 @@
   "instanceSlug": 2980,
   "tags": [
   ],
-  "parents": [
+  "scores": [
+    0.1535,
+    0.24625,
+    0.34875,
+    0.34275
   ],
   "genre": "pop",
   "debut": "2015-04",
@@ -11,7 +15,6 @@
   "playlists": [
     "summer"
   ],
-  "ranks": true,
   "artists": {
     "weeknd": true
   }

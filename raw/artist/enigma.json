@@ -1,1 +1,11 @@
-{"title":"Enigma","instanceSlug":"enigma","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"mmm"}
+{
+  "title": "Enigma",
+  "instanceSlug": "enigma",
+  "roles": ["producer"],
+  "genres": ["dance"],
+  "complete": true,
+  "origin": "romania",
+  "birth": "1957-05",
+  "death": "",
+  "type": "m"
+}

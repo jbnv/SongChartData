@@ -3,16 +3,17 @@
   "instanceSlug": 540,
   "tags": [
   ],
-  "parents": [
-  ],
   "debut": "1999-08",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "vitamin-c": true
   },
   "scores": [
+    0.04,
+    0.175,
+    0.25,
+    0.275,
+    0.27
   ]
 }

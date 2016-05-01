@@ -5,17 +5,17 @@
     "#1",
     "#1-r&r"
   ],
-  "parents": [
-  ],
   "genre": "adult-contemporary",
   "debut": 2015,
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "ed-sheeran": true
   },
   "scores": [
+    0.1535,
+    0.24625,
+    0.34875,
+    0.34275
   ]
 }

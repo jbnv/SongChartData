@@ -2,9 +2,6 @@
   "title": "Kiss Them For Me",
   "instanceSlug": 951,
   "tags": [
-    "kiss",
-    "me",
-    "them"
   ],
   "parents": [
   ],
@@ -12,25 +9,15 @@
   "debut": "1991-09",
   "playlists": [
   ],
-  "ranks": [
-    10,
-    2.4,
-    2.6,
-    2.8,
-    3.1,
-    3.69,
-    4.2
-  ],
   "artists": {
     "siouxsie-the-banshees": true
   },
   "scores": [
     0.232,
-    0.708,
-    0.681,
-    0.656,
+    0.497,
+    0.587,
+    0.62,
     0.622,
-    0.564,
-    0.521
+    0.575
   ]
 }

@@ -3,18 +3,20 @@
   "instanceSlug": 2021,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1991-06",
   "playlists": [
     "summer"
   ],
-  "ranks": [
-  ],
   "artists": {
     "marc-cohn": true
   },
   "scores": [
+    0.05,
+    0.19,
+    0.22,
+    0.24,
+    0.23,
+    0.22
   ]
 }
