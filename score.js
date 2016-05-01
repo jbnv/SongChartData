@@ -73,9 +73,9 @@ function interpolate(tuple) {
   songs.forEach(function(song) {
     for (i = 1; i < slugs.length; i++) {
       if (newScores.length < i+1) {
-        newScores.push(song.scores[i]);
+        newScores.push(song.scores[i] || 0);
       } else {
-        newScores[i] += song.scores[i];
+        newScores[i] += song.scores[i] || 0;
       }
     }
   });
@@ -84,6 +84,7 @@ function interpolate(tuple) {
     newScores[i] = newScores[i] / (slugs.length-1);
   }
 
+  songs[0].scores = newScores;
   write(slugs[0],songs[0]);
 
   util.log(
