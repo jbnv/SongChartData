@@ -1,26 +1,43 @@
 {
   "title": "Jungle Love",
   "instanceSlug": 1584,
-  "tags": [
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "funk-dance",
   "debut": "1985-01",
   "source": "purple-rain",
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
     "time": true,
-    "morris-day":"lead",
-    "jimmy-jam":"member",
-    "terry-lewis":"member",
-    "prince":"producer"
+    "morris-day": "lead",
+    "jimmy-jam": "member",
+    "terry-lewis": "member",
+    "prince": "producer"
   },
   "scores": [
-    0.2,
-    0.9,
-    0.983,
-    0.936
+    0.145,
+    0.537,
+    0.912,
+    0.887,
+    0.86,
+    0.829,
+    0.786,
+    0.781,
+    0.771,
+    0.756,
+    0.736,
+    0.711,
+    0.681,
+    0.646,
+    0.606,
+    0.561,
+    0.511,
+    0.456,
+    0.396,
+    0.331,
+    0.261,
+    0.186,
+    0.106,
+    0.021,
+    0
   ]
 }

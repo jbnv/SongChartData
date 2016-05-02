@@ -2,39 +2,22 @@
   "title": "Don't Forget Me When I'm Gone",
   "instanceSlug": 291,
   "tags": [
-    "forget",
-    "go",
-    "gone",
-    "me"
-  ],
-  "parents": [
   ],
   "genre": "pop-rock",
   "debut": "1986-08",
   "playlists": [
   ],
-  "ranks": [
-    18,
-    12,
-    8.5,
-    6.7,
-    5.7,
-    5,
-    5.45,
-    6.2
-  ],
   "artists": {
     "glass-tiger": true,
-    "bryan-adams": true
+    "bryan-adams": "backup"
   },
   "scores": [
-    0.036,
-    0.171,
-    0.286,
-    0.365,
-    0.419,
-    0.463,
-    0.434,
-    0.391
+    0.1,
+    0.21,
+    0.386,
+    0.465,
+    0.519,
+    0.55,
+    0.54
   ]
 }

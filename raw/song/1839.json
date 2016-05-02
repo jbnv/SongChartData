@@ -10,7 +10,7 @@
   "artists": {
     "beatles": true,
     "john-lennon": "lead",
-    "paul-mccartney": "member",
+    "paul-mccartney": "writer",
     "george-harrison": "member",
     "ringo-starr": "member"
   },

@@ -9,17 +9,9 @@
   ],
   "genre": "pop",
   "debut": "1989-06",
-  "ranks": [
-    18,
-    10,
-    6,
-    5,
-    5.1,
-    5.6,
-    6.2
-  ],
   "artists": {
-    "elvis-costello": true
+    "elvis-costello": true,
+    "paul-mccartney": "writer"
   },
   "scores": [
     0.036,

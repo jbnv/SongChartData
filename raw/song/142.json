@@ -2,25 +2,17 @@
   "title": "Freeway of Love",
   "instanceSlug": 142,
   "tags": [
-    "freeway",
-    "love",
     "streets"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1985-08",
-  "ranks": [
-    5,
-    1,
-    1.15
-  ],
   "artists": {
     "aretha-franklin": true
   },
   "scores": [
-    0.463,
-    1,
-    0.953
+    0.332,
+    0.786,
+    0.95,
+    0.933
   ]
 }

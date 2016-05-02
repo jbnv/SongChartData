@@ -1,12 +1,16 @@
 {
-  "title": "Jesus to a Child",
-  "instanceSlug": "lOKl",
+  "title": "Orange Crush",
+  "instanceSlug": "LOkL",
   "tags": [],
-  "genre": "pop",
-  "debut": "1996-03",
+  "debut": 1989,
   "playlists": [],
-  "scores": [0],
+  "scores": [
+    0.15,
+    0.45,
+    0.65,
+    0.63
+  ],
   "artists": {
-    "george-michael": true
+    "rem": true
   }
 }

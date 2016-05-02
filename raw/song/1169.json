@@ -8,7 +8,8 @@
   "playlists": [
   ],
   "artists": {
-    "ll-cool-j": true
+    "ll-cool-j": true,
+    "rick-james":"writer"
   },
   "scores": [
     0.08,

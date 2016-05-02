@@ -1,1 +1,19 @@
-{"title":"Night Shift","instanceSlug":"nightshift","tags":["#1","#1-r&b","marvin-gaye","jackie-wilson"],"parents":[],"debut":1985,"playlists":["tribute"],"ranks":[],"artists":{"commodores":true},"scores":[0.21212121212121213,1,0.9607843137254901,0.9047619047619047,0.8433179723502304]}
+{
+  "title": "Night Shift",
+  "instanceSlug": "nightshift",
+  "tags": [
+    "#1",
+    "#1-r&b",
+    "marvin-gaye",
+    "jackie-wilson"
+  ],
+  "debut": 1985,
+  "playlists": [
+    "tribute"
+  ],
+  "artists": {
+    "commodores": true
+  },
+  "scores": [
+  ]
+}
