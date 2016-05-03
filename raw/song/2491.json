@@ -3,17 +3,18 @@
   "instanceSlug": 2491,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "urban",
   "debut": "1995-03",
   "playlists": [
-  ],
-  "ranks": [
   ],
   "artists": {
     "adina-howard": true
   },
   "scores": [
+    0.045,
+    0.222,
+    0.374,
+    0.436,
+    0.431
   ]
 }

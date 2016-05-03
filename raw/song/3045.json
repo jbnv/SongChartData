@@ -3,18 +3,20 @@
   "instanceSlug": 3045,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1995-06",
   "playlists": [
     "summer"
   ],
-  "ranks": [
-  ],
   "artists": {
     "martin-page": true
   },
   "scores": [
+    0.125,
+    0.352,
+    0.504,
+    0.566,
+    0.571,
+    0.557
   ]
 }
