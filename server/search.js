@@ -16,6 +16,26 @@ module.exports = function(app) {
 
     var outbound = [];
 
+    if (/^\d\d\d0s$/.test(substring)) {
+      outbound.push({
+        title: substring,
+        typeSlug: "decade",
+        route: "decade/"+substring
+      });
+    } else if (/^\d\d\d\d$/.test(substring)) {
+      outbound.push({
+        title: substring,
+        typeSlug: "year",
+        route: "year/"+substring
+      });
+    } else if (/^\d\d\d\d-\d\d$/.test(substring)) {
+      outbound.push({
+        title: substring,
+        typeSlug: "month",
+        route: "month/"+substring        
+      });
+    }
+
     var storageSlugs = [
       "artist","genre","geo","playlist","song","source","tag"
     ];
