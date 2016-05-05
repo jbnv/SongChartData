@@ -1,0 +1,23 @@
+{
+  "title": "Everything Changes",
+  "instanceSlug": 1101,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1992-03",
+  "playlists": [
+  ],
+  "artists": {
+    "kathy-troccoli": true,
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.095,
+    0.252,
+    0.422,
+    0.557,
+    0.632,
+    0.688,
+    0.676
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "You May Be Right",
+  "instanceSlug": 1000,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1980-04",
+  "playlists": [
+  ],
+  "artists": {
+    "billy-joel": true
+  },
+  "scores": [
+    0.322,
+    0.506,
+    0.691,
+    0.737,
+    0.702
+  ]
+}

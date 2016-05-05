@@ -1,1 +1,15 @@
-{"title":"38 Special","instanceSlug":"38-special","tags":[],"parents":[],"genres":["rock","southern-rock"],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "38 Special",
+  "instanceSlug": "38-special",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "rock",
+    "southern-rock"
+  ],
+  "type": "mmm",
+  "origin": "florida",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

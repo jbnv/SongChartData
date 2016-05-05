@@ -1,0 +1,35 @@
+{
+  "title": "What I Am",
+  "instanceSlug": 1930,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-02",
+  "playlists": [
+  ],
+  "ranks": [
+    17.1,
+    10,
+    7.8,
+    6.9,
+    6.5,
+    6.67,
+    7.2,
+    8.1
+  ],
+  "artists": {
+    "edie-brickell-new-bohemians": true
+  },
+  "scores": [
+    0.053,
+    0.232,
+    0.315,
+    0.356,
+    0.376,
+    0.367,
+    0.341,
+    0.302
+  ]
+}

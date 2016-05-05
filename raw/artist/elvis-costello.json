@@ -1,1 +1,11 @@
-{"title":"Elvis Costello","instanceSlug":"elvis-costello","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Elvis Costello",
+  "instanceSlug": "elvis-costello",
+  "tags": ["hof"],
+  "genres": [],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

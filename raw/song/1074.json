@@ -1,0 +1,35 @@
+{
+  "title": "Masterpiece",
+  "instanceSlug": 1074,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1992-03",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    11,
+    10.5,
+    8,
+    8.5,
+    9.5,
+    10.9
+  ],
+  "artists": {
+    "atlantic-starr": true
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.216,
+    0.306,
+    0.286,
+    0.249,
+    0.203
+  ]
+}

@@ -1,1 +1,19 @@
-{"title":"Pitbull","instanceSlug":"pitbull","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Pitbull",
+  "instanceSlug": "pitbull",
+  "roles":["rapper"],
+  "tags": [
+    "spanish"
+  ],
+  "genres": [
+    "rap",
+    "latin-rap"
+  ],
+  "xref": [],
+  "complete": false,
+  "active": true,
+  "origin": "miami",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

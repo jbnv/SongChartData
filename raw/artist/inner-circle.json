@@ -1,1 +1,14 @@
-{"title":"Inner Circle","instanceSlug":"inner-circle","tags":[],"parents":[],"genres":["reggae"],"members":[],"complete":true,"origin":"jamaica","birth":"","death":"","type":"g"}
+{
+  "title": "Inner Circle",
+  "instanceSlug": "inner-circle",
+  "tags": [],
+  "genres": [
+    "reggae"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "jamaica",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Party All the Time",
+  "instanceSlug": 486,
+  "tags": [
+  ],
+  "genre": "dance",
+  "debut": "1985-12",
+  "playlists": [
+  ],
+  "artists": {
+    "eddie-murphy": true,
+    "rick-james":"writer"
+  },
+  "scores": [
+    0.055,
+    0.232,
+    0.463,
+    0.645,
+    0.668,
+    0.675,
+    0.656,
+    0.612
+  ]
+}

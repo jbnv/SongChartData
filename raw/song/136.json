@@ -1,1 +1,32 @@
-{"title":"Always On My Mind","instanceSlug":136,"tags":["#1","#1-country","remade"],"parents":[],"genre":"country","debut":"1982-04","ranks":[18,12,9,7,5,5.6],"artists":{"willie-nelson":true}}
+{
+  "title": "Always On My Mind",
+  "instanceSlug": 136,
+  "tags": [
+    "#1",
+    "#1-country",
+    "remade"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1982-04",
+  "ranks": [
+    18,
+    12,
+    9,
+    7,
+    5,
+    5.6
+  ],
+  "artists": {
+    "willie-nelson": true
+  },
+  "scores": [
+    0.036,
+    0.171,
+    0.267,
+    0.351,
+    0.463,
+    0.425
+  ]
+}

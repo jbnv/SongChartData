@@ -1,1 +1,12 @@
-{"title":"Escape Club","instanceSlug":"escape-club","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Escape Club",
+  "instanceSlug": "escape-club",
+  "tags": [],
+  "genres": ["pop-rock"],
+  "members": [],
+  "complete": true,
+  "origin": "london",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

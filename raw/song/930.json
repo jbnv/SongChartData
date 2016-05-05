@@ -1,0 +1,21 @@
+{
+  "title": "Never",
+  "instanceSlug": 930,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1985-10",
+  "playlists": [
+  ],
+  "artists": {
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.391,
+    0.365,
+    0.311
+  ]
+}

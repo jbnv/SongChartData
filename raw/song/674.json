@@ -1,0 +1,24 @@
+{
+  "title": "Heartlight",
+  "instanceSlug": 674,
+  "tags": [
+    "heart",
+    "light"
+  ],
+  "genre": "pop",
+  "debut": "1982-09",
+  "playlists": [
+  ],
+  "artists": {
+    "neil-diamond": true,
+    "carol-bayer-sager":"writer"
+  },
+  "scores": [
+    0.055,
+    0.246,
+    0.437,
+    0.563,
+    0.456,
+    0.346
+  ]
+}

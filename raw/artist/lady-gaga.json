@@ -1,1 +1,15 @@
-{"title":"Lady Gaga","instanceSlug":"lady-gaga","tags":[],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"f"}
+{
+  "title": "Lady Gaga",
+  "instanceSlug": "lady-gaga",
+  "tags": [],
+  "genres": [
+    "pop"
+  ],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "new-york",
+  "birth": "1980s",
+  "death": "",
+  "type": "f"
+}

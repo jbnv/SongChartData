@@ -1,1 +1,16 @@
-{"title":"Carrie Underwood","instanceSlug":"carrie-underwood","tags":["american-idol"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"f"}
+{
+  "title": "Carrie Underwood",
+  "instanceSlug": "carrie-underwood",
+  "tags": [
+    "american-idol"
+  ],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

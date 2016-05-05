@@ -1,1 +1,15 @@
-{"title":["Train",true],"instanceSlug":"train","tags":[],"parents":[],"genres":["2000s"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Train",
+  "instanceSlug": "train",
+  "tags": ["2000s"],
+  "genres": [
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "g"
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Taken In",
+  "instanceSlug": 1946,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-08",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    10,
+    7,
+    5.2,
+    4.5,
+    4.7,
+    5.4
+  ],
+  "artists": {
+    "mike-mechanics": true,
+    "paul-carrack": "member",
+    "mike-rutherford": "member",
+    "paul-young-2": "lead"
+  },
+  "scores": [
+    0.075,
+    0.232,
+    0.351,
+    0.45,
+    0.498,
+    0.484,
+    0.437
+  ]
+}

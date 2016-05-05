@@ -1,1 +1,11 @@
-{"title":"Four Seasons","instanceSlug":"four-seasons","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"new-jersey","birth":"","death":""}
+{
+  "title": "Four Seasons",
+  "instanceSlug": "four-seasons",
+  "tags": ["1960s","hof"],
+  "genres": [],
+  "members": ["frankie-valli"],
+  "complete": false,
+  "origin": "new-jersey",
+  "birth": "",
+  "death": ""
+}

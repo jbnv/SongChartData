@@ -1,0 +1,23 @@
+{
+  "title": "Miles Away",
+  "instanceSlug": 1150,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": 1991,
+  "playlists": [
+    "ballad"
+  ],
+  "artists": {
+    "winger": true
+  },
+  "scores": [
+    0.04,
+    0.36,
+    0.39,
+    0.42,
+    0.44,
+    0.43,
+    0.42
+  ]
+}

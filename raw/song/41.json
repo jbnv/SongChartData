@@ -1,1 +1,36 @@
-{"title":"Gloria","instanceSlug":41,"tags":["women"],"parents":[],"genre":"dance-pop","debut":"1982-09","ranks":[15.9,9.3,7.2,5.5,4.9,4.7,4.52,4.76,5.1],"artists":{"laura-branigan":true}}
+{
+  "title": "Gloria",
+  "instanceSlug": 41,
+  "tags": [
+    "women"
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1982-09",
+  "ranks": [
+    15.9,
+    9.3,
+    7.2,
+    5.5,
+    4.9,
+    4.7,
+    4.52,
+    4.76,
+    5.1
+  ],
+  "artists": {
+    "laura-branigan": true
+  },
+  "scores": [
+    0.077,
+    0.256,
+    0.341,
+    0.431,
+    0.47,
+    0.484,
+    0.497,
+    0.479,
+    0.456
+  ]
+}

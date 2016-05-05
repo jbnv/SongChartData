@@ -1,0 +1,23 @@
+{
+  "title": "Suddenly",
+  "instanceSlug": 2700,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1980-12",
+  "source": "xanadu",
+  "playlists": [
+  ],
+  "artists": {
+    "olivia-newton-john": true,
+    "cliff-richard": true
+  },
+  "scores": [
+    0.316,
+    0.629,
+    0.682,
+    0.75,
+    0.8,
+    0.78
+    ]
+}

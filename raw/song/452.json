@@ -1,0 +1,31 @@
+{
+  "title": "One Good Reason",
+  "instanceSlug": 452,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    8.1,
+    4.4,
+    2.3,
+    2.5,
+    3.5
+  ],
+  "artists": {
+    "paul-carrack": true
+  },
+  "scores": [
+    0.097,
+    0.302,
+    0.506,
+    0.722,
+    0.694,
+    0.582
+  ]
+}

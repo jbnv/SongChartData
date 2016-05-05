@@ -1,1 +1,18 @@
-{"title":"Earth Wind & Fire","instanceSlug":"earth-wind-fire","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":""}
+{
+  "title": "Earth Wind & Fire",
+  "instanceSlug": "earth-wind-fire",
+  "tags": [
+    "1970s",
+    "hof"
+  ],
+  "genres": [
+    "soul",
+    "urban"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "chicago",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

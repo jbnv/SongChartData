@@ -1,1 +1,21 @@
-{"title":"Two Occasions","instanceSlug":130,"tags":["two"],"parents":[],"genre":"soul","debut":"1988-05","ranks":[10,2.8,1.5,1.4,1.65,2.1],"artists":{"deele":true,"babyface":true}}
+{
+  "title": "Two Occasions",
+  "instanceSlug": 130,
+  "tags": [
+  ],
+  "genre": "soul",
+  "debut": "1988-05",
+  "artists": {
+    "deele": true,
+    "babyface": "lead"
+  },
+  "scores": [
+    0.232,
+    0.656,
+    0.864,
+    0.887,
+    0.895,
+    0.9,
+    0.89
+  ]
+}

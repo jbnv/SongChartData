@@ -1,1 +1,18 @@
-{"title":"Amy Grant","instanceSlug":"amy-grant","tags":[],"parents":[],"genres":[],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Amy Grant",
+  "instanceSlug": "amy-grant",
+  "tags": [
+    "christian"
+  ],
+  "parents": [],
+  "genres": [
+    "christian-contemporary",
+    "pop",
+    "adult-contemporary","gospel"
+  ],
+  "type": "f",
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Heaven Is a Place on Earth",
+  "instanceSlug": 418,
+  "tags": [
+    "earth",
+    "heaven",
+    "place"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    12,
+    10,
+    9.5,
+    9.2,
+    9.4,
+    9.7,
+    10.3,
+    11,
+    13
+  ],
+  "artists": {
+    "belinda-carlisle": true
+  },
+  "scores": [
+    0.018,
+    0.171,
+    0.232,
+    0.249,
+    0.26,
+    0.253,
+    0.242,
+    0.222,
+    0.2,
+    0.145
+  ]
+}

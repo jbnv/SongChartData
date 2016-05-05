@@ -1,1 +1,15 @@
-{"title":"Kenny G","instanceSlug":"kenny-g","tags":[],"parents":[],"genres":["adult-contemporary"],"members":[],"xref":[],"complete":true,"origin":"seattle","birth":"","death":"","type":"m"}
+{
+  "title": "Kenny G",
+  "instanceSlug": "kenny-g",
+  "tags": [],
+  "genres": [
+    "adult-contemporary"
+  ],
+  "roles":["saxophonist"],
+  "xref": [],
+  "complete": false,
+  "origin": "seattle",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

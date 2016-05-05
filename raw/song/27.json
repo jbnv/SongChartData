@@ -1,1 +1,22 @@
-{"title":"Bad to the Bone","instanceSlug":27,"tags":[],"parents":[],"genre":"","debut":"","ranks":[],"artists":{"george-thurogood-the-destroyers":true}}
+{
+  "title": "Bad to the Bone",
+  "instanceSlug": 27,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1980s",
+  "ranks": [
+  ],
+  "artists": {
+    "george-thurogood-the-destroyers": true
+  },
+  "scores": [
+    0.15,
+    0.372,
+    0.471,
+    0.492,
+    0.509,
+    0.52,
+    0.5
+  ]
+}

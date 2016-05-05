@@ -1,0 +1,34 @@
+{
+  "title": "Morning",
+  "instanceSlug": 1604,
+  "tags": [
+    "morning"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1983-05",
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    8,
+    5,
+    3.1,
+    2.6,
+    2.3,
+    2.72
+  ],
+  "artists": {
+    "al-jarreau": true
+  },
+  "scores": [
+    0.12,
+    0.306,
+    0.463,
+    0.622,
+    0.681,
+    0.722,
+    0.666
+  ]
+}

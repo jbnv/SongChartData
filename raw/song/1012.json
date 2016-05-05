@@ -1,0 +1,25 @@
+{
+  "title": "Straight to Your Heart",
+  "instanceSlug": 1012,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1991-10",
+  "playlists": [
+  ],
+  "artists": {
+    "bad-english": true,
+    "jon-waite": "lead",
+    "jonathan-cain":"member",
+    "ricky-phillips":"member",
+    "neal-schon":"member"
+  },
+  "scores": [
+    0.134,
+    0.161,
+    0.2,
+    0.2355,
+    0.244,
+    0.2305
+  ]
+}

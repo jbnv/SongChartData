@@ -1,1 +1,17 @@
-{"title":["One Direction",true],"instanceSlug":"one-direction","tags":[],"parents":[],"genres":["2010s"],"members":[],"xref":[],"complete":false,"origin":"uk","birth":"","death":"","type":"g"}
+{
+  "title": "One Direction",
+  "instanceSlug": "one-direction",
+  "tags": ["2010s"],
+  "parents": [],
+  "genres": ["pop"
+
+  ],
+  "members": ["niall-horan","liam-payne","harry-styles","louis-tomlinson","zayn-malik"],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "uk",
+  "birth": "2000s",
+  "death": "",
+  "type": "mmm"
+}

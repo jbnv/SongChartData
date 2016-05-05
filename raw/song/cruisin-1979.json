@@ -1,0 +1,33 @@
+{
+  "title": "Cruisin'",
+  "instanceSlug": "cruisin-1979",
+  "tags": [
+  ],
+  "genres": [
+    "soul",
+    "pop",
+    "adult-contemporary"
+  ],
+  "debut": "1979-12",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    13,
+    10,
+    9,
+    7,
+    7.7
+  ],
+  "artists": {
+    "smokey-robinson": true
+  },
+  "scores": [
+    0.018,
+    0.145,
+    0.232,
+    0.267,
+    0.351,
+    0.319
+  ]
+}

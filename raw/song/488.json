@@ -1,0 +1,28 @@
+{
+  "title": "On My Own",
+  "instanceSlug": 488,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1986-04",
+  "playlists": [
+    "breakup",
+    "feb13",
+    "ballad"
+  ],
+  "artists": {
+    "patti-labelle": true,
+    "michael-mcdonald": true,
+    "carol-bayer-sager":"writer"
+  },
+  "scores": [
+    0.3,
+    0.622,
+    0.78,
+    0.82,
+    0.85,
+    0.86,
+    0.87,
+    0.81
+  ]
+}

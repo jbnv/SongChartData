@@ -1,1 +1,8 @@
-{"title":"Alabama","instanceSlug":"alabama","tags":[],"parents":["us"]}
+{
+  "title": "Alabama",
+  "instanceSlug": "alabama",
+  "tags": [],
+  "parents": [
+    "us"
+  ]
+}

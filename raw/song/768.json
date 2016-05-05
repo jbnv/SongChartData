@@ -1,0 +1,28 @@
+{
+  "title": "Start Me Up",
+  "instanceSlug": 768,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock",
+    "#2-hot-100"
+  ],
+  "genre": "rock",
+  "debut": "1981-09",
+  "playlists": [
+  ],
+  "artists": {
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
+  },
+  "scores": [
+    0.47,
+    1,
+    0.985,
+    0.97,
+    0.952,
+    0.936,
+    0.9
+  ],
+  "note":"Project 6 weeks at #1."
+}

@@ -1,1 +1,36 @@
-{"title":"Good Thing","instanceSlug":24,"tags":["#1","#1-hot-100","songs-of-summer"],"parents":[],"genre":"rock","debut":"1989-06","source":"tin-men","ranks":[13.9,2.1,1,1.17],"artists":{"fine-young-cannibals":true}}
+{
+  "title": "Good Thing",
+  "instanceSlug": 24,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "rock",
+  "debut": "1989-06",
+  "source": "tin-men",
+  "ranks": [
+    8,
+    1,
+    1.045,
+    1.09,
+    1.19,
+    1.33,
+    1.54
+  ],
+  "artists": {
+    "fine-young-cannibals": true
+  },
+  "note": "6 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.985,
+    0.971,
+    0.942,
+    0.904,
+    0.856
+  ]
+}

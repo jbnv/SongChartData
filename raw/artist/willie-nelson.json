@@ -1,1 +1,15 @@
-{"title":"Willie Nelson","instanceSlug":"willie-nelson","tags":[],"parents":[],"genres":["country"],"members":[],"xref":[],"complete":true,"origin":"texas","birth":1933,"death":"","type":"m"}
+{
+  "title": "Willie Nelson",
+  "instanceSlug": "willie-nelson",
+  "tags": [],
+  "genres": [
+    "country"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "texas",
+  "birth": 1933,
+  "death": "",
+  "type": "m"
+}

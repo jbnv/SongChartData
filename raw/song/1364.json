@@ -1,0 +1,21 @@
+{
+  "title": "Breakfast at Tiffany's",
+  "instanceSlug": 1364,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1995-10",
+  "playlists": [
+  ],
+  "artists": {
+    "deep-blue-something": true
+  },
+  "scores": [
+    0.065,
+    0.252,
+    0.404,
+    0.466,
+    0.471,
+    0.457
+  ]
+}

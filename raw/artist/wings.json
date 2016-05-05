@@ -1,1 +1,16 @@
-{"title":"Wings","instanceSlug":"wings","tags":[],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Wings",
+  "instanceSlug": "wings",
+  "searchTerms": ["wings","paul mccartney","mccartney"],
+  "tags": [],
+  "genres": [
+    "rock"
+  ],
+  "members": ["paul-mccartney"],
+  "xref": [],
+  "complete": false,
+  "origin": "england",
+  "birth": "1970s",
+  "death": "",
+  "type": "mmm"
+}

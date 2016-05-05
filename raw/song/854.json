@@ -1,0 +1,40 @@
+{
+  "title": "I've Had the Time of My Life",
+  "instanceSlug": 854,
+  "tags": [
+    "i've",
+    "life",
+    "my",
+    "my-life",
+    "this-of-that",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    15.2,
+    9.2,
+    4.6,
+    3.34,
+    2.78,
+    3.01,
+    3.45
+  ],
+  "artists": {
+    "bill-medley": true,
+    "jennifer-warnes": true
+  },
+  "scores": [
+    0.092,
+    0.26,
+    0.491,
+    0.598,
+    0.659,
+    0.632,
+    0.587
+  ]
+}

@@ -1,1 +1,17 @@
-{"title":"Bad English","instanceSlug":"bad-english","tags":[],"parents":[],"genres":[],"members":["jon-waite"],"origin":"","birth":"","death":"","complete":false,"type":"g"}
+{
+  "title": "Bad English",
+  "instanceSlug": "bad-english",
+  "tags": [],
+  "genres": ["pop-rock"],
+  "members": [
+    "jon-waite",
+    "jonathan-cain",
+    "ricky-phillips",
+    "neal-schon"
+  ],
+  "origin": "los-angeles",
+  "birth": "",
+  "death": "",
+  "complete": true,
+  "type": "mmm"
+}

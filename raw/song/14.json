@@ -1,1 +1,25 @@
-{"title":"Black Cat","instanceSlug":14,"tags":["animals","black","cat","halloween"],"parents":[],"genre":"rock","debut":"1990-10","ranks":[18,11.8,7,8,10,13,18],"artists":{"jacnet-jackson":true}}
+{
+  "title": "Black Cat",
+  "instanceSlug": 14,
+  "tags": [
+  ],
+  "playlists": [
+    "animals",
+    "halloween",
+    "colors"
+  ],
+  "genre": "rock",
+  "debut": "1990-10",
+  "artists": {
+    "janet-jackson": true
+  },
+  "scores": [
+    0.036,
+    0.177,
+    0.351,
+    0.306,
+    0.232,
+    0.145,
+    0.036
+  ]
+}

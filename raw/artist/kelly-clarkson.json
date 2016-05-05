@@ -1,1 +1,17 @@
-{"title":"Kelly Clarkson","instanceSlug":"kelly-clarkson","tags":["2000s","2010s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"f"}
+{
+  "title": "Kelly Clarkson",
+  "instanceSlug": "kelly-clarkson",
+  "tags": [
+    "2000s",
+    "2010s","american-idol"
+  ],
+  "roles": ["singer"],
+  "genres": ["pop"],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

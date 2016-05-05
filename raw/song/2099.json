@@ -1,0 +1,23 @@
+{
+  "title": "Smooth Criminal",
+  "instanceSlug": 2099,
+  "tags": [
+    "#1",
+    "remake"
+  ],
+  "genre": "hard-rock",
+  "debut": "2001-10",
+  "playlists": [
+  ],
+  "artists": {
+    "alien-ant-farm": true,
+    "michael-jackson": "writer"
+  },
+  "scores": [
+    0.1,
+    0.232,
+    0.328,
+    0.463,
+    0.437
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Higher Ground",
+  "instanceSlug": 2139,
+  "tags": [
+    "#1"
+  ],
+  "genre": "urban",
+  "debut": 1973,
+  "playlists": ["commentary"],
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+    0.3,
+    0.57,
+    0.7,
+    0.75,
+    0.71
+  ]
+}

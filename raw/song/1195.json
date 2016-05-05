@@ -1,0 +1,26 @@
+{
+  "title": "Jimmy Olsen Blues",
+  "instanceSlug": 1195,
+  "tags": [
+    "blues",
+    "superman"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1993-11",
+  "playlists": [
+  ],
+  "artists": {
+    "spin-doctors": true
+  },
+  "scores": [
+    0.3,
+    0.513,
+    0.683,
+    0.722,
+    0.75,
+    0.77,
+    0.76
+  ]
+}

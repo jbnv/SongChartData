@@ -1,1 +1,22 @@
-{"title":"Heart","instanceSlug":"heart","tags":["1970s","1980s","1990s"],"parents":[],"genres":["rock"],"members":["ann-wilson","nancy-wilson"],"type":"g","origin":"seattle","birth":"","death":"","complete":false}
+{
+  "title": "Heart",
+  "instanceSlug": "heart",
+  "tags": [
+    "1970s",
+    "1980s",
+    "1990s",
+    "hof"
+  ],
+  "genres": [
+    "rock"
+  ],
+  "members": [
+    "ann-wilson",
+    "nancy-wilson"
+  ],
+  "type": "ffm",
+  "origin": "seattle",
+  "birth": "",
+  "death": "",
+  "complete": true
+}

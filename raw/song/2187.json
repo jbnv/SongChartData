@@ -1,0 +1,21 @@
+{
+  "title": "Just Once",
+  "instanceSlug": 2187,
+  "tags": [
+  ],
+  "genre": "soul",
+  "debut": "1981-10",
+  "playlists": [
+  ],
+  "artists": {
+    "quincy-jones": true,
+    "james-ingram": "feature"
+  },
+  "scores": [
+    0.125,
+    0.265,
+    0.405,
+    0.435,
+    0.421
+  ]
+}

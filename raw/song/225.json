@@ -1,0 +1,30 @@
+{
+  "title": "Cassanova",
+  "instanceSlug": 225,
+  "tags": [
+    "literary"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1987-09",
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    5.2,
+    4.8,
+    5.9
+  ],
+  "artists": {
+    "levert": true
+  },
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.45,
+    0.477,
+    0.408
+  ]
+}

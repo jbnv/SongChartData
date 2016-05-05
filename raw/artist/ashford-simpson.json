@@ -1,1 +1,13 @@
-{"title":"Ashford & Simpson","instanceSlug":"ashford-simpson","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":"d"}
+{
+  "title": "Ashford & Simpson",
+  "instanceSlug": "ashford-simpson",
+  "tags": [],
+  "parents": [],
+  "genres": ["soul"],
+  "members": [],
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "type": "mf"
+}

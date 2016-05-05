@@ -1,0 +1,23 @@
+{
+  "title": "Bring It All to Me",
+  "instanceSlug": 1437,
+  "tags": [],
+  "genre": "urban",
+  "debut": "1999-12",
+  "playlists": [
+  ],
+  "artists": {
+    "blaque": true,
+    "nsync": "feature",
+    "justin-timberlake":"member"
+  },
+  "scores": [
+    0.2,
+    0.6,
+    0.75,
+    0.74,
+    0.73,
+    0.71,
+    0.65
+  ]
+}

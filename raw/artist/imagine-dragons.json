@@ -1,1 +1,14 @@
-{"title":"Imagine Dragons","instanceSlug":"imagine-dragons","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Imagine Dragons",
+  "instanceSlug": "imagine-dragons",
+  "tags": [
+    "2010s"
+  ],
+  "genres": [],
+  "complete": false,
+  "active": true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

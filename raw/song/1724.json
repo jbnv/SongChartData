@@ -1,0 +1,33 @@
+{
+  "title": "I Have Nothing",
+  "instanceSlug": 1724,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1993-03",
+  "source": "bodyguard",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    20,
+    14,
+    11,
+    11.5,
+    13.5
+  ],
+  "artists": {
+    "whitney-houston": true
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.185,
+    0.132
+  ]
+}

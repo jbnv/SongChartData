@@ -1,0 +1,39 @@
+{
+  "title": "If Anyone Falls",
+  "instanceSlug": 1813,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1983-10",
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    6.3,
+    4.9,
+    4.2,
+    3.8,
+    3.75,
+    4,
+    4.45,
+    5.2
+  ],
+  "artists": {
+    "stevie-nicks": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.386,
+    0.47,
+    0.521,
+    0.554,
+    0.559,
+    0.537,
+    0.502,
+    0.45
+  ]
+}

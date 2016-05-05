@@ -1,0 +1,37 @@
+{
+  "title": "Islands in the Stream",
+  "instanceSlug": 355,
+  "tags": [
+    "#1",
+    "#1-country",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "1983-09",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9.5,
+    6,
+    4.5,
+    3.6,
+    3,
+    3.39
+  ],
+  "artists": {
+    "kenny-rogers": true,
+    "dolly-parton": "feature"
+  },
+  "scores": [
+    0.075,
+    0.249,
+    0.402,
+    0.498,
+    0.573,
+    0.633,
+    0.593
+  ]
+}

@@ -1,1 +1,17 @@
-{"title":"Crosby, Stills & Nash","instanceSlug":"crosby-stills-nash","tags":[],"parents":[],"genres":[],"members":["graham-nash","steven-stills","david-crosby"],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Crosby, Stills & Nash",
+  "instanceSlug": "crosby-stills-nash",
+  "tags": ["hof"],
+  "genres": [],
+  "members": [
+    "graham-nash",
+    "steven-stills",
+    "david-crosby",
+    "neil-young"
+  ],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

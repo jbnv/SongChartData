@@ -1,0 +1,32 @@
+{
+  "title": "Oh Sheila",
+  "instanceSlug": 942,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1985-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.4,
+    6.1,
+    5.8,
+    6.9
+  ],
+  "artists": {
+    "ready-for-the-world": true
+  },
+  "scores": [
+    0.038,
+    0.219,
+    0.397,
+    0.414,
+    0.356
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Leather and Lace",
+  "instanceSlug": 1539,
+  "tags": [
+    "this-and-that"
+  ],
+  "parents": [
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    12,
+    9.5,
+    8.2,
+    7,
+    7.2,
+    7.6,
+    9
+  ],
+  "artists": {
+    "stevie-nicks": true,
+    "don-henley": "feature"
+  },
+  "scores": [
+    0.055,
+    0.171,
+    0.249,
+    0.298,
+    0.351,
+    0.341,
+    0.323,
+    0.267
+  ]
+}

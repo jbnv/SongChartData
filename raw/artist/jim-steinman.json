@@ -1,0 +1,15 @@
+{
+  "title": "Jim Steinman",
+  "instanceSlug": "jim-steinman",
+  "type":"m",
+  "tags": [
+    "balladeer"
+  ],
+  "roles":["singer","songwriter","pianist","producer"],
+  "genres": ["soft-rock"],
+  "xref": ["meatloaf","bonnie-tyler"],
+  "complete": true,
+  "origin": "brooklyn",
+  "birth": "1948-11",
+  "death": ""
+}

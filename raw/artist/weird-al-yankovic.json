@@ -1,1 +1,16 @@
-{"title":"Weird Al Yankovic","instanceSlug":"weird-al-yankovic","tags":[],"parents":[],"genres":["parody"],"members":[],"xref":[],"complete":false,"origin":"us","birth":"","death":"","type":"m"}
+{
+  "title": "Weird Al Yankovic",
+  "instanceSlug": "weird-al-yankovic",
+  "tags": [],
+  "roles":["singer","songwriter","musician"],
+  "genres": [
+    "parody"
+  ],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

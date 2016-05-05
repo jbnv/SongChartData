@@ -1,0 +1,28 @@
+{
+  "title": "Celebration",
+  "instanceSlug": 765,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "genre": "dance",
+  "debut": "1980-12",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    2.55,
+    1.11,
+    1.22
+  ],
+  "artists": {
+    "koolnthegang": true
+  },
+  "scores": [
+    0.145,
+    0.687,
+    0.965,
+    0.933
+  ]
+}

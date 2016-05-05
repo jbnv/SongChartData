@@ -1,0 +1,33 @@
+{
+  "title": "Pink Houses",
+  "instanceSlug": 1709,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1984-01",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    11,
+    10.3,
+    8.7,
+    8,
+    9.2
+  ],
+  "artists": {
+    "john-mellancamp": true
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.2,
+    0.222,
+    0.278,
+    0.306,
+    0.26
+  ]
+}

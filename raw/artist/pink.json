@@ -1,1 +1,18 @@
-{"title":"Pink","instanceSlug":"pink","tags":["2000s","2010s"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Pink",
+  "instanceSlug": "pink",
+  "type":"f",
+  "tags": [
+    "2000s",
+    "2010s"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": ""
+}

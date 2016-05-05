@@ -1,0 +1,39 @@
+{
+  "title": "Batdance",
+  "instanceSlug": 505,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-07",
+  "source": "batman",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5.7,
+    4.9,
+    4.16,
+    3.8,
+    3.5,
+    3.35,
+    3.7,
+    4.37
+  ],
+  "artists": {
+    "prince": true
+  },
+  "scores": [
+    0.145,
+    0.419,
+    0.47,
+    0.524,
+    0.554,
+    0.582,
+    0.597,
+    0.563,
+    0.508
+  ]
+}

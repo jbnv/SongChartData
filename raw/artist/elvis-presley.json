@@ -1,1 +1,16 @@
-{"title":"Elvis Presley","instanceSlug":"elvis-presley","tags":["1950s","1960s","1970s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"mississippi","birth":"","death":1977,"type":"m"}
+{
+  "title": "Elvis Presley",
+  "instanceSlug": "elvis-presley",
+  "tags": [
+    "1950s",
+    "1960s",
+    "1970s","hof"
+  ],
+  "roles":["singer","guitarist"],
+  "genres": ["rock"],
+  "complete": false,
+  "origin": "mississippi",
+  "birth": "1934",
+  "death": 1977,
+  "type": "m"
+}

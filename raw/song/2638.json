@@ -1,0 +1,25 @@
+{
+  "title": "Paper Doll",
+  "instanceSlug": 2638,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1992-02",
+  "playlists": [
+  ],
+  "ranks": [
+    30,
+    21,
+    17,
+    13,
+    15
+  ],
+  "artists": {
+    "pm-dawn": true
+  },
+  "scores": [
+    0.055,
+    0.145,
+    0.097
+  ]
+}

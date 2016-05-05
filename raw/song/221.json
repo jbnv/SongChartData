@@ -1,0 +1,23 @@
+{
+  "title": "You Are the Girl",
+  "instanceSlug": 221,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1987-09",
+  "artists": {
+    "cars": true,
+    "ric-ocasek":"member",
+    "benjamin-orr":"member"
+  },
+  "scores": [
+    0.055,
+    0.232,
+    0.341,
+    0.425,
+    0.417,
+    0.403,
+    0.383,
+    0.361
+  ]
+}

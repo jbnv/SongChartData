@@ -1,0 +1,31 @@
+{
+  "title": "This Is It",
+  "instanceSlug": 360,
+  "tags": [
+    "this",
+    "this-is"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2009,
+  "playlists": [
+  ],
+  "ranks": [
+    10,
+    2.7,
+    1.4,
+    1.1,
+    1.52
+  ],
+  "artists": {
+    "michael-jackson": true
+  },
+  "scores": [
+    0.232,
+    0.668,
+    0.887,
+    0.968,
+    0.86
+  ]
+}

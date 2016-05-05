@@ -1,0 +1,33 @@
+{
+  "title": "Time of the Season",
+  "instanceSlug": 1878,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1969,
+  "playlists": [
+  ],
+  "ranks": [
+    15,
+    9,
+    5.5,
+    4,
+    4.2,
+    4.6,
+    5.15
+  ],
+  "artists": {
+    "zombies": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.431,
+    0.537,
+    0.521,
+    0.491,
+    0.453
+  ]
+}

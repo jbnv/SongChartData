@@ -1,1 +1,13 @@
-{"title":"Paul Davis","instanceSlug":"paul-davis","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Paul Davis",
+  "instanceSlug": "paul-davis",
+  "tags": [],
+  "roles": ["singer"],
+  "genres": ["pop","country"],
+  "xref": [],
+  "complete": true,
+  "origin": "mississippi",
+  "birth": "1948",
+  "death": "2008",
+  "type": "m"
+}

@@ -1,0 +1,7 @@
+{
+  "title": "Short Titles",
+  "instanceSlug": "short",
+  "filter": {
+    "title": "^.{1,3}$"
+  }
+}

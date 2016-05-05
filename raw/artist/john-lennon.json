@@ -1,1 +1,22 @@
-{"title":"John Lennon","instanceSlug":"john-lennon","tags":["1960s","1970s","1980s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"liverpool","birth":"","death":"1980","type":"m","xref":["beatles","julian-lennon"]}
+{
+  "title": "John Lennon",
+  "instanceSlug": "john-lennon",
+  "tags": [
+    "1960s",
+    "1970s",
+    "1980s","hof"
+  ],
+  "roles": ["singer","songwriter","pianist","guitarist"],
+  "genres": [
+    "pop"
+  ],
+  "complete": true,
+  "origin": "liverpool",
+  "birth": "1940s",
+  "death": "1980-12",
+  "type": "m",
+  "xref": [
+    "beatles",
+    "julian-lennon"
+  ]
+}

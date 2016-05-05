@@ -1,0 +1,7 @@
+{
+  "title": "Streets, Roads and Highways",
+  "instanceSlug": "street",
+  "filter": {
+    "title": "(Street|Road|Highway|Boulevard)"
+  }
+}

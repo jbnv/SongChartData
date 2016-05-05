@@ -1,0 +1,33 @@
+{
+  "title": "Livin' On The Edge",
+  "instanceSlug": 2082,
+  "tags": [
+    "living-on"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1993-05",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    15,
+    9,
+    5,
+    3,
+    3.1,
+    3.7
+  ],
+  "artists": {
+    "aerosmith": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.463,
+    0.633,
+    0.622,
+    0.563
+  ]
+}

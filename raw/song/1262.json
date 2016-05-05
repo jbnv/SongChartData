@@ -1,0 +1,29 @@
+{
+  "title": "Whip It",
+  "instanceSlug": 1262,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1980,
+  "playlists": [
+  ],
+  "ranks": [
+    14,
+    4.5,
+    2.7,
+    2.81,
+    3,
+    3.3
+  ],
+  "artists": {
+    "devo": true
+  },
+  "scores": [
+    0.12,
+    0.498,
+    0.668,
+    0.655,
+    0.633,
+    0.602
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "You're So Vain",
+  "instanceSlug": 2867,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "artists": {
+    "carly-simon": true,
+    "mick-jagger": "backup"
+  },
+  "scores": [
+    0.1,
+    0.35,
+    0.52,
+    0.61,
+    0.57
+  ]
+}

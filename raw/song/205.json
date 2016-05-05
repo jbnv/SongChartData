@@ -1,0 +1,36 @@
+{
+  "title": "Close to You",
+  "instanceSlug": 205,
+  "tags": [
+    "close-to-you",
+    "to-you"
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "pop",
+  "debut": "1990-08",
+  "ranks": [
+    15,
+    8.5,
+    4.8,
+    3.1,
+    2.3,
+    2.2,
+    2.45,
+    2.75
+  ],
+  "artists": {
+    "maxie-priest": true
+  },
+  "scores": [
+    0.097,
+    0.286,
+    0.477,
+    0.622,
+    0.722,
+    0.737,
+    0.701,
+    0.662
+  ]
+}

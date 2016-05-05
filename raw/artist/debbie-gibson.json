@@ -1,1 +1,3 @@
-{"title":"Debbie Gibson","instanceSlug":"debbie-gibson","tags":["1980s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"nyc","birth":1970,"death":"","type":"f"}
+{"title":"Debbie Gibson","instanceSlug":"debbie-gibson","tags":["1980s","child"],
+  "roles": ["singer","songwriter","producer"],
+"genres":["pop"],"members":[],"complete":true,"origin":"nyc","birth":1970,"death":"","type":"f"}

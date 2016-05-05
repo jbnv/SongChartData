@@ -1,0 +1,21 @@
+{
+  "title": "Eat It",
+  "instanceSlug": 573,
+  "tags": [
+  ],
+  "genre": "parody",
+  "debut": 1984,
+  "playlists": ["eating"
+  ],
+  "artists": {
+    "weird-al-yankovic": true,
+    "michael-jackson":"writer"
+  },
+  "scores": [
+    0.036,
+    0.191,
+    0.381,
+    0.521,
+    0.414
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "She Loves You",
+  "instanceSlug": 1466,
+  "tags": ["#1","#1-hot-100"
+  ],
+  "genre": "rock",
+  "debut": "1964",
+  "playlists": [
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.232,
+    0.3,
+    0.4,
+    0.45,
+    0.47,
+    0.475,
+    0.465
+  ]
+}

@@ -1,1 +1,12 @@
-{"title":"Exile","instanceSlug":"exile","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"g"}
+{
+  "title": "Exile",
+  "instanceSlug": "exile",
+  "tags": [],
+  "genres": ["country","pop"],
+  "members": [],
+  "complete": true,
+  "origin": "kentucky",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

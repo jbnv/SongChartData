@@ -1,1 +1,16 @@
-{"title":"Cliff Richard","instanceSlug":"cliff-richard","tags":["1980s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"england","birth":1940,"death":"","type":"m"}
+{
+  "title": "Cliff Richard",
+  "instanceSlug": "cliff-richard",
+  "roles":["singer","songwriter"],
+  "tags": [
+    "1980s","exusa"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "complete": true,
+  "origin": "india",
+  "birth": 1940,
+  "death": "",
+  "type": "m"
+}

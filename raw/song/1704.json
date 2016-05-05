@@ -1,0 +1,23 @@
+{
+  "title": "If You Asked Me To",
+  "instanceSlug": 1704,
+  "tags": [],
+  "parents": [],
+  "genre": "adult-contemporary",
+  "debut": 1992,
+  "playlists": ["remake"],
+  "ranks": [],
+  "artists": {
+    "celine-dion": true,
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.178,
+    0.327,
+    0.361,
+    0.45,
+    0.505,
+    0.52,
+    0.51
+  ]
+}

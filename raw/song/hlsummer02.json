@@ -1,0 +1,29 @@
+{
+  "title": "Hey Baby",
+  "instanceSlug": "hlsummer02",
+  "tags": [
+  ],
+  "debut": "1989-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    15,
+    9,
+    6,
+    4.2,
+    3,
+    3.2
+  ],
+  "artists": {
+    "henry-lee-summer": true
+  },
+  "scores": [
+    0.097,
+    0.267,
+    0.402,
+    0.521,
+    0.633,
+    0.612
+  ]
+}

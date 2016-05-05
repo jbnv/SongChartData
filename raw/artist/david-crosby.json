@@ -1,1 +1,13 @@
-{"title":"David Crosby","instanceSlug":"david-crosby","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "David Crosby",
+  "instanceSlug": "david-crosby",
+  "tags": [],
+  "parents": [],
+  "genres": [],
+  "xref": ["byrds","crosby-stills-nash"],
+  "complete": true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

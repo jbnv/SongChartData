@@ -1,1 +1,4 @@
-{"title":"Tina Turner","instanceSlug":"tina-turner","tags":["1960s","1970s","1980s"],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"tennessee","birth":"","death":"","type":"f"}
+{"title":"Tina Turner","instanceSlug":"tina-turner","tags":["1960s","1970s","1980s"],
+  "roles": ["singer"],
+"genres":["urban","pop","adult-contemporary"],
+"xref":["ike-turner"],"complete":true,"origin":"tennessee","birth":"","death":"","type":"f"}

@@ -1,1 +1,18 @@
-{"title":"Katy Perry","instanceSlug":"katy-perry","tags":[],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"santa-barbara","birth":"","death":"","type":"f"}
+{
+  "title": "Katy Perry",
+  "instanceSlug": "katy-perry",
+  "tags": [],
+  "roles": [
+    "singer"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "xref": [],
+  "complete": true,
+  "active":true,
+  "origin": "santa-barbara",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "What Have I Done to Deserve This",
+  "instanceSlug": 836,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [
+  ],
+  "ranks": [
+    15.4,
+    8.5,
+    4.8,
+    3.5,
+    3.1,
+    3.45,
+    4.3
+  ],
+  "artists": {
+    "pet-shop-boys": true,
+    "dusty-springfield": "feature"
+  },
+  "scores": [
+    0.088,
+    0.286,
+    0.477,
+    0.582,
+    0.622,
+    0.587,
+    0.513
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Groovy Train",
+  "instanceSlug": 1511,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1991-12",
+  "playlists": [
+  ],
+  "artists": {
+    "farm": true
+  },
+  "scores": [
+    0.275,
+    0.675,
+    0.705,
+    0.735,
+    0.755,
+    0.745,
+    0.67
+  ]
+}

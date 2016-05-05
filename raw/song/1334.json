@@ -1,0 +1,24 @@
+{
+  "title": "Black Velvet",
+  "instanceSlug": 1334,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1990-02",
+  "playlists": [
+    "colors"
+  ],
+  "artists": {
+    "alannah-myles": true
+  },
+  "scores": [
+    0.4,
+    0.612,
+    0.645,
+    0.694,
+    0.72,
+    0.74,
+    0.75,
+    0.725
+  ]
+}

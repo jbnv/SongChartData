@@ -1,0 +1,25 @@
+{
+  "title": "Can't Buy Me Love",
+  "instanceSlug": 1465,
+  "tags": ["#1","#1-hot-100"
+  ],
+  "genre": "rock",
+  "debut": "1964",
+  "playlists": [
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "lead",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.055,
+    0.267,
+    0.463,
+    0.54,
+    0.55,
+    0.542
+  ]
+}

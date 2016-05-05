@@ -1,0 +1,24 @@
+{
+  "title": "MacArthur Park",
+  "instanceSlug": 2730,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "disco",
+  "debut": "1978-10",
+  "playlists": [
+  ],
+  "artists": {
+    "donna-summer": true
+  },
+  "scores": [
+    0.035,
+    0.215,
+    0.395,
+    0.45,
+    0.47,
+    0.48,
+    0.47
+  ]
+}

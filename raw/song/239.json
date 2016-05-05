@@ -1,0 +1,30 @@
+{
+  "title": "Only In My Dreams",
+  "instanceSlug": 239,
+  "tags": [
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "pop",
+  "debut": "1987-07",
+  "ranks": [
+    16,
+    7,
+    3.9,
+    3.3,
+    3.45,
+    3.75
+  ],
+  "artists": {
+    "debbie-gibson": true
+  },
+  "scores": [
+    0.075,
+    0.351,
+    0.546,
+    0.602,
+    0.587,
+    0.559
+  ]
+}

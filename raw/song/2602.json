@@ -1,0 +1,20 @@
+{
+  "title": "Hollywood Nights",
+  "instanceSlug": 2602,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1978-09",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "bob-seger": true
+  },
+  "scores": [
+    0.28434,
+    0.538,
+    0.5796,
+    0.6059,
+    0.62134,
+    0.61
+  ]
+}

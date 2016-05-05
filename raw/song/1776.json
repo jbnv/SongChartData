@@ -1,0 +1,31 @@
+{
+  "title": "ROCK in the USA",
+  "instanceSlug": 1776,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-03",
+  "playlists": [
+  ],
+  "ranks": [
+    18,
+    11,
+    7,
+    5,
+    5.4,
+    6.1
+  ],
+  "artists": {
+    "john-mellancamp": true
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.351,
+    0.463,
+    0.437,
+    0.397
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Everything You Want",
+  "instanceSlug": 1780,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "2000-02",
+  "playlists": [
+  ],
+  "ranks": [
+    8.5,
+    1,
+    1.09,
+    1.19,
+    1.31,
+    1.43,
+    1.57
+  ],
+  "artists": {
+    "vertical-horizon": true
+  },
+  "scores": [
+    0.286,
+    1,
+    0.971,
+    0.942,
+    0.909,
+    0.88,
+    0.849
+  ]
+}

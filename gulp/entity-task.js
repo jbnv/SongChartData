@@ -1,12 +1,14 @@
 var chalk       = require("chalk"),
-    fs          = require("fs"),
+    fs          = require("graceful-fs"),
+    git         = require('gulp-git'),
     path        = require("path"),
     q           = require("q"),
     util        = require("gulp-util"),
-    yargs       = require('yargs');
+    yargs       = require('yargs'),
+
+    writeEntity = require("../lib/fs").writeEntity,
 
     meta        = require('../app/meta');
-    entity      = require('../app/entity');
 
 module.exports = function(gulp,model) {
 
@@ -15,7 +17,7 @@ module.exports = function(gulp,model) {
   gulp.task("create-"+spec.typeSlug, "Create a new "+spec.typeNoun+" entity.", function() {
     var instance = new model(yargs);
     var route = meta.rawRoute(spec.typeSlug,instance.instanceSlug);
-    entity(route,instance);
+    writeEntity(route,instance);
     util.log(chalk.green(route),instance);
   }, {
     options: spec.parameters
@@ -59,6 +61,16 @@ module.exports = function(gulp,model) {
     };
   };
 
+  function parse(json) {
+    var outbound = {};
+    try {
+      outbound = JSON.parse(json);
+    } catch(err) {
+      util.log(chalk.red(err.message),json);
+    }
+    return outbound;
+  }
+
   gulp.task("compile-"+spec.typeSlug, "Compile "+spec.typeNoun+" entities.", function() {
 
     var source_directory = path.join(meta.rawRoot,spec.typeSlug);
@@ -72,18 +84,60 @@ module.exports = function(gulp,model) {
       return q.all(promises);
     })
     .then(function(entityFileTexts) {
-      var entities = entityFileTexts.map(JSON.parse);
+      var entities = entityFileTexts.map(parse);
       var compiled_content_as_object = require("../app/compilers/compile-"+spec.typeSlug)(null,entities);
+
       for (var key in compiled_content_as_object) {
+        if (key == "error") continue;
         var route = meta.compiledRoute(spec.typeSlug,key);
         var content = compiled_content_as_object[key];
-        entity(route,content);
+        writeEntity(route,content);
         util.log(chalk.green(route));
       }
+
+      if (compiled_content_as_object.all) {
+        var count = 0;
+        util.log("Processing "+chalk.green(compiled_content_as_object.all.length)+" entities.");
+        compiled_content_as_object.all.forEach(function(e) {
+          if (!e.instanceSlug) {
+            util.log(e.title+" "+chalk.red("No instanceSlug! Skipped."));
+            return;
+          }
+          var route = meta.compiledRoute(spec.typeSlug,e.instanceSlug);
+          writeEntity(route,e);
+          count++;
+        });
+        util.log("Compiled "+chalk.green(count)+" entities.");
+      }
+
+      (compiled_content_as_object.errors || []).forEach(function(error) {
+        util.log(
+          chalk.magenta(error.typeSlug),
+          chalk.blue(error.instanceSlug),
+          error.error
+        );
+      });
+
     })
     .catch(function (error) {
       util.log("ERROR:",error);
     })
+  });
+
+  gulp.task("commit-"+spec.typeSlug, "Commit "+spec.typeNoun+" entities to Git.", function() {
+    var message = yargs.argv.m || "Updates of "+spec.typeNoun+" entities.";
+    return gulp
+      .src(["./raw/"+spec.typeSlug,"./compiled/"+spec.typeSlug])
+      .pipe(git.add())
+      .pipe(git.commit(message));
+  });
+
+  gulp.task("commit-raw-"+spec.typeSlug, "Commit raw "+spec.typeNoun+" entities to Git.", function() {
+    var message = yargs.argv.m || "Updates of raw "+spec.typeNoun+" entities.";
+    return gulp
+      .src(["./raw/"+spec.typeSlug])
+      .pipe(git.add())
+      .pipe(git.commit(message));
   });
 
 };

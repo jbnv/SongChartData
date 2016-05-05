@@ -1,1 +1,15 @@
-{"title":"Destiny's Child","instanceSlug":"destiny-s-child","tags":[],"parents":[],"genres":[],"members":["beyonce"],"complete":false,"origin":"us","birth":"","death":"","type":"g"}
+{
+  "title": "Destiny's Child",
+  "instanceSlug": "destiny-s-child",
+  "tags": ["1990s"],
+  "parents": [],
+  "genres": [],
+  "members": [
+    "beyonce"
+  ],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

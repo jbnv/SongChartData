@@ -1,1 +1,15 @@
-{"title":"Quincy Jones","instanceSlug":"quincy-jones","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"chicago","birth":"","death":"","type":"m"}
+{
+  "title": "Quincy Jones",
+  "instanceSlug": "quincy-jones",
+  "tags": ["hof"],
+  "genres": [
+    "urban"
+  ],
+  "roles": ["songwriter","producer"],
+  "xref": ["usa-for-africa"],
+  "complete": true,
+  "origin": "chicago",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

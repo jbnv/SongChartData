@@ -1,1 +1,11 @@
-{"title":"Alice Cooper","instanceSlug":"alice-cooper","tags":[],"parents":[],"genres":[],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Alice Cooper",
+  "instanceSlug": "alice-cooper",
+  "tags": ["hof"],
+  "genres": [],
+  "type": "m",
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

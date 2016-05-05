@@ -1,0 +1,35 @@
+{
+  "title": "One Heartbeat",
+  "instanceSlug": 235,
+  "words": [
+    "heart",
+    "beat"
+  ],
+  "genres": [
+    "soul",
+    "pop",
+    "adult-contemporary"
+  ],
+  "debut": "1987-09",
+  "ranks": [
+    18,
+    11.8,
+    6.6,
+    5.9,
+    6.1,
+    6.3,
+    6.7
+  ],
+  "artists": {
+    "smokey-robinson": true
+  },
+  "scores": [
+    0.036,
+    0.177,
+    0.37,
+    0.408,
+    0.397,
+    0.386,
+    0.365
+  ]
+}

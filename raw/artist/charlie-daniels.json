@@ -1,1 +1,12 @@
-{"title":"Charlie Daniels","instanceSlug":"charlie-daniels","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Charlie Daniels",
+  "instanceSlug": "charlie-daniels",
+  "tags": ["singer","guitarist"],
+  "genres": ["country","rock","country-rock","bluegrass","southern-rock"],
+  "members": [],
+  "complete": true,
+  "origin": "north-carolina",
+  "birth": "1936-10",
+  "death": "",
+  "type": "m"
+}

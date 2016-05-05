@@ -1,0 +1,7 @@
+{
+  "title": "Acronym Titles",
+  "instanceSlug": "acronym",
+  "filter": {
+    "title": "^[A-Z]+$"
+  }
+}

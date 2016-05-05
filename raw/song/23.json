@@ -1,1 +1,22 @@
-{"title":"Back in Black","instanceSlug":23,"tags":[],"parents":[],"genre":"hard-rock","debut":"1981-02","ranks":[24,18,16,14,14.3,15.6,19],"artists":{"ac-dc":true}}
+{
+  "title": "Back in Black",
+  "instanceSlug": 23,
+  "tags": [],
+  "playlists": [
+    "colors"
+  ],
+  "genre": "hard-rock",
+  "debut": "1981-02",
+  "artists": {
+    "ac-dc": true
+  },
+  "scores": [
+    0.055,
+    0.171,
+    0.25,
+    0.27,
+    0.29,
+    0.31,
+    0.25
+  ]
+}

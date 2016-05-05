@@ -1,0 +1,36 @@
+{
+  "title": "Time After Time",
+  "instanceSlug": 1045,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1984-05",
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4.5,
+    2.6,
+    2.2,
+    2.1,
+    2.3,
+    2.6,
+    3.3
+  ],
+  "artists": {
+    "cyndi-lauper": true
+  },
+  "scores": [
+    0.171,
+    0.498,
+    0.681,
+    0.737,
+    0.752,
+    0.722,
+    0.681,
+    0.602
+  ]
+}

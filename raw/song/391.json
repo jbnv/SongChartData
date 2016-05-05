@@ -1,0 +1,32 @@
+{
+  "title": "Weak",
+  "instanceSlug": 391,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "new-jack-swing",
+  "debut": "1993-07",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    15,
+    8.6,
+    4.9,
+    2.7,
+    2.3,
+    3.2
+  ],
+  "artists": {
+    "swv": true
+  },
+  "scores": [
+    0.097,
+    0.282,
+    0.47,
+    0.668,
+    0.722,
+    0.612
+  ]
+}

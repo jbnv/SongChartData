@@ -1,0 +1,29 @@
+{
+  "title": "Mixed Emotions",
+  "instanceSlug": 498,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1989-09",
+  "playlists": [
+  ],
+  "artists": {
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
+  },
+  "scores": [
+    0.45,
+    0.722,
+    0.786,
+    0.81,
+    0.85,
+    0.87,
+    0.86,
+    0.84
+  ]
+}

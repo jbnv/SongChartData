@@ -1,0 +1,23 @@
+{
+  "title": "Nothing at All",
+  "instanceSlug": 840,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1986-05",
+  "playlists": [
+  ],
+  "artists": {
+    "heart": true,
+    "ann-wilson":"member",
+    "nancy-wilson":"member"
+  },
+  "scores": [
+    0.038,
+    0.37,
+    0.45,
+    0.47,
+    0.49,
+    0.47
+  ]
+}

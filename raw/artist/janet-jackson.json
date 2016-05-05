@@ -1,1 +1,19 @@
-{"title":"Janet Jackson","instanceSlug":"janet-jackson","tags":["1980s","1990s","2000s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"gary-ind","birth":"","death":"","type":"f"}
+{
+  "title": "Janet Jackson",
+  "instanceSlug": "janet-jackson",
+  "tags": [
+    "1980s",
+    "1990s",
+    "2000s"
+  ],
+  "roles": ["singer"],
+  "genres": [
+    "pop"
+  ],
+  "xref": ["michael-jackson","jacksons"],
+  "complete": true,
+  "origin": "gary-ind",
+  "birth": "1960s",
+  "death": "",
+  "type": "f"
+}

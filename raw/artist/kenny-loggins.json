@@ -1,1 +1,3 @@
-{"title":"Kenny Loggins","instanceSlug":"kenny-loggins","tags":[],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"everett-wa","birth":"","death":"","type":"m"}
+{"title":"Kenny Loggins","instanceSlug":"kenny-loggins",
+  "roles": ["singer","guitarist"],
+"tags":[],"genres":["rock"],"xref":["loggins-messina"],"complete":true,"origin":"everett-wa","birth":"","death":"","type":"m"}

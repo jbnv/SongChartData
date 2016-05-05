@@ -1,0 +1,29 @@
+{
+  "title": "Like a Rolling Stone",
+  "instanceSlug": 2453,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "folk-rock",
+  "debut": 1965,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    5,
+    2,
+    2.45
+  ],
+  "artists": {
+    "bob-dylan": true
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.463,
+    0.768,
+    0.701
+  ]
+}

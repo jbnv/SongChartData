@@ -1,0 +1,26 @@
+{
+  "title": "Free as a Bird",
+  "instanceSlug": 1839,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1996-01",
+  "playlists": [
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "lead",
+    "paul-mccartney": "writer",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.055,
+    0.185,
+    0.356,
+    0.463,
+    0.554,
+    0.521,
+    0.469
+  ]
+}

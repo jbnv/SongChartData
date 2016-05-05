@@ -1,0 +1,31 @@
+{
+  "title": "Hourglass",
+  "instanceSlug": 493,
+  "tags": [
+    "glass",
+    "hour",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-10",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5,
+    1.05,
+    1.13
+  ],
+  "artists": {
+    "squeeze": true
+  },
+  "note": "Project 8 weeks at #1.",
+  "scores": [
+    0.145,
+    0.463,
+    0.983,
+    0.959
+  ]
+}

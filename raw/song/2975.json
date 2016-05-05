@@ -1,0 +1,19 @@
+{
+  "title": "FM (No Static at All)",
+  "instanceSlug": 2975,
+  "tags": [],
+  "genre": "soft-rock",
+  "debut": "1978-07",
+  "source": "fm",
+  "playlists": [],
+  "artists": {
+    "steely-dan": true,
+    "donald-fagen":"lead",
+    "timothy-b-schmidt": "backup"
+  },
+  "scores": [
+    0.055,
+    0.229,
+    0.225
+  ]
+}

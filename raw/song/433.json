@@ -1,0 +1,19 @@
+{
+  "title": "Sad Songs (Say So Much)",
+  "instanceSlug": 433,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+    0.123,
+    0.565,
+    0.674,
+    0.694,
+    0.698,
+    0.685
+  ]
+}

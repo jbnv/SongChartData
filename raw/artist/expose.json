@@ -1,1 +1,12 @@
-{"title":"Expose","instanceSlug":"expose","tags":["all-female"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"miami","birth":"","death":"","type":"g"}
+{
+  "title": "Expose",
+  "instanceSlug": "expose",
+  "tags": [],
+  "genres": ["dance"],
+  "members": [],
+  "complete": true,
+  "origin": "miami",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

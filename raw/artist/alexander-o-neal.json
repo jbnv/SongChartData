@@ -1,1 +1,13 @@
-{"title":"Alexander O'Neal","instanceSlug":"alexander-o-neal","tags":[],"parents":[],"genres":["soul"],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Alexander O'Neal",
+  "instanceSlug": "alexander-o-neal",
+  "tags": [],
+  "genres": [
+    "soul","urban"
+  ],
+  "type": "m",
+  "origin": "mississippi",
+  "birth": "1953-11",
+  "death": "",
+  "complete": true
+}

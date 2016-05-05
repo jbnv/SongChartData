@@ -1,0 +1,33 @@
+{
+  "title": "Breakaway",
+  "instanceSlug": 2016,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 2004,
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    4,
+    2,
+    2.05,
+    2.12,
+    2.29,
+    2.7
+  ],
+  "artists": {
+    "kelly-clarkson": true
+  },
+  "scores": [
+    0.171,
+    0.537,
+    0.768,
+    0.76,
+    0.749,
+    0.723,
+    0.668
+  ]
+}

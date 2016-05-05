@@ -1,0 +1,7 @@
+{
+  "title": "Number Ones",
+  "instanceSlug": 1,
+  "filter": {
+    "tag": "^\\#1"
+  }
+}

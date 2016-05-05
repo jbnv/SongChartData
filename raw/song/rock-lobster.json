@@ -1,0 +1,21 @@
+{
+  "title": "Rock Lobster",
+  "instanceSlug": "rock-lobster",
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "debut": "1980s",
+  "playlists": [
+  ],
+  "artists": {
+    "b-52s": true
+  },
+  "scores": [
+    0.005,
+    0.10,
+    0.12,
+    0.105,
+    0.07
+  ]
+}

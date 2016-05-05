@@ -1,0 +1,27 @@
+{
+  "title": "Nothing's Gonna Stop Us Now",
+  "instanceSlug": 494,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1987-03",
+  "source": "mannequin",
+  "playlists": [
+    "ballad"
+  ],
+  "artists": {
+    "starship": true,
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.078,
+    0.589,
+    0.664,
+    0.658
+  ]
+}

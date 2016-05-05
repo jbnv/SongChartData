@@ -1,0 +1,30 @@
+{
+  "title": "Make You Sweat",
+  "instanceSlug": 196,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "urban",
+  "debut": "1990-07",
+  "ranks": [
+    22,
+    13.1,
+    9.9,
+    8.7,
+    8.5,
+    9.35
+  ],
+  "artists": {
+    "keith-sweat": true
+  },
+  "scores": [
+    0.142,
+    0.235,
+    0.278,
+    0.286,
+    0.254
+  ]
+}

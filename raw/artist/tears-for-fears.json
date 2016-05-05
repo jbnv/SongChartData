@@ -1,1 +1,17 @@
-{"title":["Tears for Fears",true],"instanceSlug":"tears-for-fears","tags":[],"parents":[],"genres":["electro-pop","1980s"],"members":[],"xref":[],"complete":true,"origin":"england","birth":"","death":"","type":"g"}
+{
+  "title": "Tears for Fears",
+  "instanceSlug": "tears-for-fears",
+  "tags": [
+    "1980s"
+  ],
+  "genres": [
+    "electro-pop"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "england",
+  "birth": "",
+  "death": "",
+  "type": "mm"
+}

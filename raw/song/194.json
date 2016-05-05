@@ -1,0 +1,32 @@
+{
+  "title": "My My My",
+  "instanceSlug": 194,
+  "tags": [
+    "my",
+    "triple"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1990-09",
+  "ranks": [
+    18,
+    12,
+    8,
+    7.6,
+    8.1,
+    9
+  ],
+  "artists": {
+    "johnny-gill": true,
+    "after-7": "backup"
+  },
+  "scores": [
+    0.036,
+    0.171,
+    0.306,
+    0.323,
+    0.302,
+    0.267
+  ]
+}

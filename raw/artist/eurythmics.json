@@ -1,1 +1,13 @@
-{"title":"Eurythmics","instanceSlug":"eurythmics","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Eurythmics",
+  "instanceSlug": "eurythmics",
+  "tags": [],
+  "parents": [],
+  "genres": [],
+  "members": ["dave-stewart","annie-lennox"],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "type": "fm"
+}

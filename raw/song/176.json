@@ -1,1 +1,27 @@
-{"title":"Romantic","instanceSlug":176,"tags":["#1","#1-hot100","#1-r&b"],"parents":[],"genre":"pop","debut":"1991-09","ranks":[11,2,1.17,1.25,1.38],"artists":{"karyn-white":true}}
+{
+  "title": "Romantic",
+  "instanceSlug": 176,
+  "tags": [
+    "#1",
+    "#1-hot100",
+    "#1-r&b"
+  ],
+  "genres": ["pop","urban"],
+  "debut": "1991-09",
+  "artists": {
+    "karyn-white": true
+  },
+  "note": "Project 9 weeks at #2.",
+  "scores": [
+    0.2,
+    0.947,
+    0.94,
+    0.932,
+    0.923,
+    0.904,
+    0.876,
+    0.845,
+    0.805,
+    0.737
+  ]
+}

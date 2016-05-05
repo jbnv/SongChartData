@@ -1,1 +1,26 @@
-{"title":"Motownphilly","instanceSlug":163,"tags":["detroit","philadelphia","songs-of-summer"],"parents":[],"genre":"hip-hop","debut":"1991-07","ranks":[16.5,9.5,5.4,4.4,5.5],"artists":{"boyz-ii-men":true,"michael-bivins":"backup"}}
+{
+  "title": "Motownphilly",
+  "instanceSlug": 163,
+  "tags": [
+    "detroit",
+    "philadelphia"
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "hip-hop",
+  "debut": "1991-07",
+  "artists": {
+    "boyz-ii-men": true,
+    "michael-bivins": "backup"
+  },
+  "scores": [
+    0.065,
+    0.236,
+    0.487,
+    0.572,
+    0.644,
+    0.658,
+    0.649
+  ]
+}

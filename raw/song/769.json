@@ -1,0 +1,25 @@
+{
+  "title": "Harlem Shuffle",
+  "instanceSlug": 769,
+  "tags": [
+    "dances",
+    "places"
+  ],
+  "genre": "rock",
+  "debut": "1986-04",
+  "playlists": [
+  ],
+  "artists": {
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
+  },
+  "scores": [
+    0.563,
+    0.794,
+    0.85,
+    0.87,
+    0.88,
+    0.85
+  ]
+}

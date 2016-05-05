@@ -1,0 +1,25 @@
+{
+  "title": "Emotional Rescue",
+  "instanceSlug": 1020,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1980-07",
+  "playlists": [
+  ],
+  "artists": {
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.351,
+    0.37,
+    0.38,
+    0.39,
+    0.4,
+    0.41,
+    0.34
+  ]
+}

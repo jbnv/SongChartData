@@ -1,0 +1,22 @@
+{
+  "title": "In My House",
+  "instanceSlug": "5mOK",
+  "tags": [],
+  "parents": [],
+  "genre": "funk-dance",
+  "debut": "1985-05",
+  "playlists": [],
+  "scores": [    0.055,
+      0.232,
+      0.463,
+      0.645,
+      0.668,
+      0.675,
+      0.656,
+      0.612
+],
+  "artists": {
+    "mary-jane-girls": true,
+    "rick-james": "writer"
+  }
+}

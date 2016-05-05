@@ -1,1 +1,35 @@
-{"title":"Venus","instanceSlug":160,"tags":["#1","#1-hot-100","mythology","remake"],"parents":[],"genre":"pop","debut":"1986-08","ranks":[18,12,9,6,6.2,6.9],"artists":{"bananarama":true}}
+{
+  "title": "Venus",
+  "instanceSlug": 160,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "mythology"
+  ],
+  "playlists": [
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-08",
+  "ranks": [
+    18,
+    12,
+    9,
+    6,
+    6.2,
+    6.9
+  ],
+  "artists": {
+    "bananarama": true
+  },
+  "scores": [
+    0.036,
+    0.171,
+    0.267,
+    0.402,
+    0.391,
+    0.356
+  ]
+}

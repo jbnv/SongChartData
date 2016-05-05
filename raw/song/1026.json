@@ -1,0 +1,39 @@
+{
+  "title": "Bizarre Love Triangle",
+  "instanceSlug": 1026,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1987,
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    8,
+    4,
+    2.9,
+    2.4,
+    2.2,
+    2.2,
+    2.5,
+    2.8,
+    3.3
+  ],
+  "artists": {
+    "new-order": true
+  },
+  "scores": [
+    0.075,
+    0.306,
+    0.537,
+    0.645,
+    0.708,
+    0.737,
+    0.737,
+    0.694,
+    0.656,
+    0.602
+  ]
+}

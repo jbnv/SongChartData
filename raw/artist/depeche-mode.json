@@ -1,1 +1,12 @@
-{"title":"Depeche Mode","instanceSlug":"depeche-mode","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Depeche Mode",
+  "instanceSlug": "depeche-mode",
+  "tags": [],
+  "genres": [],
+  "members": [],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

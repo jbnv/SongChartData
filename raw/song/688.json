@@ -1,0 +1,21 @@
+{
+  "title": "Wake Me Up Before You Go-Go",
+  "instanceSlug": 688,
+  "tags": [
+    "#1","#1-hot-100"
+  ],
+  "genres": ["dance-pop"],
+  "debut": "1984-10",
+  "playlists": [
+  ],
+  "artists": {
+    "wham": true,
+    "george-michael": "lead"
+  },
+  "scores": [
+    0.633,
+    1,
+    0.95,
+    0.923
+  ]
+}

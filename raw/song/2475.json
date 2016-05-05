@@ -1,0 +1,26 @@
+{
+  "title": "We've Got Tonight",
+  "instanceSlug": 2475,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "genre": "country",
+  "debut": "1983-02",
+  "playlists": [
+  ],
+  "artists": {
+    "kenny-rogers": true,
+    "sheena-easton": true
+  },
+  "scores": [
+    0.085,
+    0.23,
+    0.381,
+    0.493,
+    0.632,
+    0.663,
+    0.686,
+    0.67
+  ]
+}

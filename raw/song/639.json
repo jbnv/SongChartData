@@ -1,0 +1,20 @@
+{
+  "title": "Word Up",
+  "instanceSlug": 639,
+  "tags": [
+  ],
+  "genres": ["funk"],
+  "debut": "1986-10",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "cameo": true
+  },
+  "scores": [
+    0.1,
+    0.282,
+    0.376,
+    0.35
+  ]
+}

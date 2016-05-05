@@ -1,0 +1,25 @@
+{
+  "title": "Arthur's Theme (Best That You Can Do)",
+  "instanceSlug": 923,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1981-09",
+  "source": "arthur",
+  "playlists": [
+  ],
+  "artists": {
+    "christopher-cross": true,
+    "carol-bayer-sager":"writer"
+  },
+  "scores": [
+    0.321,
+    0.645,
+    0.662,
+    0.668,
+    0.672
+  ]
+}

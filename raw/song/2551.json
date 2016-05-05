@@ -1,0 +1,29 @@
+{
+  "title": "Paperlate",
+  "instanceSlug": 2551,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "jazz-pop",
+  "debut": "1982-08",
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
+  },
+  "scores": [
+    0.085,
+    0.215,
+    0.259,
+    0.31,
+    0.335,
+    0.333,
+    0.313
+  ]
+}

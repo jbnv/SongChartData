@@ -1,0 +1,35 @@
+{
+  "title": "Ex's and Oh's",
+  "instanceSlug": 3070,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2015-08",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.5,
+    7.3,
+    5.1,
+    4.9,
+    4.95,
+    5.25,
+    5.85
+  ],
+  "artists": {
+    "elle-king": true
+  },
+  "scores": [
+    0.055,
+    0.249,
+    0.337,
+    0.456,
+    0.47,
+    0.466,
+    0.447,
+    0.411
+  ]
+}

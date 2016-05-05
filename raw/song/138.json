@@ -1,1 +1,23 @@
-{"title":"Monkey","instanceSlug":138,"tags":["animals","songs-of-summer"],"parents":[],"genre":"pop","debut":"1988-06","ranks":[13.4,3.4,1,1.21],"artists":{"george-michael":true}}
+{
+  "title": "Monkey",
+  "instanceSlug": 138,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "playlists": [
+    "summer",
+    "animals"
+  ],
+  "genres": ["dance-pop"],
+  "debut": "1988-07",
+  "artists": {
+    "george-michael": true
+  },
+  "note": "6 weeks at #1.",
+  "scores": [
+    0.6,
+    1,
+    0.972
+  ]
+}

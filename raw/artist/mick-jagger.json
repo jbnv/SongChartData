@@ -1,1 +1,18 @@
-{"title":"Mick Jagger","instanceSlug":"mick-jagger","tags":[],"parents":[],"genres":["rock"],"members":[],"xref":["rolling-stones"],"complete":false,"origin":"uk","birth":"","death":"","type":"m"}
+{
+  "title": "Mick Jagger",
+  "instanceSlug": "mick-jagger",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "rock"
+  ],
+  "roles": ["singer","guitarist"],
+  "xref": [
+    "rolling-stones"
+  ],
+  "complete": true,
+  "origin": "england",
+  "birth": "1943-07",
+  "death": "",
+  "type": "m"
+}

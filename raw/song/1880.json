@@ -1,0 +1,22 @@
+{
+  "title": "The Boys of Summer",
+  "instanceSlug": 1880,
+  "tags": [
+  ],
+  "genre": "rock",
+  "playlists": [
+    "remake"
+  ],
+  "debut":"2000s",
+  "artists": {
+    "ataris": true
+  },
+  "scores": [
+    0.055,
+    0.2,
+    0.3,
+    0.346,
+    0.376,
+    0.328
+  ]
+}

@@ -1,1 +1,19 @@
-{"title":"Believe","instanceSlug":42,"tags":[],"parents":[],"genre":"dance","debut":1998,"ranks":[],"artists":{"cher":true}}
+{
+  "title": "Believe",
+  "instanceSlug": 42,
+  "tags": [],
+  "genre": "dance",
+  "debut": 1998,
+  "artists": {
+    "cher": true
+  },
+  "scores": [
+    0.178,
+    0.327,
+    0.361,
+    0.45,
+    0.505,
+    0.52,
+    0.51
+  ]
+}

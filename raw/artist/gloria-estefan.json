@@ -1,1 +1,16 @@
-{"title":"Gloria Estefan","instanceSlug":"gloria-estefan","tags":["1980s","1990s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"miami","birth":"","death":""}
+{
+  "title": "Gloria Estefan",
+  "instanceSlug": "gloria-estefan",
+  "type":"f",
+  "tags": ["spanish",
+    "1980s",
+    "1990s"
+  ],
+  "roles":["singer"],
+  "xref": ["miami-sound-machine"],
+  "genres": ["pop","dance-pop","latin-pop"],
+  "complete": true,
+  "origin": "cuba",
+  "birth": "1957-09",
+  "death": ""
+}

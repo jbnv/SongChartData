@@ -1,1 +1,13 @@
-{"title":"Paul Young","instanceSlug":"paul-young","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Paul Young",
+  "instanceSlug": "paul-young",
+  "tags": [],
+  "genres": ["pop"],
+  "xref": [],
+  "complete": false,
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "type": "m",
+  "note":"Not to be confused with Paul Young of Mike + the Mechanics."
+}

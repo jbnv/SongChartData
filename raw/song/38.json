@@ -1,1 +1,17 @@
-{"title":"Poison","instanceSlug":38,"tags":["poison"],"parents":[],"genre":true,"debut":1990,"ranks":[19.9,11.9,15.5,53,180.7],"artists":{"bell-biv-devoe":true}}
+{
+  "title": "Poison",
+  "instanceSlug": 38,
+  "tags": [
+  ],
+  "genres": ["pop","urban"],
+  "debut": 1990,
+  "artists": {
+    "bell-biv-devoe": true
+  },
+  "scores": [
+    0.084,
+    0.174,
+    0.23,
+    0.21
+  ]
+}

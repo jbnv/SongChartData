@@ -1,1 +1,13 @@
-{"title":"Andrew McMahon In The Wilderness","instanceSlug":"andrew-mcmahon-in-the-wilderness","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false,"type":"m"}
+{
+  "title": "Andrew McMahon in the Wilderness",
+  "instanceSlug": "andrew-mcmahon-in-the-wilderness",
+  "tags": [],
+  "genres": ["pop"],
+  "members": [],
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "active":true,
+  "type": "m"
+}

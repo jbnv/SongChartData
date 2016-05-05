@@ -1,1 +1,13 @@
-{"title":"Tesla","instanceSlug":"tesla","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Tesla",
+  "instanceSlug": "tesla",
+  "type":"mmm",
+  "tags": [],
+  "genres": ["hard-rock"],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "sacramento",
+  "birth": "",
+  "death": ""
+}

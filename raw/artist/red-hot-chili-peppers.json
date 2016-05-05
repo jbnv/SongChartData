@@ -1,1 +1,15 @@
-{"title":"Red Hot Chili Peppers","instanceSlug":"red-hot-chili-peppers","tags":["1990s","2000s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Red Hot Chili Peppers",
+  "instanceSlug": "red-hot-chili-peppers",
+  "tags": [
+    "1990s",
+    "2000s","hof"
+  ],
+  "genres": ["rock"],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": ""
+}

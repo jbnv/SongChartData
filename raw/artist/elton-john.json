@@ -1,1 +1,19 @@
-{"title":"Elton John","instanceSlug":"elton-john","tags":["1970s","1980s","1990s"],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"uk","birth":"","death":"","type":"m"}
+{
+  "title": "Elton John",
+  "instanceSlug": "elton-john",
+  "tags": [
+    "1970s",
+    "1980s",
+    "1990s","hof"
+  ],
+  "roles": ["singer","songwriter","pianist"],
+  "genres": [
+    "pop"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

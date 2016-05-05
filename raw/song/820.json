@@ -1,0 +1,22 @@
+{
+  "title": "My Brave Face",
+  "instanceSlug": 820,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1989-07",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "paul-mccartney": true
+  },
+  "scores": [
+    0.23,
+    0.356,
+    0.44,
+    0.51,
+    0.53,
+    0.52
+  ]
+}

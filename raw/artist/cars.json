@@ -1,1 +1,16 @@
-{"title":"The Cars","instanceSlug":"cars","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"boston","birth":"","death":"","type":"g"}
+{
+  "title": "The Cars",
+  "instanceSlug": "cars",
+  "tags": [],
+  "genres": ["rock"],
+  "members": [
+    "ric-ocasek",
+    "benjamin-orr"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "boston",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

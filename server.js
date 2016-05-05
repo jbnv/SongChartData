@@ -1,96 +1,37 @@
-var app  = require("express")();
-    cors = require('cors'),
-    fs   = require('fs'),
-    http = require('http'),
-    path = require('path');
+var app  = require("express")(),
+    bodyParser = require('body-parser'),
+    cors = require('cors');
+
+    entityRoute = require("./server/entity");
 
 app.use(cors()); // Enable all CORS requests.
+app.use(bodyParser.json()); // Parse application/json.
 
-function dir2obj(dir) {
-  content = {};
-  fs.readdirSync(dir)
-    .filter(function(file){
-      return !fs.statSync(path.join(dir, file)).isDirectory();
-    })
-    .forEach(function(file){
-      slug = file.replace(".json","");
-      content[slug] = JSON.parse(fs.readFileSync(path.join(dir, file)));
-    });
-  return content;
-}
+//region Routes.
 
-app.get(/^\/search\/(.+)$/, function(req, res) {
-  console.log("/search",req.params[0]);
-  // var slug = req.params[0];
-  // var filepath = path.join("xxx", slug+".json");
-  // var content = JSON.parse(fs.readFileSync(filepath));
-  // res.send(content);
+require("./server/artist")(app);
+require("./server/era")(app);
+entityRoute("genre",app);
+entityRoute({singular:"location",storage:"geo"},app);
+entityRoute("playlist",app);
+require("./server/song")(app);
+entityRoute("source",app);
+entityRoute("tag",app);
+
+require("./server/grep")(app);
+require("./server/search")(app);
+require("./server/summary")(app);
+
+require("./server/swap-song-scores")(app);
+
+// Catch-all.
+app.use(function(req,res) {
+  console.log("GET",req.originalUrl,"(bad route)");
+  res.status(404).send("Bad route '"+req.originalUrl+"'.");
 });
 
-app.get("/genres", function(req, res) {
-  console.log("/genres");
-  res.send(dir2obj("raw/genre"));
-});
 
-app.get(/^\/genre\/(.+)$/, function(req, res) {
-  console.log("/genre",req.params[0]);
-  var slug = req.params[0];
-  var filepath = path.join("raw/genre", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
-});
-
-app.get("/locations", function(req, res) {
-  console.log("/locations");
-  res.send(dir2obj("raw/geo"));
-});
-
-app.get(/^\/location\/(.+)$/, function(req, res) {
-  console.log("/location",req.params[0]);
-  var slug = req.params[0];
-  var filepath = path.join("raw/geo", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
-});
-
-app.get("/sources", function(req, res) {
-  console.log("/sources");
-  res.send(dir2obj("raw/source"));
-});
-
-app.get(/^\/source\/(.+)$/, function(req, res) {
-  console.log("/source",req.params[0]);
-  var slug = req.params[0];
-  var filepath = path.join("raw/source", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
-});
-
-app.get("/artists", function(req, res) {
-  console.log("/artists");
-  res.send(dir2obj("raw/artist"));
-});
-
-app.get(/^\/artist\/(.+)$/, function(req, res) {
-  console.log("/artist",req.params[0]);
-  var slug = req.params[0];
-  var filepath = path.join("raw/artist", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
-});
-
-app.get("/songs", function(req, res) {
-  console.log("/songs");
-  res.send(dir2obj("raw/song"));
-});
-
-app.get(/^\/song\/(.+)$/, function(req, res) {
-  console.log("/song",req.params[0]);
-  var slug = req.params[0];
-  var filepath = path.join("raw/song", slug+".json");
-  var content = JSON.parse(fs.readFileSync(filepath));
-  res.send(content);
-});
+//region Start the server.
 
 var port = process.env.PORT || 9702;
 app.listen(port, function() {

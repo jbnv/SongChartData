@@ -1,1 +1,15 @@
-{"title":"Rembrandts","instanceSlug":"rembrandts","tags":[],"parents":[],"genres":["pop-rock"],"members":[],"xref":[],"complete":true,"origin":"los-angeles","birth":"","death":"","type":"d"}
+{
+  "title": "Rembrandts",
+  "instanceSlug": "rembrandts",
+  "tags": [],
+  "genres": [
+    "pop-rock"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "los-angeles",
+  "birth": "",
+  "death": "",
+  "type": "mm"
+}

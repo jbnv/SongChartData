@@ -1,0 +1,34 @@
+{
+  "title": "Best of My Love",
+  "instanceSlug": 1279,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100",
+    "my-love"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": 1975,
+  "playlists": [
+    "ballad",
+    "love"
+  ],
+  "ranks": [],
+  "artists": {
+    "eagles": true,
+    "don-henley": "lead",
+    "glenn-frye":"member",
+    "joe-walsh":"member",
+    "randy-meisner":"member",
+    "timothy-b-schmidt":"member"
+  },
+  "scores": [
+    0.21267,
+    0.6503,
+    0.80032,
+    0.7976,
+    0.7913,
+    0.7773
+  ]
+}

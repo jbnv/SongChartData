@@ -1,1 +1,26 @@
-{"title":"New Edition","instanceSlug":"new-edition","tags":["1980s"],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"boston","birth":"","death":"","type":"g"}
+{
+  "title": "New Edition",
+  "instanceSlug": "new-edition",
+  "tags": [
+    "1980s"
+  ],
+  "parents": [],
+  "genres": [
+    "urban"
+  ],
+  "members": [
+    "ralph-tresvant",
+    "ronnie-devoe",
+    "bobby-brown",
+    "ricky-bell",
+    "michael-bivins",
+    "johnny-gill"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "boston",
+  "birth": "",
+  "death": "",
+  "type": "mmm",
+  "note":"Bobby Brown left in 1986; replaced with Gill."
+}

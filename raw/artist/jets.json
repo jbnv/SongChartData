@@ -1,1 +1,17 @@
-{"title":"The Jets","instanceSlug":"jets","tags":[],"parents":[],"genres":["dance-pop"],"members":[],"complete":true,"origin":"minneapolis","birth":"","death":"","type":"g"}
+{
+  "title": "Jets, The",
+  "instanceSlug": "jets",
+  "tags": [
+    "family"
+  ],
+  "parents": [],
+  "genres": [
+    "dance-pop"
+  ],
+  "members": [],
+  "complete": true,
+  "origin": "minneapolis",
+  "birth": "",
+  "death": "",
+  "type": "mmf"
+}

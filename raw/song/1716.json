@@ -1,0 +1,36 @@
+{
+  "title": "Beer for My Horses",
+  "instanceSlug": 1716,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": "2003-05",
+  "playlists": [
+  ],
+  "ranks": [
+    15.5,
+    8.1,
+    5.9,
+    5.2,
+    5.3,
+    5.7,
+    7
+  ],
+  "artists": {
+    "toby-keith": true,
+    "willie-nelson": "feature"
+  },
+  "scores": [
+    0.086,
+    0.302,
+    0.408,
+    0.45,
+    0.444,
+    0.419,
+    0.351
+  ]
+}

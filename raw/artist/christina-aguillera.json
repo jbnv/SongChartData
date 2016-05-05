@@ -1,1 +1,14 @@
-{"title":"Christina Aguilera","instanceSlug":"christina-aguillera","tags":[],"parents":[],"genres":["pop"],"members":[],"complete":true,"origin":"staten-island","birth":"","death":"","type":"f"}
+{
+  "title": "Christina Aguilera",
+  "instanceSlug": "christina-aguillera",
+  "tags": ["2000s"],
+  "roles": ["singer"],
+  "genres": [
+    "pop"
+  ],
+  "complete": true,
+  "origin": "staten-island",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

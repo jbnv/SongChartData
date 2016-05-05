@@ -1,0 +1,23 @@
+{
+  "title": "Music",
+  "instanceSlug": 852,
+  "tags": [
+    "#1"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "2000-09",
+  "playlists": [
+  ],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.20,
+    0.85,
+    0.83,
+    0.8,
+    0.775
+  ]
+}

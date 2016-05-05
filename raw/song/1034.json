@@ -1,0 +1,41 @@
+{
+  "title": "You Know I Love You",
+  "instanceSlug": 1034,
+  "tags": [
+    "i",
+    "i-love-you",
+    "know",
+    "love",
+    "you",
+    "you-know"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "ranks": [
+    19,
+    15,
+    12,
+    9,
+    7.5,
+    6.8,
+    6.5,
+    7.3
+  ],
+  "artists": {
+    "howard-jones": true
+  },
+  "scores": [
+    0.018,
+    0.097,
+    0.171,
+    0.267,
+    0.328,
+    0.361,
+    0.376,
+    0.337
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Justin Bieber",
+  "instanceSlug": "justin-bieber",
+  "type":"m",
+  "tags": [
+    "2010s","child"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "canada",
+  "birth": "1990s",
+  "death": ""
+}

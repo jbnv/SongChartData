@@ -1,1 +1,18 @@
-{"title":"Paula Abdul","instanceSlug":"paula-abdul","tags":["1980s","1990s"],"parents":[],"genres":["dance"],"members":[],"xref":[],"complete":true,"origin":"california","birth":"","death":"","type":"f"}
+{
+  "title": "Paula Abdul",
+  "instanceSlug": "paula-abdul",
+  "tags": [
+    "1980s",
+    "1990s"
+  ],
+  "roles": ["singer"],
+  "genres": [
+    "dance"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "california",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

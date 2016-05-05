@@ -1,0 +1,35 @@
+{
+  "title": "I'm Every Woman",
+  "instanceSlug": 2337,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1978-12",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9.9,
+    6.3,
+    4.1,
+    3.2,
+    3.5,
+    4.01
+  ],
+  "artists": {
+    "chaka-khan": true
+  },
+  "scores": [
+    0.075,
+    0.235,
+    0.386,
+    0.529,
+    0.612,
+    0.582,
+    0.537
+  ]
+}

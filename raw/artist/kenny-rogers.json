@@ -1,1 +1,4 @@
-{"title":"Kenny Rogers","instanceSlug":"kenny-rogers","tags":["1970s","1980s"],"parents":[],"genres":["country"],"members":[],"xref":[],"complete":true,"origin":"houston","birth":1938,"death":"","type":"m"}
+{"title":"Kenny Rogers","instanceSlug":"kenny-rogers","tags":["1970s","1980s"],
+  "roles":["singer","guitarist"],
+"genres":["country"],
+"xref":["first-edition"],"complete":true,"origin":"houston","birth":1938,"death":"","type":"m"}

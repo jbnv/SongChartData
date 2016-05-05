@@ -1,0 +1,31 @@
+{
+  "title": "Diamonds and Pearls",
+  "instanceSlug": 609,
+  "tags": [
+    "diamond",
+    "jewelry",
+    "pearl",
+    "this-and-that"
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1992-01",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    3.3,
+    1.8,
+    1.92
+  ],
+  "artists": {
+    "prince": true
+  },
+  "scores": [
+    0.075,
+    0.602,
+    0.804,
+    0.782
+  ]
+}

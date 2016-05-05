@@ -1,1 +1,17 @@
-{"title":"Mike & the Mechanics","instanceSlug":"mike-mechanics","tags":[],"parents":[],"genres":[],"members":["paul-carrack"],"xref":[],"complete":false,"origin":"uk","birth":"","death":"","type":"g"}
+{
+  "title": "Mike + the Mechanics",
+  "instanceSlug": "mike-mechanics",
+  "tags": ["1980s"],
+  "genres": ["rock"],
+  "members": [
+    "paul-carrack",
+    "mike-rutherford",
+    "paul-young-2"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "england",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

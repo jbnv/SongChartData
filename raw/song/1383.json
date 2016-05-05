@@ -1,0 +1,40 @@
+{
+  "title": "Alive and Kicking",
+  "instanceSlug": 1383,
+  "tags": [
+    "alive",
+    "kick",
+    "this-and-that"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1985-11",
+  "playlists": [
+  ],
+  "ranks": [
+    17.5,
+    10.9,
+    8.1,
+    7.2,
+    6.9,
+    7.05,
+    7.35,
+    7.8,
+    9
+  ],
+  "artists": {
+    "simple-minds": true
+  },
+  "scores": [
+    0.045,
+    0.203,
+    0.302,
+    0.341,
+    0.356,
+    0.348,
+    0.335,
+    0.315,
+    0.267
+  ]
+}

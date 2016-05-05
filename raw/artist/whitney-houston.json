@@ -1,1 +1,18 @@
-{"title":"Whitney Houston","instanceSlug":"whitney-houston","tags":["1980s","1990s"],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"newark-nj","birth":1963,"death":2011,"type":"f"}
+{
+  "title": "Whitney Houston",
+  "instanceSlug": "whitney-houston",
+  "tags": [
+    "1980s",
+    "1990s"
+  ],
+  "roles": ["singer"],
+  "genres": [
+    "urban"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "newark-nj",
+  "birth": 1963,
+  "death": 2011,
+  "type": "f"
+}

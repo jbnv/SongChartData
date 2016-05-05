@@ -1,0 +1,30 @@
+{
+  "title": "Maniac",
+  "instanceSlug": 332,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-07",
+  "source": "flashdance",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    7.3,
+    9.9
+  ],
+  "artists": {
+    "michael-sembello": true
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.337,
+    0.235
+  ]
+}

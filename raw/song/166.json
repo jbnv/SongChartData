@@ -1,1 +1,24 @@
-{"title":"Blame It On the Rain","instanceSlug":166,"tags":["#1","#1-hot-100"],"parents":[],"genre":"pop","debut":"1989-11","ranks":[17,8,5,4.5,4,4.2,4.45,4.9,6],"artists":{"milli-vanilli":true}}
+{
+  "title": "Blame It On the Rain",
+  "instanceSlug": 166,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "pop",
+  "debut": "1989-11",
+  "artists": {
+    "milli-vanilli": true,
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.055,
+    0.306,
+    0.463,
+    0.498,
+    0.521,
+    0.502,
+    0.47,
+    0.402
+  ]
+}

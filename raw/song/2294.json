@@ -1,0 +1,28 @@
+{
+  "title": "1985",
+  "instanceSlug": 2294,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": 2004,
+  "playlists": [
+    "years"
+  ],
+  "ranks": [
+    18,
+    10,
+    6.1,
+    4.5,
+    5.2
+  ],
+  "artists": {
+    "bowling-for-soup": true
+  },
+  "scores": [
+    0.036,
+    0.232,
+    0.397,
+    0.498,
+    0.45
+  ]
+}

@@ -1,1 +1,12 @@
-{"title":702,"instanceSlug":702,"tags":[],"parents":[],"genres":[],"type":"","origin":"las-vegas","birth":"","death":"","complete":false}
+{
+  "title": 702,
+  "instanceSlug": 702,
+  "tags": [],
+  "parents": [],
+  "genres": ["urban"],
+  "type": "fff",
+  "origin": "las-vegas",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

@@ -1,0 +1,42 @@
+{
+  "title": "I Remember You",
+  "instanceSlug": 1346,
+  "tags": [
+    "i",
+    "remember",
+    "you"
+  ],
+  "parents": [
+  ],
+  "genre": "metal",
+  "debut": "1990-02",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    14,
+    9,
+    7.1,
+    6.5,
+    6,
+    6.2,
+    6.7,
+    7.3,
+    8.1
+  ],
+  "artists": {
+    "skid-row": true
+  },
+  "scores": [
+    0.001,
+    0.12,
+    0.267,
+    0.346,
+    0.376,
+    0.402,
+    0.391,
+    0.365,
+    0.337,
+    0.302
+  ]
+}

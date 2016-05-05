@@ -1,0 +1,24 @@
+{
+  "title": "Land of Confusion",
+  "instanceSlug": 1031,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1986-11",
+  "playlists": [
+  ],
+  "artists": {
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
+  },
+  "scores": [
+    0.11,
+    0.498,
+    0.568,
+    0.602,
+    0.622,
+    0.602
+  ]
+}

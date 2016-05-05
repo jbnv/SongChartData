@@ -1,0 +1,27 @@
+{
+  "title": "Tumbling Dice",
+  "instanceSlug": 2563,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": 1972,
+  "playlists": [
+  ],
+  "ranks": [
+  ],
+  "artists": {
+    "rolling-stones": true,
+    "mick-jagger":"lead",
+    "keith-richards":"member"
+  },
+  "scores": [
+    0.142,
+    0.313,
+    0.61,
+    0.731,
+    0.75,
+    0.72
+  ]
+}

@@ -1,1 +1,15 @@
-{"title":"Gladys Knight","instanceSlug":"gladys-knight","tags":[],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"f"}
+{
+  "title": "Gladys Knight",
+  "instanceSlug": "gladys-knight",
+  "tags": [],
+  "xref": ["gladys-knight-the-pips"],
+  "genres": [
+    "soul",
+    "urban"
+  ],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

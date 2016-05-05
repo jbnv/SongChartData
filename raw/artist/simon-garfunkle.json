@@ -1,1 +1,19 @@
-{"title":"Simon & Garfunkle","instanceSlug":"simon-garfunkle","tags":[],"parents":[],"genres":[],"members":["paul-simon","art-garfunkle"],"xref":[],"complete":false,"origin":true,"birth":"","death":""}
+{
+  "title": "Simon & Garfunkel",
+  "instanceSlug": "simon-garfunkle",
+  "type":"mm",
+  "tags": [
+    "hof",
+    "1960s"
+  ],
+  "genres": [],
+  "members": [
+    "paul-simon",
+    "art-garfunkel"
+  ],
+  "xref": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": ""
+}

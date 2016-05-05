@@ -1,1 +1,13 @@
-{"title":"AC/DC","instanceSlug":"ac-dc","tags":[],"parents":[],"genres":["hard-rock"],"type":"g","origin":"sydney","birth":"","death":"","complete":true}
+{
+  "title": "AC/DC",
+  "instanceSlug": "ac-dc",
+  "tags": ["hof","1980s","1970s"],
+  "genres": [
+    "hard-rock"
+  ],
+  "type": "mmm",
+  "origin": "sydney",
+  "birth": "",
+  "death": "",
+  "complete": true
+}

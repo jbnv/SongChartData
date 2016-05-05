@@ -1,1 +1,24 @@
-{"title":"Father Figure","instanceSlug":140,"tags":["#1"],"parents":[],"debut":1988,"ranks":[16,10,6,3.3,3.1,3.4],"artists":{"george-michael":true}}
+{
+  "title": "Father Figure",
+  "instanceSlug": 140,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genres": [
+    "pop","adult-contemporary"
+  ],
+  "debut": "1988-02",
+  "artists": {
+    "george-michael": true
+  },
+  "scores": [
+    0.45,
+    0.768,
+    0.864,
+    0.841,
+    0.815,
+    0.782,
+    0.737
+  ]
+}

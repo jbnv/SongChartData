@@ -1,1 +1,17 @@
-{"title":"Sam Hunt","instanceSlug":"sam-hunt","tags":[],"parents":[],"genres":["country"],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Sam Hunt",
+  "instanceSlug": "sam-hunt",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "country"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

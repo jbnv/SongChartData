@@ -1,0 +1,29 @@
+{
+  "title": "Stay the Night",
+  "instanceSlug": 1044,
+  "tags": [
+  ],
+  "genres": [
+    "rock",
+    "pop"
+  ],
+  "debut": "1984-06",
+  "playlists": [
+  ],
+  "source": "chicago17",
+  "artists": {
+    "chicago": true,
+    "david-foster": "producer"
+  },
+  "scores": [
+    0.047,
+    0.121,
+    0.2,
+    0.3,
+    0.35,
+    0.36,
+    0.358,
+    0.352,
+    0.331
+  ]
+}

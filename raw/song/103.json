@@ -1,1 +1,22 @@
-{"title":"That Girl","instanceSlug":103,"tags":["#1"],"parents":[],"genre":"pop","debut":"1982-02","ranks":[15,8.6,4.9,3.9,4.5],"artists":{"stevie-wonder":true}}
+{
+  "title": "That Girl",
+  "instanceSlug": 103,
+  "tags": [
+    "#1"
+  ],
+  "genre": "pop",
+  "debut": "1982-02",
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+    0.1,
+    0.3,
+    0.5,
+    0.556,
+    0.595,
+    0.62,
+    0.635,
+    0.625
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "You're Sixteen",
+  "instanceSlug": 2964,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "pop",
+  "debut": 1974,
+  "playlists": [
+    "numbers"
+  ],
+  "ranks": [
+    20,
+    11,
+    8.3,
+    7.5,
+    7.7,
+    9.1
+  ],
+  "artists": {
+    "ringo-starr": true,
+    "nilsson": "backup",
+    "paul-mccartney": "backup"
+  },
+  "scores": [
+    0.001,
+    0.2,
+    0.294,
+    0.328,
+    0.319,
+    0.263
+  ]
+}

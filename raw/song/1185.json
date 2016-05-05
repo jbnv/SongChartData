@@ -1,0 +1,33 @@
+{
+  "title": "The Night the Lights Went Out in Georgia",
+  "instanceSlug": 1185,
+  "tags": [
+    "murder"
+  ],
+  "parents": [
+  ],
+  "genre": "country",
+  "debut": 1992,
+  "playlists": [
+    "places"
+  ],
+  "ranks": [
+    14.5,
+    3.7,
+    2.5,
+    2.6,
+    2.75,
+    3.15
+  ],
+  "artists": {
+    "reba-mcentire": true
+  },
+  "scores": [
+    0.108,
+    0.563,
+    0.694,
+    0.681,
+    0.662,
+    0.617
+  ]
+}

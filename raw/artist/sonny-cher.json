@@ -1,1 +1,13 @@
-{"title":"Sonny & Cher","instanceSlug":"sonny-cher","tags":[],"parents":[],"genres":[],"members":["cher"],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"d"}
+{
+  "title": "Sonny & Cher",
+  "instanceSlug": "sonny-cher",
+  "tags": [],
+  "genres": ["pop"],
+  "members": ["cher","sonny-bono"],
+  "xref": [],
+  "complete": false,
+  "origin": "california",
+  "birth": "",
+  "death": "",
+  "type": "mf"
+}

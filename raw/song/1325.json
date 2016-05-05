@@ -1,0 +1,23 @@
+{
+  "title": "How Can We Be Lovers",
+  "instanceSlug": 1325,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1990-04",
+  "playlists": [
+    "ballad"
+  ],
+  "artists": {
+    "michael-bolton": true,
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.075,
+    0.316,
+    0.531,
+    0.682,
+    0.673,
+    0.64
+  ]
+}

@@ -1,1 +1,13 @@
-{"title":"Shanice","instanceSlug":"shanice","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"f"}
+{
+  "title": "Shanice",
+  "instanceSlug": "shanice",
+  "tags": ["child"],
+  "roles":["singer"],
+  "genres": ["urban"],
+  "xref": [],
+  "complete": false,
+  "origin": "pittsburgh",
+  "birth": "1973-05",
+  "death": "",
+  "type": "f"
+}

@@ -1,1 +1,14 @@
-{"title":"Script, The","instanceSlug":"script","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"g"}
+{
+  "title": "Script, The",
+  "instanceSlug": "script",
+  "tags": ["2010s"],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

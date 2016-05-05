@@ -1,0 +1,37 @@
+{
+  "title": "Mary's Prayer",
+  "instanceSlug": 226,
+  "tags": [
+    "mary",
+    "pray"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-08",
+  "ranks": [
+    14.2,
+    7,
+    2.9,
+    2.58,
+    2.48,
+    2.54,
+    2.69,
+    3,
+    3.5
+  ],
+  "artists": {
+    "danny-wilson": true
+  },
+  "scores": [
+    0.115,
+    0.351,
+    0.645,
+    0.684,
+    0.697,
+    0.689,
+    0.67,
+    0.633,
+    0.582
+  ]
+}

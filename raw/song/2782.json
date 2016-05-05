@@ -1,0 +1,25 @@
+{
+  "title": "Lost in Love",
+  "instanceSlug": 2782,
+  "tags": [
+  ],
+  "genre": "soul",
+  "debut": "1985-05",
+  "playlists": [
+  ],
+  "artists": {
+    "new-edition": true,
+    "ralph-tresvant":"member",
+    "ronnie-devoe":"member",
+    "bobby-brown":"member",
+    "ricky-bell":"member",
+    "michael-bivins":"member"
+  },
+  "scores": [
+    0.087,
+    0.32,
+    0.53,
+    0.573,
+    0.561
+  ]
+}

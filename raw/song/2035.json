@@ -1,0 +1,31 @@
+{
+  "title": "Happy Anniversary",
+  "instanceSlug": 2035,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1978-01",
+  "playlists": [
+  ],
+  "ranks": [
+    20,
+    15,
+    12,
+    10,
+    10.9,
+    12.1
+  ],
+  "artists": {
+    "little-river-band": true
+  },
+  "scores": [
+    0.001,
+    0.097,
+    0.171,
+    0.232,
+    0.203,
+    0.168
+  ]
+}

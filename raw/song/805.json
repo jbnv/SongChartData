@@ -1,0 +1,29 @@
+{
+  "title": "Master Blaster",
+  "instanceSlug": 805,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "reggae",
+  "debut": "1980-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    9.9,
+    5.8,
+    6.2,
+    8.5
+  ],
+  "artists": {
+    "stevie-wonder": true
+  },
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.391,
+    0.286
+  ]
+}

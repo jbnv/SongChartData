@@ -1,0 +1,36 @@
+{
+  "title": "Lady",
+  "instanceSlug": 1551,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "pop",
+    "soft-rock"
+  ],
+  "debut": "1979-02",
+  "playlists": [
+  ],
+  "ranks": [
+    18.5,
+    12,
+    7,
+    4.7,
+    4.5,
+    4.8,
+    5.9
+  ],
+  "artists": {
+    "little-river-band": true
+  },
+  "scores": [
+    0.027,
+    0.171,
+    0.351,
+    0.484,
+    0.498,
+    0.477,
+    0.408
+  ]
+}

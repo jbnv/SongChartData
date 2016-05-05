@@ -1,1 +1,12 @@
-{"title":"Rupert Holmes","instanceSlug":"rupert-holmes","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Rupert Holmes",
+  "instanceSlug": "rupert-holmes",
+  "type":"m",
+  "tags": [],
+  "genres": [],
+  "xref": [],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": ""
+}

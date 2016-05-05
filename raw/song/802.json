@@ -1,0 +1,25 @@
+{
+  "title": "Let Me Be There",
+  "instanceSlug": 802,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [
+  ],
+  "artists": {
+    "olivia-newton-john": true,
+    "mike-sammes": "backup"
+  },
+  "scores": [
+    0.04,
+    0.22,
+    0.4,
+    0.44,
+    0.48,
+    0.52,
+    0.51
+  ]
+}

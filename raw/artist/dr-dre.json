@@ -1,1 +1,3 @@
-{"title":"Dr. Dre","instanceSlug":"dr-dre","tags":[],"parents":[],"genres":["rap","urban"],"members":[],"complete":false,"origin":"us","birth":"","death":""}
+{"title":"Dr. Dre","instanceSlug":"dr-dre","tags":[],
+  "roles":["rapper"],
+"genres":["rap","urban"],"complete":false,"origin":"us","birth":"","death":""}

@@ -1,0 +1,22 @@
+{
+  "title": "Unchained Melody",
+  "instanceSlug": 184,
+  "tags": [
+    "chain"
+  ],
+  "genres": ["pop","adult-contemporary"],
+  "playlists":["ballad"],
+  "debut": "1990-09",
+  "artists": {
+    "righteous-brothers": true
+  },
+  "scores": [
+    0.1,
+    0.15,
+    0.19,
+    0.21,
+    0.23,
+    0.25,
+    0.21
+  ]
+}

@@ -1,1 +1,14 @@
-{"title":"Lumineers","instanceSlug":"lumineers","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"colorado","birth":"","death":"","type":"g"}
+{
+  "title": "Lumineers, The",
+  "instanceSlug": "lumineers",
+  "tags": [],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "colorado",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

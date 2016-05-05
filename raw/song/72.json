@@ -1,1 +1,23 @@
-{"title":"Time (Clock of the Heart)","instanceSlug":72,"tags":["time"],"parents":[],"genre":true,"debut":1983,"ranks":[13.9,7.2,3.7,1.9,1.4,1.8,2.3,2.9,3.7,4.8,6.1,7.7,9.9,12.6,16.1,20.5,26.1,33.2,42.3,53.9,68.6,87.4,111.3],"artists":{"culture-club":true}}
+{
+  "title": "Time (Clock of the Heart)",
+  "instanceSlug": 72,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1983,
+  "ranks": [
+    13.9,
+    3.7,
+    1.4,
+    1.47
+  ],
+  "artists": {
+    "culture-club": true
+  },
+  "scores": [
+    0.122,
+    0.563,
+    0.887,
+    0.871
+  ]
+}

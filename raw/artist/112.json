@@ -1,1 +1,16 @@
-{"title":112,"instanceSlug":112,"tags":["1990s","2000s"],"parents":[],"genres":["urban"],"type":"","origin":"","birth":"","death":"","complete":false}
+{
+  "title": "112",
+  "instanceSlug": "112",
+  "tags": [
+    "1990s",
+    "2000s"
+  ],
+  "genres": [
+    "urban"
+  ],
+  "type": "mmm",
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "complete": false
+}

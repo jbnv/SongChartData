@@ -1,0 +1,20 @@
+{
+  "title": "Edge of Heaven, The",
+  "instanceSlug": 412,
+  "tags": [
+  ],
+  "genres": ["dance-pop"],
+  "debut": "1986-08",
+  "playlists": [
+  ],
+  "artists": {
+    "wham": true,
+    "george-michael": "lead"
+  },
+  "scores": [
+    0.583,
+    0.95,
+    0.90,
+    0.873
+  ]
+}

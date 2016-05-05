@@ -1,1 +1,42 @@
-{"title":"Always On My Mind","instanceSlug":135,"tags":["remake"],"parents":[],"genre":"pop","debut":"1988-04","ranks":[18.5,11.5,6.6,5.8,5.4,5.5,6.2],"artists":{"pet-shop-boys":true}}
+{
+  "title": "Always On My Mind",
+  "instanceSlug": 135,
+  "tags": [
+    "always",
+    "mind"
+  ],
+  "playlists": [
+    "remake"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1988-04",
+  "ranks": [
+    19.9,
+    11.5,
+    6.6,
+    5.8,
+    7.9,
+    10.9,
+    15,
+    20.6,
+    28.2,
+    38.8,
+    53.3,
+    73.1,
+    100.4
+  ],
+  "artists": {
+    "pet-shop-boys": true
+  },
+  "scores": [
+    0.003,
+    0.185,
+    0.37,
+    0.414,
+    0.311,
+    0.203,
+    0.097
+  ]
+}

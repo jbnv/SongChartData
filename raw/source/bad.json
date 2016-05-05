@@ -1,1 +1,8 @@
-{"title":"Bad","instanceSlug":"bad","tags":["michael-jackson"],"parents":[],"type":"album"}
+{
+  "title": "Bad",
+  "instanceSlug": "bad",
+  "tags": [
+    "michael-jackson"
+  ],
+  "type": "album"
+}

@@ -1,1 +1,16 @@
-{"title":"O'Jays","instanceSlug":"o-jays","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"ohio","birth":"","death":"","type":"g"}
+{
+  "title": "O'Jays",
+  "instanceSlug": "o-jays",
+  "tags": [
+    "1970s",
+    "hof"
+  ],
+  "genres": ["soul","urban"],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "ohio",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

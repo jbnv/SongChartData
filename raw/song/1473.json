@@ -1,0 +1,20 @@
+{
+  "title": "Two People",
+  "instanceSlug": 1473,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1987-01",
+  "playlists": [],
+  "artists": {
+    "tina-turner": true
+  },
+  "scores": [
+    0.075,
+    0.3,
+    0.4,
+    0.5,
+    0.52,
+    0.53,
+    0.51
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Summertime",
+  "instanceSlug": 3009,
+  "tags": [
+    "summer"
+  ],
+  "genre": "urban",
+  "debut": 1991,
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "will-smith": true
+  },
+  "scores": [
+    0.232,
+    0.953,
+    0.943,
+    0.925,
+    0.9
+  ]
+}

@@ -1,1 +1,19 @@
-{"title":"Rolling Stones","instanceSlug":"rolling-stones","tags":["1960s","1970s","1980s"],"parents":[],"genres":["rock"],"members":[],"xref":[],"complete":true,"origin":"london","birth":"","death":"","type":"g"}
+{
+  "title": "Rolling Stones",
+  "instanceSlug": "rolling-stones",
+  "tags": [
+    "1960s",
+    "1970s",
+    "1980s","hof"
+  ],
+  "genres": [
+    "rock"
+  ],
+  "members": ["mick-jagger","keith-richards"],
+  "xref": [],
+  "complete": true,
+  "origin": "london",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

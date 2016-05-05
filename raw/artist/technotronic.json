@@ -1,1 +1,15 @@
-{"title":"Technotronic","instanceSlug":"technotronic","tags":[],"parents":[],"genres":["techno-dance"],"members":[],"xref":[],"complete":true,"origin":"belgium","birth":"","death":"","type":"g"}
+{
+  "title": "Technotronic",
+  "instanceSlug": "technotronic",
+  "tags": ["1990s"],
+  "genres": [
+    "techno-dance"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "belgium",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

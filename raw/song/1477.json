@@ -1,0 +1,20 @@
+{
+  "title": "Goldmine",
+  "instanceSlug": 1477,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1986-12",
+  "playlists": [
+  ],
+  "artists": {
+    "pointer-sisters": true
+  },
+  "scores": [
+    0.125,
+    0.526,
+    0.732,
+    0.695,
+    0.65
+  ]
+}

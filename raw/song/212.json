@@ -1,0 +1,21 @@
+{
+  "title": "Causing a Commotion",
+  "instanceSlug": 212,
+  "tags": [
+    "cause"
+  ],
+  "genre": "pop",
+  "debut": "1987-10",
+  "source": "who-s-that-girl",
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.145,
+    0.46,
+    0.8,
+    0.85,
+    0.88,
+    0.87
+  ]
+}

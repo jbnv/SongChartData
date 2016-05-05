@@ -1,1 +1,28 @@
-{"title":"The Look","instanceSlug":123,"tags":["1980s","1988","look"],"parents":[],"genre":"pop","debut":"1989-03","ranks":[19.9,11.8,7,8.5],"artists":{"roxette":true}}
+{
+  "title": "The Look",
+  "instanceSlug": 123,
+  "tags": [
+    "1980s",
+    "1988",
+    "look"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1989-03",
+  "ranks": [
+    19.9,
+    11.8,
+    7,
+    8.5
+  ],
+  "artists": {
+    "roxette": true
+  },
+  "scores": [
+    0.003,
+    0.177,
+    0.351,
+    0.286
+  ]
+}

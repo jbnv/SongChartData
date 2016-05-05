@@ -1,0 +1,23 @@
+{
+  "title": "Blood on the Dance Floor",
+  "instanceSlug": 1231,
+  "artists": {
+    "michael-jackson": true,
+    "teddy-riley": "writer"
+  },
+  "debut": "1997",
+  "tags": [],
+  "genres": [
+    "new-jack-swing",
+    "urban",
+    "pop"
+  ],
+  "playlists": [],
+  "scores": [
+    0.15,
+    0.427,
+    0.571,
+    0.625,
+    0.62
+  ]
+}

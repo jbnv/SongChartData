@@ -1,0 +1,39 @@
+{
+  "title": "I've Got a Rock & Roll Heart",
+  "instanceSlug": 1616,
+  "tags": [
+    "heart",
+    "i",
+    "",
+    "rock&roll"
+  ],
+  "parents": [
+  ],
+  "genres": [
+    "rock",
+    "blues",
+    "blues-rock"
+  ],
+  "debut": "1983-03",
+  "playlists": [
+  ],
+  "ranks": [
+    16,
+    9,
+    3.4,
+    3.6,
+    3.9,
+    4.4
+  ],
+  "artists": {
+    "eric-clapton": true
+  },
+  "scores": [
+    0.075,
+    0.267,
+    0.592,
+    0.573,
+    0.546,
+    0.506
+  ]
+}

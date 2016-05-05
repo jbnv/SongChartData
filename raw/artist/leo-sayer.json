@@ -1,0 +1,14 @@
+{
+  "title": "Leo Sayer",
+  "instanceSlug": "leo-sayer",
+  "roles": ["singer","songwriter"],
+  "genres": [
+    "pop"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "england",
+  "birth": "1948-05",
+  "death": "",
+  "type": "m"
+}

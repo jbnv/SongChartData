@@ -1,0 +1,7 @@
+{
+  "title": "Double Words",
+  "instanceSlug": "double-word",
+  "filter": {
+    "title": "^(.*) \\1$"
+  }
+}

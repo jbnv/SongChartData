@@ -1,1 +1,16 @@
-{"title":"Roger (Roger Troutman)","instanceSlug":"roger","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"ohio","birth":1951,"death":1999,"type":"m"}
+{
+  "title": "Roger (Roger Troutman)",
+  "instanceSlug": "roger",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "urban"
+  ],
+  "members": [],
+  "xref": ["zap"],
+  "complete": true,
+  "origin": "ohio",
+  "birth": 1951,
+  "death": 1999,
+  "type": "m"
+}

@@ -1,1 +1,17 @@
-{"title":"Neil Diamond","instanceSlug":"neil-diamond","tags":["1960s","1970s","1980s"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Neil Diamond",
+  "instanceSlug": "neil-diamond",
+  "tags": [
+    "1960s",
+    "1970s",
+    "1980s","hof"
+  ],
+  "genres": [],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

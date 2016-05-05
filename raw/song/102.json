@@ -1,1 +1,34 @@
-{"title":"This Time","instanceSlug":102,"tags":["1980s","this","time"],"parents":[],"genre":"rock","debut":"1983-10","ranks":[17,10.5,7.5,5.5,5,5.2,5.9],"artists":{"bryan-adams":true}}
+{
+  "title": "This Time",
+  "instanceSlug": 102,
+  "tags": [
+    "1980s",
+    "this",
+    "time"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1983-10",
+  "ranks": [
+    17,
+    10.5,
+    7.5,
+    5.5,
+    5,
+    5.2,
+    5.9
+  ],
+  "artists": {
+    "bryan-adams": true
+  },
+  "scores": [
+    0.055,
+    0.216,
+    0.328,
+    0.431,
+    0.463,
+    0.45,
+    0.408
+  ]
+}

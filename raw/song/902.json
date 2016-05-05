@@ -1,0 +1,29 @@
+{
+  "title": "Treasure",
+  "instanceSlug": 902,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": 2013,
+  "playlists": [
+  ],
+  "ranks": [
+    12,
+    3.4,
+    1.6,
+    1.8,
+    2.05
+  ],
+  "artists": {
+    "bruno-mars": true
+  },
+  "scores": [
+    0.171,
+    0.592,
+    0.843,
+    0.804,
+    0.76
+  ]
+}

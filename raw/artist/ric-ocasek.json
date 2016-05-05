@@ -1,0 +1,15 @@
+{
+  "title": "Ric Ocasek",
+  "instanceSlug": "ric-ocasek",
+  "tags": [],
+  "roles":["vocalist","guitarist"],
+  "genres": [
+    "rock"
+  ],
+  "xref": ["cars"],
+  "complete": true,
+  "origin": "baltimore",
+  "birth": 1949,
+  "death": "",
+  "type": "m"
+}

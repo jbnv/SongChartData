@@ -1,0 +1,31 @@
+{
+  "title": "Queen of Hearts",
+  "instanceSlug": 909,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1981-07",
+  "playlists": [
+  ],
+  "ranks": [
+    13.9,
+    4,
+    2.2,
+    2.2,
+    3.2
+  ],
+  "artists": {
+    "juice-newton": true
+  },
+  "scores": [
+    0.122,
+    0.537,
+    0.737,
+    0.737,
+    0.612
+  ]
+}

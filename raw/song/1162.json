@@ -1,0 +1,25 @@
+{
+  "title": "Temptation",
+  "instanceSlug": 1162,
+  "tags": [
+    "tempt"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1991-07",
+  "playlists": ["summer"
+  ],
+  "artists": {
+    "corina": true
+  },
+  "scores": [
+    0.265,
+    0.665,
+    0.695,
+    0.725,
+    0.745,
+    0.735,
+    0.67
+  ]
+}

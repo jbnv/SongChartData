@@ -1,0 +1,27 @@
+{
+  "title": "When I See You Smile",
+  "instanceSlug": 1422,
+  "tags": [
+    "when-i"
+  ],
+  "genre": "pop",
+  "debut": "1989-10",
+  "playlists": [
+  ],
+  "artists": {
+    "bad-english": true,
+    "jon-waite": "lead",
+    "jonathan-cain":"member",
+    "ricky-phillips":"member",
+    "neal-schon":"member",
+    "diane-warren":"writer"
+  },
+  "scores": [
+    0.271,
+    0.367,
+    0.451,
+    0.531,
+    0.563,
+    0.556
+  ]
+}

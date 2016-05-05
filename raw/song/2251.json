@@ -1,0 +1,23 @@
+{
+  "title": "Rock and Roll Dreams Come Through",
+  "instanceSlug": 2251,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1994-02",
+  "playlists": [
+    "ballad"
+  ],
+  "artists": {
+    "meatloaf": true,
+    "jim-steinman": "writer"
+  },
+  "scores": [
+    0.371,
+    0.471,
+    0.528,
+    0.546,
+    0.561,
+    0.55
+  ]
+}

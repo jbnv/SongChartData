@@ -1,1 +1,14 @@
-{"title":["Go-Gos",true],"instanceSlug":"go-gos","tags":[],"parents":[],"genres":["all-female"],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"g"}
+{
+  "title": "Go-Gos",
+  "instanceSlug": "go-gos",
+  "tags": [],
+  "genres": [
+    "rock","pop"
+  ],
+  "members": ["belinda-carlisle","jane-wiedlin"],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "fff"
+}

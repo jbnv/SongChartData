@@ -1,0 +1,24 @@
+{
+  "title": "We Can Work It Out",
+  "instanceSlug": 1471,
+  "tags": ["#1","#1-hot-100"
+  ],
+  "genre": "pop",
+  "debut": "1966",
+  "playlists": [
+  ],
+  "artists": {
+    "beatles": true,
+    "paul-mccartney": "lead",
+    "john-lennon": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "scores": [
+    0.31,
+    0.615,
+    0.65,
+    0.66,
+    0.64
+  ]
+}

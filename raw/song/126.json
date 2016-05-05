@@ -1,1 +1,16 @@
-{"title":"Wait","instanceSlug":126,"tags":[],"parents":[],"debut":"1988-05","ranks":[],"artists":{"white-lion":true}}
+{
+  "title": "Wait",
+  "instanceSlug": 126,
+  "tags": [],
+  "genres": ["rock"],
+  "debut": "1988-05",
+  "artists": {
+    "white-lion": true
+  },
+  "scores": [
+    0.1,
+    0.2,
+    0.25,
+    0.24
+  ]
+}

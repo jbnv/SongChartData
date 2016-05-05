@@ -1,1 +1,19 @@
-{"title":"Miami Sound Machine","instanceSlug":"miami-sound-machine","tags":[],"parents":[],"genres":["latin-dance","latin-pop"],"members":["gloria-estafan"],"xref":[],"complete":false,"origin":"miami","birth":"","death":""}
+{
+  "title": "Miami Sound Machine",
+  "instanceSlug": "miami-sound-machine",
+  "tags": ["spanish"],
+  "genres": [
+    "pop","dance",
+    "latin-dance",
+    "latin-pop"
+  ],
+  "members": [
+    "gloria-estefan"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "miami",
+  "birth": "",
+  "death": "",
+  "type": "fmm"
+}

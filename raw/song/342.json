@@ -1,0 +1,27 @@
+{
+  "title": "Rhythm is Gonna Get You",
+  "instanceSlug": 342,
+  "tags": [
+    "get-you"
+  ],
+  "genres": [
+    "dance",
+    "latin-dance"
+  ],
+  "debut": "1987-06",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "miami-sound-machine": true,
+    "gloria-estefan": "lead"
+  },
+  "scores": [
+    0.12,
+    0.537,
+    0.939,
+    0.925,
+    0.915,
+    0.885
+  ]
+}

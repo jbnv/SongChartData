@@ -1,1 +1,21 @@
-{"title":"Stevie Wonder","instanceSlug":"stevie-wonder","tags":["1960s","1970s","1980s"],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"michigan","birth":"","death":"","type":"m"}
+{
+  "title": "Stevie Wonder",
+  "instanceSlug": "stevie-wonder",
+  "tags": [
+    "hof",
+    "1960s",
+    "1970s",
+    "1980s",
+    "child"
+  ],
+  "roles": ["singer","songwriter","producer","pianist"],
+  "genres": [
+    "urban","soul","pop"
+  ],
+  "xref": [],
+  "complete": true,
+  "origin": "michigan",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

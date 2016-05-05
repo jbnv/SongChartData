@@ -1,1 +1,13 @@
-{"title":"Shai","instanceSlug":"shai","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Shai",
+  "instanceSlug": "shai",
+  "tags": [],
+  "genres": ["soul","urban"],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "dc",
+  "birth": "",
+  "death": "",
+  "type":"mmm"
+}

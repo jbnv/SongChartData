@@ -1,0 +1,22 @@
+{
+  "title": "Scream",
+  "instanceSlug": 1221,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1995-07",
+  "playlists": [
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "janet-jackson": true
+  },
+  "scores": [
+    0.04,
+    0.15,
+    0.21,
+    0.24,
+    0.25,
+    0.24
+  ]
+}

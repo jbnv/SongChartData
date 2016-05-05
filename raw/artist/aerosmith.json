@@ -1,1 +1,21 @@
-{"title":"Aerosmith","instanceSlug":"aerosmith","tags":["1970s","1980s","1990s"],"parents":[],"genres":["hard-rock"],"type":"g","origin":"boston","birth":"","death":"","complete":true,"members":["steven-tyler"]}
+{
+  "title": "Aerosmith",
+  "instanceSlug": "aerosmith",
+  "tags": [
+    "1970s",
+    "1980s",
+    "1990s","hof"
+  ],
+  "parents": [],
+  "genres": [
+    "hard-rock"
+  ],
+  "type": "mmm",
+  "origin": "boston",
+  "birth": "1970s",
+  "death": "",
+  "complete": true,
+  "members": [
+    "steven-tyler"
+  ]
+}

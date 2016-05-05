@@ -1,0 +1,38 @@
+{
+  "title": "Brand New Lover",
+  "instanceSlug": 491,
+  "tags": [
+    "feb13",
+    "lover",
+    "new"
+  ],
+  "parents": [
+  ],
+  "genre": "dance",
+  "debut": "1987-02",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    10,
+    7,
+    6.3,
+    4.9,
+    4.2,
+    4,
+    4.5
+  ],
+  "artists": {
+    "dead-or-alive": true
+  },
+  "scores": [
+    0.055,
+    0.232,
+    0.351,
+    0.386,
+    0.47,
+    0.521,
+    0.537,
+    0.498
+  ]
+}

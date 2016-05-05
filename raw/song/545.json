@@ -1,0 +1,31 @@
+{
+  "title": "Wild Wild West",
+  "instanceSlug": 545,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "rap",
+  "debut": "1999-08",
+  "source": "wild-wild-west",
+  "playlists": [
+    "summer","sample"
+  ],
+  "artists": {
+    "will-smith": true,
+    "dru-hill": "feature",
+    "kool-moe-dee": "backup",
+    "moe-dewese":"writer",
+    "rob-fusari":"writer",
+    "stevie-wonder":"writer"
+  },
+  "scores": [
+    0.257,
+    0.74325,
+    0.80575,
+    0.8145,
+    0.787,
+    0.74975,
+    0.7335
+  ]
+}

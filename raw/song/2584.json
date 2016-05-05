@@ -1,0 +1,23 @@
+{
+  "title": "Guitar Man",
+  "instanceSlug": 2584,
+  "tags": [
+    "#1",
+    "#1-country"
+  ],
+  "genre": "rock",
+  "debut": "1981-03",
+  "playlists": [
+  ],
+  "artists": {
+    "elvis-presley": true,
+    "jerry-reed": "backup"
+  },
+  "scores": [
+    0.37,
+    0.602,
+    0.837,
+    0.88,
+    0.85
+  ]
+}

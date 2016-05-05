@@ -1,0 +1,25 @@
+{
+  "title": "That Girl",
+  "instanceSlug": 583,
+  "tags": [
+  ],
+  "playlists": [
+    "summer",
+    "sample"
+  ],
+  "genre": "pop",
+  "debut": "1996-08",
+  "artists": {
+    "maxie-priest": true,
+    "shaggy": true
+  },
+  "scores": [
+    0.15,
+    0.317,
+    0.452,
+    0.534,
+    0.576,
+    0.582,
+    0.57
+  ]
+}

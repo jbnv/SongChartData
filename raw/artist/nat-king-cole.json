@@ -1,1 +1,15 @@
-{"title":"Nat \"King\" Cole","instanceSlug":"nat-king-cole","tags":[],"parents":[],"genres":[],"members":[],"xref":["natalie-cole"],"complete":false,"origin":"","birth":"","death":"","type":"m"}
+{
+  "title": "Nat \"King\" Cole",
+  "instanceSlug": "nat-king-cole",
+  "tags": ["hof"],
+  "genres": [],
+  "members": [],
+  "xref": [
+    "natalie-cole"
+  ],
+  "complete": false,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

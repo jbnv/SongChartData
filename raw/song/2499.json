@@ -1,0 +1,20 @@
+{
+  "title": "White Wedding",
+  "instanceSlug": 2499,
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1983-07",
+  "playlists": [
+    "colors"
+  ],
+  "artists": {
+    "billy-idol": true
+  },
+  "scores": [
+    0.097,
+    0.171,
+    0.232,
+    0.203
+  ]
+}

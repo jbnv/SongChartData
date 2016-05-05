@@ -1,1 +1,17 @@
-{"title":"Gwen Stefani","instanceSlug":"gwen-stefani","tags":["1990s","2000s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"us","birth":"","death":"","type":"f"}
+{
+  "title": "Gwen Stefani",
+  "instanceSlug": "gwen-stefani",
+  "tags": [
+    "1990s",
+    "2000s"
+  ],
+  "parents": [],
+  "genres": [],
+  "members": [],
+  "complete": false,
+  "active":true,
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

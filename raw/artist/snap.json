@@ -1,1 +1,16 @@
-{"title":"Snap!","instanceSlug":"snap","tags":[],"parents":[],"genres":["techno-dance"],"members":[],"xref":[],"complete":true,"origin":"pittsburgh","birth":"","death":"","type":"d"}
+{
+  "title": "Snap!",
+  "instanceSlug": "snap",
+  "tags": [],
+  "parents": [],
+  "genres": [
+    "techno-dance"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "pittsburgh",
+  "birth": "",
+  "death": "",
+  "type": "mf"
+}

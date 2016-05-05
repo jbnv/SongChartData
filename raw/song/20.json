@@ -1,1 +1,22 @@
-{"title":"Tonight Tonight Tonight","instanceSlug":20,"tags":["tonight","triple"],"parents":[],"genre":"rock","debut":"1987-03","ranks":[15.7,10,6.9,5.2,4.5,4.7,5.5],"artists":{"genesis":true,"phil-collins":"member"}}
+{
+  "title": "Tonight Tonight Tonight",
+  "instanceSlug": 20,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1987-03",
+  "artists": {
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
+  },
+  "scores": [
+    0.082,
+    0.232,
+    0.356,
+    0.45,
+    0.498,
+    0.484,
+    0.431
+  ]
+}

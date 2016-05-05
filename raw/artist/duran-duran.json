@@ -1,1 +1,14 @@
-{"title":"Duran Duran","instanceSlug":"duran-duran","tags":[],"parents":[],"genres":["electro-pop"],"members":[],"complete":true,"origin":"birmingham-england","birth":"","death":"","type":"g"}
+{
+  "title": "Duran Duran",
+  "instanceSlug": "duran-duran",
+  "tags": ["1980s"],
+  "genres": [
+    "electro-pop"
+  ],
+  "members": ["simon-lebon"],
+  "complete": true,
+  "origin": "birmingham-england",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

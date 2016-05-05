@@ -1,0 +1,29 @@
+{
+  "title": "Living La Vida Loca",
+  "instanceSlug": 1041,
+  "tags": [
+    "crazy"
+  ],
+  "genres": [
+    "dance",
+    "latin-dance"
+  ],
+  "debut": "1999-02",
+  "playlists": [
+  ],
+  "artists": {
+    "ricky-martin": true
+  },
+  "scores": [
+    0.2,
+    0.537,
+    0.768,
+    0.864,
+    0.823,
+    0.786,
+    0.752,
+    0.708,
+    0.656,
+    0.582
+  ]
+}

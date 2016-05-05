@@ -1,1 +1,15 @@
-{"title":"Will to Power","instanceSlug":"will-to-power","tags":[],"parents":[],"genres":["dance-pop"],"members":[],"xref":[],"complete":true,"origin":"florida","birth":"","death":"","type":"g"}
+{
+  "title": "Will to Power",
+  "instanceSlug": "will-to-power",
+  "tags": ["freestyle"],
+  "genres": [
+    "dance-pop","adult-contemporary"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "florida",
+  "birth": "1987",
+  "death": "",
+  "type": "fmm"
+}

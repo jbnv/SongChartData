@@ -1,0 +1,31 @@
+{
+  "title": "Walk the Dinosaur",
+  "instanceSlug": 305,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": 1989,
+  "playlists": [
+    "organ"
+  ],
+  "ranks": [
+    8,
+    1,
+    1.1105,
+    1.24,
+    1.46
+  ],
+  "artists": {
+    "was-not-was": true
+  },
+  "note": "Project 4 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.965,
+    0.928,
+    0.873
+  ]
+}

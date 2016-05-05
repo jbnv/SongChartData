@@ -1,1 +1,13 @@
-{"title":"Shalamar","instanceSlug":"shalamar","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Shalamar",
+  "instanceSlug": "shalamar",
+  "tags": [],
+  "genres": ["urban","dance"],
+  "members": ["jody-watley"],
+  "xref": [],
+  "complete": true,
+  "origin": "los-angeles",
+  "birth": "",
+  "death": "",
+  "type":"mmf"
+}

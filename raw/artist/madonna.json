@@ -1,1 +1,20 @@
-{"title":"Madonna","instanceSlug":"madonna","tags":["1980s","1990s","2000s"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"michigan","birth":"","death":"","type":"f"}
+{
+  "title": "Madonna",
+  "instanceSlug": "madonna",
+  "tags": [
+    "1980s",
+    "1990s",
+    "2000s","hof","singer"
+  ],
+  "roles": ["singer"],
+  "genres": [
+    "pop"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "michigan",
+  "birth": "",
+  "death": "",
+  "type": "f"
+}

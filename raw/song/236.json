@@ -1,0 +1,32 @@
+{
+  "title": "Who Found Who",
+  "instanceSlug": 236,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1987-08",
+  "ranks": [
+    18,
+    11,
+    6,
+    5.1,
+    4.5,
+    4.97,
+    5.6
+  ],
+  "artists": {
+    "jellybean": true,
+    "elisa-fiorillo": "feature"
+  },
+  "scores": [
+    0.036,
+    0.2,
+    0.402,
+    0.456,
+    0.498,
+    0.465,
+    0.425
+  ]
+}

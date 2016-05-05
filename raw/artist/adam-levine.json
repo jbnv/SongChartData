@@ -1,1 +1,13 @@
-{"title":"Adam Levine","instanceSlug":"adam-levine","tags":[],"parents":[],"genres":[],"type":"","origin":"us","birth":"","death":"","complete":false}
+{
+  "title": "Adam Levine",
+  "instanceSlug": "adam-levine",
+  "tags": [],
+  "xref": ["maroon-5"],
+  "genres": [],
+  "type": "m",
+  "origin": "us",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "active":true
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Who Is It",
+  "instanceSlug": 1134,
+  "tags": [
+  ],
+  "source": "dangerous",
+  "genre": "urban",
+  "debut": "1993-05",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "bill-bottrell":"producer"
+  },
+  "scores": [
+    0.15,
+    0.31,
+    0.45,
+    0.47,
+    0.49,
+    0.51,
+    0.52,
+    0.5
+  ]
+}

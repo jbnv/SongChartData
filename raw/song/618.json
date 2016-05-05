@@ -1,0 +1,20 @@
+{
+  "title": "Dr. Heckle & Mr. Jive",
+  "instanceSlug": 618,
+  "tags": [
+  ],
+  "genres":["pop-rock"],
+  "debut": 1983,
+  "playlists": [
+  ],
+  "artists": {
+    "men-at-work": true
+  },
+  "scores": [
+    0.055,
+    0.18,
+    0.361,
+    0.381,
+    0.37
+  ]
+}

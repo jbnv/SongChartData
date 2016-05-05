@@ -1,0 +1,24 @@
+{
+  "title": "I'll Be Good to You",
+  "instanceSlug": 1322,
+  "tags": [
+    "i'll-be",
+    "to-you"
+  ],
+  "genre": "soul",
+  "debut": "1989-12",
+  "playlists": ["remake"],
+  "artists": {
+    "quincy-jones": true,
+    "ray-charles": "feature",
+    "chaka-khan": "feature"
+  },
+  "scores": [
+    0.232,
+    0.8,
+    0.971,
+    0.936,
+    0.9,
+    0.85
+  ]
+}

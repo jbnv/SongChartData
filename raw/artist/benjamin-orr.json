@@ -1,1 +1,11 @@
-{"title":"Benjamin Orr","instanceSlug":"benjamin-orr","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Benjamin Orr",
+  "instanceSlug": "benjamin-orr",
+  "tags": ["vocalist","bassist"],
+  "xref": ["cars"],
+  "genres": ["rock"],
+  "origin": "boston",
+  "birth": "",
+  "death": "2000",
+  "complete": false
+}

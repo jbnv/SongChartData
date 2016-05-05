@@ -1,0 +1,28 @@
+{
+  "title": "Disappear",
+  "instanceSlug": 260,
+  "tags": [
+    "disappear"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1991-01",
+  "ranks": [
+    13,
+    4,
+    2,
+    1.24,
+    1.56
+  ],
+  "artists": {
+    "inxs": true
+  },
+  "scores": [
+    0.145,
+    0.537,
+    0.768,
+    0.928,
+    0.851
+  ]
+}

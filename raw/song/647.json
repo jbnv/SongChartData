@@ -1,0 +1,34 @@
+{
+  "title": "Love Walks In",
+  "instanceSlug": 647,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1986-09",
+  "playlists": [
+  ],
+  "ranks": [
+    17,
+    11,
+    8,
+    6.1,
+    5,
+    5.4,
+    5.95
+  ],
+  "artists": {
+    "van-halen": true,
+    "sammy-hagar": "member"
+  },
+  "scores": [
+    0.055,
+    0.2,
+    0.306,
+    0.397,
+    0.463,
+    0.437,
+    0.405
+  ]
+}

@@ -1,1 +1,18 @@
-{"title":"Chicago","instanceSlug":"chicago","tags":["1970s","1980s"],"parents":[],"genres":[],"members":[],"complete":false,"origin":"chicago","birth":"","death":"","type":"g"}
+{
+  "title": "Chicago",
+  "instanceSlug": "chicago",
+  "tags": [
+    "1970s",
+    "1980s","hof"
+  ],
+  "genres": [
+    "rock",
+    "jazz-rock"
+  ],
+  "members": ["peter-cetera"],
+  "complete": false,
+  "origin": "chicago",
+  "birth": "1960s",
+  "death": "",
+  "type": "mmm"
+}

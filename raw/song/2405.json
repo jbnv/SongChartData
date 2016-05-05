@@ -1,0 +1,25 @@
+{
+  "title": "Lucy in the Sky with Diamonds",
+  "instanceSlug": 2405,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "remake"
+  ],
+  "genre": "pop",
+  "debut": 1975,
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "elton-john": true,
+    "john-lennon":"writer"
+  },
+  "scores": [
+    0.08,
+    0.24,
+    0.42,
+    0.44,
+    0.46,
+    0.44
+  ]
+}

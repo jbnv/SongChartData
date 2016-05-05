@@ -1,0 +1,29 @@
+{
+  "title": "Dreamer",
+  "instanceSlug": 1003,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1980-10",
+  "playlists": [
+  ],
+  "ranks": [
+    12.5,
+    2.8,
+    1.7,
+    1.85,
+    2.21
+  ],
+  "artists": {
+    "supertramp": true
+  },
+  "scores": [
+    0.158,
+    0.656,
+    0.823,
+    0.794,
+    0.735
+  ]
+}

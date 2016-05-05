@@ -1,1 +1,29 @@
-{"title":"U Can't Touch This","instanceSlug":107,"tags":["#1","#1-r&b","samples","songs-of-summer"],"parents":[],"genre":"rap","debut":"1990-05","ranks":[17.9,10.4,6.1,4.7,4.5,5.2],"artists":{"mc-hammer":true}}
+{
+  "title": "U Can't Touch This",
+  "instanceSlug": 107,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "summer",
+    "sample"
+  ],
+  "genre": "rap",
+  "debut": "1990-05",
+  "artists": {
+    "mc-hammer": true,
+    "rick-james":"sample",
+    "alonzo-miller":"sample"
+  },
+  "xref":["2363"],
+  "scores": [
+    0.3,
+    0.467,
+    0.6,
+    0.684,
+    0.726,
+    0.732,
+    0.72
+  ]
+}

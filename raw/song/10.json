@@ -1,1 +1,19 @@
-{"title":"Dead Man's Party","instanceSlug":10,"tags":["halloween","party"],"parents":[],"genre":"pop","debut":"1980s","ranks":[11,3.1,1.1,1.29],"artists":{"oingo-boingo":true}}
+{
+  "title": "Dead Man's Party",
+  "instanceSlug": 10,
+  "tags": [
+  ],
+  "playlists": [
+    "halloween","death"
+  ],
+  "genre": "pop",
+  "debut": "1980s",
+  "artists": {
+    "oingo-boingo": true
+  },
+  "scores": [
+    0.622,
+    1,
+    0.968
+  ]
+}

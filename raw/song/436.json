@@ -1,0 +1,26 @@
+{
+  "title": "I Feel For You",
+  "instanceSlug": 436,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genre": "dance",
+  "debut": "1984-10",
+  "playlists": [
+  ],
+  "artists": {
+    "chaka-khan": true,
+    "grandmaster-mellie-mel": "backup",
+    "stevie-wonder": "backup",
+    "prince":"writer"
+  },
+  "scores": [
+    0.356,
+    0.554,
+    0.768,
+    0.956,
+    0.936,
+    0.864
+  ]
+}

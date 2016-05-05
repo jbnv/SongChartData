@@ -1,0 +1,30 @@
+{
+  "title": "Young Turks",
+  "instanceSlug": 1542,
+  "tags": [
+    "young"
+  ],
+  "parents": [
+  ],
+  "genre": "rock",
+  "debut": "1981-11",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    5,
+    1.9,
+    2.01,
+    2.25
+  ],
+  "artists": {
+    "rod-stewart": true
+  },
+  "scores": [
+    0.145,
+    0.463,
+    0.786,
+    0.767,
+    0.729
+  ]
+}

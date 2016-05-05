@@ -1,0 +1,31 @@
+{
+  "title": "Rocket to You",
+  "instanceSlug": 797,
+  "tags": [
+  ],
+  "genre": "dance-pop",
+  "debut": "1988-02",
+  "playlists": [
+  ],
+  "ranks": [
+    13,
+    3.9,
+    2.1,
+    2.25,
+    2.5,
+    2.85,
+    3.3
+  ],
+  "artists": {
+    "jets": true
+  },
+  "scores": [
+    0.145,
+    0.546,
+    0.752,
+    0.729,
+    0.694,
+    0.65,
+    0.602
+  ]
+}

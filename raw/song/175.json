@@ -1,1 +1,32 @@
-{"title":"Hole Hearted","instanceSlug":175,"tags":["songs-of-summer"],"parents":[],"genre":"pop","debut":"1991-08","ranks":[3,1,1.01,1.04,1.07,1.11,1.15,1.21,1.29,1.43,1.59,1.78,2.02,2.5],"artists":{"extreme":true}}
+{
+  "title": "Hole Hearted",
+  "instanceSlug": 175,
+  "tags": [
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "artists": {
+    "extreme": true
+  },
+  "note": "Project 14 weeks at #1.",
+  "scores": [
+    0.633,
+    1,
+    0.999,
+    0.997,
+    0.993,
+    0.988,
+    0.973,
+    0.957,
+    0.94,
+    0.925,
+    0.907,
+    0.885,
+    0.862,
+    0.837,
+    0.791
+  ]
+}

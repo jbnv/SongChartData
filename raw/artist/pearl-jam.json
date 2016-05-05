@@ -1,1 +1,17 @@
-{"title":["Pearl Jam",true],"instanceSlug":"pearl-jam","tags":[],"parents":[],"genres":["1990s","grunge"],"members":[],"xref":[],"complete":false,"origin":"seattle","birth":"","death":"","type":"g"}
+{
+  "title": "Pearl Jam",
+  "instanceSlug": "pearl-jam",
+  "tags": ["1990s"],
+  "parents": [],
+  "genres": [
+    "rock",
+    "grunge"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": false,
+  "origin": "seattle",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

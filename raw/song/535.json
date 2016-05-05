@@ -1,0 +1,37 @@
+{
+  "title": "I Need to Know",
+  "instanceSlug": 535,
+  "tags": [
+    "i",
+    "i-need",
+    "know",
+    "need"
+  ],
+  "parents": [
+  ],
+  "genre": "latin-pop",
+  "debut": "1999-10",
+  "playlists": [
+  ],
+  "ranks": [
+    17.9,
+    10.6,
+    6.2,
+    4.3,
+    3.7,
+    3.9,
+    4.5
+  ],
+  "artists": {
+    "marc-anthony": true
+  },
+  "scores": [
+    0.038,
+    0.213,
+    0.391,
+    0.513,
+    0.563,
+    0.546,
+    0.498
+  ]
+}

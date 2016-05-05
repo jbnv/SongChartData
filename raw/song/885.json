@@ -1,0 +1,24 @@
+{
+  "title": "Hungry Like the Wolf",
+  "instanceSlug": 885,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock",
+    "animals",
+    "comparison"
+  ],
+  "genre": "rock",
+  "debut": "1983-02",
+  "playlists": [],
+  "artists": {
+    "duran-duran": true,
+    "simon-lebon": "lead"
+  },
+  "scores": [
+    0.12,
+    0.32,
+    0.47,
+    0.52,
+    0.51
+  ]
+}

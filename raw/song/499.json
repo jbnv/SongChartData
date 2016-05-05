@@ -1,0 +1,32 @@
+{
+  "title": "Talk It Over",
+  "instanceSlug": 499,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "soul",
+  "debut": "1989-08",
+  "playlists": [
+    "summer"
+  ],
+  "ranks": [
+    16,
+    6,
+    3.3,
+    2.9,
+    2.85,
+    3.4
+  ],
+  "artists": {
+    "grayson-hugh": true
+  },
+  "scores": [
+    0.075,
+    0.402,
+    0.602,
+    0.645,
+    0.65,
+    0.592
+  ]
+}

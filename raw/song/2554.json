@@ -1,0 +1,27 @@
+{
+  "title": "In Too Deep",
+  "instanceSlug": 2554,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genre": "pop",
+  "debut": "1987-05",
+  "playlists": [
+  ],
+  "artists": {
+    "genesis": true,
+    "phil-collins": "lead",
+    "mike-rutherford":"member",
+    "tony-banks":"member"
+  },
+  "scores": [
+    0.08,
+    0.328,
+    0.521,
+    0.55,
+    0.56,
+    0.54,
+    0.49
+  ]
+}

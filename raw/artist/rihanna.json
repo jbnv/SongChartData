@@ -1,1 +1,16 @@
-{"title":"Rihanna","instanceSlug":"rihanna","tags":[],"parents":[],"genres":["dance-pop"],"members":[],"xref":[],"complete":true,"origin":"barbados","birth":1988,"death":"","type":"f"}
+{
+  "title": "Rihanna",
+  "instanceSlug": "rihanna",
+  "tags": ["2000s"],
+  "roles":["singer"],
+  "genres": [
+    "dance-pop"
+  ],
+  "xref": [],
+  "complete": false,
+  "active":true,
+  "origin": "barbados",
+  "birth": 1988,
+  "death": "",
+  "type": "f"
+}

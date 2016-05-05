@@ -1,1 +1,19 @@
-{"title":"Rain","instanceSlug":47,"tags":[],"parents":[],"genre":"pop","debut":"1993-08","ranks":[18.9,11,5.9,4.9,3.9,4.1,4.57],"artists":{"madonna":true}}
+{
+  "title": "Rain",
+  "instanceSlug": 47,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1993-08",
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.2,
+    0.47,
+    0.63,
+    0.65,
+    0.67,
+    0.66
+  ]
+}

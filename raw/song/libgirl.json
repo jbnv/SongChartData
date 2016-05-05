@@ -1,0 +1,23 @@
+{
+  "title": "Liberian Girl",
+  "instanceSlug": "libgirl",
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": 1983,
+  "source": "thriller",
+  "playlists": [
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones":"producer"
+  },
+  "scores": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.45,
+    0.42
+  ]
+}

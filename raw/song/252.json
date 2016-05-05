@@ -1,0 +1,20 @@
+{
+  "title": "Walking Down Your Street",
+  "instanceSlug": 252,
+  "tags": [
+  ],
+  "parents": [
+  ],
+  "genre": "pop",
+  "debut": "1987-03",
+  "artists": {
+    "bangles": true
+  },
+  "scores": [
+    0.125,
+    0.613,
+    0.98,
+    0.954,
+    0.922
+  ]
+}

@@ -1,1 +1,18 @@
-{"title":"*NSYNC","instanceSlug":"nsync","tags":["1990s","2000s"],"parents":[],"genres":["pop"],"members":[],"xref":[],"complete":true,"origin":"orlando","birth":"","death":"","type":"g"}
+{
+  "title": "*NSYNC",
+  "instanceSlug": "nsync",
+  "tags": [
+    "1990s",
+    "2000s"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "members": ["justin-timberlake","joey-fatone"],
+  "xref": [],
+  "complete": true,
+  "origin": "orlando",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

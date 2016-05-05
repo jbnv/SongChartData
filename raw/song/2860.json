@@ -1,0 +1,23 @@
+{
+  "title": "I Saw Red",
+  "instanceSlug": 2860,
+  "tags": [
+  ],
+  "genre": "metal",
+  "debut": "1991-02",
+  "playlists": [
+    "colors"
+  ],
+  "artists": {
+    "warrant": true
+  },
+  "scores": [
+    0.265,
+    0.665,
+    0.695,
+    0.725,
+    0.745,
+    0.735,
+    0.67
+  ]
+}

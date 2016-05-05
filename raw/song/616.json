@@ -1,0 +1,22 @@
+{
+  "title": "Personally",
+  "instanceSlug": 616,
+  "tags": [
+  ],
+  "genres": ["pop","adult-contemporary"],
+  "debut": "1982-06",
+  "playlists": ["summer"
+  ],
+  "artists": {
+    "carla-bonoff": true
+  },
+  "scores": [
+    0.055,
+    0.235,
+    0.414,
+    0.445,
+    0.475,
+    0.476,
+    0.442
+  ]
+}

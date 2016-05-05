@@ -1,0 +1,19 @@
+{
+  "title": "Material Girl",
+  "instanceSlug": 974,
+  "tags": [],
+  "genre": "dance",
+  "debut": "1985-03",
+  "playlists": [],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.142,
+    0.398,
+    0.739,
+    0.838,
+    0.853,
+    0.841
+  ]
+}

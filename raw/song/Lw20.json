@@ -1,0 +1,22 @@
+{
+  "title": "While My Guitar Gently Weeps",
+  "instanceSlug": "Lw20",
+  "tags": [],
+  "debut": 1969,
+  "playlists": [],
+  "scores": [
+    0.066,
+    0.248,
+    0.417,
+    0.548,
+    0.649,
+    0.639
+  ],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "writer",
+    "ringo-starr": "member"
+  }
+}

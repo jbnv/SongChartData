@@ -1,0 +1,34 @@
+{
+  "title": "Somewhere Out There",
+  "instanceSlug": 302,
+  "tags": [
+  ],
+  "genres": [
+    "pop"
+  ],
+  "debut": "1987-02",
+  "source": "an-american-tail",
+  "playlists": [
+    "ballad"
+  ],
+  "ranks": [
+    15,
+    4.4,
+    2.3,
+    2.2,
+    2.35,
+    2.55
+  ],
+  "artists": {
+    "linda-rondstadt": true,
+    "james-ingram": true
+  },
+  "scores": [
+    0.097,
+    0.506,
+    0.722,
+    0.737,
+    0.715,
+    0.687
+  ]
+}

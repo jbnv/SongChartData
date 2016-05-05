@@ -1,1 +1,4 @@
-{"title":"Bryan Adams","instanceSlug":"bryan-adams","tags":["1980s","1990s"],"parents":[],"genres":["rock"],"members":[],"origin":"ontario","birth":"","death":"","complete":true,"type":"m"}
+{"title":"Bryan Adams","instanceSlug":"bryan-adams","tags":["1980s","1990s"],
+  "roles": ["singer","songwriter","guitarist"],
+"genres":["rock"],
+"origin":"ontario","birth":"","death":"","complete":true,"type":"m"}
