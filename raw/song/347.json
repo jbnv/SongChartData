@@ -6,17 +6,19 @@
     "run",
     "runaround"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1995-10",
-  "playlists": [
-  ],
-  "ranks": [
+  "playlists": ["harmonica"
   ],
   "artists": {
     "blues-traveler": true
   },
   "scores": [
+    0.065,
+    0.252,
+    0.404,
+    0.466,
+    0.471,
+    0.457
   ]
 }

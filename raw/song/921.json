@@ -3,33 +3,22 @@
   "instanceSlug": 921,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1981-09",
   "source": "for-your-eyes-only",
   "playlists": [
     "james-bond"
   ],
-  "ranks": [
-    15,
-    8.9,
-    5.4,
-    4.9,
-    5.2,
-    5.6,
-    6.5
-  ],
   "artists": {
     "sheena-easton": true
   },
   "scores": [
-    0.097,
-    0.271,
-    0.437,
+    0.141,
+    0.352,
     0.47,
-    0.45,
-    0.425,
-    0.376
+    0.52,
+    0.52,
+    0.566,
+    0.552
   ]
 }
