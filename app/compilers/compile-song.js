@@ -45,6 +45,14 @@ module.exports = function(yargs,entities) {
       unscored = [],
       errors = [];
 
+  var playlistDefs = {};
+  fs.readdirSync(path.join(meta.root,"app","compilers","playlist"))
+  .forEach(function(filename) {
+    filenameTrunc = filename.replace(".js","");
+    playlist = require("./playlist/"+filenameTrunc);
+    playlistDefs[filenameTrunc] = playlist;
+  });
+
   entities.forEach(function(entity) {
     if (entity.error) { errors.push(entity); return; }
 
@@ -58,6 +66,7 @@ module.exports = function(yargs,entities) {
 
     if (entity.genre && !entity.genres) { entity.genres = [entity.genre]; }
     if (entity.playlist && !entity.playlists) { entity.playlists = [entity.playlist]; }
+    if (!entity.playlists) entity.playlists = [];
 
     if (entity.artists) {
       for (var artistSlug in entity.artists) {
@@ -98,19 +107,6 @@ module.exports = function(yargs,entities) {
       errors.push({"instanceSlug":slug,"stage":"genres","error":err});
     }
 
-    if (entity.playlists) {
-      entity.playlists.forEach(function(playlistSlug) {
-        if (!playlists[playlistSlug]) playlists[playlistSlug] = [];
-        playlists[playlistSlug].push(entity);
-      });
-    }
-
-    try {
-      entity.playlists = lookupEntities(entity.playlists,"playlist");
-    } catch(err) {
-      errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
-    }
-
     sourceSlug = entity.source;
     sources.push(sourceSlug,entity);
 
@@ -135,6 +131,28 @@ module.exports = function(yargs,entities) {
     if ((entity.scores || []).length == 0) unscored.push(entity);
 
     numeral.zeroFormat("");
+
+    // Check against playlist rules.
+    // This needs to happen after all other processing takes place.
+
+    Object.keys(playlistDefs).forEach(function(key) {
+      var playlist = playlistDefs[key];
+      if (playlist.match(entity)) entity.playlists.push(key);
+    });
+
+    if (entity.playlists) {
+      entity.playlists.forEach(function(playlistSlug) {
+        if (!playlists[playlistSlug]) playlists[playlistSlug] = [];
+        playlists[playlistSlug].push(entity);
+      });
+    }
+
+    try {
+      entity.playlists = lookupEntities(entity.playlists,"playlist");
+    } catch(err) {
+      errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
+    }
+
 
     // util.log(
     //   chalk.blue(entity.instanceSlug),
