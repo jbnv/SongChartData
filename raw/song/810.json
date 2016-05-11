@@ -3,20 +3,14 @@
   "instanceSlug": 810,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "parody",
   "debut": 2014,
   "playlists": [
   ],
-  "ranks": [
-    15.9,
-    9.3,
-    5.5,
-    6.4
-  ],
+  "parody":true,
   "artists": {
-    "weird-al-yankovic": true
+    "weird-al-yankovic": true,
+    "charlie-xcx":"parody"
   },
   "scores": [
     0.077,

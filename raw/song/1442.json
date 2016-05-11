@@ -5,8 +5,9 @@
   ],
   "genre": "dance",
   "debut": "1999-11",
-  "playlists": ["sample"
+  "playlists": [
   ],
+  "sample":"679",
   "artists": {
     "will-smith": true,
     "k-ci": "feature",

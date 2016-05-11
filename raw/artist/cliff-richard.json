@@ -8,7 +8,7 @@
   "genres": [
     "pop"
   ],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "india",
   "birth": 1940,
   "death": "",

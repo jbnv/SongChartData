@@ -1,3 +1,18 @@
-{"title":"Robbie Nevil","instanceSlug":"robbie-nevil","tags":[],
-  "roles":["singer","songwriter"],
-"genres":["pop"],"xref":[],"complete":true,"origin":"los-angeles","birth":1960,"death":"","type":"m"}
+{
+  "title": "Robbie Nevil",
+  "instanceSlug": "robbie-nevil",
+  "tags": [],
+  "roles": [
+    "singer",
+    "songwriter"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "xref": [],
+  "complete": {"performer":true,"writer":true},
+  "origin": "los-angeles",
+  "birth": 1960,
+  "death": "",
+  "type": "m"
+}

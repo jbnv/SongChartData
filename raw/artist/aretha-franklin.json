@@ -14,5 +14,5 @@
   "origin": "michigan",
   "birth": "",
   "death": "",
-  "complete": true
+  "complete": {"performer":true,"writer":false},
 }

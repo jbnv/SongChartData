@@ -6,8 +6,8 @@
   "genre": "pop",
   "debut": "1989-10",
   "playlists": [
-    "remake"
   ],
+  "remake":true,
   "artists": {
     "nkotb": true
   },

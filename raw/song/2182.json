@@ -5,8 +5,9 @@
   ],
   "genre": "pop",
   "debut": "1989-01",
-  "playlists": ["remake"
+  "playlists": [
   ],
+  "remake":"57",
   "artists": {
     "art-of-noise": true,
     "tom-jones": "feature",

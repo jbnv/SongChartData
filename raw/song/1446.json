@@ -14,10 +14,10 @@
   ],
   "debut": "1991-08",
   "playlists": [
-    "remake",
     "un",
     "posthumous"
   ],
+  "remake":true,
   "artists": {
     "natalie-cole": true,
     "nat-king-cole": "feature"

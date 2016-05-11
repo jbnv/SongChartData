@@ -5,11 +5,11 @@
   ],
   "genre": "rock",
   "playlists": [
-    "remake"
   ],
   "debut":"2000s",
-  "artists": {
-    "ataris": true
+"remake":true,  "artists": {
+    "ataris": true,
+    "don-henley":"remake"
   },
   "scores": [
     0.055,

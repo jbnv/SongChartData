@@ -81,39 +81,6 @@ module.exports = function(yargs,entities) {
 
   });
 
-  // Manually create playlists here from the compiled song list.
-  movieSongs = [];
-  tvSongs = [];
-  unrankedSongs = [];
-
-  meta.getSongs().forEach(function(song) {
-    if (song.source) {
-      if (song.source.type === "movie") movieSongs.push(song);
-      if (song.source.type === "tv") tvSongs.push(song);
-    };
-    if (!song.ranks || song.ranks.length == 0) unrankedSongs.push(song);
-  });
-
-  entities.push({
-    "title": "Songs from Movies",
-    "instanceSlug": "movie",
-    "columns":['rank','title','artist','source','debutDate'],
-    "songs":movieSongs
-  });
-  entities.push({
-    "title": "Songs from TV Shows",
-    "instanceSlug": "tv",
-    "columns":['rank','title','artist','source','debutDate'],
-    "songs":tvSongs
-  });
-  entities.push({
-    "title": "Unranked Songs",
-    "instanceSlug": "unranked",
-    "columns":['title','artist','debutDate'],
-    "sort":"title",
-    "songs":unrankedSongs
-  });
-
   return {
     "all": entities,
     "titles": titles

@@ -12,7 +12,8 @@
   ],
   "artists": {
     "paul-mccartney": true,
-    "michael-jackson": true
+    "michael-jackson": true,
+    "jellybean":"remix"
   },
   "note": "Project 6 weeks at #1.",
   "scores": [

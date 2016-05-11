@@ -10,10 +10,9 @@
   "genres": [
     "pop"
   ],
-  "members": [],
   "origin": "nyc",
   "birth": "",
   "death": "",
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "type": "m"
 }

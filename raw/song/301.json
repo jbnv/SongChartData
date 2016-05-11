@@ -8,7 +8,8 @@
   "playlists": [
   ],
   "artists": {
-    "wang-chung": true
+    "wang-chung": true,
+    "jellybean":"remix"
   },
   "scores": [
     0.437,

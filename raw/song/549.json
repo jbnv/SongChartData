@@ -4,22 +4,12 @@
   "tags": [
     "#1"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1988-09",
   "source": "buster",
   "playlists": [
-    "remake"
   ],
-  "ranks": [
-    22,
-    16,
-    12,
-    10,
-    10.5,
-    12.1
-  ],
+  "remake":true,
   "artists": {
     "phil-collins": true
   },

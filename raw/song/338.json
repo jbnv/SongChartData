@@ -4,26 +4,11 @@
   "tags": [
   ],
   "playlists": [
-    "remake",
     "summer"
-  ],
-  "parents": [
   ],
   "genre": "dance",
   "debut": "1995-08",
-  "ranks": [
-    16,
-    10,
-    8,
-    6,
-    6,
-    5,
-    7,
-    7.8,
-    8.6,
-    9.6
-  ],
-  "artists": {
+"remake":true,  "artists": {
     "nikki-french": true
   },
   "scores": [

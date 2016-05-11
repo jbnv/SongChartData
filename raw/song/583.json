@@ -4,9 +4,9 @@
   "tags": [
   ],
   "playlists": [
-    "summer",
-    "sample"
+    "summer"
   ],
+  "sample":true,
   "genre": "pop",
   "debut": "1996-08",
   "artists": {

@@ -3,22 +3,12 @@
   "instanceSlug": 1959,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "hip-hop",
   "debut": "1996-04",
   "playlists": [
-    "remake",
     "summer"
   ],
-  "ranks": [
-    19,
-    10,
-    7,
-    5.5,
-    4.5,
-    5.2
-  ],
+  "remake":true,
   "artists": {
     "fugees": true
   },

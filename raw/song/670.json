@@ -2,25 +2,15 @@
   "title": "Amish Paradise",
   "instanceSlug": 670,
   "tags": [
-    "paradise"
-  ],
-  "parents": [
   ],
   "genre": "parody",
   "debut": 1996,
   "playlists": [
   ],
-  "ranks": [
-    15.9,
-    9,
-    5,
-    3,
-    4.2,
-    5.9,
-    8.2
-  ],
+  "parody":true,
   "artists": {
-    "weird-al-yankovic": true
+    "weird-al-yankovic": true,
+    "coolio":"parody"
   },
   "scores": [
     0.077,

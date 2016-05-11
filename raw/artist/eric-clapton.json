@@ -10,7 +10,7 @@
   "genres": [
     "rock","blues","blues-rock"
   ],
-  "complete": false,
+  "complete": {"performer":false,"writer":false},
   "origin": "uk",
   "birth": "",
   "death": "",

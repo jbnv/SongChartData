@@ -3,27 +3,19 @@
   "instanceSlug": 1722,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "adult-contemporary",
   "debut": "1994-01",
   "playlists": [
-    "remake"
   ],
-  "ranks": [
-    22,
-    17,
-    15,
-    13,
-    14.6
-  ],
+  "remake":true,
   "artists": {
-    "celine-dion": true
+    "celine-dion": true,
+    "laura-branigan":"remake"
   },
   "scores": [
     0.055,
-    0.097,
+    0.1,
     0.145,
-    0.106
+    0.1
   ]
 }

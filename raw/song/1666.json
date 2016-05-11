@@ -1,1 +1,19 @@
-{"title":"Cupid / I've Loved You For a Long Time","instanceSlug":1666,"tags":[],"parents":[],"genre":"soul","debut":"1980-06","playlists":["remake","medley"],"ranks":[],"artists":{"spinners":true},"scores":[0.145,0.463,0.887,0.829,0.824,0.814,0.799,0.779,0.754,0.724,0.689,0.649,0.604,0.554,0.499,0.439,0.374,0.304,0.229,0.149,0.064,0]}
+{
+  "title": "Cupid / I've Loved You For a Long Time",
+  "instanceSlug": 1666,
+  "tags": [],
+  "genre": "soul",
+  "debut": "1980-06",
+  "playlists": [
+    "medley"
+  ],
+"remake":true,  "artists": {
+    "spinners": true
+  },
+  "scores": [
+    0.145,
+    0.463,
+    0.5,
+    0.439
+  ]
+}

@@ -11,7 +11,7 @@
     "rock"
   ],
   "xref": ["beatles","wings"],
-  "complete": true,
+  "complete": {"performer":true,"writer":true},
   "origin": "liverpool",
   "birth": "1940s",
   "death": "",

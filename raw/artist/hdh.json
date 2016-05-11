@@ -7,7 +7,7 @@
   "genres": ["soul"],
   "members": [],
   "xref": [],
-  "complete": true,
+  "complete": {"writer":true},
   "origin": "us",
   "birth": "",
   "death": ""

@@ -12,7 +12,7 @@
     "pop"
   ],
   "xref": ["sheila-e","sheena-easton","time"],
-  "complete": true,
+  "complete": {"performer":true,"writer":true},
   "origin": "minneapolis",
   "birth": "1958-06",
   "death": "2016-04",

@@ -8,7 +8,7 @@
   "roles": ["singer","songwriter","bassist"],
   "genres": ["pop"],
   "xref": ["police"],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "england",
   "birth": "1951-10",
   "death": "",

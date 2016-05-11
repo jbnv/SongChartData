@@ -4,7 +4,7 @@
   "tags": ["singer","guitarist","songwriter"],
   "genres": ["rock"],
   "xref": ["fleetwood-mac"],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "california",
   "birth": "1949-10",
   "death": "",
