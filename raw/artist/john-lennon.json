@@ -10,7 +10,7 @@
   "genres": [
     "pop"
   ],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "liverpool",
   "birth": "1940s",
   "death": "1980-12",

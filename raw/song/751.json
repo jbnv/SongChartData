@@ -3,28 +3,19 @@
   "instanceSlug": 751,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1983-07",
   "playlists": [
-    "remake"
   ],
-  "ranks": [
-    15.9,
-    9.3,
-    5.4,
-    5.1,
-    6.4
-  ],
-  "artists": {
+"remake":true,  "artists": {
     "taco": true
   },
   "scores": [
-    0.077,
-    0.256,
-    0.437,
-    0.456,
-    0.381
+    0.127,
+    0.306,
+    0.487,
+    0.506,
+    0.531,
+    0.52
   ]
 }

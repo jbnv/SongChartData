@@ -5,8 +5,8 @@
   ],
   "genres":["pop"],
   "debut": "1986-10",
+  "remake":"807",
   "playlists": [
-    "remake"
   ],
   "artists": {
     "aretha-franklin": true

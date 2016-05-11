@@ -9,8 +9,9 @@
   "debut": "1999-08",
   "source": "wild-wild-west",
   "playlists": [
-    "summer","sample"
+    "summer"
   ],
+  "sample":true,
   "artists": {
     "will-smith": true,
     "dru-hill": "feature",

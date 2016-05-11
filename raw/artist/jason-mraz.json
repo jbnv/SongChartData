@@ -1,3 +1,4 @@
 {"title":"Jason Mraz","instanceSlug":"jason-mraz","tags":[],
   "roles":["singer","songwriter"],
-"genres":["pop"],"complete":false,"origin":"us","birth":"","death":"","type":"m"}
+"genres":["pop"],  "complete": {"performer":true,"writer":false},
+"origin":"us","birth":"","death":"","type":"m"}

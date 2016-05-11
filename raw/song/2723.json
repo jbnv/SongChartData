@@ -6,8 +6,8 @@
   "genre": "rap",
   "debut": "1980-01",
   "playlists": [
-    "sample"
   ],
+  "sample":true,
   "artists": {
     "sugarhill-gang": true,
     "chic":"sample"

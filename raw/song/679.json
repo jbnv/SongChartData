@@ -8,12 +8,7 @@
   "playlists": [
     "places"
   ],
-  "ranks": [
-    12,
-    3.4,
-    1.5,
-    1.75
-  ],
+  "xref": ["1442"],
   "artists": {
     "clash": true
   },

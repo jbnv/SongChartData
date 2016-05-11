@@ -1,31 +1,22 @@
 {
-  "title": "A Nightmare on My Street",
+  "title": "Nightmare on My Street",
   "instanceSlug": 559,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": "pop",
+  "genres": ["urban","rap"],
   "debut": "1988-08",
   "playlists": [
   ],
-  "ranks": [
-    17.7,
-    10,
-    6.4,
-    5.5,
-    5.9,
-    6.9
-  ],
   "artists": {
-    "dj-jazzy-jeff-the-fresh-prince": true
+    "dj-jazzy-jeff-the-fresh-prince": true,
+    "will-smith": "lead"
   },
   "scores": [
     0.042,
     0.232,
     0.381,
     0.431,
-    0.408,
+    0.4,
     0.356
   ]
 }

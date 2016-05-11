@@ -11,7 +11,7 @@
     "pop"
   ],
   "members": [],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "uk",
   "birth": "",
   "death": "",

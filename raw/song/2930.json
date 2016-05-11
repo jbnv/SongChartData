@@ -9,9 +9,9 @@
   "source": "men-in-black",
   "playlists": [
     "colors",
-    "sample",
     "summer"
   ],
+  "sample":true,
   "artists": {
     "will-smith": true,
     "patrice-rushen":"sample"

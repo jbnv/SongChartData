@@ -6,15 +6,14 @@
     "1990s",
     "2000s","hof","singer"
   ],
-  "roles": ["singer"],
+  "roles": ["singer","songwriter"],
   "genres": [
     "pop"
   ],
-  "members": [],
-  "xref": [],
-  "complete": true,
+  "xref": ["breakfast-club"],
+  "complete": {"performer":true,"writer":false},
   "origin": "michigan",
-  "birth": "",
+  "birth": "1950s",
   "death": "",
   "type": "f"
 }

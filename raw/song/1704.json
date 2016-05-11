@@ -5,8 +5,8 @@
   "parents": [],
   "genre": "adult-contemporary",
   "debut": 1992,
-  "playlists": ["remake"],
-  "ranks": [],
+  "playlists": [],
+  "remake":true,
   "artists": {
     "celine-dion": true,
     "diane-warren":"writer"

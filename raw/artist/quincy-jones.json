@@ -7,7 +7,7 @@
   ],
   "roles": ["songwriter","producer"],
   "xref": ["usa-for-africa"],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "chicago",
   "birth": "",
   "death": "",

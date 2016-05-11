@@ -5,7 +5,6 @@
     "your-love"
   ],
   "playlists": [
-    "remake",
     "summer"
   ],
   "genre": "dance",
@@ -13,6 +12,7 @@
   "artists": {
     "real-mccoy": true
   },
+  "remake":true,
   "scores": [
     0.232,
     1,

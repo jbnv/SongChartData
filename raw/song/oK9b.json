@@ -1,1 +1,2 @@
-{"title":"Taco Grande","instanceSlug":"oK9b","tags":[],"parents":[],"debut":1991,"playlists":["parody"],"scores":[],"artists":{"weird-al-yankovic":true}}
+{"title":"Taco Grande","instanceSlug":"oK9b","tags":[],  "parody":true,
+"debut":1991,"playlists":[],"scores":[],"artists":{"weird-al-yankovic":true,"gerardo":"parody"}}

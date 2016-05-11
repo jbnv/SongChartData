@@ -8,8 +8,8 @@
   "genre": "dance-pop",
   "debut": "1991-11",
   "playlists": [
-    "sample"
   ],
+  "sample":"738",
   "artists": {
     "pm-dawn": true,
     "spandau-ballet":"sample"

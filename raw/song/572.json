@@ -7,6 +7,7 @@
   "debut": 1988,
   "playlists": ["eating"
   ],
+  "parody":true,
   "artists": {
     "weird-al-yankovic": true,
     "michael-jackson":"writer"
@@ -17,6 +18,6 @@
     0.431,
     0.645,
     0.681,
-    0.602
+    0.65
   ]
 }

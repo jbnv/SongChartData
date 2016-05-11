@@ -1,1 +1,16 @@
-{"title":"The Saga Begins","instanceSlug":"12EB","tags":[],"parents":[],"debut":2000,"playlists":["parody"],"scores":[],"artists":{"weird-al-yankovic":true}}
+{
+  "title": "The Saga Begins",
+  "instanceSlug": "12EB",
+  "tags": [
+  ],
+  "parody": true,
+  "debut": 2000,
+  "playlists": [
+    "star-wars"
+  ],
+  "scores": [],
+  "artists": {
+    "weird-al-yankovic": true,
+    "don-mclean": "parody"
+  }
+}

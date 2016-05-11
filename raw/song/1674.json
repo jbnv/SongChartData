@@ -6,10 +6,8 @@
   "genre": "disco",
   "debut": 1979,
   "playlists": [
-    "remake"
   ],
-  "ranks": [
-  ],
+  "remake":true,
   "artists": {
     "amy-stewart": true
   },

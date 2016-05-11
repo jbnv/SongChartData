@@ -3,23 +3,10 @@
   "instanceSlug": 1818,
   "tags": [
   ],
-  "parents": [
-  ],
+  "remake":true,
   "genre": "urban",
   "debut": "1995-01",
   "playlists": [
-    "remake"
-  ],
-  "ranks": [
-    17,
-    10,
-    6.5,
-    4.9,
-    4,
-    3.5,
-    3.72,
-    4.2,
-    5.2
   ],
   "artists": {
     "zhane": true

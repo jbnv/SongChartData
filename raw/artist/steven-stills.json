@@ -5,7 +5,7 @@
   "tags": ["singer","songwriter","guitarist"],
   "genres": [],
   "xref": ["buffalo-springfield","crosby-stills-nash","david-crosby","graham-nash"],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "texas",
   "birth": "1945-01",
   "death": ""

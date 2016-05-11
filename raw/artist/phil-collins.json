@@ -4,14 +4,14 @@
   "tags": [
     "1980s",
     "1990s"
-    
+
   ],
   "roles": ["singer","songwriter","drummer"],
   "genres": [
     "pop"
   ],
   "xref": ["genesis"],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "london",
   "birth": "",
   "death": "",

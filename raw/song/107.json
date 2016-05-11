@@ -6,9 +6,9 @@
     "#1-r&b"
   ],
   "playlists": [
-    "summer",
-    "sample"
+    "summer"
   ],
+  "sample":"2363",
   "genre": "rap",
   "debut": "1990-05",
   "artists": {
@@ -16,7 +16,6 @@
     "rick-james":"sample",
     "alonzo-miller":"sample"
   },
-  "xref":["2363"],
   "scores": [
     0.3,
     0.467,

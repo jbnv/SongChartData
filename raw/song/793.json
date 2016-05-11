@@ -6,8 +6,8 @@
   "genre": "urban",
   "debut": "1988-05",
   "playlists": [
-    "remake"
   ],
+  "remake":true,
   "artists": {
     "suave": true
   },

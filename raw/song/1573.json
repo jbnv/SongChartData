@@ -2,37 +2,20 @@
   "title": "Wild World",
   "instanceSlug": 1573,
   "tags": [
-    "",
-    "wild",
-    "wild-world",
-    "world"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1988-12",
   "playlists": [
-    "remake"
   ],
-  "ranks": [
-    15,
-    6,
-    2.5,
-    2.2,
-    2.4,
-    2.7,
-    3.2
-  ],
+  "remake": "kD18",
   "artists": {
     "maxie-priest": true
   },
   "scores": [
-    0.097,
-    0.402,
-    0.694,
+    0.1,
+    0.4,
+    0.7,
     0.737,
-    0.708,
-    0.668,
-    0.612
+    0.72
   ]
 }

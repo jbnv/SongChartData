@@ -9,8 +9,10 @@
   "playlists": [
     "summer"
   ],
+  "sample":true,
   "artists": {
-    "will-smith": true
+    "dj-jazzy-jeff-the-fresh-prince": true,
+    "will-smith": "lead"
   },
   "scores": [
     0.232,
@@ -18,5 +20,6 @@
     0.943,
     0.925,
     0.9
-  ]
+  ],
+  "note":"Samples 'Summer Madness' by Kool & the Gang."
 }

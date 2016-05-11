@@ -3,18 +3,10 @@
   "instanceSlug": 1901,
   "tags": [
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1997-01",
+  "remake":"1902",
   "playlists": [
-    "remake"
-  ],
-  "ranks": [
-    11,
-    1.9,
-    1.25,
-    1.48
   ],
   "artists": {
     "red-hot-chili-peppers": true
