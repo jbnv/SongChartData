@@ -25,7 +25,16 @@ function pushToCollection(collection,slug,entity) {
 }
 
 function transformArtist(artist,slug,roleSlug) {
-  return { slug: slug, title: artist.title, roleSlug: roleSlug };
+  return {
+    slug: slug,
+    title: artist.title,
+    type: artist.type,
+    roleSlug: roleSlug,
+    death: artist.death,
+    tags: (artist.tags || [])
+      .map(function(tag) { return (tag || {}).instanceSlug; })
+      .filter(function(tag) { return tag; })
+  };
 }
 
 // entities: array of entities of the type
@@ -152,7 +161,6 @@ module.exports = function(yargs,entities) {
     } catch(err) {
       errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
     }
-
 
     // util.log(
     //   chalk.blue(entity.instanceSlug),
