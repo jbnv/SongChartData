@@ -37,6 +37,50 @@ function transformArtist(artist,slug,roleSlug) {
   };
 }
 
+function validate(song) {
+
+  var messages = [];
+
+  // Indicator: The "remake", "remix" or "sample" property is "true."
+  if (song.remake && song.remake === true) {
+    messages.push({
+      type:"warning",
+      title:"Remake Reference Not Set",
+      text:"The 'remake' property is present and set to 'true'. Set to the referenced song."
+    });
+  }
+  if (song.remix && song.remix === true) {
+    messages.push({
+      type:"warning",
+      title:"Remix Reference Not Set",
+      text:"The 'remix' property is present and set to 'true'. Set to the referenced song."
+    });
+  }
+  if (song.sample && song.sample === true) {
+    messages.push({
+      type:"warning",
+      title:"Sample Reference Not Set",
+      text:"The 'sample' property is present and set to 'true'. Set to the referenced song."
+    });
+  }
+
+  if (song.remake || song.remix || song.sample) {
+    writers = (song.artists || []).filter(function(artist) {
+      return artist.roleSlug === "writer";
+    });
+    if (writers.length < 1) {
+      messages.push({
+        type:"warning",
+        title:"Writer Not Set",
+        text:"This song has a property that indicates that the recording artist is not the writer. Please locate the writer."
+      });
+    }
+  }
+
+  song.messages = messages;
+
+}
+
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-song.js"));
@@ -161,6 +205,8 @@ module.exports = function(yargs,entities) {
     } catch(err) {
       errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
     }
+
+    validate(entity);
 
     // util.log(
     //   chalk.blue(entity.instanceSlug),
