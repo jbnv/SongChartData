@@ -185,3 +185,13 @@ exports.rankEntities = function(entityList,collection,prefix) {
   });
 
 }
+
+exports.bend = function(c) {
+  if (c == 0) return function(x) { return x };
+  if (c > 0) return function(x) {
+    return (c+1)*x/(c*x+1);
+  };
+  return function(x) {
+    return parseFloat(x)/(1-c+c*x);
+  }
+}
