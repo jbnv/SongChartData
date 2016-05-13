@@ -7,11 +7,14 @@ var chalk       = require("chalk"),
 
     writeEntity = require("./lib/fs").writeEntity,
 
-    meta        = require('./app/meta');
+    meta        = require('./app/meta'),
+    scoring     = require('./app/scoring');
 
 function read(slug) {
   try {
-    return meta.getRawObject("song",slug)();
+    var song = meta.getRawObject("song",slug)();
+    scoring.score(song);
+    return song;
   } catch(err) {
     return {};
   }
@@ -70,8 +73,8 @@ function interpolate(tuple) {
 
   newScores = [];
 
-  songs.forEach(function(song) {
-    for (i = 1; i < slugs.length; i++) {
+  songs.slice(1).forEach(function(song) {
+    for (var i in song.scores) {
       if (newScores.length < i+1) {
         newScores.push(song.scores[i] || 0);
       } else {
