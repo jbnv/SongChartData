@@ -120,6 +120,7 @@ module.exports = function(yargs,entities) {
     if (entity.genre && !entity.genres) { entity.genres = [entity.genre]; }
     if (entity.playlist && !entity.playlists) { entity.playlists = [entity.playlist]; }
     if (!entity.playlists) entity.playlists = [];
+    if (entity.source && !entity.sources) { entity.sources = [entity.source]; }
 
     if (entity.artists) {
       for (var artistSlug in entity.artists) {
@@ -131,12 +132,14 @@ module.exports = function(yargs,entities) {
         entityClone.scoreFactor = 1.00; //FUTURE artist.scoreFactor;
         switch (entityClone.role) {
           case true: entityClone.scoreFactor = 1.00; break;
-          case "featured": entityClone.scoreFactor = 0.50; break;
+          case "feature": entityClone.scoreFactor = 0.20; break;
           case "lead": entityClone.scoreFactor = 0.75; break;
           case "backup": entityClone.scoreFactor = 0.10; break;
           case "writer": entityClone.scoreFactor = 1.00; break;
-          case "producer": entityClone.scoreFactor = 0.20; break;
+          case "producer": entityClone.scoreFactor = 0.50; break;
           case "sample": entityClone.scoreFactor = 0.1; break;
+          case "remake": entityClone.scoreFactor = 0.1; break;
+          case "remix": entityClone.scoreFactor = 0.25; break;
           default: entityClone.scoreFactor = 0.25;
         }
         if (entityClone.score) entityClone.score *= entityClone.scoreFactor;
@@ -160,11 +163,15 @@ module.exports = function(yargs,entities) {
       errors.push({"instanceSlug":slug,"stage":"genres","error":err});
     }
 
-    sourceSlug = entity.source;
-    sources.push(sourceSlug,entity);
+    if (entity.sources) {
+      entity.sources.forEach(function(sourceSlug) {
+        if (!sources[sourceSlug]) sources[sourceSlug] = [];
+        sources[sourceSlug].push(entity);
+      });
+    }
 
     try {
-      entity.source = lookupEntity(entity.source,"source");
+      entity.sources = lookupEntities(entity.sources,"source");
     } catch(err) {
       errors.push({"instanceSlug":slug,"stage":"source","error":err});
     }
