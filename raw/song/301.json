@@ -1,22 +1,20 @@
 {
   "title": "Everybody Have Fun Tonight",
   "instanceSlug": 301,
-  "tags": [
+  "tags": [],
+  "genres": [
+    "pop"
   ],
-  "genres":["pop"],
   "debut": "1986-11",
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
-    "wang-chung": true,
-    "jellybean":"remix"
+    "wang-chung": true
   },
   "scores": [
-    0.437,
-    0.9,
-    0.877,
-    0.844,
-    0.809,
-    0.769
+    0.2,
+    0.645,
+    0.864,
+    0.936,
+    0.86
   ]
 }

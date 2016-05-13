@@ -1,0 +1,15 @@
+{
+  "title": "Automatic (remix)",
+  "instanceSlug": "2645r",
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1980s",
+  "remix":2645,
+  "playlists": [
+  ],
+  "artists": {
+    "pointer-sisters": true,
+    "jellybean":"remix"
+  }
+}

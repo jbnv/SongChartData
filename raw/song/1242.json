@@ -1,1 +1,23 @@
-{"title":"Endless Love","instanceSlug":1242,"tags":["#2","#2-hot-100","remake"],"parents":[],"genre":"soul","debut":"1994-09","playlists":[],"ranks":[],"artists":{"luther-vandross":true,"mariah-carey":true},"scores":[0.10874704491725767,0.2758620689655173,0.3877468762595728,0.4561945194905441,0.41834717279557143,0.37464445347419745,0.36467702371218313,0.34779016935150764,0.3235540653813914,0.29132849209739425,0.25021872265966755,0.22301199466903598,0.19494584837545126,0.16176470588235292,0.12294697325199436,0.0778471888515137,0.02566633761105627,0]}
+{
+  "title": "Endless Love",
+  "instanceSlug": 1242,
+  "tags": [
+  ],
+    "remake":1243,
+  "genre": "soul",
+  "debut": "1994-09",
+  "playlists": [],
+  "artists": {
+    "luther-vandross": true,
+    "mariah-carey": true,
+    "diana-ross": "remake",
+    "lionel-richie": "remake"
+  },
+  "scores": [
+    0.1,
+    0.276,
+    0.388,
+    0.456,
+    0.418
+  ]
+}

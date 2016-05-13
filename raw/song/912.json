@@ -1,1 +1,24 @@
-{"title":"Here I Am (Just When I Thought I Was Over You)","instanceSlug":912,"tags":[],"parents":[],"genre":"adult-contemporary","debut":"1981-10","playlists":[],"ranks":[],"artists":{"air-supply":true},"scores":[0.06266666666666666,0.28933333333333333,0.451,0.48666666666666664,0.5046666666666666,0.49033333333333334,0.4676666666666667,0.44766666666666666,0.43766666666666665,0.4226666666666667,0.40266666666666673,0.37766666666666665,0.3476666666666666,0.31266666666666665,0.27266666666666667,0.22766666666666668,0.17766666666666664,0.12266666666666666,0.06266666666666666,0.004333333333333334,0]}
+{
+  "title": "Here I Am (Just When I Thought I Was Over You)",
+  "instanceSlug": 912,
+  "tags": [],
+  "genres": ["adult-contemporary","soft-rock"],
+  "debut": "1981-10",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "air-supply": true,
+    "michael-masser":"writer",
+    "norman-sallitt":"writer",
+    "linda-creed":"writer",
+    "harry-maslin":"producer"
+  },
+  "scores": [
+    0.063,
+    0.289,
+    0.451,
+    0.487,
+    0.505,
+    0.49
+  ]
+}

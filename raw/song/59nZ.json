@@ -1,1 +1,21 @@
-{"title":"Promises Promises (remix)","instanceSlug":"59nZ","tags":[],"parents":[],"debut":1983,"playlists":[],"scores":[],"artists":{"naked-eyes":true,"madonna":"feature","jellybean":"producer"}}
+{
+  "title": "Promises Promises (remix)",
+  "instanceSlug": "59nZ",
+  "tags": [],
+  "remix":true,
+  "debut": 1983,
+  "playlists": [],
+  "scores": [
+    0.059,
+    0.1995,
+    0.3,
+    0.341,
+    0.343,
+    0.33
+  ],
+  "artists": {
+    "naked-eyes": true,
+    "madonna": "feature",
+    "jellybean": "producer"
+  }
+}

@@ -1,14 +1,15 @@
 {
   "title": "Reach Out I'll Be There",
-  "instanceSlug": 2901,
+  "instanceSlug": "mbolton01",
   "tags": [],
-  "genres": [],
+  "genres": ["pop","adult-contemporary"],
   "debut": "1980s",
   "playlists": [],
-  "ranks": [],
+  "remake":"2901",
   "artists": {
     "michael-bolton": true,
-    "hdh": "writer"
+    "hdh": "writer",
+    "four-tops":"remake"
   },
   "scores": [
     0.032,

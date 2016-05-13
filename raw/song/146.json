@@ -1,1 +1,22 @@
-{"title":"Funkytown","instanceSlug":146,"tags":[],"playlists":["summer"],"remake":true,"genre":"rock","debut":"1987-07","artists":{"pseudo-echo":true},"scores":[0.257,0.74325,0.80575,0.8145,0.787,0.74975,0.7335]}
+{
+  "title": "Funkytown",
+  "instanceSlug": 146,
+  "tags": [],
+  "playlists": [
+    "summer"
+  ],
+  "remake": "145",
+  "genre": "rock",
+  "debut": "1987-07",
+  "artists": {
+    "pseudo-echo": true,
+    "lipps-inc": "remake"
+  },
+  "scores": [
+    0.3,
+    0.8,
+    0.85,
+    0.8645,
+    0.82
+  ]
+}

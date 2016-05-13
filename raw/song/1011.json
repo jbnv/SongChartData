@@ -5,31 +5,19 @@
     "#1",
     "#1-r&b"
   ],
-  "parents": [
-  ],
   "genre": "jazz",
   "debut": "1987-05",
   "playlists": [
   ],
-  "ranks": [
-    15,
-    5.5,
-    2.5,
-    2.7,
-    2.95,
-    3.5
-  ],
   "artists": {
     "herb-alpert": true,
     "janet-jackson": "feature",
-    "lisa-keith": true
+    "lisa-keith": "feature"
   },
   "scores": [
-    0.097,
-    0.431,
+    0.231,
     0.694,
-    0.668,
-    0.639,
-    0.582
+    0.68,
+    0.668
   ]
 }

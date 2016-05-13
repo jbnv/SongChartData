@@ -3,25 +3,17 @@
   "instanceSlug": 2301,
   "tags": [
   ],
-  "parents": [
-  ],
-  "genre": "pop",
+  "genres": ["pop","adult-contemporary"],
   "debut": "1983-09",
-  "playlists": [
-  ],
-  "ranks": [
-    25,
-    20,
-    17.5,
-    16.1,
-    15,
-    16.4
+  "playlists": ["ballad"
   ],
   "artists": {
-    "laura-branigan": true
+    "laura-branigan": true,
+    "doug-james":"writer",
+    "michael-bolton":"writer",
+    "jack-white":"producer"
   },
   "scores": [
-    0.001,
     0.045,
     0.073,
     0.097,

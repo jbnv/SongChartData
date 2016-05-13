@@ -15,6 +15,6 @@
   "complete": true,
   "origin": "gary-ind",
   "birth": "1960s",
-  "death": "",
+  "death": true,
   "type": "mmm"
 }

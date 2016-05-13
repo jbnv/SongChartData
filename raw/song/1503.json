@@ -1,1 +1,23 @@
-{"title":"I've Found Someone","instanceSlug":1503,"tags":["found","i've","someone"],"parents":[],"genre":"pop","debut":"1988-01","playlists":[],"ranks":[],"artists":{"cher":true},"scores":[0.055,0.177,0.319,0.356,0.37,0.341,0.306,0.301,0.291,0.276,0.256,0.231,0.201,0.166,0.126,0.081,0.031,0]}
+{
+  "title": "I Found Someone",
+  "instanceSlug": 1503,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [],
+  "remake":true,
+  "artists": {
+    "cher": true,
+    "michael-bolton":"writer",
+    "mark-mangold":"writer"
+  },
+  "scores": [
+    0.055,
+    0.177,
+    0.319,
+    0.356,
+    0.37,
+    0.35
+  ]
+}

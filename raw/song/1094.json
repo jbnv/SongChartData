@@ -7,9 +7,9 @@
     "missing-you",
     "miss-you"
   ],
-  "genre": "adult-contemporary",
+  "genres": ["pop","adult-contemporary"],
   "debut": "1992-02",
-  "playlists": [
+  "playlists": ["ballad"
   ],
   "artists": {
     "michael-bolton": true,

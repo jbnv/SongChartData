@@ -6,8 +6,7 @@
     "#1-adult-contemporary",
     "to-love"
   ],
-  "parents": ["remake"
-  ],
+  "remake":true,
   "genre": "adult-contemporary",
   "debut": "1992-11",
   "artists": {
