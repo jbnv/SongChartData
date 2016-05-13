@@ -1,1 +1,16 @@
-{"title":"Whispers","instanceSlug":"whispers","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":true,"origin":"los-angeles","birth":"","death":"","type":"mmm"}
+{
+  "title": "Whispers",
+  "instanceSlug": "whispers",
+  "tags": ["pph"],
+  "parents": [],
+  "genres": [
+    "urban"
+  ],
+  "members": [],
+  "xref": [],
+  "complete": true,
+  "origin": "los-angeles",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

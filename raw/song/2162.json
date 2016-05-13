@@ -1,1 +1,23 @@
-{"title":"And the Beat Goes On","instanceSlug":2162,"tags":["#1"],"parents":[],"genre":"urban","debut":"1980-04","playlists":[],"ranks":[],"artists":{"whispers":true},"scores":[0.084,0.381,0.521,0.546,0.554,0.54,0.517,0.484,0.419,0.414,0.404,0.389,0.369,0.344,0.314,0.279,0.239,0.194,0.144,0.089,0.029,0]}
+{
+  "title": "And the Beat Goes On",
+  "instanceSlug": 2162,
+  "tags": [
+    "#1"
+  ],
+  "genre": "urban",
+  "debut": "1980-04",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "whispers": true
+  },
+  "scores": [
+    0.16,
+    0.5517,
+    0.6850,
+    0.7063,
+    0.7129,
+    0.7012
+  ]
+}

@@ -6,7 +6,7 @@
   "source": "thriller",
   "genre": "dance-pop",
   "debut": "1983-06",
-  "playlists": [
+  "playlists": ["pph"
   ],
   "artists": {
     "michael-jackson": true,

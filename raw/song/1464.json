@@ -8,7 +8,7 @@
   "source": "bad",
   "genre": "pop",
   "debut": "1987-12",
-  "playlists": [
+  "playlists": ["pph"
   ],
   "artists": {
     "michael-jackson": true,

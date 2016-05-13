@@ -9,7 +9,7 @@
   "source": "off-the-wall",
   "genres": ["disco","urban","soul"],
   "debut": "1979-12",
-  "playlists": [
+  "playlists": ["pph"
   ],
   "artists": {
     "michael-jackson": true,

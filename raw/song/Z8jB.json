@@ -10,7 +10,7 @@
     "disco"
   ],
   "debut": 1975,
-  "playlists": [],
+  "playlists": ["pph"],
   "scores": [
     0.125,
     0.678,

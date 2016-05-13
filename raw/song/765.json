@@ -6,23 +6,16 @@
     "#1-hot-100",
     "#1-r&b"
   ],
-  "genre": "dance",
+  "genres": ["dance","urban"],
   "debut": "1980-12",
-  "playlists": [
-  ],
-  "ranks": [
-    13,
-    2.55,
-    1.11,
-    1.22
+  "playlists": ["pph"
   ],
   "artists": {
     "koolnthegang": true
   },
   "scores": [
-    0.145,
     0.687,
     0.965,
-    0.933
+    0.95
   ]
 }

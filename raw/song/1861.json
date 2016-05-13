@@ -10,7 +10,7 @@
   "genre": "pop",
   "debut": "1977-10",
   "source": "saturday-night-fever",
-  "playlists": [],
+  "playlists": ["pph"],
   "artists": {
     "bee-gees": true,
     "robin-gibb": "member",

@@ -1,13 +1,13 @@
 {
   "title": "Ashford & Simpson",
   "instanceSlug": "ashford-simpson",
-  "tags": [],
-  "parents": [],
+  "tags": ["swhof","married"],
+  "roles": ["singer","songwriter"],
   "genres": ["soul"],
   "members": [],
   "origin": "us",
   "birth": "",
   "death": "",
-  "complete": false,
+  "complete": true,
   "type": "mf"
 }

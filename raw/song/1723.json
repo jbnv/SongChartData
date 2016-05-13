@@ -1,1 +1,23 @@
-{"title":"I'm Every Woman","instanceSlug":1723,"tags":[],"genre":"pop","debut":"1993-02","source":"bodyguard","playlists":[],"remake":true,"artists":{"whitney-houston":true,"chaka-khan":"backup"},"scores":[0.121,0.3765,0.585,0.658,0.622,0.617]}
+{
+  "title": "I'm Every Woman",
+  "instanceSlug": 1723,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1993-02",
+  "source": "bodyguard",
+  "playlists": [],
+  "remake": 2337,
+  "artists": {
+    "whitney-houston": true,
+    "chaka-khan": "backup",
+    "ashford-simpson":"writer"
+  },
+  "scores": [
+    0.121,
+    0.3765,
+    0.585,
+    0.658,
+    0.622,
+    0.617
+  ]
+}

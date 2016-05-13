@@ -7,7 +7,7 @@
   ],
   "genre": "dance",
   "debut": "1984-10",
-  "playlists": [
+  "playlists": ["pph"
   ],
   "artists": {
     "chaka-khan": true,
@@ -16,11 +16,9 @@
     "prince":"writer"
   },
   "scores": [
-    0.356,
-    0.554,
-    0.768,
-    0.956,
-    0.936,
-    0.864
+    0.57,
+    1,
+    0.98,
+    0.956
   ]
 }
