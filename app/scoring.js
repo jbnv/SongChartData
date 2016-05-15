@@ -43,7 +43,7 @@ exports.score = function(song,scoringOptions) {
   // Assume that all scores are in the range {0,1].
 	// Scores are projected from the final two scores.
 
-  var rawScores = song.scores;
+  var rawScores = song.scores.slice(0,20);
   song.score = null;
 	if (!song.scores)  { song.scores = null; return; }
   if (!Array.isArray(song.scores)) { song.scores = null; return; }
@@ -57,20 +57,23 @@ exports.score = function(song,scoringOptions) {
 
 	if (!scoringOptions.noProjectOut) {
 		score0 = parseFloat(song.scores[song.scores.length-1]);
-		score1 = parseFloat(song.scores[song.scores.length-2]) || score0;
-		scale = score0-score1;
+		score1 = parseFloat(song.scores[song.scores.length-2]) || score0 || 1;
+		scale = score1 - score0;
     if (scale < .005) scale = .005;  // prevent infinite loops
     margin = scale;
 
 		while (score0 > 0 ) {
 			score0 -= scale;
       scale += margin;
+      // margin *= 1.5;
       if (score0 < 0) score0 = 0;
 			song.scores.push(round000(score0));
 		}
 	}
 
-	song.duration = Math.ceil(song.scores.length/4);
+	song.duration = Math.ceil(
+    song.scores.filter(function(s) { return s >= 0.01; }).length/4
+  );
 
 	// Calculate score from point scores.
 	song.score = 0;
