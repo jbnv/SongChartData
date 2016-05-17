@@ -1,18 +1,1 @@
-{
-  "title": "Yesterday",
-  "instanceSlug": "VbZV",
-  "tags": [
-    "#1",
-    "#1-hot-100"
-  ],
-  "debut": 1965,
-  "playlists": [],
-  "scores": [0],
-  "artists": {
-    "beatles": true,
-    "john-lennon": "member",
-    "paul-mccartney": "member",
-    "george-harrison": "member",
-    "ringo-starr": "member"
-  }
-}
+{"title":"Yesterday","instanceSlug":"VbZV","tags":["#1","#1-hot-100"],"debut":1965,"playlists":[],"scores":[],"artists":{"beatles":true,"john-lennon":"member","paul-mccartney":"member","george-harrison":"member","ringo-starr":"member"}}

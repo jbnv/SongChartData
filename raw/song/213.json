@@ -1,18 +1,1 @@
-{
-  "title": "Don't Look Down",
-  "instanceSlug": 213,
-  "tags": [
-  ],
-  "genres": ["pop"
-  ],
-  "debut": "1987-09",
-  "artists": {
-    "go-west": true
-  },
-  "scores": [
-    0.171,
-    0.633,
-    0.843,
-    0.823
-  ]
-}
+{"title":"Don't Look Down","instanceSlug":213,"tags":[],"genres":["pop"],"debut":"1987-09","artists":{"go-west":true},"scores":[0.171,0.633,0.843,0.823]}

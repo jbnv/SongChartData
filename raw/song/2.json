@@ -1,18 +1,1 @@
-{
-  "title": "Too Hot",
-  "instanceSlug": 2,
-  "tags": [
-  ],
-  "genre": "soul",
-  "debut": "1980-02",
-  "artists": {
-    "koolnthegang": true
-  },
-  "scores": [
-    0.108,
-    0.29,
-    0.286,
-    0.263,
-    0.225
-  ]
-}
+{"title":"Too Hot","instanceSlug":2,"tags":[],"genre":"soul","debut":"1980-02","artists":{"koolnthegang":true},"scores":[0.108,0.29,0.286,0.263,0.225]}

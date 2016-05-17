@@ -1,1 +1,22 @@
-{"title":"Say You Will","instanceSlug":1837,"tags":["#1","#1-mainstream-rock"],"genre":"pop","debut":"1988-01","playlists":[],"artists":{"foreigner":true},"scores":[0.078,0.433,0.593,0.623,0.643,0.645,0.642,0.631]}
+{
+  "title": "Say You Will",
+  "instanceSlug": 1837,
+  "tags": [
+    "#1",
+    "#1-mainstream-rock"
+  ],
+  "genre": "pop",
+  "debut": "1988-01",
+  "playlists": [],
+  "artists": {
+    "foreigner": true
+  },
+  "scores": [
+    0.128,
+    0.483,
+    0.642,
+    0.673,
+    0.693,
+    0.68
+  ]
+}

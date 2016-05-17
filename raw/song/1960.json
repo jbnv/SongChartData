@@ -1,17 +1,1 @@
-{
-  "title": "Breaking Us in Two",
-  "instanceSlug": 1960,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1983-02",
-  "playlists": [],
-  "artists": {
-    "joe-jackson": true
-  },
-  "scores": [
-    0.63,
-    0.945,
-    0.952,
-    0.927
-  ]
-}
+{"title":"Breaking Us in Two","instanceSlug":1960,"tags":[],"genre":"pop","debut":"1983-02","playlists":[],"artists":{"joe-jackson":true},"scores":[0.63,0.945,0.952,0.927]}
