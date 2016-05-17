@@ -43,7 +43,7 @@ exports.score = function(song,scoringOptions) {
   // Assume that all scores are in the range {0,1].
 	// Scores are projected from the final two scores.
 
-  var rawScores = song.scores.slice(0,20);
+  var rawScores = (song.scores || []).slice(0,20);
   song.score = null;
 	if (!song.scores)  { song.scores = null; return; }
   if (!Array.isArray(song.scores)) { song.scores = null; return; }

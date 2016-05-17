@@ -87,7 +87,7 @@ function interpolate(tuple) {
     newScores[i] = newScores[i] / (slugs.length-1);
   }
 
-  songs[0].scores = newScores;
+  songs[0].scores = newScores.filter(function(s) { return s >= 0.01 });
   write(slugs[0],songs[0]);
 
   util.log(
@@ -179,6 +179,8 @@ if (yargs.argv.all) {
     var average = newScores[i] / scoredSongCount;
     newScores[i] = average / (2-average);
   }
+
+  newScores = newScores.filter(function(s) { return s >= 0.01 });
 
   unscoredSongs.forEach(function(song) {
     var rawSong = meta.getRawObject("song",song.instanceSlug)();

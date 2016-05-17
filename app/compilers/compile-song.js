@@ -37,27 +37,51 @@ function transformArtist(artist,slug,roleSlug) {
   };
 }
 
-function validate(song) {
+// Validation before processing.
+function prevalidate(song) {
 
-  var messages = [];
+  song.messages = [];
+  var scores = song.scores || [];
+
+  var maxScoreCount = 20;
+  if (scores.length > maxScoreCount) {
+    song.messages.push({
+      type:"warning",
+      title:"Excessive Scores",
+      text:"Please reduce number of scores to "+maxScoreCount+" or less."
+    });
+  }
+  var minScore = 0.01;
+  if (scores.filter(function(s) { return s < minScore; }).length > 0) {
+    song.messages.push({
+      type:"warning",
+      title:"Extremely Low Score(s)",
+      text:"One or more scores is less than "+minScore+"."
+    });
+  }
+
+}
+
+// Validation after processing.
+function postvalidate(song) {
 
   // Indicator: The "remake", "remix" or "sample" property is "true."
   if (song.remake && song.remake === true) {
-    messages.push({
+    song.messages.push({
       type:"warning",
       title:"Remake Reference Not Set",
       text:"The 'remake' property is present and set to 'true'. Set to the referenced song."
     });
   }
   if (song.remix && song.remix === true) {
-    messages.push({
+    song.messages.push({
       type:"warning",
       title:"Remix Reference Not Set",
       text:"The 'remix' property is present and set to 'true'. Set to the referenced song."
     });
   }
   if (song.sample && song.sample === true) {
-    messages.push({
+    song.messages.push({
       type:"warning",
       title:"Sample Reference Not Set",
       text:"The 'sample' property is present and set to 'true'. Set to the referenced song."
@@ -69,15 +93,13 @@ function validate(song) {
       return artist.roleSlug === "writer";
     });
     if (writers.length < 1) {
-      messages.push({
+      song.messages.push({
         type:"warning",
         title:"Writer Not Set",
         text:"This song has a property that indicates that the recording artist is not the writer. Please locate the writer."
       });
     }
   }
-
-  song.messages = messages;
 
 }
 
@@ -108,6 +130,8 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     if (entity.error) { errors.push(entity); return; }
+
+    prevalidate(entity);
 
     var slug = entity.instanceSlug;
     if (!slug) return;
@@ -213,7 +237,7 @@ module.exports = function(yargs,entities) {
       errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
     }
 
-    validate(entity);
+    postvalidate(entity);
 
     // util.log(
     //   chalk.blue(entity.instanceSlug),
