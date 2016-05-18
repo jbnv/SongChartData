@@ -1,1 +1,22 @@
-{"title":"Soak Up the Sun","instanceSlug":2313,"tags":[],"parents":[],"genre":"rock","debut":"2002-06","playlists":[],"ranks":[],"artists":{"sheryl-crow":true},"scores":[0.11,0.3356666666666667,0.543,0.613,0.621,0.633,0.611,0.5976666666666667,0.5793333333333334,0.5559999999999999,0.5276666666666666,0.4943333333333333,0.456]}
+{
+  "title": "Soak Up the Sun",
+  "instanceSlug": 2313,
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "2002-06",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "sheryl-crow": true
+  },
+  "scores": [
+    0.11,
+    0.336,
+    0.543,
+    0.613,
+    0.621,
+    0.633,
+    0.611
+  ]
+}

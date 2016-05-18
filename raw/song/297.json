@@ -1,1 +1,25 @@
-{"title":"Tell Me When","instanceSlug":297,"tags":[],"genre":"electro-pop","debut":"1995-04","playlists":[],"artists":{"human-league":true},"note":"Project 10 weeks at #1.","scores":[0.6,1,1,0.99,0.975,0.959,0.945,0.927,0.905,0.881,0.843]}
+{
+  "title": "Tell Me When",
+  "instanceSlug": 297,
+  "tags": [],
+  "genre": "electro-pop",
+  "debut": "1995-04",
+  "playlists": [],
+  "artists": {
+    "human-league": true
+  },
+  "note": "Project 10 weeks at #1.",
+  "scores": [
+    0.6,
+    1,
+    1,
+    0.9959839357429718,
+    0.9909182643794148,
+    0.9858012170385395,
+    0.9785495403472931,
+    0.9631933644375325,
+    0.94681411269089,
+    0.9235737351991388,
+    0.888888888888889
+  ]
+}

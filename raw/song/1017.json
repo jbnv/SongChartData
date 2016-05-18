@@ -1,1 +1,19 @@
-{"title":"Is This Love","instanceSlug":"1017","tags":["is-this"],"genre":"rock","debut":"1986-11","playlists":[],"artists":{"survivor":true},"scores":[0.41,0.633,0.864,0.912,0.823,0.818]}
+{
+  "title": "Is This Love",
+  "instanceSlug": "1017",
+  "tags": [
+    "is-this"
+  ],
+  "genre": "rock",
+  "debut": "1986-11",
+  "playlists": [],
+  "artists": {
+    "survivor": true
+  },
+  "scores": [
+    0.41,
+    0.633,
+    0.912,
+    0.864
+  ]
+}

@@ -1,1 +1,20 @@
-{"title":"Is It Love","instanceSlug":344,"tags":["is-it"],"genre":"rock","debut":"1986-04","playlists":[],"artists":{"mister-mister":true},"scores":[0.476,0.81,1,0.95,0.905,0.9]}
+{
+  "title": "Is It Love",
+  "instanceSlug": 344,
+  "tags": [
+    "is-it"
+  ],
+  "genre": "rock",
+  "debut": "1986-04",
+  "playlists": [],
+  "artists": {
+    "mister-mister": true
+  },
+  "scores": [
+    0.476,
+    1,
+    0.96,
+    0.92,
+    0.88
+  ]
+}

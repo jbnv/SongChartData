@@ -1,1 +1,23 @@
-{"title":"I Knew You Were Waiting","instanceSlug":"7Bk8","tags":["#1","#1-hot-100"],"genre":"dance-pop","debut":"1987-03","playlists":[],"scores":[0.277,0.475,0.677,0.768,0.78,0.76,0.755,0.745,0.73,0.71],"artists":{"aretha-franklin":true,"george-michael":true}}
+{
+  "title": "I Knew You Were Waiting",
+  "instanceSlug": "7Bk8",
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "genre": "dance-pop",
+  "debut": "1987-03",
+  "playlists": [],
+  "scores": [
+    0.227,
+    0.425,
+    0.627,
+    0.728,
+    0.74,
+    0.73
+  ],
+  "artists": {
+    "aretha-franklin": true,
+    "george-michael": true
+  }
+}

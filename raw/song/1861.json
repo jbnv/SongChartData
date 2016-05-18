@@ -1,1 +1,30 @@
-{"title":"How Deep Is Your Love","instanceSlug":1861,"tags":["#1","#1-hot-100","#1-adult-contemporary"],"parents":[],"genre":"pop","debut":"1977-10","source":"saturday-night-fever","playlists":["pph"],"artists":{"bee-gees":true,"robin-gibb":"member","barry-gibb":"member","maurice-gibb":"member"},"scores":[0.39,1,0.93,0.925]}
+{
+  "title": "How Deep Is Your Love",
+  "instanceSlug": 1861,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-adult-contemporary"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1977-10",
+  "source": "saturday-night-fever",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "bee-gees": true,
+    "robin-gibb": "member",
+    "barry-gibb": "member",
+    "maurice-gibb": "member"
+  },
+  "scores": [
+    0.39,
+    1,
+    0.985,
+    0.97,
+    0.94,
+    0.87
+  ]
+}

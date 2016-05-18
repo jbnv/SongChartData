@@ -1,1 +1,21 @@
-{"title":"Club at the End of the Street","instanceSlug":2419,"tags":[],"genre":"pop","debut":"1990-06","playlists":["summer"],"artists":{"elton-john":true},"scores":[0.463,1,1,0.989,0.971,0.944,0.92,0.887,0.852]}
+{
+  "title": "Club at the End of the Street",
+  "instanceSlug": 2419,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1990-06",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "elton-john": true
+  },
+  "scores": [
+    0.463,
+    0.971,
+    0.944,
+    0.92,
+    0.887,
+    0.852
+  ]
+}

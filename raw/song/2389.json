@@ -1,1 +1,21 @@
-{"title":"She's Always a Woman","instanceSlug":2389,"tags":[],"parents":[],"genre":"pop","debut":"1978-09","playlists":["ballad"],"ranks":[],"artists":{"billy-joel":true},"scores":[0.15969231,0.41,0.577741,0.661,0.661,0.6549231,0.641,0.627894231,0.6116346153846156,0.591,0.5651,0.534144231,0.51]}
+{
+  "title": "She's Always a Woman",
+  "instanceSlug": 2389,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1978-09",
+  "playlists": [
+    "ballad"
+  ],
+  "artists": {
+    "billy-joel": true
+  },
+  "scores": [
+    0.16,
+    0.41,
+    0.577741,
+    0.661,
+    0.661,
+    0.655
+  ]
+}

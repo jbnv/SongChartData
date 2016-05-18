@@ -1,1 +1,19 @@
-{"title":"Peace in Our Time","instanceSlug":1949,"tags":[],"parents":[],"genre":"pop","debut":"1990-01","playlists":[],"ranks":[],"artists":{"eddie-money":true},"scores":[0.2525,0.62651,0.656751,0.721,0.721,0.71975,0.6932499999999999,0.677,0.65575,0.6295,0.59825,0.562,0.526,0.453,0.345,0.2,0.018],"score":10.41625,"debutScore":0.2525,"peakScore":0.72075,"duration":6}
+{
+  "title": "Peace in Our Time",
+  "instanceSlug": 1949,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1990-01",
+  "playlists": [],
+  "artists": {
+    "eddie-money": true
+  },
+  "scores": [
+    0.2525,
+    0.62651,
+    0.656751,
+    0.721,
+    0.721,
+    0.71975
+  ]
+}

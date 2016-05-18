@@ -1,1 +1,20 @@
-{"title":"Respect","instanceSlug":"W8lW","tags":[],"parents":[],"genre":"soul","debut":1967,"playlists":[],"scores":[0.114,0.46,0.59,0.66,0.678,0.65,0.645,0.635,0.62,0.6,0.575,0.545,0.51,0.47,0.425,0.375,0.32,0.26,0.195,0.125,0.05],"artists":{"aretha-franklin":true},"score":6.876898125171639,"debutScore":0.11312179673057834,"peakScore":0.5099546922875603,"duration":9}
+{
+  "title": "Respect",
+  "instanceSlug": "W8lW",
+  "tags": [],
+  "parents": [],
+  "genre": "soul",
+  "debut": 1967,
+  "playlists": [],
+  "scores": [
+    0.14,
+    0.4588,
+    0.6,
+    0.657,
+    0.671,
+    0.661
+  ],
+  "artists": {
+    "aretha-franklin": true
+  }
+}

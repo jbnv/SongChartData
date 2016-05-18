@@ -1,1 +1,21 @@
-{"title":"Rosalia","instanceSlug":1915,"tags":[],"parents":[],"genre":"adult-alternative","debut":"1996-02","playlists":[],"ranks":[],"artists":{"better-than-ezra":true},"scores":[0.134,0.4365,0.581,0.626,0.651,0.6465,0.6140000000000001,0.6065,0.5940000000000001,0.5765,0.554,0.5265,0.494,0.4565,0.41400000000000003,0.3665,0.314,0.2565,0.194,0.1265,0.0725,0.035]}
+{
+  "title": "Rosalia",
+  "instanceSlug": 1915,
+  "tags": [],
+  "parents": [],
+  "genre": "adult-alternative",
+  "debut": "1996-02",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "better-than-ezra": true
+  },
+  "scores": [
+    0.134,
+    0.4365,
+    0.581,
+    0.626,
+    0.651,
+    0.6465
+  ]
+}

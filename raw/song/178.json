@@ -1,1 +1,25 @@
-{"title":"Everybody Everybody","instanceSlug":178,"tags":[],"parents":["summer"],"genre":"dance","debut":"1990-08","artists":{"black-box":true},"note":"Project 6 weeks at #1.","scores":[0.292,0.8584474885844748,0.8801791713325868,0.8851727982162765,0.8719684151156232,0.8432620011567379,0.839907192575406,0.833]}
+{
+  "title": "Everybody Everybody",
+  "instanceSlug": 178,
+  "tags": [],
+  "parents": [
+    "summer"
+  ],
+  "genre": "dance",
+  "debut": "1990-08",
+  "artists": {
+    "black-box": true
+  },
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.292,
+    0.8584474885844748,
+    0.88,
+    0.8851727982162765,
+    0.872,
+    0.843262,
+    0.84,
+    0.833,
+    0.8
+  ]
+}

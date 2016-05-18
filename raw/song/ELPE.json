@@ -1,1 +1,21 @@
-{"title":"To Love Somebody","instanceSlug":"ELPE","tags":[],"debut":1967,"scores":[0.075,0.5,0.63,0.66,0.652,0.649,0.641,0.633,0.625,0.615],"artists":{"bee-gees":true,"robin-gibb":"writer","barry-gibb":"writer","maurice-gibb":"member"}}
+{
+  "title": "To Love Somebody",
+  "instanceSlug": "ELPE",
+  "tags": [],
+  "debut": 1967,
+  "scores": [
+    0.075,
+    0.4,
+    0.53,
+    0.56,
+    0.552,
+    0.549,
+    0.541
+  ],
+  "artists": {
+    "bee-gees": true,
+    "robin-gibb": "writer",
+    "barry-gibb": "writer",
+    "maurice-gibb": "member"
+  }
+}

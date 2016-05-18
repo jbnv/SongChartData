@@ -1,1 +1,25 @@
-{"title":"Too Funky","instanceSlug":251,"tags":[],"playlists":["summer"],"genres":["pop"],"debut":"1992-07","artists":{"george-michael":true},"scores":[0.6,1,0.972,0.967,0.957,0.942,0.922,0.897,0.867]}
+{
+  "title": "Too Funky",
+  "instanceSlug": 251,
+  "tags": [],
+  "playlists": [
+    "summer"
+  ],
+  "genres": [
+    "pop"
+  ],
+  "debut": "1992-07",
+  "artists": {
+    "george-michael": true
+  },
+  "scores": [
+    0.6,
+    0.972,
+    0.967,
+    0.957,
+    0.942,
+    0.922,
+    0.897,
+    0.867
+  ]
+}
