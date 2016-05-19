@@ -1,1 +1,1 @@
-{"instanceSlug":"pop-country","title":"Pop-Country","parents":["pop"],"artists":[null],"songs":[],"score":0,"songCount":0,"songAdjustedAverage":null,"artistCount":1,"artistAdjustedAverage":0}
+{"instanceSlug":"pop-country","title":"Pop-Country","parents":["pop"],"artists":[{"title":"Juice Newton","instanceSlug":"juice-newton","tags":[],"roles":["singer"],"genres":["country","pop","pop-country"],"complete":true,"origin":"new-jersey","birth":1952,"death":"","type":"f"}],"songs":[],"score":0,"songCount":0,"songAdjustedAverage":null,"artistCount":1,"artistAdjustedAverage":0}

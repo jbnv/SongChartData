@@ -1,1 +1,14 @@
-{"title":"Steam","instanceSlug":"steam","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"mmm"}
+{
+  "title": "Steam",
+  "instanceSlug": "steam",
+  "tags": ["fictional"],
+  "parents": [],
+  "genres": [],
+  "members": ["gary-decarlo","dale-frashuer","paul-leka"],
+  "xref": [],
+  "complete": false,
+  "origin": "",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}
