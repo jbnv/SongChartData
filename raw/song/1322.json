@@ -1,1 +1,27 @@
-{"title":"I'll Be Good to You","instanceSlug":1322,"tags":["i'll-be","to-you"],"genre":"soul","debut":"1989-12","playlists":[],"artists":{"quincy-jones":true,"ray-charles":"feature","chaka-khan":"feature"},"remake":true,"scores":[0.232,0.8,0.971,0.936,0.9,0.85]}
+{
+  "title": "I'll Be Good to You",
+  "instanceSlug": 1322,
+  "tags": [
+    "i'll-be",
+    "to-you"
+  ],
+  "genre": "soul",
+  "debut": "1989-12",
+  "playlists": [],
+  "artists": {
+    "quincy-jones": true,
+    "ray-charles": "feature",
+    "chaka-khan": "feature",
+    "brothers-johnson": "remake",
+    "george-johnson":"writer"
+  },
+  "remake": 1409,
+  "scores": [
+    0.232,
+    0.8,
+    0.971,
+    0.936,
+    0.9,
+    0.85
+  ]
+}

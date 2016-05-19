@@ -2,11 +2,9 @@
   "title": "Making Love In the Rain",
   "instanceSlug": 2110,
   "tags": [],
-  "parents": [],
   "genre": "jazz",
   "debut": "1987-09",
   "playlists": [],
-  "ranks": [],
   "artists": {
     "herb-alpert": true,
     "lisa-keith": "backup"
@@ -15,13 +13,6 @@
     0.097,
     0.431,
     0.694,
-    0.668,
-    0.639,
-    0.582,
-    0.577,
-    0.567,
-    0.552,
-    0.532,
-    0.512
+    0.668
   ]
 }

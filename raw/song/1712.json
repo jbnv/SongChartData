@@ -1,1 +1,27 @@
-{"title":"Every Little Step","instanceSlug":1712,"tags":[],"genre":"pop","debut":"1989-04","playlists":["summer"],"artists":{"bobby-brown":true},"scores":[0.075,0.158,0.239,0.249,0.232,0.132]}
+{
+  "title": "Every Little Step",
+  "instanceSlug": 1712,
+  "tags": [],
+  "genres": [
+    "pop",
+    "urban",
+    "new-jack-swing"
+  ],
+  "debut": "1989-04",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "bobby-brown": true,
+    "babyface": "writer",
+    "la-reid": "writer"
+  },
+  "scores": [
+    0.075,
+    0.158,
+    0.239,
+    0.249,
+    0.232,
+    0.132
+  ]
+}

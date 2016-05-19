@@ -1,1 +1,26 @@
-{"title":"I'm Not in Love","instanceSlug":1148,"tags":["in-love"],"genre":"pop","debut":"1990-12","playlists":[],"artists":{"will-to-power":true},"remake":true,"note":"Project 6 weeks at #1.","scores":[0.306,1,0.985,0.965,0.944,0.92]}
+{
+  "title": "I'm Not in Love",
+  "instanceSlug": 1148,
+  "tags": [
+    "in-love"
+  ],
+  "genre": "pop",
+  "debut": "1990-12",
+  "playlists": [],
+  "artists": {
+    "will-to-power": true,
+    "10cc":"remake",
+    "eric-stewart":"writer",
+    "graham-gouldman":"writer"
+  },
+  "remake": "1148a",
+  "note": "Project 6 weeks at #1.",
+  "scores": [
+    0.306,
+    1,
+    0.985,
+    0.965,
+    0.944,
+    0.92
+  ]
+}

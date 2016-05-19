@@ -1,1 +1,23 @@
-{"title":"Superwoman","instanceSlug":506,"tags":["#1","super","woman"],"parents":[],"genre":"soul","debut":"1989-03","playlists":[],"ranks":[16.5,10.2,7,5.9,4.9,5.3,5.87],"artists":{"karyn-white":true},"scores":[0.065,0.225,0.351,0.408,0.47,0.444,0.41]}
+{
+  "title": "Superwoman",
+  "instanceSlug": 506,
+  "tags": [
+    "#1","#1-r&b"
+  ],
+  "genre": "soul",
+  "debut": "1989-03",
+  "playlists": [],
+  "artists": {
+    "karyn-white": true,
+    "babyface": "writer",
+    "la-reid": "writer",
+    "daryl-simmons": "writer"
+  },
+  "scores": [
+    0.225,
+    0.551,
+    0.608,
+    0.67,
+    0.644
+  ]
+}

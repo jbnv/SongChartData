@@ -1,1 +1,19 @@
-{"title":"Don't Shed a Tear","instanceSlug":1454,"tags":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[13,4,1,1.09,1.27,1.59],"artists":{"paul-carrack":true},"scores":[0.145,0.537,1,0.971,0.92,0.845]}
+{
+  "title": "Don't Shed a Tear",
+  "instanceSlug": 1454,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1987-12",
+  "playlists": [],
+  "artists": {
+    "paul-carrack": true
+  },
+  "scores": [
+    0.145,
+    0.537,
+    1,
+    0.981,
+    0.96,
+    0.942
+  ]
+}

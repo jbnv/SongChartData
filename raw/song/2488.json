@@ -1,1 +1,25 @@
-{"title":"I'm Your Baby Tonight","instanceSlug":2488,"tags":["#1","#1-hot-100","#1-r&b"],"parents":[],"genre":"pop","debut":"1990-11","playlists":[],"ranks":[14,7,4,2.9,2.2,2.43],"artists":{"whitney-houston":true},"scores":[0.12,0.351,0.537,0.645,0.737,0.704]}
+{
+  "title": "I'm Your Baby Tonight",
+  "instanceSlug": 2488,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "genre": "pop",
+  "debut": "1990-11",
+  "playlists": [],
+  "artists": {
+    "whitney-houston": true,
+    "babyface":"writer",
+    "la-reid":"writer"
+  },
+  "scores": [
+    0.12,
+    0.351,
+    0.537,
+    0.645,
+    0.737,
+    0.704
+  ]
+}

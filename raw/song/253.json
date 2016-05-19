@@ -1,1 +1,27 @@
-{"title":"End of the Road","instanceSlug":253,"tags":["#1","#1-r&b"],"playlists":["breakup","feb13"],"genre":"soul","debut":"1992-08","source":"boomerang","artists":{"boyz-ii-men":true},"scores":[0.15,0.537,0.968,0.942]}
+{
+  "title": "End of the Road",
+  "instanceSlug": 253,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "breakup",
+    "feb13"
+  ],
+  "genre": "soul",
+  "debut": "1992-08",
+  "source": "boomerang",
+  "artists": {
+    "boyz-ii-men": true,
+    "babyface":"writer",
+    "la-reid":"writer",
+    "daryl-simmons":"writer"
+  },
+  "scores": [
+    0.15,
+    0.537,
+    0.968,
+    0.942
+  ]
+}

@@ -1,1 +1,22 @@
-{"title":"Girlfriend","instanceSlug":164,"tags":["#1","#1-r&b","first-hit"],"genre":"pop","debut":"1988-03","artists":{"pebbles":true},"scores":[0.177,0.302,0.332,0.351,0.323]}
+{
+  "title": "Girlfriend",
+  "instanceSlug": 164,
+  "tags": [
+    "#1",
+    "#1-r&b",
+    "first-hit"
+  ],
+  "genre": "pop",
+  "debut": "1988-03",
+  "artists": {
+    "pebbles": true
+    ,"babyface":"writer","la-reid":"writer"
+  },
+  "scores": [
+    0.177,
+    0.302,
+    0.332,
+    0.351,
+    0.323
+  ]
+}

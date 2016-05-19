@@ -1,1 +1,23 @@
-{"title":"Knocked Out","instanceSlug":808,"tags":["knock","out"],"parents":[],"genre":"pop","debut":1990,"playlists":[],"ranks":[11,5.9,3.2,1.7,1.9,2.7],"artists":{"paula-abdul":true},"scores":[0.2,0.633,0.786,0.804,0.777,0.737]}
+{
+  "title": "Knocked Out",
+  "instanceSlug": 808,
+  "tags": [
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": 1990,
+  "playlists": [],
+  "artists": {
+    "paula-abdul": true
+    ,"babyface":"writer","la-reid":"writer"
+,"daryl-simmons":"writer"
+  },
+  "scores": [
+    0.2,
+    0.633,
+    0.786,
+    0.804,
+    0.777,
+    0.737
+  ]
+}

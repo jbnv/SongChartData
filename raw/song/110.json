@@ -1,1 +1,21 @@
-{"title":"Dominoes","instanceSlug":110,"tags":["games"],"parents":[],"genre":"pop","debut":"1987-03","artists":{"robbie-nevil":true},"scores":[0.2,1,0.99,0.959,0.939]}
+{
+  "title": "Dominoes",
+  "instanceSlug": 110,
+  "tags": [
+
+  ],
+  "playlists": ["games"],
+  "genre": "pop",
+  "debut": "1987-03",
+  "artists": {
+    "robbie-nevil": true
+  },
+  "scores": [
+    0.582,
+    1,
+    0.98,
+    0.975,
+    0.965,
+    0.932
+  ]
+}
