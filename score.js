@@ -20,14 +20,32 @@ function read(slug) {
   }
 }
 
-function write(slug,entity) {
-  writeEntity(meta.rawRoute("song",slug),entity);
+function write(slug,song) {
+  song.scores = song.scores.filter(function(s) { return s >= 0.01 });
+  writeEntity(meta.rawRoute("song",slug),song);
 }
 
 function unary(task,fn) {
   return function(slug) {
     var entity = read(slug);
     fn(entity);
+    write(slug,entity);
+
+    util.log(
+      chalk.green(task),
+      chalk.blue(slug),
+      entity.title
+    );
+  }
+}
+
+function unaryWithModifier(task,fn) {
+  return function(slugColonModifier) {
+    var split = (""+slugColonModifier).split(":"),
+        slug = split[0],
+        modifier = split[1],
+        entity = read(slug);
+    fn(entity,modifier);
     write(slug,entity);
 
     util.log(
@@ -87,7 +105,6 @@ function interpolate(tuple) {
     newScores[i] = newScores[i] / (slugs.length-1);
   }
 
-  songs[0].scores = newScores.filter(function(s) { return s >= 0.01 });
   write(slugs[0],songs[0]);
 
   util.log(
@@ -104,8 +121,19 @@ var clear = unary(
 
 var zero = unary(
   "zero",
-  function(entity) { entity.scores = [0]; }
+  function(entity) { entity.scores = false; }
 );
+
+// var bendUp = unaryWithModifier(
+//   "up",
+//   function(entity,modifier) {
+//     degree = parseFloat(modifier || 0.5);
+//     if (degree <= 0 || degree >= 1) return;
+//     entity.scores = entity.scores.map(function(score) {
+//       return score + (1-score)*degree;
+//     });
+//   }
+// );
 
 var bendUp = unary(
   "up",
@@ -158,6 +186,10 @@ if (yargs.argv.all) {
 
   songs.forEach(function(song) {
 
+    if (song.scores === false) {
+      return;
+    }
+
     if (!song.scores || song.scores.length == 0) {
       unscoredSongs.push(song);
       return;
@@ -179,8 +211,6 @@ if (yargs.argv.all) {
     var average = newScores[i] / scoredSongCount;
     newScores[i] = average / (2-average);
   }
-
-  newScores = newScores.filter(function(s) { return s >= 0.01 });
 
   unscoredSongs.forEach(function(song) {
     var rawSong = meta.getRawObject("song",song.instanceSlug)();
