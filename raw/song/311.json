@@ -6,7 +6,8 @@
   "debut": "1989-02",
   "playlists": ["women"],
   "artists": {
-    "bobby-brown": true
+    "bobby-brown": true    ,"babyface":"writer","darnell-bristol":"writer"
+
   },
   "scores": [
     0.261,

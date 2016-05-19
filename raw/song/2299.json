@@ -1,1 +1,28 @@
-{"title":"Water Runs Dry","instanceSlug":2299,"tags":[],"parents":[],"genre":"urban","debut":"1995-05","playlists":["summer"],"ranks":[],"artists":{"boyz-ii-men":true},"scores":[0.1,0.17228713219491232,0.3199191,0.41,0.447551,0.4767897871781831,0.46471,0.44821,0.438481,0.42381,0.41,0.381]}
+{
+  "title": "Water Runs Dry",
+  "instanceSlug": 2299,
+  "tags": [],
+  "genre": "urban",
+  "debut": "1995-05",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "boyz-ii-men": true,
+    "babyface": "writer"
+  },
+  "scores": [
+    0.1,
+    0.17228713219491232,
+    0.32,
+    0.41,
+    0.447551,
+    0.4767897871781831,
+    0.46471,
+    0.44821,
+    0.438481,
+    0.42381,
+    0.41,
+    0.381
+  ]
+}

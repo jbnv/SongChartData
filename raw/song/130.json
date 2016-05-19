@@ -1,1 +1,23 @@
-{"title":"Two Occasions","instanceSlug":130,"tags":[],"genre":"soul","debut":"1988-05","artists":{"deele":true,"babyface":"lead"},"scores":[0.3,1,1,0.97,0.935,0.895,0.84]}
+{
+  "title": "Two Occasions",
+  "instanceSlug": 130,
+  "tags": [],
+  "genre": "soul",
+  "debut": "1988-05",
+  "artists": {
+    "deele": true,
+    "babyface": "writer",
+    "darnell-bristol": "writer",
+    "sid-johnson": "writer",
+    "la-reid":"member"
+  },
+  "scores": [
+    0.3,
+    1,
+    0.99,
+    0.97,
+    0.955,
+    0.935,
+    0.91
+  ]
+}
