@@ -13,4 +13,10 @@ module.exports = function(app) {
 
   app.get("/songs/unscored", functions.getSome(slugs,_isUnscored,transform.sortByTitle));
 
+  function _withMessages(song) {
+    return (song.messages || []).length > 0;
+  }
+
+  app.get("/songs/with-messages", functions.getSome(slugs,_withMessages));
+
 }
