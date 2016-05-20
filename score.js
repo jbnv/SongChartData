@@ -110,17 +110,28 @@ function swap(pair) {
   var scoresA = entityA.scores;
   var scoresB = entityB.scores;
 
-  // var statsA = scoresA.stats();
-  // var statsB = scoresB.stats();
-  //
-  // var transformedA = scoresA.slice(0,statsA.peakIndex+1);
-  // transformedA.push(statsA.peakValue*(1-))
-  // var transformedB = scoresB.slice(0,statsB.peakIndex+1);
-  //
-  //
-  //
-  // entityA.scores = transformedA;
-  // entityB.scores = transformedB;
+  var statsA = scoresA.stats();
+  var statsB = scoresB.stats();
+
+  var transformedA = statsA.ascent;
+  var transformedB = statsB.ascent;
+
+  // Here's where the swap takes place. Swap descent scores.
+  var ndcA = (3/2)*(statsB.descentSum/(statsA.peakValue || 1));
+  var ndcB = (3/2)*(statsA.descentSum/(statsB.peakValue || 1));
+
+  for (i = 1; i < ndcA; i++ ) {
+    var tail = statsA.peakValue*(1-Math.pow(i/ndcA,2));
+    transformedA.push(tail);
+  }
+
+  for (i = 1; i < ndcB; i++ ) {
+    var tail = statsB.peakValue*(1-Math.pow(i/ndcB,2));
+    transformedB.push(tail);
+  }
+
+  entityA.scores = transformedA;
+  entityB.scores = transformedB;
 
   write(a,entityA);
   write(b,entityB);
