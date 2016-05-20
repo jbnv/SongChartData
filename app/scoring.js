@@ -60,7 +60,7 @@ exports.score = function(song,scoringOptions) {
 		score1 = parseFloat(song.scores[song.scores.length-2]) || score0 || 1;
 		scale = score1 - score0;
     if (scale < .005) scale = .005;  // prevent infinite loops
-    if (scale/score0 < .05) scale = score0*0.05; // ensure rapid descents
+    if (scale/score0 < .02) scale = score0*0.02; // ensure rapid descents
     margin = scale;
 
 		while (score0 > 0 ) {
