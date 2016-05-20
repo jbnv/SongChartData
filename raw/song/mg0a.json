@@ -1,1 +1,29 @@
-{"title":"Burning Up","instanceSlug":"mg0a","tags":[],"parents":[],"genre":"dance","debut":"1983-03","playlists":[],"scores":[0.077,0.3,0.554,0.6,0.64,0.66,0.67,0.68,0.658],"artists":{"madonna":true,"jellybean":"producer","reggie-lucas":"producer"}}
+{
+  "title": "Burning Up",
+  "instanceSlug": "mg0a",
+  "tags": [],
+  "genre": "dance",
+  "debut": "1983-03",
+  "playlists": [],
+  "scores": [
+    0.077,
+    0.3,
+    0.554,
+    0.6,
+    0.64,
+    0.6224244963255571,
+    0.6254551167325035,
+    0.5896979853022284,
+    0.4151531020347319,
+    0.20182046693001407
+  ],
+  "artists": {
+    "madonna": true,
+    "jellybean": "producer",
+    "reggie-lucas": "producer"
+  },
+  "score": 6.928334666851209,
+  "debutScore": 0.077,
+  "peakScore": 0.6762381904893721,
+  "duration": 4
+}

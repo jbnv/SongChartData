@@ -1,1 +1,26 @@
-{"title":"Material Girl","instanceSlug":974,"tags":[],"genre":"dance","debut":"1985-03","playlists":[],"artists":{"madonna":true},"scores":[0.142,0.398,0.739,0.838,0.853,0.841]}
+{
+  "title": "Material Girl",
+  "instanceSlug": 974,
+  "tags": [],
+  "genre": "dance",
+  "debut": "1985-03",
+  "playlists": [],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.142,
+    0.398,
+    0.739,
+    0.838,
+    0.853,
+    0.8447192822960501,
+    0.8198771291842007,
+    0.7784735406644517,
+    0.7205085167368032,
+    0.6459820574012549,
+    0.5548941626578072,
+    0.4472448325064599,
+    0.323
+  ]
+}

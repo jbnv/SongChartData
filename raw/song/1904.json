@@ -1,7 +1,20 @@
-{"title":"Don't Cry for Me, Argentina","instanceSlug":1904,"tags":[],"genre":"pop","debut":"1997-03","source":"evita","playlists":[],"artists":{"madonna":true},"scores":[    0.15823467432951,
+{
+  "title": "Don't Cry for Me, Argentina",
+  "instanceSlug": 1904,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1997-03",
+  "source": "evita",
+  "playlists": [],
+  "artists": {
+    "madonna": true
+  },
+  "scores": [
+    0.15823467432951,
     0.421,
     0.55123754789272,
     0.592852491,
     0.595441571,
     0.584
-]}
+  ]
+}
