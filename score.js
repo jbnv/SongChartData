@@ -10,6 +10,49 @@ var chalk       = require("chalk"),
     meta        = require('./app/meta'),
     scoring     = require('./app/scoring');
 
+Array.prototype.sum = function() {
+  var result = 0;
+  this.forEach(function(e) { result += parseFloat(e); });
+  return result;
+}
+
+Array.prototype.stats = function() {
+
+  var sum = 0;
+  var peakValue = 0;
+  var peakIndex = 0;
+
+  this.forEach(function(e,index) {
+    var f = parseFloat(e);
+    sum += f;
+    if (f > peakValue) { peakValue = f; peakIndex = index; }
+  });
+
+  var descent = this.slice(peakIndex);
+  var descentSum = descent.sum();
+
+  return {
+    sum: sum,
+    peakValue:peakValue,
+    peakIndex: peakIndex,
+    ascent: this.slice(0,peakIndex+1),
+    descent: descent,
+    descentSum: descentSum,
+    normalizedDescentLength: (3/2)*(descentSum/(peakValue || 1))
+  };
+}
+
+Array.prototype.normalize = function() {
+  var stats = this.stats();
+  var transformed = stats.ascent;
+  var denominator = stats.normalizedDescentLength;
+  for (i = 1; i < denominator; i++ ) {
+    var tail = stats.peakValue*(1-Math.pow(i/denominator,2));
+    transformed.push(tail);
+  }
+  return transformed;
+};
+
 function read(slug) {
   try {
     var song = meta.getRawObject("song",slug)();
@@ -21,7 +64,7 @@ function read(slug) {
 }
 
 function write(slug,song) {
-  song.scores = song.scores.filter(function(s) { return s >= 0.01 });
+  song.scores = (song.scores || []).filter(function(s) { return s >= 0.01 });
   writeEntity(meta.rawRoute("song",slug),song);
 }
 
@@ -64,9 +107,20 @@ function swap(pair) {
   var entityA = read(a);
   var entityB = read(b);
 
-  var temp = entityA.scores;
-  entityA.scores = entityB.scores;
-  entityB.scores = temp;
+  var scoresA = entityA.scores;
+  var scoresB = entityB.scores;
+
+  // var statsA = scoresA.stats();
+  // var statsB = scoresB.stats();
+  //
+  // var transformedA = scoresA.slice(0,statsA.peakIndex+1);
+  // transformedA.push(statsA.peakValue*(1-))
+  // var transformedB = scoresB.slice(0,statsB.peakIndex+1);
+  //
+  //
+  //
+  // entityA.scores = transformedA;
+  // entityB.scores = transformedB;
 
   write(a,entityA);
   write(b,entityB);
@@ -153,6 +207,13 @@ var bendDown = unary(
   }
 );
 
+var normalize = unary(
+  "normalize",
+  function(entity) {
+    entity.scores = entity.scores.normalize();
+  }
+);
+
 function processArguments(flag,fn) {
   arg = yargs.argv[flag];
   if (arg) {
@@ -168,6 +229,7 @@ processArguments("s",swap);
 processArguments("i",interpolate);
 processArguments("c",clear);
 processArguments("z",zero);
+processArguments("n",normalize);
 processArguments("u",bendUp);
 processArguments("d",bendDown);
 
@@ -182,7 +244,7 @@ if (yargs.argv.all) {
 
   var unscoredSongs = [];
   var scoredSongCount = 0;
-  var newScores = [];
+  var newScores = new Array();
 
   songs.forEach(function(song) {
 
@@ -191,6 +253,7 @@ if (yargs.argv.all) {
     }
 
     if (!song.scores || song.scores.length == 0) {
+      console.log(song.instanceSlug,song.scores);
       unscoredSongs.push(song);
       return;
     }
@@ -207,10 +270,10 @@ if (yargs.argv.all) {
 
   });
 
-  for (var i in newScores) {
-    var average = newScores[i] / scoredSongCount;
-    newScores[i] = average / (2-average);
-  }
+  newScores = newScores.map(function(v) {
+    var average = v / scoredSongCount;
+    return average / (2-average);
+  }).normalize();
 
   unscoredSongs.forEach(function(song) {
     var rawSong = meta.getRawObject("song",song.instanceSlug)();
