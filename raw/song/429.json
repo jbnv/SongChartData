@@ -1,1 +1,22 @@
-{"title":"What's Love Got to Do With It","instanceSlug":429,"tags":["#1"],"parents":[],"genre":"pop","debut":"1984-07","playlists":[],"ranks":[15,4.4,2.3,1.7,1.65,1.93],"artists":{"tina-turner":true},"scores":[0.097,0.506,0.722,0.823,0.833,0.78]}
+{
+  "title": "What's Love Got to Do With It",
+  "instanceSlug": 429,
+  "tags": [
+    "#1"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": ["grammy"],
+  "artists": {
+    "tina-turner": true
+  },
+  "scores": [
+    0.406,
+    0.722,
+    0.823,
+    0.833,
+    0.84,
+    0.82
+  ]
+}
