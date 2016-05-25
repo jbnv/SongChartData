@@ -255,7 +255,7 @@ if (yargs.argv.all) {
 
   var unscoredSongs = [];
   var scoredSongCount = 0;
-  var newScores = new Array();
+  var totalScore = 0.0;
 
   songs.forEach(function(song) {
 
@@ -264,27 +264,30 @@ if (yargs.argv.all) {
     }
 
     if (!song.scores || song.scores.length == 0) {
-      console.log(song.instanceSlug,song.scores);
       unscoredSongs.push(song);
       return;
     }
 
+    stats = song.scores.stats();
     scoredSongCount++;
-
-    for (i = 0; i < song.scores.length; i++) {
-      if (newScores.length < i+1) {
-        newScores.push(song.scores[i]);
-      } else {
-        newScores[i] += song.scores[i];
-      }
-    }
+    totalScore += stats.sum;
 
   });
 
-  newScores = newScores.map(function(v) {
-    var average = v / scoredSongCount;
-    return average / (2-average);
-  }).normalize();
+  var peakValue = 0.3;
+  var descentSum = totalScore/scoredSongCount;
+
+  var newScores = [peakValue];
+  var denominator = (3/2)*(descentSum/(peakValue || 1));
+  for (i = 1; i < denominator; i++ ) {
+    var tail = peakValue*(1-Math.pow(i/denominator,2));
+    newScores.push(tail);
+  }
+
+  // newScores = newScores.map(function(v) {
+  //   var average = v / scoredSongCount;
+  //   return average / (2-average);
+  // }).normalize();
 
   unscoredSongs.forEach(function(song) {
     var rawSong = meta.getRawObject("song",song.instanceSlug)();
