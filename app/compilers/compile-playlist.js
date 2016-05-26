@@ -10,6 +10,8 @@ var chalk       = require("chalk"),
     meta        = require('../meta'),
     scoring     = require('../scoring');
 
+require("../polyfill");
+
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-playlist.js"));
@@ -54,11 +56,10 @@ module.exports = function(yargs,entities) {
         if (key === "tag") {
           // Tag: Argument is a pattern to match.
           //util.log("Tag pattern:",chalk.magenta(pattern));
+          test = function(x) { return exp.test(x); }
           filter = function(song) {
-            if (song.tags) {
-              song.tags.forEach(function(tag) {
-                if (exp.test(tag)) { entity.songs.push(song); }
-              })
+            if ((song.tags || []).any(test)) {
+              entity.songs.push(song);
             }
           }
         }
