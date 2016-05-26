@@ -1,1 +1,22 @@
-{"title":"Tell Me","instanceSlug":151,"tags":[],"parents":[],"genre":"soul","debut":"1991-12","playlists":[],"ranks":[],"artists":{"tevin-campbell":true},"scores":[0.1,0.269,0.4221,0.4685,0.497,0.51351,0.51551,0.51,0.4945]}
+{
+  "title": "Tell Me What You Want Me to Do",
+  "instanceSlug": 151,
+  "tags": ["#1","#1-r&b"],
+  "genre": "soul",
+  "debut": "1991-12",
+  "playlists": [],
+  "artists": {
+    "tevin-campbell": true
+  },
+  "scores": [
+    0.1,
+    0.269,
+    0.4221,
+    0.4685,
+    0.497,
+    0.51351,
+    0.51551,
+    0.51,
+    0.4945
+  ]
+}

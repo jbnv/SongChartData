@@ -1,3 +1,24 @@
-{"title":"Baby Baby Baby","instanceSlug":55,"tags":[],"playlists":["summer"],"genre":"urban","debut":"1992-07","artists":{"tlc":true,"babyface":"writer",
-"la-reid":"writer",
-  "daryl-simmons":"writer"},"scores":[0.232,0.737,0.729,0.708,0.675,0.642]}
+{
+  "title": "Baby Baby Baby",
+  "instanceSlug": 55,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "urban",
+  "debut": "1992-07",
+  "artists": {
+    "tlc": true,
+    "babyface": "writer",
+    "la-reid": "writer",
+    "daryl-simmons": "writer"
+  },
+  "scores": [
+    0.232,
+    0.737,
+    0.729
+  ]
+}

@@ -1,1 +1,21 @@
-{"title":"If I Ever Fall in Love","instanceSlug":1059,"tags":[],"genres":["soul","urban"],"debut":"1992-11","playlists":[],"artists":{"shai":true},"scores":[0.097,0.463,0.633,0.786,0.708]}
+{
+  "title": "If I Ever Fall in Love",
+  "instanceSlug": 1059,
+  "tags": ["#1","#1-r&b"],
+  "genres": [
+    "soul",
+    "urban"
+  ],
+  "debut": "1992-11",
+  "playlists": [],
+  "artists": {
+    "shai": true
+  },
+  "scores": [
+    0.197,
+    0.463,
+    0.633,
+    0.786,
+    0.708
+  ]
+}

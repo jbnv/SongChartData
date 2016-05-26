@@ -1,7 +1,7 @@
 {
   "title": "Humping Around",
   "instanceSlug": 247,
-  "tags": [],
+  "tags": ["#1","#1-r&b"],
   "playlists": [
     "summer"
   ],
@@ -15,10 +15,13 @@
     "daryl-simmons": "writer"
   },
   "scores": [
-    0.426,
-    0.71,
-    0.89,
-    0.93,
-    0.92
+    0.77,
+    0.968,
+    0.965,
+    0.942,
+    0.921,
+    0.909,
+    0.851,
+    0.807
   ]
 }

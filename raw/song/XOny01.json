@@ -1,1 +1,20 @@
-{"title":"Lady Marmalade","instanceSlug":"XOny01","remake":"XOny","tags":[],"debut":21,"playlists":[],"scores":[0.06493517521485907],"artists":{"christina-aguilera":true,"lil-kim":true,"mya":true,"pink":true,"bob-crewe":"writer","kenny-nolan":"writer","patti-labelle":"remake"}}
+{
+  "title": "Lady Marmalade",
+  "instanceSlug": "XOny01",
+  "remake": "XOny",
+  "tags": [],
+  "debut": 21,
+  "playlists": [],
+  "scores": [
+    0.06493517521485907
+  ],
+  "artists": {
+    "christina-aguillera": true,
+    "lil-kim": true,
+    "mya": true,
+    "pink": true,
+    "bob-crewe": "writer",
+    "kenny-nolan": "writer",
+    "patti-labelle": "remake"
+  }
+}

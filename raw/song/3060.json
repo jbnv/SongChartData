@@ -1,1 +1,24 @@
-{"title":"Strawberry Letter 23","instanceSlug":"3060","tags":[],"parents":[],"genre":"pop","debut":"1992-06","playlists":["summer"],"remake":true,"ranks":[],"artists":{"tevin-campbell":true},"scores":[0.17684594348222427,0.423955871,0.593531,0.6381,0.663994655978624,0.6785596299966965,0.681,0.671]}
+{
+  "title": "Strawberry Letter 23",
+  "instanceSlug": "3060",
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1992-06",
+  "playlists": [
+    "summer"
+  ],
+  "remake": 2611,
+  "ranks": [],
+  "artists": {
+    "tevin-campbell": true
+  },
+  "scores": [
+    0.27684594348222427,
+    0.523955871,
+    0.693531,
+    0.763994655978624,
+    0.781,
+    0.771
+  ]
+}
