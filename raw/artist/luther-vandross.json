@@ -10,7 +10,7 @@
     "soul"
   ],
   "xref": [],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "bronx",
   "birth": 1951,
   "death": 2005,

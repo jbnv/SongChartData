@@ -1,1 +1,17 @@
-{"title":"Babyface","instanceSlug":"babyface","tags":[],"roles":["singer"],"genres":["urban"],"members":[],"origin":"indianapolis","birth":"","death":"","complete":true,"type":"m"}
+{
+  "title": "Babyface",
+  "instanceSlug": "babyface",
+  "tags": ["grammy"],
+  "roles": [
+    "singer","songwriter","producer"
+  ],
+  "genres": [
+    "urban","soul", "new-jack-swing", "soft-rock", "hip-hop-soul", "pop"
+  ],
+  "xref": ["deele","la-reid","daryl-simmons","darnell-bristol"],
+  "origin": "indianapolis",
+  "birth": "",
+  "death": "",
+  "complete": true,
+  "type": "m"
+}

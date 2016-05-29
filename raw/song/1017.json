@@ -1,1 +1,19 @@
-{"title":"Is This Love","instanceSlug":1017,"tags":["is","is-this","love","this"],"parents":[],"genre":"rock","debut":"1986-11","playlists":[],"ranks":[16,10,4,1.95,2.1,2.27,2.48,2.85],"artists":{"survivor":true},"scores":[0.171,0.633,1,0.936,0.931,0.921,0.906,0.886,0.861,0.831,0.796,0.756,0.711,0.661,0.606,0.546,0.481,0.411,0.336,0.256,0.171,0.081,0],"score":13.949457024922458,"debutScore":0.13953488372093023,"peakScore":0.8745075970737197,"duration":7}
+{
+  "title": "Is This Love",
+  "instanceSlug": "1017",
+  "tags": [
+    "is-this"
+  ],
+  "genre": "rock",
+  "debut": "1986-11",
+  "playlists": [],
+  "artists": {
+    "survivor": true
+  },
+  "scores": [
+    0.41,
+    0.633,
+    0.912,
+    0.864
+  ]
+}

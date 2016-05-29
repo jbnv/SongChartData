@@ -1,34 +1,29 @@
 {
   "title": "Somewhere Out There",
   "instanceSlug": 302,
-  "tags": [
-  ],
+  "tags": [],
   "genres": [
     "pop"
   ],
   "debut": "1987-02",
   "source": "an-american-tail",
   "playlists": [
-    "ballad"
-  ],
-  "ranks": [
-    15,
-    4.4,
-    2.3,
-    2.2,
-    2.35,
-    2.55
+    "ballad","grammy"
   ],
   "artists": {
     "linda-rondstadt": true,
-    "james-ingram": true
+    "james-ingram": true,
+    "james-horner":"writer",
+    "barry-mann":"writer",
+    "cynthia-weil":"writer"
   },
   "scores": [
-    0.097,
-    0.506,
-    0.722,
-    0.737,
-    0.715,
-    0.687
+    0.23,
+    0.481,
+    0.593,
+    0.732,
+    0.863,
+    0.886,
+    0.87
   ]
 }

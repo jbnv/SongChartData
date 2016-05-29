@@ -4,6 +4,15 @@ if (!Array.isArray) {
   };
 }
 
+if (!Array.prototype.any) {
+  Array.prototype.any = function(predicate) {
+    if (!predicate) return false;
+    return this.reduce(function(prev,cur) {
+      return prev || predicate(cur);
+    },false);
+  }
+}
+
 if (!Array.prototype.contains) {
   Array.prototype.contains = function(item) {
     for (i in this) {

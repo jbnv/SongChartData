@@ -10,7 +10,7 @@
   "genres": [],
   "members": [],
   "xref": [],
-  "complete": false,
+  "complete": {"performer":false,"writer":false},
   "origin": "canada",
   "birth": "",
   "death": "",

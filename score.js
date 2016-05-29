@@ -7,24 +7,88 @@ var chalk       = require("chalk"),
 
     writeEntity = require("./lib/fs").writeEntity,
 
-    meta        = require('./app/meta');
+    meta        = require('./app/meta'),
+    scoring     = require('./app/scoring');
+
+Array.prototype.sum = function() {
+  var result = 0;
+  this.forEach(function(e) { result += parseFloat(e); });
+  return result;
+}
+
+Array.prototype.stats = function() {
+
+  var sum = 0;
+  var peakValue = 0;
+  var peakIndex = 0;
+
+  this.forEach(function(e,index) {
+    var f = parseFloat(e);
+    sum += f;
+    if (f > peakValue) { peakValue = f; peakIndex = index; }
+  });
+
+  var descent = this.slice(peakIndex);
+  var descentSum = descent.sum();
+
+  return {
+    sum: sum,
+    peakValue:peakValue,
+    peakIndex: peakIndex,
+    ascent: this.slice(0,peakIndex+1),
+    descent: descent,
+    descentSum: descentSum,
+    normalizedDescentLength: (3/2)*(descentSum/(peakValue || 1))
+  };
+}
+
+Array.prototype.normalize = function() {
+  var stats = this.stats();
+  var transformed = stats.ascent;
+  var denominator = stats.normalizedDescentLength;
+  for (i = 1; i < denominator; i++ ) {
+    var tail = stats.peakValue*(1-Math.pow(i/denominator,2));
+    transformed.push(tail);
+  }
+  return transformed;
+};
 
 function read(slug) {
   try {
-    return meta.getRawObject("song",slug)();
+    var song = meta.getRawObject("song",slug)();
+    scoring.score(song);
+    return song;
   } catch(err) {
     return {};
   }
 }
 
-function write(slug,entity) {
-  writeEntity(meta.rawRoute("song",slug),entity);
+function write(slug,song) {
+  song.scores = (song.scores || []).filter(function(s) { return s >= 0.01 });
+  writeEntity(meta.rawRoute("song",slug),song);
 }
 
 function unary(task,fn) {
   return function(slug) {
     var entity = read(slug);
     fn(entity);
+    write(slug,entity);
+
+    util.log(
+      chalk.green(task),
+      chalk.blue(slug),
+      entity.title
+    );
+  }
+}
+
+function unaryWithModifier(task,fn) {
+  return function(slugColonModifier) {
+    var split = (""+slugColonModifier).split(":"),
+        slug = split[0],
+        modifier = split[1],
+        entity = read(slug);
+    fn(entity,modifier);
     write(slug,entity);
 
     util.log(
@@ -43,9 +107,31 @@ function swap(pair) {
   var entityA = read(a);
   var entityB = read(b);
 
-  var temp = entityA.scores;
-  entityA.scores = entityB.scores;
-  entityB.scores = temp;
+  var scoresA = entityA.scores;
+  var scoresB = entityB.scores;
+
+  var statsA = scoresA.stats();
+  var statsB = scoresB.stats();
+
+  var transformedA = statsA.ascent;
+  var transformedB = statsB.ascent;
+
+  // Here's where the swap takes place. Swap descent scores.
+  var ndcA = (3/2)*(statsB.descentSum/(statsA.peakValue || 1));
+  var ndcB = (3/2)*(statsA.descentSum/(statsB.peakValue || 1));
+
+  for (i = 1; i < ndcA; i++ ) {
+    var tail = statsA.peakValue*(1-Math.pow(i/ndcA,2));
+    transformedA.push(tail);
+  }
+
+  for (i = 1; i < ndcB; i++ ) {
+    var tail = statsB.peakValue*(1-Math.pow(i/ndcB,2));
+    transformedB.push(tail);
+  }
+
+  entityA.scores = transformedA;
+  entityB.scores = transformedB;
 
   write(a,entityA);
   write(b,entityB);
@@ -70,8 +156,8 @@ function interpolate(tuple) {
 
   newScores = [];
 
-  songs.forEach(function(song) {
-    for (i = 1; i < slugs.length; i++) {
+  songs.slice(1).forEach(function(song) {
+    for (var i in song.scores) {
       if (newScores.length < i+1) {
         newScores.push(song.scores[i] || 0);
       } else {
@@ -84,7 +170,6 @@ function interpolate(tuple) {
     newScores[i] = newScores[i] / (slugs.length-1);
   }
 
-  songs[0].scores = newScores;
   write(slugs[0],songs[0]);
 
   util.log(
@@ -101,8 +186,19 @@ var clear = unary(
 
 var zero = unary(
   "zero",
-  function(entity) { entity.scores = [0]; }
+  function(entity) { entity.scores = false; }
 );
+
+// var bendUp = unaryWithModifier(
+//   "up",
+//   function(entity,modifier) {
+//     degree = parseFloat(modifier || 0.5);
+//     if (degree <= 0 || degree >= 1) return;
+//     entity.scores = entity.scores.map(function(score) {
+//       return score + (1-score)*degree;
+//     });
+//   }
+// );
 
 var bendUp = unary(
   "up",
@@ -122,6 +218,13 @@ var bendDown = unary(
   }
 );
 
+var normalize = unary(
+  "normalize",
+  function(entity) {
+    entity.scores = entity.scores.normalize();
+  }
+);
+
 function processArguments(flag,fn) {
   arg = yargs.argv[flag];
   if (arg) {
@@ -137,6 +240,7 @@ processArguments("s",swap);
 processArguments("i",interpolate);
 processArguments("c",clear);
 processArguments("z",zero);
+processArguments("n",normalize);
 processArguments("u",bendUp);
 processArguments("d",bendDown);
 
@@ -151,31 +255,39 @@ if (yargs.argv.all) {
 
   var unscoredSongs = [];
   var scoredSongCount = 0;
-  var newScores = [];
+  var totalScore = 0.0;
 
   songs.forEach(function(song) {
+
+    if (song.scores === false) {
+      return;
+    }
 
     if (!song.scores || song.scores.length == 0) {
       unscoredSongs.push(song);
       return;
     }
 
+    stats = song.scores.stats();
     scoredSongCount++;
-
-    for (i = 0; i < song.scores.length; i++) {
-      if (newScores.length < i+1) {
-        newScores.push(song.scores[i]);
-      } else {
-        newScores[i] += song.scores[i];
-      }
-    }
+    totalScore += stats.sum;
 
   });
 
-  for (var i in newScores) {
-    var average = newScores[i] / scoredSongCount;
-    newScores[i] = average / (2-average);
+  var peakValue = 0.3;
+  var descentSum = totalScore/scoredSongCount;
+
+  var newScores = [peakValue];
+  var denominator = (3/2)*(descentSum/(peakValue || 1));
+  for (i = 1; i < denominator; i++ ) {
+    var tail = peakValue*(1-Math.pow(i/denominator,2));
+    newScores.push(tail);
   }
+
+  // newScores = newScores.map(function(v) {
+  //   var average = v / scoredSongCount;
+  //   return average / (2-average);
+  // }).normalize();
 
   unscoredSongs.forEach(function(song) {
     var rawSong = meta.getRawObject("song",song.instanceSlug)();

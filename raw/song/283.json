@@ -1,23 +1,10 @@
 {
   "title": "Man-Sized Love",
   "instanceSlug": 283,
-  "tags": [
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "dance",
   "debut": "1986-08",
-  "playlists": [
-  ],
-  "ranks": [
-    13.3,
-    4.2,
-    3,
-    2.5,
-    2.8,
-    3.2,
-    3.8
-  ],
+  "playlists": [],
   "artists": {
     "klymaxx": true
   },
@@ -26,8 +13,6 @@
     0.521,
     0.633,
     0.694,
-    0.656,
-    0.612,
-    0.554
+    0.676
   ]
 }

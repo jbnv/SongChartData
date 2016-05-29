@@ -5,24 +5,18 @@
     "#1",
     "#1-mainstream-rock"
   ],
-  "parents": [
-  ],
+  "sample":true,
   "genre": "rock",
   "debut": "1986-10",
-  "playlists": [
-  ],
-  "ranks": [
-    7.7,
-    1.13,
-    1.41
-  ],
+  "playlists": [],
   "artists": {
     "eddie-money": true,
     "ronnie-spector": "backup"
   },
   "scores": [
-    0.319,
-    0.959,
-    0.885
+    0.5525,
+    0.9265,
+    0.95675,
+    0.92075
   ]
 }

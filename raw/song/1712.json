@@ -1,29 +1,22 @@
 {
   "title": "Every Little Step",
   "instanceSlug": 1712,
-  "tags": [
+  "tags": [],
+  "genres": [
+    "pop",
+    "urban",
+    "new-jack-swing"
   ],
-  "parents": [
-  ],
-  "genre": "pop",
   "debut": "1989-04",
   "playlists": [
     "summer"
   ],
-  "ranks": [
-    20,
-    16,
-    12.5,
-    9.8,
-    9.5,
-    10,
-    13.5
-  ],
   "artists": {
-    "bobby-brown": true
+    "bobby-brown": true,
+    "babyface": "writer",
+    "la-reid": "writer"
   },
   "scores": [
-    0.001,
     0.075,
     0.158,
     0.239,

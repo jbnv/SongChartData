@@ -9,15 +9,16 @@
   "debut": "1999-08",
   "source": "wild-wild-west",
   "playlists": [
-    "summer","sample"
+    "summer","movie-theme"
   ],
+  "sample": 2143,
   "artists": {
     "will-smith": true,
     "dru-hill": "feature",
     "kool-moe-dee": "backup",
-    "moe-dewese":"writer",
-    "rob-fusari":"writer",
-    "stevie-wonder":"writer"
+    "moe-dewese": "writer",
+    "rob-fusari": "writer",
+    "stevie-wonder": "writer"
   },
   "scores": [
     0.257,

@@ -3,23 +3,17 @@
   "instanceSlug": 136,
   "tags": [
     "#1",
-    "#1-country",
-    "remade"
+    "#1-country"
   ],
-  "parents": [
-  ],
+  "parents": [    "remade","grammy"
+],
   "genre": "country",
   "debut": "1982-04",
-  "ranks": [
-    18,
-    12,
-    9,
-    7,
-    5,
-    5.6
-  ],
   "artists": {
-    "willie-nelson": true
+    "willie-nelson": true,
+    "johnny-christopher":"writer",
+    "mark-james":"writer",
+     "wayne-carson":"writer"
   },
   "scores": [
     0.036,

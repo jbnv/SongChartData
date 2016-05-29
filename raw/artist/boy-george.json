@@ -1,1 +1,13 @@
-{"title":"Boy George","instanceSlug":"boy-george","tags":[],"parents":[],"genres":[],"members":[],"origin":"","birth":"","death":"","complete":false}
+{
+  "title": "Boy George",
+  "instanceSlug": "boy-george",
+  "tags": [],
+  "xref": ["culture-club"],
+  "genres": [],
+  "members": [],
+  "origin": "uk",
+  "birth": "",
+  "death": "",
+  "complete": false,
+  "outstanding":"Mark as lead on Culture Club songs."
+}

@@ -1,1 +1,22 @@
-{"title":"Keep on Walkin'","instanceSlug":1090,"tags":[],"parents":[],"genre":"pop","debut":"1992-06","playlists":["summer"],"ranks":[12.8,4,1.1,1.19,1.31,1.52],"artists":{"cece-peniston":true},"scores":[0.097,0.737,0.953,0.92,0.867,0.818,0.813,0.803,0.788,0.768,0.743,0.713,0.678,0.638,0.593,0.543,0.488,0.428,0.363,0.293,0.218,0.138,0.053,0],"score":14.146,"debutScore":0.15,"peakScore":0.968,"duration":7}
+{
+  "title": "Keep on Walkin'",
+  "instanceSlug": 1090,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1992-06",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "cece-peniston": true
+  },
+  "scores": [
+    0.097,
+    0.737,
+    0.953,
+    0.92,
+    0.867,
+    0.818,
+    0.813
+  ]
+}

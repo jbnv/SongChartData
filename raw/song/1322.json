@@ -7,12 +7,15 @@
   ],
   "genre": "soul",
   "debut": "1989-12",
-  "playlists": ["remake"],
+  "playlists": [],
   "artists": {
     "quincy-jones": true,
     "ray-charles": "feature",
-    "chaka-khan": "feature"
+    "chaka-khan": "feature",
+    "brothers-johnson": "remake",
+    "george-johnson":"writer"
   },
+  "remake": 1409,
   "scores": [
     0.232,
     0.8,

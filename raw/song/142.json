@@ -1,18 +1,1 @@
-{
-  "title": "Freeway of Love",
-  "instanceSlug": 142,
-  "tags": [
-    "streets"
-  ],
-  "genre": "pop",
-  "debut": "1985-08",
-  "artists": {
-    "aretha-franklin": true
-  },
-  "scores": [
-    0.332,
-    0.786,
-    0.95,
-    0.933
-  ]
-}
+{"title":"Freeway of Love","instanceSlug":142,"tags":["streets"],"genre":"pop","debut":"1985-08","artists":{"aretha-franklin":true},"scores":[0.332,0.786,0.95,0.933]}

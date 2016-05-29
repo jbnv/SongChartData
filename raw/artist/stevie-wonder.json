@@ -13,7 +13,7 @@
     "urban","soul","pop"
   ],
   "xref": [],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "michigan",
   "birth": "",
   "death": "",

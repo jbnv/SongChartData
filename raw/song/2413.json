@@ -1,18 +1,1 @@
-{
-  "title": "Kiss the Bride",
-  "instanceSlug": 2413,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1983-09",
-  "playlists": [],
-  "artists": {
-    "elton-john": true
-  },
-  "scores": [
-    0.121,
-    0.565,
-    0.71,
-    0.725,
-    0.71
-  ]
-}
+{"title":"Kiss the Bride","instanceSlug":2413,"tags":[],"genre":"pop","debut":"1983-09","playlists":[],"artists":{"elton-john":true},"scores":[0.121,0.565,0.71,0.725,0.71]}

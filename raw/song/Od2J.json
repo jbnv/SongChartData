@@ -1,18 +1,1 @@
-{
-  "title": "The South's Gonna Do It Again",
-  "instanceSlug": "Od2J",
-  "tags": [],
-  "parents": [],
-  "genre": "country",
-  "playlists": [],
-  "scores": [
-    0.09,
-    0.374,
-    0.65,
-    0.68,
-    0.65
-  ],
-  "artists": {
-    "charlie-daniels": true
-  }
-}
+{"title":"The South's Gonna Do It Again","instanceSlug":"Od2J","tags":[],"parents":[],"genre":"country","playlists":[],"scores":[0.09,0.374,0.65,0.68,0.65],"artists":{"charlie-daniels":true}}

@@ -2,28 +2,17 @@
   "title": "You're Making Me High",
   "instanceSlug": 1391,
   "tags": [
-    "high",
     "make-me",
-    "making",
     "you-make",
-    "you-make-me",
-    "you're"
+    "you-make-me"
   ],
   "genre": "urban",
   "debut": "1996-11",
-  "playlists": [
-  ],
-  "ranks": [
-    19,
-    12,
-    8,
-    6,
-    5.8,
-    6.1,
-    6.7
-  ],
+  "playlists": [],
   "artists": {
-    "toni-braxton": true
+    "toni-braxton": true,
+    "babyface":"writer",
+    "bryce-wilson":"writer"
   },
   "scores": [
     0.018,

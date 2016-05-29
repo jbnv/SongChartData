@@ -2,20 +2,17 @@
   "title": "In the Closet",
   "instanceSlug": 1089,
   "tags": [
-    "#1",
-    "#1-r&b"
+    "#1","#1-r&b"
   ],
   "source": "dangerous",
-  "genre": "pop",
+  "genres": ["new-jack-swing"],
   "debut": "1992-05",
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
     "michael-jackson": true,
-    "teddy-riley":"writer"
+    "teddy-riley": "writer"
   },
   "scores": [
-    0.018,
     0.232,
     0.402,
     0.506,

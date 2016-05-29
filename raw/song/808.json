@@ -2,32 +2,22 @@
   "title": "Knocked Out",
   "instanceSlug": 808,
   "tags": [
-    "knock",
-    "out"
   ],
-  "parents": [
-  ],
+  "parents": [],
   "genre": "pop",
   "debut": 1990,
-  "playlists": [
-  ],
-  "ranks": [
-    11,
-    5.9,
-    3.2,
-    1.7,
-    1.9,
-    2.7
-  ],
+  "playlists": [],
   "artists": {
     "paula-abdul": true
+    ,"babyface":"writer","la-reid":"writer"
+,"daryl-simmons":"writer"
   },
   "scores": [
     0.2,
-    0.408,
-    0.612,
-    0.823,
+    0.633,
     0.786,
-    0.668
+    0.804,
+    0.777,
+    0.737
   ]
 }

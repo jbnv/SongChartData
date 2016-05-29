@@ -9,11 +9,12 @@
   "genre": "rock",
   "debut": "1983-06",
   "playlists": [
-    "feb13","stalking"
+    "feb13",
+    "stalking","grammy"
   ],
   "artists": {
     "police": true,
-    "sting": "lead"
+    "sting": "writer"
   },
   "scores": [
     0.036,

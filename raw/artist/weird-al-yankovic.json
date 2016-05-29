@@ -7,7 +7,7 @@
     "parody"
   ],
   "xref": [],
-  "complete": false,
+  "complete": {"performer":false,"writer":false},
   "active":true,
   "origin": "us",
   "birth": "",

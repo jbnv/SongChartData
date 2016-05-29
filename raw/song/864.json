@@ -1,23 +1,19 @@
 {
   "title": "Angel",
   "instanceSlug": 864,
-  "tags": [
-    "angel"
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "pop",
   "debut": "1985-05",
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
     "madonna": true
   },
   "scores": [
     0.25,
     0.9,
-    0.88,
-    0.85,
-    0.815
-  ]
+    0.8762381904893721,
+    0.8716126317601611,
+    0.8577359555725281,
+    0.8346081619264731,
+    0.8  ]
 }

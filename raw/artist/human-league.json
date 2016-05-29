@@ -2,11 +2,10 @@
   "title": "Human League",
   "instanceSlug": "human-league",
   "tags": [],
-  "parents": [],
   "genres": [
-    "electro-pop"
+    "electro-pop","new-wave"
   ],
-  "members": [],
+  "members": ["phil-oakey"],
   "complete": true,
   "origin": "sheffield",
   "birth": "",

@@ -1,1 +1,9 @@
-{"title":"Rock & Roll Hall of Fame Members","instanceSlug":"hof","coverage":{"artist":true},"tags":[],"parents":[]}
+{
+  "title": "Rock & Roll Hall of Fame Members",
+  "instanceSlug": "hof",
+  "coverage": {
+    "artist": true
+  },
+  "tags": [],
+  "parents": []
+}

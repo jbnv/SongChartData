@@ -1,23 +1,20 @@
 {
   "title": "Shut Up and Drive",
   "instanceSlug": 2712,
-  "tags": [
-  ],
+  "tags": [],
   "genre": "pop",
   "debut": 2007,
-  "playlists": [
-  ],
-  "ranks": [
-  ],
+  "playlists": [],
+  "ranks": [],
   "artists": {
     "rihanna": true
   },
   "scores": [
-    0.25,
-    0.45,
-    0.7,
-    0.77,
-    0.78,
-    0.77
+    0.245,
+    0.445,
+    0.795,
+    0.765,
+    0.775,
+    0.72
   ]
 }

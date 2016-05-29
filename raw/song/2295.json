@@ -1,21 +1,19 @@
 {
   "title": "That's What Love Can Do",
   "instanceSlug": 2295,
-  "tags": [
-  ],
+  "tags": [],
   "genre": "dance-pop",
   "debut": "1993-03",
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
     "boy-krazy": true
   },
   "scores": [
-    0.232,
-    0.4,
-    0.708,
-    0.768,
-    0.765,
-    0.754
+    0.47,
+    1,
+    0.99,
+    0.9885,
+    0.9668,
+    0.93
   ]
 }

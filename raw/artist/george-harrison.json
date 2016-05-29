@@ -10,7 +10,7 @@
   ],
   "xref":["beatles","traveling-wilburys"],
   "genres": ["pop"],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "liverpool",
   "birth": "1943-02",
   "death": "2001-11",

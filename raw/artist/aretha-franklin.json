@@ -1,6 +1,8 @@
 {
   "title": "Aretha Franklin",
   "instanceSlug": "aretha-franklin",
+  "type":"f",
+  "complete": true,
   "tags": [
     "1960s",
     "1970s",
@@ -9,10 +11,9 @@
   ],
   "roles":["singer","songwriter"],
   "genres": [
-    "soul"
+    "soul","urban"
   ],
   "origin": "michigan",
   "birth": "",
-  "death": "",
-  "complete": true
+  "death": ""
 }

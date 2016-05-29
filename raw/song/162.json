@@ -1,18 +1,1 @@
-{
-  "title": "Listen to Your Heart",
-  "instanceSlug": 162,
-  "tags": ["remade"],
-  "genres": ["pop"],
-  "debut": "1989-09",
-  "artists": {
-    "roxette": true
-  },
-  "scores": [
-    0.185,
-    0.37,
-    0.41,
-    0.45,
-    0.47,
-    0.46
-  ]
-}
+{"title":"Listen to Your Heart","instanceSlug":162,"tags":["remade"],"genres":["pop"],"debut":"1989-09","artists":{"roxette":true},"scores":[0.185,0.37,0.41,0.45,0.47,0.46]}

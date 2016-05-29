@@ -10,6 +10,6 @@
   "origin": "minnesota",
   "birth": "",
   "death": "",
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "type": "m"
 }

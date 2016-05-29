@@ -1,14 +1,13 @@
 {
   "title": "Try",
   "instanceSlug": 2820,
-  "tags": [
-  ],
+  "tags": [],
   "genre": "adult-contemporary",
   "debut": 2015,
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
-    "colbie-callait": true
+    "colbie-callait": true,
+    "babyface": "writer"
   },
   "scores": [
     0.1535,

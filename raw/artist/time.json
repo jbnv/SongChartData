@@ -1,1 +1,19 @@
-{"title":"The Time","instanceSlug":"time","tags":[],"parents":[],"genres":["funk-dance"],"members":["morris-day"],"xref":[],"complete":true,"origin":"minneapolis","birth":"","death":"","type":"mmm"}
+{
+  "title": "The Time",
+  "instanceSlug": "time",
+  "tags": [],
+  "genres": [
+    "funk-dance"
+  ],
+  "members": [
+    "morris-day",
+    "jimmy-jam",
+    "terry-lewis"
+  ],
+  "xref": ["prince"],
+  "complete": true,
+  "origin": "minneapolis",
+  "birth": "1981",
+  "death": true,
+  "type": "mmm"
+}

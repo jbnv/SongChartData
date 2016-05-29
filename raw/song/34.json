@@ -1,10 +1,1 @@
-{
-  "title": "Ironic",
-  "instanceSlug": 34,
-  "tags": [
-  ],
-  "artists": {
-    "alanis-morrisette": true
-  },
-  "scores": [0]
-}
+{"title":"Ironic","instanceSlug":34,"tags":[],"artists":{"alanis-morrisette":true},"scores":[0.01]}

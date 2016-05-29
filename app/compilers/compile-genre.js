@@ -24,8 +24,9 @@ module.exports = function(yargs,entities) {
 
   entities.forEach(function(entity) {
     var slug = entity.instanceSlug;
+    var artistSlugs = (artists[slug] || []).map(function(a) { return ""+a.instanceSlug; });
 
-    entity.artists = lookupEntities(artists[slug] || [],"artist",errors);
+    entity.artists = lookupEntities(artistSlugs,"artist",errors);
 
     entity.songs = scoring.sortAndRank(songs[entity.instanceSlug]) || [];
     scoring.scoreCollection.call(entity);

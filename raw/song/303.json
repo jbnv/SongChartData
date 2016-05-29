@@ -1,31 +1,20 @@
 {
   "title": "Always",
   "instanceSlug": 303,
-  "tags": [
-  ],
-  "parents": [
-  ],
+  "tags": [],
   "genre": "soul",
   "debut": "1987-05",
-  "playlists": [
-  ],
-  "ranks": [
-    12,
-    5,
-    1.8,
-    1.75,
-    2,
-    2.6
-  ],
+  "playlists": [],
   "artists": {
     "atlantic-starr": true
   },
   "scores": [
     0.171,
-    0.463,
-    0.804,
-    0.813,
-    0.768,
-    0.681
+    0.663,
+    0.904,
+    0.913,
+    0.909,
+    0.895,
+    0.878
   ]
 }

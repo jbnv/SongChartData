@@ -1,24 +1,14 @@
 {
   "title": "Michael Jackson",
   "instanceSlug": "michael-jackson",
-  "tags": [
-    "1970s",
-    "1980s",
-    "1990s","hof","child"
-  ],
+  "tags": [ "1970s", "1980s", "1990s","hof","child","pph" ],
   "roles":["singer","songwriter"],
-  "genres": [
-    "pop",
-    "soul",
-    "urban",
-    "dance",
-    "dance-pop"
-  ],
+  "genres": [    "pop", "soul", "urban", "dance", "dance-pop" ],
   "searchTerms": ["michael jackson","jacksons","thriller","bad"],
   "xref": [
     "jacksons","usa-for-africa"
   ],
-  "complete": true,
+  "complete": {"performer":true,"writer":true},
   "origin": "gary-ind",
   "birth": "1958",
   "death": "2009",

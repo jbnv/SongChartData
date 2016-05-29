@@ -1,4 +1,5 @@
 {"title":"Bryan Adams","instanceSlug":"bryan-adams","tags":["1980s","1990s"],
   "roles": ["singer","songwriter","guitarist"],
 "genres":["rock"],
-"origin":"ontario","birth":"","death":"","complete":true,"type":"m"}
+"origin":"ontario","birth":"","death":"",  "complete": {"performer":true,"writer":false},
+"type":"m"}

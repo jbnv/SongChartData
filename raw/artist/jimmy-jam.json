@@ -1,1 +1,16 @@
-{"title":"Jimmy Jam","instanceSlug":"jimmy-jam","tags":[],"parents":[],"genres":["urban"],"members":[],"xref":[],"complete":false,"active":false,"origin":"us","birth":"","death":"","type":"m"}
+{
+  "title": "James Harris III (Jimmy Jam)",
+  "instanceSlug": "jimmy-jam",
+  "tags": [],
+  "roles": ["producer","songwriter"],
+  "genres": [
+    "urban",
+  "pop","soul","hip-hop","hip-hop-soul","new-jack-swing","urban-gospel","quiet-storm","dance","funk"
+  ],
+  "xref": ["terry-lewis","time"],
+  "complete": false,
+  "origin": "minneapolis",
+  "birth": "",
+  "death": "",
+  "type": "m"
+}

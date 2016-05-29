@@ -6,7 +6,7 @@
   "roles": ["songwriter"],
   "type":"f",
   "genres": [],
-  "complete": true,
+  "complete": {"writer":false},
   "origin": "us",
   "birth": "",
   "death": ""

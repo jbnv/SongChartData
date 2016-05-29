@@ -10,7 +10,7 @@
     "adult-contemporary"
   ],
   "xref": [],
-  "complete": true,
+  "complete": {"performer":true,"writer":true},
   "origin": "connecticut",
   "birth": 1954,
   "death": "",

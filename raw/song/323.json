@@ -5,14 +5,16 @@
     "your-love"
   ],
   "playlists": [
-    "remake",
     "summer"
   ],
   "genre": "dance",
   "debut": "1995-06",
   "artists": {
-    "real-mccoy": true
+    "real-mccoy": true,
+    "redbone":"remake",
+    "lolly-vegas":"writer"
   },
+  "remake": 2848,
   "scores": [
     0.232,
     1,

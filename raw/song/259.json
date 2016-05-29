@@ -1,18 +1,1 @@
-{
-  "title": "Blowing Kisses in the Wind",
-  "instanceSlug": 259,
-  "tags": [],
-  "genre": "adult-contemporary",
-  "debut": "1991-11",
-  "artists": {
-    "paula-abdul": true
-  },
-  "scores": [
-    0.12,
-    0.4,
-    0.813,
-    0.92,
-    0.91,
-    0.88
-  ]
-}
+{"title":"Blowing Kisses in the Wind","instanceSlug":259,"tags":[],"genre":"adult-contemporary","debut":"1991-11","artists":{"paula-abdul":true},"scores":[0.12,0.4,0.813,0.92,0.91,0.88]}

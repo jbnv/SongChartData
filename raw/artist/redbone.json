@@ -1,1 +1,12 @@
-{"title":"Redbone","instanceSlug":"redbone","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":true,"origin":"los-angeles","birth":"","death":"","type":"mmm"}
+{
+  "title": "Redbone",
+  "instanceSlug": "redbone",
+  "tags": [],
+  "genres": [],
+  "members": ["lolly-vegas"],
+  "complete": true,
+  "origin": "los-angeles",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

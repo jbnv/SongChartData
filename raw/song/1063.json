@@ -2,29 +2,15 @@
   "title": "Good Enough",
   "instanceSlug": 1063,
   "tags": [
-    "enough",
-    "good"
-  ],
-  "parents": [
   ],
   "genre": "soul",
   "debut": "1992-10",
-  "playlists": [
-  ],
-  "ranks": [
-    16,
-    11,
-    8,
-    5,
-    3.3,
-    3.2,
-    3.4,
-    3.7,
-    3.98,
-    4.4
-  ],
+  "playlists": [],
   "artists": {
-    "bobby-brown": true
+    "bobby-brown": true,
+    "babyface": "writer",
+    "la-reid": "writer",
+    "daryl-simmons": "writer"
   },
   "scores": [
     0.075,

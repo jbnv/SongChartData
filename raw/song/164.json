@@ -6,29 +6,17 @@
     "#1-r&b",
     "first-hit"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "1988-03",
-  "ranks": [
-    19.9,
-    11.8,
-    8.1,
-    7.4,
-    7,
-    7.6,
-    9.1
-  ],
   "artists": {
     "pebbles": true
+    ,"babyface":"writer","la-reid":"writer"
   },
   "scores": [
-    0.003,
     0.177,
     0.302,
     0.332,
     0.351,
-    0.323,
-    0.263
+    0.323
   ]
 }

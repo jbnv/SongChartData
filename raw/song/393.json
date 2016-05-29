@@ -1,13 +1,12 @@
 {
   "title": "I Will Always Love You",
   "instanceSlug": 393,
+  "remake":"393dp",
   "tags": [
     "#1",
     "#1-adult-contemporary",
     "#1-hot-100",
     "#1-r&b"
-  ],
-  "parents": [
   ],
   "genre": "pop",
   "debut": "1992-11",
@@ -15,21 +14,16 @@
   "playlists": [
     "ballad"
   ],
-  "ranks": [
-    8.5,
-    2.5,
-    1.75,
-    1.5,
-    1.72
-  ],
   "artists": {
-    "whitney-houston": true
+    "whitney-houston": true,
+    "dolly-parton":"writer",
+    "david-foster":"producer"
   },
   "scores": [
     0.286,
     0.694,
     0.813,
     0.864,
-    0.819
+    0.854
   ]
 }

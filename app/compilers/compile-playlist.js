@@ -10,6 +10,8 @@ var chalk       = require("chalk"),
     meta        = require('../meta'),
     scoring     = require('../scoring');
 
+require("../polyfill");
+
 // entities: array of entities of the type
 module.exports = function(yargs,entities) {
   util.log(chalk.magenta("compile-playlist.js"));
@@ -54,11 +56,10 @@ module.exports = function(yargs,entities) {
         if (key === "tag") {
           // Tag: Argument is a pattern to match.
           //util.log("Tag pattern:",chalk.magenta(pattern));
+          test = function(x) { return exp.test(x); }
           filter = function(song) {
-            if (song.tags) {
-              song.tags.forEach(function(tag) {
-                if (exp.test(tag)) { entity.songs.push(song); }
-              })
+            if ((song.tags || []).any(test)) {
+              entity.songs.push(song);
             }
           }
         }
@@ -79,39 +80,6 @@ module.exports = function(yargs,entities) {
       chalk.gray(numeral(entity.songAdjustedAverage || 0).format("0.00"))
     );
 
-  });
-
-  // Manually create playlists here from the compiled song list.
-  movieSongs = [];
-  tvSongs = [];
-  unrankedSongs = [];
-
-  meta.getSongs().forEach(function(song) {
-    if (song.source) {
-      if (song.source.type === "movie") movieSongs.push(song);
-      if (song.source.type === "tv") tvSongs.push(song);
-    };
-    if (!song.ranks || song.ranks.length == 0) unrankedSongs.push(song);
-  });
-
-  entities.push({
-    "title": "Songs from Movies",
-    "instanceSlug": "movie",
-    "columns":['rank','title','artist','source','debutDate'],
-    "songs":movieSongs
-  });
-  entities.push({
-    "title": "Songs from TV Shows",
-    "instanceSlug": "tv",
-    "columns":['rank','title','artist','source','debutDate'],
-    "songs":tvSongs
-  });
-  entities.push({
-    "title": "Unranked Songs",
-    "instanceSlug": "unranked",
-    "columns":['title','artist','debutDate'],
-    "sort":"title",
-    "songs":unrankedSongs
   });
 
   return {

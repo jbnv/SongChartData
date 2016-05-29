@@ -1,1 +1,10 @@
-{"title":"Remakes","instanceSlug":"remake","tags":[],"parents":[],"coverage":{"song":true}}
+{
+  "title": "Remakes",
+  "instanceSlug": "remake",
+  "tags": [],
+  "parents": [],
+  "coverage": {
+    "song": true
+  },
+  "columns":["rank","title","artist","source","score","debutDate"]
+}

@@ -1,1 +1,18 @@
-{"title":"I Know What I Like","instanceSlug":1985,"tags":[],"parents":[],"genre":"rock","debut":"1987-04","playlists":[],"ranks":[15,8,4,2.2,1.9,1.6,1.95],"artists":{"huey-lewis-the-news":true},"scores":[0.232,0.602,0.72,0.81,0.82,0.79,0.75]}
+{
+  "title": "I Know What I Like",
+  "instanceSlug": 1985,
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1987-04",
+  "playlists": [],
+  "artists": {
+    "huey-lewis-the-news": true
+  },
+  "scores": [
+    0.2,
+    0.98,
+    0.959,
+    0.939
+  ]
+}

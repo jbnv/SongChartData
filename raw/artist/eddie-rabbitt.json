@@ -11,7 +11,7 @@
     "country"
   ],
   "xref": [],
-  "complete": true,
+  "complete": {"performer":true,"writer":false},
   "origin": "brooklyn",
   "birth": "1941-11",
   "death": "1998-05",

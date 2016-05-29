@@ -8,8 +8,7 @@
   "roles": ["singer","songwriter","guitarist"],
   "genres": ["pop","adult-contemporary","dance-pop"],
   "xref": ["wham"],
-  "complete": true,
-  "origin": "england",
+  "complete": {"performer":true,"writer":false},  "origin": "england",
   "birth": "1963-06",
   "death": "",
   "type": "m"

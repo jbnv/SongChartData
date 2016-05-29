@@ -1,30 +1,24 @@
 {
   "title": "Sweet Freedom",
   "instanceSlug": 293,
-  "tags": [
-  ],
+  "tags": [],
   "genre": "pop",
   "debut": "1986-08",
   "playlists": [
     "summer"
-  ],
-  "ranks": [
-    5,
-    1,
-    1.052
   ],
   "artists": {
     "michael-mcdonald": true
   },
   "note": "Project 6 weeks at #1.",
   "scores": [
-    0.463,
+    0.633,
     1,
-    0.997,
-    0.983,
-    0.961,
-    0.932,
-    0.875,
-    0.824
+    0.9985,
+    0.991,
+    0.98,
+    0.9648,
+    0.933,
+    0.9
   ]
 }

@@ -2,24 +2,15 @@
   "title": "My My My",
   "instanceSlug": 194,
   "tags": [
-    "my",
-    "triple"
-  ],
-  "parents": [
+    "#1","#1-r&b"
   ],
   "genre": "pop",
   "debut": "1990-09",
-  "ranks": [
-    18,
-    12,
-    8,
-    7.6,
-    8.1,
-    9
-  ],
   "artists": {
     "johnny-gill": true,
-    "after-7": "backup"
+    "after-7": "backup",
+    "babyface": "writer",
+    "daryl-simmons": "writer"
   },
   "scores": [
     0.036,

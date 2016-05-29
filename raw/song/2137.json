@@ -1,1 +1,24 @@
-{"title":"We Can Work It Out","instanceSlug":2137,"tags":[],"genre":"urban","debut":1971,"playlists":["remake"],"artists":{"stevie-wonder":true,"paul-mccartney":"writer","john-lennon":"writer"},"scores":[0.097,0.278,0.484,0.546,0.602,0.592,0.573,0.537,0.498]}
+{
+  "title": "We Can Work It Out",
+  "instanceSlug": 2137,
+  "tags": [],
+  "genre": "urban",
+  "debut": 1971,
+  "playlists": [],
+  "remake": "1471",
+  "artists": {
+    "stevie-wonder": true,
+    "paul-mccartney": "writer",
+    "john-lennon": "writer"
+  },
+  "scores": [
+    0.21451,
+    0.53151,
+    0.6726666666666667,
+    0.691,
+    0.6768333333333333,
+    0.661,
+    0.6526666666666666,
+    0.639
+  ]
+}

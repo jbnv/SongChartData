@@ -25,7 +25,82 @@ function pushToCollection(collection,slug,entity) {
 }
 
 function transformArtist(artist,slug,roleSlug) {
-  return { slug: slug, title: artist.title, roleSlug: roleSlug };
+  return {
+    slug: slug,
+    title: artist.title,
+    type: artist.type,
+    roleSlug: roleSlug,
+    death: artist.death,
+    tags: (artist.tags || [])
+      .map(function(tag) { return (tag || {}).instanceSlug; })
+      .filter(function(tag) { return tag; })
+  };
+}
+
+// Validation before processing.
+function prevalidate(song) {
+
+  song.messages = [];
+  var scores = song.scores || [];
+
+  var maxScoreCount = 20;
+  if (scores.length > maxScoreCount) {
+    song.messages.push({
+      type:"warning",
+      title:"Excessive Scores",
+      text:"Please reduce number of scores to "+maxScoreCount+" or less."
+    });
+  }
+  var minScore = 0.01;
+  if (scores.filter(function(s) { return s < minScore; }).length > 0) {
+    song.messages.push({
+      type:"warning",
+      title:"Extremely Low Score(s)",
+      text:"One or more scores is less than "+minScore+"."
+    });
+  }
+
+}
+
+// Validation after processing.
+function postvalidate(song) {
+
+  // Indicator: The "remake", "remix" or "sample" property is "true."
+  if (song.remake && song.remake === true) {
+    song.messages.push({
+      type:"warning",
+      title:"Remake Reference Not Set",
+      text:"The 'remake' property is present and set to 'true'. Set to the referenced song."
+    });
+  }
+  if (song.remix && song.remix === true) {
+    song.messages.push({
+      type:"warning",
+      title:"Remix Reference Not Set",
+      text:"The 'remix' property is present and set to 'true'. Set to the referenced song."
+    });
+  }
+  if (song.sample && song.sample === true) {
+    song.messages.push({
+      type:"warning",
+      title:"Sample Reference Not Set",
+      text:"The 'sample' property is present and set to 'true'. Set to the referenced song."
+    });
+  }
+
+  if (song.remake || song.remix || song.sample) {
+    writers = (song.artists || []).filter(function(artist) {
+      return artist.roleSlug === "writer";
+    });
+    if (writers.length < 1) {
+      song.messages.push({
+        type:"warning",
+        title:"Writer Not Set",
+        text:"This song has a property that indicates that the recording artist is not the writer. Please locate the writer."
+      });
+    }
+  }
+
 }
 
 // entities: array of entities of the type
@@ -45,8 +120,18 @@ module.exports = function(yargs,entities) {
       unscored = [],
       errors = [];
 
+  var playlistDefs = {};
+  fs.readdirSync(path.join(meta.root,"app","compilers","playlist"))
+  .forEach(function(filename) {
+    filenameTrunc = filename.replace(".js","");
+    playlist = require("./playlist/"+filenameTrunc);
+    playlistDefs[filenameTrunc] = playlist;
+  });
+
   entities.forEach(function(entity) {
     if (entity.error) { errors.push(entity); return; }
+
+    prevalidate(entity);
 
     var slug = entity.instanceSlug;
     if (!slug) return;
@@ -58,6 +143,8 @@ module.exports = function(yargs,entities) {
 
     if (entity.genre && !entity.genres) { entity.genres = [entity.genre]; }
     if (entity.playlist && !entity.playlists) { entity.playlists = [entity.playlist]; }
+    if (!entity.playlists) entity.playlists = [];
+    if (entity.source && !entity.sources) { entity.sources = [entity.source]; }
 
     if (entity.artists) {
       for (var artistSlug in entity.artists) {
@@ -69,12 +156,14 @@ module.exports = function(yargs,entities) {
         entityClone.scoreFactor = 1.00; //FUTURE artist.scoreFactor;
         switch (entityClone.role) {
           case true: entityClone.scoreFactor = 1.00; break;
-          case "featured": entityClone.scoreFactor = 0.50; break;
+          case "feature": entityClone.scoreFactor = 0.20; break;
           case "lead": entityClone.scoreFactor = 0.75; break;
           case "backup": entityClone.scoreFactor = 0.10; break;
           case "writer": entityClone.scoreFactor = 1.00; break;
-          case "producer": entityClone.scoreFactor = 0.20; break;
+          case "producer": entityClone.scoreFactor = 0.50; break;
           case "sample": entityClone.scoreFactor = 0.1; break;
+          case "remake": entityClone.scoreFactor = 0.1; break;
+          case "remix": entityClone.scoreFactor = 0.25; break;
           default: entityClone.scoreFactor = 0.25;
         }
         if (entityClone.score) entityClone.score *= entityClone.scoreFactor;
@@ -98,24 +187,15 @@ module.exports = function(yargs,entities) {
       errors.push({"instanceSlug":slug,"stage":"genres","error":err});
     }
 
-    if (entity.playlists) {
-      entity.playlists.forEach(function(playlistSlug) {
-        if (!playlists[playlistSlug]) playlists[playlistSlug] = [];
-        playlists[playlistSlug].push(entity);
+    if (entity.sources) {
+      entity.sources.forEach(function(sourceSlug) {
+        if (!sources[sourceSlug]) sources[sourceSlug] = [];
+        sources[sourceSlug].push(entity);
       });
     }
 
     try {
-      entity.playlists = lookupEntities(entity.playlists,"playlist");
-    } catch(err) {
-      errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
-    }
-
-    sourceSlug = entity.source;
-    sources.push(sourceSlug,entity);
-
-    try {
-      entity.source = lookupEntity(entity.source,"source");
+      entity.sources = lookupEntities(entity.sources,"source");
     } catch(err) {
       errors.push({"instanceSlug":slug,"stage":"source","error":err});
     }
@@ -135,6 +215,29 @@ module.exports = function(yargs,entities) {
     if ((entity.scores || []).length == 0) unscored.push(entity);
 
     numeral.zeroFormat("");
+
+    // Check against playlist rules.
+    // This needs to happen after all other processing takes place.
+
+    Object.keys(playlistDefs).forEach(function(key) {
+      var playlist = playlistDefs[key];
+      if (playlist.match(entity)) entity.playlists.push(key);
+    });
+
+    if (entity.playlists) {
+      entity.playlists.forEach(function(playlistSlug) {
+        if (!playlists[playlistSlug]) playlists[playlistSlug] = [];
+        playlists[playlistSlug].push(entity);
+      });
+    }
+
+    try {
+      entity.playlists = lookupEntities(entity.playlists,"playlist");
+    } catch(err) {
+      errors.push({"instanceSlug":slug,"stage":"playlists","error":err});
+    }
+
+    postvalidate(entity);
 
     // util.log(
     //   chalk.blue(entity.instanceSlug),

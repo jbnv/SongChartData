@@ -4,20 +4,15 @@
   "tags": [
     "#1"
   ],
-  "parents": [
-  ],
   "genre": "pop",
   "debut": "2000-09",
-  "playlists": [
-  ],
+  "playlists": [],
   "artists": {
     "madonna": true
   },
   "scores": [
-    0.20,
+    0.2,
     0.85,
-    0.83,
-    0.8,
-    0.775
+    0.8391359072019217
   ]
 }

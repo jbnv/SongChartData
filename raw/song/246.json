@@ -1,1 +1,24 @@
-{"title":"Giving Him Something He Can Feel","instanceSlug":246,"tags":["#1","#1-r&b"],"playlists":["summer"],"genre":"pop","debut":"1992-07","artists":{"en-vogue":true},"scores":[0.432,0.619,0.802,0.868,0.908,0.891,0.886,0.876,0.861,0.841,0.816,0.786,0.751,0.711,0.666,0.616,0.561,0.501,0.436,0.366,0.291,0.211,0.126,0.036,0],"score":14.749000000000002,"debutScore":0.668,"peakScore":0.959,"duration":6}
+{
+  "title": "Giving Him Something He Can Feel",
+  "instanceSlug": 246,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "pop",
+  "debut": "1992-07",
+  "artists": {
+    "en-vogue": true
+  },
+  "scores": [
+    0.432,
+    0.619,
+    0.802,
+    0.868,
+    0.908,
+    0.891
+  ]
+}

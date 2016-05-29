@@ -1,4 +1,5 @@
 {"title":"Christopher Cross","instanceSlug":"christopher-cross","tags":[],
   "roles":["singer","songwriter"],
 "genres":["pop-rock"],
-"complete":true,"origin":"texas","birth":"","death":"","type":"m"}
+"complete": {"performer":true,"writer":false},
+"origin":"texas","birth":"","death":"","type":"m"}

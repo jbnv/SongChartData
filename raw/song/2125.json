@@ -1,18 +1,1 @@
-{
-  "title": "Like a Prayer",
-  "instanceSlug": 2125,
-  "tags": [
-    "#1"
-  ],
-  "genre": "pop",
-  "debut": "1989-04",
-  "playlists": [
-  ],
-  "artists": {
-    "madonna": true
-  },
-  "scores": [
-    0.232,
-    0.194
-  ]
-}
+{"title":"Like a Prayer","instanceSlug":2125,"tags":["#1"],"genre":"pop","debut":"1989-04","playlists":[],"artists":{"madonna":true},"scores":[0.13122171945701358,0.10741971207087486]}

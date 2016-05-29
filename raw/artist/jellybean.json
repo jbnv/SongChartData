@@ -1,1 +1,15 @@
-{"title":"Jellybean","instanceSlug":"jellybean","tags":[],"parents":[],"genres":["dance"],"members":[],"complete":true,"origin":"bronx","birth":"","death":"","type":"m"}
+{
+  "title": "John Benitez (Jellybean)",
+  "instanceSlug": "jellybean",
+  "tags": [],
+  "roles": ["producer","drummer","guitarist","songwriter"],
+  "genres": [
+    "dance"
+  ],
+  "xref": ["madonna"],
+  "complete": {"artist":true,"producer":false},
+  "origin": "bronx",
+  "birth": "1957-11",
+  "death": "",
+  "type": "m"
+}
