@@ -136,6 +136,11 @@ Array.prototype.stats = function() {
   };
 }
 
+Array.prototype.score = function(descentWeeks) {
+  var stats = this.stats();
+  return stats.sum + (2/3)*stats.peakValue*descentWeeks - stats.peakValue;
+}
+
 Array.prototype.normalize = function(descentWeeks) {
   var stats = this.stats();
   var transformed = stats.ascent;
