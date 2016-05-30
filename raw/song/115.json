@@ -1,1 +1,17 @@
-{"title":"The Other Side","instanceSlug":115,"tags":[],"parents":[],"genre":"rock","debut":"1990-07","ranks":[13.5,6,3,2,2.5],"artists":{"aerosmith":true},"scores":[0.35,0.6,0.718,0.76,0.75],"ascent":[0.35,0.6,0.718,0.76],"descent-weeks":2.980263157894737}
+{
+  "title": "The Other Side",
+  "instanceSlug": 115,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1990-07",
+  "artists": {
+    "aerosmith": true
+  },
+  "ascent": [
+    0.35,
+    0.6,
+    0.718,
+    0.76
+  ],
+  "descent-weeks": 2.980263157894737
+}
