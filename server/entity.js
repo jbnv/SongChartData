@@ -48,7 +48,7 @@ module.exports = function(parameters,app) {
     res.send(content);
   });
 
-  var itemExpression = "^\\/"+slugs.singularSlug+"\\/([a-z0-9-]+)$";
+  var itemExpression = "^\\/"+slugs.singularSlug+"\\/([A-Za-z0-9-]+)$";
 
   app.get(new RegExp(itemExpression), functions.getOne(slugs));
 
