@@ -102,6 +102,52 @@ Array.prototype.findBySlug = function(slug) {
   return this.find(function(el) { return el.instanceSlug === slug; })
 }
 
+if (!Array.prototype.sum) {
+  Array.prototype.sum = function() {
+    var result = 0;
+    this.forEach(function(e) { result += parseFloat(e); });
+    return result;
+  }
+}
+
+Array.prototype.stats = function() {
+
+  var sum = 0;
+  var peakValue = 0;
+  var peakIndex = 0;
+
+  this.forEach(function(e,index) {
+    var f = parseFloat(e);
+    sum += f;
+    if (f > peakValue) { peakValue = f; peakIndex = index; }
+  });
+
+  var descent = this.slice(peakIndex);
+  var descentSum = descent.sum();
+
+  return {
+    sum: sum,
+    peakValue:peakValue,
+    peakIndex: peakIndex,
+    ascent: this.slice(0,peakIndex+1),
+    descent: descent,
+    descentSum: descentSum,
+    normalizedDescentLength: (3/2)*(descentSum/(peakValue || 1))
+  };
+}
+
+Array.prototype.normalize = function(descentWeeks) {
+  var stats = this.stats();
+  var transformed = stats.ascent;
+  var denominator = descentWeeks || stats.normalizedDescentLength;
+  for (i = 1; i < denominator; i++ ) {
+    var tail = stats.peakValue*(1-Math.pow(i/denominator,2));
+    transformed.push(tail);
+  }
+  return transformed;
+};
+
+
 if (!String.prototype.startsWith) {
     String.prototype.startsWith = function(searchString, position){
       position = position || 0;

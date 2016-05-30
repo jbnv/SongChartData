@@ -10,48 +10,7 @@ var chalk       = require("chalk"),
     meta        = require('./app/meta'),
     scoring     = require('./app/scoring');
 
-Array.prototype.sum = function() {
-  var result = 0;
-  this.forEach(function(e) { result += parseFloat(e); });
-  return result;
-}
-
-Array.prototype.stats = function() {
-
-  var sum = 0;
-  var peakValue = 0;
-  var peakIndex = 0;
-
-  this.forEach(function(e,index) {
-    var f = parseFloat(e);
-    sum += f;
-    if (f > peakValue) { peakValue = f; peakIndex = index; }
-  });
-
-  var descent = this.slice(peakIndex);
-  var descentSum = descent.sum();
-
-  return {
-    sum: sum,
-    peakValue:peakValue,
-    peakIndex: peakIndex,
-    ascent: this.slice(0,peakIndex+1),
-    descent: descent,
-    descentSum: descentSum,
-    normalizedDescentLength: (3/2)*(descentSum/(peakValue || 1))
-  };
-}
-
-Array.prototype.normalize = function() {
-  var stats = this.stats();
-  var transformed = stats.ascent;
-  var denominator = stats.normalizedDescentLength;
-  for (i = 1; i < denominator; i++ ) {
-    var tail = stats.peakValue*(1-Math.pow(i/denominator,2));
-    transformed.push(tail);
-  }
-  return transformed;
-};
+require('./app/polyfill');
 
 function read(slug) {
   try {
