@@ -157,7 +157,7 @@ var zero = unary(
 var bendUp = unary(
   "up",
   function(entity) {
-    entity.scores = entity.scores.map(function(score) {
+    entity.ascent = entity.ascent.map(function(score) {
       return 2*score/(score+1);
     });
   }
@@ -166,7 +166,7 @@ var bendUp = unary(
 var bendDown = unary(
   "down",
   function(entity) {
-    entity.scores = entity.scores.map(function(score) {
+    entity.ascent = entity.ascent.map(function(score) {
       return score/(2-score);
     });
   }
