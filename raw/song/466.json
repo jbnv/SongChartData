@@ -1,17 +1,1 @@
-{
-  "title": "Sailing",
-  "instanceSlug": 466,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1980-07",
-  "playlists": ["grammy"],
-  "artists": {
-    "christopher-cross": true
-  },
-  "scores": [
-    0.286,
-    0.722,
-    0.845,
-    0.81
-  ]
-}
+{"title":"Sailing","instanceSlug":466,"tags":[],"genre":"pop","debut":"1980-07","playlists":["grammy"],"artists":{"christopher-cross":true},"scores":[0.286,0.722,0.845,0.81],"ascent":[0.286,0.722,0.845],"descent-weeks":2.937869822485207}

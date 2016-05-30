@@ -7,7 +7,7 @@
   "playlists": [],
   "artists": {
     "human-league": true,
-    "phil-oakey":"lead"
+    "phil-oakey": "lead"
   },
   "note": "Project 10 weeks at #1.",
   "scores": [
@@ -22,5 +22,10 @@
     0.94681411269089,
     0.9235737351991388,
     0.888888888888889
-  ]
+  ],
+  "ascent": [
+    0.6,
+    1
+  ],
+  "descent-weeks": 14.510584588087006
 }

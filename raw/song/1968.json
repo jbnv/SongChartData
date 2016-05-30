@@ -1,18 +1,1 @@
-{
-  "title": "Theme from Mahogany (Do You Know Where You're Going To)",
-  "instanceSlug": 1968,
-  "tags": [],
-  "genre": "adult-contemporary",
-  "debut": 1976,
-  "playlists": ["movie-theme"],
-  "artists": {
-    "diana-ross": true
-  },
-  "scores": [
-    0.1734,
-    0.41,
-    0.5586,
-    0.5631,
-    0.551
-  ]
-}
+{"title":"Theme from Mahogany (Do You Know Where You're Going To)","instanceSlug":1968,"tags":[],"genre":"adult-contemporary","debut":1976,"playlists":["movie-theme"],"artists":{"diana-ross":true},"scores":[0.1734,0.41,0.5586,0.5631,0.551],"ascent":[0.1734,0.41,0.5586,0.5631],"descent-weeks":2.9677677144379326}

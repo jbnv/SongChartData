@@ -1,18 +1,1 @@
-{
-  "title": "Pumps and a Bump",
-  "instanceSlug": 2223,
-  "tags": [
-  ],
-    "sample":true,
-  "parents": [],
-  "genre": "pop",
-  "debut": "1994-05",
-  "playlists": [],
-  "ranks": [],
-  "artists": {
-    "mc-hammer": true,
-    "george-clinton":"sample"
-  },
-  "scores": [
-0.11,0.392751,0.51,0.551,0.5688333333333334,0.5644166666666667,0.547  ]
-}
+{"title":"Pumps and a Bump","instanceSlug":2223,"tags":[],"sample":true,"parents":[],"genre":"pop","debut":"1994-05","playlists":[],"ranks":[],"artists":{"mc-hammer":true,"george-clinton":"sample"},"scores":[0.11,0.392751,0.51,0.551,0.5688333333333334,0.5644166666666667,0.547],"ascent":[0.11,0.392751,0.51,0.551,0.5688333333333334],"descent-weeks":4.430779372985643}

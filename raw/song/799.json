@@ -1,18 +1,1 @@
-{
-  "title": "Girls Girls Girls",
-  "instanceSlug": 799,
-  "tags": [
-  ],
-  "genre": "metal",
-  "debut": "1987-06",
-  "playlists": [],
-  "artists": {
-    "motley-crue": true
-  },
-  "scores": [
-    0.17371,
-    0.5649452269171,
-    0.641,
-    0.61
-  ]
-}
+{"title":"Girls Girls Girls","instanceSlug":799,"tags":[],"genre":"metal","debut":"1987-06","playlists":[],"artists":{"motley-crue":true},"scores":[0.17371,0.5649452269171,0.641,0.61],"ascent":[0.17371,0.5649452269171,0.641],"descent-weeks":2.9274570982839307}

@@ -1,15 +1,1 @@
-{
-  "title": "Light 'Em Up",
-  "instanceSlug": "fob1601",
-  "tags": [],
-  "debut": 2016,
-  "playlists": [],
-  "scores": [
-    0.1,
-    0.3671,
-    0.761,
-    0.71  ],
-  "artists": {
-    "fallout-boy": true
-  }
-}
+{"title":"Light 'Em Up","instanceSlug":"fob1601","tags":[],"debut":2016,"playlists":[],"scores":[0.1,0.3671,0.761,0.71],"artists":{"fallout-boy":true},"ascent":[0.1,0.3671,0.761],"descent-weeks":2.899474375821288}

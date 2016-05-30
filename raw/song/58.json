@@ -1,14 +1,1 @@
-{
-  "title": "Kiss from a Rose",
-  "instanceSlug": 58,
-  "tags": [
-  ],
-"debut":    "1995",
-  "parents": [],
-  "artists": {
-    "seal": true
-  },
-  "scores": [
-    0.121
-  ]
-}
+{"title":"Kiss from a Rose","instanceSlug":58,"tags":[],"debut":"1995","parents":[],"artists":{"seal":true},"scores":[0.121],"ascent":[0.121],"descent-weeks":1.5}

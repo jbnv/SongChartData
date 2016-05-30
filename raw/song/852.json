@@ -1,18 +1,1 @@
-{
-  "title": "Music",
-  "instanceSlug": 852,
-  "tags": [
-    "#1"
-  ],
-  "genre": "pop",
-  "debut": "2000-09",
-  "playlists": [],
-  "artists": {
-    "madonna": true
-  },
-  "scores": [
-    0.2,
-    0.85,
-    0.8391359072019217
-  ]
-}
+{"title":"Music","instanceSlug":852,"tags":["#1"],"genre":"pop","debut":"2000-09","playlists":[],"artists":{"madonna":true},"scores":[0.2,0.85,0.8391359072019217],"ascent":[0.2,0.85],"descent-weeks":2.980828071532803}

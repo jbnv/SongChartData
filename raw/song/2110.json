@@ -1,18 +1,1 @@
-{
-  "title": "Making Love In the Rain",
-  "instanceSlug": 2110,
-  "tags": [],
-  "genre": "jazz",
-  "debut": "1987-09",
-  "playlists": [],
-  "artists": {
-    "herb-alpert": true,
-    "lisa-keith": "backup"
-  },
-  "scores": [
-    0.097,
-    0.431,
-    0.694,
-    0.668
-  ]
-}
+{"title":"Making Love In the Rain","instanceSlug":2110,"tags":[],"genre":"jazz","debut":"1987-09","playlists":[],"artists":{"herb-alpert":true,"lisa-keith":"backup"},"scores":[0.097,0.431,0.694,0.668],"ascent":[0.097,0.431,0.694],"descent-weeks":2.943804034582133}

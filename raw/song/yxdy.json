@@ -1,16 +1,1 @@
-{
-  "title": "Sunday Bloody Sunday",
-  "instanceSlug": "yxdy",
-  "tags": [],
-  "genre": "rock",
-  "debut": "1980s",
-  "playlists": [],
-  "scores": [
-    0.3,
-    0.2977483762373593,
-    0.29
-  ],
-  "artists": {
-    "u2": true
-  }
-}
+{"title":"Sunday Bloody Sunday","instanceSlug":"yxdy","tags":[],"genre":"rock","debut":"1980s","playlists":[],"scores":[0.3,0.2977483762373593,0.29],"artists":{"u2":true},"ascent":[0.3],"descent-weeks":4.438741881186797}

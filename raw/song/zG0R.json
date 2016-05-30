@@ -1,18 +1,1 @@
-{
-  "title": "Reason to Believe",
-  "instanceSlug": "zG0R",
-  "tags": [],
-  "parents": [],
-  "genre": "rock",
-  "debut": 1971,
-  "playlists": [],
-  "scores": [
-    0.25,
-    0.3,
-    0.291,
-    0.286
-  ],
-  "artists": {
-    "rod-stewart": true
-  }
-}
+{"title":"Reason to Believe","instanceSlug":"zG0R","tags":[],"parents":[],"genre":"rock","debut":1971,"playlists":[],"scores":[0.25,0.3,0.291,0.286],"artists":{"rod-stewart":true},"ascent":[0.25,0.3],"descent-weeks":4.385}
