@@ -1,1 +1,17 @@
-{"title":"Walk This Way","instanceSlug":2078,"tags":[],"genre":"hard-rock","debut":1977,"playlists":[],"artists":{"aerosmith":true},"scores":[0.3,0.55,0.668,0.65,0.632],"ascent":[0.3,0.55,0.668],"descent-weeks":4.37874251497006}
+{
+  "title": "Walk This Way",
+  "instanceSlug": 2078,
+  "tags": [],
+  "genre": "hard-rock",
+  "debut": 1977,
+  "playlists": [],
+  "artists": {
+    "aerosmith": true
+  },
+  "ascent": [
+    0.3,
+    0.55,
+    0.668
+  ],
+  "descent-weeks": 4.37874251497006
+}
