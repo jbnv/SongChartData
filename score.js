@@ -66,31 +66,30 @@ function swap(pair) {
   var entityA = read(a);
   var entityB = read(b);
 
-  var scoresA = entityA.scores;
-  var scoresB = entityB.scores;
+  var statsA = entityA.ascent.stats();
+  var statsB = entityB.ascent.stats();
 
-  var statsA = scoresA.stats();
-  var statsB = scoresB.stats();
-
-  var transformedA = statsA.ascent;
-  var transformedB = statsB.ascent;
+  var scoreA = entityA.ascent.score(entityA["descent-weeks"]);
+  var scoreB = entityB.ascent.score(entityB["descent-weeks"]);
 
   // Here's where the swap takes place. Swap total scores.
-  var ndcA = (3/2)*(statsB.sum-transformedA.sum())/(statsA.peakValue || 1);
-  var ndcB = (3/2)*(statsA.sum-transformedB.sum())/(statsB.peakValue || 1);
+  entityA["descent-weeks"] = (3/2)*(scoreB-statsA.sum)/(statsA.peakValue || 1);
+  entityB["descent-weeks"] = (3/2)*(scoreA-statsB.sum)/(statsB.peakValue || 1);
 
-  for (i = 1; i < ndcA; i++ ) {
-    var tail = statsA.peakValue*(1-Math.pow(i/ndcA,2));
-    transformedA.push(tail);
-  }
+  if (entityA["descent-weeks"] < 1) entityA["descent-weeks"] = 1;
+  if (entityB["descent-weeks"] < 1) entityB["descent-weeks"] = 1;
 
-  for (i = 1; i < ndcB; i++ ) {
-    var tail = statsB.peakValue*(1-Math.pow(i/ndcB,2));
-    transformedB.push(tail);
-  }
+  delete entityA.debutScore;
+  delete entityA.peakScore;
+  delete entityA.score;
+  delete entityA.scores;
+  delete entityA.duration;
 
-  entityA.scores = transformedA;
-  entityB.scores = transformedB;
+  delete entityB.debutScore;
+  delete entityB.peakScore;
+  delete entityB.score;
+  delete entityB.scores;
+  delete entityB.duration;
 
   write(a,entityA);
   write(b,entityB);
