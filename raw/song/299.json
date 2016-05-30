@@ -1,1 +1,18 @@
-{"title":"The Way That You Love Me","instanceSlug":299,"tags":[],"genre":"dance","debut":"1989-10","playlists":[],"artists":{"paula-abdul":true},"scores":[0.306,0.985,0.971,0.942,0.904,0.856]}
+{
+  "title": "The Way That You Love Me",
+  "instanceSlug": 299,
+  "tags": [],
+  "genre": "dance",
+  "debut": "1989-10",
+  "playlists": [],
+  "artists": {
+    "paula-abdul": true
+  },
+  "scores": [
+    0.5,
+    0.985,
+    0.9764712391160221,
+    0.961,
+    0.944
+  ]
+}

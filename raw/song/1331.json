@@ -1,8 +1,7 @@
 {
   "title": "Opposites Attract",
   "instanceSlug": 1331,
-  "tags": [
-  ],
+  "tags": [],
   "genre": "dance",
   "debut": "1990-01",
   "playlists": [],
@@ -11,10 +10,14 @@
     "the-wild-pair": "feature"
   },
   "scores": [
-    0.421,
-    0.76,
-    0.81,
-    0.83,
-    0.825
-  ]
+    0.32,
+    0.66,
+    0.71,
+    0.75,
+    0.658
+  ],
+  "score": 4.755481433825655,
+  "debutScore": 0.32,
+  "peakScore": 0.75,
+  "duration": 3
 }

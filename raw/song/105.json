@@ -1,1 +1,19 @@
-{"title":"Dead or Alive","instanceSlug":105,"tags":[],"genre":"pop","debut":1987,"artists":{"bon-jovi":true},"scores":[0.22,0.563,0.756,0.837,0.852,0.837]}
+{
+  "title": "Dead or Alive",
+  "instanceSlug": 105,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1987-05",
+  "artists": {
+    "bon-jovi": true
+  },
+  "playlists":["summer"],
+  "scores": [
+    0.22,
+    0.563,
+    0.756,
+    0.837,
+    0.852,
+    0.837
+  ]
+}

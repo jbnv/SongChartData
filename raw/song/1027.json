@@ -1,1 +1,22 @@
-{"title":"Living on a Prayer","instanceSlug":1027,"tags":[],"searchTerms":["live"],"genre":"hard-rock","debut":1987,"playlists":[],"artists":{"bon-jovi":true},"scores":[0.12,0.463,0.656,0.737,0.752,0.737]}
+{
+  "title": "Living on a Prayer",
+  "instanceSlug": 1027,
+  "tags": ["#1","#1-hot-100","#1-mainstream-rock"],
+  "searchTerms": [
+    "live"
+  ],
+  "genre": "hard-rock",
+  "debut": "1987-01",
+  "playlists": [],
+  "artists": {
+    "bon-jovi": true
+  },
+  "scores": [
+    0.12,
+    0.463,
+    0.656,
+    0.737,
+    0.752,
+    0.737
+  ]
+}

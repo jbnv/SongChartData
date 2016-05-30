@@ -1,1 +1,17 @@
-{"title":"Cold Hearted","instanceSlug":1,"playlists":[],"parents":[],"genre":"pop","debut":"1989-07","artists":{"paula-abdul":true},"scores":[0.1,0.1995263597162372,0.31,0.34125675641,0.34282688513132636,0.331,0.31571661,0.3]}
+{
+  "title": "Cold Hearted",
+  "instanceSlug": 1,
+  "playlists": [],
+  "genre": "pop",
+  "debut": "1989-07",
+  "artists": {
+    "paula-abdul": true
+  },
+  "scores": [
+    0.2,
+    0.31,
+    0.3412,
+    0.3428,
+    0.3285
+  ]
+}

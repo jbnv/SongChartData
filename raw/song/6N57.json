@@ -1,0 +1,21 @@
+{
+  "title": "Infatuation",
+  "instanceSlug": "6N57",
+  "tags": [],
+  "genre": "rock",
+  "debut": "1984-06",
+  "playlists": [
+    "summer"
+  ],
+  "scores": [
+    0.125,
+    0.423,
+    0.736,
+    0.74,
+    0.725
+  ],
+  "artists": {
+    "rod-stewart": true,
+    "jeff-beck": "backup"
+  }
+}

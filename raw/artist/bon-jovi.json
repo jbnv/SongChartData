@@ -5,14 +5,13 @@
     "1980s",
     "1990s"
   ],
-  "parents": [],
   "genres": [
     "rock"
   ],
-  "members": [],
+  "members": ["jon-bon-jovi"],
   "origin": "new-jersey",
   "birth": "",
   "death": "",
-  "complete": false,
+  "complete": true,
   "type": "mmm"
 }

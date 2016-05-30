@@ -1,3 +1,22 @@
-{"title":"Rod Stewart","instanceSlug":"rod-stewart","tags":["hof","1970s","1980s","1990s"],
-  "roles":["singer"],
-"genres":["rock"],"xref":[],"complete":false,"origin":"uk","birth":"","death":"","type":"m"}
+{
+  "title": "Rod Stewart",
+  "instanceSlug": "rod-stewart",
+  "tags": [
+    "hof",
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "roles": [
+    "singer","songwriter"
+  ],
+  "genres": [
+  "pop",  "rock"
+  ],
+  "xref": ["jeff-beck-group","faces"],
+  "complete": true,
+  "origin": "london",
+  "birth": "1945-01",
+  "death": "",
+  "type": "m"
+}

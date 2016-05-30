@@ -1,1 +1,22 @@
-{"title":"Desire","instanceSlug":1307,"tags":["desire"],"parents":[],"genre":"rock","debut":"1988-09","playlists":[],"ranks":[],"artists":{"u2":true},"scores":[0.15,0.4575714285714286,0.5861,0.621,0.61257]}
+{
+  "title": "Desire",
+  "instanceSlug": 1307,
+  "tags": [
+    "#1","#1-mainstream-rock","#1-modern-rock"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1988-10",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "u2": true
+  },
+  "scores": [
+    0.15,
+    0.4575714285714286,
+    0.5861,
+    0.621,
+    0.61257
+  ]
+}

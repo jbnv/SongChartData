@@ -1,0 +1,21 @@
+{
+  "title": "Love Touch",
+  "instanceSlug": "QYxJ",
+  "tags": [],
+  "genre": "rock",
+  "debut": "1986-07",
+  "playlists": [
+    "summer"
+  ],
+  "scores": [
+    0.5185,
+    0.6755,
+    0.8700,
+    0.8785,
+    0.8590,
+    0.8392
+  ],
+  "artists": {
+    "rod-stewart": true
+  }
+}
