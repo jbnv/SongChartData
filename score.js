@@ -23,7 +23,15 @@ function read(slug) {
 }
 
 function write(slug,song) {
-  song.scores = (song.scores || []).filter(function(s) { return s >= 0.01 });
+
+  delete song.parents;
+  delete song.ranks;
+  delete song.debutScore;
+  delete song.peakScore;
+  delete song.score;
+  delete song.scores;
+  delete song.duration;
+
   writeEntity(meta.rawRoute("song",slug),song);
 }
 
@@ -78,18 +86,6 @@ function swap(pair) {
 
   if (entityA["descent-weeks"] < 1) entityA["descent-weeks"] = 1;
   if (entityB["descent-weeks"] < 1) entityB["descent-weeks"] = 1;
-
-  delete entityA.debutScore;
-  delete entityA.peakScore;
-  delete entityA.score;
-  delete entityA.scores;
-  delete entityA.duration;
-
-  delete entityB.debutScore;
-  delete entityB.peakScore;
-  delete entityB.score;
-  delete entityB.scores;
-  delete entityB.duration;
 
   write(a,entityA);
   write(b,entityB);
