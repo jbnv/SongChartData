@@ -116,9 +116,9 @@ function swap(pair) {
   var transformedA = statsA.ascent;
   var transformedB = statsB.ascent;
 
-  // Here's where the swap takes place. Swap descent scores.
-  var ndcA = (3/2)*(statsB.descentSum/(statsA.peakValue || 1));
-  var ndcB = (3/2)*(statsA.descentSum/(statsB.peakValue || 1));
+  // Here's where the swap takes place. Swap total scores.
+  var ndcA = (3/2)*(statsB.sum-transformedA.sum())/(statsA.peakValue || 1);
+  var ndcB = (3/2)*(statsA.sum-transformedB.sum())/(statsB.peakValue || 1);
 
   for (i = 1; i < ndcA; i++ ) {
     var tail = statsA.peakValue*(1-Math.pow(i/ndcA,2));
