@@ -43,22 +43,22 @@ function prevalidate(song) {
   song.messages = [];
   var scores = song.scores || [];
 
-  var maxScoreCount = 20;
-  if (scores.length > maxScoreCount) {
-    song.messages.push({
-      type:"warning",
-      title:"Excessive Scores",
-      text:"Please reduce number of scores to "+maxScoreCount+" or less."
-    });
-  }
-  var minScore = 0.01;
-  if (scores.filter(function(s) { return s < minScore; }).length > 0) {
-    song.messages.push({
-      type:"warning",
-      title:"Extremely Low Score(s)",
-      text:"One or more scores is less than "+minScore+"."
-    });
-  }
+  // var maxScoreCount = 20;
+  // if (scores.length > maxScoreCount) {
+  //   song.messages.push({
+  //     type:"warning",
+  //     title:"Excessive Scores",
+  //     text:"Please reduce number of scores to "+maxScoreCount+" or less."
+  //   });
+  // }
+  // var minScore = 0.01;
+  // if (scores.filter(function(s) { return s < minScore; }).length > 0) {
+  //   song.messages.push({
+  //     type:"warning",
+  //     title:"Extremely Low Score(s)",
+  //     text:"One or more scores is less than "+minScore+"."
+  //   });
+  // }
 
 }
 

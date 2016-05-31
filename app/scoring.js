@@ -38,42 +38,26 @@ exports.score = function(song,scoringOptions) {
 
 	if (!scoringOptions) { scoringOptions = {}; }
 
-	// Now we always assume that .scores, if populated, is proper JSON
-	// in the following format: [ debutScore, ascentScore{0,}, peakScore, ...]
   // Assume that all scores are in the range {0,1].
 	// Scores are projected from the final two scores.
 
-  var rawScores = (song.scores || []).slice(0,20);
+  var ascent = song.ascent || [];
+  var descentWeeks = song["descent-weeks"];
   song.score = null;
-	if (!song.scores)  { song.scores = null; return; }
-  if (!Array.isArray(song.scores)) { song.scores = null; return; }
-  if (song.scores.length == 0)  { song.scores = null; return; }
+	if (!song.ascent)  { song.ascent = null; return; }
+  if (!Array.isArray(song.ascent)) { song.ascent = null; return; }
+  if (song.ascent.length == 0)  { song.ascent = null; return; }
 
-	song.debutScore = parseFloat(song.scores[0]);
+	song.debutScore = parseFloat(song.ascent[0]);
 
-  song.peakScore = song.scores.reduce(function(prev,cur) {
+  song.peakScore = song.ascent.reduce(function(prev,cur) {
     return !prev || prev < cur ? cur : prev;
   },null);
 
-	if (!scoringOptions.noProjectOut) {
-		score0 = parseFloat(song.scores[song.scores.length-1]);
-		score1 = parseFloat(song.scores[song.scores.length-2]) || score0 || 1;
-		scale = score1 - score0;
-    if (scale < .005) scale = .005;  // prevent infinite loops
-    if (scale/score0 < .02) scale = score0*0.02; // ensure rapid descents
-    margin = scale;
-
-		while (score0 > 0 ) {
-			score0 -= scale;
-      scale += margin;
-      // margin *= 1.5;
-      if (score0 < 0) score0 = 0;
-			song.scores.push(round000(score0));
-		}
-	}
+  song.scores = song.ascent.normalize(descentWeeks);
 
 	song.duration = Math.ceil(
-    song.scores.filter(function(s) { return s >= 0.01; }).length/4
+    ((song.ascent || []).length - 1 + (song["descent-weeks"] || 0)) * 7 / 30.4375
   );
 
 	// Calculate score from point scores.
