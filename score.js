@@ -191,43 +191,52 @@ if (yargs.argv.all) {
   var unscoredSongs = [];
   var scoredSongCount = 0;
   var totalScore = 0.0;
+  var ascent = [];
+  var totalDescentWeeks = 0.0;
 
   songs.forEach(function(song) {
 
-    if (song.scores === false) {
-      return;
-    }
+    if (song.ascent && !Array.isArray(song.ascent)) return;
 
-    if (!song.scores || song.scores.length == 0) {
+    if (!song.ascent || song.ascent.length == 0) {
       unscoredSongs.push(song);
       return;
     }
 
-    stats = song.scores.stats();
+    for (i = 0; i < song.ascent.length; i++) {
+      if (ascent.length < i+1) {
+        ascent.push(song.ascent[i]);
+      } else {
+        ascent[i] += song.ascent[i];
+      }
+    }
+
     scoredSongCount++;
-    totalScore += stats.sum;
+    totalDescentWeeks += song["descent-weeks"];
 
   });
 
-  var peakValue = 0.3;
-  var descentSum = totalScore/scoredSongCount;
+  // Reduce ascent array to an average.
+  // Truncate ascent to its
+  var peakValue = 0;
+  var peakIndex = 0;
 
-  var newScores = [peakValue];
-  var denominator = (3/2)*(descentSum/(peakValue || 1));
-  for (i = 1; i < denominator; i++ ) {
-    var tail = peakValue*(1-Math.pow(i/denominator,2));
-    newScores.push(tail);
-  }
+  ascent.forEach(function(e,index) {
+    var f = parseFloat(e) / scoredSongCount;
+    ascent[index] = f;
+    if (f > peakValue) { peakValue = f; peakIndex = index; }
+  });
 
-  // newScores = newScores.map(function(v) {
-  //   var average = v / scoredSongCount;
-  //   return average / (2-average);
-  // }).normalize();
+  ascent = ascent.slice(0,peakIndex+1);
+  var descentWeeks = 1.0 * totalDescentWeeks / scoredSongCount;
+  if (descentWeeks < 1) descentWeeks = 1;
+  console.log("[231]",totalDescentWeeks,scoredSongCount);
 
   unscoredSongs.forEach(function(song) {
-    var rawSong = meta.getRawObject("song",song.instanceSlug)();
-    rawSong.scores = newScores;
-    writeEntity(meta.rawRoute("song",song.instanceSlug),rawSong);
+    rawSong = read(song.instanceSlug);
+    rawSong.ascent = ascent;
+    rawSong["descent-weeks"] = descentWeeks;
+    write(song.instanceSlug,rawSong);
 
     util.log(
       chalk.gray("-"),
