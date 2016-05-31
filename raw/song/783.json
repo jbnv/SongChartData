@@ -1,1 +1,18 @@
-{"title":"Nothing but a Good Time","instanceSlug":783,"tags":[],"parents":[],"genre":"metal","debut":"1988-05","playlists":[],"ranks":[24,21,18.5,16.6,16,20],"artists":{"poison":true},"scores":[0.027,0.063,0.075],"ascent":[0.027,0.063,0.075],"descent-weeks":1.5}
+{
+  "title": "Nothing but a Good Time",
+  "instanceSlug": 783,
+  "tags": [],
+  "parents": [],
+  "genre": "metal",
+  "debut": "1988-05",
+  "playlists": [],
+  "artists": {
+    "poison": true
+  },
+  "ascent": [
+    0.027,
+    0.063,
+    0.075
+  ],
+  "descent-weeks": 5.5
+}

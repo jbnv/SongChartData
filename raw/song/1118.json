@@ -1,1 +1,23 @@
-{"title":"Mama, I'm Coming Home","instanceSlug":1118,"tags":["come","come-home","coming","home","mama"],"parents":[],"genre":"rock","debut":1992,"playlists":[],"ranks":[],"artists":{"ozzy-osbourne":true},"scores":[0.065,0.232,0.328,0.391,0.431,0.463,0.419,0.414,0.404,0.389,0.369,0.344,0.314,0.279,0.239,0.194,0.144,0.089,0.029],"ascent":[0.065,0.232,0.328,0.391,0.431,0.463],"descent-weeks":13.250539956803454}
+{
+  "title": "Mama, I'm Coming Home",
+  "instanceSlug": 1118,
+  "tags": [
+    "come-home"
+  ],
+  "genre": "rock",
+  "debut": "1992-04",
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "ozzy-osbourne": true
+  },
+  "ascent": [
+    0.065,
+    0.232,
+    0.328,
+    0.391,
+    0.431,
+    0.463
+  ],
+  "descent-weeks": 12
+}

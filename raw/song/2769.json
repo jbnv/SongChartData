@@ -1,1 +1,19 @@
-{"title":"Feels Like the First Time","instanceSlug":2769,"tags":[],"genre":"rock","debut":1977,"playlists":[],"artists":{"foreigner":true},"scores":[0.078,0.433,0.593,0.623,0.643,0.628],"ascent":[0.078,0.433,0.593,0.623,0.643],"descent-weeks":2.965007776049766}
+{
+  "title": "Feels Like the First Time",
+  "instanceSlug": 2769,
+  "tags": [],
+  "genre": "rock",
+  "debut": 1977,
+  "playlists": [],
+  "artists": {
+    "foreigner": true
+  },
+  "ascent": [
+    0.078,
+    0.433,
+    0.593,
+    0.623,
+    0.643
+  ],
+  "descent-weeks": 10.486003110419901
+}

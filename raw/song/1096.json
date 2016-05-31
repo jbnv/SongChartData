@@ -1,6 +1,6 @@
 {
   "title": "Thought I'd Died and Gone to Heaven",
-  "instanceSlug": 11,
+  "instanceSlug": 1096,
   "tags": [
   ],
   "genre": "rock",
@@ -9,12 +9,11 @@
   "artists": {
     "bryan-adams": true
   },
-  "scores": [
+  "ascent": [
     0.3324648254299114,
     0.5111,
     0.58856739591,
-    0.631,
-    0.631,
-    0.614 
-  ]
+    0.631
+  ],
+  "descent-weeks": 10
 }

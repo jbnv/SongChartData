@@ -1,1 +1,19 @@
-{"title":"I Wanna Dance with Somebody (Who Loves Me)","instanceSlug":147,"tags":["#1","dance","i","i-want","somebody","want"],"parents":[],"genre":"pop","debut":"1987-06","ranks":[19.9,11.7,6.8,8.8],"artists":{"whitney-houston":true},"scores":[0.18,0.361,0.275],"ascent":[0.18,0.361],"descent-weeks":2.6426592797783934}
+{
+  "title": "I Wanna Dance with Somebody (Who Loves Me)",
+  "instanceSlug": 147,
+  "tags": [
+    "#1",
+    "i-want"
+  ],
+  "genre": "pop",
+  "debut": "1987-06",
+  "artists": {
+    "whitney-houston": true
+  },
+  "ascent": [
+    0.25327510917030566,
+    0.7515605493133584,
+    0.9685404847859721
+  ],
+  "descent-weeks": 9.129297955984187
+}

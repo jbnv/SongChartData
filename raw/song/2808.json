@@ -1,1 +1,18 @@
-{"title":"(Every Time I Turn Around) Back in Love Again","instanceSlug":281,"tags":[],"genre":"urban","debut":1977,"playlists":[],"artists":{"ltd":true,"jeffrey-osbourne":"lead"},"scores":[0.1,0.21,0.312951,0.35561236147633757,0.357477963561,0.345]}
+{
+  "title": "(Every Time I Turn Around) Back in Love Again",
+  "instanceSlug": 2808,
+  "tags": [],
+  "genre": "urban",
+  "debut": 1977,
+  "playlists": [],
+  "artists": {
+    "ltd": true,
+    "jeffrey-osbourne": "lead"
+  },
+  "ascent": [
+    0.21,
+    0.37,
+    0.67
+  ],
+  "descent-weeks": 8.5
+}

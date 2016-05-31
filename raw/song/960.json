@@ -1,1 +1,22 @@
-{"title":"Time, Love & Tenderness","instanceSlug":960,"tags":["#1","#1-adult-contemporary"],"genre":"pop","debut":"1991-08","playlists":["summer"],"artists":{"michael-bolton":true,"diane-warren":"writer"},"scores":[0.592,0.99,0.985,0.975,0.942],"ascent":[0.592,0.99],"descent-weeks":5.896969696969697}
+{
+  "title": "Time, Love & Tenderness",
+  "instanceSlug": 960,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "michael-bolton": true,
+    "diane-warren": "writer"
+  },
+  "ascent": [
+    0.592,
+    0.99
+  ],
+  "descent-weeks": 16
+}

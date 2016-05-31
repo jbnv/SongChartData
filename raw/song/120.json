@@ -1,1 +1,20 @@
-{"title":"Crazy","instanceSlug":120,"tags":["crazy"],"parents":[],"genre":"rock","debut":"1987-12","ranks":[19.9,11.9,9.5,8.5,8.9,9.6,11.2],"artists":{"icehouse":true},"scores":[0.174,0.249,0.286,0.271,0.246,0.194],"ascent":[0.174,0.249,0.286],"descent-weeks":5.229020979020978}
+{
+  "title": "Crazy",
+  "instanceSlug": 120,
+  "tags": [
+    "crazy"
+  ],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1987-12",
+  "artists": {
+    "icehouse": true
+  },
+  "ascent": [
+    0.174,
+    0.449,
+    0.68,
+    0.75
+  ],
+  "descent-weeks": 9
+}

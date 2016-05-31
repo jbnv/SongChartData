@@ -1,1 +1,15 @@
-{"title":"Talking Heads","instanceSlug":"talking-heads","tags":["hof"],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":"","type":"mmm"}
+{
+  "title": "Talking Heads",
+  "instanceSlug": "talking-heads",
+  "tags": [
+    "hof"
+  ],
+  "genres": ["new-wave","rock"],
+  "members": ["david-byrne","jerry-harrison","tina-weymouth","chris-frantz"],
+  "xref": ["tom-tom-club"],
+  "complete": true,
+  "origin": "new-york",
+  "birth": "",
+  "death": "",
+  "type": "mmm"
+}

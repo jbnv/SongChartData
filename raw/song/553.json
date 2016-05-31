@@ -1,1 +1,21 @@
-{"title":"When It's Love","instanceSlug":553,"tags":[],"parents":[],"genre":"rock","debut":"1988-08","playlists":[],"ranks":[18.3,12.3,9.3,6.9,6.3,6.5,7.2],"artists":{"van-halen":true,"sammy-hagar":"member"},"scores":[0.031,0.163,0.256,0.356,0.386,0.376,0.341],"ascent":[0.031,0.163,0.256,0.356,0.386],"descent-weeks":4.286269430051814}
+{
+  "title": "When It's Love",
+  "instanceSlug": 553,
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1988-08",
+  "playlists": [],
+  "artists": {
+    "van-halen": true,
+    "sammy-hagar": "member"
+  },
+  "ascent": [
+    0.031,
+    0.163,
+    0.256,
+    0.356,
+    0.386
+  ],
+  "descent-weeks": 6.9
+}

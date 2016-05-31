@@ -1,1 +1,26 @@
-{"title":"Jerk Out","instanceSlug":198,"tags":["#1","#1-r&b"],"playlists":["summer"],"genre":"funk-dance","debut":"1990-08","artists":{"time":true,"morris-day":"lead","jimmy-jam":"member","terry-lewis":"member","prince":"writer"},"scores":[0.463,0.887,0.912,0.9,0.876],"ascent":[0.463,0.887,0.912],"descent-weeks":4.421052631578948}
+{
+  "title": "Jerk Out",
+  "instanceSlug": 198,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "funk-dance",
+  "debut": "1990-08",
+  "artists": {
+    "time": true,
+    "morris-day": "lead",
+    "jimmy-jam": "member",
+    "terry-lewis": "member",
+    "prince": "writer"
+  },
+  "ascent": [
+    0.463,
+    0.887,
+    0.912
+  ],
+  "descent-weeks": 11.21
+}

@@ -1,1 +1,25 @@
-{"title":"Hit Me Off","instanceSlug":2784,"tags":["#1","#1-r&b"],"genre":"urban","debut":"1996-09","playlists":[],"ranks":[],"artists":{"new-edition":true,"ralph-tresvant":"member","ronnie-devoe":"member","johnny-gill":"member","ricky-bell":"member","michael-bivins":"member"},"scores":[0.07,0.21,0.28,0.25,0.21],"ascent":[0.07,0.21,0.28],"descent-weeks":3.9642857142857144}
+{
+  "title": "Hit Me Off",
+  "instanceSlug": 2784,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genre": "urban",
+  "debut": "1996-09",
+  "playlists": [],
+  "artists": {
+    "new-edition": true,
+    "ralph-tresvant": "member",
+    "ronnie-devoe": "member",
+    "johnny-gill": "member",
+    "ricky-bell": "member",
+    "michael-bivins": "member"
+  },
+  "ascent": [
+    0.1272754123253105,
+    0.33481138614746037,
+    0.41915870739472333
+  ],
+  "descent-weeks": 4
+}

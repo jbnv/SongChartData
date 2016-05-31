@@ -1,1 +1,19 @@
-{"title":"Too Many Walls","instanceSlug":122,"tags":[],"playlists":["summer"],"genre":"pop","debut":"1991-08","artists":{"cathy-dennis":true},"note":"Project 6 weeks at #1.","scores":[0.6,0.99,0.97,0.947,0.917,0.871],"ascent":[0.6,0.99],"descent-weeks":7.113636363636365}
+{
+  "title": "Too Many Walls",
+  "instanceSlug": 122,
+  "tags": [],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "pop",
+  "debut": "1991-08",
+  "artists": {
+    "cathy-dennis": true
+  },
+  "note": "Project 6 weeks at #1.",
+  "ascent": [
+    0.6,
+    0.99
+  ],
+  "descent-weeks": 16
+}

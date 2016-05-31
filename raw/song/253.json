@@ -1,1 +1,30 @@
-{"title":"End of the Road","instanceSlug":253,"tags":["#1","#1-hot-100","#1-r&b"],"playlists":["breakup","feb13","summer"],"genre":"soul","debut":"1992-08","source":"boomerang","artists":{"boyz-ii-men":true,"babyface":"writer","la-reid":"writer","daryl-simmons":"writer"},"scores":[0.426,0.71,0.89,0.93,0.92],"ascent":[0.426,0.71,0.89,0.93],"descent-weeks":2.9838709677419355}
+{
+  "title": "End of the Road",
+  "instanceSlug": 253,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "breakup",
+    "feb13",
+    "summer"
+  ],
+  "genre": "soul",
+  "debut": "1992-08",
+  "source": "boomerang",
+  "artists": {
+    "boyz-ii-men": true,
+    "babyface": "writer",
+    "la-reid": "writer",
+    "daryl-simmons": "writer"
+  },
+  "ascent": [
+    0.426,
+    0.71,
+    0.89,
+    0.93
+  ],
+  "descent-weeks": 13.5
+}

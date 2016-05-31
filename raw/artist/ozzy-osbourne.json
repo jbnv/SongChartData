@@ -1,1 +1,11 @@
-{"title":"Ozzy Osbourne","instanceSlug":"ozzy-osbourne","tags":[],"parents":[],"genres":[],"members":[],"xref":[],"complete":false,"origin":"","birth":"","death":""}
+{
+  "title": "Ozzy Osbourne",
+  "instanceSlug": "ozzy-osbourne",
+  "tags": [],
+  "genres": ["rock"],
+  "xref": ["black-sabbath"],
+  "complete": true,
+  "origin": "birmingham-england",
+  "birth": "1948-12",
+  "death": ""
+}

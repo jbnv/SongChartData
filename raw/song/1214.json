@@ -1,1 +1,32 @@
-{"title":"Rock With You","instanceSlug":1214,"tags":["#1","#1-adult-contemporary","#1-hot-100"],"source":"off-the-wall","genres":["disco","urban","soul"],"debut":"1979-12","playlists":["pph"],"artists":{"michael-jackson":true,"rod-temperton":"writer","quincy-jones":"producer"},"scores":[0.075,0.232,0.463,0.582,0.694,0.681,0.656,0.633,0.612,0.582,0.546],"ascent":[0.075,0.232,0.463,0.582,0.694],"descent-weeks":9.518731988472624}
+{
+  "title": "Rock With You",
+  "instanceSlug": 1214,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-hot-100"
+  ],
+  "source": "off-the-wall",
+  "genres": [
+    "disco",
+    "urban",
+    "soul"
+  ],
+  "debut": "1979-12",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "rod-temperton": "writer",
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.075,
+    0.232,
+    0.463,
+    0.582,
+    0.694
+  ],
+  "descent-weeks": 12.695965417867441
+}

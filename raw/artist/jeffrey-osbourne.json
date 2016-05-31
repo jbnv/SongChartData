@@ -1,1 +1,17 @@
-{"title":"Jeffrey Osbourne","instanceSlug":"jeffrey-osbourne","tags":[],"parents":[],"genres":["soul"],"members":[],"xref":["ltd"],"complete":false,"origin":"us","birth":"","death":""}
+{
+  "title": "Jeffrey Osborne",
+  "instanceSlug": "jeffrey-osbourne",
+  "type":"m",
+  "tags": [],
+  "roles": ["singer","songwriter","drummer"],
+  "genres": [
+    "soul","urban"
+  ],
+  "xref": [
+    "ltd"
+  ],
+  "complete": true,
+  "origin": "rhode-island",
+  "birth": "1948-03",
+  "death": ""
+}

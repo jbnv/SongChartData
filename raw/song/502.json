@@ -1,1 +1,19 @@
-{"title":"Friends","instanceSlug":51,"tags":[],"genres":["pop"],"debut":"1989-08","playlists":[],"artists":{"jody-watley":true},"scores":[0.13241,0.3218,0.4234,0.4984,0.4892,0.48461,0.47,0.44860]}
+{
+  "title": "Friends",
+  "instanceSlug": 502,
+  "tags": [],
+  "genres": [
+    "pop"
+  ],
+  "debut": "1989-08",
+  "playlists": [],
+  "artists": {
+    "jody-watley": true
+  },
+  "descent-weeks": 8,
+  "ascent": [
+    0.1272754123253105,
+    0.33481138614746037,
+    0.41915870739472333
+  ]
+}

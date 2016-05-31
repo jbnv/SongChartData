@@ -1,1 +1,20 @@
-{"title":"Taxman","instanceSlug":51,"tags":[],"parents":[],"genre":"pop","debut":"1960s","artists":{"beatles":true,"john-lennon":"member","paul-mccartney":"member","george-harrison":"member","ringo-starr":"member"},"scores":[0.232,0.3,0.4,0.376],"ascent":[0.232,0.3,0.4],"descent-weeks":2.91}
+{
+  "title": "Taxman",
+  "instanceSlug": 51,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1960s",
+  "artists": {
+    "beatles": true,
+    "john-lennon": "member",
+    "paul-mccartney": "member",
+    "george-harrison": "member",
+    "ringo-starr": "member"
+  },
+  "ascent": [
+    0.1272754123253105,
+    0.33481138614746037,
+    0.41915870739472333
+  ],
+  "descent-weeks": 5
+}

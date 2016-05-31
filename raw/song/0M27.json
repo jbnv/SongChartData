@@ -1,1 +1,22 @@
-{"title":"It's Too Late","instanceSlug":"0M27","tags":["#1","#1-hot-100","#1-adult-contemporary"],"genres":["pop","adult-contemporary"],"debut":1971,"source":"tapestry","playlists":[],"scores":[0.232,1,0.909,0.904,0.894],"ascent":[0.232,1],"descent-weeks":5.5605}
+{
+  "title": "It's Too Late",
+  "instanceSlug": "0M27",
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-adult-contemporary"
+  ],
+  "genres": [
+    "pop",
+    "adult-contemporary"
+  ],
+  "artists":{"carole-king":true},
+  "debut": 1971,
+  "source": "tapestry",
+  "playlists": [],
+  "ascent": [
+    0.232,
+    1
+  ],
+  "descent-weeks": 9
+}

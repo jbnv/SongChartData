@@ -1,1 +1,24 @@
-{"title":"C'mon and Get My Love","instanceSlug":1351,"tags":["get-love","my-love"],"parents":[],"genre":"dance","debut":"1990-02","playlists":[],"artists":{"d-mob":true,"cathy-dennis":"lead"},"scores":[0.122,0.356,0.592,0.843,0.939,0.876],"ascent":[0.122,0.356,0.592,0.843,0.939],"descent-weeks":2.8993610223642174}
+{
+  "title": "C'mon and Get My Love",
+  "instanceSlug": 1351,
+  "tags": [
+    "get-love",
+    "my-love"
+  ],
+  "parents": [],
+  "genre": "dance",
+  "debut": "1990-02",
+  "playlists": [],
+  "artists": {
+    "d-mob": true,
+    "cathy-dennis": "lead"
+  },
+  "ascent": [
+    0.122,
+    0.356,
+    0.592,
+    0.843,
+    0.939
+  ],
+  "descent-weeks":10.5
+}

@@ -1,1 +1,19 @@
-{"title":"Stone Cold Gentleman","instanceSlug":2822,"tags":[],"parents":[],"genre":"urban","debut":"1991-04","playlists":[],"ranks":[],"artists":{"ralph-tresvant":true,"bobby-brown":"backup"},"scores":[0.12431249999999999,0.492,0.61,0.6225,0.61,0.583375,0.55975,0.549125,0.53351,0.5128751,0.48725,0.456625],"ascent":[0.12431249999999999,0.492,0.61,0.6225],"descent-weeks":11.8433978313253}
+{
+  "title": "Stone Cold Gentleman",
+  "instanceSlug": 2822,
+  "tags": [],
+  "genre": "urban",
+  "debut": "1991-04",
+  "playlists": [],
+  "artists": {
+    "ralph-tresvant": true,
+    "bobby-brown": "backup"
+  },
+  "ascent": [
+    0.124,
+    0.492,
+    0.61,
+    0.6225
+  ],
+  "descent-weeks": 7
+}

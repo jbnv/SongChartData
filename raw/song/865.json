@@ -1,1 +1,20 @@
-{"title":"Shiny Happy People","instanceSlug":865,"tags":[],"genre":"rock","debut":"1991-08","playlists":["summer"],"artists":{"rem":true,"kate-pierson":true},"scores":[0.3,0.681,0.813,0.845,0.87,0.88,0.875,0.825],"ascent":[0.3,0.681,0.813,0.845,0.87,0.88],"descent-weeks":4.397727272727273}
+{
+  "title": "Shiny Happy People",
+  "instanceSlug": 865,
+  "tags": [],
+  "genre": "rock",
+  "debut": "1991-08",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "rem": true,
+    "kate-pierson": true
+  },
+  "ascent": [
+    0.681,
+    0.845,
+    0.88
+  ],
+  "descent-weeks": 14
+}

@@ -1,1 +1,16 @@
-{"title":"I Can't Stand It","instanceSlug":2011,"tags":[],"genre":"blues","debut":"1981-04","playlists":[],"artists":{"eric-clapton":true},"scores":[0.145,0.463,0.645,0.737,0.708,0.665],"ascent":[0.145,0.463,0.645,0.737],"descent-weeks":4.294436906377205}
+{
+  "title": "I Can't Stand It",
+  "instanceSlug": 2011,
+  "tags": [],
+  "genre": "blues",
+  "debut": "1981-04",
+  "playlists": [],
+  "artists": {
+    "eric-clapton": true
+  },
+  "ascent": [
+    0.11,
+    0.78
+  ],
+  "descent-weeks": 10
+}

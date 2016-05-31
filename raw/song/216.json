@@ -1,1 +1,19 @@
-{"title":"Every Little Kiss","instanceSlug":216,"tags":[],"playlists":["summer"],"genre":"adult-contemporary","debut":"1987-06","artists":{"bruce-hornsby-the-range":true},"scores":[0.522,0.786,0.914,0.903,0.892],"ascent":[0.522,0.786,0.914],"descent-weeks":4.4458424507658645}
+{
+  "title": "Every Little Kiss",
+  "instanceSlug": 216,
+  "tags": [],
+  "playlists": [
+    "summer"
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1987-06",
+  "artists": {
+    "bruce-hornsby-the-range": true
+  },
+  "ascent": [
+    0.522,
+    0.786,
+    0.935
+  ],
+  "descent-weeks": 15
+}

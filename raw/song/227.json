@@ -1,1 +1,20 @@
-{"title":"Love Power","instanceSlug":227,"tags":[],"genres":["urban"],"debut":"1987-08","artists":{"dionne-warwick":true,"jeffrey-osborne":true,"carol-bayer-sager":"writer"},"scores":[0.239,0.419,0.47,0.584,0.7,0.72,0.68],"ascent":[0.239,0.419,0.47,0.584,0.7,0.72],"descent-weeks":2.9166666666666665}
+{
+  "title": "Love Power",
+  "instanceSlug": 227,
+  "tags": [],
+  "genres": [
+    "urban"
+  ],
+  "debut": "1987-08",
+  "artists": {
+    "dionne-warwick": true,
+    "jeffrey-osbourne": true,
+    "carol-bayer-sager": "writer"
+  },
+  "ascent": [
+    0.25,
+    0.49,
+    0.75
+  ],
+  "descent-weeks": 11
+}

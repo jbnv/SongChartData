@@ -1,1 +1,21 @@
-{"title":"Roni","instanceSlug":311,"tags":[],"genre":"soul","debut":"1989-02","playlists":["women"],"artists":{"bobby-brown":true,"babyface":"writer","darnell-bristol":"writer"},"scores":[0.261,0.7,0.984,0.9611,0.941],"ascent":[0.261,0.7,0.984],"descent-weeks":4.399542682926829}
+{
+  "title": "Roni",
+  "instanceSlug": 311,
+  "tags": [],
+  "genre": "soul",
+  "debut": "1989-02",
+  "playlists": [
+    "women"
+  ],
+  "artists": {
+    "bobby-brown": true,
+    "babyface": "writer",
+    "darnell-bristol": "writer"
+  },
+  "ascent": [
+    0.261,
+    0.7,
+    0.984
+  ],
+  "descent-weeks": 12.253963414634145
+}

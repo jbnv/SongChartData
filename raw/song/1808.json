@@ -1,1 +1,19 @@
-{"title":"Lady","instanceSlug":1808,"tags":[],"genre":"rock","debut":1975,"playlists":[],"artists":{"styx":true,"dennis-deyoung":"lead"},"scores":[0.3,0.6,0.65,0.69,0.66,0.63],"ascent":[0.3,0.6,0.65,0.69],"descent-weeks":4.304347826086957}
+{
+  "title": "Lady",
+  "instanceSlug": 1808,
+  "tags": [],
+  "genre": "rock",
+  "debut": 1975,
+  "playlists": [],
+  "artists": {
+    "styx": true,
+    "dennis-deyoung": "lead"
+  },
+  "ascent": [
+    0.3,
+    0.6,
+    0.75,
+    0.85
+  ],
+  "descent-weeks": 13
+}

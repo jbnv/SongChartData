@@ -1,1 +1,24 @@
-{"title":"I Feel For You","instanceSlug":436,"tags":["#1","#1-r&b"],"genre":"dance","debut":"1984-10","playlists":["pph"],"artists":{"chaka-khan":true,"grandmaster-mellie-mel":"backup","stevie-wonder":"backup","prince":"writer"},"scores":[0.57,1,0.98,0.956],"ascent":[0.57,1],"descent-weeks":4.404}
+{
+  "title": "I Feel For You",
+  "instanceSlug": 436,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genre": "dance",
+  "debut": "1984-10",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "chaka-khan": true,
+    "grandmaster-mellie-mel": "backup",
+    "stevie-wonder": "backup",
+    "prince": "writer"
+  },
+  "ascent": [
+    0.57,
+    1
+  ],
+  "descent-weeks": 12
+}

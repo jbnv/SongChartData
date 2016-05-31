@@ -1,1 +1,22 @@
-{"title":"I'm Still in Love With You","instanceSlug":1911,"tags":[],"genre":"soul","debut":"1996-11","playlists":[],"artists":{"new-edition":true,"ralph-tresvant":"member","ronnie-devoe":"member","johnny-gill":"member","ricky-bell":"member","michael-bivins":"member"},"scores":[0.36,0.945,0.925,0.895,0.845],"ascent":[0.36,0.945],"descent-weeks":5.730158730158731}
+{
+  "title": "I'm Still in Love With You",
+  "instanceSlug": 1911,
+  "tags": [],
+  "genre": "soul",
+  "debut": "1996-11",
+  "playlists": [],
+  "artists": {
+    "new-edition": true,
+    "ralph-tresvant": "member",
+    "ronnie-devoe": "member",
+    "johnny-gill": "member",
+    "ricky-bell": "member",
+    "michael-bivins": "member"
+  },
+  "ascent": [
+    0.232,
+    0.656,
+    0.9
+  ],
+  "descent-weeks": 10.4
+}

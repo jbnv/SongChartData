@@ -1,1 +1,17 @@
-{"title":"Touch Me (All Night Long)","instanceSlug":1212,"tags":[],"genre":"pop","debut":"1991-04","playlists":[],"artists":{"cathy-dennis":true},"scores":[0.5,0.95,0.968,0.938,0.871,0.825],"ascent":[0.5,0.95,0.968],"descent-weeks":5.581611570247935}
+{
+  "title": "Touch Me (All Night Long)",
+  "instanceSlug": 1212,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1991-04",
+  "playlists": [],
+  "artists": {
+    "cathy-dennis": true
+  },
+  "ascent": [
+    0.5,
+    0.95,
+    0.968
+  ],
+  "descent-weeks": 13.5
+}

@@ -1,1 +1,23 @@
-{"title":"On Our Own","instanceSlug":307,"tags":[],"genre":"pop","debut":"1989-07","source":"ghostbusters-2","playlists":["summer"],"artists":{"bobby-brown":true,"babyface":"writer","la-reid":"writer","daryl-simmons":"writer"},"scores":[0.071,0.191,0.381,0.524,0.5,0.45],"ascent":[0.071,0.191,0.381,0.524],"descent-weeks":4.219465648854962}
+{
+  "title": "On Our Own",
+  "instanceSlug": 307,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1989-07",
+  "source": "ghostbusters-2",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "bobby-brown": true,
+    "babyface": "writer",
+    "la-reid": "writer",
+    "daryl-simmons": "writer"
+  },
+  "ascent": [
+    0.24,
+    0.65,
+    0.93
+  ],
+  "descent-weeks": 12
+}

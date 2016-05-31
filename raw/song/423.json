@@ -1,1 +1,24 @@
-{"title":"My Prerogative","instanceSlug":423,"tags":["my","odd-word"],"parents":[],"genre":"pop","debut":"1988-11","playlists":[],"ranks":[19,14,11,8.5,7.4,6.9,6.85,7.1,7.56,8.12,9.9],"artists":{"bobby-brown":true},"scores":[0.018,0.12,0.2,0.286,0.332,0.356,0.358,0.346,0.325,0.301,0.235],"ascent":[0.018,0.12,0.2,0.286,0.332,0.356,0.358],"descent-weeks":6.557262569832401}
+{
+  "title": "My Prerogative",
+  "instanceSlug": 423,
+  "tags": [
+    "odd-word"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1988-11",
+  "playlists": [],
+  "artists": {
+    "bobby-brown": true
+  },
+  "ascent": [
+    0.075,
+    0.2,
+    0.306,
+    0.463,
+    0.602,
+    0.612
+  ],
+  "descent-weeks": 10.262254901960782
+
+}

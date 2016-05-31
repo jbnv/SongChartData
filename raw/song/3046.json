@@ -1,1 +1,20 @@
-{"title":"Cuddly Toy","instanceSlug":"3046","tags":[],"genre":"pop","debut":"1989-06","playlists":["summer"],"ranks":[],"artists":{"roachford":true},"scores":[0.2,0.31,0.412951,0.5556123614763375,0.657477963561,0.7446276515977258,0.8289181,0.815],"ascent":[0.2,0.31,0.412951,0.5556123614763375,0.657477963561,0.7446276515977258,0.8289181],"descent-weeks":2.97481397740018}
+{
+  "title": "Cuddly Toy",
+  "instanceSlug": "3046",
+  "tags": [],
+  "genre": "pop",
+  "debut": "1989-06",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "roachford": true
+  },
+  "ascent": [
+    0.2,
+    0.413,
+    0.7446,
+    0.8289
+  ],
+  "descent-weeks": 11.381253648581204
+}

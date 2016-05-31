@@ -1,1 +1,20 @@
-{"title":"Love Can Move Mountains","instanceSlug":"7l1n","tags":[],"debut":1992,"playlists":[],"scores":[0.038,0.11,0.1845,0.2148,0.2317,0.2359,0.232],"artists":{"celine-dion":true,"diane-warren":"writer"},"ascent":[0.038,0.11,0.1845,0.2148,0.2317,0.2359],"descent-weeks":2.9752013565069944}
+{
+  "title": "Love Can Move Mountains",
+  "instanceSlug": "7l1n",
+  "tags": [],
+  "debut": 1992,
+  "playlists": [],
+  "artists": {
+    "celine-dion": true,
+    "diane-warren": "writer"
+  },
+  "ascent": [
+    0.07321772639691715,
+    0.19819819819819817,
+    0.31152384972562264,
+    0.35363845900559765,
+    0.3762279775919461,
+    0.3817460959624565
+  ],
+  "descent-weeks": 11
+}

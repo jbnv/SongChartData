@@ -1,1 +1,19 @@
-{"title":"Think","instanceSlug":"1306","tags":["think"],"parents":[],"genre":"electro-pop","debut":"1990-11","playlists":[],"ranks":[],"artists":{"information-society":true},"scores":[0.11,0.3845,0.62,0.6625,0.652,0.6275,0.6174999999999999,0.61,0.5825,0.5575,0.5275],"ascent":[0.11,0.3845,0.62,0.6625],"descent-weeks":10.951698113207547}
+{
+  "title": "Think",
+  "instanceSlug": "1306",
+  "tags": [
+  ],
+  "genre": "electro-pop",
+  "debut": "1990-11",
+  "playlists": [],
+  "artists": {
+    "information-society": true
+  },
+  "ascent": [
+    0.11,
+    0.3845,
+    0.62,
+    0.6625
+  ],
+  "descent-weeks": 7.128289473684207
+}

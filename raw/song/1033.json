@@ -1,1 +1,20 @@
-{"title":"Wild Wild Life","instanceSlug":1033,"tags":["life","wild"],"parents":[],"genre":"pop","debut":"1986-11","playlists":[],"ranks":[17,14.5,10,8,7.5,8,9,10,11.5,13,18],"artists":{"talking-heads":true},"scores":[0.055,0.108,0.232,0.306,0.328,0.306,0.267,0.232,0.185,0.145,0.036],"ascent":[0.055,0.108,0.232,0.306,0.328],"descent-weeks":6.8551829268292686}
+{
+  "title": "Wild Wild Life",
+  "instanceSlug": 1033,
+  "tags": [
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1986-11",
+  "playlists": [],
+  "artists": {
+    "talking-heads": true
+  },
+  "ascent": [
+    0.15,
+    0.35,
+    0.45,
+    0.53
+  ],
+  "descent-weeks": 9.5
+}
