@@ -143,17 +143,6 @@ var zero = unary(
   function(entity) { entity.scores = false; }
 );
 
-// var bendUp = unaryWithModifier(
-//   "up",
-//   function(entity,modifier) {
-//     degree = parseFloat(modifier || 0.5);
-//     if (degree <= 0 || degree >= 1) return;
-//     entity.scores = entity.scores.map(function(score) {
-//       return score + (1-score)*degree;
-//     });
-//   }
-// );
-
 var bendUp = unary(
   "up",
   function(entity) {
@@ -172,13 +161,6 @@ var bendDown = unary(
   }
 );
 
-var normalize = unary(
-  "normalize",
-  function(entity) {
-    entity.scores = entity.scores.normalize();
-  }
-);
-
 function processArguments(flag,fn) {
   arg = yargs.argv[flag];
   if (arg) {
@@ -194,7 +176,6 @@ processArguments("s",swap);
 processArguments("i",interpolate);
 processArguments("c",clear);
 processArguments("z",zero);
-processArguments("n",normalize);
 processArguments("u",bendUp);
 processArguments("d",bendDown);
 
