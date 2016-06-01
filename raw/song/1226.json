@@ -1,1 +1,22 @@
-{"title":"State of Shock","instanceSlug":1226,"tags":[],"genre":"pop","debut":"1984-07","playlists":[],"artists":{"jacksons":true,"michael-jackson":"lead","jermaine-jackson":"member","mick-jagger":"backup"},"scores":[0.045,0.22,0.45,0.55,0.65,0.61,0.57,0.4899999999999999,0.3699999999999998,0.20999999999999963,0.009999999999999454,0],"note":"Mick Jagger is listed as a 'guest vocalist.'","ascent":[0.045,0.22,0.45,0.55,0.65],"descent-weeks":6.715384615384611}
+{
+  "title": "State of Shock",
+  "instanceSlug": 1226,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1984-07",
+  "playlists": [],
+  "artists": {
+    "jacksons": true,
+    "michael-jackson": "lead",
+    "jermaine-jackson": "member",
+    "mick-jagger": "backup"
+  },
+  "note": "Mick Jagger is listed as a 'guest vocalist.'",
+  "ascent": [
+    0.22,
+    0.45,
+    0.55,
+    0.65
+  ],
+  "descent-weeks": 8
+}

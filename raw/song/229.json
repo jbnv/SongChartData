@@ -1,1 +1,24 @@
-{"title":"Wipeout","instanceSlug":229,"tags":[],"playlists":["help-from-friends"],"genres":["urban","rap"],"debut":"1987-08","artists":{"fat-boys":true,"beach-boys":true},"scores":[0.2,0.612,0.67,0.71,0.74,0.75,0.76,0.74,0.72,0.6799999999999999,0.6199999999999999,0.5399999999999998,0.4399999999999997,0.3199999999999996,0.1799999999999995,0.01999999999999935,0],"ascent":[0.2,0.612,0.67,0.71,0.74,0.75,0.76],"descent-weeks":9.9078947368421}
+{
+  "title": "Wipeout",
+  "instanceSlug": 229,
+  "tags": [],
+  "playlists": [
+    "help-from-friends"
+  ],
+  "genres": [
+    "urban",
+    "rap"
+  ],
+  "debut": "1987-08",
+  "artists": {
+    "fat-boys": true,
+    "beach-boys": true
+  },
+  "ascent": [
+    0.2,
+    0.612,
+    0.71,
+    0.76
+  ],
+  "descent-weeks": 10
+}
