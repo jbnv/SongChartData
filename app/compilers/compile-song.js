@@ -43,27 +43,24 @@ function prevalidate(song) {
   song.messages = [];
   var scores = song.scores || [];
 
-  // var maxScoreCount = 20;
-  // if (scores.length > maxScoreCount) {
-  //   song.messages.push({
-  //     type:"warning",
-  //     title:"Excessive Scores",
-  //     text:"Please reduce number of scores to "+maxScoreCount+" or less."
-  //   });
-  // }
-  // var minScore = 0.01;
-  // if (scores.filter(function(s) { return s < minScore; }).length > 0) {
-  //   song.messages.push({
-  //     type:"warning",
-  //     title:"Extremely Low Score(s)",
-  //     text:"One or more scores is less than "+minScore+"."
-  //   });
-  // }
-
 }
 
 // Validation after processing.
 function postvalidate(song) {
+
+  if ((song.genres || []).length == 0) {
+    song.messages.push({
+      type:"warning",
+      title:"Genre Not Set"
+    });
+  }
+
+  if (!song.debut) {
+    song.messages.push({
+      type:"warning",
+      title:"Debut Not Set"
+    });
+  }
 
   // Indicator: The "remake", "remix" or "sample" property is "true."
   if (song.remake && song.remake === true) {
@@ -272,6 +269,16 @@ module.exports = function(yargs,entities) {
   util.log("Song processing complete.");
 
   entities = scoring.sortAndRank(entities);
+
+  entities.forEach(function(song) {
+    if (song.rank && (song.rank <= 100) && !song.complete) {
+      song.messages.push({
+        type:"warning",
+        title:"Incomplete",
+        text:"This song has a high ranking but is not marked as complete. May need a writer and/or producer."
+      });
+    }
+  });
 
   return {
     "all": entities,
