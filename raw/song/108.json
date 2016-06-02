@@ -1,1 +1,23 @@
-{"title":"Jump (for My Love)","instanceSlug":108,"tags":[],"genre":"dance","debut":"1984-05","artists":{"pointer-sisters":true},"scores":[0.213,0.75,0.732,0.719,0.699,0.675,0.65,0.625,0.575,0.4999999999999999,0.3999999999999998,0.2749999999999997,0.12499999999999956,0],"ascent":[0.213,0.75],"descent-weeks":13.45}
+{
+  "title": "Jump (for My Love)",
+  "instanceSlug": 108,
+  "tags": [],
+  "genre": "dance",
+  "debut": "1984-05",
+  "artists": {
+    "pointer-sisters": true,
+    "stephen-mitchell":"writer",
+    "marti-sharron":"writer",
+    "gary-skardina":"writer",
+    "richard-perry":"producer",
+    "anita-pointer":"member",
+    "june-pointer":"member",
+    "ruth-pointer":"member"
+  },
+  "ascent": [
+    0.213,
+    0.75
+  ],
+  "descent-weeks": 13.45,
+  "complete":true
+}

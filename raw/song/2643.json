@@ -1,1 +1,24 @@
-{"title":"Slow Hand","instanceSlug":2643,"tags":[],"genre":"urban","debut":"1981-07","playlists":[],"ranks":[20,11,7.5,5.5,5.65,6.1],"artists":{"pointer-sisters":true},"scores":[0.2,0.3,0.341,0.3424311,0.331,0.3155871,0.31,0.2883621721,0.27191,0.2535782797299624,0.23291,0.211,0.189,0.145,0.08,0.015000000000000013,0],"score":3.4640000000000004,"debutScore":0.075,"peakScore":0.602,"duration":3,"ascent":[0.2,0.3,0.341,0.3424311],"descent-weeks":13.079033936301183}
+{
+  "title": "Slow Hand",
+  "instanceSlug": 2643,
+  "tags": [],
+  "genre": "urban",
+  "debut": "1981-07",
+  "playlists": ["ballad"],
+  "artists": {
+    "pointer-sisters": true,
+    "michael-clark":"writer",
+    "john-bettis":"writer",
+    "richard-perry":"producer",
+    "anita-pointer":"member",
+    "june-pointer":"member",
+    "ruth-pointer":"member"
+  },
+  "ascent": [
+    0.2,
+    0.41,
+    0.61
+  ],
+  "descent-weeks": 9,
+  "complete":true
+}

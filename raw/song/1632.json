@@ -1,1 +1,26 @@
-{"title":"Neutron Dance","instanceSlug":1632,"tags":["dance"],"parents":[],"genre":"dance","debut":"1985-01","source":"beverly-hills-cop","playlists":[],"artists":{"pointer-sisters":true},"scores":[0.1,0.36814218728622783,0.5518858941,0.57396941,0.5455733374548623,0.52184891,0.5,0.47815109,0.43445327,0.36890654,0.2815109,0.17226635,0.04117289000000002,0],"ascent":[0.1,0.36814218728622783,0.5518858941,0.57396941],"descent-weeks":10.238836676300036}
+{
+  "title": "Neutron Dance",
+  "instanceSlug": 1632,
+  "tags": [
+  ],
+  "genre": "dance",
+  "debut": "1985-01",
+  "source": "beverly-hills-cop",
+  "playlists": [],
+  "artists": {
+    "pointer-sisters": true,
+    "allee-willis":"writer",
+    "danny-sembello":"writer",
+    "richard-perry":"producer",
+    "anita-pointer":"member",
+    "june-pointer":"member",
+    "ruth-pointer":"member"
+  },
+  "ascent": [
+    0.368,
+    0.552,
+    0.574
+  ],
+  "descent-weeks": 10.238836676300036,
+  "complete":true
+}

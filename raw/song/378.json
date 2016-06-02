@@ -6,11 +6,18 @@
   "debut": "1985-07",
   "playlists": [],
   "artists": {
-    "pointer-sisters": true
+    "pointer-sisters": true,
+    "sam-lorber":"writer",
+    "dave-innis":"writer",
+    "richard-perry":"producer",
+    "anita-pointer":"member",
+    "june-pointer":"member",
+    "ruth-pointer":"member"
   },
   "ascent": [
     0.5,
-    0.935
+    0.96
   ],
-  "descent-weeks": 18.35294117647058
+  "descent-weeks": 15.3,
+  "complete":true
 }

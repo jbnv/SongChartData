@@ -1,1 +1,24 @@
-{"title":"Any Day Now","instanceSlug":2810,"tags":["#1","#1-adult-contemporary","#1-country"],"parents":[],"genre":"country","debut":"1982-06","playlists":[],"ranks":[],"artists":{"ronnie-milsap":true},"scores":[0.1625,0.41,0.56475,0.61,0.61,0.591,0.561,0.551,0.5355,0.51551,0.491,0.46648999999999996,0.4174699999999999,0.3439399999999998,0.24589999999999967,0.12334999999999952,0],"ascent":[0.1625,0.41,0.56475,0.61],"descent-weeks":14.90695081967213}
+{
+  "title": "Any Day Now",
+  "instanceSlug": 2810,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary",
+    "#1-country"
+  ],
+  "genre": "country",
+  "debut": "1982-06",
+  "playlists": [],
+  "artists": {
+    "ronnie-milsap": true,
+    "burt-bacharach":"writer",
+    "bob-hilliard":"writer",
+    "tom-collins":"producer"
+  },
+  "ascent": [
+    0.41,
+    0.66475,
+    0.81
+  ],
+  "descent-weeks": 15
+}

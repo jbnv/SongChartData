@@ -1,1 +1,21 @@
-{"title":"Slow Hand","instanceSlug":"30Bq","tags":[],"debut":"1980s","playlists":[],"remake":"2643","scores":[0.062,0.2083,0.31295,0.3556,0.35748,0.3446,0.33172,0.30596,0.26732,0.2158,0.15139999999999998,0.07411999999999996,0],"artists":{"conway-twitty":true},"ascent":[0.062,0.2083,0.31295,0.3556,0.35748],"descent-weeks":8.595166163141993}
+{
+  "title": "Slow Hand",
+  "instanceSlug": "30Bq",
+  "tags": ["#1","#1-country"],
+  "debut": "1982-05",
+  "playlists": ["ballad"],
+  "remake": "2643",
+  "artists": {
+    "conway-twitty": true,
+    "pointer-sisters": "remake",
+    "michael-clark":"writer",
+    "john-bettis":"writer",
+    "jimmy-bowen":"producer"
+  },
+  "ascent": [
+    0.41,
+    0.85
+  ],
+  "descent-weeks": 11.5,
+  "complete":true
+}

@@ -1,1 +1,21 @@
-{"title":"I'm So Excited","instanceSlug":430,"tags":[],"parents":[],"genre":"dance","debut":"1984-09","artists":{"pointer-sisters":true},"scores":[0.363,0.9,0.882,0.869,0.849,0.825,0.8,0.774,0.748,0.696,0.6179999999999999,0.5139999999999998,0.3839999999999997,0.22799999999999954,0.045999999999999375,0],"ascent":[0.363,0.9],"descent-weeks":15.221666666666664}
+{
+  "title": "I'm So Excited",
+  "instanceSlug": 430,
+  "tags": [],
+  "genre": "dance",
+  "debut": "1984-09",
+  "artists": {
+    "pointer-sisters": true,
+    "trevor-lawrence":"writer",
+    "anita-pointer":"writer",
+    "june-pointer":"writer",
+    "ruth-pointer":"writer",
+    "richard-perry":"producer"
+  },
+  "ascent": [
+    0.363,
+    1.0
+  ],
+  "descent-weeks": 15.221666666666664,
+  "complete":true
+}

@@ -1,1 +1,24 @@
-{"title":"Automatic","instanceSlug":2645,"tags":[],"genre":"pop","debut":"1984-02","playlists":[],"artists":{"pointer-sisters":true},"note":"Project 6 weeks at #1.","scores":[0.306,1,0.985,0.971,0.952,0.931,0.905,0.881,0.857,0.8089999999999999,0.7369999999999999,0.6409999999999998,0.5209999999999997,0.37699999999999956,0.2089999999999994,0.016999999999999238,0],"ascent":[0.306,1],"descent-weeks":16.189499999999995}
+{
+  "title": "Automatic",
+  "instanceSlug": 2645,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1984-02",
+  "playlists": [],
+  "artists": {
+    "pointer-sisters": true,
+    "brock-walsh":"writer",
+    "mark-goldenberg":"writer",
+    "richard-perry":"producer",
+    "anita-pointer":"member",
+    "june-pointer":"member",
+    "ruth-pointer":"member"
+  },
+  "note": "Project 6 weeks at #1.",
+  "ascent": [
+    0.306,
+    1
+  ],
+  "descent-weeks": 16,
+  "complete":true
+}

@@ -1,1 +1,23 @@
-{"title":"He's So Shy","instanceSlug":997,"tags":[],"genre":"soul","debut":"1980-09","playlists":[],"artists":{"pointer-sisters":true},"scores":[0.463,1,0.982,0.969,0.949,0.925,0.9,0.874,0.848,0.7959999999999999,0.7179999999999999,0.6139999999999998,0.48399999999999965,0.3279999999999995,0.14599999999999935,0],"ascent":[0.463,1],"descent-weeks":15.799499999999997}
+{
+  "title": "He's So Shy",
+  "instanceSlug": 997,
+  "tags": [],
+  "genre": "soul",
+  "debut": "1980-09",
+  "playlists": [],
+  "artists": {
+    "pointer-sisters": true,
+    "tom-snow":"writer",
+    "cynthia-weil":"writer",
+    "richard-perry":"producer",
+    "anita-pointer":"member",
+    "june-pointer":"member",
+    "ruth-pointer":"member"
+  },
+  "ascent": [
+    0.463,
+    1
+  ],
+  "descent-weeks": 15.8,
+  "complete":true
+}

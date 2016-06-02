@@ -1,1 +1,20 @@
-{"title":"Typical Male","instanceSlug":282,"tags":[],"parents":[],"genre":"pop","debut":"1986-09","playlists":[],"artists":{"tina-turner":true},"scores":[0.292,1,0.967,0.964,0.959,0.946,0.931,0.916,0.878,0.84,0.7639999999999999,0.6499999999999998,0.49799999999999967,0.3079999999999995,0.0799999999999993,0],"ascent":[0.292,1],"descent-weeks":16.0515}
+{
+  "title": "Typical Male",
+  "instanceSlug": 282,
+  "tags": [],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1986-09",
+  "playlists": [],
+  "artists": {
+    "tina-turner": true,
+    "terry-britten":"writer" ,
+    "graham-lyle":"writer"
+  },
+  "ascent": [
+    0.292,
+    1
+  ],
+  "descent-weeks": 16,
+  "complete":true
+}
