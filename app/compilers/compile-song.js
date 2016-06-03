@@ -146,7 +146,8 @@ module.exports = function(yargs,entities) {
 
   });
 
-  var averagePeak = peaks.sum()/peaks.length;
+  var peaksSum = peaks.sum()
+  var averagePeak = peaksSum/(2*peaks.length-peaksSum);
   var averageAscent = ascents.sum()/ascents.length;
   var averageDescent = descents.sum()/descents.length;
 
