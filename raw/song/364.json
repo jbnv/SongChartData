@@ -1,1 +1,26 @@
-{"title":"Man in the Mirror","instanceSlug":364,"tags":[],"source":"bad","genre":"soul","debut":"1988-02","playlists":["choir"],"artists":{"michael-jackson":true,"siedah-garrett":"writer","winans":"backup","andrae-crouch-choir":"backup","glen-ballard":"writer","quincy-jones":"producer"},"scores":[0.1,0.41,0.72861,0.7137961,0.65837479271,0.6515276631,0.6381,0.618,0.5979,0.5577,0.49739999999999995,0.4169999999999999,0.3164999999999999,0.19589999999999985,0.055199999999999805,0],"ascent":[0.1,0.41,0.72861],"descent-weeks":13.682234437785645}
+{
+  "title": "Man in the Mirror",
+  "instanceSlug": 364,
+  "tags": [],
+  "source": "bad",
+  "genre": "soul",
+  "debut": "1988-02",
+  "playlists": [
+    "choir"
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "siedah-garrett": "writer",
+    "winans": "backup",
+    "andrae-crouch-choir": "backup",
+    "glen-ballard": "writer",
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.1,
+    0.41,
+    0.65
+  ],
+  "descent-weeks": 9,
+  "complete":true
+}

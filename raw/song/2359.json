@@ -1,1 +1,26 @@
-{"title":"Centipede","instanceSlug":2359,"tags":[],"genres":["urban","soul","funk","dance"],"debut":"1984-12","playlists":["animals","pph"],"artists":{"rebbie-jackson":true,"michael-jackson":"writer","weather-girls":"backup"},"scores":[0.6,0.85,0.88,0.91,0.85,0.77,0.765,0.7497,0.7191000000000001,0.6732,0.612,0.5355,0.4437,0.33659999999999995,0.21419999999999992,0.07649999999999987,0],"ascent":[0.6,0.85,0.88,0.91],"descent-weeks":12.618956043956047}
+{
+  "title": "Centipede",
+  "instanceSlug": 2359,
+  "tags": [],
+  "genres": [
+    "urban",
+    "soul",
+    "funk",
+    "dance"
+  ],
+  "debut": "1984-12",
+  "playlists": [
+    "animals",
+    "pph"
+  ],
+  "artists": {
+    "rebbie-jackson": true,
+    "michael-jackson": "writer",
+    "weather-girls": "backup"
+  },
+  "ascent": [
+    0.6,
+    1
+  ],
+  "descent-weeks": 14.6,"complete":true
+}

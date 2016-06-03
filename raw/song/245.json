@@ -1,1 +1,23 @@
-{"title":"Smooth Criminal","instanceSlug":245,"tags":[],"source":"bad","playlists":["crime","pph"],"genre":"dance-pop","debut":"1988-11","artists":{"michael-jackson":true,"quincy-jones":"producer"},"note":"8 weeks at #1.","scores":[0.3,1,0.973,0.951,0.924,0.869,0.844,0.819,0.784,0.7490000000000001,0.6790000000000003,0.5740000000000005,0.43400000000000083,0.25900000000000123,0.04900000000000171,0],"ascent":[0.3,1],"descent-weeks":14.862000000000005}
+{
+  "title": "Smooth Criminal",
+  "instanceSlug": 245,
+  "tags": ["#1"],
+  "source": "bad",
+  "playlists": [
+    "crime",
+    "pph","remade"
+  ],
+  "genre": "dance-pop",
+  "debut": "1988-11",
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones": "producer"
+  },
+  "note": "8 weeks at #1.",
+  "ascent": [
+    0.6,
+    1
+  ],
+  "descent-weeks": 15,
+  "complete":true
+}

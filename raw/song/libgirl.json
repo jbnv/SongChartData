@@ -1,1 +1,20 @@
-{"title":"Liberian Girl","instanceSlug":"libgirl","tags":[],"genre":"pop","debut":1983,"source":"thriller","playlists":[],"artists":{"michael-jackson":true,"quincy-jones":"producer"},"scores":[0.1,0.2,0.3,0.4,0.45,0.42,0.38999999999999996,0.3299999999999999,0.23999999999999982,0.11999999999999972,0],"ascent":[0.1,0.2,0.3,0.4,0.45],"descent-weeks":6.4999999999999964}
+{
+  "title": "Liberian Girl",
+  "instanceSlug": "libgirl",
+  "tags": [],
+  "genre": "pop",
+  "debut": "1989-07",
+  "source": "thriller",
+  "playlists": [],
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.2,
+    0.4,
+    0.45
+  ],
+  "descent-weeks": 6.5,
+  "complete":true
+}

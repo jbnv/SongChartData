@@ -1,1 +1,22 @@
-{"title":"Smooth Criminal","instanceSlug":2099,"tags":["#1","remake"],"genre":"hard-rock","debut":"2001-10","playlists":[],"artists":{"alien-ant-farm":true,"michael-jackson":"writer"},"scores":[0.1,0.232,0.328,0.463,0.437,0.411,0.35899999999999993,0.28099999999999986,0.17699999999999977,0.04699999999999965,0],"ascent":[0.1,0.232,0.328,0.463],"descent-weeks":7.04643628509719}
+{
+  "title": "Smooth Criminal",
+  "instanceSlug": 2099,
+  "tags": [
+    "#1"
+  ],
+  "remake":"245",
+  "genre": "hard-rock",
+  "debut": "2001-10",
+  "playlists": [],
+  "artists": {
+    "alien-ant-farm": true,
+    "michael-jackson": "writer"
+  },
+  "ascent": [
+    0.1,
+    0.232,
+    0.328,
+    0.463
+  ],
+  "descent-weeks": 7
+}

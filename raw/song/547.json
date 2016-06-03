@@ -1,1 +1,21 @@
-{"title":"Another Part of Me","instanceSlug":547,"tags":[],"source":"bad","genre":"dance-pop","debut":"1988-08","playlists":["summer"],"artists":{"michael-jackson":true,"quincy-jones":"producer"},"scores":[0.18,0.96,0.9512,0.932176,0.894128,0.837056,0.76096,0.66584,0.551696,0.41852799999999996,0.2663359999999999,0.09511999999999987,0],"ascent":[0.18,0.96],"descent-weeks":11.457875}
+{
+  "title": "Another Part of Me",
+  "instanceSlug": 547,
+  "tags": [],
+  "source": "bad",
+  "genre": "dance-pop",
+  "debut": "1988-08",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.18,
+    0.96
+  ],
+  "descent-weeks": 12,
+  "complete":true
+}
