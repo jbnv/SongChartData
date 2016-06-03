@@ -187,6 +187,7 @@ module.exports = function(yargs,entities) {
     entity.ranks = {};
     titles[entity.instanceSlug] = entity.title;
 
+    entity.unscored = !entity["peak"];
     entity["peak"] = entity["peak"] || averagePeak;
     entity["ascent-weeks"] = entity["ascent-weeks"] || averageAscent;
     entity["descent-weeks"] = entity["descent-weeks"] || averageDescent;
