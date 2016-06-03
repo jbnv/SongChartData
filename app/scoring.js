@@ -38,31 +38,17 @@ exports.score = function(song,scoringOptions) {
 
 	if (!scoringOptions) { scoringOptions = {}; }
 
-  // Assume that all scores are in the range {0,1].
-	// Scores are projected from the final two scores.
+  if (!song.peak)  { return; }
+  song.peak = parseFloat(song.peak);
 
-  var ascent = song.ascent || [];
-  var descentWeeks = song["descent-weeks"];
-  song.score = null;
-	if (!song.ascent)  { song.ascent = null; return; }
-  if (!Array.isArray(song.ascent)) { song.ascent = null; return; }
-  if (song.ascent.length == 0)  { song.ascent = null; return; }
+  var ascentWeeks = song["ascent-weeks"] || 0;
+  var descentWeeks = song["descent-weeks"] || 0;
 
-	song.debutScore = parseFloat(song.ascent[0]);
-
-  song.peakScore = song.ascent.reduce(function(prev,cur) {
-    return !prev || prev < cur ? cur : prev;
-  },null);
-
-  song.scores = song.ascent.normalize(descentWeeks);
+  song.score = (2/3) * song.peak * (ascentWeeks+descentWeeks);
 
 	song.duration = Math.ceil(
-    ((song.ascent || []).length - 1 + (song["descent-weeks"] || 0)) * 7 / 30.4375
+    (ascentWeeks+descentWeeks) * 7 / 30.4375
   );
-
-	// Calculate score from point scores.
-	song.score = 0;
-  song.scores.forEach(function(s) { song.score += s; });
 
 	return song;
 }
