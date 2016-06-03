@@ -1,1 +1,22 @@
-{"title":"Wanna Be Startin' Something","instanceSlug":2357,"tags":[],"source":"thriller","genre":"dance-pop","debut":"1983-06","playlists":["pph"],"artists":{"michael-jackson":true,"quincy-jones":"producer"},"scores":[0.12,0.232,0.3,0.4,0.376,0.352,0.30399999999999994,0.23199999999999987,0.1359999999999998,0.01599999999999968,0],"ascent":[0.12,0.232,0.3,0.4],"descent-weeks":6.809999999999996}
+{
+  "title": "Wanna Be Startin' Something",
+  "instanceSlug": 2357,
+  "tags": [],
+  "source": "thriller",
+  "genre": "dance-pop",
+  "debut": "1983-06",
+  "playlists": [
+    "pph","summer"
+  ],
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.12,
+    0.332,
+    0.4
+  ],
+  "descent-weeks": 6.8,
+  "complete":true
+}

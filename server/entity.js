@@ -2,7 +2,19 @@ var functions = require("./functions"),
     meta = require("../app/meta"),
     scoring = require("../app/scoring");
 
-module.exports = function(parameters,app) {
+/*
+options: {
+  functions : {
+    transform: function for transforming an entity;
+    plural
+  }
+}
+*/
+
+module.exports = function(parameters,app,options) {
+
+  options = options || {};
+  options.functions = options.functions || {};
 
   var slugs = {};
   slugs.singularSlug = parameters.singular || parameters;
@@ -50,7 +62,10 @@ module.exports = function(parameters,app) {
 
   var itemExpression = "^\\/"+slugs.singularSlug+"\\/([A-Za-z0-9-]+)$";
 
-  app.get(new RegExp(itemExpression), functions.getOne(slugs));
+  app.get(
+    new RegExp(itemExpression),
+    functions.getOne(slugs,null,options.functions.transform)
+  );
 
   //TODO PUT route - create item
 

@@ -1,1 +1,25 @@
-{"title":"In the Closet","instanceSlug":1089,"tags":["#1","#1-r&b"],"source":"dangerous","genres":["new-jack-swing"],"debut":"1992-05","playlists":[],"artists":{"michael-jackson":true,"teddy-riley":"writer"},"scores":[0.232,0.402,0.506,0.521,0.498,0.45,0.402,0.30600000000000005,0.1620000000000001,0],"ascent":[0.232,0.402,0.506,0.521],"descent-weeks":6.734165067178502}
+{
+  "title": "In the Closet",
+  "instanceSlug": 1089,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "source": "dangerous",
+  "genres": [
+    "new-jack-swing"
+  ],
+  "debut": "1992-05",
+  "playlists": [],
+  "artists": {
+    "michael-jackson": true,
+    "teddy-riley": "writer"
+  },
+  "ascent": [
+    0.232,
+    0.402,
+    0.506,
+    0.521
+  ],
+  "descent-weeks": 6.75,"complete":true
+}

@@ -11,11 +11,23 @@ module.exports = function(app) {
     return meta.getCompiledCollection("artist")();
   }
 
-  var slugs = require("./entity")("artist",app);
-
   function _artist(slug) {
-    return meta.getCompiledObject("artist",slug)();
+    return _transform(meta.getCompiledObject("artist",slug)());
   }
+
+  function _transform(artist) {
+    var expandSongFn = require("../app/expanders/song");
+    artist.songs = artist.songs.map(expandSongFn);
+    return artist;
+  }
+
+  var options = {
+    functions: {
+      transform: _transform
+    }
+  };
+
+  var slugs = require("./entity")("artist",app,options);
 
   app.get(/^\/artist\/(.+)\/songs$/, function(req, res) {
     console.log("GET /artist",req.params[0],"songs");

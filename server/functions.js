@@ -1,7 +1,7 @@
 var meta = require("../app/meta"),
     scoring = require("../app/scoring");
 
-exports.getOne = function(slugs,filterFn) {
+exports.getOne = function(slugs,filterFn,transformFn) {
 
   return function(req, res) {
     console.log("GET "+req.originalUrl);
@@ -9,6 +9,9 @@ exports.getOne = function(slugs,filterFn) {
     content = meta.getCompiledObject(slugs.storageSlug,itemSlug)();
     if (filterFn) {
       content = content.filter(filterFn);
+    }
+    if (transformFn) {
+      content = transformFn(content);
     }
     res.send(content);
   };

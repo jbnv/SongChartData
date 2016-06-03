@@ -1,1 +1,21 @@
-{"title":"Baby Be Mine","instanceSlug":773,"tags":[],"genre":"pop","debut":1983,"source":"thriller","playlists":[],"artists":{"michael-jackson":true,"quincy-jones":"producer"},"scores":[0.311,0.592,0.78,0.92,0.88,0.84,0.7599999999999999,0.6399999999999998,0.47999999999999965,0.27999999999999947,0.03999999999999926,0],"ascent":[0.311,0.592,0.78,0.92],"descent-weeks":7.891304347826083}
+{
+  "title": "Baby Be Mine",
+  "instanceSlug": 773,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1983,
+  "source": "thriller",
+  "playlists": [],
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.311,
+    0.592,
+    0.78,
+    0.92
+  ],
+  "descent-weeks": 7.9,
+  "complete":true
+}

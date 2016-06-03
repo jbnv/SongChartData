@@ -1,1 +1,26 @@
-{"title":"Human Nature","instanceSlug":610,"playlists":["pph"],"source":"thriller","genre":"soul","debut":"1983-08","artists":{"michael-jackson":true,"steve-porcaro":"writer","john-bettis":"writer","quincy-jones":"producer"},"scores":[0.132,0.323,0.521,0.694,0.715,0.73,0.7,0.6699999999999999,0.6099999999999999,0.5199999999999998,0.3999999999999997,0.24999999999999956,0.0699999999999994,0],"ascent":[0.132,0.323,0.521,0.694,0.715,0.73],"descent-weeks":8.11643835616438}
+{
+  "title": "Human Nature",
+  "instanceSlug": 610,
+  "playlists": [
+    "pph"
+  ],
+  "source": "thriller",
+  "genre": "soul",
+  "debut": "1983-08",
+  "artists": {
+    "michael-jackson": true,
+    "steve-porcaro": "writer",
+    "john-bettis": "writer",
+    "quincy-jones": "producer"
+  },
+  "ascent": [
+    0.132,
+    0.323,
+    0.521,
+    0.694,
+    0.715,
+    0.73
+  ],
+  "descent-weeks": 8,
+  "complete":true
+}
