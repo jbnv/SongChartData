@@ -43,6 +43,30 @@ function prevalidate(song) {
   song.messages = [];
   var scores = song.scores || [];
 
+  if (!song.peak) {
+    song.messages.push({
+      type:"warning",
+      title:"Peak Not Set",
+      text:"Peak set dynamically based on average of all scored songs."
+    });
+  }
+
+  if (!song["ascent-weeks"]) {
+    song.messages.push({
+      type:"warning",
+      title:"Ascent Not Set",
+      text:"Ascent set dynamically based on average of all scored songs."
+    });
+  }
+
+  if (!song["descent-weeks"]) {
+    song.messages.push({
+      type:"warning",
+      title:"Descent Not Set",
+      text:"Descent set dynamically based on average of all scored songs."
+    });
+  }
+
 }
 
 // Validation after processing.
