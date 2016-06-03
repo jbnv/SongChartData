@@ -1,1 +1,11 @@
-{"title":"Ironic","instanceSlug":34,"tags":[],"artists":{"alanis-morrisette":true},"scores":[0.01,0.005,0],"ascent":[0.01],"descent-weeks":2.25}
+{
+  "title": "Ironic",
+  "instanceSlug": 34,
+  "tags": [],
+  "artists": {
+    "alanis-morrisette": true
+  },
+  "descent-weeks":0.001,
+  "ascent-weeks": 0.001,
+  "peak": 0.001
+}

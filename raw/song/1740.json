@@ -1,18 +1,1 @@
-{
-  "title": "A Love Bizarre",
-  "instanceSlug": 1740,
-  "tags": [],
-  "genre": "dance",
-  "debut": "1986-01",
-  "playlists": [],
-  "artists": {
-    "sheila-e": true,
-    "prince": "writer"
-  },
-  "ascent": [
-    0.267,
-    0.477,
-    0.537
-  ],
-  "descent-weeks": 8.480446927374297
-}
+{"title":"A Love Bizarre","instanceSlug":1740,"tags":[],"genre":"dance","debut":"1986-01","playlists":[],"artists":{"sheila-e":true,"prince":"writer"},"ascent":[0.267,0.477,0.537],"descent-weeks":8.480446927374297,"ascent-weeks":3.5782122905027935,"peak":0.537}

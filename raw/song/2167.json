@@ -1,17 +1,1 @@
-{
-  "title": "I Don't Care Anymore",
-  "instanceSlug": 2167,
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": "1983-04",
-  "playlists": [],
-  "artists": {
-    "phil-collins": true
-  },
-  "ascent": [
-    0.097,
-    0.132
-  ],
-  "descent-weeks": 3.9
-}
+{"title":"I Don't Care Anymore","instanceSlug":2167,"tags":[],"parents":[],"genre":"pop","debut":"1983-04","playlists":[],"artists":{"phil-collins":true},"ascent":[0.097,0.132],"descent-weeks":3.9,"ascent-weeks":2.6022727272727275,"peak":0.132}

@@ -1,16 +1,1 @@
-{
-  "title": "Cheerleader",
-  "instanceSlug": 3051,
-  "tags": [],
-  "genre": "pop",
-  "debut": "2015-07",
-  "playlists": [],
-  "artists": {
-    "omi": true
-  },
-  "ascent": [
-    0.267,
-    1
-  ],
-  "descent-weeks": 9
-}
+{"title":"Cheerleader","instanceSlug":3051,"tags":[],"genre":"pop","debut":"2015-07","playlists":[],"artists":{"omi":true},"ascent":[0.267,1],"descent-weeks":9,"ascent-weeks":1.9004999999999999,"peak":1}

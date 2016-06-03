@@ -1,18 +1,1 @@
-{
-  "title": "Moving On Up",
-  "instanceSlug": 1592,
-  "tags": [],
-  "genre": "dance",
-  "debut": "1993-12",
-  "playlists": [],
-  "artists": {
-    "m-people": true
-  },
-  "ascent": [
-    0.239,
-    0.356,
-    0.431,
-    0.463
-  ],
-  "descent-weeks": 6.49244060475162
-}
+{"title":"Moving On Up","instanceSlug":1592,"tags":[],"genre":"dance","debut":"1993-12","playlists":[],"artists":{"m-people":true},"ascent":[0.239,0.356,0.431,0.463],"descent-weeks":6.49244060475162,"ascent-weeks":4.823974082073434,"peak":0.463}

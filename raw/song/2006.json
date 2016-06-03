@@ -1,17 +1,1 @@
-{
-  "title": "After Midnight",
-  "instanceSlug": 2006,
-  "tags": [],
-  "parents": [],
-  "genre": "blues",
-  "debut": 1970,
-  "playlists": [],
-  "artists": {
-    "eric-clapton": true
-  },
-  "ascent": [
-    0.14,
-    0.78
-  ],
-  "descent-weeks": 9.5
-}
+{"title":"After Midnight","instanceSlug":2006,"tags":[],"parents":[],"genre":"blues","debut":1970,"playlists":[],"artists":{"eric-clapton":true},"ascent":[0.14,0.78],"descent-weeks":9.5,"ascent-weeks":1.7692307692307694,"peak":0.78}

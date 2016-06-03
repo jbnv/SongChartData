@@ -1,1 +1,20 @@
-{"title":"Burning Love","instanceSlug":1699,"tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"ranks":[],"artists":{"elvis-presley":true},"scores":[0.117,0.39,0.622,0.757,0.767,0.755,0.7399,0.7097,0.6644,0.604,0.5285,0.43789999999999996,0.33219999999999994,0.21139999999999992,0.07549999999999993,0],"ascent":[0.117,0.39,0.622,0.757,0.767],"descent-weeks":11.392764015645371}
+{
+  "title": "Burning Love",
+  "instanceSlug": 1699,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [],
+  "artists": {
+    "elvis-presley": true
+  },
+  "ascent": [
+    0.35,
+    0.55,
+    0.75,
+    0.78
+  ],
+  "descent-weeks": 8.5,
+  "ascent-weeks": 4.6730769230769225,
+  "peak": 0.78
+}

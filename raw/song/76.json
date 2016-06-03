@@ -1,18 +1,1 @@
-{
-  "title": "Mr. Roboto",
-  "instanceSlug": 76,
-  "tags": [
-    "technophobia"
-  ],
-  "genre": "rock",
-  "debut": "1983-02",
-  "artists": {
-    "styx": true,
-    "dennis-deyoung": "lead"
-  },
-  "ascent": [
-    0.249,
-    0.939
-  ],
-  "descent-weeks": 15
-}
+{"title":"Mr. Roboto","instanceSlug":76,"tags":["technophobia"],"genre":"rock","debut":"1983-02","artists":{"styx":true,"dennis-deyoung":"lead"},"ascent":[0.249,0.939],"descent-weeks":15,"ascent-weeks":1.8977635782747606,"peak":0.939}

@@ -1,16 +1,1 @@
-{
-  "title": "I Live By the Groove",
-  "instanceSlug": 1336,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1989-11",
-  "playlists": [],
-  "artists": {
-    "paul-carrack": true
-  },
-  "ascent": [
-    0.7,
-    1
-  ],
-  "descent-weeks": 15
-}
+{"title":"I Live By the Groove","instanceSlug":1336,"tags":[],"genre":"pop","debut":"1989-11","playlists":[],"artists":{"paul-carrack":true},"ascent":[0.7,1],"descent-weeks":15,"ascent-weeks":2.55,"peak":1}

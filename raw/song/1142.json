@@ -1,18 +1,1 @@
-{
-  "title": "Round and Round",
-  "instanceSlug": 1142,
-  "tags": [],
-  "genre": "pop",
-  "debut": 1991,
-  "playlists": [],
-  "artists": {
-    "tevin-campbell": true,
-    "prince": "writer"
-  },
-  "ascent": [
-    0.267,
-    0.546,
-    0.792
-  ],
-  "descent-weeks": 12
-}
+{"title":"Round and Round","instanceSlug":1142,"tags":[],"genre":"pop","debut":1991,"playlists":[],"artists":{"tevin-campbell":true,"prince":"writer"},"ascent":[0.267,0.546,0.792],"descent-weeks":12,"ascent-weeks":3.0397727272727266,"peak":0.792}

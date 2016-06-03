@@ -1,17 +1,1 @@
-{
-  "title": "Stay With Me Tonight",
-  "instanceSlug": "6kPQ",
-  "tags": [],
-  "genre": "soul",
-  "debut": "1983-12",
-  "playlists": [],
-  "artists": {
-    "jeffrey-osbourne": true
-  },
-  "ascent": [
-    0.4,
-    0.65,
-    0.8
-  ],
-  "descent-weeks": 10.5
-}
+{"title":"Stay With Me Tonight","instanceSlug":"6kPQ","tags":[],"genre":"soul","debut":"1983-12","playlists":[],"artists":{"jeffrey-osbourne":true},"ascent":[0.4,0.65,0.8],"descent-weeks":10.5,"ascent-weeks":3.4687500000000004,"peak":0.8}

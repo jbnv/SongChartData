@@ -1,18 +1,1 @@
-{
-  "title": "What's On Your Mind",
-  "instanceSlug": 1305,
-  "tags": [
-  ],
-  "genre": "pop",
-  "debut": "1988-09",
-  "playlists": [],
-  "artists": {
-    "information-society": true
-  },
-  "ascent": [
-    0.232,
-    0.328,
-    0.463
-  ],
-  "descent-weeks": 7
-}
+{"title":"What's On Your Mind","instanceSlug":1305,"tags":[],"genre":"pop","debut":"1988-09","playlists":[],"artists":{"information-society":true},"ascent":[0.232,0.328,0.463],"descent-weeks":7,"ascent-weeks":3.3142548596112316,"peak":0.463}

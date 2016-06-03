@@ -1,17 +1,1 @@
-{
-  "title": "Have You Ever?",
-  "instanceSlug": "dX9x",
-  "tags": [],
-  "debut": 1998,
-  "playlists": [],
-  "artists": {
-    "brandy": true,
-    "diane-warren": "writer"
-  },
-  "ascent": [
-    0.1,
-    0.379311,
-    0.65837479271
-  ],
-  "descent-weeks": 12.577594711440453
-}
+{"title":"Have You Ever?","instanceSlug":"dX9x","tags":[],"debut":1998,"playlists":[],"artists":{"brandy":true,"diane-warren":"writer"},"ascent":[0.1,0.379311,0.65837479271],"descent-weeks":12.577594711440453,"ascent-weeks":2.592032240542796,"peak":0.65837479271}
