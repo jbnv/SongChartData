@@ -125,6 +125,32 @@ module.exports = function(yargs,entities) {
     playlistDefs[filenameTrunc] = playlist;
   });
 
+  var peaks = [];
+  var ascents = [];
+  var descents = [];
+
+  // Aggregation pass.
+  entities.forEach(function(song) {
+
+    if (song["peak"]) {
+      peaks.push(song["peak"]);
+    }
+
+    if (song["ascent-weeks"]) {
+      ascents.push(song["ascent-weeks"]);
+    }
+
+    if (song["descent-weeks"]) {
+      descents.push(song["descent-weeks"]);
+    }
+
+  });
+
+  var averagePeak = peaks.sum()/peaks.length;
+  var averageAscent = ascents.sum()/ascents.length;
+  var averageDescent = descents.sum()/descents.length;
+
+  // Processing pass.
   entities.forEach(function(entity) {
     if (entity.error) { errors.push(entity); return; }
 
@@ -135,6 +161,10 @@ module.exports = function(yargs,entities) {
 
     entity.ranks = {};
     titles[entity.instanceSlug] = entity.title;
+
+    entity["peak"] = entity["peak"] || averagePeak;
+    entity["ascent-weeks"] = entity["ascent-weeks"] || averageAscent;
+    entity["descent-weeks"] = entity["descent-weeks"] || averageDescent;
 
     scoring.score(entity);
 
