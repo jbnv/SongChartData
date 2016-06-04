@@ -265,8 +265,6 @@ module.exports = function(yargs,entities) {
       }
     }
 
-    if ((entity.scores || []).length == 0) unscored.push(entity);
-
     numeral.zeroFormat("");
 
     // Check against playlist rules.
@@ -327,6 +325,7 @@ module.exports = function(yargs,entities) {
   entities = scoring.sortAndRank(entities);
 
   entities.forEach(function(song) {
+
     if (song.rank && (song.rank <= 100) && !song.complete) {
       song.messages.push({
         type:"warning",
