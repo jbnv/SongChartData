@@ -74,18 +74,22 @@ function swap(pair) {
   var entityA = read(a);
   var entityB = read(b);
 
-  var statsA = entityA.ascent.stats();
-  var statsB = entityB.ascent.stats();
+  // Strategy: Keep the peaks and ascent; scale the descents to swap the scores.
 
-  var scoreA = entityA.ascent.score(entityA["descent-weeks"]);
-  var scoreB = entityB.ascent.score(entityB["descent-weeks"]);
+  var ascentA = entityA["ascent-weeks"] || 1;
+  var ascentB = entityB["ascent-weeks"] || 1;
 
-  // Here's where the swap takes place. Swap total scores.
-  entityA["descent-weeks"] = (3/2)*(scoreB-statsA.sum)/(statsA.peakValue || 1);
-  entityB["descent-weeks"] = (3/2)*(scoreA-statsB.sum)/(statsB.peakValue || 1);
+  var descentA = entityA["descent-weeks"] || 1;
+  var descentB = entityB["descent-weeks"] || 1;
 
-  if (entityA["descent-weeks"] < 1) entityA["descent-weeks"] = 1;
-  if (entityB["descent-weeks"] < 1) entityB["descent-weeks"] = 1;
+  var scoreA = entityA.peak * (ascentA + descentA);
+  var scoreB = entityB.peak * (ascentB + descentB);
+
+  entityA["descent-weeks"] = scoreB / entityA.peak - ascentA;
+  entityB["descent-weeks"] = scoreA / entityB.peak - ascentB;
+
+  if (entityA["descent-weeks"] < 1)  entityA["descent-weeks"] = 1;
+  if (entityB["descent-weeks"] < 1)  entityB["descent-weeks"] = 1;
 
   write(a,entityA);
   write(b,entityB);
