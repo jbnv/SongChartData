@@ -67,6 +67,14 @@ function prevalidate(song) {
     });
   }
 
+  if (!song.complete && song["descent-weeks"] > 13) {
+    song.messages.push({
+      type:"warning",
+      title:"Long Descent",
+      text:"Descent longer than 13 weeks. Adjust or confirm."
+    });
+  }
+
 }
 
 // Validation after processing.
