@@ -1,6 +1,6 @@
 {
   "title": "Levon",
-  "instanceSlug": 2398,
+  "instanceSlug": "levon",
   "tags": [],
   "genre": "pop",
   "debut": 1971,
@@ -9,5 +9,8 @@
     "elton-john": true,
     "bernie-taupin":"writer",
     "gus-dudgeon":"producer"
-  }
+  },
+  "descent-weeks": 2,
+  "ascent-weeks": 4,
+  "peak": 0.15
 }
