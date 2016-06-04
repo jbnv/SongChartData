@@ -34,6 +34,27 @@ module.exports = function(yargs,entities) {
     entity.songs = scoring.sortAndRank(entitySongs);
     scoring.scoreCollection.call(entity);
 
+    var collaborators = {};
+    entity.songs.forEach(function(song) {
+      var songEntity = lookupEntity(song.instanceSlug,"song");
+      Object.keys(songEntity.artists || {}).forEach(function(artistSlug) {
+        if (artistSlug == slug) return;
+        if (!collaborators[artistSlug]) collaborators[artistSlug] = [];
+        collaborators[artistSlug].push(song);
+      });
+    });
+    entity.collaborators = [];
+    Object.keys(collaborators).forEach(function(artistSlug) {
+      var artistEntity = lookupEntity(artistSlug,"artist") || {};
+      var outbound = {
+        slug: artistSlug,
+        title: artistEntity.title || "MISSING '"+artistSlug+"'",
+        songCount: collaborators[artistSlug].length,
+        score: collaborators[artistSlug].scoreAdjustedAverage()
+      };
+      entity.collaborators.push(outbound);
+    });
+
     titles[entity.instanceSlug] = entity.title;
 
     if (entity.tags) {
