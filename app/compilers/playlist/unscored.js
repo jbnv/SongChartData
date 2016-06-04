@@ -1,3 +1,3 @@
 exports.match = function(song) {
-  return song.unscored;
+  return !song.peak || !song["ascent-weeks"] || !song["descent-weeks"];
 }
