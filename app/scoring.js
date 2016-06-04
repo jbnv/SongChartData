@@ -7,13 +7,6 @@ function round000(n) {
   return Math.round(parseFloat(n)*1000)/1000;
 }
 
-function _adjustedAverage(score,count) {
-  if (!count || count < 1) return null;
-  return score / Math.sqrt(count);
-}
-
-exports.adjustedAverage = _adjustedAverage;
-
 function _sortAndRank(list,sortFn) {
   if (!list) return [];
   var outbound = list.sort(sortFn || transform.sortByScore);
@@ -56,36 +49,14 @@ exports.score = function(song,scoringOptions) {
 // this: song collection
 exports.scoreCollection = function() {
 
-  var score = 0.0;
-  if (this.songs) {
-    this.songs.forEach(function(song) {
-      if (song.score) {
-        try {
-  			  score += parseFloat(song.score);
-        } catch(error) {
-        }
-  		}
-    });
-  } else if (this.artists) {
-    this.artists.forEach(function(artist) {
-      if (artist.score) {
-        try {
-  			  score += parseFloat(artist.score);
-        } catch(error) {
-        }
-  		}
-    });
-  }
-  this.score = score;
-
   if (this.songs) {
     this.songCount = this.songs.length;
-    this.songAdjustedAverage = _adjustedAverage(this.score, this.songs.length);
+    this.songAdjustedAverage = this.songs.scoreAdjustedAverage();
   }
 
   if (this.artists) {
     this.artistCount = this.artists.length;
-    this.artistAdjustedAverage = _adjustedAverage(this.score, this.artists.length);
+    this.artistAdjustedAverage = this.artists.scoreAdjustedAverage();
   }
 
 }
