@@ -334,6 +334,30 @@ module.exports = function(yargs,entities) {
         text:"This song has a high ranking but is not marked as complete. May need a writer and/or producer."
       });
     }
+
+    var debutType = (song.debutEra || {}).type || "";
+
+    if (
+      song.rank && (song.rank <= 100)
+      && (!/^((month)|(day))$/.test(debutType))
+    ) {
+      song.messages.push({
+        type:"warning",
+        title:"Debut Granularity",
+        text:"Please make the debut more specific."
+      });
+    } else if (
+      song.rank && (song.rank <= 1000)
+      && (!/^((year)|(month)|(day))$/.test(debutType))
+    ) {
+      song.messages.push({
+        type:"warning",
+        title:"Debut Granularity",
+        text:"Please make the debut more specific."
+      });
+    }
+
+
   });
 
   return {
