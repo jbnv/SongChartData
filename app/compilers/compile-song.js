@@ -203,6 +203,7 @@ module.exports = function(yargs,entities) {
     scoring.score(entity);
 
     if (entity.genre && !entity.genres) { entity.genres = [entity.genre]; }
+    if (entity.genres && !Array.isArray(entity.genres)) { entity.genres = [entity.genres]; }
     if (entity.playlist && !entity.playlists) { entity.playlists = [entity.playlist]; }
     if (!entity.playlists) entity.playlists = [];
     if (entity.source && !entity.sources) { entity.sources = [entity.source]; }
@@ -227,6 +228,7 @@ module.exports = function(yargs,entities) {
           case "remix": entityClone.scoreFactor = 0.25; break;
           default: entityClone.scoreFactor = 0.25;
         }
+        entityClone.totalScore = entityClone.score;
         if (entityClone.score) entityClone.score *= entityClone.scoreFactor;
         artists[artistSlug].push(entityClone);
       }
