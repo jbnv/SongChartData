@@ -1,0 +1,21 @@
+{
+  "title": "Can You Feel the Love Tonight",
+  "instanceSlug": "ej7",
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genre": "adult-contemporary",
+  "debut": "1994-06",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "elton-john": true,
+    "tim-rice": "writer",
+    "chris-thomas": "producer"
+  },
+  "descent-weeks": 5,
+  "ascent-weeks": 4,
+  "peak": 0.34
+}

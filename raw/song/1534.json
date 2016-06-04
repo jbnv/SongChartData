@@ -1,1 +1,20 @@
-{"title":"Take My Heart (You Can Have It If You Want It)","instanceSlug":1534,"tags":["#1","#1-r&b"],"genre":"soul","debut":"1981-11","playlists":["pph"],"artists":{"koolnthegang":true},"scores":[0.355,0.65,0.77,0.8,0.81,0.82,0.79,0.7600000000000001,0.7000000000000003,0.6100000000000005,0.4900000000000009,0.3400000000000013,0.1600000000000018,0],"ascent":[0.355,0.65,0.77,0.8,0.81,0.82],"descent-weeks":8.542682926829277,"ascent-weeks":7.692073170731708,"peak":0.82}
+{
+  "title": "Take My Heart (You Can Have It If You Want It)",
+  "instanceSlug": 1534,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "genre": "soul",
+  "debut": "1981-11",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "koolnthegang": true,
+    "kool": "member"
+  },
+  "descent-weeks": 8.542682926829277,
+  "ascent-weeks": 7.7,
+  "peak": 0.82
+}

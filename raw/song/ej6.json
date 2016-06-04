@@ -1,0 +1,14 @@
+{
+  "title": "True Love",
+  "instanceSlug": "ej6",
+  "tags": [],
+  "genre": "pop",
+  "debut": "1994",
+  "playlists": [],
+  "artists": {
+    "elton-john": true,
+    "kiki-dee": true,
+    "cole=porter": "writer",
+    "chris-thomas": "producer"
+  }
+}

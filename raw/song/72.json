@@ -1,1 +1,15 @@
-{"title":"Time (Clock of the Heart)","instanceSlug":72,"tags":[],"genre":"pop","debut":1983,"ranks":[13.9,3.7,1.4,1.47],"artists":{"culture-club":true},"scores":[0.122,0.563,0.887,0.871,0.85358,0.81874,0.76648,0.6968000000000001,0.6097000000000001,0.5051800000000001,0.38324,0.24388,0.08710000000000001,0],"ascent":[0.122,0.563,0.887],"descent-weeks":11.368714768883878,"ascent-weeks":2.6583990980834273,"peak":0.887}
+{
+  "title": "Time (Clock of the Heart)",
+  "instanceSlug": 72,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1983-05",
+  "playlists":["summer"],
+  "artists": {
+    "culture-club": true,
+    "boy-george":"lead"
+  },
+  "peak": 0.94,
+  "ascent-weeks": 2.7,
+  "descent-weeks": 11.5
+}

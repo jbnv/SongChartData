@@ -1,1 +1,24 @@
-{"title":"Celebration","instanceSlug":765,"tags":["#1","#1-hot-100","#1-r&b"],"genres":["dance","urban"],"debut":"1980-12","playlists":["pph"],"artists":{"koolnthegang":true},"ascent":[0.687,0.965],"descent-weeks":14,"ascent-weeks":2.567875647668394,"peak":0.965}
+{
+  "title": "Celebration",
+  "instanceSlug": 765,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "genres": [
+    "dance",
+    "urban"
+  ],
+  "debut": "1980-12",
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "koolnthegang": true,
+    "kool": "member"
+  },
+  "descent-weeks": 14,
+  "ascent-weeks": 2.6,
+  "peak": 0.965
+}

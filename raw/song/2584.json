@@ -12,13 +12,7 @@
     "elvis-presley": true,
     "jerry-reed": "backup"
   },
-  "ascent": [
-    0.37,
-    0.6,
-    0.837,
-    0.88
-  ],
-  "descent-weeks": 9.5,
-  "ascent-weeks": 4.580113636363636,
-  "peak": 0.88
+  "peak": 0.88,
+  "ascent-weeks": 4.6,
+  "descent-weeks": 9.5
 }

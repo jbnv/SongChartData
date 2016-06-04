@@ -1,1 +1,21 @@
-{"title":"I Don't Wanna Go On With You Like That","instanceSlug":2415,"tags":["#1","#1-adult-contemporary"],"genre":"pop","debut":"1988-07","playlists":["summer"],"artists":{"elton-john":true},"scores":[0.4,0.66,0.705,0.737,0.768,0.729,0.69,0.6119999999999999,0.4949999999999998,0.33899999999999963,0.14399999999999946,0],"ascent":[0.4,0.66,0.705,0.737,0.768],"descent-weeks":7.3769531249999964,"ascent-weeks":6.386718750000002,"peak":0.768}
+{
+  "title": "I Don't Wanna Go On With You Like That",
+  "instanceSlug": 2415,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genre": "pop",
+  "debut": "1988-07",
+  "playlists": [
+    "summer"
+  ],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "chris-thomas":"producer"
+  },
+  "descent-weeks": 13,
+  "ascent-weeks": 2,
+  "peak": 0.768
+}

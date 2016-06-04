@@ -1,1 +1,19 @@
-{"title":"Lucy in the Sky with Diamonds","instanceSlug":2406,"tags":[],"genre":"rock","debut":"1960s","playlists":[],"artists":{"beatles":true,"john-lennon":"lead","paul-mccartney":"member","george-harrison":"member","ringo-starr":"member"},"scores":[0.1,0.171,0.232,0.2,0.12,0.03999999999999998,0],"ascent":[0.1,0.171,0.232],"descent-weeks":3.827586206896552,"ascent-weeks":3.2521551724137927,"peak":0.232}
+{
+  "title": "Lucy in the Sky with Diamonds",
+  "instanceSlug": 2406,
+  "tags": [],
+  "genre": "psychedelic-rock",
+  "debut": "1967",
+  "playlists": [],
+  "artists": {
+    "beatles": true,
+    "john-lennon": "lead",
+    "paul-mccartney": "writer",
+    "george-harrison": "member",
+    "ringo-starr": "member",
+"george-martin":"producer"
+  },
+  "descent-weeks": 3.827586206896552,
+  "ascent-weeks": 3.2521551724137927,
+  "peak": 0.232
+}

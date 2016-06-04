@@ -1,1 +1,23 @@
-{"title":"Lucy in the Sky with Diamonds","instanceSlug":2405,"tags":["#1","#1-hot-100","remake"],"genre":"pop","debut":1975,"playlists":[],"ranks":[],"artists":{"elton-john":true,"john-lennon":"writer"},"scores":[0.08,0.24,0.42,0.44,0.46,0.44,0.42,0.37999999999999995,0.3199999999999999,0.23999999999999982,0.13999999999999974,0.01999999999999963,0],"ascent":[0.08,0.24,0.42,0.44,0.46],"descent-weeks":7.891304347826083,"ascent-weeks":5.3478260869565215,"peak":0.46}
+{
+  "title": "Lucy in the Sky with Diamonds",
+  "instanceSlug": 2405,
+  "tags": [
+    "#1",
+    "#1-hot-100"
+  ],
+  "remake":"2406",
+  "genre": "psychedelic-rock",
+  "debut": 1975,
+  "playlists": [],
+  "ranks": [],
+  "artists": {
+    "elton-john": true,
+    "beatles":"remake",
+    "john-lennon": "writer",
+    "paul-mccartney": "writer",
+    "gus-dudgeon":"producer"
+  },
+  "descent-weeks": 7.9,
+  "ascent-weeks": 5.35,
+  "peak": 0.46
+}

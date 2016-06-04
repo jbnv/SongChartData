@@ -1,0 +1,13 @@
+{
+  "title": "Step into Christmas",
+  "instanceSlug": "stepintoxmas",
+  "tags": [],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": ["xmas"],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "gus-dudgeon":"producer"
+  }
+}

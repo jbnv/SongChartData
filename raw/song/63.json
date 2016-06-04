@@ -1,1 +1,19 @@
-{"title":"PYT","instanceSlug":63,"playlists":["pph"],"genre":"soul","debut":"1983-11","source":"thriller","artists":{"michael-jackson":true,"quincy-jones":"writer","james-ingram":"writer"},"ascent":[0.552,1],"descent-weeks":13,"complete":true,"ascent-weeks":2.3280000000000003,"peak":1}
+{
+  "title": "PYT",
+  "instanceSlug": 63,
+  "playlists": [
+    "pph"
+  ],
+  "genre": "soul",
+  "debut": "1983-11",
+  "source": "thriller",
+  "artists": {
+    "michael-jackson": true,
+    "quincy-jones": "writer",
+    "james-ingram": "writer"
+  },
+  "complete": true,
+  "peak": 0.91,
+  "ascent-weeks": 1.9,
+  "descent-weeks": 13
+}

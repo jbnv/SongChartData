@@ -1,1 +1,19 @@
-{"title":"Mama Can't Buy You Love","instanceSlug":1664,"tags":["#1","#1-adult-contemporary"],"genre":"pop","debut":"1979-07","artists":{"elton-john":true,"spinners":"backup"},"scores":[0.171,0.351,0.498,0.633,0.708,0.768,0.722,0.6759999999999999,0.5839999999999999,0.44599999999999973,0.26199999999999957,0.03199999999999936,0],"ascent":[0.171,0.351,0.498,0.633,0.708,0.768],"descent-weeks":6.8164062499999964,"ascent-weeks":6.111328124999999,"peak":0.768}
+{
+  "title": "Mama Can't Buy You Love",
+  "instanceSlug": 1664,
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genre": "soul",
+  "debut": "1979-07",
+  "artists": {
+    "elton-john": true,
+    "spinners": "backup",
+    "leroy-bell":"writer",
+    "casey-james":"writer"
+  },
+  "descent-weeks": 6.8164062499999964,
+  "ascent-weeks": 6.111328124999999,
+  "peak": 0.768
+}

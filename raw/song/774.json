@@ -1,1 +1,19 @@
-{"title":"Notorious","instanceSlug":774,"tags":["#2","#2-hot-100"],"parents":[],"genre":"pop","debut":"1986-12","playlists":[],"artists":{"duran-duran":true,"simon-lebon":"lead"},"scores":[0.2,0.386,0.577,0.722,0.702,0.6819999999999999,0.6419999999999999,0.5819999999999999,0.5019999999999998,0.4019999999999997,0.2819999999999996,0.14199999999999946,0],"ascent":[0.2,0.386,0.577,0.722],"descent-weeks":9.677285318559552,"ascent-weeks":3.9162049861495847,"peak":0.722}
+{
+  "title": "Notorious",
+  "instanceSlug": 774,
+  "tags": [
+    "#2",
+    "#2-hot-100"
+  ],
+  "parents": [],
+  "genre": "pop",
+  "debut": "1986-12",
+  "playlists": [],
+  "artists": {
+    "duran-duran": true,
+    "simon-lebon": "lead"
+  },
+  "peak": 0.81,
+  "ascent-weeks": 2.6,
+  "descent-weeks": 10.5
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Simple Life",
+  "instanceSlug": "ej5",
+  "tags": [
+    "#1",
+    "#1-adult-contemporary"
+  ],
+  "genre": "pop",
+  "debut": "1993-04",
+  "playlists": [],
+  "artists": {
+    "elton-john": true,    "bernie-taupin":"writer"
+,    "chris-thomas":"producer"
+
+  },
+  "peak": 0.85,
+  "ascent-weeks": 3,
+  "descent-weeks": 10
+}

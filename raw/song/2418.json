@@ -1,1 +1,16 @@
-{"title":"Sacrifice","instanceSlug":2418,"tags":[],"genre":"pop","debut":"1990-02","playlists":[],"artists":{"elton-john":true},"scores":[0.07,0.33826377883430175,0.4658,0.48,0.478,0.462,0.44600000000000006,0.41400000000000015,0.36600000000000027,0.30200000000000043,0.22200000000000064,0.1260000000000009,0.014000000000001178,0],"ascent":[0.07,0.33826377883430175,0.4658,0.48],"descent-weeks":10.34375000000001,"ascent-weeks":4.231449308857193,"peak":0.48}
+{
+  "title": "Sacrifice",
+  "instanceSlug": 2418,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1990-02",
+  "playlists": [],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "chris-thomas":"producer"
+  },
+  "descent-weeks": 7,
+  "ascent-weeks": 4.23,
+  "peak": 0.48
+}

@@ -1,1 +1,23 @@
-{"title":"Don't Let the Sun Go Down on Me","instanceSlug":1510,"tags":["don't-let","go-down","#1","#1-hot-100","#1-adult-contemporary"],"remake":true,"genre":"adult-contemporary","debut":"1991-12","playlists":["live"],"artists":{"george-michael":true,"elton-john":"feature"},"scores":[0.21,0.41,0.43,0.437,0.42,0.40299999999999997,0.36899999999999994,0.3179999999999999,0.24999999999999983,0.16499999999999976,0.06299999999999967,0],"ascent":[0.21,0.41,0.43,0.437],"descent-weeks":8.323798627002285,"ascent-weeks":5.104118993135012,"peak":0.437}
+{
+  "title": "Don't Let the Sun Go Down on Me",
+  "instanceSlug": 1510,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-adult-contemporary"
+  ],
+  "remake": "1510a",
+  "genre": "adult-contemporary",
+  "debut": "1991-12",
+  "playlists": [
+    "live"
+  ],
+  "artists": {
+    "george-michael": true,
+    "elton-john": "writer",
+    "bernie-taupin":"writer"
+  },
+  "descent-weeks": 8.323798627002285,
+  "ascent-weeks": 5.104118993135012,
+  "peak": 0.437
+}

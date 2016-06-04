@@ -10,10 +10,10 @@
   "genres": [
     "pop"
   ],
-  "members": [],
+  "xref": ["bernie-taupin","gus-dudgeon","chris-thomas"],
   "complete": {"performer":true,"writer":false},
   "origin": "uk",
-  "birth": "",
+  "birth": "1947-03",
   "death": "",
   "type": "m"
 }

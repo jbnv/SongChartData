@@ -1,0 +1,13 @@
+{
+  "title": "Goodbye Yellow Brick Road",
+  "instanceSlug": "gybrej",
+  "tags": [],
+  "genre": "pop",
+  "debut": 1973,
+  "playlists": [],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "gus-dudgeon":"producer"
+  }
+}

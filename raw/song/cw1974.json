@@ -1,0 +1,13 @@
+{
+  "title": "Candle in the Wind (1974)",
+  "instanceSlug": "cw1974",
+  "tags": [],
+  "genre": "pop",
+  "debut": 1974,
+  "playlists": ["tribute"],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "gus-dudgeon":"producer"
+  }
+}

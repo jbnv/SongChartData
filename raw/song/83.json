@@ -1,1 +1,24 @@
-{"title":"Beat It","instanceSlug":83,"tags":["#1","#1-hot-100","#1-r&b"],"playlists":["pph"],"source":"thriller","genre":"pop","debut":"1983-04","artists":{"michael-jackson":true,"eddie-van-halen":"backup","quincy-jones":"producer"},"ascent":[0.582,0.925],"descent-weeks":9.6,"complete":true,"ascent-weeks":2.443783783783784,"peak":0.925}
+{
+  "title": "Beat It",
+  "instanceSlug": 83,
+  "tags": [
+    "#1",
+    "#1-hot-100",
+    "#1-r&b"
+  ],
+  "playlists": [
+    "pph"
+  ],
+  "source": "thriller",
+  "genre": "pop",
+  "debut": "1983-04",
+  "artists": {
+    "michael-jackson": true,
+    "eddie-van-halen": "backup",
+    "quincy-jones": "producer"
+  },
+  "complete": true,
+  "peak": 0.925,
+  "ascent-weeks": 2.44,
+  "descent-weeks": 9.6
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Pinball Wizard",
+  "instanceSlug": "2157ej",
+  "remake": 2157,
+  "tags": [],
+  "genre": "glam-rock",
+  "debut": "1974",
+  "playlists": [],
+  "artists": {
+    "elton-john": true,
+    "gus-dudgeon":"producer",
+    "who": "remake",
+    "pete-townsend":"writer"
+  },
+  "descent-weeks": 6.27653631284916,
+  "ascent-weeks": 3.6871508379888267,
+  "peak": 0.537
+}

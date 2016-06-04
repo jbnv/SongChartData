@@ -1,0 +1,13 @@
+{
+  "title": "Levon",
+  "instanceSlug": 2398,
+  "tags": [],
+  "genre": "pop",
+  "debut": 1971,
+  "playlists": [],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "gus-dudgeon":"producer"
+  }
+}

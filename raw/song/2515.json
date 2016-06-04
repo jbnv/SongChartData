@@ -1,1 +1,19 @@
-{"title":"Jungle Boogie","instanceSlug":2515,"tags":[],"genres":["funk"],"debut":1974,"playlists":["pph"],"artists":{"koolnthegang":true},"scores":[0.125571,0.382142,0.484857,0.477857,0.467,0.4561430000000001,0.4344290000000002,0.4018580000000003,0.3584300000000005,0.3041450000000008,0.23900300000000108,0.16300400000000143,0.07614800000000183,0],"ascent":[0.125571,0.382142,0.484857],"descent-weeks":11.950556555850508,"ascent-weeks":3.070709508164263,"peak":0.484857}
+{
+  "title": "Jungle Boogie",
+  "instanceSlug": 2515,
+  "tags": [],
+  "genres": [
+    "funk"
+  ],
+  "debut": 1974,
+  "playlists": [
+    "pph"
+  ],
+  "artists": {
+    "koolnthegang": true,
+    "kool": "member"
+  },
+  "peak": 0.484857,
+  "ascent-weeks": 3,
+  "descent-weeks": 11.95
+}

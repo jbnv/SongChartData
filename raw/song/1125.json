@@ -1,1 +1,16 @@
-{"title":"Candle in the Wind (1987)","instanceSlug":1125,"tags":["candle","this-in-that","wind"],"parents":[],"genre":"pop","debut":"1987-12","playlists":[],"ranks":[22,18,16,14,13,14.4,16],"artists":{"elton-john":true},"scores":[0.036,0.075,0.12,0.145,0.11,0.075,0.039999999999999994,0],"ascent":[0.036,0.075,0.12,0.145],"descent-weeks":3.827586206896552,"ascent-weeks":3.8896551724137938,"peak":0.145}
+{
+  "title": "Candle in the Wind (1987)",
+  "instanceSlug": 1125,
+  "tags": [
+  ],
+  "genre": "pop",
+  "debut": "1987-12",
+  "playlists": ["tribute"],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer"
+  },
+  "descent-weeks": 3.8,
+  "ascent-weeks": 3.9,
+  "peak": 0.145
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Tiny Dancer",
+  "instanceSlug": "tinydancer",
+  "tags": [],
+  "genre": "pop",
+  "debut": 1972,
+  "playlists": [],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "gus-dudgeon":"producer"
+  }
+}

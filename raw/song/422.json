@@ -1,1 +1,19 @@
-{"title":"Fresh","instanceSlug":422,"tags":["#1","#1-r&b"],"parents":[],"genre":"soul","debut":"1985-05","playlists":[],"ranks":[17,8.6,10.3],"artists":{"koolnthegang":true},"scores":[0.055,0.282,0.222,0.16200000000000003,0.04200000000000009,0],"ascent":[0.055,0.282],"descent-weeks":3.7659574468085117,"ascent-weeks":1.7925531914893618,"peak":0.282}
+{
+  "title": "Fresh",
+  "instanceSlug": 422,
+  "tags": [
+    "#1",
+    "#1-r&b"
+  ],
+  "parents": [],
+  "genre": "soul",
+  "debut": "1985-05",
+  "playlists": [],
+  "artists": {
+    "koolnthegang": true,
+    "kool": "member"
+  },
+  "peak": 0.45,
+  "descent-weeks": 3.7659574468085117,
+  "ascent-weeks":7
+}

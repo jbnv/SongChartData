@@ -1,1 +1,15 @@
-{"title":"Is There Something I Should Know","instanceSlug":359,"tags":[],"genre":"pop","debut":"1983-07","playlists":[],"artists":{"duran-duran":true,"simon-lebon":"lead"},"scores":[0.311,0.968,0.961,0.952,0.939,0.921,0.90258,0.8657400000000001,0.8104800000000001,0.7368000000000001,0.6447,0.53418,0.40523999999999993,0.2578799999999999,0.09209999999999988,0],"ascent":[0.311,0.968],"descent-weeks":15.481456611570247,"ascent-weeks":1.9819214876033058,"peak":0.968}
+{
+  "title": "Is There Something I Should Know",
+  "instanceSlug": 359,
+  "tags": [],
+  "genre": "pop",
+  "debut": "1983-07",
+  "playlists": [],
+  "artists": {
+    "duran-duran": true,
+    "simon-lebon": "lead"
+  },
+  "peak": 0.968,
+  "ascent-weeks": 2,
+  "descent-weeks": 15.5
+}

@@ -1,1 +1,15 @@
-{"title":"Family Man","instanceSlug":763,"tags":[],"parents":[],"genre":"rock","debut":"1983-05","playlists":[],"ranks":[13.7,1.7,1.4,1.57,1.91],"artists":{"hall-oates":true},"scores":[0.437,0.9,0.877,0.844,0.809,0.769,0.729,0.6489999999999999,0.5289999999999998,0.36899999999999966,0.16899999999999948,0],"ascent":[0.437,0.9],"descent-weeks":11.073333333333332,"ascent-weeks":2.2283333333333335,"peak":0.9}
+{
+  "title": "Family Man",
+  "instanceSlug": 763,
+  "tags": [],
+  "parents": [],
+  "genre": "rock",
+  "debut": "1983-05",
+  "playlists": [],
+  "artists": {
+    "hall-oates": true
+  },
+  "peak": 0.95,
+  "ascent-weeks": 2.5,
+  "descent-weeks":12.5
+}

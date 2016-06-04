@@ -1,0 +1,15 @@
+{
+  "title": "Empty Garden (Hey Hey Johnny)",
+  "instanceSlug": "ej3",
+  "tags": [
+  ],
+  "genre": "rock",
+  "debut": "1982-04",
+  "playlists": ["ballad"
+  ],
+  "artists": {
+    "elton-john": true,
+    "bernie-taupin":"writer",
+    "chris-thomas":"producer"
+  }
+}
