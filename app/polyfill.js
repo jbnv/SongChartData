@@ -13,6 +13,20 @@ if (!Array.prototype.any) {
   }
 }
 
+if (!Array.prototype.adjustedAverage) {
+  Array.prototype.adjustedAverage = function() {
+    if (this.length == 0) return null;
+    return (this.sum()/Math.sqrt(this.length));
+  }
+}
+
+if (!Array.prototype.scoreAdjustedAverage) {
+  Array.prototype.scoreAdjustedAverage = function() {
+    if (this.length == 0) return null;
+    return this.map(function(e) { return e.score; }).adjustedAverage();
+  }
+}
+
 if (!Array.prototype.contains) {
   Array.prototype.contains = function(item) {
     for (i in this) {
