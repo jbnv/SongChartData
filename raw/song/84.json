@@ -1,14 +1,1 @@
-{
-  "title": "The Wild Boys",
-  "instanceSlug": 84,
-  "tags": [],
-  "genre": "rock",
-  "debut": "1984-11",
-  "artists": {
-    "duran-duran": true,
-    "simon-lebon": "lead"
-  },
-  "peak": 0.4,
-  "ascent-weeks": 4,
-  "descent-weeks": 5
-}
+{"title":"The Wild Boys","instanceSlug":84,"tags":[],"genre":"rock","debut":"1984-11","artists":{"duran-duran":true,"simon-lebon":"lead"},"peak":0.4,"ascent-weeks":4,"descent-weeks":0.6666666666666666}

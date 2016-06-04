@@ -1,18 +1,1 @@
-{
-  "title": "Don't Let the Sun Go Down on Me",
-  "instanceSlug": "1510a",
-  "tags": [
-  ],
-  "genre": "soft-rock",
-  "debut": "1974-06",
-  "playlists": [
-  ],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "descent-weeks": 8.323798627002285,
-  "ascent-weeks": 5.1,
-  "peak": 0.437
-}
+{"title":"Don't Let the Sun Go Down on Me","instanceSlug":"1510a","tags":[],"genre":"soft-rock","debut":"1974-06","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"descent-weeks":1.8084839816933627,"ascent-weeks":5.1,"peak":0.437}

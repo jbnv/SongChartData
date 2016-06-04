@@ -1,18 +1,1 @@
-{
-  "title": "Emergency",
-  "instanceSlug": 1379,
-  "tags": [],
-  "genre": "funk",
-  "debut": "1985-12",
-  "playlists": [
-    "pph"
-  ],
-  "ranks": [],
-  "artists": {
-    "koolnthegang": true,
-    "kool": "member"
-  },
-  "descent-weeks": 9,
-  "ascent-weeks": 4,
-  "peak": 0.56
-}
+{"title":"Emergency","instanceSlug":1379,"tags":[],"genre":"funk","debut":"1985-12","playlists":["pph"],"ranks":[],"artists":{"koolnthegang":true,"kool":"member"},"descent-weeks":2.4266666666666667,"ascent-weeks":4,"peak":0.56}

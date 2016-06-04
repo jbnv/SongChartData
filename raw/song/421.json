@@ -1,17 +1,1 @@
-{
-  "title": "Cherish",
-  "instanceSlug": 421,
-  "tags": [],
-  "parents": [],
-  "genre": "soul",
-  "debut": "1985-08",
-  "playlists": [],
-  "ranks": [],
-  "artists": {
-    "koolnthegang": true,
-    "kool": "member"
-  },
-  "descent-weeks": 12.84,
-  "ascent-weeks": 3,
-  "peak": 0.4848571428571429
-}
+{"title":"Cherish","instanceSlug":421,"tags":[],"parents":[],"genre":"soul","debut":"1985-08","playlists":[],"ranks":[],"artists":{"koolnthegang":true,"kool":"member"},"descent-weeks":3.6523318857142857,"ascent-weeks":3,"peak":0.4848571428571429}

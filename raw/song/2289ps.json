@@ -1,15 +1,1 @@
-{
-  "title": "Major Tom (Coming Home)",
-  "instanceSlug": "2289ps",
-  "tags": [],
-  "genre": "pop",
-  "debut": "1983-12",
-  "playlists": ["space"],
-  "artists": {
-    "peter-schilling":true,
-    "david-bowie": "inspiration"
-  },
-  "peak": 0.66,
-  "ascent-weeks": 4.1,
-  "descent-weeks": 12.1
-}
+{"title":"Major Tom (Coming Home)","instanceSlug":"2289ps","tags":[],"genre":"pop","debut":"1983-12","playlists":["space"],"artists":{"peter-schilling":true,"david-bowie":"inspiration"},"peak":0.66,"ascent-weeks":4.1,"descent-weeks":4.7916}

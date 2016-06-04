@@ -1,18 +1,1 @@
-{
-  "title": "Guitar Man",
-  "instanceSlug": 2584,
-  "tags": [
-    "#1",
-    "#1-country"
-  ],
-  "genre": "rock",
-  "debut": "1981-03",
-  "playlists": [],
-  "artists": {
-    "elvis-presley": true,
-    "jerry-reed": "backup"
-  },
-  "peak": 0.88,
-  "ascent-weeks": 4.6,
-  "descent-weeks": 9.5
-}
+{"title":"Guitar Man","instanceSlug":2584,"tags":["#1","#1-country"],"genre":"rock","debut":"1981-03","playlists":[],"artists":{"elvis-presley":true,"jerry-reed":"backup"},"peak":0.88,"ascent-weeks":4.6,"descent-weeks":4.365777777777778}

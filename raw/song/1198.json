@@ -1,17 +1,1 @@
-{
-  "title": "Too Much Information",
-  "instanceSlug": 1198,
-  "tags": [
-    "too-much"
-  ],
-  "genre": "pop",
-  "debut": "1993-10",
-  "playlists": [],
-  "artists": {
-    "duran-duran": true,
-    "simon-lebon": "lead"
-  },
-  "peak": 0.25,
-  "ascent-weeks": 2.5,
-  "descent-weeks": 4
-}
+{"title":"Too Much Information","instanceSlug":1198,"tags":["too-much"],"genre":"pop","debut":"1993-10","playlists":[],"artists":{"duran-duran":true,"simon-lebon":"lead"},"peak":0.25,"ascent-weeks":2.5,"descent-weeks":0.24074074074074073}

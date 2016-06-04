@@ -1,18 +1,1 @@
-{
-  "title": "Wrap Her Up",
-  "instanceSlug": 1381,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1985-11",
-  "ranks": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "davey-johnstone":"writer",
-    "gus-dudgeon":"producer",
-    "george-michael": "backup"
-  },
-  "descent-weeks": 11.3752,
-  "ascent-weeks": 4.428,
-  "peak": 0.69
-}
+{"title":"Wrap Her Up","instanceSlug":1381,"tags":[],"genre":"pop","debut":"1985-11","ranks":[],"artists":{"elton-john":true,"bernie-taupin":"writer","davey-johnstone":"writer","gus-dudgeon":"producer","george-michael":"backup"},"descent-weeks":4.593983216355555,"ascent-weeks":4.428,"peak":0.69}

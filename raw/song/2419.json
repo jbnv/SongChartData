@@ -1,18 +1,1 @@
-{
-  "title": "Club at the End of the Street",
-  "instanceSlug": 2419,
-  "tags": [],
-  "genre": "pop-rock",
-  "debut": "1990-06",
-  "playlists": [
-    "summer"
-  ],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "chris-thomas":"producer"
-  },
-  "descent-weeks": 13,
-  "ascent-weeks": 2.21524201853759,
-  "peak": 0.971
-}
+{"title":"Club at the End of the Street","instanceSlug":2419,"tags":[],"genre":"pop-rock","debut":"1990-06","playlists":["summer"],"artists":{"elton-john":true,"bernie-taupin":"writer","chris-thomas":"producer"},"descent-weeks":7.113407407407408,"ascent-weeks":2.21524201853759,"peak":0.971}

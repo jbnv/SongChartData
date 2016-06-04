@@ -1,17 +1,1 @@
-{
-  "title": "Fly Like an Eagle",
-  "instanceSlug": 1898,
-  "tags": [],
-  "genre": "urban",
-  "sources":["space-jam"],
-  "debut": "1997-02",
-  "playlists": [],
-  "remake": 1899,
-  "artists": {
-    "seal": true,
-    "steve-miller-band":"writer"
-  },
-  "peak": 0.622,
-  "ascent-weeks": 4,
-  "descent-weeks": 8.5
-}
+{"title":"Fly Like an Eagle","instanceSlug":1898,"tags":[],"genre":"urban","sources":["space-jam"],"debut":"1997-02","playlists":[],"remake":1899,"artists":{"seal":true,"steve-miller-band":"writer"},"peak":0.622,"ascent-weeks":4,"descent-weeks":2.447685185185185}

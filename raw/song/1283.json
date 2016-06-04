@@ -1,17 +1,1 @@
-{
-  "title": "I'm Still Standing",
-  "instanceSlug": 1283,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1983-06",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "chris-thomas":"producer"
-  },
-  "note": "Project 4 weeks at #1.",
-  "peak": 0.983,
-  "ascent-weeks": 2,
-  "descent-weeks":13.6
-}
+{"title":"I'm Still Standing","instanceSlug":1283,"tags":[],"genre":"pop","debut":"1983-06","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","chris-thomas":"producer"},"note":"Project 4 weeks at #1.","peak":0.983,"ascent-weeks":2,"descent-weeks":7.724195555555555}

@@ -1,15 +1,1 @@
-{
-  "title": "Time (Clock of the Heart)",
-  "instanceSlug": 72,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1983-05",
-  "playlists":["summer"],
-  "artists": {
-    "culture-club": true,
-    "boy-george":"lead"
-  },
-  "peak": 0.94,
-  "ascent-weeks": 2.7,
-  "descent-weeks": 11.5
-}
+{"title":"Time (Clock of the Heart)","instanceSlug":72,"tags":[],"genre":"pop","debut":"1983-05","playlists":["summer"],"artists":{"culture-club":true,"boy-george":"lead"},"peak":0.94,"ascent-weeks":2.7,"descent-weeks":5.685259259259259}

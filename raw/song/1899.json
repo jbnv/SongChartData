@@ -1,17 +1,1 @@
-{
-  "title": "Fly Like an Eagle",
-  "instanceSlug": 1899,
-  "tags": [
-  ],
-  "genres": ["rock"],
-  "debut": "1976-12",
-  "playlists": [ "space",   "remade"
-],
-  "artists": {
-    "steve-miller-band": true
-  },
-  "complete":true,
-  "peak": 0.65,
-  "ascent-weeks": 4,
-  "descent-weeks": 12
-}
+{"title":"Fly Like an Eagle","instanceSlug":1899,"tags":[],"genres":["rock"],"debut":"1976-12","playlists":["space","remade"],"artists":{"steve-miller-band":true},"complete":true,"peak":0.65,"ascent-weeks":4,"descent-weeks":4.622222222222222}

@@ -1,17 +1,1 @@
-{
-  "title": "Baby Jane",
-  "instanceSlug": "26aQ",
-  "tags": [],
-  "parents": [],
-  "genre": "rock",
-  "debut": "1983-06",
-  "playlists": [
-    "summer"
-  ],
-  "artists": {
-    "rod-stewart": true
-  },
-  "peak": 0.85,
-  "ascent-weeks": 2.75,
-  "descent-weeks": 11.25
-}
+{"title":"Baby Jane","instanceSlug":"26aQ","tags":[],"parents":[],"genre":"rock","debut":"1983-06","playlists":["summer"],"artists":{"rod-stewart":true},"peak":0.85,"ascent-weeks":2.75,"descent-weeks":4.958333333333334}

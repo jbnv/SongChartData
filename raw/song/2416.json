@@ -1,16 +1,1 @@
-{
-  "title": "A Word in Spanish",
-  "instanceSlug": 2416,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1988-11",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "chris-thomas":"producer"
-  },
-  "descent-weeks": 7,
-  "ascent-weeks": 4.2,
-  "peak": 0.48
-}
+{"title":"A Word in Spanish","instanceSlug":2416,"tags":[],"genre":"pop","debut":"1988-11","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","chris-thomas":"producer"},"descent-weeks":1.3937777777777776,"ascent-weeks":4.2,"peak":0.48}

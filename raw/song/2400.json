@@ -1,16 +1,1 @@
-{
-  "title": "Honky Cat",
-  "instanceSlug": "2400",
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": 1972,
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer"
-  },
-  "descent-weeks": 12,
-  "ascent-weeks": 4.3,
-  "peak": 0.61
-}
+{"title":"Honky Cat","instanceSlug":"2400","tags":[],"parents":[],"genre":"pop","debut":1972,"playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer"},"descent-weeks":4.4191111111111105,"ascent-weeks":4.3,"peak":0.61}

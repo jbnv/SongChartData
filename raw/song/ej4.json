@@ -1,16 +1,1 @@
-{
-  "title": "Who Wears These Shoes?",
-  "instanceSlug": "ej4",
-  "tags": [],
-  "genre": "pop",
-  "debut": "1984-10",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "chris-thomas":"producer"
-  },
-  "descent-weeks": 11.362822349570202,
-  "ascent-weeks": 4,
-  "peak": 0.698
-}
+{"title":"Who Wears These Shoes?","instanceSlug":"ej4","tags":[],"genre":"pop","debut":"1984-10","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","chris-thomas":"producer"},"descent-weeks":4.512829065186247,"ascent-weeks":4,"peak":0.698}

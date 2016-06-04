@@ -1,14 +1,1 @@
-{
-  "title": "Space Oddity",
-  "instanceSlug": 2289,
-  "tags": [],
-  "genre": "rock",
-  "debut": 1973,
-  "playlists": ["space"],
-  "artists": {
-    "david-bowie": true
-  },
-  "peak": 0.42,
-  "ascent-weeks": 4.5,
-  "descent-weeks": 7
-}
+{"title":"Space Oddity","instanceSlug":2289,"tags":[],"genre":"rock","debut":1973,"playlists":["space"],"artists":{"david-bowie":true},"peak":0.42,"ascent-weeks":4.5,"descent-weeks":1.2522222222222221}

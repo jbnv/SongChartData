@@ -1,18 +1,1 @@
-{
-  "title": "Saturday Night's Alright for Fighting",
-  "instanceSlug": 2403,
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": 1973,
-  "playlists": [],
-  "ranks": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "descent-weeks": 9.69773095623987,
-  "ascent-weeks": 3,
-  "peak": 0.617
-}
+{"title":"Saturday Night's Alright for Fighting","instanceSlug":2403,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"descent-weeks":2.813958265802269,"ascent-weeks":3,"peak":0.617}

@@ -1,17 +1,1 @@
-{
-  "title": "Nikita",
-  "instanceSlug": 2414,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1986-02",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer",
-    "george-michael": "backup"
-  },
-  "descent-weeks": 7,
-  "ascent-weeks": 4.2,
-  "peak": 0.5
-}
+{"title":"Nikita","instanceSlug":2414,"tags":[],"genre":"pop","debut":"1986-02","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer","george-michael":"backup"},"descent-weeks":1.4518518518518517,"ascent-weeks":4.2,"peak":0.5}

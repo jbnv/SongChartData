@@ -1,17 +1,1 @@
-{
-  "title": "Come Undone",
-  "instanceSlug": 886,
-  "tags": [],
-  "genre": "rock",
-  "debut": "1993-05",
-  "playlists": [
-    "summer"
-  ],
-  "artists": {
-    "duran-duran": true,
-    "simon-lebon": "lead"
-  },
-  "peak": 0.85,
-  "ascent-weeks": 3,
-  "descent-weeks": 13.25
-}
+{"title":"Come Undone","instanceSlug":886,"tags":[],"genre":"rock","debut":"1993-05","playlists":["summer"],"artists":{"duran-duran":true,"simon-lebon":"lead"},"peak":0.85,"ascent-weeks":3,"descent-weeks":6.778356481481482}

@@ -1,15 +1,1 @@
-{
-  "title": "New Moon on Monday",
-  "instanceSlug": 2449,
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": "1984-02",
-  "playlists": [],
-  "artists": {
-    "duran-duran": true
-  },
-  "peak": 0.835,
-  "ascent-weeks": 2.75,
-  "descent-weeks": 11
-}
+{"title":"New Moon on Monday","instanceSlug":2449,"tags":[],"parents":[],"genre":"pop","debut":"1984-02","playlists":[],"artists":{"duran-duran":true},"peak":0.835,"ascent-weeks":2.75,"descent-weeks":4.677546296296296}

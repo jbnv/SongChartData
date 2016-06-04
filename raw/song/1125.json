@@ -1,16 +1,1 @@
-{
-  "title": "Candle in the Wind (1987)",
-  "instanceSlug": 1125,
-  "tags": [
-  ],
-  "genre": "pop",
-  "debut": "1987-12",
-  "playlists": ["tribute"],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer"
-  },
-  "descent-weeks": 3.8,
-  "ascent-weeks": 3.9,
-  "peak": 0.145
-}
+{"title":"Candle in the Wind (1987)","instanceSlug":1125,"tags":[],"genre":"pop","debut":"1987-12","playlists":["tribute"],"artists":{"elton-john":true,"bernie-taupin":"writer"},"descent-weeks":0.157137037037037,"ascent-weeks":3.9,"peak":0.145}

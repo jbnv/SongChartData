@@ -1,18 +1,1 @@
-{
-  "title": "Daniel",
-  "instanceSlug": "2402",
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": 1973,
-  "playlists": [],
-  "ranks": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "descent-weeks": 12.82699275467775,
-  "ascent-weeks": 4.3,
-  "peak": 0.481
-}
+{"title":"Daniel","instanceSlug":"2402","tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"ranks":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"descent-weeks":3.9136976873827845,"ascent-weeks":4.3,"peak":0.481}

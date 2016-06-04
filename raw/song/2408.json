@@ -1,15 +1,1 @@
-{
-  "title": "Someone Saved My Life Tonight",
-  "instanceSlug": "2408",
-  "tags": [],
-  "genre": "soft-rock",
-  "debut": 1975,
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "descent-weeks": 12.430771787720909,
-  "ascent-weeks": 4.2297786796955075,
-  "peak": 0.48072277084423454
-}
+{"title":"Someone Saved My Life Tonight","instanceSlug":"2408","tags":[],"genre":"soft-rock","debut":1975,"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"descent-weeks":3.6873840265490023,"ascent-weeks":4.2297786796955075,"peak":0.48072277084423454}

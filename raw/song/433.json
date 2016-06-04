@@ -1,16 +1,1 @@
-{
-  "title": "Sad Songs (Say So Much)",
-  "instanceSlug": 433,
-  "tags": [],
-  "genre": "pop",
-  "debut": "1984-07",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "chris-thomas":"producer"
-  },
-  "descent-weeks": 11.362822349570202,
-  "ascent-weeks": 4,
-  "peak": 0.698
-}
+{"title":"Sad Songs (Say So Much)","instanceSlug":433,"tags":[],"genre":"pop","debut":"1984-07","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","chris-thomas":"producer"},"descent-weeks":4.512829065186247,"ascent-weeks":4,"peak":0.698}

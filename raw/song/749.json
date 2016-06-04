@@ -1,15 +1,1 @@
-{
-  "title": "Suddenly Last Summer",
-  "instanceSlug": 749,
-  "tags": [],
-  "parents": [],
-  "genre": "rock",
-  "debut": "1983-09",
-  "playlists": [],
-  "artists": {
-    "motels": true
-  },
-  "peak": 0.88,
-  "ascent-weeks": 2.8,
-  "descent-weeks": 12.6
-}
+{"title":"Suddenly Last Summer","instanceSlug":749,"tags":[],"parents":[],"genre":"rock","debut":"1983-09","playlists":[],"artists":{"motels":true},"peak":0.88,"ascent-weeks":2.8,"descent-weeks":6.324266666666666}

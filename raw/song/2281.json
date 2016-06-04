@@ -1,16 +1,1 @@
-{
-  "title": "Rocket",
-  "instanceSlug": 2281,
-  "tags": [],
-  "parents": [],
-  "genre": "metal",
-  "debut": "1989-04",
-  "playlists": ["space"],
-  "artists": {
-    "def-leppard": true
-  },
-
-  "peak": 0.55,
-  "ascent-weeks": 3.5,
-  "descent-weeks": 11.8
-}
+{"title":"Rocket","instanceSlug":2281,"tags":[],"parents":[],"genre":"metal","debut":"1989-04","playlists":["space"],"artists":{"def-leppard":true},"peak":0.55,"ascent-weeks":3.5,"descent-weeks":3.6776666666666675}

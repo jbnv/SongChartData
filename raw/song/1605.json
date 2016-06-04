@@ -1,15 +1,1 @@
-{
-  "title": "I Like It",
-  "instanceSlug": 1605,
-  "tags": [
-  ],
-  "genre": "soul",
-  "debut": "1983-04",
-  "playlists": [],
-  "artists": {
-    "debarge": true
-  },
-  "peak": 0.5,
-  "ascent-weeks": 3.665116279069767,
-  "descent-weeks": 7.4
-}
+{"title":"I Like It","instanceSlug":1605,"tags":[],"genre":"soul","debut":"1983-04","playlists":[],"artists":{"debarge":true},"peak":0.5,"ascent-weeks":3.665116279069767,"descent-weeks":1.5163307493540052}

@@ -1,15 +1,1 @@
-{
-  "title": "Crumblin' Down",
-  "instanceSlug": 2244,
-  "tags": [],
-  "parents": [],
-  "genre": "rock",
-  "debut": "1983-11",
-  "playlists": [],
-  "artists": {
-    "john-mellancamp": true
-  },
-  "peak": 0.85,
-  "ascent-weeks": 2.65,
-  "descent-weeks": 11.9
-}
+{"title":"Crumblin' Down","instanceSlug":2244,"tags":[],"parents":[],"genre":"rock","debut":"1983-11","playlists":[],"artists":{"john-mellancamp":true},"peak":0.85,"ascent-weeks":2.65,"descent-weeks":5.450861111111112}

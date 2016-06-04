@@ -1,16 +1,1 @@
-{
-  "title": "Levon",
-  "instanceSlug": "levon",
-  "tags": [],
-  "genre": "pop",
-  "debut": 1971,
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "descent-weeks": 2,
-  "ascent-weeks": 4,
-  "peak": 0.15
-}
+{"title":"Levon","instanceSlug":"levon","tags":[],"genre":"pop","debut":1971,"playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"descent-weeks":0.06666666666666667,"ascent-weeks":4,"peak":0.15}

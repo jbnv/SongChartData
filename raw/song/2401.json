@@ -1,17 +1,1 @@
-{
-  "title": "Crocodile Rock",
-  "instanceSlug": 2401,
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": 1973,
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "descent-weeks": 12,
-  "ascent-weeks": 4.2297786796955075,
-  "peak": 0.48
-}
+{"title":"Crocodile Rock","instanceSlug":2401,"tags":[],"parents":[],"genre":"pop","debut":1973,"playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"descent-weeks":3.4623527850017073,"ascent-weeks":4.2297786796955075,"peak":0.48}

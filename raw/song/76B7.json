@@ -1,16 +1,1 @@
-{
-  "title": "Girls on Film",
-  "instanceSlug": "76B7",
-  "tags": [],
-  "parents": [],
-  "genre": "pop",
-  "debut": 1982,
-  "playlists": [],
-  "artists": {
-    "duran-duran": true,
-    "simon-lebon": "lead"
-  },
-  "peak": 0.58,
-  "ascent-weeks": 3,
-  "descent-weeks": 10.5
-}
+{"title":"Girls on Film","instanceSlug":"76B7","tags":[],"parents":[],"genre":"pop","debut":1982,"playlists":[],"artists":{"duran-duran":true,"simon-lebon":"lead"},"peak":0.58,"ascent-weeks":3,"descent-weeks":3.044999999999999}

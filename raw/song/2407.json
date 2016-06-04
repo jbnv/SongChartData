@@ -1,15 +1,1 @@
-{
-  "title": "Philadelphia Freedom",
-  "instanceSlug": "2407",
-  "tags": [],
-  "genre": "pop",
-  "debut": 1975,
-  "playlists": ["places"],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin": "writer"
-  },
-  "peak": 0.65,
-  "ascent-weeks": 4.3,
-  "descent-weeks": 7
-}
+{"title":"Philadelphia Freedom","instanceSlug":"2407","tags":[],"genre":"pop","debut":1975,"playlists":["places"],"artists":{"elton-john":true,"bernie-taupin":"writer"},"peak":0.65,"ascent-weeks":4.3,"descent-weeks":1.9042592592592595}

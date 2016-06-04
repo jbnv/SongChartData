@@ -1,1 +1,14 @@
-{"title":"I Go Crazy","instanceSlug":"pdavis01","tags":[],"parents":[],"debut":"1977-11","playlists":[],"artists":{"paul-davis":true},"ascent":[0.212,0.65,0.8],"descent-weeks":15,"ascent-weeks":3.1162499999999995,"peak":0.8}
+{
+  "title": "I Go Crazy",
+  "instanceSlug": "pdavis01",
+  "tags": [],
+  "parents": [],
+  "debut": "1977-11",
+  "playlists": [],
+  "artists": {
+    "paul-davis": true
+  },
+  "descent-weeks": 8,
+  "ascent-weeks": 3,
+  "peak": 0.8
+}

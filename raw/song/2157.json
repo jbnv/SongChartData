@@ -1,15 +1,1 @@
-{
-  "title": "Pinball Wizard",
-  "instanceSlug": 2157,
-  "tags": [],
-  "genre": "art-rock",
-  "debut": 1969,
-  "playlists": [],
-  "artists": {
-    "who": true,
-    "pete-townsend":"writer"
-  },
-  "descent-weeks": 6.27653631284916,
-  "ascent-weeks": 3.6871508379888267,
-  "peak": 0.537
-}
+{"title":"Pinball Wizard","instanceSlug":2157,"tags":[],"genre":"art-rock","debut":1969,"playlists":[],"artists":{"who":true,"pete-townsend":"writer"},"descent-weeks":1.2438002793296083,"ascent-weeks":3.6871508379888267,"peak":0.537}

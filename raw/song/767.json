@@ -1,16 +1,1 @@
-{
-  "title": "Stone Love",
-  "instanceSlug": 767,
-  "tags": [],
-  "parents": [],
-  "genre": "soul",
-  "debut": "1987-03",
-  "playlists": [],
-  "artists": {
-    "koolnthegang": true,
-    "kool": "member"
-  },
-  "peak": 0.52,
-  "ascent-weeks": 3,
-  "descent-weeks":7
-}
+{"title":"Stone Love","instanceSlug":767,"tags":[],"parents":[],"genre":"soul","debut":"1987-03","playlists":[],"artists":{"koolnthegang":true,"kool":"member"},"peak":0.52,"ascent-weeks":3,"descent-weeks":1.348148148148148}

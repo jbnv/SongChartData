@@ -1,18 +1,1 @@
-{
-  "title": "Allentown",
-  "instanceSlug": 288,
-  "tags": [
-
-  ],
-  "parents": [],
-  "genre": "pop",
-  "debut": "1983-01",
-  "playlists": ["commentary",
-  "places"],
-  "artists": {
-    "billy-joel": true
-  },
-  "peak": 0.96,
-  "ascent-weeks": 3.25,
-  "descent-weeks": 11
-}
+{"title":"Allentown","instanceSlug":288,"tags":[],"parents":[],"genre":"pop","debut":"1983-01","playlists":["commentary","places"],"artists":{"billy-joel":true},"peak":0.96,"ascent-weeks":3.25,"descent-weeks":5.573333333333332}

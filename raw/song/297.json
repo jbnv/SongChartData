@@ -1,1 +1,16 @@
-{"title":"Tell Me When","instanceSlug":297,"tags":[],"genre":"electro-pop","debut":"1995-04","playlists":[],"artists":{"human-league":true,"phil-oakey":"lead"},"note":"Project 10 weeks at #1.","ascent":[0.6,1],"descent-weeks":20,"ascent-weeks":2.4000000000000004,"peak":1}
+{
+  "title": "Tell Me When",
+  "instanceSlug": 297,
+  "tags": [],
+  "genre": "electro-pop",
+  "debut": "1995-04",
+  "playlists": [],
+  "artists": {
+    "human-league": true,
+    "phil-oakey": "lead"
+  },
+  "note": "Project 10 weeks at #1.",
+  "descent-weeks": 17.6,
+  "ascent-weeks": 1.4,
+  "peak": 1
+}

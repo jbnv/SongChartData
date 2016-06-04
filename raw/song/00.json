@@ -1,17 +1,1 @@
-{
-  "title": "Say Say Say",
-  "instanceSlug": "00",
-  "tags": [],
-  "genre": "pop",
-  "debut": "1983-10",
-  "artists": {
-    "paul-mccartney": true,
-    "michael-jackson": true,
-    "george-martin": "producer"
-  },
-  "note": "Project 6 weeks at #1.",
-  "complete": true,
-  "peak": 1,
-  "ascent-weeks": 1.9,
-  "descent-weeks": 13.4
-}
+{"title":"Say Say Say","instanceSlug":"00","tags":[],"genre":"pop","debut":"1983-10","artists":{"paul-mccartney":true,"michael-jackson":true,"george-martin":"producer"},"note":"Project 6 weeks at #1.","complete":true,"peak":1,"ascent-weeks":1.9,"descent-weeks":7.593333333333334}

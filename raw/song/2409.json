@@ -1,18 +1,1 @@
-{
-  "title": "Island Girl",
-  "instanceSlug": 2409,
-  "tags": [],
-  "parents": [],
-  "genres": ["rock","disco"],
-  "debut": "1975-10",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,
-    "bernie-taupin":"writer",
-    "gus-dudgeon":"producer"
-  },
-  "complete":true,
-  "peak": 0.983,
-  "ascent-weeks": 2.655137334689725,
-  "descent-weeks":13
-}
+{"title":"Island Girl","instanceSlug":2409,"tags":[],"parents":[],"genres":["rock","disco"],"debut":"1975-10","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","gus-dudgeon":"producer"},"complete":true,"peak":0.983,"ascent-weeks":2.655137334689725,"descent-weeks":7.409518518518517}

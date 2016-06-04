@@ -1,18 +1,1 @@
-{
-  "title": "Something About the Way You Look Tonight",
-  "instanceSlug": 2420,
-  "tags": [
-    "#1",
-    "#1-adult-contemporary"
-  ],
-  "genre": "adult-contemporary",
-  "debut": "1997-10",
-  "playlists": [],
-  "artists": {
-    "elton-john": true,    "bernie-taupin":"writer"
-,    "chris-thomas":"producer"
-  },
-  "descent-weeks": 11,
-  "ascent-weeks": 4.319356898651695,
-  "peak": 0.481
-}
+{"title":"Something About the Way You Look Tonight","instanceSlug":2420,"tags":["#1","#1-adult-contemporary"],"genre":"adult-contemporary","debut":"1997-10","playlists":[],"artists":{"elton-john":true,"bernie-taupin":"writer","chris-thomas":"producer"},"descent-weeks":3.002026568546893,"ascent-weeks":4.319356898651695,"peak":0.481}

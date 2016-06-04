@@ -1,15 +1,1 @@
-{
-  "title": "Victory",
-  "instanceSlug": 766,
-  "tags": [],
-  "genre": "funk",
-  "debut": "1986-12",
-  "playlists": [],
-  "artists": {
-    "koolnthegang": true,
-    "kool": "member"
-  },
-  "descent-weeks": 12.467889908256877,
-  "ascent-weeks": 4,
-  "peak": 0.545
-}
+{"title":"Victory","instanceSlug":766,"tags":[],"genre":"funk","debut":"1986-12","playlists":[],"artists":{"koolnthegang":true,"kool":"member"},"descent-weeks":4.144418960244646,"ascent-weeks":4,"peak":0.545}

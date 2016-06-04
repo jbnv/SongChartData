@@ -1,18 +1,1 @@
-{
-  "title": "Let's Go Dancing",
-  "instanceSlug": 2518,
-  "tags": [],
-  "genre": "funk",
-  "debut": "1982-12",
-  "playlists": [
-    "pph"
-  ],
-  "ranks": [],
-  "artists": {
-    "koolnthegang": true,
-    "kool": "member"
-  },
-  "descent-weeks": 14,
-  "ascent-weeks": 3,
-  "peak": 0.4848571428571429
-}
+{"title":"Let's Go Dancing","instanceSlug":2518,"tags":[],"genre":"funk","debut":"1982-12","playlists":["pph"],"ranks":[],"artists":{"koolnthegang":true,"kool":"member"},"descent-weeks":4.2739259259259255,"ascent-weeks":3,"peak":0.4848571428571429}
