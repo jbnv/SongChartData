@@ -1,9 +1,14 @@
 // Methods for sorting, filtering and transforming data for display.
 // This file should be the same between the data and the app.
 
+function _transformTitle(t) {
+  t = ("" + t).replace(/[^\w\s]/g,"").replace(/^((The )|(A )|(An ))/,"");
+  return t;
+}
+
 exports.sortByTitle = function(a,b) {
-  var titleA = (""+(a || {}).title).replace(/[^\w\s]/g,"");
-  var titleB = (""+(b || {}).title).replace(/[^\w\s]/g,"");
+  var titleA = _transformTitle((a || {}).title);
+  var titleB = _transformTitle((b || {}).title);
   return titleA < titleB ? -1 : 1;
 }
 
