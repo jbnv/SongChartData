@@ -43,6 +43,17 @@ exports.score = function(song,scoringOptions) {
     (ascentWeeks+descentWeeks) * 7 / 30.4375
   );
 
+  song.denominator = function(w) {
+    return w < ascentWeeks ? ascentWeeks : descentWeeks;
+  }
+
+  // w0, w1: start week, end week
+  song.scoreFn = function(w0,w1) {
+    var a1 = Math.pow(w1-ascentWeeks,3)/this.denominator(w1)/this.denominator(w1)/3;
+    var a0 = Math.pow(w0-ascentWeeks,3)/this.denominator(w0)/this.denominator(w0)/3;
+    return this.peak * (w1 - w0 - a1 + a0);
+  }
+
 	return song;
 }
 
